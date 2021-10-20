@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/rg_43_1">rg_43_1</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Records of the Student Army Training Corps <num>RG.43.1</num></titleproper>
+        <author>Daniel Soyer and Steven A. Walker. Additional description and arrangement by Shannon McDonald.</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from satc02KS.xml</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 20:51:55 -0400</date>.</creation>
+      <langusage>Finding aid written in English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>May 2019</date>
+        <item>Updated by Jacqueline Rider to include ROTC at NYU materials and for compliance with DACS and ACM Required Elements for Archival Description</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Records of the Student Army Training Corps</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Brown, Marshall Stewart, 1870-1948</persname>
+      </origination>
+      <unitid>RG.43.1</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.25 Linear Feet</extent>
+        <extent altrender="carrier">(6 boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1916/1969" type="inclusive">1916-1969</unitdate>
+      <physloc id="aspace_b9500cde58942e11737bfc464c938c9f">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <abstract id="aspace_dc90e2cf693277d4bb992a6fb98e82cd">The records of the Student Army Training Corps Program (SATC) unit are part of the papers of Dean Marshall S. Brown, who served as chairman of New York University's (NYU's) SATC Committee from September 1918 to Spring 1919. The material includes both internal and external correspondence and memoranda, mainly between the members of NYU's SATC Committee and officials in various government departments.</abstract>
+      <langmaterial id="aspace_59821cc981f4f7cfb087ba33a040a524">Materials are in English.</langmaterial>
+    </did>
+    <separatedmaterial id="aspace_9c60e7427f27201f87b0806caf966b4a">
+      <head>Separated Material</head>
+      <p>Several items, including a photograph entitled "Presenting the Flag", have been removed from the collection.</p>
+    </separatedmaterial>
+    <relatedmaterial id="aspace_7ad068f6af7fa8d6924a42ce8532f265">
+      <head>Related Material at the New York University Archives         </head>
+      <p>Charles H. Snow Collection on NYU During World War I, MC 25;
+William Bryans Papers, MC 29</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_550ed2a6ee3b26862d4a958bff76ba7b">
+      <head>Scope and Contents</head>
+      <p>The records of the Student Army Training Corps unit at NYU are part of the papers of Dean Marshall S. Brown, who served as chairman of NYU's SATC Committee from September 1918 to the following spring. The material includes both internal and external correspondence and memoranda, mainly between the members of NYU's SATC Committee and officials in various government departments. Also included are War Department circulars, reports on the condition of the detachment and progress of work, general and special military orders, SATC course handbooks, rosters, and lists of personnel. The bulk of the material falls in the period between March 1918 and December 1918, the period in which the National Army Training Detachment and, later, the SATC were active. However, exploratory material began as early as February 1917, and material relating to the settlement of contracts with the War Department, dismantling of facilities and evaluation of the program extends to June 1919. In addition, there is material relating to the establishment of the Reserve Officer Training Corps (ROTC), which covers the period from May 1918 to 1969.</p>
+      <p>World War I and the Student Army Training Corps are benchmarks in the history of cooperation between the military and educational institutions. The NYU SATC records include material that sheds light on that relationship, including contracts between NYU and the government; material on the development of curricula, most significantly the "War Issues" course; and memoranda offering suggestions for the final report submitted "for the historical record" to the War Department, as well as a copy of the complete report. Announcements, statements of policy, and committee minutes also provide information on the University's participation in the war effort.</p>
+      <p>Much of the material relates to the day-to-day functioning of the organization. There are highly detailed accounts of the numerical strength of the unit, including daily reports of "changes" in officers and enlisted personnel, muster rolls, and bi-weekly reports of unit strength. These and other rosters and lists of students and applicants shed light on the make-up of the student body and those participating in the program. Letters of application, and applications for discharge often include information on the individual's family and financial status, and provide further indication of the student body and its attitude toward the program.</p>
+      <p>The large amount of circulars, memoranda, and announcements from the War Department Committee on Education and Special Training, and its district offices, as well as the special organizational chart outlining the activities of the National Army Training Detachment and the SATC, provide information on how the NYU unit fit into the national SATC effort.</p>
+    </scopecontent>
+    <bioghist id="aspace_56e25ea6a938eadf39222e9162d4b199">
+      <head>History of the Student Army Training Corps at New York University</head>
+      <p>The Student Army Training Corps (SATC) at New York University was part of a nationwide program initiated by the Committee on Education and Special Training of the War Department during World War I. Begun in the spring of 1918 as the National Army Training Detachments, it was demobilized the following December after the Armistice.</p>
+      <p>In April 1918 the National Army Training Detachments program was established at 157 colleges, universities, and trade schools under contract with the War Department. The program was designed to train draftees in a variety of trades needed for the war effort, and was jointly administered by the military and the schools. The proposed Student Army Training Corps, according to one historian, would serve to develop "as a great military asset the large body of young men in the colleges and ... [to prevent] unnecessary and wasteful depletion of the colleges through indiscriminate volunteering, by offering the student a definite and immediate military status." (Gruber, <emph render="italic">Mars and Minerva</emph>, p. 215)</p>
+      <p>Even before the training detachments got underway, the Army realized it lacked the required officers. At the same time, colleges were concerned about the depletion of students by the war and the attendant financial loss, which was only partially redressed by the vocational program. NYU in particular had been financially dependent to a large degree on tuition, much of which was lost by student enlistment.</p>
+      <p>At NYU Captain (later Major) William S. Maulsby was the military program commander, and Charles Snow, dean of the College of Engineering, was the civilian director of the National Army Training Detachment. Fifteen committees, made up of faculty and staff of the University, were appointed to administer specific areas. The school agreed to provide the soldiers with instruction, food, and quarters. The government, in turn, agreed to reimburse the University a fixed amount per soldier.</p>
+      <p>The first group of soldiers arrived on April 11 and, together with later inductees, received instruction geared toward becoming auto mechanics, blacksmiths, carpenters, chauffeurs, concrete workers, electricians, machinists, and radio operators. During a two-month period, the men received training in their trades, military instruction and, beginning in July, a course on "War Issues." </p>
+      <p>At the beginning of the fall semester, 524 institutions enrolled about 140,000 men into SATC units. At that time, the National Army Training Detachments were absorbed into SATC as Section B vocationals. In all, between April 11 and demobilization on December 19, 1918, 1,613 men took part in this section at NYU.</p>
+      <p>NYU agreed to accept 2,000 men. The NYU SATC unit eventually enrolled 1,564 student-soldiers in two divisions: 1,288 at University Heights and 276 at University and Bellevue Hospital Medical College. Marshall S. Brown, dean of Faculties, was appointed chairman of the SATC Committee and Archibald L. Bouton, dean of the College of Arts and Pure Science, became head of Section A (academics), while Dean Snow continued as head of Section B (vocationals), and Captain Maulsby remained as military commander.</p>
+      <p>Unlike the "Fighting Mechanics" of the Training Detachments, the collegiate or Section A SATC students were required to fulfill the requirements for college admission and to be accepted as matriculated students by the schools they attended. Inducted as privates in the regular army and subject to military discipline, the student-soldiers lived in barracks, ate at mess and were accorded a monthly allowance of $30 in addition to having their tuition paid. They were to receive a total of 42 hours of "essential" and "allied" subjects while also performing military drill for 11 hours per week. Essential courses included "military law and practice," "hygiene and sanitation," "surveying and map making," "modern ordinance," and the "war issues" course. At the end of their studies (between one and three terms, depending on age), the students were assigned to officer or non-commissioned officer training programs, a depot brigade, or permitted further study in engineering, medicine, or law. </p>
+      <p>The Armistice interrupted the work of the SATC shortly after it began. After some debate over whether or not it should be continued, the SATC was demobilized on December 19, 1918. Within six months, the work of demobilization and fulfilling contracts between the government and the schools was completed. </p>
+    </bioghist>
+    <prefercite id="aspace_5941cf70e40f2564fb6ffe5dc7b92247">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: Identification of item, date (if known); Records of the Student Army Training Corps; RG 43.1; box number; folder number; New York University Archives, New York University Libraries.</p>
+    </prefercite>
+    <userestrict id="aspace_ccb2343103d0eedf60c0c0fc7a595c19">
+      <head>Conditions Governing Use</head>
+      <p>Administrative records and unpublished reports of New York University are closed for a period of 20 years from the date of their creation. Access to files spanning multiple years will be opened to researchers based on the date of the most recent materials. Board of Trustees records are closed for 35 years from the date of creation.  Materials related to personnel, grievances, job and fellowship searches and applications, and all files that fall under the federal Family Educational Rights and Privacy Act (FERPA) are permanently restricted.  Additional restrictions may apply to other materials in this collection.  For questions regarding specific restrictions, please contact the University Archives.</p>
+    </userestrict>
+    <acqinfo id="aspace_c735cb67034b46d34efa3a6b282a774c">
+      <head>Immediate Source of Acquisition</head>
+      <p>The SATC program records were presumably transferred to Gould Memorial Library on the University Heights campus of NYU from the Dean of Faculties, Marshall S. Brown. They remained in storage until 1974, when they were transferred to Washington Square following the closing of the Heights campus.</p>
+    </acqinfo>
+    <arrangement id="aspace_30c3222dcc0bf720c6558aa9f9f4400a">
+      <head>Arrangement</head>
+      <p>This collection is arranged chronologically in three series:</p>
+      <p>Series I: Interdepartmental Correspondence and Memoranda; Series II: Administrative Files; Series III: Reports and Memoranda</p>
+    </arrangement>
+    <accessrestrict id="aspace_f3d0e9843fa73856a33a111e112f051d">
+      <head>Conditions Governing Access</head>
+      <p>Material pertaining to individual student records may be restricted in accordance with the Family Educational Rights and Privacy Act (FERPA). Please contact the Archives with specific questions regarding access to such records.</p>
+    </accessrestrict>
+    <processinfo id="aspace_43a6ee9068e40937a2a96755f22fae96">
+      <head>Processing Information</head>
+      <p>Decisions regarding arrangement, description, and physical interventions for this collection before 2019 are unknown.</p>
+    </processinfo>
+    <bibliography id="aspace_79f2006f1f12c02d612ec9416b3143f4">
+      <head>Sources</head>
+      <bibref>Brown, Marshall S. "Report to the War Department of the Chairman of the Committee on the Students' Army Training Corps," in <title ns2:type="simple" render="italic">New York University. Report of Officers, 1918-1919</title> (New York, 1919) pp. 69-85.</bibref>
+      <bibref>Gruber, Carol S. <title ns2:type="simple" render="italic">Mars and Minerva: World War I and the Uses of Higher Learning in America.</title> (Baton Rouge, 1975).</bibref>
+      <bibref>Report of the Chancellor. "Military Training" in <title ns2:type="simple" render="italic">New York University. Report of Officers, 1918-1919</title> (New York, 1919) pp.14-15.</bibref>
+      <bibref><title ns2:type="simple" render="italic">Report of the Treasurer in New York University, Report of Officers, 1918-1919</title> (New York, 1919) pp. 29-31.</bibref>
+      <bibref>Snow, Charles Henry. <title ns2:type="simple" render="italic">The Camp on Campus: The Great War as Observed from a College.</title> Unpublished Manuscript, NYU Archives.</bibref>
+    </bibliography>
+    <controlaccess>
+      <genreform source="aat">Organizational charts.</genreform>
+      <genreform source="aat">Curricula.</genreform>
+      <subject source="lcsh">World War, 1914-1918</subject>
+      <subject source="lcsh">Military discharges.</subject>
+      <subject source="lcsh">Military education -- United States -- History -- 20th century</subject>
+      <genreform source="aat">Orders (military records).</genreform>
+      <genreform source="aat">Muster rolls.</genreform>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <genreform source="aat">Contracts</genreform>
+      <corpname source="naf">United States. War Department. Committee on Education and Special Training</corpname>
+      <corpname source="naf">New York University. College of Medicine</corpname>
+      <corpname source="naf">United States. Army. Students' Army Training Corps</corpname>
+      <persname source="naf">Bouton, Archibald Lewis, 1872-1941</persname>
+      <persname rules="dacs" source="naf">Brown, Elmer Ellsworth, 1861-1934</persname>
+      <persname rules="dacs" source="local">Maulsby, William S.</persname>
+      <corpname source="naf">New York University -- Students</corpname>
+      <corpname rules="dacs" source="local">New York University. National Army Training Detachment</corpname>
+      <corpname rules="dacs" source="local">New York University. Reserve Officer Training Corps</corpname>
+      <persname rules="dacs" source="naf">Snow, Charles H. (Charles Henry), 1863-1957</persname>
+      <corpname rules="dacs" source="local">New York University. School of Applied Science</corpname>
+      <corpname rules="dacs" source="local">New York University. Student Army Training Corps</corpname>
+      <corpname rules="dacs" source="local">New York University. Washington Square College of Arts and Science</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref18" level="series">
+        <did>
+          <unittitle>Series I: Interdepartmental Correspondence and Memoranda</unittitle>
+          <unitdate datechar="creation" normal="1916/1919" type="inclusive">1916-1919</unitdate>
+        </did>
+        <scopecontent id="aspace_b9ae65011bd78524b2f18a84afa47f46">
+          <head>Scope and Contents note</head>
+          <p>Series includes internal and external communication between the members of the New York University Student Army Training Committee (SATC) and officers of various governmental departments.</p>
+        </scopecontent>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Snow, Charles H.</unittitle>
+            <unitdate datechar="creation" normal="1916/1919" type="inclusive">1916 Jan - 1919 May</unitdate>
+            <container id="aspace_90afec34522b749b5ad298158dc3f80b" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_02175b73d5684b6c1b180284920dc13a" parent="aspace_90afec34522b749b5ad298158dc3f80b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="item">
+          <did>
+            <unittitle>Treasury Department</unittitle>
+            <unitdate datechar="creation" normal="1916/1919" type="inclusive">1916 Dec - 1919 Jan</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_dd32ca907b84d433ef34a2be05071182" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_aa7a29eebf92c1d43f3a42206a4fae5d" parent="aspace_dd32ca907b84d433ef34a2be05071182" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Brown, Elmer E.</unittitle>
+            <unitdate datechar="creation" normal="1917/1919" type="inclusive">1917 - 1919</unitdate>
+            <container id="aspace_68b07e1f869e07928afc673b300f8da9" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_1763ff62ef843b610c1a4428742df4a2" parent="aspace_68b07e1f869e07928afc673b300f8da9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Adjutant General</unittitle>
+            <unitdate datechar="creation" normal="1918/1919" type="inclusive">1918 - 1919</unitdate>
+            <container id="aspace_8ff44c5dd104b27af63625617c05b929" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_d01219d8fc40b6961e4bc0aa62b7c50b" parent="aspace_8ff44c5dd104b27af63625617c05b929" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Brown, Elmer E.</unittitle>
+            <unitdate datechar="creation" normal="1918/1919" type="inclusive">1918-1919</unitdate>
+            <container id="aspace_0513ac97d2782941c0149ee363d609b6" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_86319edfc104d9da133a6075999bd939" parent="aspace_0513ac97d2782941c0149ee363d609b6" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>District #2</unittitle>
+            <unitdate datechar="creation" normal="1918/1919" type="inclusive">1918-1919</unitdate>
+            <container id="aspace_57f37dd205423b72db47243887a077ba" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_e57c5cf6525fc964c2a246af7757a7b8" parent="aspace_57f37dd205423b72db47243887a077ba" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>CEST, General Staff Corps</unittitle>
+            <unitdate datechar="creation" normal="1918/1919" type="inclusive">1918-1919</unitdate>
+            <container id="aspace_571558fbfbcf62b94c6aa1c3769a8939" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_79262a23a9092e1c08279ca49fbf315a" parent="aspace_571558fbfbcf62b94c6aa1c3769a8939" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Eastern Department</unittitle>
+            <unitdate datechar="creation" normal="1918/1919" type="inclusive">1918-1919</unitdate>
+            <container id="aspace_58cdb1773d75781ca6bce7b1c4c3e180" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_0c733091a1fd9224c13959e260a05ec6" parent="aspace_58cdb1773d75781ca6bce7b1c4c3e180" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>War Department, Office of the Chief Signal Officer</unittitle>
+            <unitdate datechar="creation">1918 Jan</unitdate>
+            <container id="aspace_ff8c070f4811d0e3638867bbdee1c7d0" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_06ee8e407153d41fc91f0d33dd315812" parent="aspace_ff8c070f4811d0e3638867bbdee1c7d0" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Brown, Marshall S. [SATC Committee Chairman]</unittitle>
+            <unitdate datechar="creation">1918 Feb-1918 Dec</unitdate>
+            <container id="aspace_8f0315761c3e3b7a16ccd0eab5754ab8" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_4a9136eef2cc615a0ae15946b52d5f70" parent="aspace_8f0315761c3e3b7a16ccd0eab5754ab8" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>University Heights</unittitle>
+            <unitdate datechar="creation">1918 Apr-1918 Oct</unitdate>
+            <container id="aspace_5a84cce92422e6bb8f8c2cac01eae407" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_88737a2c63fcc470f9374a1fe61f9dee" parent="aspace_5a84cce92422e6bb8f8c2cac01eae407" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>U. S. Army Hospital #1</unittitle>
+            <unitdate datechar="creation">1918 May-1918 Aug</unitdate>
+            <container id="aspace_f0140dea69b3201a62a8d680a9e4b24b" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_ddf511e4d66d6ba92533de7f01e94a82" parent="aspace_f0140dea69b3201a62a8d680a9e4b24b" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="file">
+          <did>
+            <unittitle>Administrative Officer</unittitle>
+            <unitdate datechar="creation">1918 May-1918 September</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_b4f904e7742372ced75db13a5c5ec49e" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_9ba7baaf14221b0103b2c6532a0b3362" parent="aspace_b4f904e7742372ced75db13a5c5ec49e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>American Council on Education: Student War Service Campaign</unittitle>
+            <unitdate datechar="creation">1918 Aug-1918 Dec</unitdate>
+            <container id="aspace_6d004bce04cd3d7209b440ecdecf232a" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_9dd08db4443f1109bb99f4e6a9546eed" parent="aspace_6d004bce04cd3d7209b440ecdecf232a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>CEST, Provost Marshal General's Department</unittitle>
+            <unitdate datechar="creation">1918 Sep-1918 Oct</unitdate>
+            <container id="aspace_0300ccbcad3e6646871fd63b0d0d71a0" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_35d25f6f8fa779004da7390f9d7d151b" parent="aspace_0300ccbcad3e6646871fd63b0d0d71a0" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref155" level="file">
+          <did>
+            <unittitle>Director of College Training</unittitle>
+            <unitdate datechar="creation">1918 Sep-1919 Jul</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_a0c0ba40f087db1fe00c4d1f0a4cd905" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_a5e41b7bc41e9160a62d95cddf912cb5" parent="aspace_a0c0ba40f087db1fe00c4d1f0a4cd905" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Bouton, Archibald</unittitle>
+            <unitdate datechar="creation">1918 Sep-1918 Dec</unitdate>
+            <container id="aspace_2e1135d92f2148a47b8bf7fd36558369" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_7bc995ec54b3f438ae9c666298e70160" parent="aspace_2e1135d92f2148a47b8bf7fd36558369" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Park, Dr. W. H.</unittitle>
+            <unitdate datechar="creation">1918 Sep-1918 Dec</unitdate>
+            <container id="aspace_a8ad7bf3adc27706d6380f6be7629add" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_d58a1735987f0645f8da9377aece846a" parent="aspace_a8ad7bf3adc27706d6380f6be7629add" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Maulsby, Commander W. S.</unittitle>
+            <unitdate datechar="creation">1918 Sep-1918 Nov</unitdate>
+            <container id="aspace_9c7af7f9631ab5cba28a12528e077622" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_0e3f4bbfaceb4590d8dec8b2cfe911c9" parent="aspace_9c7af7f9631ab5cba28a12528e077622" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Brown, Marshall S.,</unittitle>
+            <unitdate datechar="creation">1918 Sep-1918 Oct</unitdate>
+            <container id="aspace_51b6811efcfd49b563a97c42f5835cbd" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_eac0cdaf58d64cafa7137b7ea1055ba6" parent="aspace_51b6811efcfd49b563a97c42f5835cbd" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="file">
+          <did>
+            <unittitle>Administrative Officer</unittitle>
+            <unitdate datechar="creation">1918 Oct</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_92774e292ca4a1bcd8f480ed780cf817" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_eea64baa30c9226ffa2599b4b9124270" parent="aspace_92774e292ca4a1bcd8f480ed780cf817" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="file">
+          <did>
+            <unittitle>Administrative Officer</unittitle>
+            <unitdate datechar="creation">1918 Nov-1918 Dec</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_74bb60fcf562c3a598f913c8b5e790a4" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_2f15be2efe860bd5c89263a14ee70b71" parent="aspace_74bb60fcf562c3a598f913c8b5e790a4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="file">
+          <did>
+            <unittitle>Office of Surgeon General</unittitle>
+            <unitdate datechar="creation">1918 Nov-1918 Dec</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_40bf44e1b1bda124b19b9c6946f97ecf" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_f2c79597f9785d1b3fedb99bcfc5bb75" parent="aspace_40bf44e1b1bda124b19b9c6946f97ecf" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>General Correspondence</unittitle>
+            <unitdate datechar="creation">1918 Nov</unitdate>
+            <container id="aspace_c0050631b7ea1bc8b7a976d0abb15074" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_acc0908b4c3e0c74ce324b2b29eede1d" parent="aspace_c0050631b7ea1bc8b7a976d0abb15074" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>University Heights</unittitle>
+            <unitdate datechar="creation">1918 Nov-1919 Apr</unitdate>
+            <container id="aspace_97dfff76d81ac6ccb41702c096282070" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_e9c276886f61963e2a242d2fe9040003" parent="aspace_97dfff76d81ac6ccb41702c096282070" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>General Correspondence</unittitle>
+            <unitdate datechar="creation">1918 Dec-1919 Jun</unitdate>
+            <container id="aspace_673d93fcaee0924ca2ab3a8dba2b0059" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_14c487985caff93d3e4ee068d6375691" parent="aspace_673d93fcaee0924ca2ab3a8dba2b0059" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>War Department, Zone Finance Office</unittitle>
+            <unitdate datechar="creation">1919 Mar</unitdate>
+            <container id="aspace_62f2e90b924a6a3397f748d9c286752c" label="Mixed Materials [31142046897487]" type="Box">1</container>
+            <container id="aspace_58d104ef8c63ef8dac29be809c16e461" parent="aspace_62f2e90b924a6a3397f748d9c286752c" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref52" level="series">
+        <did>
+          <unittitle>Series II: Administrative Files</unittitle>
+          <unitdate datechar="creation" normal="1917/1969" type="inclusive">1917-1969</unitdate>
+        </did>
+        <scopecontent id="aspace_29f0d59125dfdcdee8652ddbc3de96c6">
+          <head>Scope and Contents note</head>
+          <p>Series includes War Department bulletins, circulars, contracts, discharge orders, general, and special orders. There are also university records such as minutes, organizational charts, maps,  physical descriptions of barracks, information on the courses taught, insight into the liquidation of SATC, and the formation of an ROTC program.</p>
+        </scopecontent>
+        <c id="aspace_ref158" level="series">
+          <did>
+            <unittitle>Office of Surgeon General</unittitle>
+            <unitdate datechar="creation">1918</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4e6ff8c351381046c35a9d300bd74e35" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_2a30bbe6a9ee35883ae84d0cc7adec7e" parent="aspace_4e6ff8c351381046c35a9d300bd74e35" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>SATC Admissions letters of inquiry</unittitle>
+            <unitdate datechar="creation">1918 Sep-1918 Nov</unitdate>
+            <container id="aspace_8d5666f0c302a7960359e89a59bfbb7c" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_d315bef1c6d02a932f01d5bde67f661e" parent="aspace_8d5666f0c302a7960359e89a59bfbb7c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Blank SATC Forms</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_83cedbe974f2fa2833de29f1bf2962dc" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_1bbd4cdcc0b90ec326722c380aad7664" parent="aspace_83cedbe974f2fa2833de29f1bf2962dc" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>SATC Headquarters Eastern Department Bulletin</unittitle>
+            <unitdate datechar="creation">1918 Nov</unitdate>
+            <container id="aspace_bc4f6d768cb766a81068e80606b84e09" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_afe81dea3a5ba5f3afcf737228001029" parent="aspace_bc4f6d768cb766a81068e80606b84e09" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>SATC Headquarters at University Heights Bulletin</unittitle>
+            <unitdate datechar="creation">1918 Sept</unitdate>
+            <container id="aspace_01eb342e57fafedbe6770a386030b467" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_72fa01b01cfeadbc964938f1b67550c3" parent="aspace_01eb342e57fafedbe6770a386030b467" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Committee on Education and Special Training Bulletin</unittitle>
+            <unitdate datechar="creation" normal="1918/1919" type="inclusive">1918 Nov-1919 March </unitdate>
+            <container id="aspace_d44fa309bd4200f9ec70bff99608ea80" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_de1cc6ed76c40f1421fafc2e427159b0" parent="aspace_d44fa309bd4200f9ec70bff99608ea80" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Charge Sheets: NYU SATC Unit</unittitle>
+            <unitdate datechar="creation">1918 Jul-1918 Dec-</unitdate>
+            <container id="aspace_68f16f721aeb7a8b2022a0df4c1094f6" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_1d64b90d9d226ad5adfc8f6fc6964410" parent="aspace_68f16f721aeb7a8b2022a0df4c1094f6" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Certificate, War Dept., Signal Corps - Office of Aviation Examining Board, Physical Examination</unittitle>
+            <unitdate datechar="creation">1918 Nov</unitdate>
+            <container id="aspace_65ce8dfb35f2834aa89873740c40193b" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_0966bcd77be53c65955c16057a9c4893" parent="aspace_65ce8dfb35f2834aa89873740c40193b" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Christmas Committee of New York University: SATC Christmas Card</unittitle>
+            <unitdate datechar="creation">1918 Dec</unitdate>
+            <container id="aspace_aa6f0a60f93076090c83b55ad412540b" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_aa94ab6ac91960e96eba3fea61a49d5b" parent="aspace_aa6f0a60f93076090c83b55ad412540b" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Circulars: SATC Headquarters, District #2</unittitle>
+            <unitdate datechar="creation">1918 Nov-1918 Dec</unitdate>
+            <container id="aspace_ca586b7ceb85a5aa5b8ab9838bcfad2a" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_eb8ffa1ce7ab0fcc9b155f723ce794eb" parent="aspace_ca586b7ceb85a5aa5b8ab9838bcfad2a" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Circulars: War Department, General </unittitle>
+            <unitdate datechar="creation">1918 - 1919</unitdate>
+            <container id="aspace_8a677bc299e55372db61d49c529bdcc8" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_08181b49e632c221b72845e6f6bf8d42" parent="aspace_8a677bc299e55372db61d49c529bdcc8" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Circulars: War Department, Special Descriptive </unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_06b2b3672c50a9da9fa47523b80a6e0c" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_1ef2b467efdc5d30cc3946bfc9ac39ec" parent="aspace_06b2b3672c50a9da9fa47523b80a6e0c" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Contracts: War Department, CEST</unittitle>
+            <unitdate datechar="creation">1918 Mar-1918 Jun</unitdate>
+            <container id="aspace_def52e6887650cb5c433bbacbfa35611" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_6be18e99cad19e7973514b22da241ac4" parent="aspace_def52e6887650cb5c433bbacbfa35611" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Contracts: War Department, Office of Surgeon General</unittitle>
+            <unitdate datechar="creation">1918 - 1919</unitdate>
+            <container id="aspace_6107f0f17cb7b95193baa05b7729806b" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_4281bb7a374565516fbfa4519663e33e" parent="aspace_6107f0f17cb7b95193baa05b7729806b" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Discharge Orders: SATC Headquarters, Eastern Department</unittitle>
+            <unitdate datechar="creation">1918 Dec-1919 Feb</unitdate>
+            <container id="aspace_7891e00c72655a169d03b65e35d82f79" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_c23d1bbd38fc292cd5bc1e2f40d73de3" parent="aspace_7891e00c72655a169d03b65e35d82f79" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Discharge Orders: SATC Headquarters, University Heights</unittitle>
+            <unitdate datechar="creation">1918 Jun-1919 Jan</unitdate>
+            <container id="aspace_4267b22998e8a8ab13cf11462860cfb7" label="Mixed Materials [31142046897495]" type="Box">2</container>
+            <container id="aspace_31f1d7958863054d084f231786eca0d5" parent="aspace_4267b22998e8a8ab13cf11462860cfb7" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>History of SATC at NYU Draft</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_f8f14500c2043b45c9bb3cbff1bfdeb0" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_2dc4bb6eff46af4c875d8715387fc898" parent="aspace_f8f14500c2043b45c9bb3cbff1bfdeb0" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Minutes: Executive Committee of the War Council [War Emergency Conference]</unittitle>
+            <unitdate datechar="creation">1918 Feb-1918 Jun</unitdate>
+            <container id="aspace_5f26915515c81899ab28245b1d2f789d" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_6f4fb4bb32fe9e15b31bc34d25167185" parent="aspace_5f26915515c81899ab28245b1d2f789d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Minutes: University Committee of SATC</unittitle>
+            <unitdate datechar="creation">1918 Sep</unitdate>
+            <container id="aspace_e76684415220df1e69c29563b760ac87" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_44d94e9f4751a863b260409c3983627c" parent="aspace_e76684415220df1e69c29563b760ac87" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Naval Section of SATC</unittitle>
+            <unitdate datechar="creation">1917-1919</unitdate>
+            <container id="aspace_aff363db953c60d91995a3e496b05495" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_df56f6fcc300bb752961eee84c231dac" parent="aspace_aff363db953c60d91995a3e496b05495" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>War Department General Orders</unittitle>
+            <unitdate datechar="creation">1918 Sep-1918 Oct</unitdate>
+            <container id="aspace_dc91abdb90abba888d8dfeae339ef873" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_05bcf5cab4b749b96a13949df222fc87" parent="aspace_dc91abdb90abba888d8dfeae339ef873" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Special orders SATC Headquarters Camp Devens, MA</unittitle>
+            <unitdate datechar="creation">1918 May-1918 Jun</unitdate>
+            <container id="aspace_dfda93d3abb8aab464dc048e72c63ea6" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_b9c802e7a251ebe49677663a9e321c5d" parent="aspace_dfda93d3abb8aab464dc048e72c63ea6" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Special orders SATC Headquarters Camp Plattsburg, NY</unittitle>
+            <unitdate datechar="creation">1918 May-1918 Oct</unitdate>
+            <container id="aspace_43ff8e1fae046823bc692371d35b1656" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_0841ff23a23f0122153384a580b751b7" parent="aspace_43ff8e1fae046823bc692371d35b1656" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Special orders Eastern Department</unittitle>
+            <unitdate datechar="creation">1918-1919</unitdate>
+            <container id="aspace_714cf51675228d7ac7de32ad57f33526" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_21f3a71c2b5d75593133709d67807315" parent="aspace_714cf51675228d7ac7de32ad57f33526" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Special orders University Heights</unittitle>
+            <unitdate datechar="creation">1918-1919</unitdate>
+            <container id="aspace_a985397fecfa6a3d3c529fb2a2fc793e" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_ca2c68b6c2e9436c32f65ca2038df965" parent="aspace_a985397fecfa6a3d3c529fb2a2fc793e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Special orders various camps</unittitle>
+            <unitdate datechar="creation">1918 Apr-1918 Oct</unitdate>
+            <container id="aspace_2a7ed1075498cad27f2c1e08987c90b7" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_8bf5ced05968b7fd77db30f3457a91ff" parent="aspace_2a7ed1075498cad27f2c1e08987c90b7" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Spcial orders War Department, Adjutant General</unittitle>
+            <unitdate datechar="creation">1918 May-1918 Nov</unitdate>
+            <container id="aspace_fd41dbcd70583c83811d0f0ccec86fdf" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_01153f7735ea69813388cd2e3b012913" parent="aspace_fd41dbcd70583c83811d0f0ccec86fdf" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Organization Chart of SATC at NYU</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_208fd939faa9bb2b0798ba4be6915344" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_1688247be2fb077af0330539cd1eb3d7" parent="aspace_208fd939faa9bb2b0798ba4be6915344" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>ROTC Information</unittitle>
+            <unitdate datechar="creation" normal="1918/1921" type="inclusive">1918-1921</unitdate>
+            <container id="aspace_8a2685872395f2de8e7282f437b9255d" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_02ad246c4095d7d8753ea1ac7494ae92" parent="aspace_8a2685872395f2de8e7282f437b9255d" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Selective Service Act Rules and Regulations</unittitle>
+            <unitdate datechar="creation">1918 Sep</unitdate>
+            <container id="aspace_f3e4938ad783be61e6e5345b09b71408" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_5f78572e3c903253d3cc5fa5ec323d53" parent="aspace_f3e4938ad783be61e6e5345b09b71408" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Settlement and Liquidation OF SATC</unittitle>
+            <unitdate datechar="creation">1919 Jan-1919 May</unitdate>
+            <container id="aspace_7f016116864b34934fb6d805b61ed767" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_53075f88909dc7df17e1019243b01c11" parent="aspace_7f016116864b34934fb6d805b61ed767" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Description and Maps of SATC Buildings at NYU</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_dc0cf4130a51a0c7f11321f88b28afc2" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_b6b80220e8c05b0ebf9545c7ab8757a6" parent="aspace_dc0cf4130a51a0c7f11321f88b28afc2" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>SATC Courses: Human Side of Engineering </unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a45b8e0baef1f76dde111906c9cbffaf" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_301bf7aaf3e9b27dd2046b1aa2ddc38d" parent="aspace_a45b8e0baef1f76dde111906c9cbffaf" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>SATC Courses: Machinists</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c1d645539e7f43254d97928e518259a8" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_79fbd0a94e39c83cb777a6f47060520b" parent="aspace_c1d645539e7f43254d97928e518259a8" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>SATC Courses: War Issues, information</unittitle>
+            <unitdate datechar="creation">1918 Jun-1918 Dec</unitdate>
+            <container id="aspace_59df5028eece59a3541d630afcb97057" label="Mixed Materials [31142046897503]" type="Box">3</container>
+            <container id="aspace_0a87fcb13d1585c49e525ae15a299c61" parent="aspace_59df5028eece59a3541d630afcb97057" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_5ae54ba1630503365233b8b918e1ad15" level="file">
+          <did>
+            <unittitle>ROTC at NYU</unittitle>
+            <unitdate datechar="creation" normal="1923/1969" type="inclusive">1923-1969</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_26583d680062759d1ce9ab85607595f8" label="Mixed Materials [31142063069499]" type="Box">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref99" level="series">
+        <did>
+          <unittitle>Series III: Reports and Memoranda</unittitle>
+          <unitdate datechar="creation" normal="1918/1919" type="inclusive">1918-1919</unitdate>
+        </did>
+        <scopecontent id="aspace_bfd13be7192fead894d14b3a32839822">
+          <head>Scope and Contents note</head>
+          <p>Arranged in chronological order. Series includes internal and external communication between the members of the NYU Student Army Training Corpos and officers of various governmental departments.</p>
+        </scopecontent>
+        <c id="aspace_ref104" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Faculty Teaching SATC courses</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3eff9dc12e581104cb9d9da6fc32a611" label="Mixed Materials [31142046897511]" type="Box">4</container>
+            <container id="aspace_7fb17d9e2f551e514a40dffac205e280" parent="aspace_3eff9dc12e581104cb9d9da6fc32a611" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>SATC Student Enrollment</unittitle>
+            <unitdate datechar="creation" normal="1918/1919" type="inclusive">1918-1919</unitdate>
+            <container id="aspace_5b12484a5368631dbf797a9f448866f3" label="Mixed Materials [31142046897511]" type="Box">4</container>
+            <container id="aspace_128d95530ef4e4edbac26e48ea779d62" parent="aspace_5b12484a5368631dbf797a9f448866f3" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>Report of Changes: List of Officers</unittitle>
+            <unitdate datechar="creation" normal="1918/1919" type="inclusive">1918-1919</unitdate>
+            <container id="aspace_1022603d17c7fe6e7d37b143e4b20624" label="Mixed Materials [31142046897529]" type="Box">5</container>
+            <container id="aspace_57c49893f8cf21ef51366e36232b0b0a" parent="aspace_1022603d17c7fe6e7d37b143e4b20624" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>Roster of NYU Training Detachment</unittitle>
+            <unitdate datechar="creation" normal="1918/1919" type="inclusive">1918-1919</unitdate>
+            <container id="aspace_2bf92cc80e64465444caba4c7dbe2ce9" label="Mixed Materials [31142046897529]" type="Box">5</container>
+            <container id="aspace_6588e769aafabcc96aaad1a217ab920b" parent="aspace_2bf92cc80e64465444caba4c7dbe2ce9" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>Statement of Claim for Reimbursement of Costs</unittitle>
+            <unitdate datechar="creation">1918 Mar-1918 Sep</unitdate>
+            <container id="aspace_a34f54ebbb643a2af7f1d8de24ce42eb" label="Mixed Materials [31142046897529]" type="Box">5</container>
+            <container id="aspace_e0e219785d99a25cbf9f581e1f37a3c3" parent="aspace_a34f54ebbb643a2af7f1d8de24ce42eb" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Payroll Reports: General</unittitle>
+            <unitdate datechar="creation">1918 Apr-1918 Jul</unitdate>
+            <container id="aspace_0efbfccf49472ea17ad8a49da6d7e4d8" label="Mixed Materials [31142046897511]" type="Box">4</container>
+            <container id="aspace_83885acbc481fb80acea7ebcdb80ac47" parent="aspace_0efbfccf49472ea17ad8a49da6d7e4d8" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Condition of the Organization Report</unittitle>
+            <unitdate datechar="creation">1918 Apr-1918 Dec</unitdate>
+            <container id="aspace_9c514153e03f3d85f9b4b22c66c08051" label="Mixed Materials [31142046897511]" type="Box">4</container>
+            <container id="aspace_2d01e0588994e3092d9d7f71c415fb42" parent="aspace_9c514153e03f3d85f9b4b22c66c08051" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Muster Roll</unittitle>
+            <unitdate datechar="creation">1918 Apr-1918 Jun</unitdate>
+            <container id="aspace_60fc151ec38ac49874b01dda9dd71a38" label="Mixed Materials [31142046897511]" type="Box">4</container>
+            <container id="aspace_8345688872f0d1e9269af62355d643d4" parent="aspace_60fc151ec38ac49874b01dda9dd71a38" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>School Rating Reports</unittitle>
+            <unitdate datechar="creation">1918 May-1918 Oct</unitdate>
+            <container id="aspace_f924ab43247193b13497390b2093edd9" label="Mixed Materials [31142046897529]" type="Box">5</container>
+            <container id="aspace_59be907e6c3bb1292a9fcf4988dd3372" parent="aspace_f924ab43247193b13497390b2093edd9" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Draft Discharge List</unittitle>
+            <unitdate datechar="creation">1918 Jul-1918 Aug</unitdate>
+            <container id="aspace_a6418b91f2828d0d4e15fc05c9e95b92" label="Mixed Materials [31142046897511]" type="Box">4</container>
+            <container id="aspace_122138ffd177e9c254162901f4260c38" parent="aspace_a6418b91f2828d0d4e15fc05c9e95b92" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Report of Changes: Enlisted Men</unittitle>
+            <unitdate datechar="creation">1918 Jul-1918 Sep</unitdate>
+            <container id="aspace_8d4b2b135715495782039e7e5fe6c345" label="Mixed Materials [31142046897529]" type="Box">5</container>
+            <container id="aspace_9b5fa97989fa5b3a7737d15e1e406349" parent="aspace_8d4b2b135715495782039e7e5fe6c345" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Payroll Reports</unittitle>
+            <unitdate datechar="creation">1918 Aug-1918 Oct</unitdate>
+            <container id="aspace_ad6966a324fd3d993d0799ce7445fde1" label="Mixed Materials [31142046897511]" type="Box">4</container>
+            <container id="aspace_ebc310b402d40797961a6e2204df89fb" parent="aspace_ad6966a324fd3d993d0799ce7445fde1" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Medical Enlisted Reserve Corps members</unittitle>
+            <unitdate datechar="creation">1918 Oct</unitdate>
+            <container id="aspace_52e0bcee554a53931b54dbb98aaa7314" label="Mixed Materials [31142046897511]" type="Box">4</container>
+            <container id="aspace_297ad68163aca5343b7ee412035acf36" parent="aspace_52e0bcee554a53931b54dbb98aaa7314" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Men Inducted into SATC</unittitle>
+            <unitdate datechar="creation">1918 Oct</unitdate>
+            <container id="aspace_9d0ccdc39fe6217b3167ee79691bfcea" label="Mixed Materials [31142046897511]" type="Box">4</container>
+            <container id="aspace_8ebc27310c98d302719c61e3a35c482f" parent="aspace_9d0ccdc39fe6217b3167ee79691bfcea" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Men Recommended for SATC</unittitle>
+            <unitdate datechar="creation">1918 Oct-1918 Nov</unitdate>
+            <container id="aspace_4791557cacff3104d3735152b316271b" label="Mixed Materials [31142046897511]" type="Box">4</container>
+            <container id="aspace_5b8cc2a5e4188e1c2a88ef1caeb28470" parent="aspace_4791557cacff3104d3735152b316271b" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Men rejected as physically unfit for service</unittitle>
+            <unitdate datechar="creation">1918 Oct</unitdate>
+            <container id="aspace_bb184277508fed9c80bf8c99ccea67e5" label="Mixed Materials [31142046897511]" type="Box">4</container>
+            <container id="aspace_00c5f1a272e5fc3b4305d5a759c8f3a7" parent="aspace_bb184277508fed9c80bf8c99ccea67e5" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Students accepted for SATC admission</unittitle>
+            <unitdate datechar="creation">1918 Oct</unitdate>
+            <container id="aspace_5be8138e874dff651d44fb70d52f6fc8" label="Mixed Materials [31142046897511]" type="Box">4</container>
+            <container id="aspace_84d69d41f9776cea3890a5564f92bad0" parent="aspace_5be8138e874dff651d44fb70d52f6fc8" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>Report of Changes: Enlisted Men</unittitle>
+            <unitdate datechar="creation">1918 Oct</unitdate>
+            <container id="aspace_24c11911b16723365ef68e6198c44e73" label="Mixed Materials [31142046897529]" type="Box">5</container>
+            <container id="aspace_b9934a5caaca9b87f8f202a922eac90e" parent="aspace_24c11911b16723365ef68e6198c44e73" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Engineering Students</unittitle>
+            <unitdate datechar="creation">1918 Nov</unitdate>
+            <container id="aspace_1fdee10252ae2cc7fd5786d2a2834f7f" label="Mixed Materials [31142046897511]" type="Box">4</container>
+            <container id="aspace_eff6e112ce4c8133c80930c9e45a41b3" parent="aspace_1fdee10252ae2cc7fd5786d2a2834f7f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Bi-weekly Report to CEST</unittitle>
+            <unitdate datechar="creation">1918 Nov</unitdate>
+            <container id="aspace_12fa7ab1c0d3232ed90f945734181362" label="Mixed Materials [31142046897529]" type="Box">5</container>
+            <container id="aspace_efba06a65db080426c163b6615a923ab" parent="aspace_12fa7ab1c0d3232ed90f945734181362" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Men Receiving Physical Exams</unittitle>
+            <unitdate datechar="creation">1918 Nov-1918 Dec</unitdate>
+            <container id="aspace_5df17945f1aff6d1cedfe58535bfe160" label="Mixed Materials [31142046897511]" type="Box">4</container>
+            <container id="aspace_07f00745096453beeba4c4656da7ad3d" parent="aspace_5df17945f1aff6d1cedfe58535bfe160" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Payroll Reports</unittitle>
+            <unitdate datechar="creation">1918 Nov-1918 Dec</unitdate>
+            <container id="aspace_0a0fc5774adbf8c085a166e433891853" label="Mixed Materials [31142046897511]" type="Box">4</container>
+            <container id="aspace_40f318181cba06fa4c0a746803a9cd41" parent="aspace_0a0fc5774adbf8c085a166e433891853" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Semimonthly Report to CEST</unittitle>
+            <unitdate datechar="creation">1918 Nov-1918 Dec</unitdate>
+            <container id="aspace_4d1c0bc0a87ea32b5e8817c1bcd69923" label="Mixed Materials [31142046897529]" type="Box">5</container>
+            <container id="aspace_256cf0db562bc7a693563685ab41181b" parent="aspace_4d1c0bc0a87ea32b5e8817c1bcd69923" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Final Report, Special Detachments</unittitle>
+            <unitdate datechar="creation">1918 Dec</unitdate>
+            <container id="aspace_bc5bec2b240d1e21cd31bfb306a77d28" label="Mixed Materials [31142046897529]" type="Box">5</container>
+            <container id="aspace_18c16eabac581c906075129282a9f49d" parent="aspace_bc5bec2b240d1e21cd31bfb306a77d28" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Final Report, Companies A - I</unittitle>
+            <unitdate datechar="creation">1918 Dec</unitdate>
+            <container id="aspace_a35fe8052eb310e8ef1d15ad3f270ddc" label="Mixed Materials [31142046897511]" type="Box">4</container>
+            <container id="aspace_0880245757bd106a1e05c04a7c4dcf35" parent="aspace_a35fe8052eb310e8ef1d15ad3f270ddc" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>Report for Historical Record: SATC at NYU</unittitle>
+            <unitdate datechar="creation">1919 Jan</unitdate>
+            <container id="aspace_2436c011c3bb3724872adae75f15959d" label="Mixed Materials [31142046897529]" type="Box">5</container>
+            <container id="aspace_b6a02cdd54ee96130c677999d6f52910" parent="aspace_2436c011c3bb3724872adae75f15959d" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

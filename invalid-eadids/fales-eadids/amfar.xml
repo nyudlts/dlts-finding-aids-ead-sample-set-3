@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F">amfar</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Candida Scott Piel Papers and AmFAR Collection<lb/>1969-2003 (Bulk 1981-2003)<lb/> <num>MSS.142</num></titleproper>
+        <author>Fales Library, 2003.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>2003</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 22:15:21 -0400</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Candida Scott Piel Papers and AmFAR Collection</unittitle>
+      <origination label="Creator">
+        <persname source="local">Piel, Candida Scott</persname>
+      </origination>
+      <unitid>MSS.142</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.25 Linear Feet</extent>
+        <extent altrender="carrier"> (2 document cases, 2 flat boxes, 1 objects box)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1969/2003" type="inclusive">1969-2003</unitdate>
+      <unitdate datechar="creation" normal="1981/2003" type="bulk">1981-2003</unitdate>
+      <abstract id="aspace_596477d5170929553f791ebd5b81e6a5">The Candida Scott Piel Papers and AmFAR Collection contains administrative files, clippings, and ephemera related to Candida Scott Piel and her involvement with the Foundation for AIDS Research (AmFAR).</abstract>
+      <langmaterial id="aspace_5575b1d2b18e2ca526969049502bad24">Materials are in English.</langmaterial>
+    </did>
+    <scopecontent id="aspace_52a251854e9e83ec5b96b2a1a6b72727">
+      <head>Scope and Content</head>
+      <p>The Candida Scott Piel Papers and AmFAR Collection contains administrative files, clippings, and ephemera related to Candida Scott Piel's involvement with the Foundation for AIDS Research (AmFAR) and other AIDS and LGBT outreach initiatives. The materials have been arranged into three series:<lb/><lb/><emph render="bold">Series I: Event Materials</emph> contains items related to specific events which Candida Scott Piel attended, or with which she was involved, including film festivals, LGBT rights events, and political meetings.<lb/><lb/><emph render="bold">Series II: Subject Files</emph> contains clippings and research files unrelated to specific events.<lb/><lb/><emph render="bold">Series III: Ephemera</emph> contains primarily promotional items such as buttons and t-shirts, related to groups or events.</p>
+    </scopecontent>
+    <custodhist id="aspace_80afff9dc316c6fff173809cb281b642">
+      <head>Provenance</head>
+      <p>The Candida Scott Piel Papers and AmFAR Collection were acquired by donation in 2003 and 2007.</p>
+    </custodhist>
+    <prefercite id="aspace_314a40258773c1ed7f341d9591e5776e">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date (if known); Candida Scott Piel Papers and AmFAR Collection; MSS 142; box number; folder number; New York University Libraries.</p>
+    </prefercite>
+    <accessrestrict id="aspace_5e37a8fcebb7f995623f7c0f1d41cb40">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <userestrict id="aspace_5d4ea906b27b5529c04df80ee30e0dd2">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <relatedmaterial id="aspace_60447db54636a4a59da2c9e49172d2c1">
+      <head>Related Materials</head>
+      <p>Peter Lewis Allen Collection of Safe Sex Pamphlets (MSS.199)</p>
+    </relatedmaterial>
+    <bioghist id="aspace_5497f3be995fd0924520360801e1416c">
+      <head>Biographical / Historical</head>
+      <p>Candida Scott Piel worked with the Foundation for AIDS Research (AmFAR) and other Gay and Lesbian Advocates' Groups throughout the 1980s and 1990s. Her work included involvement with numerous outreach events, such as the annual New York City Gay Pride Celebration.</p>
+    </bioghist>
+    <arrangement id="aspace_36bf24997221e7eafb96a9638c173185">
+      <head>Arrangement</head>
+      <p>Materials have been processed at the folder level. Folders are arranged chronologically within each series.</p>
+    </arrangement>
+    <controlaccess>
+      <subject source="lcsh">Gay activists -- New York (State) -- New York.</subject>
+      <subject source="lcsh">AIDS activists -- New York (State) -- New York</subject>
+      <subject source="lcsh">Safe sex in AIDS prevention -- Handbooks, manuals, etc.</subject>
+      <subject source="lcsh">AIDS (Disease)</subject>
+      <genreform source="aat">Pamphlets.</genreform>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <genreform source="aat">Administrative records.</genreform>
+      <corpname source="naf">AmFAR</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref11" level="series">
+        <did>
+          <unittitle>Series I: Event Materials</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>GMHC Morning Party</unittitle>
+            <unitdate datechar="creation">Aug 22, 1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4e7987671b65c9efab1ccc551778907d" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_86139b63c847bcba93b9137be083d46c" parent="aspace_4e7987671b65c9efab1ccc551778907d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Climax</unittitle>
+            <unitdate datechar="creation">Jun 26, 1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_da27c6f6e0b45149bd7315198315e353" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_78ff444e45bb9f3c2dac9ac50400f00d" parent="aspace_da27c6f6e0b45149bd7315198315e353" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Mr. Northeast Drummer Contest '94</unittitle>
+            <unitdate datechar="creation">Jul 31, 1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0b20167cc330b8e630b9274f94dd39e2" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_a69a7a3a0067c2b3d9e6067427fd9fac" parent="aspace_0b20167cc330b8e630b9274f94dd39e2" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Relentless IV</unittitle>
+            <unitdate datechar="creation">Jan 15, 1995</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_47a21c0fe909d381876411ee875466ab" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_0d801402ed20e95a5ed15cf9002d89e9" parent="aspace_47a21c0fe909d381876411ee875466ab" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Equinox</unittitle>
+            <unitdate datechar="creation">Mar 19, 1995</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_64b9e082ab9cb56b4b99ed033cfbac41" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_166751e36d542ed61aed3c8f229d9c45" parent="aspace_64b9e082ab9cb56b4b99ed033cfbac41" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Mr. Leather New York '95 [oversize]</unittitle>
+            <unitdate datechar="creation">Apr 1, 1995</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_444535fa8c994f39b08f7672785becd2" label="Mixed Materials [31142063397726]" type="Box">4</container>
+            <container id="aspace_c10ce6860b9e4bc068f9a009430f1a5a" parent="aspace_444535fa8c994f39b08f7672785becd2" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Mother's March Against AIDS</unittitle>
+            <unitdate datechar="creation">May 7, 1995</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_123f05c5a77e2fdc1d953c44ad688b97" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_cae0a4fc91f2b9e7abe5b12e625e8209" parent="aspace_123f05c5a77e2fdc1d953c44ad688b97" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Climax 1995</unittitle>
+            <unitdate datechar="creation">Jun 25, 1995</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_acfe0d103422d241dc25218cc7ec0246" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_ef308b6dda68af487a4f64bfc333497d" parent="aspace_acfe0d103422d241dc25218cc7ec0246" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Climax 1995 poster [oversize]</unittitle>
+            <unitdate datechar="creation">Jun 25, 1995</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_87f943e6853ad8a0313ca7e3b1083993" label="Mixed Materials [31142063397726]" type="Box">4</container>
+            <container id="aspace_1ca4e02499c4447f7671e0298997b64e" parent="aspace_87f943e6853ad8a0313ca7e3b1083993" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Mr. Northeast Drummer '95</unittitle>
+            <unitdate datechar="creation">Jul 23, 1995</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0d3609c2816d81080ffdbd6ea889d423" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_e938e4850194139b8bdc86f8045a2f7b" parent="aspace_0d3609c2816d81080ffdbd6ea889d423" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>The Leather Party '95 in Hamburg</unittitle>
+            <unitdate datechar="creation">Aug 10, 1995-Aug 13, 1995</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_45067a3b3d73c5bac95f2495eeeb3e67" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_1ec8a2d505221d61c13bfa257675bfff" parent="aspace_45067a3b3d73c5bac95f2495eeeb3e67" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Q&amp;A with Dr. Mathilde Krim</unittitle>
+            <unitdate datechar="creation">Aug 12, 1995</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1065b8c6bd488b29742d05d37a2fc993" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_d2b12769e15ffea10e47fa58f1f5e920" parent="aspace_1065b8c6bd488b29742d05d37a2fc993" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>GMHC Morning Party</unittitle>
+            <unitdate datechar="creation">Aug 20, 1995</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e1a42ff2dad791ced47deab3b247997c" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_0846ccee6d440a6ff569324c3fe7b24b" parent="aspace_e1a42ff2dad791ced47deab3b247997c" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Saint at Large Black Party</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_da3c480adecbb3c95b8d78e63280c09a" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_24add24914569ad8d90e7d3f07ef11b5" parent="aspace_da3c480adecbb3c95b8d78e63280c09a" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Afterglow</unittitle>
+            <unitdate datechar="creation">Jan 13, 1996</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_13fd8ed1d3a5425f6a70a0b11f71b29c" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_f799febf83ea59c96f11b5d41267bf8d" parent="aspace_13fd8ed1d3a5425f6a70a0b11f71b29c" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>White Out</unittitle>
+            <unitdate datechar="creation">Feb 18, 1996</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8de01d8045066fdcb6e3b4b63c3765e9" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_7ddad50c372e7b683bd948be31fc9e38" parent="aspace_8de01d8045066fdcb6e3b4b63c3765e9" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Mr. Leather New York '96 [oversize]</unittitle>
+            <unitdate datechar="creation">Apr 27, 1996</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_38195c0eaf58694d41634e4fa571771b" label="Mixed Materials [31142063397726]" type="Box">4</container>
+            <container id="aspace_292264322b8bddeef4df3260c9193c7f" parent="aspace_38195c0eaf58694d41634e4fa571771b" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Northeast Mr. Drummer '96</unittitle>
+            <unitdate datechar="creation">Jun 23, 1996</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6c4e458e17a08447ed486e8126f418b9" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_a50d3c15165637cc772a20ad3a484ef8" parent="aspace_6c4e458e17a08447ed486e8126f418b9" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Climax '96</unittitle>
+            <unitdate datechar="creation">Jun 30, 1996</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2084c888ef9909516cf123a78d206a45" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_64ac86cbd6f7768ef0155733c470e55d" parent="aspace_2084c888ef9909516cf123a78d206a45" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Climax '96 posters [oversize]</unittitle>
+            <unitdate datechar="creation">Jun 30, 1996</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_edf2e3d3f9fe2cf2a56bdb24ac90c9e0" label="Mixed Materials [31142063397726]" type="Box">4</container>
+            <container id="aspace_57b53ea69aba8fa6e811439f1318779c" parent="aspace_edf2e3d3f9fe2cf2a56bdb24ac90c9e0" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Spirit</unittitle>
+            <unitdate datechar="creation">Oct 12, 1996</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5d5807de6b3a242b57de1c60a15f03bb" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_bc9adf23ef8f7367c6a1a489f636dc41" parent="aspace_5d5807de6b3a242b57de1c60a15f03bb" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Tribal</unittitle>
+            <unitdate datechar="creation">Nov 16, 1996</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bc7927423077e7af86b982707887f35b" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_e1f384410b91a88d43966b27f8b83cad" parent="aspace_bc7927423077e7af86b982707887f35b" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Saint at Large Black Party</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ff91daa6755dced47db6e1dbbfa7fb78" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_ffcdba8609e7efc281dd8b1826fabe69" parent="aspace_ff91daa6755dced47db6e1dbbfa7fb78" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Afterglow: The Beauty of Orion</unittitle>
+            <unitdate datechar="creation">Jan 18, 1997</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ac7a6bb3c0a43df61a1f07472ae2a304" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_a5f26c87ab38fc8bce40bb6df15d6d9d" parent="aspace_ac7a6bb3c0a43df61a1f07472ae2a304" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Afterglow: The Beauty of Orion poster [oversize]</unittitle>
+            <unitdate datechar="creation">Jan 18, 1997</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d2e4b798b31167b14757d43605c71bbb" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_4692fd22094e11b592a43e82fa85893f" parent="aspace_d2e4b798b31167b14757d43605c71bbb" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Night of a Thousand Gowns</unittitle>
+            <unitdate datechar="creation">Mar 22, 1997</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5d8b62fecae7af49710887d306f1ac1e" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_c9dcc09e4f312d6a01236734089c0725" parent="aspace_5d8b62fecae7af49710887d306f1ac1e" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Wicked</unittitle>
+            <unitdate datechar="creation">Apr 27, 1997</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f4eb8510a066877e345780ff03ca67d1" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_6b50b7eadfd626120e1d4b078c759cb4" parent="aspace_f4eb8510a066877e345780ff03ca67d1" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Climax '97</unittitle>
+            <unitdate datechar="creation">Jun 29, 1997</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_de4b76449fe17d0e9ae248e01d6509b8" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_d33ffd1585fec13553590a0ccd0d7e76" parent="aspace_de4b76449fe17d0e9ae248e01d6509b8" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Climax '97 poster [oversize]</unittitle>
+            <unitdate datechar="creation">Jun 29, 1997</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_6d3877ea747af74a5432c354f2717ff6" label="Mixed Materials [31142063397726]" type="Box">4</container>
+            <container id="aspace_8674d0b1f1dfda77b1886256957e7509" parent="aspace_6d3877ea747af74a5432c354f2717ff6" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Steel Party, Pittsburgh</unittitle>
+            <unitdate datechar="creation">Sep 12, 1997-Sep 14, 1997</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ce349171722aafee169476b33ed72f8a" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_90c5cfc1969f7ae597c2930474d36bfb" parent="aspace_ce349171722aafee169476b33ed72f8a" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>20 Red</unittitle>
+            <unitdate datechar="creation">Sep 20, 1997</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_439a5b4223647a2eaf3960649411edcb" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_e41f252bc484c2c221fbb008ffe664ea" parent="aspace_439a5b4223647a2eaf3960649411edcb" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Dance of the Different Drummer</unittitle>
+            <unitdate datechar="creation">Sep 28, 1997</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0fec9de97231aad26d72d684ba491004" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_ebbbba0e656b80f069a6fe71c6df862d" parent="aspace_0fec9de97231aad26d72d684ba491004" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Dance of the Different Drummer [oversize]</unittitle>
+            <unitdate datechar="creation">Sep 28, 1997</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_f5af7c0e8873477b3f4076ad9850cf46" label="Mixed Materials [31142063397726]" type="Box">4</container>
+            <container id="aspace_502babb4cf9c5a0e6916404d6033d97d" parent="aspace_f5af7c0e8873477b3f4076ad9850cf46" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Saint at Large Black Party</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8b106890c6def8f5d106a3a65f20448d" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_f1605023ed99b6445c367dcb5619b0f9" parent="aspace_8b106890c6def8f5d106a3a65f20448d" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Afterglow: Ascension</unittitle>
+            <unitdate datechar="creation">Jan 17, 1998</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7b4aa9a1172f8ae0c5552ab9002a274a" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_83b9063e744ae0ef6e68b5f8e3e12ebd" parent="aspace_7b4aa9a1172f8ae0c5552ab9002a274a" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Equinox</unittitle>
+            <unitdate datechar="creation">Mar 22, 1998</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_88a98eb3da5146867ae55aafb66e58da" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_1a093c9b995b5f99447a014f8f34bbb9" parent="aspace_88a98eb3da5146867ae55aafb66e58da" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Sea Tea</unittitle>
+            <unitdate datechar="creation">May 31, 1998</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b80c41603d657ce38b4eca6206b36237" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_4f25f2be2c52f375bf49792184b6999e" parent="aspace_b80c41603d657ce38b4eca6206b36237" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Climax '98</unittitle>
+            <unitdate datechar="creation">Jun 28, 1998</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ab3d7a2d25ec7e67a785e4e0047de4cc" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_7a9675aa76b946eccec4b32120a7d8a7" parent="aspace_ab3d7a2d25ec7e67a785e4e0047de4cc" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Climax '98 poster [oversize]</unittitle>
+            <unitdate datechar="creation">Jun 28, 1998</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_601869eb70e04f79c5bb9098d0b291c6" label="Mixed Materials [31142063397726]" type="Box">4</container>
+            <container id="aspace_a3e7e0f1cb77d0f7b3f22b6ff25b8c88" parent="aspace_601869eb70e04f79c5bb9098d0b291c6" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>erie party '98</unittitle>
+            <unitdate datechar="creation">Jul 18, 1998</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ea9c1ed9f8f975b95415c30ac2076b28" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_b23f7e40aebc8d9739209b94942b4645" parent="aspace_ea9c1ed9f8f975b95415c30ac2076b28" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Joey D, Birthday Party</unittitle>
+            <unitdate datechar="creation">Oct 28, 1998</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_872ea1b429e50491fb70c1e96715277b" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_19f9fc4bad5e63900afcad003884739a" parent="aspace_872ea1b429e50491fb70c1e96715277b" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Home for the Holidays</unittitle>
+            <unitdate datechar="creation">Dec 5, 1998</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7b262f301ed7bf134a2c16d295d9ffbb" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_887997bfe598cfa51eae0a03c7ae3bd2" parent="aspace_7b262f301ed7bf134a2c16d295d9ffbb" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Saint at Large Black Party</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b1d234540c4c3bf98e8754c1074d79f1" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_ad10b80d4d86eb4b2c4ed4e4d09f2c05" parent="aspace_b1d234540c4c3bf98e8754c1074d79f1" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Alchemy</unittitle>
+            <unitdate datechar="creation">Jan 17, 1999</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c9dbd9a2b972768887e071d8677cda8d" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_6cabd982a404337eba371fd14db7e06a" parent="aspace_c9dbd9a2b972768887e071d8677cda8d" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Equinox</unittitle>
+            <unitdate datechar="creation">Mar 21, 1999</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2f85b8932a89c87ef3fabf920dd73d98" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_166f8c079ba561f0c07887a00084742e" parent="aspace_2f85b8932a89c87ef3fabf920dd73d98" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Climax '99</unittitle>
+            <unitdate datechar="creation">Jun 27, 1999</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_aa32582ecc7f06e95d299fd4c9a69046" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_a84d9492e0df9b1b9e31e51289946c26" parent="aspace_aa32582ecc7f06e95d299fd4c9a69046" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>erie party '99</unittitle>
+            <unitdate datechar="creation">Jul 17, 1999</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_eeed2ab716b687de17b08eca9b4072e4" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_daf00bbb9be1a67b72dda3dde4da2624" parent="aspace_eeed2ab716b687de17b08eca9b4072e4" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>The Druid's Dance</unittitle>
+            <unitdate datechar="creation">Oct 31, 1999</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_864e7d1285fc7e2812e1e2d81c88f252" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_449fce6b25e99b84b14ee470b30f22cc" parent="aspace_864e7d1285fc7e2812e1e2d81c88f252" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Saint at Large Black Party</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5926ea9e68cad2c01a73f7dbd958a222" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_1259effd2b0047cb834e0a225308c943" parent="aspace_5926ea9e68cad2c01a73f7dbd958a222" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Alchemy II</unittitle>
+            <unitdate datechar="creation">Jan 16, 2000</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3d0b579693d016f5fc1054b77e1db72b" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_3841d55a36d5274c9705566058754f14" parent="aspace_3d0b579693d016f5fc1054b77e1db72b" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Equinox</unittitle>
+            <unitdate datechar="creation">Mar 26, 2000</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0d6d1e59de466b733c664ae934d6b9a1" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_c372f8a0801fe53b7c104b77c7edf415" parent="aspace_0d6d1e59de466b733c664ae934d6b9a1" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Shoulder to Shoulder/Heart to Heart</unittitle>
+            <unitdate datechar="creation">Apr 30, 2000</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_368aab015ac52ee3bebddab9aaa67ef8" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_f1e0bea84b1dd22a5ba363f26c2abcf5" parent="aspace_368aab015ac52ee3bebddab9aaa67ef8" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Tribe</unittitle>
+            <unitdate datechar="creation">Jun 25, 2000</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2dd05253112dd0f3143563a9ce29a43c" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_2669a189b97175abfc876c8a2474d9f2" parent="aspace_2dd05253112dd0f3143563a9ce29a43c" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>erie party</unittitle>
+            <unitdate datechar="creation">Jul 15, 2000</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_83492b799cd7844afa5973683c5b9f4b" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_123971727496f6e94de1a1c98f526290" parent="aspace_83492b799cd7844afa5973683c5b9f4b" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Saint at Large Black Party</unittitle>
+            <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_94d1685912bc0992f5e912097564c380" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_52a0d7dda94b98695fdfacda1b34f649" parent="aspace_94d1685912bc0992f5e912097564c380" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Alchemy III</unittitle>
+            <unitdate datechar="creation">Jan 14, 2001</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d218e6e04b7ac752b1fcd027b37fd9b3" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_a14793b9bf05bb2c923f6a7e7e408484" parent="aspace_d218e6e04b7ac752b1fcd027b37fd9b3" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Equinox</unittitle>
+            <unitdate datechar="creation">Mar 25, 2001</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_431d58625d75e682b65c553962807109" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_56fa9e5173577e2616cb2626a6abcee0" parent="aspace_431d58625d75e682b65c553962807109" type="Folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Tribe</unittitle>
+            <unitdate datechar="creation">Jun 23, 2001</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_08236f2498dc3125d13e2fd0c658230c" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_4c98222ffa4c0eb2f723cacc5874401a" parent="aspace_08236f2498dc3125d13e2fd0c658230c" type="Folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Alchemy 4</unittitle>
+            <unitdate datechar="creation">Jan 20, 2002</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3c4536760d6182358e8a7bec9110114b" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_7297cc0f4b2d9852471c17c31f6f99c1" parent="aspace_3c4536760d6182358e8a7bec9110114b" type="Folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Tribe</unittitle>
+            <unitdate datechar="creation">Jun 29, 2002</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bdca2d9442510ea2b3f4c0dd2f755c53" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_75549389f2ba65a52c8c426e654ce36f" parent="aspace_bdca2d9442510ea2b3f4c0dd2f755c53" type="Folder">60</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Trance/Dance</unittitle>
+            <unitdate datechar="creation">Jan 19, 2003</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_178e4380d3c3231671d214d3b77486ca" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_f30c2c588a160f99185e8cd264c1a820" parent="aspace_178e4380d3c3231671d214d3b77486ca" type="Folder">61</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>AIDS Walk</unittitle>
+            <unitdate datechar="creation" normal="1982/2003" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c299b22f67d0776e5e57abf27ca03e47" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_128264a84c98ab42d9fcb84eda18f9af" parent="aspace_c299b22f67d0776e5e57abf27ca03e47" type="Folder">62</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref74" level="series">
+        <did>
+          <unittitle>Series II: Subject Files</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Amfar Gay Outreach</unittitle>
+            <unitdate datechar="creation" normal="1982/2003" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_90d065a0adfe24ceb45e43eed0835e1c" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_9486f42f18caf55215373f01943617d0" parent="aspace_90d065a0adfe24ceb45e43eed0835e1c" type="Folder">63</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Fan Dancing</unittitle>
+            <unitdate datechar="creation" normal="1982/2003" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4e05f7a30f53cc94ca2d5552fc8551db" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_937d134655f3f14ba5bac9c540e37efa" parent="aspace_4e05f7a30f53cc94ca2d5552fc8551db" type="Folder">64</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Yale and the Movement for Lesbian and Gay Rights</unittitle>
+            <unitdate datechar="creation">May 19, 1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2ddeef723a5217cae401b98fca5fff7b" label="Mixed Materials [31142054894244]" type="Box">1</container>
+            <container id="aspace_6e11192d1ad6669d0b8241e2379460b0" parent="aspace_2ddeef723a5217cae401b98fca5fff7b" type="Folder">65</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref78" level="series">
+        <did>
+          <unittitle>Series III: Ephemera</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Gay Pride March, CSLDC Marshall t-shirt</unittitle>
+            <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_3827549a5c2be1de909c49a42e45d6ee" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Gay Pride March, CSLDC Marshall t-shirt</unittitle>
+            <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_8c4f8a84de2a943c7933509044054105" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Gay Pride March, CSLDC Marshall t-shirt</unittitle>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_8c646d096a5a1865983105745e48bc28" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Fairpac t-shirt</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_d21f7cc45e8b9d174ecc556743b7a0e1" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Climb for the Cure t-shirt</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_046b92920c88ab1114ed784565a1525e" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Big Guns baseball cap</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_fbb343a1f96f3bace5a11f440d9eb4d3" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>If Your Kids Had AIDS t-shirt</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_0328ddba816f9939b33230b5afa87a59" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>If Your Mom Had AIDS t-shirt</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_fed2d5687cea6e6a1be9341619e77c7d" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Climax t-shirt</unittitle>
+            <unitdate datechar="creation">Jun 27, 1999</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_316281d8a3984db2e3b0eb06b9525833" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Alchemy II tank top</unittitle>
+            <unitdate datechar="creation">Jan 16, 2000</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_01e3c6cf8e48b62cff62c8b246a44e5b" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Tribe tank top</unittitle>
+            <unitdate datechar="creation">Jun 25, 2000</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_2264a290bc1cbdee5aa4e31e135add26" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Avid Productions New Years Eve t-shirt</unittitle>
+            <unitdate datechar="creation">Dec 31, 2000</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_7cc7c168c80474a746e5ab3dfab68562" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Alchemy III tank top</unittitle>
+            <unitdate datechar="creation">Jan 14, 2001</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_ed1f66af597bacb37c3708a377c289e8" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Tribe tank top</unittitle>
+            <unitdate datechar="creation">Jun 23, 2001</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_99f18ffbe2cb95064553a0742637edff" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Alchemy 4 tank top</unittitle>
+            <unitdate datechar="creation">Jan 20, 2002</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_e5644ff5f88c4212b1173daa8a8ac052" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Tribe t-shirt</unittitle>
+            <unitdate datechar="creation">Jun 29, 2002</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_6ceafb68599d29569a187ff81b3ab8d2" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Trance\Dance t-shirt</unittitle>
+            <unitdate datechar="creation">Jan 19, 2003</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_1fc60638b50afcc1204f664bd1c3f0de" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Cosme's Coney Island Run t-shirt</unittitle>
+            <unitdate datechar="creation" normal="1982/2003" type="inclusive">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_1a5e1e949f1a5e02cd387cc759bc20c3" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Silencio=Muerte t-shirt</unittitle>
+            <unitdate datechar="creation" normal="1982/2003" type="inclusive">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_8c94d777ae5cb48e5359d334eba86131" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Twilo/Amfar t-shirts (2)</unittitle>
+            <unitdate datechar="creation" normal="1982/2003" type="inclusive">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_6c7d1727ecf87fd754acee43f77c2dec" label="Mixed Materials [31142063397734]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Buttons (13)</unittitle>
+            <unitdate datechar="creation" normal="1982/2003" type="inclusive">undated</unitdate>
+            <container altrender="Hollinger Card Box 4.25" id="aspace_b90b10e07bbecdbdbfc8e694d3394652" label="Mixed Materials [31142054894236]" type="Box">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref100" level="series">
+        <did>
+          <unittitle>Accretion 2007 - Series I: Event Materials</unittitle>
+        </did>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>October 14th Film Project</unittitle>
+            <unitdate datechar="creation" normal="1981/1981" type="inclusive">circa 1981</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3dbe9e6279b77232a1bf7a54f10dad50" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_f859dc81855675cc8e7f4aed1bfb1f52" parent="aspace_3dbe9e6279b77232a1bf7a54f10dad50" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Gay Pride Festival Survey</unittitle>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4cd4d2bc76cf5814f2b5597441ff0522" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_5293622810a7e8109bca03a2f988713f" parent="aspace_4cd4d2bc76cf5814f2b5597441ff0522" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Badges, Membership Cards</unittitle>
+            <unitdate datechar="creation" normal="1984/2000" type="inclusive">1984-2000, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c2669bdeba188f95e710f547b5df5afd" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_36eef64c87ef95b378cba17da1bdc3b9" parent="aspace_c2669bdeba188f95e710f547b5df5afd" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>"Prejudice &amp; Pride: The New York City Lesbian and Gay Community, World War II - Present", Tweed Gallery at City Hall Park</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">June 1-30 1988</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7bbeae8cfde6e4140935e3006759bda4" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_08ba173d9b86dd5217ee909da572bd16" parent="aspace_7bbeae8cfde6e4140935e3006759bda4" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>FAIRPAC Board Meeting</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">January 15 1990</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2ae2af8bdfc794d9b9542d23192f32ef" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_9d4fb41e1dc17a6293211ecd6dc3f42e" parent="aspace_2ae2af8bdfc794d9b9542d23192f32ef" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>The Lesbian and Gay Agenda for the Nineties</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">February 14 1990</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5af04d2d0484cf53a3ae5629e3af9406" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_ee09e5231a35f0123fba890802b0e278" parent="aspace_5af04d2d0484cf53a3ae5629e3af9406" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>The International Festival of Lesbian and Gay Film</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">June 4-14 1992</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ecf7ac1791090c91a48a2e8f176a52ad" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_189a328f94d3d77f10fe0d8b070a23ad" parent="aspace_ecf7ac1791090c91a48a2e8f176a52ad" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="item">
+          <did>
+            <unittitle>New York City Lesbian and Gay Pride Celebration Pass</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">June 29 1997</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5d01f7ea739625f4408ab5d13886ac88" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_5013d97c33436438c3f64e3dc6812217" parent="aspace_5d01f7ea739625f4408ab5d13886ac88" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Newsletter</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_da17bac63232f9ec2b1b6010eeedb58e" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_c5bc3e6a65d761e5d60716f1bc055176" parent="aspace_da17bac63232f9ec2b1b6010eeedb58e" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref102" level="series">
+        <did>
+          <unittitle>Accretion 2007 - Series II: Subject Files</unittitle>
+        </did>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The Male Figure Review</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c242af996de08f52c51dcfd54ed96787" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_a0fc3b4c0df8f0eb176e4223f546e5b4" parent="aspace_c242af996de08f52c51dcfd54ed96787" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Deborah Glick Lesbian and Gay Community Endorsement List</unittitle>
+            <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_292c944ad4dd19564b252b7d4c29bb8d" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_8953066932fe43abce17a70b3ddee8b6" parent="aspace_292c944ad4dd19564b252b7d4c29bb8d" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>"Inevitable Love: A Healthy Sex Video"</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_649a37d79747bf831ebaab6a65e77f8b" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_58c0ce271fbf1e6a9bde91f28623c30d" parent="aspace_649a37d79747bf831ebaab6a65e77f8b" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Tales of the Closet...</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_74d0ebe333734b7e0b3f61ed3ab68c0e" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_d0e148e4b28bbe0fa1b72d02bd77c2a9" parent="aspace_74d0ebe333734b7e0b3f61ed3ab68c0e" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Budget Planning</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">circa 1990</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4757e81cbe2b854ebbdcf514de4c6e89" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_2b249aed4e8e5fa61c30842f2c839cfe" parent="aspace_4757e81cbe2b854ebbdcf514de4c6e89" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Business Cards</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_44e22a2470de97acf0cc44c1f2bbc968" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_df34e713218caeb5e0896cc1e376ae2e" parent="aspace_44e22a2470de97acf0cc44c1f2bbc968" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>"Crissy" Pamphlet - Stop AIDS Project</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_af111fb30862c99fded780d4949a7a19" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_1ad00f36c1f160a0062b0912cbef5d6a" parent="aspace_af111fb30862c99fded780d4949a7a19" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Sticker and Postcard</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dbe58c82d4a51aff6d8d866a865ed1a0" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_52d164b96e6571dcaf5498ed764b974e" parent="aspace_dbe58c82d4a51aff6d8d866a865ed1a0" type="Folder">17</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref116" level="series">
+        <did>
+          <unittitle>Accretion 2007 - Series III: Ephemera</unittitle>
+        </did>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Buttons (7)</unittitle>
+            <unitdate datechar="creation" normal="1987/1991" type="inclusive">1987-91, undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_167e72221b4c036428be350e55a7e8e3" label="Mixed Materials [31142063610227]" type="Box">5</container>
+            <container id="aspace_5c2bd036d1d57e305b523a13b6a38108" parent="aspace_167e72221b4c036428be350e55a7e8e3" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="item">
+          <did>
+            <unittitle>Gay Synagogue, Passover 1981 Yarmulke</unittitle>
+            <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3c9a58e307c881f8961a621ad78bdfb4" label="Realia [31142063610227]" type="Box">5</container>
+            <container id="aspace_762fa1ae00d626108ad0f022cca999ea" parent="aspace_3c9a58e307c881f8961a621ad78bdfb4" type="object">ID: 142.2.0001</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="item">
+          <did>
+            <unittitle>Award from the Greater Gotham Business Council, Inc. "in recognition of outstanding contributions to the New York City Lesbian and Gay Community"</unittitle>
+            <unitdate datechar="creation" normal="1985/1985" type="inclusive">June 1985</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_051baa4cfd63ca3cfe2dd1e9c5d668cd" label="Realia [31142063610227]" type="Box">5</container>
+            <container id="aspace_bb419b9c7e21d71b099c462378942800" parent="aspace_051baa4cfd63ca3cfe2dd1e9c5d668cd" type="object">ID: 142.2.0002</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="item">
+          <did>
+            <unittitle>"Tribe" Cotton T-shirt</unittitle>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7a2514855ced7a86b243d28987e55511" label="Realia [31142063610227]" type="Box">5</container>
+            <container id="aspace_1c949f862edf137aedd699b83e16cc1f" parent="aspace_7a2514855ced7a86b243d28987e55511" type="object">ID: 142.2.0003</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="item">
+          <did>
+            <unittitle>"'Be Fabulous!' Razor Sharp" Cotton T-shirt</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7378c3315bffda3b6694eca2118c2deb" label="Realia [31142063610227]" type="Box">5</container>
+            <container id="aspace_d794d34af7df76559e1e449c8f222502" parent="aspace_7378c3315bffda3b6694eca2118c2deb" type="object">ID: 142.2.0004</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="item">
+          <did>
+            <unittitle>"Pride" Cotton Tank Top</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bc395c7881a4fea6af8d331a8d8fe449" label="Realia [31142063610227]" type="Box">5</container>
+            <container id="aspace_de4d114bc65900d356db4a6c3681d89a" parent="aspace_bc395c7881a4fea6af8d331a8d8fe449" type="object">ID: 142.2.0005</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
