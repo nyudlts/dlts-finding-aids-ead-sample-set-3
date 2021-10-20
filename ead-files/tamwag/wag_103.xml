@@ -1,0 +1,1656 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_103/">wag_103</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>New York Metro Area Postal Union Records <num>WAG.103</num></titleproper>
+        <author>Adam Schafenberg</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2007</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+      <notestmt>
+        <note>
+          <p>No Description; Brief EAD (Toolkit); Inventory, Box Level (Word)</p>
+        </note>
+      </notestmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 02:15:31 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>September 2021</date>
+        <item>edited by Nicole Greenhouse for compliance with DACS and ACM Required Elements for Archival Description and to add additional archived websites.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>New York Metro Area Postal Union Records</unittitle>
+      <origination label="Creator">
+        <corpname source="naf">New York Metro Area Postal Union</corpname>
+      </origination>
+      <origination label="source">
+        <corpname role="dnr" source="naf">New York Metro Area Postal Union</corpname>
+      </origination>
+      <unitid>WAG.103</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">80 Linear Feet</extent>
+        <extent altrender="carrier">(80 boxes)</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">2 websites</extent>
+        <extent altrender="carrier">in 2 archived websites.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1943/2013" type="inclusive">1943-2013</unitdate>
+      <abstract id="aspace_cc23ebf5625b1fa6d50b467573dc46ca">The New York Metro Area Postal Union (American Postal Workers Union, Local 10) represents clerks, motor vehicle staff, maintenance workers and mail-handlers in the great New York City area. The collection includes minutes, administrative files, officers files, stewards files, bargaining files, grievances, affiliates files, publications of the local, reports, financial records, subject files, archived websites, and ephemera.</abstract>
+      <langmaterial id="aspace_9851bf306ec825e38d3df7ca6d958daa">Materials are in English.</langmaterial>
+    </did>
+    <bioghist id="aspace_d574b0fe6f21b0fedbf2cf81c0c9f1e7">
+      <head>Historical/Biographical Note</head>
+      <p>The New York Metro Area Postal Union (American Postal Workers Union, Local 10) represents clerks, motor vehicle staff, maintenance workers and mail-handlers in the great New York City area. (Some mail-handlers, however, are represented by other unions.) By the 1980s the local enrolled more than 25,000 members. The local originated as Local 10 of the National Federation of Post Office Clerks. Officers and most of the members of this local seceded in 1958 to become the Postal Union of Manhattan-Bronx Clerks (later the Manhattan-Bronx Postal Union), with the aim of uniting many postal crafts in one industrial union. The local became part of the newly created American Postal Workers Union in 1971, after taking a leading role in the hard-fought national strike of postal workers in 1970. Under the dynamic presidencies of Moe Biller and Josie MacMillan from the 1958 through the 1980s, the local won significant gains for its members. Both the membership and the local union leadership became more diverse as post office jobs opened up to minorities and women as a result of civil rights initiatives of the 1960s.</p>
+    </bioghist>
+    <scopecontent id="aspace_dcb0f0b9c0410a5dddceaa3ae285a810">
+      <head>Scope and Content Note</head>
+      <p>The collection includes minutes, administrative files, officers files, stewards files, bargaining files, grievances, affiliates files, publications of the local, reports, financial records, subject files, archived websites, and ephemera.</p>
+    </scopecontent>
+    <relatedmaterial id="aspace_46b88230d5c373ef9d42da35f585bfcc">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>New York Metro Area Postal Union Oral History Collection (OH 3)</p>
+      <p>New York Metro Area Postal Union Photographs (PHOTOS 11)</p>
+      <p>American Postal Workers Union: Moe Biller Files (WAG 99)</p>
+    </relatedmaterial>
+    <processinfo id="aspace_9beef9b09cbd3bb218372ddf17b0104c">
+      <head>Processing Information</head>
+      <p>In 2014, the archived website was added. In 2021, an additional website was added to the finding aid.</p>
+    </processinfo>
+    <accessrestrict id="aspace_dcf61d2e8022a91fbd97d3f6926b205f">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <userestrict id="aspace_0e8617e591c6149950b2710777b6a875">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the New York Metro Area Postal Union was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <acqinfo id="aspace_e186627ffbeac2cddc85c00b6f7e16ff">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by the New York Metro Area Postal Union, 1980. The accession number associated with this gift is 1950.053.</p>
+      <p>https://www.nymetro.org/ was initially selected by curators and captured through the use of The California Digital Library's Web Archiving Service in 2009 as part of the Labor Unions and Organizations (U.S.) Web Archive. In 2015, these websites were migrated to Archive-It. Archive-It uses web crawling technology to capture websites at a scheduled time and displays only an archived copy, from the resulting WARC file, of the website. In 2020, https://www.facebook.com/2014nymetro/ was added. The accession number associated with this website is 2021.040.</p>
+    </acqinfo>
+    <arrangement id="aspace_52a5d4dac353a0756e287b0d3f398182">
+      <head>Arrangement</head>
+      <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
+    </arrangement>
+    <prefercite id="aspace_98832b737bcffea4b8b7ec56370aa2ce">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; New York Metro Area Postal Union Records; WAG 103; box number; folder number or item identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+      <p>To cite the archived website in this collection:
+Identification of item, date; New York Metro Area Postal Union Records; WAG 103; Wayback URL; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <appraisal id="aspace_f811fa97d41641e3404f7f0ec6f9545b">
+      <head>Take Down Policy</head>
+      <p>Archived websites are made accessible for purposes of education and research. NYU Libraries have given attribution to rights holders when possible; however, due to the nature of archival collections, we are not always able to identify this information.</p>
+      <p>If you hold the rights to materials in our archived websites that are unattributed, please let us know so that we may maintain accurate information about these materials.</p>
+      <p>If you are a rights holder and are concerned that you have found material on this website for which you have not granted permission (or is not covered by a copyright exception under US copyright laws), you may request the removal of the material from our site by submitting a notice, with the elements described below, to the special.collections@nyu.edu.</p>
+      <p>Please include the following in your notice:  Identification of the material that you believe to be infringing and information sufficient to permit us to locate the material; your contact information, such as an address, telephone number, and email address; a statement that you are the owner, or authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed and that you have a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; a statement that the information in the notification is accurate and made under penalty of perjury; and your physical or electronic signature.  Upon receiving a notice that includes the details listed above, we will remove the allegedly infringing material from public view while we assess the issues identified in your notice.</p>
+    </appraisal>
+    <controlaccess>
+      <subject source="lcsh">Postal service |x Employees |x Labor unions |z United States.</subject>
+      <subject source="lcsh">Postal Strike, U.S., 1970.</subject>
+      <subject source="lcsh">Postal service |x Employees.</subject>
+      <subject source="lcsh">Postal service -- Employees -- Labor unions</subject>
+      <geogname source="lcsh">United States Postal Service |x Employees |x History.</geogname>
+      <corpname source="naf">United States Postal Service</corpname>
+      <persname source="naf">Biller, Moe, 1915-2003</persname>
+      <persname source="local">MacMillan, Josie</persname>
+      <corpname source="naf">National Federation of Post Office Clerks. Local 10 (New York, N.Y.)</corpname>
+      <corpname source="naf">New York Metro Area Postal Union</corpname>
+      <corpname source="naf">Manhattan-Bronx Postal Union</corpname>
+      <corpname source="naf">Postal Union of Manhattan-Bronx Clerks</corpname>
+      <corpname role="dnr" source="naf">New York Metro Area Postal Union</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>New York Federation of Post Office Clerks Newsletter: officer lists, sports quiz submissions, postal press association award certificates, federation credit union, interview with 1st Local 10 President Albert Rossdale, Audit Committee Reports: hospital plan, Constitution and Bylaws; Election Materials, Tax and Financial Records 1943-1959
+</unittitle>
+          <unitdate datechar="creation">1943-1959</unitdate>
+          <container id="aspace_d5f4c8e8baa1396bcc6c6566d7dd4d59" label="Mixed Materials [31142046538511]" type="Box">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Minutes: Board of Officers, Executive Board, Membership Committee 1959-1976</unittitle>
+          <unitdate datechar="creation" normal="1959/1976" type="inclusive">1959-1976</unitdate>
+          <container id="aspace_2971bb4d7ba657af6d36777fe9125c9e" label="Mixed Materials [31142046538529]" type="Box">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Constitutions, Finance Insurance Fund Records: correspondence, board of trustee meeting minutes, audit reports, Credit Union Records: forms, audit reports, membership drives, NY State information, President Moe Biller Records 1958-1978
+</unittitle>
+          <unitdate datechar="creation" normal="1958/1978" type="inclusive">1958-1978</unitdate>
+          <container id="aspace_3fe25495c4ee56dd4e38ae1800cd220f" label="Mixed Materials [31142046538537]" type="Box">3</container>
+        </did>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>President Moe Biller Records: Kingsbridge-correspondences and press releases regarding July 1969 Bronx postal employees walkout</unittitle>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">July 1969</unitdate>
+            <container id="aspace_04b6972850ca3e32b51b2be9a61c73ff" label="Mixed Materials [31142046538537]" type="Box">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>President Moe Biller Records: 1952-1977
+</unittitle>
+          <unitdate datechar="creation" normal="1952/1977" type="inclusive">1952-1977</unitdate>
+          <container id="aspace_b60797554bfc7dcc059a51af1582dfff" label="Mixed Materials [31142046538545]" type="Box">4</container>
+        </did>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>1970 Postal Strike and Reform-correspondence, reports, news releases, clippings, congressional testimony, Biller's diary of events and chronology of strike</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_8fd8a8a0e6f2ed858a03f7b36702619e" label="Mixed Materials [31142046538545]" type="Box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Brooklyn Museum postal workers exhibit proposal; Constitutional Amendments; 1971 House hearing testimony </unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_78c6be01ecbbc325a497a12eed100e4a" label="Mixed Materials [31142046538545]" type="Box">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>President Moe Biller Records: 1965-1974
+</unittitle>
+          <unitdate datechar="creation" normal="1965/1974" type="inclusive">1965-1974</unitdate>
+          <container id="aspace_da545ae06d28c556c8e8e35827c4b099" label="Mixed Materials [31142046538552]" type="Box">5</container>
+        </did>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>1966 and 1967 Mail handlers Election</unittitle>
+            <unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate>
+            <container id="aspace_0ff745450ac21ef3973289b3831c1607" label="Mixed Materials [31142046538552]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Poor Mail Service-clippings, articles, interview transcripts</unittitle>
+            <container id="aspace_e3874d4813095aef997f38fe07edd348" label="Mixed Materials [31142046538552]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Correspondence with Robert F. Kennedy </unittitle>
+            <container id="aspace_15db657a55d701db049105e0e30c7c85" label="Mixed Materials [31142046538552]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>MBPU Credit Union</unittitle>
+            <container id="aspace_73551f36db9f6295ad011d23f66fd295" label="Mixed Materials [31142046538552]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Cornell Urban Affairs Program</unittitle>
+            <container id="aspace_e77901d2fb15ba203e5742b6e464428d" label="Mixed Materials [31142046538552]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>NPU-UFPC Merger: materials on structure and constitution</unittitle>
+            <container id="aspace_8aad932285b9144d06ccb0c8ae96b4d6" label="Mixed Materials [31142046538552]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Postal Reform-clippings and press releases</unittitle>
+            <container id="aspace_f076391cf9e9885bf21b8c946ec7ac92" label="Mixed Materials [31142046538552]" type="Box">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>President Moe Biller Records: 1953-1974
+</unittitle>
+          <unitdate datechar="creation" normal="1953/1974" type="inclusive">1953-1974</unitdate>
+          <container id="aspace_a73a24e7759c8252d8cba57483bfd567" label="Mixed Materials [31142046538560]" type="Box">6</container>
+        </did>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Notes on NY Metro History; Study of factors that influence fatigue in letter sorters</unittitle>
+            <container id="aspace_d5e9bcf67e62944ca019dcfcdf928e19" label="Mixed Materials [31142046538560]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>NYPO seniority directives</unittitle>
+            <container id="aspace_e0e80ddf43ed9fc472e750810a05afde" label="Mixed Materials [31142046538560]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>Udall Committee testimony</unittitle>
+            <container id="aspace_1220c0d021a2e50c5d86adcb9c5f1c24" label="Mixed Materials [31142046538560]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Correspondence with Congressional Representatives</unittitle>
+            <container id="aspace_1051bea26df92dd1047806fca0541ed1" label="Mixed Materials [31142046538560]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>National Bulk Mail Service Information</unittitle>
+            <container id="aspace_86e5bf583adf573dd2c360ee9ad3c0f0" label="Mixed Materials [31142046538560]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>American Postal Workers Union-National Association of Letter Carriers Merger</unittitle>
+            <container id="aspace_3b39c76df90d421d5b90b439487c5f8b" label="Mixed Materials [31142046538560]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Dues Request Letters; Letters to Congressional Reps and Senators concerning Brooklyn Army Terminal</unittitle>
+            <container id="aspace_79f1f1bbe57a145169944198eef34f2b" label="Mixed Materials [31142046538560]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>1972 Regional Impasse</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_0e441bbc69575d646312a16223b474f9" label="Mixed Materials [31142046538560]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>National Association of Letter Carriers Branch 36 Elections material</unittitle>
+            <container id="aspace_b69e085b623df1a441ca00b9620fe197" label="Mixed Materials [31142046538560]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>NPU National Convention-1962, 1968, and 1970</unittitle>
+            <unitdate datechar="creation" normal="1962/1970" type="inclusive">1962, 1968, 1970</unitdate>
+            <container id="aspace_d62798d8e68d033e8aa54273781b8728" label="Mixed Materials [31142046538560]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>1972 Hiring Freeze: articles, correspondence, directives and press releases</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_6aff3439c015db2fe36fa11606783e6b" label="Mixed Materials [31142046538560]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Local Mergers-1971</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_7d5d89ffc0d879f949559ebd525cdeac" label="Mixed Materials [31142046538560]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Letter from Secretary Of Labor-re: payroll deductions for union dues-1963</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_7d002c1bde1a719b6807d71642590fc3" label="Mixed Materials [31142046538560]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Paper on history of New York Post Office underground pneumatic tube system</unittitle>
+            <container id="aspace_a5906749787df09b05b658efd75e82ac" label="Mixed Materials [31142046538560]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Equal Opportunity/Anti-Discrimination-1962-1965</unittitle>
+            <unitdate datechar="creation" normal="1962/1965" type="inclusive">1962-1965</unitdate>
+            <container id="aspace_b17582b10d215307ca91a7c86a94fcc9" label="Mixed Materials [31142046538560]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>UFPC-NPU Merger Negotiations 1964-1969</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964-1969</unitdate>
+            <container id="aspace_b83fcac34ae6333c9b1ad12ea752bd4c" label="Mixed Materials [31142046538560]" type="Box">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>President Moe Biller Records and President Josie McMilliam Records 1960-1980</unittitle>
+          <unitdate datechar="creation" normal="1960/1980" type="inclusive">1960-1980</unitdate>
+          <container id="aspace_a3cef3da644e9f8edf46f6adfe7aff91" label="Mixed Materials [31142046538578]" type="Box">7</container>
+        </did>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Correspondence with individuals, 1978-1979</unittitle>
+            <unitdate datechar="creation" normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_c5f895ed3cf3c0e7f584eebe2ba00eed" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Post Master General Gag Order-re: Congressional Contracts 1971: letters, news flashes and directives</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_4bf5bd76b6306f73d0e8c39804943a56" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Constitutions-national and state</unittitle>
+            <container id="aspace_f9c7aa4118a1da3ff3e99dbd7bd11920" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Senator Jacob Javits-correspondence 1960-1974</unittitle>
+            <unitdate datechar="creation" normal="1960/1974" type="inclusive">1960-1974</unitdate>
+            <container id="aspace_436111c9992ae65bfdfaa368015b7cfb" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>Senator Charles Goodell-correspondence 1970</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_f7b46cfe4ead4b5e8e5934b2c0f849ed" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Installation of Officers 1962-1966: meeting notices, Biller speeches and committee reports</unittitle>
+            <unitdate datechar="creation" normal="1962/1966" type="inclusive">1962-1966</unitdate>
+            <container id="aspace_898d9f80f239d9b7dc9991247184e787" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>New York City Financial Crisis: correspondence with members, clippings and Biller open letter to President Ford</unittitle>
+            <container id="aspace_9d3dd32558cebf2767644372b4046f43" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>American Postal Workers Union President Filbey: correspondence, news flashes and announcement of death/replacement</unittitle>
+            <container id="aspace_253fac58a6acdb4b1e9073e2ef420c90" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>American Postal Workers Union Elections</unittitle>
+            <container id="aspace_2d6943ff505f31df2049102cd1ae90c7" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>Nixon Pardon materials</unittitle>
+            <container id="aspace_126479e745bf1b46d138f17ce1ea2169" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>MBPU Community Services Referral Program: correspondence with Post Master General and Legislators</unittitle>
+            <container id="aspace_1c986effaae57057622dceeffd14f270" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>Biller 1973 testimony before House Postal Service Sub-Committee</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_b7d2eae094bf4b484e30cfc2f8295f23" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="file">
+          <did>
+            <unittitle>Correspondence re: aborted July 1971 strike</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">July 1971</unitdate>
+            <container id="aspace_d500360e5f7635734cea4768c74ee33b" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="file">
+          <did>
+            <unittitle>United Way-Combined Federal campaign: correspondence, brochures and reports</unittitle>
+            <container id="aspace_7e54def0ede5526bd0eca863dcfd535c" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>1974 "Battle of the Bulk": correspondence, mail studies, meeting summaries, new flashes , clippings and job postings</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_e9698d5030108dfc06c40115669fab95" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>Clippings from Jewish Daily Forward (Yiddish)-re: Biller election to American Postal Workers Union President 1980</unittitle>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_0baf02f34fae5205174ec1f53e955e6b" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>President Josie McMilliam Records: clippings on election; Women's March for Equality
+</unittitle>
+            <container id="aspace_320ef466acc19898d74732b68bf0a3b9" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>President Josie McMilliam Records: radio appearance-November 1980
+</unittitle>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">November 1980</unitdate>
+            <container id="aspace_3145909781967ac8ea2cde2fd54a73ed" label="Mixed Materials [31142046538578]" type="Box">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Legislative Director Eleanor Bailey Records, Executive Board Files, Stewards Files 1959-1981</unittitle>
+          <unitdate datechar="creation" normal="1959/1981" type="inclusive">1959-1981</unitdate>
+          <container id="aspace_274dd973476ba11f6cdcb2d8d21b8ada" label="Mixed Materials [31142046538586]" type="Box">8</container>
+        </did>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>Drafts of speeches and articles; Report on Legislation</unittitle>
+            <container id="aspace_b929fe3f94fc542af90d3c1f61a56c3f" label="Mixed Materials [31142046538586]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>Correspondence; Political Materials: Congresswoman Bella Abzug, Senator Jacob Javits, League of Women Voters</unittitle>
+            <container id="aspace_e05cf3231ac8dca8b5498aee3736473c" label="Mixed Materials [31142046538586]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>Community Service Committee: social service and union programs, 1976 convention legislative committee reports and notes</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_0b7ec836ed12b83f4f463ea639b402e0" label="Mixed Materials [31142046538586]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>American Postal Workers Union Human Relations Department</unittitle>
+            <container id="aspace_73baa34857eba2f727ce02c6a572b2ed" label="Mixed Materials [31142046538586]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="file">
+          <did>
+            <unittitle>American Cancer Society materials</unittitle>
+            <container id="aspace_b763381038ee5bc0f6995e8d04aff67b" label="Mixed Materials [31142046538586]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>League of Women Voters ERA kits</unittitle>
+            <container id="aspace_b55ba1f434389a72cb64330ec455dd13" label="Mixed Materials [31142046538586]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="file">
+          <did>
+            <unittitle>ERA, Coaltition of Labor Union Women and International Year of the Woman material-1975</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_f429503c74b98330283be3733eb1d40e" label="Mixed Materials [31142046538586]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref143" level="file">
+          <did>
+            <unittitle>Certificate from Labor Studies Center</unittitle>
+            <container id="aspace_2feef3d1b8290b377d1b89185ac0c405" label="Mixed Materials [31142046538586]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="file">
+          <did>
+            <unittitle>Executive Board Files: 1977 List of Executive Board Members
+</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_4338d0ba34bc7ada552d43c6038df86b" label="Mixed Materials [31142046538586]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref145" level="file">
+          <did>
+            <unittitle>Executive Board Files: Meeting Attendance: letters to encourage attendance, MBPU special letters to delegates 1961-1999</unittitle>
+            <unitdate datechar="creation" normal="1961/1999" type="inclusive">1961-1999</unitdate>
+            <container id="aspace_933d9a66926df27a304bea6efeea4ce1" label="Mixed Materials [31142046538586]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref146" level="file">
+          <did>
+            <unittitle>Executive Board Files: Notes on various New York Metro Officers</unittitle>
+            <container id="aspace_9fa6a75ef1d43d0f5b4eb5f0cf366684" label="Mixed Materials [31142046538586]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="file">
+          <did>
+            <unittitle>Stewards Files:NYB and FMC 1977 Elections: Ballots and Tallies, election rules, candidate correspondence
+</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_57fac3f7a7dadfc4c1e93028e0f39b2f" label="Mixed Materials [31142046538586]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="file">
+          <did>
+            <unittitle>Stewards Files: 1976 Elections: correspondence from prospective candidates</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_916365fc41374063f6a3838a0f1bd782" label="Mixed Materials [31142046538586]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="file">
+          <did>
+            <unittitle>Stewards Files: 1976-1977 Motor Vehicle Elections: ballots and tallies</unittitle>
+            <unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate>
+            <container id="aspace_00b2adf9ec4704d96419a47984e10885" label="Mixed Materials [31142046538586]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="file">
+          <did>
+            <unittitle>Stewards Files: 1974 Elections: correspondence, sample ballots and results</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_6f0fd998c36df88ee870e7b54b9b5bc1" label="Mixed Materials [31142046538586]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref151" level="file">
+          <did>
+            <unittitle>Stewards Files: American Postal Workers Union Manual: A Textbook for Postal Stewards-1980,  Guidelines for Stewards: Grievance Procedures-1973-74, 1975-78, 1978-81 </unittitle>
+            <unitdate datechar="creation" normal="1973/1981" type="inclusive">1973-1981</unitdate>
+            <container id="aspace_ac4d8a804e507d41031265fa3204f3f3" label="Mixed Materials [31142046538586]" type="Box">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Stewards Files, Contract Negotiations Records, 1963-1964 Files</unittitle>
+          <unitdate datechar="creation" normal="1963/1978" type="inclusive">1963-1978</unitdate>
+          <container id="aspace_28ecd2f28ad77b9cb55518357efaf457" label="Mixed Materials [31142046538594]" type="Box">9</container>
+        </did>
+        <c id="aspace_ref152" level="file">
+          <did>
+            <unittitle>Stewards Files: ZMT Part-Time Flexis request for steward: notices, correspondence and List of employees
+</unittitle>
+            <container id="aspace_9aef31d06afd55fd7f65f3d1791fe83a" label="Mixed Materials [31142046538594]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="file">
+          <did>
+            <unittitle>Stewards Files: Correspondence between Biller and Stewards-1970-1978; Stewards Dinner-1975-1976</unittitle>
+            <unitdate datechar="creation" normal="1970/1978" type="inclusive">1970-1978</unitdate>
+            <container id="aspace_7143d24ecac46c573dc362dd1a4d5052" label="Mixed Materials [31142046538594]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="file">
+          <did>
+            <unittitle>Stewards Files: NYSSILR-Cornell: Teaching Manual on the Steward and the grievance procedure and course outline; Resignations and correspondence 1975-1976</unittitle>
+            <unitdate datechar="creation" normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <container id="aspace_fcaf767e79851965206fed8271f06a80" label="Mixed Materials [31142046538594]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref155" level="file">
+          <did>
+            <unittitle>Stewards Files: Orientation Packet-1972</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_7b528dce3dd197389c05599c3353c66c" label="Mixed Materials [31142046538594]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="file">
+          <did>
+            <unittitle>Stewards Files: Pre-1972 Stewards Manual</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_719a78d7839f40ead43cfcb61bdc9ab9" label="Mixed Materials [31142046538594]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref157" level="file">
+          <did>
+            <unittitle>Stewards Files: 1978 New Steward Packet: forms and booklets</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_9444d679e757437774e1e6b698db7eb4" label="Mixed Materials [31142046538594]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref158" level="file">
+          <did>
+            <unittitle>Stewards Files: Stewards Elections: Ballots, and tallies-1978, 1977, 1976</unittitle>
+            <unitdate datechar="creation" normal="1976/1978" type="inclusive">1976-1978</unitdate>
+            <container id="aspace_aff1b29ca5b823ae8a737a85d2f9c294" label="Mixed Materials [31142046538594]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref159" level="file">
+          <did>
+            <unittitle>Contract Negotiations Records: (material is grouped by years of contract. Within each contract period, printed contracts are placed first, followed by national and then local negotiating material)</unittitle>
+            <container id="aspace_86a4e9cfa4e979884f573cbde52fee9a" label="Mixed Materials [31142046538594]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref160" level="file">
+          <did>
+            <unittitle>1963-1964:Agreement between United States Post Office Department and UFPC, NACL, NAPO and GSME, NASDM, NFPOMVE and National Rural Letter Carriers Association
+</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container id="aspace_7d4d83a2559b8d515e7c2928f677ddfb" label="Mixed Materials [31142046538594]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref161" level="file">
+          <did>
+            <unittitle>1963-1964: Contract between NYPO and National Association of Letter Carriers #36, NFPOMVE #2 and MBPU-July 14, 1963: includes supplements for clerks, mobile, mail handlers and maintenance</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container id="aspace_25b2b4ef77691d74fd847c16db1f57fb" label="Mixed Materials [31142046538594]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="file">
+          <did>
+            <unittitle>1963-1964: NYPO and MBPU: Maintenance supplement</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container id="aspace_f31d5ed7af4ad1d588eba5ba5d1f7a70" label="Mixed Materials [31142046538594]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref163" level="file">
+          <did>
+            <unittitle>1963-1964: NYPO Contract Negotiations</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container id="aspace_e33a82c2614436dfa05e8a46ee58c865" label="Mixed Materials [31142046538594]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref164" level="file">
+          <did>
+            <unittitle>1963-1964: Contract implementation-Local: various materials</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container id="aspace_c269db6fb1f3a5b90802ea5d2671ea1c" label="Mixed Materials [31142046538594]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref165" level="file">
+          <did>
+            <unittitle>1963-1964: NYPO with MBPU, National Association of Letter Carriers #36, NFPOMVE #2-1963: local negotiation material-Puerto Rico, Jamaica, Brooklyn Post Office</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container id="aspace_37c289e5b22a99d0a7a3522c318cad35" label="Mixed Materials [31142046538594]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref166" level="file">
+          <did>
+            <unittitle>1963-1964: Local: Union recognition, invalidation, correspondence and memos</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container id="aspace_3eb76b258727aeafd01270724abc85f4" label="Mixed Materials [31142046538594]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref167" level="file">
+          <did>
+            <unittitle>1963-1964: Bronx Post Office Motor Vehicle and mail handler supplements with MBPU </unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container id="aspace_9b6212a70ded4e212ad0e9337a76caf7" label="Mixed Materials [31142046538594]" type="Box">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Contract Negotiations Records:1964-1970</unittitle>
+          <unitdate datechar="creation" normal="1964/1970" type="inclusive">1964-1970</unitdate>
+          <container id="aspace_1c2592aee84cbf9f7b62951394741c03" label="Mixed Materials [31142046538602]" type="Box">10</container>
+        </did>
+        <c id="aspace_ref168" level="file">
+          <did>
+            <unittitle>Agreement between United States Post Office Department and UFPC, National Association of Letter Carriers, NAPO and GSME, NASDM, NFPOMVE and National Rural Letter Carriers Association-July 1, 1964-October 31, 1965: printed (one copy annotated) includes relevant clippings from postal bulletin</unittitle>
+            <unitdate datechar="creation" normal="1964/1965" type="inclusive">July 1, 1964-October 31, 1965</unitdate>
+            <container id="aspace_11a0d30458e947151e36a6c5ec4f945d" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref169" level="file">
+          <did>
+            <unittitle>Postal Bulletin-June 32, 1965: interpretation of 1964 national agreement</unittitle>
+            <unitdate datechar="creation" normal="1964/1965" type="inclusive">June 1965</unitdate>
+            <container id="aspace_7acf286c69cacd0ac18edd9a535c933d" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref170" level="file">
+          <did>
+            <unittitle>Procedures for local regognition and negotiation: with memos from NPU- June 1965, September 1966</unittitle>
+            <unitdate datechar="creation" normal="1965/1966" type="inclusive">June 1965-September 1966</unitdate>
+            <container id="aspace_69eca5ef0afcdfddbad5b7f69c2c9670" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref171" level="file">
+          <did>
+            <unittitle>Mailhandler Election, National-1964: on recognition</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_857740c6a0ecc45244847f06aa37ffbf" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref172" level="file">
+          <did>
+            <unittitle>Agreement between Post Office Bronx New York and National Association of Letter Carriers #36 and MBPU eff. October 1, 1964</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">October 1, 1964</unitdate>
+            <container id="aspace_d35092e50d45246a6c172d9fa2eb0df2" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref173" level="file">
+          <did>
+            <unittitle>Basic Supplementary Bronx contracts for 1964-1965: Bronx Post Office, MBPU and National Association of Letter Carriers #36</unittitle>
+            <unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_1b2cb8a399701792c785b22a3570282d" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref174" level="file">
+          <did>
+            <unittitle>Bronx Post Office contract negotiations-1964</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_de6181d0546087766bbe038e77fcf7f5" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref175" level="file">
+          <did>
+            <unittitle>Agreement between New York, NYPO and National Association of Letter Carriers #36 and MBPU: October 10, 1964-October 31, 1965</unittitle>
+            <unitdate datechar="creation" normal="1964/1965" type="inclusive">October 10, 1964-October 31, 1965</unitdate>
+            <container id="aspace_d0baa1ba52a6a21fa8d6088c453b3c03" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref176" level="file">
+          <did>
+            <unittitle>Bronx Post Office-October 10, 1964-October 31, 1965: negotiation materials and drafts</unittitle>
+            <unitdate datechar="creation" normal="1964/1965" type="inclusive">October 10, 1964-October 31, 1965</unitdate>
+            <container id="aspace_4305a38b3189ad1a7df21354531c2157" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref177" level="file">
+          <did>
+            <unittitle>Bronx Post Office Basic-1964-1965: proposed contract</unittitle>
+            <unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_ebdd9435f23241b5c6aca996bbeb0fe7" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref178" level="file">
+          <did>
+            <unittitle>Supplemental Contract between Bronx Post Office and MBPU for clerks-1964-1965: drafts</unittitle>
+            <unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_62530cd5d9b086b89656d187f726a8f9" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref179" level="file">
+          <did>
+            <unittitle>Contracts with NYPO-October 1964-October 1965</unittitle>
+            <unitdate datechar="creation" normal="1964/1965" type="inclusive">October 1964-October 196</unitdate>
+            <container id="aspace_75452115169d1e25f85e65ceddfea4c5" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref180" level="file">
+          <did>
+            <unittitle>NYPO and MBPU, National Association of Letter Carriers and NFPOMVE #2-1964</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_cba1f2a94fed3d3e496b6abfdbbb4a09" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref181" level="file">
+          <did>
+            <unittitle>Proposals for local contract-1964: correspondence</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_73fe366bdc629e0c95a2650c37800527" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref182" level="file">
+          <did>
+            <unittitle>NYPO Contract May 18, 1965-October 31, 1965: defined work areas at terminal points, correspondence and complaints</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">May 18, 1965-October 31, 1965</unitdate>
+            <container id="aspace_9d01afc6702422025760c5369e66e40e" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref183" level="file">
+          <did>
+            <unittitle>Related publication-Post Office Department, New York Region: Employee-Management Negotiations Procedures and Techniques July 1964</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">July 1964</unitdate>
+            <container id="aspace_5c3c3498b3421085d86f62bfd583ecac" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref184" level="file">
+          <did>
+            <unittitle>Motor Vehicle representation election-November 13-November 20, 1965
+
+</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">November 13-November 20, 1965</unitdate>
+            <container id="aspace_930c74033b6723cd6fac2e173278ef31" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref185" level="file">
+          <did>
+            <unittitle>Impasses, NYPO and Bronx, 1966</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_67edd8f31b2a0b337900b3f66424524c" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref186" level="file">
+          <did>
+            <unittitle>Related publication: Cullen, Donald-Negotiating Labor-Management Contracts, Bulletin 56, NYSSILR-Cornell-September 1965</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">September 1965</unitdate>
+            <container id="aspace_4897b9c5a51ba0afe8cb0634551c6b0b" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref187" level="file">
+          <did>
+            <unittitle>Agreement between United States Post Office Department and National Association of Letter Carriers, NAPO and GSME, mailhandlers, NASDM, NFPOMVE, NRLCA, UFPC-September 24, 1966-October 31, 1967</unittitle>
+            <unitdate datechar="creation" normal="1966/1967" type="inclusive">September 24, 1966-October 31, 1967</unitdate>
+            <container id="aspace_321ff158655f38a81e4a9399421434ac" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref188" level="file">
+          <did>
+            <unittitle>Agreement between United States Post Office Department and UFPC-signed August 31, 1966, eff. To October 31, 1967</unittitle>
+            <unitdate datechar="creation" normal="1966/1967" type="inclusive">August 31, 1966-October 31,1967</unitdate>
+            <container id="aspace_5c979aff1f04b48c9ae25642181ac365" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref189" level="file">
+          <did>
+            <unittitle>1964 and 1966 Agreements between Post Office Department and 7 Employee Organizations holding exclusive recognition, with explanation of changes: September 24, 1966</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">September 24, 1966</unitdate>
+            <container id="aspace_c1e91df84b9749865231f41abea90d9a" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref190" level="file">
+          <did>
+            <unittitle>Postal Bulletin, Special Issue, May 5, 1967 "Interpretation of 1964 and 1966 National Agreements"</unittitle>
+            <unitdate datechar="creation" normal="1964/1967" type="inclusive">May 5, 1967</unitdate>
+            <container id="aspace_3766042475ac5be6fbf0a31d265654ae" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref191" level="file">
+          <did>
+            <unittitle>Agreement between NYPO and National Association of Letter Carriers #36, MBPU, NFPOMVE #92, March 28, 1967-October 31, 1967</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">March 28, 1967-October 31, 1967</unitdate>
+            <container id="aspace_aa186ece0a1242253d6de643fe137794" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref192" level="file">
+          <did>
+            <unittitle>Agreement between Bronx Post Office and National Association of Letter Carriers #36 and MBPU, January 31, 1967-October 31, 1967</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">January 31, 1967-October 31, 1967</unitdate>
+            <container id="aspace_b965ec9558d4f9489b31b11d394285d7" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref193" level="file">
+          <did>
+            <unittitle>Excerpts from "Local Agreement between Post Office, Bronx, and National Postal Union, MBPU" for mailhandlers, eff. January 31, 1967- October 31, 1967</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">January 31, 1967- October 31, 1967</unitdate>
+            <container id="aspace_e0410468a166c69c2ea72e3cef335468" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref194" level="file">
+          <did>
+            <unittitle>Local negotiations-1966: preliminary material and suggestions</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_2936b631dc28b3dd0c00365fdc20929b" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref195" level="file">
+          <did>
+            <unittitle>NYPO contracts-1966-1967</unittitle>
+            <unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate>
+            <container id="aspace_5e892c8d7ba5160e5e3d1a4a2c6f7d51" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref196" level="file">
+          <did>
+            <unittitle>Bronx Post Office agreement with MBP, National Association of Letter Carriers #36 and NFPOMVE #2-1966</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_9ba6b486e1de31a78b4ea4275ad479d9" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref197" level="file">
+          <did>
+            <unittitle>Local-Other locals of NPU: Pittsburgh Post Office and Pittsburgh Postal Union for Maintenance, May 12, 1967-October 31, 1967</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">May 12, 1967-October 31, 1967</unitdate>
+            <container id="aspace_353209c57065bab52403c57c0ed69b39" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref198" level="file">
+          <did>
+            <unittitle>Background research material: Developments in Public Service Labor Relations-A one-day conference conducted by NYSSILR-Cornell, May 12, 1966</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">May 12, 1966</unitdate>
+            <container id="aspace_006e2aa94f2b15d51a19ac4e8750267c" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref199" level="file">
+          <did>
+            <unittitle>Agreement between United States Post Office Department and National Association of Letter Carriers, NAPO and GSME, mailhandlers, NASDM, NFPOMVE, NRLCA, UFPC: March 9, 1968-March 8, 1970</unittitle>
+            <unitdate datechar="creation" normal="1968/1970" type="inclusive">March 9, 1968-March 8, 1970</unitdate>
+            <container id="aspace_8896d0951c83f5d2f186c8b2a22d33fd" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref200" level="file">
+          <did>
+            <unittitle>Impasses: agreed to with region-Albertson, Hempstead, Maserna, Hicksville, Port Jefferson Station, Rockville Center, Valley Stream and Westbury, 1968-1969</unittitle>
+            <unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate>
+            <container id="aspace_582f46941a19aa2c8294cfa4072f0ec7" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref201" level="file">
+          <did>
+            <unittitle>NPU Local Negotiations work seminar, March 16-March 17, 1968</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">March 16-March 17, 1968</unitdate>
+            <container id="aspace_7376d251f6af2e73b54140d5833e2f1a" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref202" level="file">
+          <did>
+            <unittitle>Impasses: Jamaica-1968</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_ac81436aa201a07943cede050ac9a2ba" label="Mixed Materials [31142046538602]" type="Box">10</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>Contract Negotiations Records: 1968-1973</unittitle>
+          <unitdate datechar="creation" normal="1968/1973" type="inclusive">1968-1973</unitdate>
+          <container id="aspace_df5a9ebfb0fa6deeaa665acdf6e9278a" label="Mixed Materials [31142046538610]" type="Box">11</container>
+        </did>
+        <c id="aspace_ref203" level="file">
+          <did>
+            <unittitle>Impasses, 1968-1969: agreed to in region, Washington, Jamaica</unittitle>
+            <unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate>
+            <container id="aspace_fd61aa976c4a2b4fd39e2ac6c9c9fe2d" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref204" level="file">
+          <did>
+            <unittitle>Local agreements: other locals of NPU in New York State and Puerto Rico</unittitle>
+            <container id="aspace_b4d9360e0512e93b7522934e88a9a4d0" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref205" level="file">
+          <did>
+            <unittitle>Bronx Local Agreements, 1968: Basic and Supplementary</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_1247971236e9ec0f3d302695ac67ccb5" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref206" level="file">
+          <did>
+            <unittitle>NYPO contracts and non-negotiable items, 1968</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_9c4dd93a02375e4fae59096c3e9bf48c" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref207" level="file">
+          <did>
+            <unittitle>Mailhandlers report and negotiating material, NYPO-June 1968 (also includes supplemental contract for mailhandlers of New York Post Office Department and MBPU, July 1963-March 1964</unittitle>
+            <unitdate datechar="creation" normal="1963/1968" type="inclusive">July 1963-June 1968</unitdate>
+            <container id="aspace_2a42c367c9be6082d7e3bfb6ddddf816" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref208" level="file">
+          <did>
+            <unittitle>Proposed mailhandler contract, NYPO June 12, 1968</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">June 12, 1968</unitdate>
+            <container id="aspace_414b74926cd0d9d6f6254ae4b3bb3246" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref209" level="file">
+          <did>
+            <unittitle>Local agreement between Bronx Post Office and National Association of Letter Carriers #36, MBPU and Mailhandlers #203, June 10, 1968-March 8, 1970</unittitle>
+            <unitdate datechar="creation" normal="1968/1970" type="inclusive">June 10, 1968-March 8, 1970</unitdate>
+            <container id="aspace_9a9c3a133af36c85891e316bf3522505" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref210" level="file">
+          <did>
+            <unittitle>Local agreement between NYPO and National Association of Letter Carriers #36, MBPU, NFPOMVE #2, March 8, 1970</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">March 8, 1970</unitdate>
+            <container id="aspace_497be5728557a4856b0b0f070afc7ddb" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref211" level="file">
+          <did>
+            <unittitle>Brooklyn Post Office-Local union agreement contracts wth National Association of Letter Carriers #41, March 8, 1970</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">March 8, 1970</unitdate>
+            <container id="aspace_5066a8d021f8649b33ce80ed7733cb62" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref212" level="file">
+          <did>
+            <unittitle>Brooklyn Postal Union-clerical, NASDM 962, Mailhandlers #39, motor vehicle</unittitle>
+            <container id="aspace_80ed6a92b0350ffab122165447901718" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref213" level="file">
+          <did>
+            <unittitle>Local agreement between Bronx Post Office and National Association of Letter Carriers 436, MBPU and Mailhandlers #203, June 6, 1968-March 8, 1970</unittitle>
+            <unitdate datechar="creation" normal="1968/1970" type="inclusive">June 6, 1968-March 8, 1970</unitdate>
+            <container id="aspace_3f1ad3550bba5327773cb6328e970f22" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref214" level="file">
+          <did>
+            <unittitle>Local contract preparation-1968</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_b3a06cd9a1a6fafca032bc91ecfdacd9" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref215" level="file">
+          <did>
+            <unittitle>Bulletin Board Seminars-"Manhattan-Bronx Postal University" on local contract-1968</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_d0ec0e53d7fd64a71324f9fdc0802fd5" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref216" level="file">
+          <did>
+            <unittitle>Local agreement between Bronx Post Office and National Association of Letter Carriers #36, MBPU and Mailhandlers #203, June 10, 1968-March 8, 1970</unittitle>
+            <unitdate datechar="creation" normal="1968/1970" type="inclusive">June 10, 1968-March 8, 1970</unitdate>
+            <container id="aspace_039cc5f099cb587f48ca54ff41077f6c" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref217" level="file">
+          <did>
+            <unittitle>NYPO-Basic and supplemental memos of understanding</unittitle>
+            <container id="aspace_8aa7aed0aa195eabe466c7ee3420d878" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref218" level="file">
+          <did>
+            <unittitle>National Agreement-comparison of 1968-1970 agreement with 1966-1967 agreement</unittitle>
+            <unitdate datechar="creation" normal="1966/1970" type="inclusive">1966-1970</unitdate>
+            <container id="aspace_e60ca81ebcb8f533b39f62c89a8e0927" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref219" level="file">
+          <did>
+            <unittitle>National Collective Bargaining Agreement: United States Postal Service and American Postal Workers Union, July 20, 1971-July 20, 1973</unittitle>
+            <unitdate datechar="creation" normal="1971/1973" type="inclusive">July 20, 1971-July 20, 1973</unitdate>
+            <container id="aspace_c25b640ddb6b4f9b8b9a21f0aba71992" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref220" level="file">
+          <did>
+            <unittitle>Working text: 1971 National agreement, United States Postal Service and National Association of Letter Carriers, NAPOGSME, NASDM, NFPOMVE, NRLCA, UFPC, Mailhandlers, July 20, 1971-July 20, 1973</unittitle>
+            <unitdate datechar="creation" normal="1971/1973" type="inclusive">July 20, 1971-July 20, 1973</unitdate>
+            <container id="aspace_893cfd8c50bf01dc46bf2cfc91a23c4a" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref221" level="file">
+          <did>
+            <unittitle>American Postal Worker, Special Edition, May 1972, National Agreement between American Postal Workers Union and United States Postal Service, 1971-1973</unittitle>
+            <unitdate datechar="creation" normal="1971/1973" type="inclusive">1971-1973</unitdate>
+            <container id="aspace_e1b63d8b943a36a52b1cfcaf5dc3ec46" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref222" level="file">
+          <did>
+            <unittitle>Correspondence, contract orientation booklet, notes and memos, 1970</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_da4702287ebd291aaf4f9394491de6b5" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref223" level="file">
+          <did>
+            <unittitle>Correspondence by Biller, copy of contract , postal bulletins and related material for 1971-1973 American Postal Workers Union contract negotiations material, 1971-1973</unittitle>
+            <unitdate datechar="creation" normal="1971/1973" type="inclusive">1971-1973</unitdate>
+            <container id="aspace_40e7c526f34abf0652b1e5d412979d59" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref224" level="file">
+          <did>
+            <unittitle>Impasses, local-1972</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_f722ea4f8140ff9ae14f14211a11e2b4" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref225" level="file">
+          <did>
+            <unittitle>Local memos: proposals and interpretation meetings, 1972</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_0be499294e64f958a2e316305a716e28" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref226" level="file">
+          <did>
+            <unittitle>Bronx Post Office-Mailhandlers supplemental to memo of agreement, 1972</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_221ea14f5e0f89b3f6cf6e2aabcfaeed" label="Mixed Materials [31142046538610]" type="Box">11</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>Contract Negotiations Records: 1971-1975</unittitle>
+          <unitdate datechar="creation" normal="1971/1975" type="inclusive">1971-1975</unitdate>
+          <container id="aspace_6be24ef782ccdda7719096cca2afcf05" label="Mixed Materials [31142046538628]" type="Box">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Contract Negotiations Records: 1973-1975</unittitle>
+          <unitdate datechar="creation" normal="1973/1975" type="inclusive">1973-1975</unitdate>
+          <container id="aspace_8ba5b17af8b04d9ecd53b9a44fe3a77f" label="Mixed Materials [31142046538636]" type="Box">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>Contract Negotiations Records: 1973-1978</unittitle>
+          <unitdate datechar="creation" normal="1973/1978" type="inclusive">1973-1978</unitdate>
+          <container id="aspace_48f68c1da9ec0711cd3380a7a1d42708" label="Mixed Materials [31142046538644]" type="Box">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Contract Negotiations Records: 1975-1981</unittitle>
+          <unitdate datechar="creation" normal="1975/1981" type="inclusive">1975-1981</unitdate>
+          <container id="aspace_e8eeb4e712371bb90b09755e319a1f1f" label="Mixed Materials [31142046538651]" type="Box">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>Contract Negotiations Records: 1960-1979</unittitle>
+          <unitdate datechar="creation" normal="1960/1979" type="inclusive">1960-1979</unitdate>
+          <container id="aspace_71c2181052f2890952ecdd53b74eaf3f" label="Mixed Materials [31142046538669]" type="Box">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>Contract Negotiations Records: 1963-1974</unittitle>
+          <unitdate datechar="creation" normal="1963/1974" type="inclusive">1963-1974</unitdate>
+          <container id="aspace_b1eddbf75d92042ba88b02a10b9cbf24" label="Mixed Materials [31142046538677]" type="Box">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>Contract Negotiations Records:1962-1980</unittitle>
+          <unitdate datechar="creation" normal="1962/1980" type="inclusive">1962-1980</unitdate>
+          <container id="aspace_33f05492d85f488ff1bfc467284b681f" label="Mixed Materials [31142046538685]" type="Box">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Contract Negotiations Records: 1962-1980</unittitle>
+          <unitdate datechar="creation" normal="1962/1980" type="inclusive">1962-1980</unitdate>
+          <container id="aspace_c6ba190e34ffed2260a5d64a49b8a443" label="Mixed Materials [31142046538693]" type="Box">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>Contract Negotiations Records: 1964-1979</unittitle>
+          <unitdate datechar="creation" normal="1964/1979" type="inclusive">1964-1979</unitdate>
+          <container id="aspace_a86259714237de443637a936847ab446" label="Mixed Materials [31142046538701]" type="Box">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>Contract Negotiations Records: 1975-1980</unittitle>
+          <unitdate datechar="creation" normal="1975/1980" type="inclusive">1975-1980</unitdate>
+          <container id="aspace_5e1f6beb534f0abcf95ab8f4284079fa" label="Mixed Materials [31142046538719]" type="Box">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>Contract Negotiations Records: 1956-1980</unittitle>
+          <unitdate datechar="creation" normal="1956/1980" type="inclusive">1956-1980</unitdate>
+          <container id="aspace_4feef4488f2de73cf078418a92c32fd5" label="Mixed Materials [31142046538727]" type="Box">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>Contract Negotiations Records: 1956-1980</unittitle>
+          <unitdate datechar="creation" normal="1956/1980" type="inclusive">1956-1980</unitdate>
+          <container id="aspace_e15a75d90adb18c44be9cb595d891bb0" label="Mixed Materials [31142046538735]" type="Box">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>Contract Negotiations Records: 1957-1979</unittitle>
+          <unitdate datechar="creation" normal="1957/1979" type="inclusive">1957-1979</unitdate>
+          <container id="aspace_186b4cd62d9bb1531d3b9e81ddb492af" label="Mixed Materials [31142046538743]" type="Box">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>Arbitration Cases: 1978</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container id="aspace_c0b79f5533f23ecf569dd276a8caf86c" label="Mixed Materials [31142046538750]" type="Box">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>Arbitration Cases: Local Units NYPO and Meadows: snowstorm-Administrative leave cases (certified for arbitration), 1978
+</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container id="aspace_ce91144d2d733c494b762775074a1953" label="Mixed Materials [31142046538768]" type="Box">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle>Arbitration Cases: Local Units Meadows: snowstorm-Administrative leave cases (certified for arbitration), 1978
+</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container id="aspace_1c0c5c74144180a3e3dda0aceaa499c9" label="Mixed Materials [31142046538776]" type="Box">27</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="file">
+        <did>
+          <unittitle>Local: 1968-1976</unittitle>
+          <unitdate datechar="creation" normal="1968/1976" type="inclusive">1968-1976</unitdate>
+          <container id="aspace_2c10b6d5d4b2811c3bbbbc3a24cf2adf" label="Mixed Materials [31142046538784]" type="Box">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="file">
+        <did>
+          <unittitle>Local: 1972-1977</unittitle>
+          <unitdate datechar="creation" normal="1972/1977" type="inclusive">1972-1977</unitdate>
+          <container id="aspace_66413b97c0f2a8c3c1b70d2d57b99b08" label="Mixed Materials [31142046538792]" type="Box">29</container>
+        </did>
+      </c>
+      <c id="aspace_ref41" level="file">
+        <did>
+          <unittitle>Local: 1966-1973</unittitle>
+          <unitdate datechar="creation" normal="1966/1973" type="inclusive">1966-1973</unitdate>
+          <container id="aspace_f62df3f7c315ca7691fbdf4df2b3d45b" label="Mixed Materials [31142046538800]" type="Box">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref42" level="file">
+        <did>
+          <unittitle>Local:1969-1973</unittitle>
+          <unitdate datechar="creation" normal="1969/1973" type="inclusive">1969-1973</unitdate>
+          <container id="aspace_a797e33285ba466260b3266dc2f665ff" label="Mixed Materials [31142046538818]" type="Box">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref43" level="file">
+        <did>
+          <unittitle>Local: 1959-1973</unittitle>
+          <unitdate datechar="creation" normal="1959/1973" type="inclusive">1959-1973</unitdate>
+          <container id="aspace_bb30fb4146d31f47d7b1bdb5ac1ae55a" label="Mixed Materials [31142046538826]" type="Box">32</container>
+        </did>
+      </c>
+      <c id="aspace_ref44" level="file">
+        <did>
+          <unittitle>Local: 1967-1973</unittitle>
+          <unitdate datechar="creation" normal="1967/1973" type="inclusive">1967-1973</unitdate>
+          <container id="aspace_0ac12cb87dfdd103361c672a207c3945" label="Mixed Materials [31142046538834]" type="Box">33</container>
+        </did>
+      </c>
+      <c id="aspace_ref45" level="file">
+        <did>
+          <unittitle>Local: 1970-1977</unittitle>
+          <unitdate datechar="creation" normal="1970/1977" type="inclusive">1970-1977</unitdate>
+          <container id="aspace_e12211e1ec8edc6ec2c5cccba4709418" label="Mixed Materials [31142046538842]" type="Box">34</container>
+        </did>
+      </c>
+      <c id="aspace_ref46" level="file">
+        <did>
+          <unittitle>Local: 1963-1975</unittitle>
+          <unitdate datechar="creation" normal="1963/1975" type="inclusive">1963-1975</unitdate>
+          <container id="aspace_0e751646d7b2e255bf900553fcb1d979" label="Mixed Materials [31142046538859]" type="Box">35</container>
+        </did>
+      </c>
+      <c id="aspace_ref47" level="file">
+        <did>
+          <unittitle>Local: 1961-1978</unittitle>
+          <unitdate datechar="creation" normal="1961/1978" type="inclusive">1961-1978</unitdate>
+          <container id="aspace_d9a2b96eb3f6686ce32353e9b5c52918" label="Mixed Materials [31142046538867]" type="Box">36</container>
+        </did>
+      </c>
+      <c id="aspace_ref48" level="file">
+        <did>
+          <unittitle>Local: 1970-1978</unittitle>
+          <unitdate datechar="creation" normal="1970/1978" type="inclusive">1970-1978</unitdate>
+          <container id="aspace_112be1198936b42ceb3072179df8e23b" label="Mixed Materials [31142046538875]" type="Box">37</container>
+        </did>
+      </c>
+      <c id="aspace_ref49" level="file">
+        <did>
+          <unittitle>Local: 1972-1976</unittitle>
+          <unitdate datechar="creation" normal="1972/1976" type="inclusive">1972-1976</unitdate>
+          <container id="aspace_247a6781ea526b974eee17f54e89ec8a" label="Mixed Materials [31142046538883]" type="Box">38</container>
+        </did>
+      </c>
+      <c id="aspace_ref50" level="file">
+        <did>
+          <unittitle>Local: 1969-1975 and Arbitration Materials</unittitle>
+          <unitdate datechar="creation" normal="1969/1975" type="inclusive">1969-1975</unitdate>
+          <container id="aspace_bc5779aedc2d22d4a20620967ca73c99" label="Mixed Materials [31142046538891]" type="Box">39</container>
+        </did>
+      </c>
+      <c id="aspace_ref51" level="file">
+        <did>
+          <unittitle>Local: 1962-1979 and Local-Individuals</unittitle>
+          <unitdate datechar="creation" normal="1962/1979" type="inclusive">1962-1979</unitdate>
+          <container id="aspace_cb4dcd98e7d632843709a9d4c3fb1fe5" label="Mixed Materials [31142046538909]" type="Box">40</container>
+        </did>
+      </c>
+      <c id="aspace_ref52" level="file">
+        <did>
+          <unittitle>Local-Individuals and Arbitrations, 1970-1978</unittitle>
+          <unitdate datechar="creation" normal="1970/1978" type="inclusive">1970-1978</unitdate>
+          <container id="aspace_00fc824104601cbeab6fed5ca027d1f7" label="Mixed Materials [31142046538917]" type="Box">41</container>
+        </did>
+      </c>
+      <c id="aspace_ref53" level="file">
+        <did>
+          <unittitle>Arbitrations: 1958-1981</unittitle>
+          <unitdate datechar="creation" normal="1958/1981" type="inclusive">1958-1981</unitdate>
+          <container id="aspace_3a1a23a28c9fd059f0c36ef71727610c" label="Mixed Materials [31142046538925]" type="Box">42</container>
+        </did>
+      </c>
+      <c id="aspace_ref54" level="file">
+        <did>
+          <unittitle>Arbitrations: 1958-1980</unittitle>
+          <unitdate datechar="creation" normal="1958/1980" type="inclusive">1958-1980</unitdate>
+          <container id="aspace_64aebf87906dbe37cabf9376dcf0c69d" label="Mixed Materials [31142046538933]" type="Box">43</container>
+        </did>
+      </c>
+      <c id="aspace_ref55" level="file">
+        <did>
+          <unittitle>Arbitrations: 1967-1980</unittitle>
+          <unitdate datechar="creation">1967-1980</unitdate>
+          <container id="aspace_af43227e5175f136fc59ac22abe6979a" label="Mixed Materials [31142046538941]" type="Box">44</container>
+        </did>
+      </c>
+      <c id="aspace_ref56" level="file">
+        <did>
+          <unittitle>Regional and Counsel Files-Court Cases, 1948-1977</unittitle>
+          <unitdate datechar="creation" normal="1948/1977" type="inclusive">1948-1977</unitdate>
+          <container id="aspace_a42ab0039a5de4ab9ff19bc3e7627485" label="Mixed Materials [31142046538958]" type="Box">45</container>
+        </did>
+      </c>
+      <c id="aspace_ref57" level="file">
+        <did>
+          <unittitle>General Subject Files: 1953-1979</unittitle>
+          <unitdate datechar="creation" normal="1953/1979" type="inclusive">1953-1979</unitdate>
+          <container id="aspace_d255c642802c5137307b5cbd2b7c1039" label="Mixed Materials [31142046538966]" type="Box">46</container>
+        </did>
+      </c>
+      <c id="aspace_ref58" level="file">
+        <did>
+          <unittitle>General Subject Files: 1961-1979</unittitle>
+          <unitdate datechar="creation" normal="1961/1979" type="inclusive">1961-1979</unitdate>
+          <container id="aspace_d68df83bdf1d1e4488e549c72cca4046" label="Mixed Materials [31142046538974]" type="Box">47</container>
+        </did>
+      </c>
+      <c id="aspace_ref59" level="file">
+        <did>
+          <unittitle>General Subject Files: 1968-1980</unittitle>
+          <unitdate datechar="creation" normal="1968/1980" type="inclusive">1968-1980</unitdate>
+          <container id="aspace_994dc3c29b4f9fe120261f3e8ea5c5ad" label="Mixed Materials [31142046538982]" type="Box">48</container>
+        </did>
+      </c>
+      <c id="aspace_ref60" level="file">
+        <did>
+          <unittitle>General Subject Files: 1953-1980</unittitle>
+          <unitdate datechar="creation" normal="1953/1980" type="inclusive">1953-1980</unitdate>
+          <container id="aspace_c81e30cb8fd9b07eab2445d0c819cf10" label="Mixed Materials [31142046538990]" type="Box">49</container>
+        </did>
+      </c>
+      <c id="aspace_ref61" level="file">
+        <did>
+          <unittitle>General Subject Files: 1961-1980</unittitle>
+          <unitdate datechar="creation" normal="1961/1980" type="inclusive">1961-1980</unitdate>
+          <container id="aspace_9cd88e189ea2385084e9e65915e92754" label="Mixed Materials [31142046539006]" type="Box">50</container>
+        </did>
+      </c>
+      <c id="aspace_ref62" level="file">
+        <did>
+          <unittitle>General Subject Files: 1955-1979</unittitle>
+          <unitdate datechar="creation" normal="1955/1979" type="inclusive">1955-1979</unitdate>
+          <container id="aspace_91bb76e031289bce15f4a68b74eccb60" label="Mixed Materials [31142046539014]" type="Box">51</container>
+        </did>
+      </c>
+      <c id="aspace_ref63" level="file">
+        <did>
+          <unittitle>General Subject Files: 1964-1974</unittitle>
+          <unitdate datechar="creation" normal="1964/1974" type="inclusive">1964-1974</unitdate>
+          <container id="aspace_98d38ce8784a1a42227c9a13a4a1b6e0" label="Mixed Materials [31142046539022]" type="Box">52</container>
+        </did>
+      </c>
+      <c id="aspace_ref64" level="file">
+        <did>
+          <unittitle>General Subject Files: 1963-1979</unittitle>
+          <unitdate datechar="creation" normal="1963/1979" type="inclusive">1963-1979</unitdate>
+          <container id="aspace_dd2a53d8acecc3f00ad17ce479933e10" label="Mixed Materials [31142046539030]" type="Box">53</container>
+        </did>
+      </c>
+      <c id="aspace_ref65" level="file">
+        <did>
+          <unittitle>General Subject Files: 1959-1980</unittitle>
+          <unitdate datechar="creation" normal="1959/1980" type="inclusive">1959-1980</unitdate>
+          <container id="aspace_35eae7b47e8b3f8b8ba88ef48c679058" label="Mixed Materials [31142046539048]" type="Box">54</container>
+        </did>
+      </c>
+      <c id="aspace_ref66" level="file">
+        <did>
+          <unittitle>General Subject Files: 1961-1967</unittitle>
+          <unitdate datechar="creation" normal="1961/1967" type="inclusive">1961-1967</unitdate>
+          <container id="aspace_ac4b66ec44abf7a23dadfc913a1d09b1" label="Mixed Materials [31142046539055]" type="Box">55</container>
+        </did>
+      </c>
+      <c id="aspace_ref67" level="file">
+        <did>
+          <unittitle>General Subject Files: 1960-1980</unittitle>
+          <unitdate datechar="creation" normal="1960/1980" type="inclusive">1960-1980</unitdate>
+          <container id="aspace_8fa64126c16422c78f2c6350ed52a40f" label="Mixed Materials [31142046539063]" type="Box">56</container>
+        </did>
+      </c>
+      <c id="aspace_ref68" level="file">
+        <did>
+          <unittitle>General Subject Files: 1957-1980</unittitle>
+          <unitdate datechar="creation" normal="1957/1980" type="inclusive">1957-1980</unitdate>
+          <container id="aspace_c6237b2faa501fb38d6d4c271d7f91c1" label="Mixed Materials [31142046539071]" type="Box">57</container>
+        </did>
+      </c>
+      <c id="aspace_ref69" level="file">
+        <did>
+          <unittitle>Women and the Postal Service Files: 1932-1980</unittitle>
+          <unitdate datechar="creation" normal="1932/1980" type="inclusive">1932-1980</unitdate>
+          <container id="aspace_13bcfa0ab6d691562e4a507afc1fd122" label="Mixed Materials [31142046539089]" type="Box">58</container>
+        </did>
+      </c>
+      <c id="aspace_ref70" level="file">
+        <did>
+          <unittitle>Motor Vehicles Division Records and the Union Mail Office Files, 1939-1978</unittitle>
+          <unitdate datechar="creation" normal="1939/1978" type="inclusive">1939-1978</unitdate>
+          <container id="aspace_4014305fb5efb2b71418a3201d90321c" label="Mixed Materials [31142046539097]" type="Box">59</container>
+        </did>
+      </c>
+      <c id="aspace_ref71" level="file">
+        <did>
+          <unittitle>Affiliates Records: 1910-1973</unittitle>
+          <unitdate datechar="creation" normal="1910/1973" type="inclusive">1910-1973</unitdate>
+          <container id="aspace_9364ab06e2d4ac598eea4876329d9bef" label="Mixed Materials [31142046539105]" type="Box">60</container>
+        </did>
+      </c>
+      <c id="aspace_ref72" level="file">
+        <did>
+          <unittitle>Affiliates Records: 1959-1966</unittitle>
+          <unitdate datechar="creation" normal="1959/1966" type="inclusive">1959-1966</unitdate>
+          <container id="aspace_fb1ee6ff549d989e2cfa26eb41da585e" label="Mixed Materials [31142046539113]" type="Box">61</container>
+        </did>
+      </c>
+      <c id="aspace_ref73" level="file">
+        <did>
+          <unittitle>Affiliates Records: 1959-1972</unittitle>
+          <unitdate datechar="creation" normal="1959/1972" type="inclusive">1959-1972</unitdate>
+          <container id="aspace_1f52d465428ae25109a4b09c93702db6" label="Mixed Materials [31142046539121]" type="Box">62</container>
+        </did>
+      </c>
+      <c id="aspace_ref74" level="file">
+        <did>
+          <unittitle>Affiliates Records: 1962-1969</unittitle>
+          <unitdate datechar="creation" normal="1962/1969" type="inclusive">1962-1969</unitdate>
+          <container id="aspace_3f8ddfc416b57b89b2cd7b108ae9af01" label="Mixed Materials [31142046539139]" type="Box">63</container>
+        </did>
+      </c>
+      <c id="aspace_ref75" level="file">
+        <did>
+          <unittitle>Affiliates Records: 1962-1979</unittitle>
+          <unitdate datechar="creation" normal="1962/1979" type="inclusive">1962-1979</unitdate>
+          <container id="aspace_cdf6b8f4519f5919e59b516ee5749caf" label="Mixed Materials [31142046539147]" type="Box">64</container>
+        </did>
+      </c>
+      <c id="aspace_ref76" level="file">
+        <did>
+          <unittitle>Affiliates Records: 1975-1979</unittitle>
+          <unitdate datechar="creation" normal="1975/1979" type="inclusive">1975-1979</unitdate>
+          <container id="aspace_7b0f2098582c35d92530240cdc7a0008" label="Mixed Materials [31142046539154]" type="Box">65</container>
+        </did>
+      </c>
+      <c id="aspace_ref77" level="file">
+        <did>
+          <unittitle>Affiliates Records: 1971-1979</unittitle>
+          <unitdate datechar="creation" normal="1971/1979" type="inclusive">1971-1979</unitdate>
+          <container id="aspace_3058eb6a67f8ccb9e2dd4dca92aa6ba0" label="Mixed Materials [31142046539162]" type="Box">66</container>
+        </did>
+      </c>
+      <c id="aspace_ref78" level="file">
+        <did>
+          <unittitle>Affiliates Records: 1971-1975</unittitle>
+          <unitdate datechar="creation" normal="1971/1975" type="inclusive">1971-1975</unitdate>
+          <container id="aspace_ba58ef5306fc04bf3e67edbb73dec25c" label="Mixed Materials [31142046539170]" type="Box">67</container>
+        </did>
+      </c>
+      <c id="aspace_ref79" level="file">
+        <did>
+          <unittitle>Affiliates Records: 1961-1973</unittitle>
+          <unitdate datechar="creation" normal="1961/1973" type="inclusive">1961-1973</unitdate>
+          <container id="aspace_9545725ae99e68a428d282a51229f3f1" label="Mixed Materials [31142046539188]" type="Box">68</container>
+        </did>
+      </c>
+      <c id="aspace_ref80" level="file">
+        <did>
+          <unittitle>Affiliates Records: 1960-1973</unittitle>
+          <unitdate datechar="creation" normal="1960/1973" type="inclusive">1960-1973</unitdate>
+          <container id="aspace_b6a2444143de8a498cc22a5a3ffeca40" label="Mixed Materials [31142046539196]" type="Box">69</container>
+        </did>
+      </c>
+      <c id="aspace_ref81" level="file">
+        <did>
+          <unittitle>Affiliates Records: 1941-1980</unittitle>
+          <unitdate datechar="creation" normal="1941/1980" type="inclusive">1941-1980</unitdate>
+          <container id="aspace_a8141ad971064c9e12e5bef3a3dc971c" label="Mixed Materials [31142046539204]" type="Box">70</container>
+        </did>
+      </c>
+      <c id="aspace_ref82" level="file">
+        <did>
+          <unittitle>Affiliates Records and Management-United States Postal Service, 1946-1979</unittitle>
+          <unitdate datechar="creation" normal="1946/1979" type="inclusive">1946-1979</unitdate>
+          <container id="aspace_1ca84164add13e16c96c60a6f05cd646" label="Mixed Materials [31142046539212]" type="Box">71</container>
+        </did>
+      </c>
+      <c id="aspace_ref83" level="file">
+        <did>
+          <unittitle>Management-United States Postal Service, 1962-1979</unittitle>
+          <unitdate datechar="creation" normal="1962/1979" type="inclusive">1962-1979</unitdate>
+          <container id="aspace_125c8db0261afbd3ef2c932febbba744" label="Mixed Materials [31142046539220]" type="Box">72</container>
+        </did>
+      </c>
+      <c id="aspace_ref84" level="file">
+        <did>
+          <unittitle>Management-United States Postal Service, 1955-1980</unittitle>
+          <unitdate datechar="creation" normal="1955/1980" type="inclusive">1955-1980</unitdate>
+          <container id="aspace_d442c0802a4ab5e11e9440f4902e9003" label="Mixed Materials [31142046539238]" type="Box">73</container>
+        </did>
+      </c>
+      <c id="aspace_ref85" level="file">
+        <did>
+          <unittitle>News Flashes, Bulletins, Reports and News Services: 1957-1964</unittitle>
+          <unitdate datechar="creation" normal="1957/1964" type="inclusive">1957-1964</unitdate>
+          <container id="aspace_5219fea090c8512a8aea1eb5eee1c5ba" label="Mixed Materials [31142046539246]" type="Box">74</container>
+        </did>
+      </c>
+      <c id="aspace_ref86" level="file">
+        <did>
+          <unittitle>News Flashes, Bulletins, Reports and News Services: 1965-1968</unittitle>
+          <unitdate datechar="creation" normal="1965/1968" type="inclusive">1965-1968</unitdate>
+          <container id="aspace_aede25cc31a598b3f06328031f8eefe2" label="Mixed Materials [31142046539253]" type="Box">75</container>
+        </did>
+      </c>
+      <c id="aspace_ref87" level="file">
+        <did>
+          <unittitle>News Flashes, Bulletins, Reports and News Services: 1969-1976</unittitle>
+          <unitdate datechar="creation" normal="1969/1976" type="inclusive">1969-1976</unitdate>
+          <container id="aspace_f5abe5307ece425a03a7681a23314545" label="Mixed Materials [31142046539261]" type="Box">76</container>
+        </did>
+      </c>
+      <c id="aspace_ref88" level="file">
+        <did>
+          <unittitle>News Flashes, Bulletins, Reports and News Services: 1943-1980</unittitle>
+          <unitdate datechar="creation" normal="1943/1980" type="inclusive">1943-1980</unitdate>
+          <container id="aspace_4a6004ef2b8873b3bc6ec57c7a358681" label="Mixed Materials [31142046539279]" type="Box">77</container>
+        </did>
+      </c>
+      <c id="aspace_ref89" level="file">
+        <did>
+          <unittitle>News Flashes, Bulletins, Reports and News Services: 1959-1971</unittitle>
+          <unitdate datechar="creation" normal="1959/1971" type="inclusive">1959-1971</unitdate>
+          <container id="aspace_5a37733e98ec820d6067e537e97a60b3" label="Mixed Materials [31142046539287]" type="Box">78</container>
+        </did>
+      </c>
+      <c id="aspace_ref90" level="file">
+        <did>
+          <unittitle>News Flashes, Bulletins, Reports and News Services: 1971-1980</unittitle>
+          <unitdate datechar="creation" normal="1971/1980" type="inclusive">1971-1980</unitdate>
+          <container id="aspace_e013a6ebe32bbe976c56cf1859518357" label="Mixed Materials [31142046539295]" type="Box">79</container>
+        </did>
+      </c>
+      <c id="aspace_ref91" level="file">
+        <did>
+          <unittitle>News Flashes, Bulletins, Reports and News Services: 1949-1980</unittitle>
+          <unitdate datechar="creation" normal="1949/1980" type="inclusive">1949-1980</unitdate>
+          <container id="aspace_ca3e65d5d9fd014d97ecb9765d53a2bd" label="Mixed Materials [31142046539303]" type="Box">80</container>
+        </did>
+      </c>
+      <c id="aspace_ref227" level="file">
+        <did>
+          <unittitle>Archived Websites</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2 websites</extent>
+            <extent altrender="carrier">in 2 archived websites.</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="2009-12-03/2009-12-03">December 2009-ongoing</unitdate>
+          <container id="aspace_dbd2eb9b67b20cb8022fd0b7a645aa58" label="electronic records" type="Box">Electronic Records</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6349/*/http://www.nymetro.org/ " xlink:role="external-link" xlink:show="new" xlink:title="New York Metro Area Postal Union Archived Website" xlink:type="simple">
+            <daodesc>
+              <p>New York Metro Area Postal Union Archived Website: December 2009-ongoing</p>
+            </daodesc>
+          </dao>
+          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6349/*/https://www.facebook.com/2014nymetro/" xlink:role="external-link" xlink:show="new" xlink:title="New York Metro Area Postal Union Facebook Archived Website" xlink:type="simple">
+            <daodesc>
+              <p>New York Metro Area Postal Union Facebook Archived Website: September 2020-ongoing</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_c59214ae9a29c866d815f6845b3ba060">
+          <head>Scope and Content Note</head>
+          <p>The New York Metro Area Postal Union (American Postal Workers Union, Local 10) represents clerks, motor vehicle staff, maintenance workers and mail-handlers in the greater New York City area. In 1973 the union changed its name to the New York Metro Area Postal Union, from the Postal Union of Manhattan-Bronx Clerks, the new name reflecting the inclusion of the New York Bulk and Foreign Mail Center and the North Jersey Facility in the local's bargaining unit. The first capture of the website was in 2009, calling for US senators to vote no on Senate Bill S1507 and support for Federal Employees Retirement System. In 2013, the website went through a redesign and focused on steward election results and news from the American Postal Workers Union. In 2016, the website went through the most recent redesign. The website contains news and event listings, their health plan, issues of their newsletter Union Mail, agreements, and other materials.</p>
+          <p>The Facebook page for the New York Metro Area Postal Union contains videos from union president Johnathan Smith and posts related to the COVID-19 pandemic, calls for Postmaster General Louis DeJoy to resign,  event listings, mail-in voting, weather alerts, and other events.</p>
+        </scopecontent>
+        <phystech id="aspace_3eca0df87bf1d56d9759268337751c25">
+          <head>Physical Characteristics and Technical Requirements</head>
+          <p>Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</p>
+          <p>From March 2021 to as of this writing (September 2021) Facebook was unsuccessfully captured. </p>
+        </phystech>
+        <accruals id="aspace_bebdded8dfc06eea7ed04b8862bc87ad">
+          <head>Accruals</head>
+          <p>https://www.nymetro.org/ is accrued semiannually. https://www.facebook.com/2014nymetro/ is accrued monthly.</p>
+        </accruals>
+        <appraisal id="aspace_91d8e58cae7c66e96cd56d05508264b1">
+          <head>Appraisal</head>
+          <p>Crawl was limited to domains and subdomains of nymetro.org, facebook.com/2014nymetro, web-extract.constantcontact.com in order to remain within the collection scope and data constraints.</p>
+        </appraisal>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

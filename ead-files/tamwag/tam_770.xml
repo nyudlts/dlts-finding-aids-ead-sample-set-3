@@ -1,0 +1,2224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_770">tam_770</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Tamiment Library and Robert F. Wagner Labor Archives Collection of Latin America Serials <num>TAM.770</num></titleproper>
+        <author>Megan O'Shea, Jennipher Ambrose, and Alexa Logush</author>
+        <sponsor>The arrangement, description, and encoding of this collection has been made possible in part by a major grant from the National Endowment for the Humanities: Exploring the human endeavor.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>January 2019</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 04:03:43 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Tamiment Library and Robert F. Wagner Labor Archives Collection of Latin America Serials</unittitle>
+      <origination label="Creator">
+        <corpname source="local">Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </origination>
+      <unitid>TAM.770</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">10.7 Linear Feet</extent>
+        <extent altrender="carrier">in 17 manuscript boxes and 13 flat boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1937/2008" type="inclusive">1937-2008</unitdate>
+      <unitdate datechar="creation" normal="1960/1999" type="bulk">1960-1999</unitdate>
+      <physloc id="aspace_3b1891d520ca29a5e24e91e5f80d4cef">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <abstract id="aspace_9ce0e357f845f4f134c23ff02aeed21b">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Latin America Serials contains over 250 titles published in Latin America, the United States, and other countries on politics, social issues, and culture in Latin America in the 20th century.  The collection dates between 1937 and 2008, with the bulk of the material dating from the 1960s through the 1990s.  Topics include civil wars and revolutions in Central and South America between the 1960s and the 1980s, immigration and refugee issues, communism in Latin America, and United States intervention in the region in the 1970s and 1980s.</abstract>
+      <langmaterial id="aspace_0e6cd95bb91b10907ee8971aafef2641">Materials primarily in Spanish, with some publications in English, Portuguese, German, and Italian.</langmaterial>
+    </did>
+    <arrangement id="aspace_75e3d80b0d5bef52c3982485910f8031">
+      <head>Arrangement</head>
+      <p>Serials in this collection are arranged alphabetically by title.</p>
+    </arrangement>
+    <accessrestrict id="aspace_9fa2094861a1459532755407b2bc47f8">
+      <head>Conditions Governing Access</head>
+      <p>Open to users without restriction.</p>
+    </accessrestrict>
+    <userestrict id="aspace_4fd8ba26ade05a36a365094cfcf9db52">
+      <head>Conditions Governing Use</head>
+      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. The Tamiment Library &amp; Robert F. Wagner Labor Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>
+    </userestrict>
+    <acqinfo id="aspace_afbe3e6ea80bafb756062c3b137e413a">
+      <head>Immediate Source of Acquisition</head>
+      <p>This collection combines serials relating to Latin America drawn from two discrete groups of material held by the Tamiment Library. The first was a partially inventoried backlog of serials, received by the library through donations, subscriptions, and in archival collections. The second group consisted of around 1,700 serials, newspapers, and magazines, organized by title as an artificial collection, referred to as Periodicals.001 or Boxed Newspapers. This material was combined, inventoried, and arranged and described in subject-based categories in 2017. The accession number related to this collection is 2017.049.</p>
+    </acqinfo>
+    <prefercite id="aspace_518fde6c012d2e468f0c65abd5d95883">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Tamiment Library and Robert F. Wagner Labor Archives Collection of Latin America Serials; TAM 770; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_c3df5e4f3586cf7a02d76fd96bfd90b2">
+      <head>Processing Information</head>
+      <p>The material in this collection was assembled from various backlogs of uncataloged material held by the Tamiment Library. This material was inventoried, separated according to its subject matter, and arranged in a series of subject-based artificial collections. Accumulations of material relating to Latin America were identified and brought together physically. Materials were housed in archival folders and boxes according to size. The inventory is arranged alphabetically by title of publication, with publishing organization and place of publication listed when known.</p>
+    </processinfo>
+    <scopecontent id="aspace_3368c50303fce2cf7a37364aa36a368f">
+      <head>Scope and Contents</head>
+      <p>The Tamiment Library and Robert F. Wagner Labor Archives Collection of Latin America Serials contains over 250 titles published in Latin America, the United States (US), and other countries on politics, social issues, and culture in Latin America in the 20th century.  The collection dates between 1937 and 2008, with the bulk of the material dating from the 1960s through the 1990s.  Topics include civil wars and revolutions in El Salvador, Nicaragua, Guatemala, and Colombia through the 1960s and 1990s; immigration and refugee issues in New York and Florida; and United States intervention in the region in the 1970s and 1980s.  The majority of the collection focuses on Central and South America, but some serials focus on issues in Haiti, the West Indies, Grenada, and Jamaica and issues relating to emigrants from those islands.  Other topics include issues surrounding Cuban immigrants and refugees in the US and communism in Latin America.  Large runs include <emph render="italic">Latin American Perspectives</emph> and <emph render="italic">Unidad Latina</emph>.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Communism -- Cuba.</subject>
+      <geogname source="lcsh">Cuba --  History -- 20th century.</geogname>
+      <geogname source="lcsh">Latin America -- Politics and government -- 20th century.</geogname>
+      <geogname source="lcsh">Latin America -- Relations -- United States.</geogname>
+      <genreform source="aat">Serials (publications)</genreform>
+      <geogname source="lcsh">El Salvador -- Politics and government -- 1979-1992.</geogname>
+      <geogname source="lcsh">Caribbean Area -- Politics and government.</geogname>
+      <subject source="lcsh">National liberation movements -- Latin America -- History.</subject>
+      <subject source="lcsh">Civil War -- Latin America.</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_dac29c67bcfbab1d2a7dadf571e0d424" level="file">
+        <did>
+          <unittitle><emph render="italic">1984: At 50 Years...Sandino Lives: Commemoration of the 50th Anniversary of the death of General Augusto C. Sandino</emph> : May 19th Communist Organization, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_17367a6ef8745f1dece5d82b909d7ce9" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_c05548f961b90c942fa99a0995b806c5" parent="aspace_17367a6ef8745f1dece5d82b909d7ce9" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_60cbd8161eee254dde042eff36be18e0" level="file">
+        <did>
+          <unittitle><emph render="italic">Abdala Newsletter</emph> : Abdala Cuban Movement, Coral Gables, FL</unittitle>
+          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0be105d7b4bea50c7ea8278ba779b7e1" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_e25b8ef4d899fd28fc7320e821612da3" parent="aspace_0be105d7b4bea50c7ea8278ba779b7e1" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_dfa22471bc902eb751aa5420b447e3f3" level="file">
+        <did>
+          <unittitle><emph render="italic">Abigarrada</emph> : Abigarrada, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_70258f3ed6de52c7c3856c43462fe8e9" label="Mixed Materials [31142063007671]" type="Box">29</container>
+          <container id="aspace_50ebc852f663c518ace20ee61b1480b4" parent="aspace_70258f3ed6de52c7c3856c43462fe8e9" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_85e85372b95d8ceb14da0f94201300a6" level="file">
+        <did>
+          <unittitle><emph render="italic">Accion Libertaria</emph> : La Federacion Libertaria Argentina, Buenos Aires, Argentina</unittitle>
+          <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_549aed8f5843a25e883325c386c77d8f" label="Mixed Materials [31142063007408]" type="Box">2</container>
+          <container id="aspace_e04e086a4613c7c560216b256d572a49" parent="aspace_549aed8f5843a25e883325c386c77d8f" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_56dab917521aaf3cc5615f4d9ff0f905" level="file">
+        <did>
+          <unittitle><emph render="italic">Accion Libertaria</emph> : Regional de Asturias y Leon, Buenos Aires, Argentina</unittitle>
+          <unitdate datechar="creation" normal="1979/1982" type="inclusive">1979-1982</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_ea6507456de61a5eadd516545759c1be" label="Mixed Materials [31142063007408]" type="Box">2</container>
+          <container id="aspace_0df6eb3700ef29110a6fef00a4d060de" parent="aspace_ea6507456de61a5eadd516545759c1be" type="Folder">3-4</container>
+        </did>
+      </c>
+      <c id="aspace_b2f99ed1291e85131cd0cd6d5c2c2ea6" level="file">
+        <did>
+          <unittitle><emph render="italic">Action Alert</emph> : Central America Peace Campaign, Spokane, WA</unittitle>
+          <unitdate datechar="creation" normal="1987/1990" type="inclusive">1987-1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a7a2f0bd3dc6e4cc86a5548100df0ae4" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_8175b885546a4fd706473c5195ca90f3" parent="aspace_a7a2f0bd3dc6e4cc86a5548100df0ae4" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_786a2f021bff6d57120bc9cfc852b820" level="file">
+        <did>
+          <unittitle><emph render="italic">Agrarian Reform in El Salvador: A Program of Rural Pacification</emph> : EPICA Task Force, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1980/1989" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2d81efa74172691ee74c325dc4f11a60" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_b3133f4316a0bea6518bf6c7d3bc2e89" parent="aspace_2d81efa74172691ee74c325dc4f11a60" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_2a051e5f9d2c6297831321148767303a" level="file">
+        <did>
+          <unittitle><emph render="italic">Ahora</emph> : Ahora, Alamosa, CO</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">Undated</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_8cb4cf9750f2f60cb4e446abb7661be0" label="Mixed Materials [31142063007408]" type="Box">2</container>
+          <container id="aspace_f3b17ec0f028e9bb5a87cd705dd77ef1" parent="aspace_8cb4cf9750f2f60cb4e446abb7661be0" type="Folder">1</container>
+          <container altrender="Manuscript box - Legal" id="aspace_e07ee07084bf1c3df8f77ab3892d5cf2" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_6082fdc103ab882b9256dadc3216606f" parent="aspace_e07ee07084bf1c3df8f77ab3892d5cf2" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_64f6c0c4f73e90cda59864388d0637f8" level="file">
+        <did>
+          <unittitle><emph render="italic">AL Taller (Taller Latinoamericano)</emph> : The Latin American Workshop, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1983/1984" type="inclusive">1983-1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_209fa5487aebb9a131255d73b63f869e" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_942171b2e5bfc20227a67e4c536b3973" parent="aspace_209fa5487aebb9a131255d73b63f869e" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_be3e410e54848cba3cfe5071994f130b" level="file">
+        <did>
+          <unittitle><emph render="italic">Alert! : Focus on Central America</emph> : Committee in Solidarity with the People of El Salvador, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1984/1992" type="inclusive">1984-1992</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_d2572d53c4202d8f98f1d15e20337b02" label="Mixed Materials [31142063007390]" type="Box">1</container>
+          <container id="aspace_dd81b7d831576c9556cb30b7973cc98c" parent="aspace_d2572d53c4202d8f98f1d15e20337b02" type="Folder">1-7</container>
+          <container altrender="Flat OS Box 17" id="aspace_68c50792670534badad41a7f8a0ef56f" label="Mixed Materials [31142063007671]" type="Box">29</container>
+          <container id="aspace_dc9cecccad95fe9527df50cfdec2cfc6" parent="aspace_68c50792670534badad41a7f8a0ef56f" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_3b43e44ab6d163d1b4fe89d7a01314fc" level="file">
+        <did>
+          <unittitle><emph render="italic">Altercom</emph> : Instituto Latinoamericano de Estudios Transnacionales, Santiago de Chile, Chile</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1b0efbc6839b7cc59e67900a36f1c57f" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_3b4991bc3a5ead29112023a1966d8982" parent="aspace_1b0efbc6839b7cc59e67900a36f1c57f" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_c032e383bff1ed7b0156e3898db6c423" level="file">
+        <did>
+          <unittitle><emph render="italic">America Latina-Derechos Humanos</emph> : Cencos, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ee3829d752df28c93a472a29e9e73a51" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_5f2582f874ea78c2999c6ed820929136" parent="aspace_ee3829d752df28c93a472a29e9e73a51" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_2fd97a99d0b9b771736a2c3770b246d9" level="file">
+        <did>
+          <unittitle><emph render="italic">Anexos Boletin</emph> : Comite Chileno de Solidaridad, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b884860d1064135bd49136658e37d1f5" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_28f3f6f5060f91fd9d4a37860429710f" parent="aspace_b884860d1064135bd49136658e37d1f5" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_25a89520159e2859b83a94174fef9dfc" level="file">
+        <did>
+          <unittitle><emph render="italic">Areito</emph> : Areito, Inc., Miami, FL</unittitle>
+          <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4f37ab61f33e4ec7c8da77dc5a23dbef" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_a4485f2ab502d7f894c40a26f5f6adda" parent="aspace_4f37ab61f33e4ec7c8da77dc5a23dbef" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_d6a8610f458d98ff9faa43ec78cdfe71" level="file">
+        <did>
+          <unittitle><emph render="italic">Arquitectura Cuba</emph> : Colegio Nacional de Arquitectos, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_efec96a14c5b99b6daee10f24ea1a5c5" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_e8c718b912de267b5826f5c8d0892dbc" parent="aspace_efec96a14c5b99b6daee10f24ea1a5c5" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_80e4c77f34bcca9e18c68e242e1d937e" level="file">
+        <did>
+          <unittitle><emph render="italic">Artes Plasticas</emph> : Ministerio de Educacion, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_04013c094582eb19bcb857a284eba2ba" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_e69b8107e4ad20c25513c26deb3951eb" parent="aspace_04013c094582eb19bcb857a284eba2ba" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ed4669166a1f593cf6baeef77593657e" level="file">
+        <did>
+          <unittitle><emph render="italic">Asi Trabajo Yo</emph> : Quimanto, Santiago, Chile</unittitle>
+          <unitdate datechar="creation" normal="1971/1972" type="inclusive">1971-1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_280f25d3d4c7fceb12a546b0ab8278ed" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_c306148b4f7894d21a39c76fc5c700c2" parent="aspace_280f25d3d4c7fceb12a546b0ab8278ed" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_b6f0d604f468b80aae5cfce857fc00a3" level="file">
+        <did>
+          <unittitle><emph render="italic">ATLAS</emph> : ATLAS, Buenos Aires, Argentina</unittitle>
+          <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_eb8403451d13a8be3eb20eabce10f879" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_8ea42df33179795d0ce7f26172e86c24" parent="aspace_eb8403451d13a8be3eb20eabce10f879" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_0ff499f3af4c302875309bf5bcc4020d" level="file">
+        <did>
+          <unittitle><emph render="italic">Aztlan</emph> : Aztlan Publications, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_63c1cb62a551cf9a95f11db9d6eb7482" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_82b0f4bb22af4008b632d5f672ab8237" parent="aspace_63c1cb62a551cf9a95f11db9d6eb7482" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_1d3db67660a73477d9dcbcc12e736b22" level="file">
+        <did>
+          <unittitle><emph render="italic">Bandera Socialista</emph> : Partido Revolucionario de las y los Trabajadores, Mexico City, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_d93f3aa6df1e10b7fe0f72976278803a" label="Mixed Materials [31142063007416]" type="Box">3</container>
+          <container id="aspace_9aa97c1b77eb685411d9a6e873acba59" parent="aspace_d93f3aa6df1e10b7fe0f72976278803a" type="Folder">1</container>
+          <container altrender="Flat OS Box 17" id="aspace_afe0f603909cacd14df67a5d15a0d477" label="Mixed Materials [31142063007671]" type="Box">29</container>
+          <container id="aspace_b55536b830b71c35a83e9a884751a44a" parent="aspace_afe0f603909cacd14df67a5d15a0d477" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_97d06232a078ffc983056e780a8f2342" level="file">
+        <did>
+          <unittitle><emph render="italic">Baragua!</emph> : National Network on Cuba / DC "Hands Off" Cuba Coalition, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_568a20fbf11cf3fe8585a105daf9a302" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_163f1329d37643d905386d92353e4e78" parent="aspace_568a20fbf11cf3fe8585a105daf9a302" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_422346fc76c02ba0b490c159fce06a5c" level="file">
+        <did>
+          <unittitle><emph render="italic">Barricada</emph> : Sandinista National Liberation Front, Managua, Nicaragua Libre</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_db62a8fe1de2364c8d140402d4f7b7dc" label="Mixed Materials [31142063007408]" type="Box">2</container>
+          <container id="aspace_aeb1ab2bcc73e866d3caa1c02a765823" parent="aspace_db62a8fe1de2364c8d140402d4f7b7dc" type="Folder">5</container>
+          <container altrender="Manuscript box - Legal" id="aspace_765a64c0e591a3d728d55d7ea8295dce" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_f6e7839fa70f9a625097b458244c3465" parent="aspace_765a64c0e591a3d728d55d7ea8295dce" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_fa2ae93df7ad5c88874cc9d57a7574f3" level="file">
+        <did>
+          <unittitle><emph render="italic">Barricada Internacional</emph> : Sandinista National Liberation Front, Managua, Nicaragua</unittitle>
+          <unitdate datechar="creation" normal="1984/1990" type="inclusive">1984-1990</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_e88253b50208127826141c62e621cd29" label="Mixed Materials [31142063007408]" type="Box">2</container>
+          <container id="aspace_443dbedc7f555cdfbf858db5a26c4adf" parent="aspace_e88253b50208127826141c62e621cd29" type="Folder">6-9</container>
+          <container altrender="Flat OS Box 17" id="aspace_b050dea4762804f1e533ebe085c649e0" label="Mixed Materials [31142063007671]" type="Box">29</container>
+          <container id="aspace_e393fd5271615259b6f91805e647d827" parent="aspace_b050dea4762804f1e533ebe085c649e0" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_3e24124f7c5b62be1e67f46d26774f76" level="file">
+        <did>
+          <unittitle><emph render="italic">Barricadita</emph> : Casa Nicaragua, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_229630929a861d3247b1469ccae28ef4" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_8f8cba98451b4a34fe6120ec4ff776d5" parent="aspace_229630929a861d3247b1469ccae28ef4" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_5dc003f9a58853cd3b7d8ed677bfcac5" level="file">
+        <did>
+          <unittitle><emph render="italic">Basta Ya!</emph> : Los Siete de la Raza, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1969/1972" type="inclusive">1969-1972</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_abdf3121ccfa2ee3d485175cc4847418" label="Mixed Materials [31142063007416]" type="Box">3</container>
+          <container id="aspace_77cda5b7040e91e0b5a26aec2d5a41d3" parent="aspace_abdf3121ccfa2ee3d485175cc4847418" type="Folder">2-5</container>
+        </did>
+      </c>
+      <c id="aspace_8117a3dfe93d828fbca6607431abbf1f" level="file">
+        <did>
+          <unittitle><emph render="italic">Basta!</emph> : Central America Solidarity Committee, Baltimore, MD</unittitle>
+          <unitdate datechar="creation" normal="1991/1994" type="inclusive">1991-1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_27cadea772548fa6bc29638001456fca" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_9ad3f2e6cfd74514b3240a50006be30b" parent="aspace_27cadea772548fa6bc29638001456fca" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_60108b4b5fe2a5379a4e1e784f78711e" level="file">
+        <did>
+          <unittitle><emph render="italic">Bioestadistica</emph> : Centro Nacional de Informacion de Ciencias Medicas, Bogota, Colombia</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_97cf93494b4a715f07f09678fa022e67" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_eff1b94b11bd5dfb8b91f3cc8e681b5c" parent="aspace_97cf93494b4a715f07f09678fa022e67" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_d84d6abbed89bcd8bd8c13074c3a6de3" level="file">
+        <did>
+          <unittitle><emph render="italic">Biografia del Personaje</emph> : Publicaciones Cruz O.S.A., Mexico City, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_346f9d7541ea5005ec348071f2dff308" label="Mixed Materials [31142063007515]" type="Box">13</container>
+          <container id="aspace_0448421a11a6db47f1de32414d0fc468" parent="aspace_346f9d7541ea5005ec348071f2dff308" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_a50881bfe21b9c9357f258e1041f2fc8" level="file">
+        <did>
+          <unittitle><emph render="italic">Bohemia</emph> : Federacion de Mujeres Cubanos, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d4c37cf197948831f57ccd4c0e4a3e7a" label="Mixed Materials [31142063007523]" type="Box">14</container>
+          <container id="aspace_ffee09f057b7a5b547d1b2ddac8f8f29" parent="aspace_d4c37cf197948831f57ccd4c0e4a3e7a" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_dbaf1105b5163f9cd3c20202fb90da66" level="file">
+        <did>
+          <unittitle><emph render="italic">Boletim IBASP</emph> : Instituto Brasileiro de Amizade e Solidaridade aos Povos, Recife (PE), Brazil</unittitle>
+          <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6c12156ed077e7efdec1cc9c22e106d8" label="Mixed Materials [31142063007523]" type="Box">14</container>
+          <container id="aspace_338fa8ecd0fc71d031e24279f4632c1f" parent="aspace_6c12156ed077e7efdec1cc9c22e106d8" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_3c822aa113c8838ce45d2869d3cfec5a" level="file">
+        <did>
+          <unittitle><emph render="italic">Boletim Sei</emph> : Sociedade de Estudos Onteramericanos, Sao Paulo, Brazil</unittitle>
+          <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6ee0f68173dc6a78a8b2febc0e1b9f95" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_5f06e92f915dfd376a404e2477ecbdaa" parent="aspace_6ee0f68173dc6a78a8b2febc0e1b9f95" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_1716be387bcf65da0e24946f3d43c1fd" level="file">
+        <did>
+          <unittitle><emph render="italic">Boletin</emph> : Departamento de Relaciones Publicas, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_44bc9e74c2183e346a24d791fe5b1cb1" label="Mixed Materials [31142063007507]" type="Box">12</container>
+          <container id="aspace_0e56a0e535aac4ea9ae77c9c46b8e0a6" parent="aspace_44bc9e74c2183e346a24d791fe5b1cb1" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_603a72b579555c764f7d6e1cfba74229" level="file">
+        <did>
+          <unittitle><emph render="italic">Boletin</emph> : Chile en Lucha, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6b8f3acc485c7c3b56862fdaf2507ed4" label="Mixed Materials [31142063007515]" type="Box">13</container>
+          <container id="aspace_76076d15aa7f7e5f5246887d0de375e3" parent="aspace_6b8f3acc485c7c3b56862fdaf2507ed4" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_5ec1ff932ecda71d640aaf9633bf934f" level="file">
+        <did>
+          <unittitle><emph render="italic">Boletin Cultural</emph> : Ministerio de Relaciones Exteriores, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_c17c558b27dd03eb7d890be9c1105cf5" label="Mixed Materials [31142063007416]" type="Box">3</container>
+          <container id="aspace_a8057fd4f671136b5c9f31dc40b14fc3" parent="aspace_c17c558b27dd03eb7d890be9c1105cf5" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_d69047657fb3db7daac0c05e417ac964" level="file">
+        <did>
+          <unittitle><emph render="italic">Boletin de la Alianza Internacional "Giuseppe Garibaldi" por la Libertad de Italia</emph> : Alianza Internacional "Giuseppe Garibaldi", Mexico City, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1942/1942" type="inclusive">1942</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f0588ab74ad0519b72487601e50201c5" label="Mixed Materials [31142063007515]" type="Box">13</container>
+          <container id="aspace_3679fcce0fdfee7de48afa78effff93d" parent="aspace_f0588ab74ad0519b72487601e50201c5" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_29b41c27140609724bd302d459d641c6" level="file">
+        <did>
+          <unittitle><emph render="italic">Boletin Informativo</emph> : Comite Central del Partido Comunista de Chile, Santiago, Chile</unittitle>
+          <unitdate datechar="creation" normal="1971/1973" type="inclusive">1971-1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c358317bf360b8684d6c5f9ba929bdc9" label="Mixed Materials [31142063007515]" type="Box">13</container>
+          <container id="aspace_6e5579280b6990c96c08ca98d600747e" parent="aspace_c358317bf360b8684d6c5f9ba929bdc9" type="Folder">10</container>
+          <container altrender="Manuscript box - Legal" id="aspace_17c40f6792ca313d477b4f53e29a41e7" label="Mixed Materials [31142063007523]" type="Box">14</container>
+          <container id="aspace_d51e4b27968b5ebe2046faa9f9dfd2b6" parent="aspace_17c40f6792ca313d477b4f53e29a41e7" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_9ff6a61f28b690b583c2c9a7041c8200" level="file">
+        <did>
+          <unittitle><emph render="italic">Boletin Informativo</emph> : Comite Chileno de Solidaridad con La Resistencia Antifascista , Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1974/1977" type="inclusive">1974-1977</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3436058f57dd7a36e0d3e2e5981d5533" label="Mixed Materials [31142063007515]" type="Box">13</container>
+          <container id="aspace_c91762e5615983d998c89a0c12d38fdb" parent="aspace_3436058f57dd7a36e0d3e2e5981d5533" type="Folder">4-9</container>
+        </did>
+      </c>
+      <c id="aspace_e24aea4eb33d5b62f83ef264a938fb76" level="file">
+        <did>
+          <unittitle><emph render="italic">Boletin Informativo</emph> : Chile Democratico, Rome, Italy</unittitle>
+          <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ddc34f8f2c0f39609fc5b38f0195953f" label="Mixed Materials [31142063007523]" type="Box">14</container>
+          <container id="aspace_04fa4c460280a255b9d23c7bb73fec37" parent="aspace_ddc34f8f2c0f39609fc5b38f0195953f" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_4945a08448cd39787e0642f044c69a17" level="file">
+        <did>
+          <unittitle><emph render="italic">Boletin Informativo</emph> : La Izquierda Chilena, Coordinador en el Exterior, Rome, Italy</unittitle>
+          <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_365e5776010ffb56753cbe3a46c52fae" label="Mixed Materials [31142063007523]" type="Box">14</container>
+          <container id="aspace_e5846353ecc95cce52be9ae5e571e482" parent="aspace_365e5776010ffb56753cbe3a46c52fae" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_b07c483798a339fb25fd7cf3aaac2dc6" level="file">
+        <did>
+          <unittitle><emph render="italic">Boletin Informativo</emph> : Chile Antifascista, Berlin, Germany</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5a1a76782d4694df041dcf3d1bb489a9" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_59133e65c0245a280af4b556c013ec6b" parent="aspace_5a1a76782d4694df041dcf3d1bb489a9" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_e5e68d616026e9b7e53f5b305546dff0" level="file">
+        <did>
+          <unittitle><emph render="italic">Caribbean Patriot</emph> : West Indian Progressive Study Group</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c3ba24161602b8479312d3b7d90124d7" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_9b84e42f2ea0eb60827a68e31a13dc7e" parent="aspace_c3ba24161602b8479312d3b7d90124d7" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ae024a43897d7eb69052998bb2a892bc" level="file">
+        <did>
+          <unittitle><emph render="italic">Casa </emph> : Casa de las Americas, Habana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1960/1969" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0888b201cd22e4c7e17f72d59cde96c5" label="Mixed Materials [31142063007523]" type="Box">14</container>
+          <container id="aspace_0491642fab7fbc9e8beeaa718eabc451" parent="aspace_0888b201cd22e4c7e17f72d59cde96c5" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ee46721f602eef68b74b12950e596bec" level="file">
+        <did>
+          <unittitle><emph render="italic">Casa Chile Human Rights Bulletin</emph> : Casa Chile, Berkeley, CA</unittitle>
+          <unitdate datechar="creation" normal="1980/1989" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a0bb7f1e664985cd6eca7310d771d0cc" label="Mixed Materials [31142063007523]" type="Box">14</container>
+          <container id="aspace_cd6d5017541fb19d8756a6bb089dc80c" parent="aspace_a0bb7f1e664985cd6eca7310d771d0cc" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_22cc63c439beb74bee6e81a7e1b7e604" level="file">
+        <did>
+          <unittitle><emph render="italic">Casa Chile Update</emph> : Casa Chile, Berkeley, CA</unittitle>
+          <unitdate datechar="creation" normal="1983/1985" type="inclusive">1983-1985</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_300acddb7e92e237cc0875133afbfd40" label="Mixed Materials [31142063007523]" type="Box">14</container>
+          <container id="aspace_72e879f4f5e087615ed996e240ffdc1d" parent="aspace_300acddb7e92e237cc0875133afbfd40" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_c53a43f209a6e054cc4624b9f462d021" level="file">
+        <did>
+          <unittitle><emph render="italic">Casa de las Americas</emph> : Casa de las Americas, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1968/1981" type="inclusive">1968-1981</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1af222c1917e080d77069199b7568e5b" label="Mixed Materials [31142063007523]" type="Box">14</container>
+          <container id="aspace_f57fe3eafbb66e582e048a31fd9db689" parent="aspace_1af222c1917e080d77069199b7568e5b" type="Folder">7-9</container>
+          <container altrender="Flat OS 21" id="aspace_fdeee9a81a67af5228b7b4618d0f6699" label="Mixed Materials [31142062995108]" type="Box">Shared Tamiment 050</container>
+          <container id="aspace_3ca6aa837d7eb26c2ee9564db699f768" parent="aspace_fdeee9a81a67af5228b7b4618d0f6699" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_dd0648d7e3832e96eec70809496e7ac3" level="file">
+        <did>
+          <unittitle><emph render="italic">CCS Newsletter</emph> : Center for Cuban Studies, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ab5401ffbcfdea4fec5f987cd9e496c8" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_2b55478eb8fe3298ccd22590490fdade" parent="aspace_ab5401ffbcfdea4fec5f987cd9e496c8" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_76d9980c9a97aa214b52c7105ba7e31c" level="file">
+        <did>
+          <unittitle><emph render="italic">Center for Cuban Studies Newsletter</emph> : Center for Cuban Studies, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0489042a6602be4ec2312015a8827573" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_ef3594758aca4336414ed1f0398c6efd" parent="aspace_0489042a6602be4ec2312015a8827573" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_6bb5c21e225fb77f7944c471a8470e45" level="file">
+        <did>
+          <unittitle><emph render="italic">Central America in the Classroom</emph> : Network of Educators' Committees on Central America, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_483eeee2b21b8e35ab4cee0dc3fd36ac" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_ec3598780dbfaa79f26e1e3d37a6311d" parent="aspace_483eeee2b21b8e35ab4cee0dc3fd36ac" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_99283dc011e7d6ad5e800bb064edb1f4" level="file">
+        <did>
+          <unittitle><emph render="italic">Central America NewsPak</emph> : Central America Resource Center, Austin, TX</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c6e515b39224cac6ddbe0ebfee6b4dcd" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_08013d52d1c08b61168816be02ae0a9d" parent="aspace_c6e515b39224cac6ddbe0ebfee6b4dcd" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_07d5ccdf2f808e2d77885a8d40628de9" level="file">
+        <did>
+          <unittitle><emph render="italic">Central America Report</emph> : Central America Education Fund, Cambridge, MA</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_5576ec95927b86f95bc1086bf89b8561" label="Mixed Materials [31142063007424]" type="Box">4</container>
+          <container id="aspace_e41f2c107050de33e6589ccfbcebb74b" parent="aspace_5576ec95927b86f95bc1086bf89b8561" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_060d3d43e79a9a096865c799d862af52" level="file">
+        <did>
+          <unittitle><emph render="italic">Central America Report</emph> : Religious Task Force on Central America, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_2ef1d787dd3ced23d9c37d58588722aa" label="Mixed Materials [31142063007424]" type="Box">4</container>
+          <container id="aspace_25bab1bbfdcaad8c795522173530fcbd" parent="aspace_2ef1d787dd3ced23d9c37d58588722aa" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_bcc10843e625a8d182fe33031e67cf4b" level="file">
+        <did>
+          <unittitle><emph render="italic">Central America Report</emph> : Inforpress Centroamericana, Ciudad de Guatemala, Guatemala</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a94ca38d2a9b85bbce0149bc42308bcd" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_bc1e73386ff732470c1161c3fa23c522" parent="aspace_a94ca38d2a9b85bbce0149bc42308bcd" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_240fe686da479e12f552cf4e856e666c" level="file">
+        <did>
+          <unittitle><emph render="italic">Central America Reporter</emph> : Central America Education Fund, Cambridge, MA</unittitle>
+          <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_8c3b1344ae8211d3e96a7e6bc648c24f" label="Mixed Materials [31142063007424]" type="Box">4</container>
+          <container id="aspace_dd69bb18bcc92b214a387f48a98cd930" parent="aspace_8c3b1344ae8211d3e96a7e6bc648c24f" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_df6ad2ab5320e7d6abc760e65d68c835" level="file">
+        <did>
+          <unittitle><emph render="italic">Chile</emph> : Correspondents of the Underground Newspaper "Unidad Antifascista", Chile</unittitle>
+          <unitdate datechar="creation" normal="1975/1977" type="inclusive">1975-1977</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_845bc01ca4094ed9a0a672d5330825bb" label="Mixed Materials [31142063007523]" type="Box">14</container>
+          <container id="aspace_5e0408ec64fa0fd2dacbf49731325600" parent="aspace_845bc01ca4094ed9a0a672d5330825bb" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_29f9114f16d367f3f3e67e744cca3b3e" level="file">
+        <did>
+          <unittitle><emph render="italic">Chile Alert</emph> : Chile Alert Network, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b0ee9decfc37cdcc6920c9703383a40f" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_5612404b9df6b2e9b75a7b8193780077" parent="aspace_b0ee9decfc37cdcc6920c9703383a40f" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_c2fe4825602017cf6aa9b55a56df000e" level="file">
+        <did>
+          <unittitle><emph render="italic">Chile Bulletin</emph> : Commission on Human Rights Secretariat in Solidarity with Chile, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6c1caad4cd249375cfb1c03d7659211e" label="Mixed Materials [31142063007523]" type="Box">14</container>
+          <container id="aspace_b760002a80d5004687f5f7da9ddd19fd" parent="aspace_6c1caad4cd249375cfb1c03d7659211e" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_cc3d269390fe379291018457f98d5d70" level="file">
+        <did>
+          <unittitle><emph render="italic">Chile Democrático </emph> : Chile Democrático, Rome, Italy</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_9b61d0376f75d39d619eddcfb9bb4bbc" label="Mixed Materials [31142063007416]" type="Box">3</container>
+          <container id="aspace_266b944410b560c30b879ce8f40bc5e6" parent="aspace_9b61d0376f75d39d619eddcfb9bb4bbc" type="Folder">7</container>
+          <container altrender="Manuscript box - Legal" id="aspace_a64ec3cc437703785c2b7e77458c321a" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_0ce7a12e1af9230dfd4e2c7ab345b8e0" parent="aspace_a64ec3cc437703785c2b7e77458c321a" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_6fe72c1b52cd306e4a17ac10586e524c" level="file">
+        <did>
+          <unittitle><emph render="italic">Chile en la Resistencia</emph> : Comite Chileno Antifascista, Mexico City, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_52b169a9799f359882ec932bcd98f558" label="Mixed Materials [31142063007424]" type="Box">4</container>
+          <container id="aspace_6e6520aad8ededc015308145fe9e36d4" parent="aspace_52b169a9799f359882ec932bcd98f558" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_279147b9d79299f7cdcdd66006236ca1" level="file">
+        <did>
+          <unittitle><emph render="italic">Chile Gram</emph> : Chile Gram, Santiago, Chile</unittitle>
+          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_72383ea4608b206c0c5debd84cdb8db5" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_4d15b9f9d29c6f3af2ca0a38304e6f65" parent="aspace_72383ea4608b206c0c5debd84cdb8db5" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_8b51251bb9439c7c018f6d4b30df52f9" level="file">
+        <did>
+          <unittitle><emph render="italic">Chile Net</emph> : Chile Information Network, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_98c7bad23ec4aae406faff1c172c71db" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_e65cadd73b33489e68c1ea2a4dac5fe7" parent="aspace_98c7bad23ec4aae406faff1c172c71db" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_8d28ca9498d99abc07d5334e05b24b93" level="file">
+        <did>
+          <unittitle><emph render="italic">Chile Newsletter</emph> : Comite de Chilenos por la Democracia, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_65e51416dbc32e61a8912d48d19e0dab" label="Mixed Materials [31142063007523]" type="Box">14</container>
+          <container id="aspace_f0a139d15e14ede61b3e8434fe2c43a6" parent="aspace_65e51416dbc32e61a8912d48d19e0dab" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_9bbe380e282010e236b3b8adbe0008ed" level="file">
+        <did>
+          <unittitle><emph render="italic">Chile Solidarity</emph> : Chile Solidarity Committee, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5c480a02d8b592f9828fd7a341c8ec73" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_6f8f68d5cf756ccde1278e2d04efe11f" parent="aspace_5c480a02d8b592f9828fd7a341c8ec73" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_68670efa5ec982d7f37fee6c1977d790" level="file">
+        <did>
+          <unittitle><emph render="italic">Chile Vencera</emph> : National Coordinating Center in Solidarity with Chile, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1975/1977" type="inclusive">1975-1977</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a2e3a6439e51369bf7e68b226e97e4fe" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_ac928aee8860f711d720b9bf2b41522f" parent="aspace_a2e3a6439e51369bf7e68b226e97e4fe" type="Folder">5</container>
+          <container altrender="Manuscript box - Legal" id="aspace_6851e1270854dae1ae9bd024d2029966" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_80b4c2e34aa76a0da474be345c66b72a" parent="aspace_6851e1270854dae1ae9bd024d2029966" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_e6be283fb76e336c6ec7e93d544b2bb2" level="file">
+        <did>
+          <unittitle><emph render="italic">Chile-America</emph> : Documentation and Research Center, Rome, Italy</unittitle>
+          <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4fdc8f30973b0e16851bea89b2358c46" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_0b55dd3b4a6ce05998d4b24df3849106" parent="aspace_4fdc8f30973b0e16851bea89b2358c46" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_cc4f5efb1845e44cd2218abeb52691aa" level="file">
+        <did>
+          <unittitle><emph render="italic">CISPES New York Newsletter</emph> : Committee in Solidarity with the People of El Salvador, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_582fea108a90e2bd8e24a6a95ccb5d85" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_8ba6edd5bf01e84d4511b2136e7a04e1" parent="aspace_582fea108a90e2bd8e24a6a95ccb5d85" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_e40bbc7a16be41b85848132153f307c1" level="file">
+        <did>
+          <unittitle><emph render="italic">CLASP Bulletin</emph> : Caribbean and Latin America Solidarity Project, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9dc889c63e18144655cb6c5d0c58cc5a" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_8ece8861f63b8afa40d76465de475142" parent="aspace_9dc889c63e18144655cb6c5d0c58cc5a" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_13e84b4b3a68e071318ec63231930d8e" level="file">
+        <did>
+          <unittitle><emph render="italic">Colombia Rebelde</emph> : Colombia Rebelde</unittitle>
+          <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_e760e9dc2b8902d378590c64b9209522" label="Mixed Materials [31142063007424]" type="Box">4</container>
+          <container id="aspace_3a734577f78590a4c6abb8b0f286b313" parent="aspace_e760e9dc2b8902d378590c64b9209522" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_b8672df8b34bae485bf72798895eaca5" level="file">
+        <did>
+          <unittitle><emph render="italic">Companero</emph> : Ejercito Guerrillero de los Pobres de Guatamala, Guatemala</unittitle>
+          <unitdate datechar="creation" normal="1980/1989" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0f587e07c62916e2ac091cba72b08ca1" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_e49e33e4384718b532b10f43cc0cf99d" parent="aspace_0f587e07c62916e2ac091cba72b08ca1" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_0fbda543d1985e1504fcf9762b658e75" level="file">
+        <did>
+          <unittitle><emph render="italic">Conozca a Cuba por Cuba Internacional</emph> : Instituto del Libro, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_e6a033ca461355ceb44d33e90fb47c46" label="Mixed Materials [31142063007671]" type="Box">29</container>
+          <container id="aspace_35c152811ef2af31d655cd3315c3cae4" parent="aspace_e6a033ca461355ceb44d33e90fb47c46" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_1c9364340d7c172b818cb3636bc819e4" level="file">
+        <did>
+          <unittitle><emph render="italic">Consejo de Estado / Consejo del Pueblo</emph> : Consejo de Estado / Consejo del Pueblo, Nicaragua</unittitle>
+          <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_91d4ffc3974f11365fcd856bf950dbc2" label="Mixed Materials [31142063007424]" type="Box">4</container>
+          <container id="aspace_f6ef5ca1a32c9139e2bff35c598d0e25" parent="aspace_91d4ffc3974f11365fcd856bf950dbc2" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_54e9b5e6c9302e5f9caed9bc3e34aaa2" level="file">
+        <did>
+          <unittitle><emph render="italic">Contact-0</emph> : Instituto Latinoamericano de Estudios Transnacionales, Santiago, Chile</unittitle>
+          <unitdate datechar="creation" normal="1986/1989" type="inclusive">1986-1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bcf9dcec89e9dac1e728fec327707d27" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_ba114c3caf944266de38b6e576afae8c" parent="aspace_bcf9dcec89e9dac1e728fec327707d27" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_fcab94f944bff1761152389b9cf1ce18" level="file">
+        <did>
+          <unittitle><emph render="italic">Contracultura</emph> : Underground Press Syndicate, Liberation News Service y Cosmic Circuit, Buenos Aires, Argentina</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fc79f8567fb8930ea4c401179643d905" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_e02288f7d7ea5f872b34c8d8341ce0f8" parent="aspace_fc79f8567fb8930ea4c401179643d905" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_58d735fe42e98e0244a5bf8e4ace672b" level="file">
+        <did>
+          <unittitle><emph render="italic">Contragate Alert</emph> : The Christic Institute , Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_43d7a255e51c1f3dc21c597292234c4b" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_ac387370ed9b5e59e67edcd3763305eb" parent="aspace_43d7a255e51c1f3dc21c597292234c4b" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_0d246299d2172a98cd25a3351889f509" level="file">
+        <did>
+          <unittitle><emph render="italic">Cuadernos</emph> : Revista Cubana de Avance Cultural, Miami, FL</unittitle>
+          <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c672241968423276f0754d8f3c7c2d78" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_77ab3dbab42418f237b3ba866c196d0b" parent="aspace_c672241968423276f0754d8f3c7c2d78" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_31cfb714b60db719463dd305b0f70d81" level="file">
+        <did>
+          <unittitle><emph render="italic">Cuadernos Casa de Chile</emph> : Casa de Chile en Mexico, Mexico City, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_01350c0a4d6c980b9d16b83408bc58f8" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_6d196b00894463256a29dd884488d7fe" parent="aspace_01350c0a4d6c980b9d16b83408bc58f8" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_a6271faf50045286fc5344ef14cf20d2" level="file">
+        <did>
+          <unittitle><emph render="italic">Cuadernos de Humanidades No. 14</emph> : Universidad Nacional de Salta, Salta, Argentina</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8a6eafb860ccc15a821233d96c25165f" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_c8c00793f6bf96cb8c56b2b9795e1a2a" parent="aspace_8a6eafb860ccc15a821233d96c25165f" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_223fa1747588ead925285c45abdaf300" level="file">
+        <did>
+          <unittitle><emph render="italic">Cuadernos del Hombre Libre</emph> : Cuadernos del Hombre Libre, Miami, FL</unittitle>
+          <unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_13821d820e8f6022e5a415cd7bba91cc" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_7b40a3b2bda532cb6ec86e92b1124785" parent="aspace_13821d820e8f6022e5a415cd7bba91cc" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_b708e37a526e1e417737b0db20bba540" level="file">
+        <did>
+          <unittitle><emph render="italic">CUBA</emph> : The Guardian, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_789404e967b58ec1eea69ee7b7cd48d8" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_c6fe8079521b95fab43186c643af0ea2" parent="aspace_789404e967b58ec1eea69ee7b7cd48d8" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_f210dc456bb3557f3da95307bac6ecb0" level="file">
+        <did>
+          <unittitle><emph render="italic">Cuba</emph> : Cuba Revista Mensual, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_03d2b1b1c133595a90c462eec21f0f35" label="Mixed Materials [31142063007671]" type="Box">29</container>
+          <container id="aspace_4852b92c99a0051b6b5066637c8c110a" parent="aspace_03d2b1b1c133595a90c462eec21f0f35" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_3f2574a7f15114cdfecdaaec5d00927f" level="file">
+        <did>
+          <unittitle><emph render="italic">Cuba : Cómo se Construye la Esclavitud Proletaria</emph> : Frente Obrero Revolucionario Democrático Cubano (FORDC), Miami, FL</unittitle>
+          <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6d5ae82f387534cc86e941a3e9b9428d" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_58a63b2fc3e4293d07a114d13343e498" parent="aspace_6d5ae82f387534cc86e941a3e9b9428d" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_7fe0c1d8302527d89f6d7312166309ef" level="file">
+        <did>
+          <unittitle><emph render="italic">Cuba : Fading Star in the Caribbean</emph> : Aspect Foundation, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_32ffd0426184df255b4c589e4d42330e" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_7581a41462906adae8c7f8bfc7c5b12a" parent="aspace_32ffd0426184df255b4c589e4d42330e" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_8538ea30310af9b4d69566dbd305fd2a" level="file">
+        <did>
+          <unittitle><emph render="italic">Cuba : Revista Menusal</emph> : Cuba : Revista Menusal, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_af150c7c6858c1110ebb1fbc3b3efae5" label="Mixed Materials [31142063007424]" type="Box">4</container>
+          <container id="aspace_82534dc7c4deb5a0b14b205c80c4cbe3" parent="aspace_af150c7c6858c1110ebb1fbc3b3efae5" type="Folder">7-8</container>
+        </did>
+      </c>
+      <c id="aspace_f4d7b12a922d96a8470c865f681b176a" level="file">
+        <did>
+          <unittitle><emph render="italic">Cuba Resource Center Newsletter</emph> : Cuba Resource Center, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1972/1973" type="inclusive">1972-1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c343f75e4641c43d09972e5ca604be55" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_ec3d597ba9dc2735b88b1f0fcb3454e5" parent="aspace_c343f75e4641c43d09972e5ca604be55" type="Folder">25</container>
+          <container altrender="Manuscript box - Legal" id="aspace_089540e0818cff24a3b03657443c3356" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_2f89e375ab39624d95e7fd82b4bf1c6f" parent="aspace_089540e0818cff24a3b03657443c3356" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_3ce4e2b7c9651349501168eb00e0f14e" level="file">
+        <did>
+          <unittitle><emph render="italic">Cuba Revolution et Culture</emph> : National Council of Culture, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2c31791d2af531b3ba29aa419ac87c96" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_15065ef76a66500d2e46d3bf077c4eaf" parent="aspace_2c31791d2af531b3ba29aa419ac87c96" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_64b693c39d18a3b9e42419eb8c686f51" level="file">
+        <did>
+          <unittitle><emph render="italic">Cuba Si</emph> : Cuba Solidarity Campaign Magazine, London, UK</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b95d5090657d03e24104d5c3dc20b4e8" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_9be5aca869f1ac722f98acc1b526e46b" parent="aspace_b95d5090657d03e24104d5c3dc20b4e8" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_798a547b84a9cc129e9b03da87204af2" level="file">
+        <did>
+          <unittitle><emph render="italic">Cuban Foreign Relations</emph> : Center for Cuban Studies, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_dbe803b9dbaffc0716e5d0a74f857e0d" label="Mixed Materials [31142063007531]" type="Box">15</container>
+          <container id="aspace_cf9ad71cb30283644c07219bfbd167b7" parent="aspace_dbe803b9dbaffc0716e5d0a74f857e0d" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_554a3ed9062cea245e3074988649c391" level="file">
+        <did>
+          <unittitle><emph render="italic">Desfiladero</emph> : Desfiladero, Mexico City, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_24427836449a57d99fb202e0119fe2da" label="Mixed Materials [31142063007549]" type="Box">16</container>
+          <container id="aspace_4bc6741139bff440ed7ee62b80901cfa" parent="aspace_24427836449a57d99fb202e0119fe2da" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_7f4f8864ed27e7dcacadad40eae90fbe" level="file">
+        <did>
+          <unittitle><emph render="italic">Direct Solidarity</emph> : The Spirit of Magon Direct Solidarity Committee, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2e6b5c1d97a7353c46a072e9e05ee84d" label="Mixed Materials [31142063007549]" type="Box">16</container>
+          <container id="aspace_69274e7be7b7f05fd0ec1c2c14070be2" parent="aspace_2e6b5c1d97a7353c46a072e9e05ee84d" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_46697896a6e68d223281ccba929ca45b" level="file">
+        <did>
+          <unittitle><emph render="italic">Dissent Paper on El Salvador and Central America</emph> : Overview Latin America, Cambridge, MA</unittitle>
+          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bc46b2639b96fc4ba9a3e004cf2d5b18" label="Mixed Materials [31142063007549]" type="Box">16</container>
+          <container id="aspace_b96635b4c9d3bace9a9c4940469d1e4d" parent="aspace_bc46b2639b96fc4ba9a3e004cf2d5b18" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_80456f4d1915280856b8881db1ba5fdf" level="file">
+        <did>
+          <unittitle><emph render="italic">Economia y Desarrollo</emph> : Instituto de Economia de la Universidad de la Habana, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1970/1971" type="inclusive">1970-1971</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_318a73e3b0227acfa2d77c72664430a4" label="Mixed Materials [31142063007549]" type="Box">16</container>
+          <container id="aspace_5c786555316c782c31b95bc8dc3953c2" parent="aspace_318a73e3b0227acfa2d77c72664430a4" type="Folder">11-12</container>
+        </did>
+      </c>
+      <c id="aspace_de8fee456141e168dbdfa23976bc0313" level="file">
+        <did>
+          <unittitle><emph render="italic">Ediciones</emph> : Comite Central del Partido Comunista de Cuba / Editora Politica, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1968/1983" type="inclusive">1968-1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_05c02f3361984e6a4cc1f258acfa03ac" label="Mixed Materials [31142063007549]" type="Box">16</container>
+          <container id="aspace_dddc8016ab7e066f9923ddfb1d794749" parent="aspace_05c02f3361984e6a4cc1f258acfa03ac" type="Folder">13-15</container>
+          <container altrender="Manuscript box - Legal" id="aspace_2cb02ea656d1c89eac1732be6ecbc3e4" label="Mixed Materials [31142063007556]" type="Box">17</container>
+          <container id="aspace_b555d6930adaf6d54a02c8dc2e19dfbd" parent="aspace_2cb02ea656d1c89eac1732be6ecbc3e4" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_4798bba54dcdb49dff293edb5fee07f3" level="file">
+        <did>
+          <unittitle><emph render="italic">El Foro del Pueblo</emph> : Editorial Prensa Sembradora, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1980/1981" type="inclusive">1980-1981</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_a7d7a4b640b4fdccf506f22adda67183" label="Mixed Materials [31142063007424]" type="Box">4</container>
+          <container id="aspace_85328d0684288447f013bf157e1fbd96" parent="aspace_a7d7a4b640b4fdccf506f22adda67183" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_a9e5a2312a9c92b5c47db032a25f9610" level="file">
+        <did>
+          <unittitle><emph render="italic">El Hombre y el Trabajo en America</emph> : Union Panamericana, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_123ccd2f97c3fc6e7847799bef847f83" label="Mixed Materials [31142063007549]" type="Box">16</container>
+          <container id="aspace_2d1611c6fcdcc02b2ac818222717d193" parent="aspace_123ccd2f97c3fc6e7847799bef847f83" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_3126a5993080b4bc8238770021c15e7c" level="file">
+        <did>
+          <unittitle><emph render="italic">El Independiente</emph> : Centro de Medios Independientes de Nueva York, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_48c2b3bc9682c4fd0fb98ee68dc2262e" label="Mixed Materials [31142063007424]" type="Box">4</container>
+          <container id="aspace_74fa8053e5da4f65f7258a6c881d54a8" parent="aspace_48c2b3bc9682c4fd0fb98ee68dc2262e" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_34c741a71792d308a6ea6c8d293d4b9b" level="file">
+        <did>
+          <unittitle><emph render="italic">El Reportero</emph> : El Reportero, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_6256bd4431be467433c763d3c3c6d0fc" label="Mixed Materials [31142063007424]" type="Box">4</container>
+          <container id="aspace_b053508b5a142510f0bff8da5e29a0c5" parent="aspace_6256bd4431be467433c763d3c3c6d0fc" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_2f721d1b46e50b3019efc4d9415cdce9" level="file">
+        <did>
+          <unittitle><emph render="italic">El Salvador : Refugees in Crisis</emph> : Salvadorean Humanitarian Aid, Research, and Education Foundation, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6fd765c0f12481ffd3f3cbf670b9979a" label="Mixed Materials [31142063007614]" type="Box">23</container>
+          <container id="aspace_829cb50abf45b886f0169a7439bb3099" parent="aspace_6fd765c0f12481ffd3f3cbf670b9979a" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_4dcf632c48ff90dd59319c24002d23f3" level="file">
+        <did>
+          <unittitle><emph render="italic">El Salvador Bulletin</emph> : U.S. - El Salvador Research &amp; Information Center, Berkeley, CA</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e385798dd7fe057dceabdfb5f7755411" label="Mixed Materials [31142063007549]" type="Box">16</container>
+          <container id="aspace_c4f3259abf91263418d5c2e8625875b0" parent="aspace_e385798dd7fe057dceabdfb5f7755411" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_289437328192889f7c13bc6e88947b30" level="file">
+        <did>
+          <unittitle><emph render="italic">El Salvador Labor Report</emph> : Federation of Independent Associations &amp; Unions of El Salvador, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_aa51a004ede7a5cef8997477c8a3b87e" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_42c78b1a26e6ccfdce1451952c0001a2" parent="aspace_aa51a004ede7a5cef8997477c8a3b87e" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_871dd6700f886e558e947484e8bbfd41" level="file">
+        <did>
+          <unittitle><emph render="italic">El Salvador Newsletter</emph> : El Salvador Newsletter, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c4dd336ce00d35e4877dd34df85c54a5" label="Mixed Materials [31142063007549]" type="Box">16</container>
+          <container id="aspace_aff4082cac2d074b0af7acaaf86db21c" parent="aspace_c4dd336ce00d35e4877dd34df85c54a5" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_b9d8acef893dd4dbfb8ec92ac2dc953f" level="file">
+        <did>
+          <unittitle><emph render="italic">El Salvador Senal de Libertad</emph> : Radio Venceremos, Mexico City, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_80453602f85d58434bae71bdc9984a5c" label="Mixed Materials [31142063007549]" type="Box">16</container>
+          <container id="aspace_fdbcf59ddcb91b497c48f8975e6a2045" parent="aspace_80453602f85d58434bae71bdc9984a5c" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_180933207a024341edff4e82bb8e9bf4" level="file">
+        <did>
+          <unittitle><emph render="italic">El Salvador Watch</emph> : Committee in Solidarity with the People of El Salvador (CISPES), Baltimore, MD</unittitle>
+          <unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_214ce541ae1307b8fb1b95ccc2fbff95" label="Mixed Materials [31142063007549]" type="Box">16</container>
+          <container id="aspace_1629a7868a455822825b34d060a89251" parent="aspace_214ce541ae1307b8fb1b95ccc2fbff95" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_7b398f99e6cdf5e0a08bbe9706a37f9f" level="file">
+        <did>
+          <unittitle><emph render="italic">El Salvador Weekly Review</emph> : FMLN Documentation &amp; Investigation Center, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_62a4d4e3d178df645d25ec01ff0188ed" label="Mixed Materials [31142063007549]" type="Box">16</container>
+          <container id="aspace_3c7e1ff3104bf81bcd722298b1ad0fbb" parent="aspace_62a4d4e3d178df645d25ec01ff0188ed" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_5745e87388f084dbb0edf8edb093b649" level="file">
+        <did>
+          <unittitle><emph render="italic">El Salvador's Link</emph> : Casa El Salvador, Farabundo Martí, New York, N.Y.</unittitle>
+          <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_551d4030bb92f748830a036a4f6499c6" label="Mixed Materials [31142063007432]" type="Box">5</container>
+          <container id="aspace_284f81a146d0b25367fbcec75aecc545" parent="aspace_551d4030bb92f748830a036a4f6499c6" type="Folder">1-3</container>
+        </did>
+      </c>
+      <c id="aspace_babe255ff00c1c4d9616e232106c542b" level="file">
+        <did>
+          <unittitle><emph render="italic">El Siglo</emph> : Publicaciones El Siglo S.A., Santiago de Chile, Chile</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_690805d91c70d8cbc180f7825d6d3a9b" label="Mixed Materials [31142063007424]" type="Box">4</container>
+          <container id="aspace_eba9112b36b0f25719638df1993aab78" parent="aspace_690805d91c70d8cbc180f7825d6d3a9b" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_3fd0f67e59590ffb6acd785fc91d1f14" level="file">
+        <did>
+          <unittitle><emph render="italic">El Tecolote</emph> : El Tecolote, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1940/1990" type="inclusive">Undated</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_9bbebc45dd123597a080c43fc288dedb" label="Mixed Materials [31142063007424]" type="Box">4</container>
+          <container id="aspace_1d5c28a38b5ded412d5001dceec35e02" parent="aspace_9bbebc45dd123597a080c43fc288dedb" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_719c658786b14926b0fe3dced6849d33" level="file">
+        <did>
+          <unittitle><emph render="italic">El Tornillo</emph> : El Tornillo, Mexico City, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_50aec807db71e84093119f62f05168b3" label="Mixed Materials [31142063007499]" type="Box">11</container>
+          <container id="aspace_5898561cf1c01c20febe1fa29c375189" parent="aspace_50aec807db71e84093119f62f05168b3" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_261cc720e274956884cbec442a5b2187" level="file">
+        <did>
+          <unittitle><emph render="italic">El Young Lord </emph> : The Young Lords, Milwaukee, WI</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_f18c0385d8a0b283305076a175801766" label="Mixed Materials [31142063007432]" type="Box">5</container>
+          <container id="aspace_a7a3ef3eea36b083caeef464acbdbe51" parent="aspace_f18c0385d8a0b283305076a175801766" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_74ae3a00e04f95a4b265e35ab64f323b" level="file">
+        <did>
+          <unittitle><emph render="italic">Encuentro</emph> : Latin American Institute, University of New Mexico, Albuquerque, NM</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_efce52be75f37d4b17e95776fe5289fe" label="Mixed Materials [31142063007549]" type="Box">16</container>
+          <container id="aspace_2d1eb837e876cc38a86144fab9c7a242" parent="aspace_efce52be75f37d4b17e95776fe5289fe" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_dc68e0135f5d56fd4e3b25e3160122ec" level="file">
+        <did>
+          <unittitle><emph render="italic">Facts and Figures</emph> : Inter-American Regional Organization of Workers, Puerto Vallarta, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1957/1958" type="inclusive">1957-1958</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f2554d4e8401fb455904c618f22508a2" label="Mixed Materials [31142063007556]" type="Box">17</container>
+          <container id="aspace_20ac26756b07d8369101df0541802bd4" parent="aspace_f2554d4e8401fb455904c618f22508a2" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_b594816de07afca5dec10b55844f9c45" level="file">
+        <did>
+          <unittitle><emph render="italic">Fidel Castro Main Report</emph> : Center for Cuban Studies, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_075a6cf7c2f1d541020a58182f180902" label="Mixed Materials [31142063007556]" type="Box">17</container>
+          <container id="aspace_ee91c3932266be7ad33e7555a0537365" parent="aspace_075a6cf7c2f1d541020a58182f180902" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_20088119081b4a37f716544a978e6a29" level="file">
+        <did>
+          <unittitle><emph render="italic">FMLN / FDR</emph> : CISPES (Committee in Solidarity with the People of El Salvador), Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_91028d59e914a1ba93f6125f674b7a8f" label="Mixed Materials [31142063007556]" type="Box">17</container>
+          <container id="aspace_5ff8a698a49bbef55b4ca2ee1f3147da" parent="aspace_91028d59e914a1ba93f6125f674b7a8f" type="Folder">7</container>
+          <container altrender="Manuscript box - Legal" id="aspace_2f83c849cd96e39743422e2400225777" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_b43dd25cd1ca5236380c525c25d3989f" parent="aspace_2f83c849cd96e39743422e2400225777" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ce2aed5886a129a4ffd74abe6e584cfb" level="file">
+        <did>
+          <unittitle><emph render="italic">Folletos Populares</emph> : El Instituto Historico Centroamericano, Managua, Nicaragua</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d2e73a7df88a87d17bdc6e96966f2069" label="Mixed Materials [31142063007556]" type="Box">17</container>
+          <container id="aspace_2c62fb6d130ac3b207a7a8dbe6c41526" parent="aspace_d2e73a7df88a87d17bdc6e96966f2069" type="Folder">4</container>
+          <container altrender="Manuscript box - Legal" id="aspace_8a7effd57c98bfdd71efe5a4098f0917" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_75951dfe0a934844db9cac442e09ce89" parent="aspace_8a7effd57c98bfdd71efe5a4098f0917" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_aecde6c82109cf90eebc06bf92aae889" level="file">
+        <did>
+          <unittitle><emph render="italic">Free West Indian</emph> : West Indian Company, St George's, Grenada</unittitle>
+          <unitdate datechar="creation" normal="1980/1983" type="inclusive">1980-1983</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_a4ec0bd12b019b877209efa265010362" label="Mixed Materials [31142063007440]" type="Box">6</container>
+          <container id="aspace_4c1440c202191df9bf19725200c0f1d4" parent="aspace_a4ec0bd12b019b877209efa265010362" type="Folder">1-5</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_b6f300e4de2562f1fe4ea56f0e6956ba" label="Mixed Materials [31142063007457]" type="Box">7</container>
+          <container id="aspace_f83d47c37f0be86679ae25ab6f48669e" parent="aspace_b6f300e4de2562f1fe4ea56f0e6956ba" type="Folder">1-4</container>
+        </did>
+      </c>
+      <c id="aspace_22b8c9a31d8be6512fc2bc0324ca4c9b" level="file">
+        <did>
+          <unittitle><emph render="italic">Friends for Jamaica Caribbean Newsletter</emph> : Friends for Jamaica, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7fcf2bb7658633a127ad99dea9c59f6e" label="Mixed Materials [31142063007556]" type="Box">17</container>
+          <container id="aspace_4cb150ccf51f0d6ac1b9717e4bdb9e66" parent="aspace_7fcf2bb7658633a127ad99dea9c59f6e" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_573ce57f8a6f049eda9a3e800f370ffa" level="file">
+        <did>
+          <unittitle><emph render="italic">Friends of A.M.E.S.</emph> : Women's Association of El Salvador, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1986/1989" type="inclusive">1986-1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_845d06bb8173ca4f245fb86039c1c602" label="Mixed Materials [31142063007556]" type="Box">17</container>
+          <container id="aspace_a3e938265745d309374eab5763d540b3" parent="aspace_845d06bb8173ca4f245fb86039c1c602" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_cb5ce31509942313372283f9f002d7c3" level="file">
+        <did>
+          <unittitle><emph render="italic">Fuera De Linea</emph> : Fuera De Linea, San Diego, CA / Tijuana, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_273fbc762887555d40881d18e5eff68d" label="Mixed Materials [31142063007556]" type="Box">17</container>
+          <container id="aspace_f4684a6031612c2559186aeaa306889f" parent="aspace_273fbc762887555d40881d18e5eff68d" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_c15c549fb9607cbfbf5ec7a927314dcb" level="file">
+        <did>
+          <unittitle><emph render="italic">Futuro</emph> : Universidad Obrera de Mexico, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_845434f9a8baff4f537039c053d91dc2" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_a60f85a498d9151b8c8f6ce5ba938dd0" parent="aspace_845434f9a8baff4f537039c053d91dc2" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_d03d4c26ec3f494904cc3d6e158b6cd4" level="file">
+        <did>
+          <unittitle><emph render="italic">Grito y Fusil</emph> : Center for Information on Latin America, Quebec</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_2b170a844bf575c175dee7ca065e8f35" label="Mixed Materials [31142063007432]" type="Box">5</container>
+          <container id="aspace_b2ed4fb299c4e9349d7da46788ec9f3d" parent="aspace_2b170a844bf575c175dee7ca065e8f35" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_135eb580d868b731f9e650f0abee70d7" level="file">
+        <did>
+          <unittitle><emph render="italic">Guatemala Network News</emph> : Network in Solidarity with the People of Nicaragua, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9f84ea6a4cf9cb703bab0eb60e280f34" label="Mixed Materials [31142063007556]" type="Box">17</container>
+          <container id="aspace_9fe4f2e4b97d811a77407f2720dd1e6d" parent="aspace_9f84ea6a4cf9cb703bab0eb60e280f34" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_f987f7f2a392a69e8d1288f3500f7dc3" level="file">
+        <did>
+          <unittitle><emph render="italic">Guatemala Update</emph> : The Guatemala Solidarity Committee (GUASO), Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7f3cc4934ab3faa585850042357671e9" label="Mixed Materials [31142063007556]" type="Box">17</container>
+          <container id="aspace_d1571fdd141ed43c00328562b800491d" parent="aspace_7f3cc4934ab3faa585850042357671e9" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_7fffbf244805009de2fe2755cc46efdf" level="file">
+        <did>
+          <unittitle><emph render="italic">Guevara's Guerilla Strategy : A Critique and Some Proposals</emph> : Pathfinder Press, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_812e7f906def82594f124b19e780e645" label="Mixed Materials [31142063007556]" type="Box">17</container>
+          <container id="aspace_c62681a06507e4077db7043b8f5082db" parent="aspace_812e7f906def82594f124b19e780e645" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ba1fe1e8f6c7d2bc04a34b449a661204" level="file">
+        <did>
+          <unittitle><emph render="italic">Haiti Insight : A Bulletin on Refugee and Human Rights Affairs</emph> : National Coalition for Haitian Refugees, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1990/1996" type="inclusive">1990-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3ca86e7843a8bc5ca469f4ea37a0ca13" label="Mixed Materials [31142063007556]" type="Box">17</container>
+          <container id="aspace_ed952c839e0cb4facabef82402a6291c" parent="aspace_3ca86e7843a8bc5ca469f4ea37a0ca13" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_69f4283454fdba975245be567383175f" level="file">
+        <did>
+          <unittitle><emph render="italic">Haiti News Digest</emph> : Haiti Communications Project, Boston, MA</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0026207246fbae10b0e5f36ae25dd40a" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_787e0eaff09b817758954bdbf6c9dff8" parent="aspace_0026207246fbae10b0e5f36ae25dd40a" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_39f6bc386e73ff31c3a5b1a0a0fdfa8c" level="file">
+        <did>
+          <unittitle><emph render="italic">Haiti progres</emph> : Haiti Progres, Brooklyn, NY</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_99daf53eb88dad843d1f12c5bd5ce411" label="Mixed Materials [31142063007432]" type="Box">5</container>
+          <container id="aspace_c589a30f2f55b3d616861ed38653e2d6" parent="aspace_99daf53eb88dad843d1f12c5bd5ce411" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_9adf7389d66f776d2b440ccc9a55b2a8" level="file">
+        <did>
+          <unittitle><emph render="italic">Haiti Support Network Update</emph> : Haiti Support Network, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_eabc15e61eb73f98643a1a9f2c9a56da" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_83a8778060d7409e507feba2d0927eba" parent="aspace_eabc15e61eb73f98643a1a9f2c9a56da" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_b2ed32102e57ccd76d84ae9df446c7ef" level="file">
+        <did>
+          <unittitle><emph render="italic">Hemispherica</emph> : U.S. Committee of the Inter-American Assn. for Democracy and Freedom, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_06c1a6692dab205fec7461fbab06c993" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_bbb41fbf127953f5096959f23c83fdbb" parent="aspace_06c1a6692dab205fec7461fbab06c993" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_e3d6a7f1583de3701a81438cb093765b" level="file">
+        <did>
+          <unittitle><emph render="italic">Historia Unisinos</emph> : Universidade do Vale do Rio Dos Sinos, Sao Leopoldo, Brazil</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5ef0e9f084f4011109cbf19fbfba06b2" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_9bb17af3dff013f043ac86627060b19b" parent="aspace_5ef0e9f084f4011109cbf19fbfba06b2" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_081b0ca067a7bd80fb597bdbe912fa30" level="file">
+        <did>
+          <unittitle><emph render="italic">Hope in Chile</emph> : Bay Area Ecumenical Committee of Concern for Chile, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bde1d9fac59d738fa501ac65915abedb" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_a741e2df7f36248e451d6e55a30868bd" parent="aspace_bde1d9fac59d738fa501ac65915abedb" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_07ab651c5de15fb0de82f166a04c2974" level="file">
+        <did>
+          <unittitle><emph render="italic">Hoy</emph> : Hoy, Santiago, Chile</unittitle>
+          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_48fdd33b689a4eb453dc5ecb7ca6c26a" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_79cefebae87ea5029250a5faf31c7369" parent="aspace_48fdd33b689a4eb453dc5ecb7ca6c26a" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_4c57c5977ae9ad49c254fbadd424f222" level="file">
+        <did>
+          <unittitle><emph render="italic">Huracán</emph> : Alliance for Cultural Democracy, Minneapolis, MN</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_e4fa3e09e076a6f608e61c2e547f4fdb" label="Mixed Materials [31142063007432]" type="Box">5</container>
+          <container id="aspace_746e4491e6ed16097c037f69108edc6d" parent="aspace_e4fa3e09e076a6f608e61c2e547f4fdb" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_bb655a12c7b382efda8090bf9b65a93a" level="file">
+        <did>
+          <unittitle><emph render="italic">Hydro Focus : A Fortnightly People's Newspaper Produced by and for the Hydro Region Workers and Residents</emph> : Upper Mazaruni Development Project</unittitle>
+          <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_c2e166f5f07f33ca7903d416114225ee" label="Mixed Materials [31142063007432]" type="Box">5</container>
+          <container id="aspace_5bacfd13904e17075c3cc642a0dd29db" parent="aspace_c2e166f5f07f33ca7903d416114225ee" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_76091ce6858a7db6f2122a39cc846483" level="file">
+        <did>
+          <unittitle><emph render="italic">In Commemoration of the 50th Anniversary of the Assassination of General Augusto C. Sandino</emph> : Centro de Comunicacion Internacional, Managua, Nicaragua</unittitle>
+          <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_34a18105e87da484cba9ad5144fdaf8e" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_b747a0571c81ae434993e44b12b73277" parent="aspace_34a18105e87da484cba9ad5144fdaf8e" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_014c2761bf7e42a068a5443b7794bf1d" level="file">
+        <did>
+          <unittitle><emph render="italic">Incredible Rocky</emph> : North American Congress of Latin America (NACLA), Berkeley, CA</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_48196ef7d06d3212481223bf2c07535f" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_5b33e2e0bedfa75c7560d5adcf6a24e0" parent="aspace_48196ef7d06d3212481223bf2c07535f" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_919fd1b4876a4fc7eb74f8973a4a4214" level="file">
+        <did>
+          <unittitle><emph render="italic">Information from Cuba</emph> : Luis A. Reyes, New Delhi, India</unittitle>
+          <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_db463df99395e186f16c06b635bb8444" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_366be3dab38493d119480886112736e9" parent="aspace_db463df99395e186f16c06b635bb8444" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_0fe0b836bab914c254a3616f8de63943" level="file">
+        <did>
+          <unittitle><emph render="italic">Inter-American Labor Bulletin</emph> : Inter-American Regional Organization, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2244e065a54120192e10ab774062b6f4" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_4364c65454c1a74de35b3b0b97a81017" parent="aspace_2244e065a54120192e10ab774062b6f4" type="Folder">11</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_08772584c1e5d55f3e27b330d13a46d8" label="Mixed Materials [31142063007499]" type="Box">11</container>
+          <container id="aspace_9f89ea52586e6a4dcc6f3a3ee1b001a5" parent="aspace_08772584c1e5d55f3e27b330d13a46d8" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_1bd279a7faf989ccf63a80c70a636593" level="file">
+        <did>
+          <unittitle><emph render="italic">Interamericana</emph> : Organizacion Regional InterAmericana de Drabajadores, Mexico City, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d8627dc6b9922fca93af687bfd52ebe1" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_aac84e9aad4bc5445974a3781bf7697c" parent="aspace_d8627dc6b9922fca93af687bfd52ebe1" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_421a81e896f94217664882ac18bf6aef" level="file">
+        <did>
+          <unittitle><emph render="italic">Interconnect</emph> : Interconnect, Pittsford, NY</unittitle>
+          <unitdate datechar="creation" normal="1995/1996" type="inclusive">1995-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5e2cf4083eb83781234e1986b5a7da0c" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_0117a24f3fcf9e1baaf4a9e3044fd926" parent="aspace_5e2cf4083eb83781234e1986b5a7da0c" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_024fc2836a7a6eabe3249676d2e5505f" level="file">
+        <did>
+          <unittitle><emph render="italic">Internacionalismo</emph> : Direccion Internacional de la Tendencia Cuartainternacionalista, Lima, Peru</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a2d2805bde80478b0d22f850e9118c5e" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_f17c34feee43a5b952a56cb71a00cf45" parent="aspace_a2d2805bde80478b0d22f850e9118c5e" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_5fa41481e85ca3e1c1f33e4f371854d4" level="file">
+        <did>
+          <unittitle><emph render="italic">Interpretacion del Anarquismo</emph> : Editorial Tierra y Libertad, Caracas, Venezuela</unittitle>
+          <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d5be4044f8f43b7f1440f6a70ad80ac7" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_1d42c96fbb5194e65b6360006e71eb05" parent="aspace_d5be4044f8f43b7f1440f6a70ad80ac7" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_b55b6807da801aa3a5f583f2ecb920d9" level="file">
+        <did>
+          <unittitle><emph render="italic">JR Juventud Rebelde</emph> : La Habana, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_5418bca492553afd7dfeddc57d3cb87e" label="Mixed Materials [31142063007465]" type="Box">8</container>
+          <container id="aspace_0967e4650b5eb2797075cab01a0a0594" parent="aspace_5418bca492553afd7dfeddc57d3cb87e" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_4531a54fd37f302beacac12ff6fbc1b9" level="file">
+        <did>
+          <unittitle><emph render="italic">Juventud Rebelde</emph> : Juventud Rebelde, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_742d4a35fd23dffe7fc6a135e753e754" label="Mixed Materials [31142063007465]" type="Box">8</container>
+          <container id="aspace_3c44adc1c1c1bdc26f447a92351b62e1" parent="aspace_742d4a35fd23dffe7fc6a135e753e754" type="Folder">2-3</container>
+          <container altrender="Flat OS Box 17" id="aspace_00ff91587b6180433c22776ae457edb6" label="Mixed Materials [31142062995116]" type="Box">Shared Tamiment 054</container>
+          <container id="aspace_6fee46f70ada2d1f298d2923d80b1021" parent="aspace_00ff91587b6180433c22776ae457edb6" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ec58e1946fac6d3a77f2dae650fab3e8" level="file">
+        <did>
+          <unittitle><emph render="italic">La Causa</emph> : National Brown Beret Organization, Compton, CA</unittitle>
+          <unitdate datechar="creation" normal="1940/1999" type="inclusive">Undated</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_2937553d1cddf90ee9c01a3d45dc5967" label="Mixed Materials [31142063007432]" type="Box">5</container>
+          <container id="aspace_9f808fff45dcf6a70b7a2863e124be33" parent="aspace_2937553d1cddf90ee9c01a3d45dc5967" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_fd8dadfaa2a1cf08a7c36e016ee1a819" level="file">
+        <did>
+          <unittitle><emph render="italic">La Intervencion castrista en Venezuela</emph> : Distribuidora Universal, Miami, FL</unittitle>
+          <unitdate datechar="creation" normal="1960/1969" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3f4780aa37d0399dc6e30a25b9fc369b" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_a30ff83d570af31f8386052427644710" parent="aspace_3f4780aa37d0399dc6e30a25b9fc369b" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_a1da99e02fdf4839a1be9dce63bbeed2" level="file">
+        <did>
+          <unittitle><emph render="italic">La Nueva Bandera</emph> : Movimiento Popular Peru, Queens, NY</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3049306e41a530cbbbc5f80bae150e34" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_9a169edfd5a527e526820a5f2b867e01" parent="aspace_3049306e41a530cbbbc5f80bae150e34" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_d1cea1ed16504b382ad496da9969e1e1" level="file">
+        <did>
+          <unittitle><emph render="italic">La Palabra</emph> : Latin American Solidarity Committee, Ann Arbor, MI</unittitle>
+          <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_208e7963c5349c108f5d5f457d15e283" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_8c4367bcc1395992e6ec3deb74d68360" parent="aspace_208e7963c5349c108f5d5f457d15e283" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_aafb4a4b5ca967e343e70537ca4a243d" level="file">
+        <did>
+          <unittitle><emph render="italic">La Palma : Una Esperanza Para La Paz</emph> : Comision Politico-Diplomatica del FMLN-FDR de El Salvador, El Salvador</unittitle>
+          <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_34c118bd1b0b82b305f9a45466e49978" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_65b58ee3b2564e467b2e357780cdabb7" parent="aspace_34c118bd1b0b82b305f9a45466e49978" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_8b65e013b25615d0e102e6aadb8693d0" level="file">
+        <did>
+          <unittitle><emph render="italic">La Verdad</emph> : La Verdad, San Diego, CA</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_bd834ad1c77d2a8e3ba18ec3ded206bc" label="Mixed Materials [31142063007432]" type="Box">5</container>
+          <container id="aspace_4077018825540d070939417bdb0e02ee" parent="aspace_bd834ad1c77d2a8e3ba18ec3ded206bc" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_d12fd62f742359a9212565cc9f174f35" level="file">
+        <did>
+          <unittitle><emph render="italic">La Voz del Quetzal</emph> : Association in Solidarity with Guatemala, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a1e225aadddb642154809998a9d3becc" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_41cba23e7ff7b4821fcc22fea27d86f0" parent="aspace_a1e225aadddb642154809998a9d3becc" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_2184c4089437b3463193ab555c2dc61f" level="file">
+        <did>
+          <unittitle><emph render="italic">La Voz Latina</emph> : Labor Council for Latin American Advancement, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1986/1992" type="inclusive">1986-1992</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e33ed5025d881abf707ca84afe382a86" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_b05f8332a049e119f6be3c3e60b3c829" parent="aspace_e33ed5025d881abf707ca84afe382a86" type="Folder">20</container>
+          <container altrender="Manuscript box - Legal" id="aspace_60fe12e9815a60648379d763e81bf187" label="Mixed Materials [31142063007614]" type="Box">23</container>
+          <container id="aspace_a3bf0e0dd53eb86c85f0b2ff49432004" parent="aspace_60fe12e9815a60648379d763e81bf187" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_0f7566edf4704c9b057a99e53fb6c4ef" level="file">
+        <did>
+          <unittitle><emph render="italic">Labor Report on Central America</emph> : Labor Network on Central America, Oakland, CA</unittitle>
+          <unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_30fadb1dde38af60a0223344de2e1fe7" label="Mixed Materials [31142063007432]" type="Box">5</container>
+          <container id="aspace_2e886ebbc479362f8ff9081fc9856fd8" parent="aspace_30fadb1dde38af60a0223344de2e1fe7" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_fe6e1960aec2d459ab6b802a9b1ffaa5" level="file">
+        <did>
+          <unittitle><emph render="italic">Lambi</emph> : Lutte Revolutionnaire du Peuple Haitien, Haiti</unittitle>
+          <unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6cdca4a2ce5edc20963f14506a82aea9" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_5330edbdc67923f04e1156655fb3fd0b" parent="aspace_6cdca4a2ce5edc20963f14506a82aea9" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_85d2e191b0c54f718977db63ba0c3407" level="file">
+        <did>
+          <unittitle><emph render="italic">LASA Newsletter</emph> : Latin American Studies Association, Austin, TX</unittitle>
+          <unitdate datechar="creation" normal="1979/1982" type="inclusive">1979-1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_88f9b9ba80504e657f1ac2b13ba0d23f" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_cec98579f7bc8c4d8b75e639721a368e" parent="aspace_88f9b9ba80504e657f1ac2b13ba0d23f" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_eceb3e2af5b54e08dfed2504cec0d814" level="file">
+        <did>
+          <unittitle><emph render="italic">Latin America Update</emph> : Washington Office on Latin America, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c6ba0f40931494dbcc10356a926e282f" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_61965fb8309f3ddd19780e434f1780a3" parent="aspace_c6ba0f40931494dbcc10356a926e282f" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_45104cd88de7e016d1e640993863d6e1" level="file">
+        <did>
+          <unittitle><emph render="italic">Latin American Left</emph> : Westview Press, Boulder, CO</unittitle>
+          <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_741c3d06d70f4c8076053130887c2d97" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_2f2a6a91ddc04016840f5e2a367e16b8" parent="aspace_741c3d06d70f4c8076053130887c2d97" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_9017f1deb86c5ada96f96ba004e5354f" level="file">
+        <did>
+          <unittitle><emph render="italic">Latin American Monitor</emph> : Latin American Monitor Ltd., London, UK</unittitle>
+          <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d0a29e22792ed39a12d1cd2c43273ac9" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_83948af91ae1c033eac2e7ef4ad72006" parent="aspace_d0a29e22792ed39a12d1cd2c43273ac9" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_8c249c3ce9b4f9203ca65cba9a741e66" level="file">
+        <did>
+          <unittitle><emph render="italic">Latin American Perspectives</emph> : Sage Publications, Inc., Newbury Park, CA</unittitle>
+          <unitdate datechar="creation" normal="1974/2005" type="inclusive">1974-2005</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_4a9fff6814a9d9c83ce31f09adfde9dd" label="Mixed Materials [31142063007630]" type="Box">25</container>
+          <container id="aspace_ecb53924c6d5b12534b0363c7665e1a0" parent="aspace_4a9fff6814a9d9c83ce31f09adfde9dd" type="Folder">1-6</container>
+          <container altrender="Manuscript box - Letter" id="aspace_8c2d3bdc670d1864d693ef1d04dd4074" label="Mixed Materials [31142063007648]" type="Box">26</container>
+          <container id="aspace_39b530aa2d324a6b27577a44d2d33bfe" parent="aspace_8c2d3bdc670d1864d693ef1d04dd4074" type="Folder">1-7</container>
+          <container altrender="Manuscript box - Letter" id="aspace_27584f30df89b8c0da10936d19e60465" label="Mixed Materials [31142063007655]" type="Box">27</container>
+          <container id="aspace_c07d7a597fc33f577ac64d45524352ff" parent="aspace_27584f30df89b8c0da10936d19e60465" type="Folder">1-6</container>
+          <container altrender="Manuscript box - Letter" id="aspace_3fab4a4e63ca5ef2f80c9db101b7b0cb" label="Mixed Materials [31142063007663]" type="Box">28</container>
+          <container id="aspace_b7e1d63951e4a4d29f007aa706094de3" parent="aspace_3fab4a4e63ca5ef2f80c9db101b7b0cb" type="Folder">1-6</container>
+        </did>
+      </c>
+      <c id="aspace_d124544eca7994064da20fbbd95e2573" level="file">
+        <did>
+          <unittitle><emph render="italic">Latino</emph> : Latino , New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1940/1999" type="inclusive">Undated</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_f62ff84780f06c7638e0ebbbf391a7ee" label="Mixed Materials [31142063007465]" type="Box">8</container>
+          <container id="aspace_6a31a67686cba0dec33de77b0fb7d12e" parent="aspace_f62ff84780f06c7638e0ebbbf391a7ee" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_a4fbef74992bf3fcd9033cac0bc3cc66" level="file">
+        <did>
+          <unittitle><emph render="italic">Legislative Update</emph> : Washington Office on Latin America, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1975/1976" type="inclusive">1975-1976</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_61375eb3a23fdb8975aeb1a767f5dfbc" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_2061594477ed6d6f06c56979d2bfb131" parent="aspace_61375eb3a23fdb8975aeb1a767f5dfbc" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_fb4c3c9b722ffa80ef7352a480fdc0d2" level="file">
+        <did>
+          <unittitle><emph render="italic">Liberacion</emph> : Liberacion, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fb39f285a53bda1a11707b2f2faab38f" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_e09093d70d6ef2ebc01a291e26fa2526" parent="aspace_fb39f285a53bda1a11707b2f2faab38f" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_4c67129e8a5f7203200b1ce73f17f05b" level="file">
+        <did>
+          <unittitle><emph render="italic">Los Terremotos Chilenos</emph> : Nosotros los Chilenos : Quimanto, Santiago, Chile</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_33b9ec471861ea916767b89e1637197c" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_b3d0f08499814eee74f71532005ef9cc" parent="aspace_33b9ec471861ea916767b89e1637197c" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_07d3d8b1aa4f4bd25f3db2775b82391b" level="file">
+        <did>
+          <unittitle><emph render="italic">Lucha</emph> : Christians Concerned for Chile, Notre Dame, IN</unittitle>
+          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5e739c766e59c96689f751afffd6446a" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_91b1e6fe140d8256b3653c99675b6ac0" parent="aspace_5e739c766e59c96689f751afffd6446a" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_fb835bf394d5d7744a5ba21fecd486a9" level="file">
+        <did>
+          <unittitle><emph render="italic">Lucha Sandinista</emph> : Frente Sandinista de Liberacion Nacional (FSLN), Nicaragua</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_322bdf077f2fc9c6f9dbb9423b2b6a2b" label="Mixed Materials [31142063007564]" type="Box">18</container>
+          <container id="aspace_59179fe57b2e04d043d3901ad7145606" parent="aspace_322bdf077f2fc9c6f9dbb9423b2b6a2b" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_e9cc1de5771d0721b979626f298bedcd" level="file">
+        <did>
+          <unittitle><emph render="italic">Lucha!</emph> : National Network in Solidarity with the Nicaraguan People (NNSNP), National Network in Solidarity with the People of Guatemala (NISGUA) and the Committee in Solidarity with the People of El Salvador (CISPES), Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1940/1999" type="inclusive">Undated</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_0e4f0f645942b423e5b9153ea2735ca9" label="Mixed Materials [31142063007465]" type="Box">8</container>
+          <container id="aspace_18d6e77d675e247e7a5da51151652ddc" parent="aspace_0e4f0f645942b423e5b9153ea2735ca9" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_29719d125ae760aaa3a5999960b47e36" level="file">
+        <did>
+          <unittitle><emph render="italic">Lunes de Revolucion</emph> : Lunes de Revolucion, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1960/1961" type="inclusive">1960-1961</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_463494d6ca7becbde9ada011705cc69b" label="Mixed Materials [31142063007671]" type="Box">29</container>
+          <container id="aspace_52f6927fcb64c371c7c01e33a5211caa" parent="aspace_463494d6ca7becbde9ada011705cc69b" type="Folder">10-13</container>
+        </did>
+      </c>
+      <c id="aspace_020da62ec523142ad3e756b827bcf2e7" level="file">
+        <did>
+          <unittitle><emph render="italic">Magisterio</emph> : Sindicato Nacional de Trabajadores de la Educacion, Mexico City, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0b627a933f02642d4359db03b40fe739" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_27b9c370609f4ee512ef87d682480e96" parent="aspace_0b627a933f02642d4359db03b40fe739" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_040b8e5066766b81e8d9aa3163c40dcd" level="file">
+        <did>
+          <unittitle><emph render="italic">Marxismo Militante</emph> : Editorial Roalva, La Paz, Bolivia</unittitle>
+          <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_be7847c831b7a36d1000245e1b3f49c0" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_1dd31cdb5471394a90fd2ad575b4c7c6" parent="aspace_be7847c831b7a36d1000245e1b3f49c0" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_d9983cce63a324cbde482215cd95455e" level="file">
+        <did>
+          <unittitle><emph render="italic">Memoria</emph> : Centro Cultural Pablo de la Torriente Brau, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1998/2001" type="inclusive">1998-2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_34927f404419074496c5b4ef765f6d1e" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_75bbc5a29334ab4cf2674c05b0d7c1b3" parent="aspace_34927f404419074496c5b4ef765f6d1e" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_451a64fd8efecdc2c99d1868f5690464" level="file">
+        <did>
+          <unittitle><emph render="italic">Memorias de la Sierra Maestra</emph> : Jose Pardo Llada / Editorial Tierra Nueva, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ab153e5ec0f5fd54da9d1c3c5686d234" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_bebb11b32a08a3b5513cf34ec73df9b9" parent="aspace_ab153e5ec0f5fd54da9d1c3c5686d234" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_aace43e2214b089c14bbd5a5e74c03e8" level="file">
+        <did>
+          <unittitle><emph render="italic">Ministerio de Estado Departamento de Prensa Poletin</emph> : Cuban State Department, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f39e62f187241f80c23446913dcbf7e1" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_25bb6d3c55a639d886b77f87d8eede90" parent="aspace_f39e62f187241f80c23446913dcbf7e1" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_86168a5cbf858b94d7de5df955c82139" level="file">
+        <did>
+          <unittitle><emph render="italic">MX Sin Fronteras</emph> : MX Sin Fronteras, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_57863ec965d66db965c654e2ada4438d" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_fafacae1321dea9cccc53d0941dce7e9" parent="aspace_57863ec965d66db965c654e2ada4438d" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_af3b4b22a3c5e720a01daa92b832c0c7" level="file">
+        <did>
+          <unittitle><emph render="italic">National Guard in Central America</emph> : National Guard Clearinghouse, St. Louis, MO</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bc32397fa4c9dd62aa5befdbd72a641b" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_c9188fe2388b2ac5135ba5a1ef0c0a64" parent="aspace_bc32397fa4c9dd62aa5befdbd72a641b" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_af96f38eb5121e2c278b376a5c137d5b" level="file">
+        <did>
+          <unittitle><emph render="italic">New York NICANEWS</emph> : Nicaragua Solidarity Network of Greater New York, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_68dc70521c733003ba362210a9170259" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_50dd2f92d4f558378cc809599e93a6f1" parent="aspace_68dc70521c733003ba362210a9170259" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_50b93f1e6d4a10e858149e7fcdbe5896" level="file">
+        <did>
+          <unittitle><emph render="italic">New York Nicanews</emph> : NY Nicaragua Solidarity Network, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8e00b67ab86e0d46a5a07b30880255d6" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_e5a1498c85352a2b6dc116c670a5bce6" parent="aspace_8e00b67ab86e0d46a5a07b30880255d6" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_82bfbfe45c69b0a9ec550f63dbceeb2a" level="file">
+        <did>
+          <unittitle><emph render="italic">News from Guatemala</emph> : News from Guatemala, Toronto, Ontario</unittitle>
+          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3d517c11f75ab47c63bd1b95bf675361" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_847b7ab9539419f24c31737e81e179c3" parent="aspace_3d517c11f75ab47c63bd1b95bf675361" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_04e0e8abda316ce4f61d390e12ee48d1" level="file">
+        <did>
+          <unittitle><emph render="italic">Newsletter</emph> : Council for Human Rights in Latin America, Eugene, OR</unittitle>
+          <unitdate datechar="creation" normal="1983/1986" type="inclusive">1983-1986</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_50276be3eb1752453f09cb826160ae60" label="Mixed Materials [31142063007465]" type="Box">8</container>
+          <container id="aspace_c779fd8379efc4dc0006361df66784c8" parent="aspace_50276be3eb1752453f09cb826160ae60" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_38269abf21d34ae639b0e31efbe273bf" level="file">
+        <did>
+          <unittitle><emph render="italic">Newsletter</emph> : Casa Chile : Seattle, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1987/1991" type="inclusive">1987-1991</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e68ccea34e8fa587dd70d6d4ef7ca416" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_c10ca1fcabdab9ccfb009f83596bdc6a" parent="aspace_e68ccea34e8fa587dd70d6d4ef7ca416" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_a0fdf5637bda4671a2915b45a9271727" level="file">
+        <did>
+          <unittitle><emph render="italic">Newsletter</emph> : West Side Committee for Friendly Relations with Cuba, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_901e3803ca76d5482a45f8d452d137b2" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_beb5b9c65d432ca56151abb5953eea00" parent="aspace_901e3803ca76d5482a45f8d452d137b2" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_c4c22a38c502efe58cf0378a4581714b" level="file">
+        <did>
+          <unittitle><emph render="italic">Nica Text</emph> : Nicaragua Technical Aid Group, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9ea2a5b9189322c7d1890cfb58d68635" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_25b566cb91507823527f7d46e36102c4" parent="aspace_9ea2a5b9189322c7d1890cfb58d68635" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_66b927e9e8121ce5f04190dc639fa751" level="file">
+        <did>
+          <unittitle><emph render="italic">Nicaragua - Info fur die Solidaritatsarbeit in den Gewerkschaften</emph> : DGB-Jugend, Frankfurt, Germany</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0067016dac2dcf8a7f5bbecd8f00c5c6" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_5bbd950c280b1b0ef96aa18302a9235b" parent="aspace_0067016dac2dcf8a7f5bbecd8f00c5c6" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_8d44272e81821b9611b838ff4dd992f2" level="file">
+        <did>
+          <unittitle><emph render="italic">Nicaragua Center for Community Action</emph> : SF Women's Centers, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2d40cdd70a11d39537fa1e369e051ece" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_7efa5d19d3532aa1baf636b57cd9029a" parent="aspace_2d40cdd70a11d39537fa1e369e051ece" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_56957be7ac0b3dffd013c70ca407db3d" level="file">
+        <did>
+          <unittitle><emph render="italic">Nicaragua Libre</emph> : Nicaragua Libre, Germany</unittitle>
+          <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_10d1ca88b5ba04d6eaabcbd5d32df3ae" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_44f8d6a9164744305833c5c6eca55a80" parent="aspace_10d1ca88b5ba04d6eaabcbd5d32df3ae" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ec10ef804148e0bd1c2f58752fe57b6f" level="file">
+        <did>
+          <unittitle><emph render="italic">Nicaragua Network News</emph> : Nicaragua Network, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_10b0cc38c28738d50aff4fb9d5069c15" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_16629da486cb4459656017b0ef7dfec6" parent="aspace_10b0cc38c28738d50aff4fb9d5069c15" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_c4f1be5cda12255d0fdb834d2ae246d3" level="file">
+        <did>
+          <unittitle><emph render="italic">Nicaragua Support Project</emph> : New York Committee for Education, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1dd52568e45e560348db72ffd3d1c1dc" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_d03940b18a037c0e3fbe9fd97ae8904b" parent="aspace_1dd52568e45e560348db72ffd3d1c1dc" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_b38e62a36712164b9606fc1e7b620f98" level="file">
+        <did>
+          <unittitle><emph render="italic">Nicaragua: A People's Revolution</emph> : EPICA (Ecumenical Program for International Communication and Action) Task Force, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_85cc9f7e59c74dd6d1cadb77baa07c7f" label="Mixed Materials [31142063007465]" type="Box">8</container>
+          <container id="aspace_04307e98d77e858916b51ee255791d35" parent="aspace_85cc9f7e59c74dd6d1cadb77baa07c7f" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_55a3a80ff6e1a672ee80aa47c6235717" level="file">
+        <did>
+          <unittitle><emph render="italic">Nicarauac</emph> : Ministerio de Cultura, Managua, Nicaragua</unittitle>
+          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_146c2f9f212dfcd2a81b3de78fcdf076" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_61d7ed3f65720b02141be0a77e471092" parent="aspace_146c2f9f212dfcd2a81b3de78fcdf076" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_6cb3d13d3f9502810f5a0262ba4bf6bc" level="file">
+        <did>
+          <unittitle><emph render="italic">NICMAC Update</emph> : Nicaragua Medica / Material Aid Campaign, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_18e58a285217dafa6ab40a4bcb029ff6" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_f4705c86f733b548c20f0e62062315aa" parent="aspace_18e58a285217dafa6ab40a4bcb029ff6" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_4300748728255f5e51f34f051bac423b" level="file">
+        <did>
+          <unittitle><emph render="italic">Noticias de Colombia</emph> : Comite Central del Partido Comunista de Colombia, Bogota, Colombia</unittitle>
+          <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_af74f2db4b8c492e56069ff93b269788" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_208654f05cf6293024f961753b24923e" parent="aspace_af74f2db4b8c492e56069ff93b269788" type="Folder">18</container>
+          <container altrender="Manuscript box - Legal" id="aspace_4df6b8da0a956ff35aa40ac8b11a6528" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_4a9eb9dc228a3070a328fb81c228eea8" parent="aspace_4df6b8da0a956ff35aa40ac8b11a6528" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ae671e2afb06b040520068ba339995dc" level="file">
+        <did>
+          <unittitle><emph render="italic">Noticias de Colombia</emph> : Partido comunista de colombia, Bogota, Colombia</unittitle>
+          <unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e402c7f28eade0031b9e6480a2dd64fd" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_3a36f7a99965199176e8040258201d5f" parent="aspace_e402c7f28eade0031b9e6480a2dd64fd" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_a77d939adb9342716228338089848cab" level="file">
+        <did>
+          <unittitle><emph render="italic">Noticiero Argentino</emph> : Noticiero Argentino, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_585642650d037636b4f5f582dc06819f" label="Mixed Materials [31142063007465]" type="Box">8</container>
+          <container id="aspace_79acbe1c703b5daa1a805afdc924a3ab" parent="aspace_585642650d037636b4f5f582dc06819f" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_09fca2643b70d1b6e0c4be951dc216d2" level="file">
+        <did>
+          <unittitle><emph render="italic">Novedades de la ANCE</emph> : La Oficina Latino-Americana de la ANCE en Buenos Aires, Buenos Aires, Argentina</unittitle>
+          <unitdate datechar="creation" normal="1962/1965" type="inclusive">1962-1965</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_df9839ef484fd65d5be80ce9726fb1ec" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_76517c3825644e19ff3be168df048e79" parent="aspace_df9839ef484fd65d5be80ce9726fb1ec" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ca3be197df977645a45d67f88203d80e" level="file">
+        <did>
+          <unittitle><emph render="italic">Nueva Revista Cubana</emph> : Direccion General De Cultura, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6c19b4342dfe52258a6adec56279dc63" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_0e4c473202eda6c1223e05b539b55e15" parent="aspace_6c19b4342dfe52258a6adec56279dc63" type="Folder">19</container>
+          <container altrender="Manuscript box - Legal" id="aspace_b0cbfbd42f24af6266905b08e8f5ee62" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_0afe2fa0f5fedbb4857cc290f58717f5" parent="aspace_b0cbfbd42f24af6266905b08e8f5ee62" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_428bbbeda4c7760138b82a49b36edde2" level="file">
+        <did>
+          <unittitle><emph render="italic">Organizacion Obrera</emph> : Federacion Obrera Regional Argentina, Argentina</unittitle>
+          <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_ee324bf60883b50f81721a3a15862dae" label="Mixed Materials [31142063007473]" type="Box">9</container>
+          <container id="aspace_b079e4a61d3e88cdc70f759cbb762064" parent="aspace_ee324bf60883b50f81721a3a15862dae" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_25e57ebbea0749442c49fa0c90e53d17" level="file">
+        <did>
+          <unittitle><emph render="italic">OSGUA Newsletter</emph> : Organization in Solidarity with the People of Guatemala, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6af5b5091e6273e6596de1ce37d80e26" label="Mixed Materials [31142063007572]" type="Box">19</container>
+          <container id="aspace_dcb17512c502e172209db8b5c48a665a" parent="aspace_6af5b5091e6273e6596de1ce37d80e26" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_d3bf05e9e8c819cf711fcbe0b18d3440" level="file">
+        <did>
+          <unittitle><emph render="italic">PACCA</emph> : Policy Alternatives for the Caribbean and Central America, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_98f2ebec857c99ac5f48d7e401bfa476" label="Mixed Materials [31142063007473]" type="Box">9</container>
+          <container id="aspace_62dcffe221521de74216f1e56cb4b738" parent="aspace_98f2ebec857c99ac5f48d7e401bfa476" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_c2a268c035a4b6c68997db9713cbe1f1" level="file">
+        <did>
+          <unittitle><emph render="italic">Palenque</emph> : Grupo Palenque, Coral Gables, FL</unittitle>
+          <unitdate datechar="creation" normal="1990/1993" type="inclusive">1990-1993</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7bd8b3f6d70cccac2b6c1f38919b6090" label="Mixed Materials [31142063007580]" type="Box">20</container>
+          <container id="aspace_2c9ed08b05738c2f74c611902c719819" parent="aspace_7bd8b3f6d70cccac2b6c1f38919b6090" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_6966e0aa3d947c6152782d3d405f9ce5" level="file">
+        <did>
+          <unittitle><emph render="italic">Patria</emph> : La Editorial Tropico, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_00ac3d274f8af5c976d4999bdfa74b44" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_2d6ff6cdbf8b15eef5698bff09dbbe7f" parent="aspace_00ac3d274f8af5c976d4999bdfa74b44" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_d4ba442fb139e23e19298a812e4651da" level="file">
+        <did>
+          <unittitle><emph render="italic">Peasant</emph> : Mouvman Peyizan Papay Education and Development Fund, Boston, MA</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7a7ece9bbe4c334ef4b00857b1cbe57c" label="Mixed Materials [31142063007580]" type="Box">20</container>
+          <container id="aspace_1b0cd98a48721d6eee5621bfc5babb49" parent="aspace_7a7ece9bbe4c334ef4b00857b1cbe57c" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_f99c6eab0746664a9aaf60c9d5937af8" level="file">
+        <did>
+          <unittitle><emph render="italic">Peasant</emph> : The Peasant Movement of Papay Education and Development Fund, Boston, MA</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_44b0bff95ee9c6898d94619c674c4ae7" label="Mixed Materials [31142063007580]" type="Box">20</container>
+          <container id="aspace_58df5e75c27e709d92cc524825ae95a1" parent="aspace_44b0bff95ee9c6898d94619c674c4ae7" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_3ae9aeb2c4af4f70dca75febd2db56cd" level="file">
+        <did>
+          <unittitle><emph render="italic">PEL : Panorama Economico Latinoamericano</emph> : Prensa Latina, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1964/1968" type="inclusive">1964-1968</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2c2d33fa2323e0e124d1db5080ea3aea" label="Mixed Materials [31142063007580]" type="Box">20</container>
+          <container id="aspace_4298239cea923491f75d019e3542db8e" parent="aspace_2c2d33fa2323e0e124d1db5080ea3aea" type="Folder">6</container>
+          <container altrender="Manuscript box - Legal" id="aspace_3e13c9c2c4daef719234d8f52a1e5e74" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_8f52766b66df20477ffbc1842a164e1d" parent="aspace_3e13c9c2c4daef719234d8f52a1e5e74" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_07639cd1e9a7fcd76e28d5f7ffccccde" level="file">
+        <did>
+          <unittitle><emph render="italic">Pensamiento Critico</emph> : Pensamiento Critico, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7b57de715ede87da34bae02a550f1b3a" label="Mixed Materials [31142063007580]" type="Box">20</container>
+          <container id="aspace_d0bacd7d0743182a91217a656b3bed81" parent="aspace_7b57de715ede87da34bae02a550f1b3a" type="Folder">9-12</container>
+          <container altrender="Manuscript box - Legal" id="aspace_9ae2fa54d6ba7b5dd367cd878f5ec828" label="Mixed Materials [31142063007598]" type="Box">21</container>
+          <container id="aspace_0926f40f2a565b15cc4625b005d6297a" parent="aspace_9ae2fa54d6ba7b5dd367cd878f5ec828" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ae99162a43debd40f35e3f773e727324" level="file">
+        <did>
+          <unittitle><emph render="italic">Pensamiento y Accion Marxista Leninistas en America Latina</emph> : Los Partidos Marxista - Leninistas de Colombia, Chile, Ecuador y Brasil, Brazil</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4505b4af607092447024e1f3556f3ffe" label="Mixed Materials [31142063007580]" type="Box">20</container>
+          <container id="aspace_edf14100adeb6c0e7087f76f3f67e49b" parent="aspace_4505b4af607092447024e1f3556f3ffe" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_637eb63dbd9508fcc1335bce4577f73c" level="file">
+        <did>
+          <unittitle><emph render="italic">Plan 1000 : A Strategy of Psychological Warfare in El Salvador</emph> : Radio Venceremos System, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8cac371335bdfe425cf6c64febd3d647" label="Mixed Materials [31142063007580]" type="Box">20</container>
+          <container id="aspace_8a342d67c7dc2f8cc0f67177c779b972" parent="aspace_8cac371335bdfe425cf6c64febd3d647" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_95f59adec7b50dc198e19d01d5317455" level="file">
+        <did>
+          <unittitle><emph render="italic">Plenty News</emph> : Plenty Staff, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_03fbc9e26f3c972022ac3d1218a489fa" label="Mixed Materials [31142063007580]" type="Box">20</container>
+          <container id="aspace_c53c392e6b6698e61c36d0857e0463a9" parent="aspace_03fbc9e26f3c972022ac3d1218a489fa" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_915b4da41301274aadb160097ec9d045" level="file">
+        <did>
+          <unittitle><emph render="italic">Poetas Cubanos Del Siglo XIX</emph> : Cuadernos de Revista Union, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5cfe12090e4fad664a1fef01fd6117ea" label="Mixed Materials [31142063007580]" type="Box">20</container>
+          <container id="aspace_b8417fb943f8e9bee158159dc4b7970a" parent="aspace_5cfe12090e4fad664a1fef01fd6117ea" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_c04d6cccc05ecf73cccf2900687a57d9" level="file">
+        <did>
+          <unittitle><emph render="italic">¡Presente!</emph> : SOA Watch, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_b166e8d24b18e9e9f24fd4505bd1000b" label="Mixed Materials [31142063007473]" type="Box">9</container>
+          <container id="aspace_067010a9276bc522ebe7f991068d24b6" parent="aspace_b166e8d24b18e9e9f24fd4505bd1000b" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_2ae1f9b96f439eb4705e316a1751f397" level="file">
+        <did>
+          <unittitle><emph render="italic">Pueblo y Cultura 9</emph> : Consejo Nacional de Cultura, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_5f6465540c8e81988d0723a2eeecbfb3" label="Mixed Materials [31142063007671]" type="Box">29</container>
+          <container id="aspace_f7b0f97e34c563adbb60807ac742f9d6" parent="aspace_5f6465540c8e81988d0723a2eeecbfb3" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_7a326b42d14ba0924a4c714989748b4a" level="file">
+        <did>
+          <unittitle><emph render="italic">Quepasa</emph> : Quepasa, Syracuse, NY</unittitle>
+          <unitdate datechar="creation" normal="1976/1978" type="inclusive">1976-1978</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_7e4b53a9318e893b9f820e4f04de6c2c" label="Mixed Materials [31142063007473]" type="Box">9</container>
+          <container id="aspace_bbe812c990c2415a2554225c920768ac" parent="aspace_7e4b53a9318e893b9f820e4f04de6c2c" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_9062f5e0c9afb631716632b204884224" level="file">
+        <did>
+          <unittitle><emph render="italic">Quincentennial of the Discovery of America: Encounter of Two Worlds</emph> : General Secretariat of the Organization of American States, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1990/1991" type="inclusive">1990-1991</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4d5bcea23f379876b92e15239dc937f8" label="Mixed Materials [31142063007598]" type="Box">21</container>
+          <container id="aspace_1aeac12906d20d628c815a657543b9da" parent="aspace_4d5bcea23f379876b92e15239dc937f8" type="Folder">2-3</container>
+        </did>
+      </c>
+      <c id="aspace_16d0584b4e6e43b67ab5c76b661d3385" level="file">
+        <did>
+          <unittitle><emph render="italic">Red de Recursos de Comunicación Alternativa</emph> : Cimca, La Paz, Bolivia</unittitle>
+          <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e29a26215618ce5dc3a588235b595388" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_944aead7009064328487193f4cc1d587" parent="aspace_e29a26215618ce5dc3a588235b595388" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_d54a5b353ae701468569b37dec2bed09" level="file">
+        <did>
+          <unittitle><emph render="italic">Regeneracion</emph> : Regeneracion, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8906c61ce27d0067044601524faa6b62" label="Mixed Materials [31142063007598]" type="Box">21</container>
+          <container id="aspace_8c7f2c3b7658b5045c2fb2febe921de8" parent="aspace_8906c61ce27d0067044601524faa6b62" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_02fa13e367838adaad3528ab3018cc4f" level="file">
+        <did>
+          <unittitle><emph render="italic">Report on Guatemala</emph> : Network in Solidarity with the People of Guatemala (NISGUA), Oakland, CA</unittitle>
+          <unitdate datechar="creation" normal="1987/1997" type="inclusive">1987-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7025c0fe2451e460e73eb05023446cba" label="Mixed Materials [31142063007598]" type="Box">21</container>
+          <container id="aspace_39b2453ad050df939a3c95dc1df18c27" parent="aspace_7025c0fe2451e460e73eb05023446cba" type="Folder">7-8</container>
+        </did>
+      </c>
+      <c id="aspace_9418144b909113e3b763b9da9ea6ca44" level="file">
+        <did>
+          <unittitle><emph render="italic">Republica Espanola</emph> : Accion Republicana Democratica Espanola (ARDE), Mexico</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f98257f0fe9b796e0ac5f4a1d9cf318b" label="Mixed Materials [31142063007598]" type="Box">21</container>
+          <container id="aspace_649a8cbe0f2cf7d4561bdd92466bfc33" parent="aspace_f98257f0fe9b796e0ac5f4a1d9cf318b" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_e2f54e9f8ab1bd505695eef929423c80" level="file">
+        <did>
+          <unittitle><emph render="italic">Resistance Couier</emph> : Resistance Publications, Oakland, CA</unittitle>
+          <unitdate datechar="creation" normal="1975/1976" type="inclusive">1975-1976</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6c6d355a99e77d35435da5969ee0709a" label="Mixed Materials [31142063007598]" type="Box">21</container>
+          <container id="aspace_eeed41a6620ebfd344fa7cabc8b504f2" parent="aspace_6c6d355a99e77d35435da5969ee0709a" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_4311e40ac4267e193d4319093beb286e" level="file">
+        <did>
+          <unittitle><emph render="italic">Resistencia</emph> : Movimiento de Solidaridad con la Resistencia Armada Campesina, Colombia</unittitle>
+          <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_58c964b984507b5c789ddb3b431c370a" label="Mixed Materials [31142063007598]" type="Box">21</container>
+          <container id="aspace_e59f487e4be4e95544e309322ef64df5" parent="aspace_58c964b984507b5c789ddb3b431c370a" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_6b384fabb3aeae67593eed7950b1dca4" level="file">
+        <did>
+          <unittitle><emph render="italic">Revisita Cubana de Derecho</emph> : Instituto Cubano del Libro, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c6d86046994570752b922119a29557d3" label="Mixed Materials [31142063007598]" type="Box">21</container>
+          <container id="aspace_cf379fd932a72f049e95180915a6ea88" parent="aspace_c6d86046994570752b922119a29557d3" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_9394b317aaa336cd574a374f51815355" level="file">
+        <did>
+          <unittitle><emph render="italic">Revista Cenic : Ciencia Biologias</emph> : Centro Nacional de Investigaciones Cientificas, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c428a362a1f9ce45dccb31e18f8572ec" label="Mixed Materials [31142063007598]" type="Box">21</container>
+          <container id="aspace_7503cd4c772ef3defd5aa221733b611b" parent="aspace_c428a362a1f9ce45dccb31e18f8572ec" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_cfda6e56ad7e36db05b7af03bdc2c7c9" level="file">
+        <did>
+          <unittitle><emph render="italic">Revista Retorno a Utopia</emph> : Revisto Retorno a Utopia, Buenos Aires, Argentina</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d0fbf1b3d32c3fb0d98b8a046050059a" label="Mixed Materials [31142063007622]" type="Box">24</container>
+          <container id="aspace_8aa8461f2231267957824339240aaf5e" parent="aspace_d0fbf1b3d32c3fb0d98b8a046050059a" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_e25174584267607bb4a59f9aec3545fb" level="file">
+        <did>
+          <unittitle><emph render="italic">Revolucion</emph> : Revolucion, La Habana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1960/1961" type="inclusive">1960-1961</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_2d18ac22eb26b374398756acec72caf9" label="Mixed Materials [31142063007473]" type="Box">9</container>
+          <container id="aspace_0aa1045ebe80e120e2dc7d60c895e27c" parent="aspace_2d18ac22eb26b374398756acec72caf9" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_5ea74030ec1c07c86a3b75feeaaff1ec" level="file">
+        <did>
+          <unittitle><emph render="italic">Revolutionary Strategy to Defeat US Intervention</emph> : Radio Venceremos System, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_daff956c7c88aa530d9b14adccb395d3" label="Mixed Materials [31142063007598]" type="Box">21</container>
+          <container id="aspace_9cfe4abc1bdb6499de2a6534dfea1653" parent="aspace_daff956c7c88aa530d9b14adccb395d3" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_587c3bd21d3448460f876ee3639ca9e2" level="file">
+        <did>
+          <unittitle><emph render="italic">S.O.A. Watch</emph> : SOA Watch, Columbus, GA</unittitle>
+          <unitdate datechar="creation" normal="1996/1997" type="inclusive">1996-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_76234e22d843bfaf99c50233b5e43fc5" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_5d1a1db793f1f3ea5daafa783d46390b" parent="aspace_76234e22d843bfaf99c50233b5e43fc5" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_d80c81d5927c2f59abe632d8baa1296e" level="file">
+        <did>
+          <unittitle><emph render="italic">Seattle CISPES</emph> : U.S. Committee in Solidarity with the People of El Salvador, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_9fb9674e40501500a8c3fa4fc423eee7" label="Mixed Materials [31142063007499]" type="Box">11</container>
+          <container id="aspace_224ff5aefae59717750f0b86b860a322" parent="aspace_9fb9674e40501500a8c3fa4fc423eee7" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_e1ea2052bc3518effc49ca11a21b7c5b" level="file">
+        <did>
+          <unittitle><emph render="italic">Sercom : Servicio de Comunication</emph> : Centro de Informacion, Investigacion y Documentacin del Uruguay (CIIDU), Montevideo, Uruguay</unittitle>
+          <unitdate datechar="creation" normal="1980/1989" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_82e199a7a5b79190c4b1c3e20c1a9ab1" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_e6b6934275b408653737a103e5b33ba2" parent="aspace_82e199a7a5b79190c4b1c3e20c1a9ab1" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_c2269563e61c07fe74d2975b439fac56" level="file">
+        <did>
+          <unittitle><emph render="italic">Si Se Puede</emph> : El Comite De Informacion y Analisis, Santa Barbara, CA</unittitle>
+          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_8a07e6e516e27ca690bb524cfbc21e3d" label="Mixed Materials [31142063007473]" type="Box">9</container>
+          <container id="aspace_828b9c25cfa3b972fdd085faaee35a22" parent="aspace_8a07e6e516e27ca690bb524cfbc21e3d" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_578f3f71dc70bec49e614e5e49ef1aee" level="file">
+        <did>
+          <unittitle><emph render="italic">Sin Fronteras</emph> : La Raza de Bronce, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1940/1999" type="inclusive">Undated</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_d5f5d880878fa7d6b613d943d2c56b76" label="Mixed Materials [31142063007473]" type="Box">9</container>
+          <container id="aspace_8c7006f48938cfb11811efdd7596e547" parent="aspace_d5f5d880878fa7d6b613d943d2c56b76" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_539646bab6cf522962fe0a571d29f694" level="file">
+        <did>
+          <unittitle><emph render="italic">Soberania</emph> : Organo del Tribunal Antimperialista Centroamericano y del Caribe, Managua, Nicaragua</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_efe72c945731f73ceff29f9622b46c5a" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_fabfe9dac129d583c9b7808785ca2bcd" parent="aspace_efe72c945731f73ceff29f9622b46c5a" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_cb531777f6488af8311472ec51408d6d" level="file">
+        <did>
+          <unittitle><emph render="italic">Solidaridad</emph> : Impreso en IMCO, Parana, Argentina</unittitle>
+          <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9caba474baac60342d966d6c75f0ef31" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_7ef14b6857a1ac74798a3b2a94db5ebf" parent="aspace_9caba474baac60342d966d6c75f0ef31" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_cb22e940dbce32dc13d40959f851af92" level="file">
+        <did>
+          <unittitle><emph render="italic">Solidaridad Con Chile</emph> : World Peace Council, Helsinki, Finland</unittitle>
+          <unitdate datechar="creation" normal="1973/1974" type="inclusive">1973-1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_615f9f51fcf8559ee2992030cbf6dc81" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_f3079173950a681598619950e0ef0153" parent="aspace_615f9f51fcf8559ee2992030cbf6dc81" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_53af3deec8a39f81bc52395a6c4ba437" level="file">
+        <did>
+          <unittitle><emph render="italic">Sowing the Oil</emph> : Corporate Public Affairs Management Unit, Caracas, Venezuela</unittitle>
+          <unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5637221cca4031d7ddfef38ea06923f3" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_70adc4afe7bf23bfc2cfeda48ce97bb9" parent="aspace_5637221cca4031d7ddfef38ea06923f3" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_040edaa14f87d76d5dd9a90a13abedba" level="file">
+        <did>
+          <unittitle><emph render="italic">Sunrise</emph> : Sunrise, Bluefields, Nicaragua</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_1c0bf7eb691d06e6d2b62cddb6447bfd" label="Mixed Materials [31142063007473]" type="Box">9</container>
+          <container id="aspace_01a4c3d3998972d446021db4a36bcaed" parent="aspace_1c0bf7eb691d06e6d2b62cddb6447bfd" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_2d45ff375129a3c050583cc63d85d7cf" level="file">
+        <did>
+          <unittitle><emph render="italic">Third Congress of the Federation of Cuban Women</emph> : Federation of Cuban Women, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a1cdee3ab6a4c48c596f08f91bcbfa65" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_63cb74cfed1b0ffc35a2e107daa33a60" parent="aspace_a1cdee3ab6a4c48c596f08f91bcbfa65" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_6b5a5c7f04fc0ab2a594b673e27080d1" level="file">
+        <did>
+          <unittitle><emph render="italic">Tribu</emph> : Instituto Cubano de Estudios Politicos Jose Antonio Echeverria, Union City, NJ</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_92e4b2abfc9cd7778b6e7d10663290e0" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_30af2fb1a2dda2e74a0998c879260ff5" parent="aspace_92e4b2abfc9cd7778b6e7d10663290e0" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_020f2bdb268707e974ef701859212f3e" level="file">
+        <did>
+          <unittitle><emph render="italic">Tribuna de la Habana</emph> : Tribuna de la Habana, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_dcf2b9540dd51d28bb415a9b498e2d84" label="Mixed Materials [31142063007473]" type="Box">9</container>
+          <container id="aspace_44aa24ca1586fce9d3278af0ccf0731a" parent="aspace_dcf2b9540dd51d28bb415a9b498e2d84" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_d382e1f370a026a3a5eed72f795e39ae" level="file">
+        <did>
+          <unittitle><emph render="italic">Tribuna del Congreso</emph> : Editorial Colombia Nueva, Bogota, Colombia</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_4940d5f7c54062ba9c59f5c57855e173" label="Mixed Materials [31142063007671]" type="Box">29</container>
+          <container id="aspace_8f408481473501e06a7ffc39eb6e372c" parent="aspace_4940d5f7c54062ba9c59f5c57855e173" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_c321cb9f004c45e921f94170c0b3e26d" level="file">
+        <did>
+          <unittitle><emph render="italic">Under Construction</emph> : Center for Cuban Studies, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bc90198473adfa7c82bbfa88daf48fd3" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_785c4d32d849fe4f4887cc24a2271a44" parent="aspace_bc90198473adfa7c82bbfa88daf48fd3" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_00e1c80e0941bbc0af8ca2c702c38f89" level="file">
+        <did>
+          <unittitle><emph render="italic">Unidad</emph> : Federacion de Trabajadores Telefonicos de Cuba en el Exilio, Miami, FL</unittitle>
+          <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8946ab0cc8404fc22a1d9e09f99260a6" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_857cca83885a447fb9bb7271325c90fa" parent="aspace_8946ab0cc8404fc22a1d9e09f99260a6" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_8320c8d21346a4b6acf835d5fe0e12ac" level="file">
+        <did>
+          <unittitle><emph render="italic">Unidad Latina</emph> : Comité-Movimiento De Izquierda Nacional Puertorriqueño, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1971/1978" type="inclusive">1971-1978</unitdate>
+          <container altrender="Box - 13 x 18" id="aspace_3acc506ee29a671a7ecb257b0f299405" label="Mixed Materials [31142063007473]" type="Box">9</container>
+          <container id="aspace_d5e0affc49ef8a8e1874a08675fcfc5d" parent="aspace_3acc506ee29a671a7ecb257b0f299405" type="Folder">10-11</container>
+          <container altrender="Box - 13 x 18" id="aspace_e8fbf4b31eb9f7df0084478e7d8713d0" label="Mixed Materials [31142063007481]" type="Box">10</container>
+          <container id="aspace_29aaa8d215e38ed176ee7d56a507fba4" parent="aspace_e8fbf4b31eb9f7df0084478e7d8713d0" type="Folder">1-6</container>
+          <container altrender="Manuscript box - Legal" id="aspace_169a73b93b7f53db89413b6a0a7678cb" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_59e428879d2188f24f3939a8c1af1382" parent="aspace_169a73b93b7f53db89413b6a0a7678cb" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_836f2c88908b5265f2499f11f9cc7267" level="file">
+        <did>
+          <unittitle><emph render="italic">Union</emph> : Union de Escritores y Artistas de Cuba, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1969/1979" type="inclusive">1969-1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_96969bc627f2a264c6064a8201ed0b5e" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_da36a4e57713bdc2f0813ef0c9051930" parent="aspace_96969bc627f2a264c6064a8201ed0b5e" type="Folder">19-20</container>
+          <container altrender="Manuscript box - Legal" id="aspace_9332d493f932b05b9bcb27f52f2d2bd0" label="Mixed Materials [31142063007614]" type="Box">23</container>
+          <container id="aspace_ac93333b4789e494ffa5627c259bbde4" parent="aspace_9332d493f932b05b9bcb27f52f2d2bd0" type="Folder">1-5</container>
+        </did>
+      </c>
+      <c id="aspace_6ab57034d2c200bb08e90c2dcd0fab06" level="file">
+        <did>
+          <unittitle><emph render="italic">Union of Latin Radical Americans</emph> : Union of Latin Radical Americans, Green Bay, WI</unittitle>
+          <unitdate datechar="creation" normal="1972/1973" type="inclusive">1972-1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_05478d2c72beabb652209d65f77b9310" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_5a9bde00dd4522afd15e53074582c27c" parent="aspace_05478d2c72beabb652209d65f77b9310" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_56f0d24f29a36d72b3859bac77c7e09b" level="file">
+        <did>
+          <unittitle><emph render="italic">United Freedom Front Communique</emph> : United Freedom Front, USA</unittitle>
+          <unitdate datechar="creation" normal="1983/1984" type="inclusive">1983-1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_03981fea1d57c405a917e275da9444a9" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_e97b887b5c4bb07f7884be7f85329727" parent="aspace_03981fea1d57c405a917e275da9444a9" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_3bff6ec39f47182972ad9e23e811e754" level="file">
+        <did>
+          <unittitle><emph render="italic">Update</emph> : Center for Cuban Studies, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1979/1983" type="inclusive">1979-1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d90a73b874c9b58be2d013882589ca6a" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_1b4d6a624690dcf4bea4dda99b645a26" parent="aspace_d90a73b874c9b58be2d013882589ca6a" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_03058c6100a7dfa37b89746c7489d8fb" level="file">
+        <did>
+          <unittitle><emph render="italic">Update Central America</emph> : Inter-Religious Task Force on Central America, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c91d0b9625ed3dfdb84da949213285b8" label="Mixed Materials [31142063007614]" type="Box">23</container>
+          <container id="aspace_7ed59be85b9c1c2d15516002aa9b1a74" parent="aspace_c91d0b9625ed3dfdb84da949213285b8" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_a986c631dcc01d8a8016d0e3a243c5d4" level="file">
+        <did>
+          <unittitle><emph render="italic">Update on Guatemala</emph> : Committee in Solidarity with the People of Guatemala, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_90c19b9532abe8f47923be608db982b4" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_b9506047c534e248aac72370bbc8ccec" parent="aspace_90c19b9532abe8f47923be608db982b4" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_88f601244a346275262ea9772ee0ee28" level="file">
+        <did>
+          <unittitle><emph render="italic">URNG Boletin Internacional</emph> : Unidad Revolucionaria Nacional Guatemala, Guatemala</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_35235ace336b050f51ab95af8bb45c71" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_c96779908aefc80c7bf089217c2182cf" parent="aspace_35235ace336b050f51ab95af8bb45c71" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_292d8114740065f2e035f72b8385c0c9" level="file">
+        <did>
+          <unittitle><emph render="italic">US / Guatemala Labor Education Campaign Update</emph> : US / GLEP, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_12f15ad348b2f2734d71af3c646a88e0" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_12028928aab3ed7026e291c0129e56b3" parent="aspace_12f15ad348b2f2734d71af3c646a88e0" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_f6bfb2b07ba56601db22e52062bc859e" level="file">
+        <did>
+          <unittitle><emph render="italic">USLA Action Letter</emph> : US Committee for Justice to Latin American Political Prisoners, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9c88e26d6e69e1b17df6400564de866e" label="Mixed Materials [31142063007606]" type="Box">22</container>
+          <container id="aspace_8f90a260d60988c53120c9ed23888248" parent="aspace_9c88e26d6e69e1b17df6400564de866e" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_37779d65320fb4080c8f87efb29ec640" level="file">
+        <did>
+          <unittitle><emph render="italic">Van!</emph> : Venceremos Brigade, USA</unittitle>
+          <unitdate datechar="creation" normal="1960/1969" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fb440fc9c276d72365ca6090d8471355" label="Mixed Materials [31142063007614]" type="Box">23</container>
+          <container id="aspace_9c2619f5c7f2a9f624b66f747062ca14" parent="aspace_fb440fc9c276d72365ca6090d8471355" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_91c50688a844f1514df55e76f979760d" level="file">
+        <did>
+          <unittitle><emph render="italic">Vanguardia Grafica</emph> : Federacion de Obreros de Imprenta de Chile, Chile</unittitle>
+          <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_4896ac609a33f804ca62dbbe998bafd2" label="Mixed Materials [31142063007499]" type="Box">11</container>
+          <container id="aspace_7728256325f2cef922aeee62dee0250c" parent="aspace_4896ac609a33f804ca62dbbe998bafd2" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ebbfe89216808935a0c71a05ecd0219e" level="file">
+        <did>
+          <unittitle><emph render="italic">Venceremos Brigade</emph> : Educational Commission, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_31fd15395696e3ec66f9b23133f88490" label="Mixed Materials [31142063007614]" type="Box">23</container>
+          <container id="aspace_f0635211c007535432328c21ef208b0c" parent="aspace_31fd15395696e3ec66f9b23133f88490" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_a7da992a28b6f61005cf025ea6b49e60" level="file">
+        <did>
+          <unittitle><emph render="italic">Venceremos Reports</emph> : Venceremos Brigade National Office Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1980/1989" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8c1daf24f188f9c39cd1bb57c3a0c9de" label="Mixed Materials [31142063007614]" type="Box">23</container>
+          <container id="aspace_ef8ae718622ebc6b1a9b0b16d43ae3e2" parent="aspace_8c1daf24f188f9c39cd1bb57c3a0c9de" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_375607f5f6ebd9f9753da337225042f3" level="file">
+        <did>
+          <unittitle><emph render="italic">Venceremos!</emph> : Toronto Chilean Association, Toronto, Ontario</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_e0f8cca31374474e53291158faf4caef" label="Mixed Materials [31142063007499]" type="Box">11</container>
+          <container id="aspace_19f440c79ec35290ef8e738708964f01" parent="aspace_e0f8cca31374474e53291158faf4caef" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_d77f3003a8673ce7f61238c7622bb97f" level="file">
+        <did>
+          <unittitle><emph render="italic">Voces de la frontera</emph> : Voces de la Frontera, Austin, TX</unittitle>
+          <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_dd696d769d042f66186b4a3e30fc059a" label="Mixed Materials [31142063007671]" type="Box">29</container>
+          <container id="aspace_fe3a5311f6176eaa6d4bb1ea3b59a056" parent="aspace_dd696d769d042f66186b4a3e30fc059a" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_9bb1353ce9a89ef35c5c8cc55115eb22" level="file">
+        <did>
+          <unittitle><emph render="italic">Voices from Columbia</emph> : Columbia Media Project, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c08cdd62ad56a7feaf7eeef65e99cb61" label="Mixed Materials [31142063007614]" type="Box">23</container>
+          <container id="aspace_772c40a6c49ea89a05ad1136d75713b3" parent="aspace_c08cdd62ad56a7feaf7eeef65e99cb61" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_113b156d8dd02c231b6e49a337b6b67a" level="file">
+        <did>
+          <unittitle><emph render="italic">Voz Fronteriza</emph> : Voz Fronteriza, San Diego, CA</unittitle>
+          <unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_f5d662da18ee4e737d525b4819f03fac" label="Mixed Materials [31142063007499]" type="Box">11</container>
+          <container id="aspace_839763f55abf3d5b94473601c161c5eb" parent="aspace_f5d662da18ee4e737d525b4819f03fac" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_3dc1b38ff9c4c755cbe3292d8bfb33ea" level="file">
+        <did>
+          <unittitle><emph render="italic">VOZ Proletaria</emph> : Colombian Communist Party, Bogotá, Colombia</unittitle>
+          <unitdate datechar="creation" normal="1973/1977" type="inclusive">1973-1977</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_049d50d6eadb0273a68603c55a7c84de" label="Mixed Materials [31142063007499]" type="Box">11</container>
+          <container id="aspace_93f720c48b150e8249a473dd58140543" parent="aspace_049d50d6eadb0273a68603c55a7c84de" type="Folder">3-9</container>
+          <container altrender="Flat OS Box 17" id="aspace_7e1b30139bc0ffab57b5a1db66050624" label="Mixed Materials [31142063007671]" type="Box">29</container>
+          <container id="aspace_e14a88f917de25cfee57759893ceab5b" parent="aspace_7e1b30139bc0ffab57b5a1db66050624" type="Folder">7</container>
+          <container altrender="Flat OS 21" id="aspace_e0f9b9acce2d459fd94b4ebd29cc6c15" label="Mixed Materials [31142062995108]" type="Box">Shared Tamiment 050</container>
+          <container id="aspace_34abced2a3b8d81efa13bc3116a8ac2b" parent="aspace_e0f9b9acce2d459fd94b4ebd29cc6c15" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_5448a24052f9260575422fd1054cafd5" level="file">
+        <did>
+          <unittitle><emph render="italic">What Does the CTAL Mean?</emph> : Latin American Federation of Labor, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fb369f9d59017b8ee93accd885187712" label="Mixed Materials [31142063007614]" type="Box">23</container>
+          <container id="aspace_70c03bd12ef24298e7d3b544f4e2aba9" parent="aspace_fb369f9d59017b8ee93accd885187712" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_7810e0b09963074cbac5199c9adc2dbd" level="file">
+        <did>
+          <unittitle><emph render="italic">Why is the FMLN Fighting?</emph> : Radio Venceremos System, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_791c514424a3c14674bd84545e1088c8" label="Mixed Materials [31142063007614]" type="Box">23</container>
+          <container id="aspace_2b5c04d9684711549ee4e8adb34ef970" parent="aspace_791c514424a3c14674bd84545e1088c8" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_81e8c4574a5aa9d30723f4b4a79c5a8c" level="file">
+        <did>
+          <unittitle><emph render="italic">Women's Packet on Chile</emph> : Action for Women in Chile, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0d211498979d4386f3f51f2368c475ab" label="Mixed Materials [31142063007614]" type="Box">23</container>
+          <container id="aspace_d98e54f37458454de4253586b8905431" parent="aspace_0d211498979d4386f3f51f2368c475ab" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_90292a3455893a8784098c6d4bb1f2a2" level="file">
+        <did>
+          <unittitle><emph render="italic">Working Together: Labor Report on the Americas</emph> : Resource Center of the Americas, Minneapolis, MN</unittitle>
+          <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e5bbfda15f1220f8c24017b62f6a92b6" label="Mixed Materials [31142063007614]" type="Box">23</container>
+          <container id="aspace_d3ce374656dd18f84d215b87b323060c" parent="aspace_e5bbfda15f1220f8c24017b62f6a92b6" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_40af330c5f4f1fd4357cb310fe8cc353" level="file">
+        <did>
+          <unittitle><emph render="italic">Zapatista Info-Bulletin</emph> : Zapatista Solidarity Committee, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0dc8d2ef606b9984c279683af5a377aa" label="Mixed Materials [31142063007614]" type="Box">23</container>
+          <container id="aspace_8f2844081a436f01dbd3e99d8c1336c8" parent="aspace_0dc8d2ef606b9984c279683af5a377aa" type="Folder">15</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/aia_076">aia_076</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Kerby Miller Papers <num>AIA.076</num></titleproper>
+        <author>Rachel Searcy</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>4/8/2015</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 02:43:39 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>April 2018</date>
+        <item>Updated by Megan O'Shea to reflect rehousing of collection and enhance archival description</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Kerby Miller Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="naf">Miller, Kerby A.</persname>
+      </origination>
+      <unitid>AIA.076</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">11.3 Linear Feet</extent>
+        <extent altrender="carrier">in 23 manuscript boxes and 1 oversize flat box</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1958/2013" type="inclusive">1958-2013</unitdate>
+      <unitdate datechar="creation" normal="1989/2003" type="bulk">1989-2003</unitdate>
+      <abstract id="aspace_2549ae204c086ef85b19a45eb0f2cdc9">Kerby A. Miller is an historian and Curators' Professor at the University of Missouri.  His teaching and published work focuses on Irish history, often with an emphasis on social, immigration, and urban history.  The Kerby Miller Papers date between 1958 and 2013, with the bulk of the material dating between 1989 and 2003.  The collection consists of materials created or collected by Miller in the course of his research, teaching, and writing on Irish and Irish American history.  Materials include photocopies of American Loyalists' petitions to the British government, a run of British Information Services news bulletins concerning the conflict in Northern Ireland, and research materials created in the course of his academic scholarship, including original writings, reviews of his work, photocopied letters from Irish immigrants and citizens, and correspondence between Miller and other academics and institutions.  Major subjects and themes present in these research files include pre- and post-immigration economic issues, experiences coming to and first impressions of living in America, genealogical records, and accounts of Irish family life.</abstract>
+      <physloc id="aspace_04d0b3d8b5a5d736835ce6ed381ba414">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_2b29a7459f44f074c6e4193ae4b1204a">Materials are in English.</langmaterial>
+    </did>
+    <arrangement id="aspace_10884d55d04cd16340497801f28ebb1d">
+      <head>Arrangement</head>
+      <p>This collection has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
+    </arrangement>
+    <accessrestrict id="aspace_201ec81d77bd7c7e8d812658faa4dbb0">
+      <head>Access Restrictions</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <userestrict id="aspace_1b4c4f8e7c2e8bc990e126779bc8d515">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by Kerby A. Miller, the creator of this collection, were relinquished and transferred to the public domain in 2015 by Kerby A. Miller. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses.</p>
+    </userestrict>
+    <acqinfo id="aspace_c5208dc3fa2cf6f1deb1a04b6ea44f5e">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Kerby Miller in April and June 2015.  The accession number associated with this gift is 2015.018 and 2015.051.</p>
+    </acqinfo>
+    <prefercite id="aspace_c59a98cca748692fdc676236dd639c1b">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Kerby Miller Papers; AIA 076; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <relatedmaterial id="aspace_487bcfe4462949fe41318fb9aeb27528">
+      <head>Related Archival Materials</head>
+      <p>Archives of Irish America Irish Republicanism Papers (AIA 022)</p>
+      <p>Frank Durkan Papers (AIA 008)</p>
+      <p>Bruce Boling Papers (AIA 062)</p>
+      <p>Paul O'Dwyer Papers (AIA 069)</p>
+    </relatedmaterial>
+    <bioghist id="aspace_34187b572f78a4bbcdeb8964b8c7b44e">
+      <head>Biographical Note</head>
+      <p>Kerby A. Miller is a historian and Curators' Professor at the University of Missouri. Miller graduated from Pomona College in 1966 and the University of California, Berkley with an M.A. in 1967 and a Ph.D in 1976.  His teaching and published work often focus on Irish and Irish American history, with an emphasis on social, immigration, and urban issues.  During his career, Miller has served as an adviser, consultant, and visiting professor for many institutions.  He has authored or co-authored numerous books, journal articles, and essays, including <emph render="italic">Emigrants and Exiles: Ireland and the Irish Exodus to North America</emph>; <emph render="italic">Out of Ireland: The Story of Irish Emigration to America</emph>; <emph render="italic">Irish Immigrants in the Land of Canaan: Letters and Memoirs from Colonial and Revolutionary America, 1675-1815</emph>; and <emph render="italic">Ireland and Irish America: Culture, Class, and Transatlantic Migration</emph>.</p>
+    </bioghist>
+    <scopecontent id="aspace_4205e1ffde39ba408d0927b97dd9b7ec">
+      <head>Scope and Content Note</head>
+      <p>The Kerby Miller Papers consist of materials created or collected by Miller in the course of his research, teaching, and writing on Irish and Irish American history.  The collection dates from 1958 to 2013, with the bulk of material between 1989 and 2003.  The bulk of the collection consists of Miller's research files which include photocopies of  material dating from the 17th through the 19th centuries, Miller's extensive notes on this material, his notes on relevant books and articles, and correspondence regarding his research.  Miller's correspondents include historians, archivists, and librarians in the United States, United Kingdom, and Ireland, with historian Bruce Boling being the most frequent correspondent.  Major subjects and themes present in these research files include accounts of Irish family life, pre- and post-immigration economic issues, and experiences coming to and first impressions of living in America.</p>
+      <p>Other material in the collection includes photocopies of American Loyalists' petitions to the British government during the American Revolutionary War asking for compensation for losses, explaining their political acts and affiliations, and describing their lives in America; a run of British Information Services news bulletins on various aspects of the conflict in Northern Ireland during the late 1980s and early 1990s; and reviews of Miller's work.  Subjects that frequently appear in the British Information Services bulletins include religion, electoral politics, employment discrimination, paramilitary funerals, law enforcement practices or regulations, and incidents of violence attributed to various Irish republican paramilitary groups.  Also included are dossiers of republican organizations including Sinn Fein, the Official Irish Republican Army (IRA), the Provisional Irish Republican Army (IRA or PIRA), and the Irish National Liberation Army (INLA). Also present are excerpts of statements made by officials or other prominent figures.</p>
+    </scopecontent>
+    <processinfo id="aspace_7360eb9fd40e0f9c07acb093a4ccefb2">
+      <head>Processing Information</head>
+      <p>The collection was received with materials divided into distinct sets based on topic or type of material, with some materials loose and others in titled, alphabetized manila folders. Loose materials were rehoused in acid-free folders and boxes, and described by an archivist.  No arrangement of material was done.</p>
+      <p>In March 2018 overstuffed folders were separated into multiple folders containing appropriate amounts of material.  Folder titles were transcribed onto the new folders.  Oversize materials were separated from their original folders and housed in appropriately sized folders.  Separation sheets were made and included in the original and new folders for these items.</p>
+    </processinfo>
+    <controlaccess>
+      <geogname source="lcsh">Great Britain -- History -- 20th century.</geogname>
+      <geogname source="lcsh">Ireland -- History -- 18th century.</geogname>
+      <geogname source="lcsh">Ireland -- Emigration and immigration.</geogname>
+      <subject source="lcsh">American loyalists.</subject>
+      <geogname source="lcsh">United States -- History -- Revolution, 1775-1783</geogname>
+      <geogname source="lcsh">Northern Ireland -- History -- 1969-1994.</geogname>
+      <subject source="lcsh">Irish Americans -- History.</subject>
+      <geogname source="lcsh">United States -- History -- Colonial period, ca. 1600-1775.</geogname>
+      <geogname source="lcsh">United States -- History -- 1783-1865.</geogname>
+      <genreform source="aat">Research (document genres).</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <corpname source="naf">British Information Services</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>American Loyalist Petitions to the British Government</unittitle>
+          <unitdate datechar="creation" normal="2000/2003" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_cfe48580e8c0dbf54b96b3e805554d8c" label="Mixed Materials [31142063254604]" type="Box">1</container>
+          <container id="aspace_704654a877e4322a3b8a665d8adaeddf" parent="aspace_cfe48580e8c0dbf54b96b3e805554d8c" type="Folder">1-19</container>
+          <container altrender="Manuscript box - Letter" id="aspace_a51b3445935e28681602502c1a2bb743" label="Mixed Materials [31142063254612]" type="Box">2</container>
+          <container id="aspace_7076c7e2c26f5991cdea9853893b202e" parent="aspace_a51b3445935e28681602502c1a2bb743" type="Folder">1-11</container>
+          <container altrender="Manuscript box - Letter" id="aspace_984c4ae2cf958517775769c83295c890" label="Mixed Materials [31142063254620]" type="Box">3</container>
+          <container id="aspace_20269e67f2a84717787d214c0837fd03" parent="aspace_984c4ae2cf958517775769c83295c890" type="Folder">1-5</container>
+        </did>
+        <originalsloc id="aspace_959152445b67e1cdf0bc97178b3a7d52">
+          <head>Existence and Location of Originals</head>
+          <p>Photocopies of this material was made from a microfilm collection entitled "American Loyalists: Transcripts of the Manuscript Books and Papers of the Commission of Inquiry into the Losses and Services of the American Loyalists" that was transcribed for the New York Public Library. The original records from which the microfilm collection was created are housed in the Public Record Office of England.</p>
+        </originalsloc>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>British Information Services bulletins</unittitle>
+          <unitdate datechar="creation" normal="1986/1991" type="inclusive">1986-1991</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_82751c74e7c31bfab5fc411d2d00704f" label="Mixed Materials [31142063254620]" type="Box">3</container>
+          <container id="aspace_f6db0b8bc86e955a9a722e548f9829e2" parent="aspace_82751c74e7c31bfab5fc411d2d00704f" type="Folder">6-11</container>
+          <container altrender="Manuscript box - Legal" id="aspace_24f6f38a5513e86f85040013d79faf90" label="Mixed Materials [31142063254638]" type="Box">4</container>
+          <container id="aspace_ea5f355e301537485a7b7f466aca1a8b" parent="aspace_24f6f38a5513e86f85040013d79faf90" type="Folder">1-9</container>
+          <container altrender="Manuscript box - Legal" id="aspace_c4b9cb2e0e82581ec3f9a691dc285230" label="Mixed Materials [31142063254646]" type="Box">5</container>
+          <container id="aspace_10a935f599e7a4e5a6a0abca073abaee" parent="aspace_c4b9cb2e0e82581ec3f9a691dc285230" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Nolan, Nicholas. "A Celtic Exodus, or the Irish Emigration", 1933</unittitle>
+          <unitdate datechar="creation" normal="1988/2003" type="inclusive">Undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_f2e36df60a1daf8cda5f771fe2e8e50a" label="Mixed Materials [31142063254836]" type="Box">24</container>
+          <container id="aspace_1c94ad4bc0b6e6f9516e9f2893618de9" parent="aspace_f2e36df60a1daf8cda5f771fe2e8e50a" type="Folder">13</container>
+          <container altrender="Flat OS Box 17" id="aspace_69b9334c5877833e51c05c68ff0cceea" label="Mixed Materials [31142063254497]" type="Box">Shared Tamiment 003</container>
+          <container id="aspace_8be059f8d0357deaa77b47eaf78bb3b4" parent="aspace_69b9334c5877833e51c05c68ff0cceea" type="Folder">14-16</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Rev. Samuel Blair</unittitle>
+          <unitdate datechar="creation" normal="1996/2002" type="inclusive">1996-2002</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f2491cb0ba40e1f1b0696f8def927c68" label="Mixed Materials [31142063254646]" type="Box">5</container>
+          <container id="aspace_7b76faedb2cf8d197b7dd9a35279da48" parent="aspace_f2491cb0ba40e1f1b0696f8def927c68" type="Folder">2-3</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>Memoir (probably from journal notes) -- Rev. John Craig</unittitle>
+          <unitdate datechar="creation" normal="1996/2001" type="inclusive">1996-2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0ddeb39282f54ab2a80d4a3b165ff8c6" label="Mixed Materials [31142063254646]" type="Box">5</container>
+          <container id="aspace_30a62ef1bcd42e0c7b1ab44009d337d6" parent="aspace_0ddeb39282f54ab2a80d4a3b165ff8c6" type="Folder">4-5</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>Rev. John Craig</unittitle>
+          <unitdate datechar="creation" normal="1990/1996" type="inclusive">1990-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8694efd2c2ff4f2880c0fba23afd51bb" label="Mixed Materials [31142063254646]" type="Box">5</container>
+          <container id="aspace_fe9732a994a27f46ec602284be84e943" parent="aspace_8694efd2c2ff4f2880c0fba23afd51bb" type="Folder">6-7</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Mary Cummings</unittitle>
+          <unitdate datechar="creation" normal="1989/1995" type="inclusive">1989-1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_28d11d47b32678a23db8fee6f2ec2888" label="Mixed Materials [31142063254646]" type="Box">5</container>
+          <container id="aspace_7387638f32b5ec64f0efb5b16c2def6c" parent="aspace_28d11d47b32678a23db8fee6f2ec2888" type="Folder">8-9</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Margaret Carey Murphy Burke</unittitle>
+          <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f4dd49300db4fee5a84bb4ebc64815c2" label="Mixed Materials [31142063254646]" type="Box">5</container>
+          <container id="aspace_382f63474397e0874cf47c1cd2d63993" parent="aspace_f4dd49300db4fee5a84bb4ebc64815c2" type="Folder">10</container>
+          <container altrender="Manuscript box - Legal" id="aspace_9426628a69139e2c42b93da9987e5cd2" label="Mixed Materials [31142063254653]" type="Box">6</container>
+          <container id="aspace_34d29d4f4c4ae5a14e98547e098888da" parent="aspace_9426628a69139e2c42b93da9987e5cd2" type="Folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>McAleer research -- Margaret Carey</unittitle>
+          <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7c4b99063eb8ca2a41b2f874d942df20" label="Mixed Materials [31142063254653]" type="Box">6</container>
+          <container id="aspace_6abdd618c541760d0b0f69b28b934230" parent="aspace_7c4b99063eb8ca2a41b2f874d942df20" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Thomas Shipboy</unittitle>
+          <unitdate datechar="creation" normal="1990/1992" type="inclusive">1990-1992</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7a1dc5d41ce4cd3f9cc3f307592f5738" label="Mixed Materials [31142063254653]" type="Box">6</container>
+          <container id="aspace_0b9c90e38fa980a919994116df2cb6e8" parent="aspace_7a1dc5d41ce4cd3f9cc3f307592f5738" type="Folder">4-5</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>Shipboy letters</unittitle>
+          <unitdate datechar="creation" normal="2002/2002">2002</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1bd820f00cf3903def758cde2985d048" label="Mixed Materials [31142063254653]" type="Box">6</container>
+          <container id="aspace_d0e3da597fbcdce663c2fb5f91aaf127" parent="aspace_1bd820f00cf3903def758cde2985d048" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>Reviews -- Field Day book</unittitle>
+          <unitdate datechar="creation" normal="2009/2012" type="inclusive">2009-2012</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1399e30bafccd1d4d9183dad35f03fb3" label="Mixed Materials [31142063254653]" type="Box">6</container>
+          <container id="aspace_36ab06d4d3d498d1840870ea9a213e01" parent="aspace_1399e30bafccd1d4d9183dad35f03fb3" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>Reviews -- <title render="italic">Emigrants and Exiles</title></unittitle>
+          <unitdate datechar="creation" normal="1985/2010" type="inclusive">1985-2010</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b550a5d5394516bd58023539c8cf5169" label="Mixed Materials [31142063254653]" type="Box">6</container>
+          <container id="aspace_db546fd61612093ebe0822b2c2efd85b" parent="aspace_b550a5d5394516bd58023539c8cf5169" type="Folder">8-9</container>
+          <container altrender="Manuscript box - Legal" id="aspace_81d4e6f6157e8fa1f6e657b6818a034e" label="Mixed Materials [31142063254661]" type="Box">7</container>
+          <container id="aspace_5f6fe8fdfc49c014102dc0d83d23e098" parent="aspace_81d4e6f6157e8fa1f6e657b6818a034e" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>Reviews -- <title render="italic">Irish Immigrants in the Land of Canaan</title></unittitle>
+          <unitdate datechar="creation" normal="2000/2010" type="inclusive">2000-2010</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0b11d949c74af63cf3d96287185c2274" label="Mixed Materials [31142063254661]" type="Box">7</container>
+          <container id="aspace_18e9cfaf14f74227ca22141168e72cf1" parent="aspace_0b11d949c74af63cf3d96287185c2274" type="Folder">2-3</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>Reviews -- Miscellaneous essays</unittitle>
+          <unitdate datechar="creation" normal="2000/2013" type="inclusive">2000-2013</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0ce3c81771bad3309dad9d2ea0e4008e" label="Mixed Materials [31142063254661]" type="Box">7</container>
+          <container id="aspace_852a2cd94976e7cf3ca08a76bc3ccdd1" parent="aspace_0ce3c81771bad3309dad9d2ea0e4008e" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>Reviews -- Coffee-table books</unittitle>
+          <unitdate datechar="creation" normal="1994/2001" type="inclusive">1994-2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7056708f4688e4a258f8951d8e8aa5fb" label="Mixed Materials [31142063254661]" type="Box">7</container>
+          <container id="aspace_41c481c8f31fb5f99038afd00b2abaf3" parent="aspace_7056708f4688e4a258f8951d8e8aa5fb" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>Reviews -- Pop Culture</unittitle>
+          <unitdate datechar="creation" normal="1998/2005" type="inclusive">1998-2005</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_920f1797ba5aa5129a00bb498a7f63ba" label="Mixed Materials [31142063254661]" type="Box">7</container>
+          <container id="aspace_4dd39862af5c751c8dbb5f40061e4f77" parent="aspace_920f1797ba5aa5129a00bb498a7f63ba" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle>Journalism on Kerby Miller</unittitle>
+          <unitdate datechar="creation" normal="1986/2008" type="inclusive">1986-2008</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_63e64ae3a354286e081acc475e74d1f3" label="Mixed Materials [31142063254661]" type="Box">7</container>
+          <container id="aspace_9e7f7be86ec2f98ddb9eb21fb04ef5d0" parent="aspace_63e64ae3a354286e081acc475e74d1f3" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="file">
+        <did>
+          <unittitle>Films and film reviews </unittitle>
+          <unitdate datechar="creation" normal="1986/2000" type="inclusive">1986-2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_350ad49a4eb0bc946dad19eb4f8df7c3" label="Mixed Materials [31142063254661]" type="Box">7</container>
+          <container id="aspace_0d14a344212728b5aedf5161fd9bf518" parent="aspace_350ad49a4eb0bc946dad19eb4f8df7c3" type="Folder">8-9</container>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="file">
+        <did>
+          <unittitle>San Patricios film</unittitle>
+          <unitdate datechar="creation" normal="1996/2007" type="inclusive">1996-2007</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8ffb1abb6700a19ada514b8334d35e9a" label="Mixed Materials [31142063254661]" type="Box">7</container>
+          <container id="aspace_9c6a0e2e923dc0fe80d84a14c283c393" parent="aspace_8ffb1abb6700a19ada514b8334d35e9a" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref41" level="file">
+        <did>
+          <unittitle>Miscellaneous ephemera and letters</unittitle>
+          <unitdate datechar="creation" normal="1985/1999" type="inclusive">1985-1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e3164b9de54b245def45facdecea931b" label="Mixed Materials [31142063254661]" type="Box">7</container>
+          <container id="aspace_3ccec61dac011302328b91c3d93eb371" parent="aspace_e3164b9de54b245def45facdecea931b" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref42" level="file">
+        <did>
+          <unittitle>Bernard M'Kenna</unittitle>
+          <unitdate datechar="creation" normal="1996/2000" type="inclusive">1996-2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_548c7fda8f9ea65d8c37ffef0440e13c" label="Mixed Materials [31142063254661]" type="Box">7</container>
+          <container id="aspace_c46f56b0621df1da744fda10ababb4d6" parent="aspace_548c7fda8f9ea65d8c37ffef0440e13c" type="Folder">12-13</container>
+          <container altrender="Manuscript box - Legal" id="aspace_72ddd12627f11196a2c5a7d1fa589530" label="Mixed Materials [31142063254679]" type="Box">8</container>
+          <container id="aspace_50838c15311ed6a1d21c489ecbb83877" parent="aspace_72ddd12627f11196a2c5a7d1fa589530" type="Folder">1-3</container>
+          <container altrender="Flat OS Box 17" id="aspace_94d4dde583788b39b7d53cd8d0bbf64d" label="Mixed Materials [31142063254836]" type="Box">24</container>
+          <container id="aspace_703473592bd6e2bc7f22fca427553a83" parent="aspace_94d4dde583788b39b7d53cd8d0bbf64d" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref46" level="file">
+        <did>
+          <unittitle>David Lindsey</unittitle>
+          <unitdate datechar="creation" normal="1989/1999" type="inclusive">1989-1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_694e6119cfc9902790fefd6d85b75470" label="Mixed Materials [31142063254679]" type="Box">8</container>
+          <container id="aspace_b9d85fefdaa1e127232afb7d617d9474" parent="aspace_694e6119cfc9902790fefd6d85b75470" type="Folder">4-5</container>
+        </did>
+      </c>
+      <c id="aspace_ref48" level="file">
+        <did>
+          <unittitle>Johnstone (From Ireland) letters, 1773-1808</unittitle>
+          <unitdate datechar="creation" normal="1988/1999" type="inclusive">1988-1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c6c9ff903cb5f2ae82f8b248ff922691" label="Mixed Materials [31142063254679]" type="Box">8</container>
+          <container id="aspace_679d5a99dfeccfbd74e2441917d96789" parent="aspace_c6c9ff903cb5f2ae82f8b248ff922691" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref49" level="file">
+        <did>
+          <unittitle>Moses Johnston research materials</unittitle>
+          <unitdate datechar="creation" normal="1989/1989">1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2f330f2dbabca245e9b00bf58617ce8b" label="Mixed Materials [31142063254679]" type="Box">8</container>
+          <container id="aspace_0ea8d4247846c5f81afde573e77f1f79" parent="aspace_2f330f2dbabca245e9b00bf58617ce8b" type="Folder">7-8</container>
+        </did>
+      </c>
+      <c id="aspace_ref50" level="file">
+        <did>
+          <unittitle>Devereux Family letters, 1798-1800</unittitle>
+          <unitdate datechar="creation" normal="1990/1995" type="inclusive">1990-1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_adf04f82205571ce446c08900990fa45" label="Mixed Materials [31142063254679]" type="Box">8</container>
+          <container id="aspace_ee48517af509841c8e67231ca0b2393f" parent="aspace_adf04f82205571ce446c08900990fa45" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref51" level="file">
+        <did>
+          <unittitle>John Devereaux</unittitle>
+          <unitdate datechar="creation" normal="1958/1995" type="inclusive">1958, 1990-1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e93c252965f76cb018f0e2eeaecaf97d" label="Mixed Materials [31142063254679]" type="Box">8</container>
+          <container id="aspace_e1488557a2513ae18718d202e4874071" parent="aspace_e93c252965f76cb018f0e2eeaecaf97d" type="Folder">10</container>
+          <container altrender="Manuscript box - Legal" id="aspace_8ad8ae7fcd39dea3718977fd60a56869" label="Mixed Materials [31142063254687]" type="Box">9</container>
+          <container id="aspace_da766540bb12e6aaad5e124f58a05e3c" parent="aspace_8ad8ae7fcd39dea3718977fd60a56869" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref52" level="file">
+        <did>
+          <unittitle>McNish/Kerr letters, 1806-1820</unittitle>
+          <unitdate datechar="creation" normal="1989/1997" type="inclusive">1989-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cb2899a88a415c994ec1b8a1123476e0" label="Mixed Materials [31142063254687]" type="Box">9</container>
+          <container id="aspace_dc33bc8d4e51eeae812206c734504ec9" parent="aspace_cb2899a88a415c994ec1b8a1123476e0" type="Folder">2-3</container>
+        </did>
+      </c>
+      <c id="aspace_ref53" level="file">
+        <did>
+          <unittitle>Alexander McNish research materials</unittitle>
+          <unitdate datechar="creation" normal="1989/1990" type="inclusive">1989-1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7d1ab3fb2a17ef86d05978b72feef856" label="Mixed Materials [31142063254687]" type="Box">9</container>
+          <container id="aspace_6bd9c35102c0e80fc46352bee5954710" parent="aspace_7d1ab3fb2a17ef86d05978b72feef856" type="Folder">4-5</container>
+        </did>
+      </c>
+      <c id="aspace_ref54" level="file">
+        <did>
+          <unittitle>Anonymous Ulster poet (In Irish), 18th century</unittitle>
+          <unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bac192e226e9ea98cfea36376cf5dc15" label="Mixed Materials [31142063254687]" type="Box">9</container>
+          <container id="aspace_629c3eaac6e8521bf6fbe985485f75fc" parent="aspace_bac192e226e9ea98cfea36376cf5dc15" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref55" level="file">
+        <did>
+          <unittitle>Rev. James McSparron</unittitle>
+          <unitdate datechar="creation" normal="1996/2009" type="inclusive">1996-2009</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6764e19012a97a26e53fe562c9dbcb7e" label="Mixed Materials [31142063254687]" type="Box">9</container>
+          <container id="aspace_ba6e02cc8a09742fe8992284ddeca92b" parent="aspace_6764e19012a97a26e53fe562c9dbcb7e" type="Folder">7-9</container>
+        </did>
+      </c>
+      <c id="aspace_ref56" level="file">
+        <did>
+          <unittitle>Robert Parke</unittitle>
+          <unitdate datechar="creation" normal="1995/1997" type="inclusive">1995-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6ebe9c379d186eb9d743a423d6dc43c2" label="Mixed Materials [31142063254687]" type="Box">9</container>
+          <container id="aspace_a9e938e3ceebd31271c09cbc1fcb8246" parent="aspace_6ebe9c379d186eb9d743a423d6dc43c2" type="Folder">10-12</container>
+        </did>
+      </c>
+      <c id="aspace_ref58" level="file">
+        <did>
+          <unittitle>Chester County Quaker Meeting House photograph</unittitle>
+          <unitdate datechar="creation" normal="1990/2010" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a785aa1723a6e569c03296cf2ebd7ab0" label="Mixed Materials [31142063254695]" type="Box">10</container>
+          <container id="aspace_74a54ecc9a0c99d372e518e31b5d95f9" parent="aspace_a785aa1723a6e569c03296cf2ebd7ab0" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref59" level="file">
+        <did>
+          <unittitle>John Rea</unittitle>
+          <unitdate datechar="creation" normal="1989/1999" type="inclusive">1989-1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c28b29cd61d0240a7c82fdcd8571082b" label="Mixed Materials [31142063254695]" type="Box">10</container>
+          <container id="aspace_741c830fc991b7065ad625ec96eb08b5" parent="aspace_c28b29cd61d0240a7c82fdcd8571082b" type="Folder">2-4</container>
+        </did>
+      </c>
+      <c id="aspace_ref61" level="file">
+        <did>
+          <unittitle>Dunlop letters, 1785-1811</unittitle>
+          <unitdate datechar="creation" normal="1991/1991">1991</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_df8acad42e93b973c44931f520e0908c" label="Mixed Materials [31142063254695]" type="Box">10</container>
+          <container id="aspace_b5ba59fd93a88f651bffec0123bdb812" parent="aspace_df8acad42e93b973c44931f520e0908c" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref62" level="file">
+        <did>
+          <unittitle>John Dunlop</unittitle>
+          <unitdate datechar="creation" normal="1990/2000" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_30983262abba6b34c1b36819118ca0d4" label="Mixed Materials [31142063254695]" type="Box">10</container>
+          <container id="aspace_a22baa156723e057a150d0eec4d4633f" parent="aspace_30983262abba6b34c1b36819118ca0d4" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref63" level="file">
+        <did>
+          <unittitle>John Smilie letter, 1762</unittitle>
+          <unitdate datechar="creation" normal="1990/1990">1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ae1bb2b581e7267bd625298b21e9f574" label="Mixed Materials [31142063254695]" type="Box">10</container>
+          <container id="aspace_f28147030c62b76763d380b6d687f1e1" parent="aspace_ae1bb2b581e7267bd625298b21e9f574" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref64" level="file">
+        <did>
+          <unittitle>John Smylie, voyage letter, 1762; and John Huey, voyage letter, 1773</unittitle>
+          <unitdate datechar="creation" normal="1989/2000" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_66a26f4ec4957d9aec0d6dbe17b08e9a" label="Mixed Materials [31142063254695]" type="Box">10</container>
+          <container id="aspace_bb9c31c55a7daaa0c056b0c3a77dee45" parent="aspace_66a26f4ec4957d9aec0d6dbe17b08e9a" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref65" level="file">
+        <did>
+          <unittitle>John O'Raw</unittitle>
+          <unitdate datechar="creation" normal="1989/1999" type="inclusive">1989-1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f412f5b41a02d0c2ceaf5ff9291938c6" label="Mixed Materials [31142063254695]" type="Box">10</container>
+          <container id="aspace_b5e1a33ca0d20940c058361fd2d31140" parent="aspace_f412f5b41a02d0c2ceaf5ff9291938c6" type="Folder">9-10</container>
+        </did>
+      </c>
+      <c id="aspace_ref67" level="file">
+        <did>
+          <unittitle>B.8. Thomas Hinds, 1795
+</unittitle>
+          <unitdate datechar="creation" normal="1999/1999">1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fc15dc0946b58f74ab79fafe4f16662f" label="Mixed Materials [31142063254695]" type="Box">10</container>
+          <container id="aspace_4e815233bc4cafc421989a42447044c3" parent="aspace_fc15dc0946b58f74ab79fafe4f16662f" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref68" level="file">
+        <did>
+          <unittitle>Shepherd/Wansborough, 1700-1741</unittitle>
+          <unitdate datechar="creation" normal="1988/1999" type="inclusive">1988-1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_36db8ad6b2cc63e55c0150e5e77bf38f" label="Mixed Materials [31142063254695]" type="Box">10</container>
+          <container id="aspace_4fa5ca6ad0faa4187e180106f04b3178" parent="aspace_36db8ad6b2cc63e55c0150e5e77bf38f" type="Folder">12-13</container>
+        </did>
+      </c>
+      <c id="aspace_ref69" level="file">
+        <did>
+          <unittitle>Thomas Shepherd</unittitle>
+          <unitdate datechar="creation" normal="1990/1999" type="inclusive">1990-1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_dcea63a2a539077cd69b2f7e1aca24b5" label="Mixed Materials [31142063254695]" type="Box">10</container>
+          <container id="aspace_0fdc7bcfab15160eee1498a8ebcdf28c" parent="aspace_dcea63a2a539077cd69b2f7e1aca24b5" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref70" level="file">
+        <did>
+          <unittitle>Scottish tenant's letter, 1710s-1730s</unittitle>
+          <unitdate datechar="creation" normal="1988/1997" type="inclusive">1988-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ad4f9f093ee749819a9f9f14fe80effb" label="Mixed Materials [31142063254695]" type="Box">10</container>
+          <container id="aspace_cd2e6900e04a44b23c1db471c9568db1" parent="aspace_ad4f9f093ee749819a9f9f14fe80effb" type="Folder">15-16</container>
+        </did>
+      </c>
+      <c id="aspace_ref71" level="file">
+        <did>
+          <unittitle>Londonberry, N.H. petitions, 1720-1730</unittitle>
+          <unitdate datechar="creation" normal="1997/2001" type="inclusive">1997-2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ffdfe318309eed33c80b8fa82ee13d18" label="Mixed Materials [31142063254695]" type="Box">10</container>
+          <container id="aspace_4f43980c0f92f52ec30a9f1f122d1b5f" parent="aspace_ffdfe318309eed33c80b8fa82ee13d18" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref72" level="file">
+        <did>
+          <unittitle>Dr. Charles Carroll, 1748</unittitle>
+          <unitdate datechar="creation" normal="1995/2002" type="inclusive">1995-2002</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2916ae056134716455267bb6c39decc1" label="Mixed Materials [31142063254695]" type="Box">10</container>
+          <container id="aspace_887219f605a5c50d7abc066ad842aa01" parent="aspace_2916ae056134716455267bb6c39decc1" type="Folder">18</container>
+          <container altrender="Manuscript box - Legal" id="aspace_697cc4a141a178325d44c524947f2bec" label="Mixed Materials [31142063254703]" type="Box">11</container>
+          <container id="aspace_b90e26ecb26bb31504dfc0045e2e2ef2" parent="aspace_697cc4a141a178325d44c524947f2bec" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref73" level="file">
+        <did>
+          <unittitle>Charles Lewis Reily letter, 1749</unittitle>
+          <unitdate datechar="creation" normal="1995/2000" type="inclusive">1995-2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5abdec05c470e2046a3dcc0af0243e50" label="Mixed Materials [31142063254703]" type="Box">11</container>
+          <container id="aspace_cceeef94b6ea86c24c167481a2286702" parent="aspace_5abdec05c470e2046a3dcc0af0243e50" type="Folder">2-3</container>
+        </did>
+      </c>
+      <c id="aspace_ref74" level="file">
+        <did>
+          <unittitle>Samuel Bryan letter, 1752</unittitle>
+          <unitdate datechar="creation" normal="2002/2002">2002</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0821eb1a16e186f7df31c39ed304f22a" label="Mixed Materials [31142063254703]" type="Box">11</container>
+          <container id="aspace_43ae3913e07e9c9297b1d2f709aacdae" parent="aspace_0821eb1a16e186f7df31c39ed304f22a" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref75" level="file">
+        <did>
+          <unittitle>Rev. Thomas Barton</unittitle>
+          <unitdate datechar="creation" normal="1995/1997" type="inclusive">1995-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6dae9f678165eaf6d2fb3c933227d317" label="Mixed Materials [31142063254703]" type="Box">11</container>
+          <container id="aspace_5fdbe36845a60e5ef014f8062375e24e" parent="aspace_6dae9f678165eaf6d2fb3c933227d317" type="Folder">5-11</container>
+        </did>
+      </c>
+      <c id="aspace_ref78" level="file">
+        <did>
+          <unittitle>Thomas Burke</unittitle>
+          <unitdate datechar="creation" normal="1990/1998" type="inclusive">1990-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_533c35ec726459511ad94a61aee386f1" label="Mixed Materials [31142063254703]" type="Box">11</container>
+          <container id="aspace_454f8899f41db7e8d1e0d3239f3c9e86" parent="aspace_533c35ec726459511ad94a61aee386f1" type="Folder">12</container>
+          <container altrender="Manuscript box - Legal" id="aspace_051300a28c6127158734d6ff2569b0d6" label="Mixed Materials [31142063254711]" type="Box">12</container>
+          <container id="aspace_8d7c737e03eeb3fd0fdd526d892c39d1" parent="aspace_051300a28c6127158734d6ff2569b0d6" type="Folder">1-3</container>
+        </did>
+      </c>
+      <c id="aspace_ref81" level="file">
+        <did>
+          <unittitle>Rev. Francis Alison, 1760s-1770s</unittitle>
+          <unitdate datechar="creation" normal="1990/2006" type="inclusive">1990-2006</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2a62854a45593e01043aa9ca1b1807bc" label="Mixed Materials [31142063254711]" type="Box">12</container>
+          <container id="aspace_d3ab76e6c074adae3c61c8ab8c6f5514" parent="aspace_2a62854a45593e01043aa9ca1b1807bc" type="Folder">4-5</container>
+        </did>
+      </c>
+      <c id="aspace_ref82" level="file">
+        <did>
+          <unittitle>Rev. Francis Alison (letters, 1767-1772) Philadelphia and Rev. Gilbert Tennent (November 1741) Pennsylvania</unittitle>
+          <unitdate datechar="creation" normal="1990/1997" type="inclusive">1990-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d9601a72fc1e5d334b20e0cb2baf7d77" label="Mixed Materials [31142063254711]" type="Box">12</container>
+          <container id="aspace_c66f9d029e18455f27001e66367e9c64" parent="aspace_d9601a72fc1e5d334b20e0cb2baf7d77" type="Folder">6-7</container>
+        </did>
+      </c>
+      <c id="aspace_ref83" level="file">
+        <did>
+          <unittitle>Morton</unittitle>
+          <unitdate datechar="creation" normal="1997/1999" type="inclusive">1997-1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5b81c17dafdec5f00e23ea64d381f3ce" label="Mixed Materials [31142063254711]" type="Box">12</container>
+          <container id="aspace_0f1a479f112da9d67274bb69c17457e4" parent="aspace_5b81c17dafdec5f00e23ea64d381f3ce" type="Folder">8-9</container>
+          <container altrender="Manuscript box - Legal" id="aspace_9775ab46a4e2009dce1f7bebe82e379e" label="Mixed Materials [31142063254802]" type="Box">21</container>
+          <container id="aspace_480bf0e77962620e956ddfc95603ec96" parent="aspace_9775ab46a4e2009dce1f7bebe82e379e" type="Folder">10</container>
+          <container altrender="Manuscript box - Legal" id="aspace_3ed490f4870689b81ba86cfd9da7ec08" label="Mixed Materials [31142063254810]" type="Box">22</container>
+          <container id="aspace_4a43066c7f06e2475efadb3c36504cc8" parent="aspace_3ed490f4870689b81ba86cfd9da7ec08" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref84" level="file">
+        <did>
+          <unittitle>Greer Family letters, 1764-1808</unittitle>
+          <unitdate datechar="creation" normal="1988/1996" type="inclusive">1988-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_404df69946ccb3ec406b86f93a9b2cd7" label="Mixed Materials [31142063254711]" type="Box">12</container>
+          <container id="aspace_a2023b1b78d4bdba4aa8ab2398ac43c4" parent="aspace_404df69946ccb3ec406b86f93a9b2cd7" type="Folder">10-11</container>
+        </did>
+      </c>
+      <c id="aspace_ref89" level="file">
+        <did>
+          <unittitle>Thomas Wright</unittitle>
+          <unitdate datechar="creation" normal="1990/1990">1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6e6896cac6b7830672911d1124adba3e" label="Mixed Materials [31142063254729]" type="Box">13</container>
+          <container id="aspace_79d09d938627cf92b23f8b409993d782" parent="aspace_6e6896cac6b7830672911d1124adba3e" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref90" level="file">
+        <did>
+          <unittitle>James McCullough</unittitle>
+          <unitdate datechar="creation" normal="1993/1995" type="inclusive">1993-1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1ad8c695559ac18d2da8b066031d0986" label="Mixed Materials [31142063254729]" type="Box">13</container>
+          <container id="aspace_d77bbb9646e355548403fc493fe87370" parent="aspace_1ad8c695559ac18d2da8b066031d0986" type="Folder">2-7</container>
+          <container altrender="Manuscript box - Legal" id="aspace_b0128679963cc547b524470e599a8e50" label="Mixed Materials [31142063254737]" type="Box">14</container>
+          <container id="aspace_f286e3a0293c59f8ce23c2ba5784d1bd" parent="aspace_b0128679963cc547b524470e599a8e50" type="Folder">12-13</container>
+          <container altrender="Flat OS Box 17" id="aspace_c766f44e0e0f8a5817ab800a1cb54ca7" label="Mixed Materials [31142063254836]" type="Box">24</container>
+          <container id="aspace_d1ff0bb4a27ebf3eea35d6a4adfbc6d3" parent="aspace_c766f44e0e0f8a5817ab800a1cb54ca7" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref95" level="file">
+        <did>
+          <unittitle>Elizabeth Brownlee petition </unittitle>
+          <unitdate datechar="creation" normal="1995/1995">1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5190fc6c9e6c4bf6ffa41a34a3f61748" label="Mixed Materials [31142063254729]" type="Box">13</container>
+          <container id="aspace_6b0ff586d0224580bd387b39f0d0f8a1" parent="aspace_5190fc6c9e6c4bf6ffa41a34a3f61748" type="Folder">8-10</container>
+          <container altrender="Manuscript box - Legal" id="aspace_d3fbf851c5cb8d81378c02fe2294d29e" label="Mixed Materials [31142063254737]" type="Box">14</container>
+          <container id="aspace_f346883ba7f3b07239109338f259e875" parent="aspace_d3fbf851c5cb8d81378c02fe2294d29e" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref98" level="file">
+        <did>
+          <unittitle>Daniel Kent letters, 1785-1794</unittitle>
+          <unitdate datechar="creation" normal="2000/2000">2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_03bb18a26eb2f115a71bd5a2289201c6" label="Mixed Materials [31142063254737]" type="Box">14</container>
+          <container id="aspace_2b13bc181220cfb31df805b1ca5df29e" parent="aspace_03bb18a26eb2f115a71bd5a2289201c6" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref99" level="file">
+        <did>
+          <unittitle>Kent memoir </unittitle>
+          <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2c4c951f3b980b622c83c9dfa2c42e48" label="Mixed Materials [31142063254737]" type="Box">14</container>
+          <container id="aspace_0709a93640b1ad3fccc738e74af02813" parent="aspace_2c4c951f3b980b622c83c9dfa2c42e48" type="Folder">3-5</container>
+        </did>
+      </c>
+      <c id="aspace_ref102" level="file">
+        <did>
+          <unittitle>John and Jane Chambers</unittitle>
+          <unitdate datechar="creation" normal="1989/2000" type="inclusive">1989-2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4f1839c05406e72a4b1b84740969922d" label="Mixed Materials [31142063254737]" type="Box">14</container>
+          <container id="aspace_21a5d5b75c90e7f67f023f2ee798fc78" parent="aspace_4f1839c05406e72a4b1b84740969922d" type="Folder">5-6</container>
+        </did>
+      </c>
+      <c id="aspace_ref103" level="file">
+        <did>
+          <unittitle>Wright Family letters, 1801-1860s</unittitle>
+          <unitdate datechar="creation" normal="1988/2008" type="inclusive">1988-2008</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_76ac21952174b200943654d8a92be713" label="Mixed Materials [31142063254737]" type="Box">14</container>
+          <container id="aspace_7bae2c70738c9a804aff195cff99fe07" parent="aspace_76ac21952174b200943654d8a92be713" type="Folder">8-9</container>
+        </did>
+      </c>
+      <c id="aspace_ref104" level="file">
+        <did>
+          <unittitle>Joseph Wright research materials</unittitle>
+          <unitdate datechar="creation" normal="1988/1990" type="inclusive">1988-1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1571b52656e551cbff78af08136bdf04" label="Mixed Materials [31142063254737]" type="Box">14</container>
+          <container id="aspace_060b8ff38cc7ebf5df9370ab12a7c5fc" parent="aspace_1571b52656e551cbff78af08136bdf04" type="Folder">10-11</container>
+          <container altrender="Flat OS Box 17" id="aspace_b18def11f7140db70fec8bb45a19059b" label="Mixed Materials [31142063254836]" type="Box">24</container>
+          <container id="aspace_88aa2c19f2c93af30a26df9655a6e8f2" parent="aspace_b18def11f7140db70fec8bb45a19059b" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref106" level="file">
+        <did>
+          <unittitle>Edward Toner letters, 1818-1819</unittitle>
+          <unitdate datechar="creation" normal="1990/2000" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f7f8679580082f629bde112b1177b5fc" label="Mixed Materials [31142063254745]" type="Box">15</container>
+          <container id="aspace_ee0c9b24cafc12f59a25e58bdceb275b" parent="aspace_f7f8679580082f629bde112b1177b5fc" type="Folder">1</container>
+          <container altrender="Flat OS Box 17" id="aspace_1f33ad823afe6f1f5d972e5bd9a3595f" label="Mixed Materials [31142063254836]" type="Box">24</container>
+          <container id="aspace_7827d13195007741eaf01d6a81fbc736" parent="aspace_1f33ad823afe6f1f5d972e5bd9a3595f" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref107" level="file">
+        <did>
+          <unittitle>Edward and Mary Toner, 1815-1844</unittitle>
+          <unitdate datechar="creation" normal="1990/2000" type="inclusive">1990-2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_954da7504dd2c11339971b09633f0202" label="Mixed Materials [31142063254745]" type="Box">15</container>
+          <container id="aspace_37907a2f18a700f23a36ff74a33dae57" parent="aspace_954da7504dd2c11339971b09633f0202" type="Folder">2-3</container>
+        </did>
+      </c>
+      <c id="aspace_ref111" level="file">
+        <did>
+          <unittitle>Crockett Family</unittitle>
+          <unitdate datechar="creation" normal="1989/2001" type="inclusive">1989-2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e617b3d19b3393df4ff3ea28045d132a" label="Mixed Materials [31142063254745]" type="Box">15</container>
+          <container id="aspace_62a338e5cbede99b455dd3234e3ff731" parent="aspace_e617b3d19b3393df4ff3ea28045d132a" type="Folder">4-10</container>
+        </did>
+      </c>
+      <c id="aspace_ref112" level="file">
+        <did>
+          <unittitle>Blake Family letters</unittitle>
+          <unitdate datechar="creation" normal="1987/1999" type="inclusive">1987-1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ee1936418d8cf41b6e643565b6728037" label="Mixed Materials [31142063254745]" type="Box">15</container>
+          <container id="aspace_36427360a163466057ae4bfb7d44f5fc" parent="aspace_ee1936418d8cf41b6e643565b6728037" type="Folder">11-12</container>
+          <container altrender="Manuscript box - Legal" id="aspace_d23e6c69ce4414c4a4533707bdffffdc" label="Mixed Materials [31142063254752]" type="Box">16</container>
+          <container id="aspace_47462abbe134af0656b8a5e097cd0414" parent="aspace_d23e6c69ce4414c4a4533707bdffffdc" type="Folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ref115" level="file">
+        <did>
+          <unittitle>Maine Scots-Irish petition</unittitle>
+          <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_267cd1879276271b54ec8ad966cf90bb" label="Mixed Materials [31142063254752]" type="Box">16</container>
+          <container id="aspace_87f24028e52e0aa8aaa524f7b0e97f25" parent="aspace_267cd1879276271b54ec8ad966cf90bb" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref117" level="file">
+        <did>
+          <unittitle>Robert Witherspoon</unittitle>
+          <unitdate datechar="creation" normal="1985/2000" type="inclusive">1985-2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_346417a0b4f2fa7e00aada72fdd5103c" label="Mixed Materials [31142063254752]" type="Box">16</container>
+          <container id="aspace_c381cf768653a872433697e0c26d74e2" parent="aspace_346417a0b4f2fa7e00aada72fdd5103c" type="Folder">4-6</container>
+        </did>
+      </c>
+      <c id="aspace_ref119" level="file">
+        <did>
+          <unittitle>Mary Greenlee deposition, 1730s</unittitle>
+          <unitdate datechar="creation" normal="1993/2001" type="inclusive">1993-2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_04b5d4559dc6e57378efc0b3e0b3985b" label="Mixed Materials [31142063254752]" type="Box">16</container>
+          <container id="aspace_0ccc4fce6b0982518e1bbdbfb9e7c875" parent="aspace_04b5d4559dc6e57378efc0b3e0b3985b" type="Folder">7</container>
+          <container altrender="Manuscript box - Legal" id="aspace_1ac30381cabb13d31620162643583ada" label="Mixed Materials [31142063254760]" type="Box">17</container>
+          <container id="aspace_aafae009022331ebe54e672bc0be227d" parent="aspace_1ac30381cabb13d31620162643583ada" type="Folder">6-7</container>
+        </did>
+      </c>
+      <c id="aspace_ref121" level="file">
+        <did>
+          <unittitle>Matthew Carey</unittitle>
+          <unitdate datechar="creation" normal="1990/2000" type="inclusive">1990-2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e02dbda7921442452279d94e92ab0a93" label="Mixed Materials [31142063254752]" type="Box">16</container>
+          <container id="aspace_3a7f0fa7322c1fbc7e9071926468cd38" parent="aspace_e02dbda7921442452279d94e92ab0a93" type="Folder">8-9</container>
+          <container altrender="Manuscript box - Legal" id="aspace_59d623a891511490638027e9af55f5d6" label="Mixed Materials [31142063254760]" type="Box">17</container>
+          <container id="aspace_085cdf68ab22f663e60269abd8a420c2" parent="aspace_59d623a891511490638027e9af55f5d6" type="Folder">1-2</container>
+          <container altrender="Manuscript box - Legal" id="aspace_b6b1290b27c7e3a45e1d8fdb73dd5ca7" label="Mixed Materials [31142063254794]" type="Box">20</container>
+          <container id="aspace_3492a13b31f5e42a296abc44fcdb4b01" parent="aspace_b6b1290b27c7e3a45e1d8fdb73dd5ca7" type="Folder">1-3</container>
+          <container altrender="Manuscript box - Legal" id="aspace_52b067ad16b3bc77d3751c26b84d893f" label="Mixed Materials [31142063254828]" type="Box">23</container>
+          <container id="aspace_59fa0be8c057648cbcf5ed3ffe960bc4" parent="aspace_52b067ad16b3bc77d3751c26b84d893f" type="Folder">11</container>
+          <container altrender="Flat OS Box 17" id="aspace_917b6d5d8ac130c7a27694be7dc80c5c" label="Mixed Materials [31142063254836]" type="Box">24</container>
+          <container id="aspace_eb097da4489802afd9dd6cd11dcbba30" parent="aspace_917b6d5d8ac130c7a27694be7dc80c5c" type="Folder">8-10</container>
+        </did>
+      </c>
+      <c id="aspace_ref118" level="file">
+        <did>
+          <unittitle>James Magraw letter, 1733</unittitle>
+          <unitdate datechar="creation" normal="1995/1995">1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c8d59c6e7c9ac1339f71386a55ee6703" label="Mixed Materials [31142063254760]" type="Box">17</container>
+          <container id="aspace_907acb5053f115097070c493c0668b5e" parent="aspace_c8d59c6e7c9ac1339f71386a55ee6703" type="Folder">3-5</container>
+        </did>
+      </c>
+      <c id="aspace_ref123" level="file">
+        <did>
+          <unittitle>1799 St. Mary's Church riot, Philadelphia</unittitle>
+          <unitdate datechar="creation" normal="1990/2000" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6af2afef9efa601c035b53bd37b3c35a" label="Mixed Materials [31142063254760]" type="Box">17</container>
+          <container id="aspace_936966a750ca709d532e03c984faecac" parent="aspace_6af2afef9efa601c035b53bd37b3c35a" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref124" level="file">
+        <did>
+          <unittitle>Fr. Patrick Kenny diary, 1790s-1820s</unittitle>
+          <unitdate datechar="creation" normal="2000/2000">2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6e7e23ac50f0db66a78596f15b0daa0d" label="Mixed Materials [31142063254760]" type="Box">17</container>
+          <container id="aspace_131366a9382424172011df6d1890e2d5" parent="aspace_6e7e23ac50f0db66a78596f15b0daa0d" type="Folder">9-10</container>
+        </did>
+      </c>
+      <c id="aspace_ref125" level="file">
+        <did>
+          <unittitle>Mac Arthur letters </unittitle>
+          <unitdate datechar="creation" normal="1997/1999" type="inclusive">1997-1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_331331151aef29dfc6f7ea26e1724a34" label="Mixed Materials [31142063254778]" type="Box">18</container>
+          <container id="aspace_934b4332d9fe9044b2d0b2087cdf87cb" parent="aspace_331331151aef29dfc6f7ea26e1724a34" type="Folder">1-4</container>
+        </did>
+      </c>
+      <c id="aspace_ref128" level="file">
+        <did>
+          <unittitle>John Nevin</unittitle>
+          <unitdate datechar="creation" normal="1988/2006" type="inclusive">1988-2006</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_12ad8219d813c5bf7808936afe5006e9" label="Mixed Materials [31142063254778]" type="Box">18</container>
+          <container id="aspace_84618f5856d643ab37d5f24c5b37289c" parent="aspace_12ad8219d813c5bf7808936afe5006e9" type="Folder">5-6</container>
+        </did>
+      </c>
+      <c id="aspace_ref129" level="file">
+        <did>
+          <unittitle>Emmet (Simms letter 2 November 1807)</unittitle>
+          <unitdate datechar="creation" normal="1990/1997" type="inclusive">1990-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7e960aab5ce7d8d7504e3066b079d545" label="Mixed Materials [31142063254778]" type="Box">18</container>
+          <container id="aspace_025b74357344e6dad6638e2343555f93" parent="aspace_7e960aab5ce7d8d7504e3066b079d545" type="Folder">7-8</container>
+        </did>
+      </c>
+      <c id="aspace_ref130" level="file">
+        <did>
+          <unittitle>William Heazelton</unittitle>
+          <unitdate datechar="creation" normal="1989/1996" type="inclusive">1989-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_96af5b8929352d24123e63a5c2bdc7de" label="Mixed Materials [31142063254778]" type="Box">18</container>
+          <container id="aspace_d90e3364152e1fe0d4793cccc325bf5f" parent="aspace_96af5b8929352d24123e63a5c2bdc7de" type="Folder">9-11</container>
+        </did>
+      </c>
+      <c id="aspace_ref132" level="file">
+        <did>
+          <unittitle>John Caldwell</unittitle>
+          <unitdate datechar="creation" normal="1989/2002" type="inclusive">1989-2002</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_58b5855bd52ddcf6506cb9ea440aae67" label="Mixed Materials [31142063254778]" type="Box">18</container>
+          <container id="aspace_b29d03079a5a5692bd9c0b6c340f8b08" parent="aspace_58b5855bd52ddcf6506cb9ea440aae67" type="Folder">12-13</container>
+          <container altrender="Manuscript box - Legal" id="aspace_6389b2f2586561212ebc9593dc1607c4" label="Mixed Materials [31142063254786]" type="Box">19</container>
+          <container id="aspace_d2aa6cfdadd14e6a03abcbe68c6ebaa1" parent="aspace_6389b2f2586561212ebc9593dc1607c4" type="Folder">1-3</container>
+        </did>
+      </c>
+      <c id="aspace_ref135" level="file">
+        <did>
+          <unittitle>Chester County petitions</unittitle>
+          <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_82d1c64f5d665057df509a3a8f176568" label="Mixed Materials [31142063254786]" type="Box">19</container>
+          <container id="aspace_b00a438a08b2b15e6f23cc124085362a" parent="aspace_82d1c64f5d665057df509a3a8f176568" type="Folder">4-5</container>
+        </did>
+      </c>
+      <c id="aspace_ref136" level="file">
+        <did>
+          <unittitle>More servants and laborers</unittitle>
+          <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fc0dec5fbf50909425544927b633744f" label="Mixed Materials [31142063254786]" type="Box">19</container>
+          <container id="aspace_29abf2bb75a496e82d61a702104bd469" parent="aspace_fc0dec5fbf50909425544927b633744f" type="Folder">6-7</container>
+        </did>
+      </c>
+      <c id="aspace_ref137" level="file">
+        <did>
+          <unittitle>Irish criminals' memoirs, 1765</unittitle>
+          <unitdate datechar="creation" normal="1991/2002" type="inclusive">1991-2002</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0af3fb342eb49f313d0aa80e1ca8e7c4" label="Mixed Materials [31142063254786]" type="Box">19</container>
+          <container id="aspace_ce12cd6455aeba09eb06e02277288807" parent="aspace_0af3fb342eb49f313d0aa80e1ca8e7c4" type="Folder">8-9</container>
+        </did>
+      </c>
+      <c id="aspace_ref138" level="file">
+        <did>
+          <unittitle>James Patton memoir, 1839</unittitle>
+          <unitdate datechar="creation" normal="1990/2000" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_380dce315a3844459b05b200a28d1634" label="Mixed Materials [31142063254786]" type="Box">19</container>
+          <container id="aspace_debd466c9ba97174b4339b67367774d9" parent="aspace_380dce315a3844459b05b200a28d1634" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref141" level="file">
+        <did>
+          <unittitle>Brown Family letters, 1793-1816</unittitle>
+          <unitdate datechar="creation" normal="1990/2000" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f37e817024d0c523d8041845d2596dc8" label="Mixed Materials [31142063254794]" type="Box">20</container>
+          <container id="aspace_ea4e1722441942b89f4d2c9618116700" parent="aspace_f37e817024d0c523d8041845d2596dc8" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref142" level="file">
+        <did>
+          <unittitle>Samuel Brown, James Brown, and Thomas Brown</unittitle>
+          <unitdate datechar="creation" normal="1989/1989">1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_417dc0976464d57c0d96984c229e6fb2" label="Mixed Materials [31142063254794]" type="Box">20</container>
+          <container id="aspace_02e65a3dc2c28cefd7bf5652c02d4ddb" parent="aspace_417dc0976464d57c0d96984c229e6fb2" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref143" level="file">
+        <did>
+          <unittitle>Brown, Revisions, Philadelphia strikes, etc</unittitle>
+          <unitdate datechar="creation" normal="1999/1999">1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7895d353bfc8d8964386ad4102b3dae7" label="Mixed Materials [31142063254794]" type="Box">20</container>
+          <container id="aspace_bb928da719c3f0a5593aaa23bd6d621d" parent="aspace_7895d353bfc8d8964386ad4102b3dae7" type="Folder">6-7</container>
+        </did>
+      </c>
+      <c id="aspace_ref144" level="file">
+        <did>
+          <unittitle>Francis Campbell</unittitle>
+          <unitdate datechar="creation" normal="1995/1996" type="inclusive">1995-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b4e2472d0c7fa2a828f221872ffe2e56" label="Mixed Materials [31142063254794]" type="Box">20</container>
+          <container id="aspace_5f23d35b7e9c744fc9b3143ed6ac44a8" parent="aspace_b4e2472d0c7fa2a828f221872ffe2e56" type="Folder">8-9</container>
+        </did>
+      </c>
+      <c id="aspace_ref145" level="file">
+        <did>
+          <unittitle>Robert Pillson</unittitle>
+          <unitdate datechar="creation" normal="1989/2000" type="inclusive">1989-2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6d1a2a5fa2410825c0093f52774d2412" label="Mixed Materials [31142063254794]" type="Box">20</container>
+          <container id="aspace_581ec30ce91797ca42ba12695fd11d4a" parent="aspace_6d1a2a5fa2410825c0093f52774d2412" type="Folder">10-12</container>
+        </did>
+      </c>
+      <c id="aspace_ref147" level="file">
+        <did>
+          <unittitle>John O'Kelly, 1773</unittitle>
+          <unitdate datechar="creation" normal="1978/1996" type="inclusive">1978, 1995-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_620886add605731c6c7658c2c25ec1d7" label="Mixed Materials [31142063254802]" type="Box">21</container>
+          <container id="aspace_17021d3f13138c2798990a201af64115" parent="aspace_620886add605731c6c7658c2c25ec1d7" type="Folder">1-3</container>
+          <container altrender="Flat OS Box 17" id="aspace_5051b88dde1197a2a3c942d5918633f5" label="Mixed Materials [31142063254836]" type="Box">24</container>
+          <container id="aspace_abb051901efabbb5b1136ac0154ee8b1" parent="aspace_5051b88dde1197a2a3c942d5918633f5" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref148" level="file">
+        <did>
+          <unittitle>Redic-Burke (and Findlay, Bryan, etc.)</unittitle>
+          <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_df28d38dc99ce7a494a33a854a501d5f" label="Mixed Materials [31142063254802]" type="Box">21</container>
+          <container id="aspace_5e8b328dde21b23de44dc8ea6801e4c4" parent="aspace_df28d38dc99ce7a494a33a854a501d5f" type="Folder">4-5</container>
+          <container altrender="Flat OS Box 17" id="aspace_af5dcb28886dc9aac412a5327b3e8db8" label="Mixed Materials [31142063254836]" type="Box">24</container>
+          <container id="aspace_6cb4b0a8430dfda0e757140e30485fe7" parent="aspace_af5dcb28886dc9aac412a5327b3e8db8" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref149" level="file">
+        <did>
+          <unittitle>John Kennedy petition, 1753</unittitle>
+          <unitdate datechar="creation" normal="1995/2002" type="inclusive">1995-2002</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8328c9d7614b825d26efaef238b8d57b" label="Mixed Materials [31142063254802]" type="Box">21</container>
+          <container id="aspace_0525f19b0a22cd4c1a66484762facad0" parent="aspace_8328c9d7614b825d26efaef238b8d57b" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref150" level="file">
+        <did>
+          <unittitle>Benjamin Chandlee letters, 1705-1707</unittitle>
+          <unitdate datechar="creation" normal="1996/1998" type="inclusive">1996-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1eb662a3abdb96dccb707440ce419016" label="Mixed Materials [31142063254802]" type="Box">21</container>
+          <container id="aspace_24e92dfe55077b74cfafce184e3614e4" parent="aspace_1eb662a3abdb96dccb707440ce419016" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref151" level="file">
+        <did>
+          <unittitle>Chester County, Pennsylvania servants' petitions</unittitle>
+          <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_668d6f8dec644b6ea019155cd54c57cc" label="Mixed Materials [31142063254802]" type="Box">21</container>
+          <container id="aspace_12415ce67ab293a3c8b451f545cbeee5" parent="aspace_668d6f8dec644b6ea019155cd54c57cc" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref152" level="file">
+        <did>
+          <unittitle>John McDonnell</unittitle>
+          <unitdate datechar="creation" normal="1996/1998" type="inclusive">1996-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2a5d55fa0915fc2725b575d75e343a6d" label="Mixed Materials [31142063254802]" type="Box">21</container>
+          <container id="aspace_4150ef6a9382e544b8b6b36f9a1ee41a" parent="aspace_2a5d55fa0915fc2725b575d75e343a6d" type="Folder">9</container>
+          <container altrender="Manuscript box - Legal" id="aspace_e1205295723cde5299221bb0f77518a2" label="Mixed Materials [31142063254828]" type="Box">23</container>
+          <container id="aspace_c7041fd88c1801221a0c8ca6d5521096" parent="aspace_e1205295723cde5299221bb0f77518a2" type="Folder">6-7</container>
+        </did>
+      </c>
+      <c id="aspace_ref154" level="file">
+        <did>
+          <unittitle>Caldwell Family letters, 1774</unittitle>
+          <unitdate datechar="creation" normal="1996/1997" type="inclusive">1996-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3388db0a6944d61b31a37ee5dc477a92" label="Mixed Materials [31142063254810]" type="Box">22</container>
+          <container id="aspace_8db06418f8dfbe1a6aff507463d992f0" parent="aspace_3388db0a6944d61b31a37ee5dc477a92" type="Folder">2-3</container>
+        </did>
+      </c>
+      <c id="aspace_ref155" level="file">
+        <did>
+          <unittitle>James Caldwell research materials</unittitle>
+          <unitdate datechar="creation" normal="1989/1996" type="inclusive">1989-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4a86cb25b117e0928e38270b32a3617e" label="Mixed Materials [31142063254810]" type="Box">22</container>
+          <container id="aspace_8367be70a374342ef594928aacd10df8" parent="aspace_4a86cb25b117e0928e38270b32a3617e" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref156" level="file">
+        <did>
+          <unittitle>Matthew Patten diary</unittitle>
+          <unitdate datechar="creation" normal="1996/1997" type="inclusive">1996-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_64647030698a449c82197ae0fe4f041c" label="Mixed Materials [31142063254810]" type="Box">22</container>
+          <container id="aspace_9e03b1224ffd85bc87bed8edb80d6a3a" parent="aspace_64647030698a449c82197ae0fe4f041c" type="Folder">5-8</container>
+        </did>
+      </c>
+      <c id="aspace_ref158" level="file">
+        <did>
+          <unittitle>South Carolina Loyalists' petitions</unittitle>
+          <unitdate datechar="creation" normal="1996/2000" type="inclusive">1996-2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bb33369c23f2f986a7b90a2836a6b268" label="Mixed Materials [31142063254810]" type="Box">22</container>
+          <container id="aspace_75fbb06d03e3b0ffda7586e837619787" parent="aspace_bb33369c23f2f986a7b90a2836a6b268" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref159" level="file">
+        <did>
+          <unittitle>Loyalists' petitions (and Crary article)</unittitle>
+          <unitdate datechar="creation" normal="1994/1994">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fd847207beb1a00e7261afc5c321eba4" label="Mixed Materials [31142063254810]" type="Box">22</container>
+          <container id="aspace_bb41d064ebdc3332b85563476521274a" parent="aspace_fd847207beb1a00e7261afc5c321eba4" type="Folder">10-11</container>
+        </did>
+      </c>
+      <c id="aspace_ref160" level="file">
+        <did>
+          <unittitle>Job Johnston</unittitle>
+          <unitdate datechar="creation" normal="1989/1990" type="inclusive">1989-1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_54e983865f8d6e04f6043f82c2721814" label="Mixed Materials [31142063254828]" type="Box">23</container>
+          <container id="aspace_432426e45cc471f07fe2f78f54b491fa" parent="aspace_54e983865f8d6e04f6043f82c2721814" type="Folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_f73800d7bb1bd5192d2eda207890b930" level="file">
+        <did>
+          <unittitle>Reddick-Burke letters, 1787-1788</unittitle>
+          <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a8f1509af43d04900ffbd578d7f68b09" label="Mixed Materials [31142063254828]" type="Box">23</container>
+          <container id="aspace_7e186eb47243ee45b1fc6c10556b5d65" parent="aspace_a8f1509af43d04900ffbd578d7f68b09" type="Folder">3-4</container>
+        </did>
+      </c>
+      <c id="aspace_ref163" level="file">
+        <did>
+          <unittitle>Post-Revolution politics</unittitle>
+          <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9f12958daa8b74dcaf5bc4fd28925e0a" label="Mixed Materials [31142063254828]" type="Box">23</container>
+          <container id="aspace_66e6d50781b8351945a42e0286fe8cca" parent="aspace_9f12958daa8b74dcaf5bc4fd28925e0a" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref165" level="file">
+        <did>
+          <unittitle>McCurtin</unittitle>
+          <unitdate datechar="creation" normal="1992/2000" type="inclusive">1992-2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f440ed582f0943a3e4553e13702a6127" label="Mixed Materials [31142063254828]" type="Box">23</container>
+          <container id="aspace_c385d73a06be516b6ef300d9ac0d74ef" parent="aspace_f440ed582f0943a3e4553e13702a6127" type="Folder">8-10</container>
+        </did>
+      </c>
+      <c id="aspace_ref172" level="file">
+        <did>
+          <unittitle>Photocopies from the Historical Society of Pennsylvania</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1f22f34841ab2e6ac5a6d865acb5e686" label="Mixed Materials [31142063254695]" type="Box">10</container>
+          <container id="aspace_2d7137999698ea49ebfcd1bf3673608b" parent="aspace_1f22f34841ab2e6ac5a6d865acb5e686" type="Folder">7</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

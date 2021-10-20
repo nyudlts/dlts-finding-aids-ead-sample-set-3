@@ -1,0 +1,1475 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_605">tam_605</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper type="filing">North (Joseph and Helen Oken) Family Papers</titleproper>
+        <titleproper>Guide to the Joseph North and Helen Oken North Family Papers <num>TAM.605</num></titleproper>
+        <author>Heather Mulliner</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>3/11/2014</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 03:35:04 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>March 2017</date>
+        <item>Edited by Heather Mulliner to reflect inclusion of 2016 accretion.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>North (Joseph and Helen Oken) Family Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">North, Joseph</persname>
+      </origination>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">North, Helen Oken</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">North, Nora E.</persname>
+      </origination>
+      <unitid>TAM.605</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">13.25 Linear Feet</extent>
+        <extent altrender="carrier">in 10 record cartons, 2 oversize flat boxes, 2 shoe boxes, and 1 manuscript box</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1913/1990" type="inclusive">1913-1990</unitdate>
+      <unitdate datechar="creation" normal="1930/1970" type="bulk">1930-1970</unitdate>
+      <abstract id="aspace_e4f5b8a51038ca09e849ef19883a0121">The North (Joseph and Helen Oken) Family Papers (dated 1913-1990) include three generations of family correspondence and memorabilia spanning from the early 20th century to the 1990s. The bulk of the collection relates to Joseph and Helen North, but a significant portion also relates to Helen's family and includes the papers of her father and mother Morris and Jennie Oken, and her sisters Lydia Oken Mates and Mary Oken Wilson. The collection is largely comprised of correspondence, which documents the North and Oken families' involvement in the Communist Party, socialist activism, labor organizing, the Spanish Civil War, and family life. This collection also contains a significant amount of materials related to Joseph North's career as a journalist for the communist publications <emph render="italic">New Masses</emph> and the <emph render="italic">Daily Worker</emph>.</abstract>
+      <physloc id="aspace_7f8e3adc5d00fbf03e6bee6d8628d26e">Some materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_318d3b14b5839e3fa3f509971f213d78">Materials are in English. A small portion the of materials in this collection are in Hebrew and Russian.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_51fc1b5703ada0fefbaee49d81eba118">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_814760ae25c2bf0c844b91f99e71e1dc">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Nora E. North in 2012; additional materials were donated in 2013 and 2016. The accession numbers associated with this collection are NPA.2003.013, 2012.013, 2012.090, 2013.046, and 2017.007.</p>
+    </acqinfo>
+    <appraisal id="aspace_ffaee4f359d109668be335e660697fa0">
+      <head>Appraisal</head>
+      <p>Several published materials have been removed from this collection including copies of the <emph render="italic">Daily Worker</emph> and <emph render="italic">Daily World</emph>, magazines, and new paper clippings.  Other materials of limited research value which consisted of receipts, empty envelopes, locks of hair were also removed from the collection.</p>
+    </appraisal>
+    <arrangement id="aspace_920cd1ebfb6fae59c6373d258bc41ee5">
+      <head>Arrangement</head>
+      <p>This collection has been divided into five series by creator or by form. Correspondence in the first three series is arranged chronologically by recipient while other materials contained in these series have been grouped by creator. Series I has been further divided in four subseries. The first three subseries contain correspondence, which is arranged chronologically by recipient, while the fourth subseries contains memorabilia is arranged chronologically and by form. The last two series of the collection contain photographs and artifacts. Photographs have been grouped by creator.</p>
+    </arrangement>
+    <bioghist id="aspace_7e185d60093fd7bb8aaf35b0e6c7ba10">
+      <head>Historical/Biographical Note</head>
+      <p>Joseph North was born Jacob Soifer in Ukraine to Jessie Soifer and Balia Yasnitz in in 1904. The family immigrated to the United States when he was 9 months old and settled in Pennsylvania. Joseph North began working in a Pennsylvania textile mill at the age of 12, and later worked summers in the ship yards of his hometown.  Joseph graduated with a B.A. from the University of Pennsylvania and worked for several years after his graduation as a reporter for a variety of Pennsylvania newspapers. In 1935 he was one of the founders of the weekly <emph render="italic">New Masses</emph> and served as its editor for 15 years. Joseph North also served as a communist party organizer and a correspondent for the <emph render="italic">Daily Worker</emph>. Through his work as a journalist he reported on a number of major events including labor strikes of the 1930s, the Spanish Civil War, and World War II. </p>
+      <p>Helen Oken North was born in the Bronx, New York in 1912 to Russian immigrants Morris and Jennie Oken. Helen Oken was the youngest of five siblings, two sisters and two brothers. Her older brother Semyon was her mother's son from a previous marriage who eventually left to live with his father, and her brother Yaksha, born in 1906, died when he was only year old after contracting an illness during the family's passage to the United States. Helen and her two older sisters Mary and Lydia were born in New York and maintained close ties throughout their lives. The Oken family was highly involved in labor and socialist organizations. Helen's father Morris Oken was a textile worker and was active in the Workmen's Circle as well as other labor organizations. Helen was also involved in union activity and worked a labor organizer as a teenager. She later worked as a Communist party organizer in Pennsylvania in the 1930s. Helen's sisters Lydia was also highly involved in political activism and worked as a Communist Party organizer in Detroit and Chicago. She married Abraham Lincoln Brigade volunteer Dave Mates in 1930.</p>
+      <p>Helen Oken married Joseph North in 1931. Joseph worked as a correspondent for the <emph render="italic">New Masses</emph> in Spain during the Spanish Civil War. Helen accompanied him to Spain and worked in the medical service during those years. Helen and Joseph later settled in Manhattan and had three children Daniel, Susan, and Nora. Helen continued to be involved in Communist Party activism. She also assumed the role of breadwinner on many occasions, as Joseph's work as a journalist did not provide enough to support a family and often required him to travel abroad. Helen and Joseph were married for 26 year, but eventually divorced in 1957. Helen married Communist Party of the United States leader Gil Green in 1970. Joseph North also remarried, marrying <emph render="italic">Daily World</emph> journalist and editor Augusta Strong in 1963. Joseph's wife Augusta died in early 1976 and Joseph died in December of that same year. Helen North died in 1990.</p>
+    </bioghist>
+    <prefercite id="aspace_a921f32ef512d2ba601c458cfd24117e">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; North (Joseph and Helen Oken) Family Papers; TAM 605; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_2c7bfbdaa2e466047a2883d79389e926">
+      <head>Processing Information</head>
+      <p>One box of correspondence, a scrapbook, and a felt hat were initially held in the Joseph North Spanish Civil War Artifacts (ALBA 294), these materials were incorporated into the Joseph and Helen Oken North Family Papers in 2014. An Odessa sailor's hat deaccessioned in 2013 was also reincorporated into the collection in 2014.</p>
+      <p>In 2017 an additional box of Joseph North's papers was added to Series I: Joseph and Helen Oken North Papers, Subseries I.D: Joseph and Helen Oken North Family Records and Memorabilia. These materials were described at the folder level and integrated into the existing arrangement of the series.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_f32b072e43e26de5499642be8947db0f">
+      <head>Related Archival Materials</head>
+      <p>Collections related to the Joseph and Helen Oken North Papers include the Joseph North Spanish Civil War Artifacts (ALBA 294), David Mates Papers (ALBA 279), and Series VIII: Publication, Subseries A: <emph render="italic">People's Weekly World</emph> Administrative Records, 1919-2001 in the Communist Party of the United States Papers (TAM 132), which contains files related to Joseph North's work with the <emph render="italic">Daily Worker</emph>.</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_7abe584ad0047dd803bf2338dba1969d">
+      <head>Scope and Content Note</head>
+      <p>The North (Joseph and Helen Oken) Family Papers (dated 1913-1990) include three generations of family correspondence spanning from the early 20th century to the 1990s. The bulk of the collection relates to Joseph and Helen North, but a significant portion also relates to Helen's family and includes correspondence of her father and mother Morris and Jennie Oken, and her sisters Lydia Oken Mates and Mary Oken Wilson. The collection largely consists of correspondence written between the 1930s and 1970s, and also includes family photographs, notes, and memorabilia.</p>
+      <p>Joseph and Helen North's papers document several major themes in their lives including their careers, political activism, economic struggles, and children. A small amount of correspondence relates to their time in Spain during the Spanish Civil War where Joseph worked as a foreign correspondent for the communist publication the <emph render="italic">New Masses</emph> and Helen worked in the medical service. Their papers also include materials related to Joseph's work as a journalist, both before and after Spain. Other materials inlcude correspondence from friends and family and materials related to their three children.</p>
+      <p>Correspondence between Helen and her sisters is exceptionally rich and provides an intimate look into their personal lives touching on a wide array of topics including their jobs, political beliefs, relationships, family planning and contraception, children, and care of their aging parents. They provide a unique view of how Communist Party members balanced their political activism and family obligation, and the ways in which family influenced political belief.</p>
+      <p>The papers of Morris and Jennie Oken also make up a small portion of this collection. Morris Oken was active in a number of labor and socialist organization in New York City, and his papers contain a large amount of material related to communism and political activism. The collection also contains a significant amount of materials related to Helen's sister Lydia and her husband Dave Mates. Lydia Oken Mates worked for many years as a Communist Party organizer in Detroit and Dave Mates was a Veteran of the Abraham Lincoln Brigades who was also involved in Communist Party activism throughout his life. </p>
+      <p>Other materials contained in this collection include clippings, flyers, and ephemera, a small number of negatives, and two artifacts: a hat taken from a Moroccan soldier who died in Spain, and a tsarist-era naval uniform cap from Russia.</p>
+      <p>Materials added to the collection in 2017 largely relate to Joseph North's writings and his work as a correspondent during the Spanish Civil War. They include press releases from the Spanish Republican Army's Ministry of National Defense as well as several reports and first-hand accounts from volunteers in the International Brigades. Also included among these materials is unpublished novel titled, <emph render="italic">I Come from America</emph> as well a folder of obituaries and articles paying tribute to Joseph North following his death in 1976. </p>
+      <p>Many of the correspondents in this collection are addressed by a variety of names throughout their correspondence. Helen and her family often address each other by their Russian names or variations of those names. In much of her correspondence Helen is often addressed as Vezl, Vezlenka, Honushinka, Annunshinka, or Anne. Joseph North, who was born Jacob Soifer, is also addressed as Jacob or Jake on many occasions, and in several instances his letters are addressed to Jacob Sofier.  Helen's sister Lydia is often addressed as  Lidushka, Liducinka, or Lilian, her sister Mary is addressed as Manya or Maninka; her father Morris is frequently referred to as Mitaya, and her mother Jennie, whose name is often spelled Jenny, is often referred to as Jenja.</p>
+    </scopecontent>
+    <userestrict id="aspace_c7736c414c01a2b424495420c6b222b8">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (and related rights to publicity and privacy) to materials in this collection, created by Joseph North and Helen Oken North, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Journalism, Communist -- United States.</subject>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
+      <genreform source="aat">Photographs.</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Scrapbooks.</genreform>
+      <subject source="lcsh">Communists -- United States.</subject>
+      <subject source="lcsh">Women communists -- United States.</subject>
+      <subject source="lcsh">Jewish communists -- United States.</subject>
+      <persname source="naf">North, Joseph</persname>
+      <persname rules="dacs" source="local">North, Helen Oken</persname>
+      <persname rules="dacs" source="local">Oken, Morris, 1883-1953</persname>
+      <persname rules="dacs" source="local">Oken, Jennie, 1882-1959</persname>
+      <persname source="local">Mates, David</persname>
+      <persname rules="dacs" source="local">Mates, Lydia Oken</persname>
+      <persname role="dnr" rules="dacs" source="local">North, Nora E.</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref10" level="series">
+        <did>
+          <unittitle>Series I: Joseph and Helen Oken North Papers</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">8 boxes</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1920/1990" type="inclusive">1920-1990</unitdate>
+        </did>
+        <scopecontent id="aspace_deb0fa8cc350455615a6473a1a1e5696">
+          <head>Scope and Content Note</head>
+          <p>This series primarily consists of incoming correspondence to Joseph and Helen North from the late 1920s to the 1970s. Correspondence contained in this collection consists of letters from family and friends to Joseph and Helen North. This series also includes materials such as datebooks, account ledgers, handwritten notes, receipts, memorabilia, diplomas, clippings, and drawings.</p>
+        </scopecontent>
+        <c id="aspace_ref12" level="subseries">
+          <did>
+            <unittitle>Subseries I.A: Helen Oken North Correspondence</unittitle>
+          </did>
+          <scopecontent id="aspace_529fb643b7fd04aeaf23d69c383d4e6f">
+            <head>Scope and Content Note</head>
+            <p>This sub-series contains incoming correspondence written to Helen North between the 1920s and 1970s. The majority of correspondence written to Helen comes from her sisters, parents, and her husband Joseph North. These letters discuss work, political activism, and family life. A large portion of these letters are in roughly chronological order and are from a wide array of correspondents. Other incoming letters have been grouped by subject or by sender.</p>
+          </scopecontent>
+          <c id="aspace_ref20" level="file">
+            <did>
+              <unittitle>Helen Oken North: Incoming Correspondence</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">51 folders</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1928/1938" type="inclusive">1928-1938</unitdate>
+              <container altrender="Record carton" id="aspace_042110661213d46a4ef4f271c3ee74c2" label="Mixed Materials [31142063165834]" type="Box">1</container>
+              <container id="aspace_b7ad3b06d3dc1ce2efba5b908fc23b9c" parent="aspace_042110661213d46a4ef4f271c3ee74c2" type="Folder">1-14</container>
+            </did>
+          </c>
+          <c id="aspace_ref184" level="file">
+            <did>
+              <unittitle>Helen Oken North: Incoming Correspondence</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 box</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1937/1949" type="inclusive">1937-1949</unitdate>
+              <container altrender="Record carton" id="aspace_a3a048bb980c030472eb53995efaa36b" label="Mixed Materials [31142063165826]" type="Box">2</container>
+              <container id="aspace_83334f228fa4bb02c04e0e920a3ef69e" parent="aspace_a3a048bb980c030472eb53995efaa36b" type="Folder">1-15</container>
+            </did>
+          </c>
+          <c id="aspace_ref185" level="file">
+            <did>
+              <unittitle>Helen Oken North: Incoming Correspondence</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 box</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1947/1954" type="inclusive">1947-1954</unitdate>
+              <container altrender="Record carton" id="aspace_292d57e6a6de9663f83f231904a8f807" label="Mixed Materials [31142063165818]" type="Box">3</container>
+              <container id="aspace_26eb1ae079658ad290b97c656160d0e2" parent="aspace_292d57e6a6de9663f83f231904a8f807" type="Folder">1-11</container>
+            </did>
+          </c>
+          <c id="aspace_ref186" level="file">
+            <did>
+              <unittitle>Helen Oken North: Incoming Correspondence</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 audiocassettes</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1952/1966" type="inclusive">1952-1966</unitdate>
+              <container altrender="Record carton" id="aspace_fabd1cc430387c52b87b42070bfe4c4b" label="Mixed Materials [31142063165800]" type="Box">4</container>
+              <container id="aspace_03deb96878c5b34844c28470682f4c94" parent="aspace_fabd1cc430387c52b87b42070bfe4c4b" type="Folder">1-11</container>
+            </did>
+          </c>
+          <c id="aspace_ref56" level="file">
+            <did>
+              <unittitle>Helen Oken North: Incoming Family Correspondence from Mary O. Wilson</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1943/1946" type="inclusive">1943-1946</unitdate>
+              <container altrender="Record carton" id="aspace_22a29272f0e0942f5b526d8df37a7963" label="Mixed Materials [31142063165800]" type="Box">4</container>
+              <container id="aspace_8a25aff5b4da514c1aea798409e59de1" parent="aspace_22a29272f0e0942f5b526d8df37a7963" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref55" level="file">
+            <did>
+              <unittitle>Helen Oken North: Incoming Correspondence from Mary O. Wilson</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">3 folders</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1930/1965" type="inclusive">1930s, 1958-1965</unitdate>
+              <container altrender="Record carton" id="aspace_9d00e792be61cb6200909aa8f9b37062" label="Mixed Materials [31142063165800]" type="Box">4</container>
+              <container id="aspace_9e2a02fb82a259b336b29d1a7b564577" parent="aspace_9d00e792be61cb6200909aa8f9b37062" type="Folder">13-15</container>
+            </did>
+          </c>
+          <c id="aspace_ref58" level="file">
+            <did>
+              <unittitle>Helen Oken North: Incoming Family Correspondence from Lydia O. Mates</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">2 folders</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1936/1958" type="inclusive">1936-1958</unitdate>
+              <container altrender="Record carton" id="aspace_69ad3d7da14f0f2be049237be55f0a57" label="Mixed Materials [31142063165800]" type="Box">4</container>
+              <container id="aspace_6f5d7dc14469dcb17cf759e4fd19dd56" parent="aspace_69ad3d7da14f0f2be049237be55f0a57" type="Folder">16-17</container>
+            </did>
+          </c>
+          <c id="aspace_ref59" level="file">
+            <did>
+              <unittitle>Helen Oken North: Incoming Correspondence from Lydia Mates</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1958/1965" type="inclusive">1958-1965</unitdate>
+              <container altrender="Record carton" id="aspace_6301b20e68e9aa641dcc7f96a1dad3c7" label="Mixed Materials [31142063165792]" type="Box">5</container>
+              <container id="aspace_b9d63f6402410a5e2b31301be3936dda" parent="aspace_6301b20e68e9aa641dcc7f96a1dad3c7" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref60" level="file">
+            <did>
+              <unittitle>Helen Oken North: Correspondence from Linda Weber</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1943/1949" type="inclusive">1943-1949</unitdate>
+              <container altrender="Record carton" id="aspace_c54a82a84ad8d9da598a9025b6ca942e" label="Mixed Materials [31142063165792]" type="Box">5</container>
+              <container id="aspace_5445a87237a552514d04ce9a5e4571b5" parent="aspace_c54a82a84ad8d9da598a9025b6ca942e" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref61" level="file">
+            <did>
+              <unittitle>Helen Oken North: Incoming Correspondence-Los Angeles 1949</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
+              <container altrender="Record carton" id="aspace_592010a2677ac75dbeaee62eb3a9eef7" label="Mixed Materials [31142063165792]" type="Box">5</container>
+              <container id="aspace_66ce5d9f9637496552cec72074c4daed" parent="aspace_592010a2677ac75dbeaee62eb3a9eef7" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref62" level="file">
+            <did>
+              <unittitle>Helen and Nora North: Los Angeles 1949</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
+              <container altrender="Record carton" id="aspace_a9aa2a6106becd2095ec6be18cd11191" label="Mixed Materials [31142063165792]" type="Box">5</container>
+              <container id="aspace_ca001e37b22fbd5bb4ae1ce0bcde6bf3" parent="aspace_a9aa2a6106becd2095ec6be18cd11191" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref63" level="file">
+            <did>
+              <unittitle>Helen Oken North: Outgoing Correspondence (drafts)</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1930/1959" type="inclusive">1930s, 1940s, 1950s</unitdate>
+              <container altrender="Record carton" id="aspace_9db7b0cdb7b07641b65251ec8a662086" label="Mixed Materials [31142063165792]" type="Box">5</container>
+              <container id="aspace_d0396eb283961b3d6aa75cc00ab1061b" parent="aspace_9db7b0cdb7b07641b65251ec8a662086" type="Folder">5</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref11" level="subseries">
+          <did>
+            <unittitle>Subseries I.B: Joseph North Correspondence</unittitle>
+          </did>
+          <scopecontent id="aspace_a7f1dcaf4fe6225e065ff9ecda2c7bda">
+            <head>Scope and Content Note</head>
+            <p>This sub-series contains correspondence related to Joseph North. A large portion this section consists of incoming letters to Joseph North which have been arranged in chronological order. This sub-series also contains letters related to the Spanish Civil War, which have been incorporated into this collection from the Joseph North Spanish Civil War Artifacts, ALBA 294. Many of the letters contained in these folders were written by Joseph North and addressed to his wife Helen.</p>
+          </scopecontent>
+          <c id="aspace_ref64" level="file">
+            <did>
+              <unittitle>Joseph North: Incoming Correspondence</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">8 folders</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1930/1959" type="inclusive">1930-1959</unitdate>
+              <container altrender="Record carton" id="aspace_9063dd29841a6c84ae90c87b51aee60d" label="Mixed Materials [31142063165792]" type="Box">5</container>
+              <container id="aspace_3bfaa819fe8e46cfdd87eaf6e16888f2" parent="aspace_9063dd29841a6c84ae90c87b51aee60d" type="Folder">6-18</container>
+            </did>
+          </c>
+          <c id="aspace_ref65" level="file">
+            <did>
+              <unittitle>Joseph North Letter to "Comrade Gurewitsch"</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_2d31de60a6f75a6c01c196945b013c99" label="Mixed Materials [31142063165792]" type="Box">5</container>
+              <container id="aspace_a094eeb24ff0dab26aa5e1a52ce1d8de" parent="aspace_2d31de60a6f75a6c01c196945b013c99" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref66" level="file">
+            <did>
+              <unittitle>Joseph North: Correspondence</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_bd5f860eb1c3f43390cdc094fd6bd472" label="Mixed Materials [31142063165792]" type="Box">5</container>
+              <container id="aspace_056f7791cd5f59926f716a0418ca4def" parent="aspace_bd5f860eb1c3f43390cdc094fd6bd472" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref67" level="file">
+            <did>
+              <unittitle>Joseph North: Incoming Correspondence - Spanish Civil War</unittitle>
+              <unitid>2006.003</unitid>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">2 folders</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1936/1938" type="inclusive">1936-1938</unitdate>
+              <container altrender="Record carton" id="aspace_653644f7c98460a2d5ae24551cfd6665" label="Mixed Materials [31142063165792]" type="Box">5</container>
+              <container id="aspace_4f25dd36d81e407c96384dc8cc634fd1" parent="aspace_653644f7c98460a2d5ae24551cfd6665" type="Folder">21-22</container>
+            </did>
+          </c>
+          <c id="aspace_ref68" level="file">
+            <did>
+              <unittitle>Joseph North: Spanish Civil War Correspondence and Clippings</unittitle>
+              <unitid>2006.003</unitid>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1936/1938" type="inclusive">1936-1938</unitdate>
+              <container altrender="Record carton" id="aspace_707b9fd5291a84f235ae85f279eaea6e" label="Mixed Materials [31142063165792]" type="Box">5</container>
+              <container id="aspace_eaf8f5548ceb24d73d9dfeb219e452ae" parent="aspace_707b9fd5291a84f235ae85f279eaea6e" type="Folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_ref69" level="file">
+            <did>
+              <unittitle>Jim Lardner to Joseph North</unittitle>
+              <unitid>2000.003</unitid>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_4df98e6e22179300259c14157cf068ec" label="Mixed Materials [31142063165792]" type="Box">5</container>
+              <container id="aspace_58c37ff7a05f5f9fb556461ddfd48d27" parent="aspace_4df98e6e22179300259c14157cf068ec" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_ref73" level="file">
+            <did>
+              <unittitle>Joseph North: Correspondence in Spain</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">2 folders</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1937/1939" type="inclusive">1937-1939</unitdate>
+              <container altrender="Record carton" id="aspace_0777c8934352f55653988c23a5e5b0a3" label="Mixed Materials [31142063165784]" type="Box">6</container>
+              <container id="aspace_61b6295c765353b7acdddce829c341f7" parent="aspace_0777c8934352f55653988c23a5e5b0a3" type="Folder">1-2</container>
+            </did>
+          </c>
+          <c id="aspace_ref74" level="file">
+            <did>
+              <unittitle>Joseph North: Incoming Correspondence: Sympathy Regarding Death of Augusta North</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+              <container altrender="Record carton" id="aspace_349097afe0f7d6ca487d433a5a3c127e" label="Mixed Materials [31142063165784]" type="Box">6</container>
+              <container id="aspace_85226c61d1804e86669d11082028670f" parent="aspace_349097afe0f7d6ca487d433a5a3c127e" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref75" level="file">
+            <did>
+              <unittitle>Joseph North and Nora North: Correspondence</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+              <container altrender="Record carton" id="aspace_5dd3825fb7537cd5dd5080b4311e44b4" label="Mixed Materials [31142063165784]" type="Box">6</container>
+              <container id="aspace_364f6d9cae8acfd68c19cb3724cec292" parent="aspace_5dd3825fb7537cd5dd5080b4311e44b4" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref76" level="file">
+            <did>
+              <unittitle>Correspondence and Materials related to Death of Joseph North</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate>
+              <container altrender="Record carton" id="aspace_25993f3d1cb983c246555d18623a257c" label="Mixed Materials [31142063165784]" type="Box">6</container>
+              <container id="aspace_2ad7c548f53e56a693215d30ed00958f" parent="aspace_25993f3d1cb983c246555d18623a257c" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref77" level="file">
+            <did>
+              <unittitle>Joseph North: Correspondence and Materials related to I.O.S. speech in Helsinki</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+              <container altrender="Record carton" id="aspace_62261cd4a25a25a40564444b874659cf" label="Mixed Materials [31142063165784]" type="Box">6</container>
+              <container id="aspace_b5c2f1c6c145bfe9a28bc2df34ee42b9" parent="aspace_62261cd4a25a25a40564444b874659cf" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref78" level="file">
+            <did>
+              <unittitle>Joseph North: Notes and Ephemera</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+              <container altrender="Record carton" id="aspace_9a757a325d2a784165e9e0d6c8b944fc" label="Mixed Materials [31142063165784]" type="Box">6</container>
+              <container id="aspace_e348b1b791f14f6bb2a226b278196b26" parent="aspace_9a757a325d2a784165e9e0d6c8b944fc" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref79" level="file">
+            <did>
+              <unittitle>Jacob Sofier: Correspondence</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate>
+              <container altrender="Record carton" id="aspace_ba898a4884d1bd307162c9bd5a0b368a" label="Mixed Materials [31142063165784]" type="Box">6</container>
+              <container id="aspace_1b03fe1900e809eb49fd9cb5fa6b6417" parent="aspace_ba898a4884d1bd307162c9bd5a0b368a" type="Folder">8</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref13" level="subseries">
+          <did>
+            <unittitle>Subseries I.C: Joseph and Helen Oken North Correspondence</unittitle>
+          </did>
+          <scopecontent id="aspace_48b2d7643a70b217e5038338230b3d24">
+            <head>Scope and Content Note</head>
+            <p>This sub-series contains correspondence addressed to both Helen and Joseph North from their friends and family. A significant amount of materials contained within this sub-series also relate to Helen and Joseph's children Daniel, Susan, and Nora North. Many of these letters are addressed to the North children, either individually or collectively, while other letters contained in this section relate to the North children but have been addressed to their mother Helen. There is also a small amount of undated notes and correspondence between Joseph and Helen North.</p>
+          </scopecontent>
+          <c id="aspace_ref80" level="file">
+            <did>
+              <unittitle>Joseph and Helen Oken North: Incoming Correspondence</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">7 folders</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1930/1959" type="inclusive">1930-1959</unitdate>
+              <container altrender="Record carton" id="aspace_9e49673a3567f3e4fe87758123c4a69c" label="Mixed Materials [31142063165784]" type="Box">6</container>
+              <container id="aspace_15528a927ced5523d3ef67ad0d5327a0" parent="aspace_9e49673a3567f3e4fe87758123c4a69c" type="Folder">9-15</container>
+            </did>
+          </c>
+          <c id="aspace_ref81" level="file">
+            <did>
+              <unittitle>Joseph and Helen Oken North: Correspondence from Anna Sokolow</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_e7154047fd809f273f62564a2b1f49bf" label="Mixed Materials [31142063165776]" type="Box">7</container>
+              <container id="aspace_3cca39a05cc2c11d2b8dcacfb5ea1b37" parent="aspace_e7154047fd809f273f62564a2b1f49bf" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref82" level="file">
+            <did>
+              <unittitle>Joseph and Helen Oken North: Correspondence from Friends</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1938/1948" type="inclusive">1938-1948</unitdate>
+              <container altrender="Record carton" id="aspace_bb7fb25ca17eb1086fb9d374842445ee" label="Mixed Materials [31142063165776]" type="Box">7</container>
+              <container id="aspace_4c8586525925554693bea0fe0c5cdf9d" parent="aspace_bb7fb25ca17eb1086fb9d374842445ee" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref84" level="file">
+            <did>
+              <unittitle>Notes between Joseph and Helen North</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_c5eab2c0480b07e323e62e574aab9ed9" label="Mixed Materials [31142063165776]" type="Box">7</container>
+              <container id="aspace_fb425ff54e58582e8091f8b58158f07c" parent="aspace_c5eab2c0480b07e323e62e574aab9ed9" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref83" level="file">
+            <did>
+              <unittitle>Assorted Correspondence between Helen and Joseph North</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1938/1950" type="inclusive">1938-1950</unitdate>
+              <container altrender="Record carton" id="aspace_9d4a4bb0bb0b7c1f44ab4541f1250856" label="Mixed Materials [31142063165776]" type="Box">7</container>
+              <container id="aspace_164d2b69c8c964712c8d1997fedaa4a9" parent="aspace_9d4a4bb0bb0b7c1f44ab4541f1250856" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref85" level="file">
+            <did>
+              <unittitle>Miscellaneous Correspondence</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1930/1949" type="inclusive">1930s and 1940s</unitdate>
+              <container altrender="Record carton" id="aspace_4c1ec9149865fdad02465377d6e16e23" label="Mixed Materials [31142063165776]" type="Box">7</container>
+              <container id="aspace_b3fc3ad4bbce8e476cebd1c9a609d4f7" parent="aspace_4c1ec9149865fdad02465377d6e16e23" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref86" level="file">
+            <did>
+              <unittitle>Joseph and Helen North: Correspondence</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1930/1959" type="inclusive">1930s-1950s</unitdate>
+              <container altrender="Record carton" id="aspace_691c7150cdcff585f7db865718c381c3" label="Mixed Materials [31142063165776]" type="Box">7</container>
+              <container id="aspace_d9219b1cf1351362d9a9ec9d6da97ce3" parent="aspace_691c7150cdcff585f7db865718c381c3" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref87" level="file">
+            <did>
+              <unittitle>Notes Helen and Joseph North</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1930/1939" type="inclusive">1930s</unitdate>
+              <container altrender="Record carton" id="aspace_5215e001c3e2e3e41667627babdb7ed0" label="Mixed Materials [31142063165776]" type="Box">7</container>
+              <container id="aspace_aa302071ed0c9a448be2e1b7ff9db7b0" parent="aspace_5215e001c3e2e3e41667627babdb7ed0" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref88" level="file">
+            <did>
+              <unittitle>North Children: Notes and Correspondence</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">5 folders</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1935/1959" type="inclusive">1935-1959</unitdate>
+              <container altrender="Record carton" id="aspace_cf9961580705bf9c929986dc97ba1631" label="Mixed Materials [31142063165776]" type="Box">7</container>
+              <container id="aspace_8b1ad600b0fd7e9afc98af62357a0d4f" parent="aspace_cf9961580705bf9c929986dc97ba1631" type="Folder">8-12</container>
+            </did>
+          </c>
+          <c id="aspace_ref89" level="file">
+            <did>
+              <unittitle>Correspondence regarding Daniel North</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1939/1952" type="inclusive">1939-1952</unitdate>
+              <container altrender="Record carton" id="aspace_09acbfe150fa59d9d4b22f53dfa22932" label="Mixed Materials [31142063165776]" type="Box">7</container>
+              <container id="aspace_f3c9c9c7530400f00701502d4bfacacb" parent="aspace_09acbfe150fa59d9d4b22f53dfa22932" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref90" level="file">
+            <did>
+              <unittitle>Daniel North letters to Helen North-Summer Roadtrip</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+              <container altrender="Record carton" id="aspace_7f171a3a0864509c15333078bd950571" label="Mixed Materials [31142063165776]" type="Box">7</container>
+              <container id="aspace_d0476e8254eb88237e82c4879f4bce60" parent="aspace_7f171a3a0864509c15333078bd950571" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref91" level="file">
+            <did>
+              <unittitle>Notes and Correspondence related to Susan North</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1936/1957" type="inclusive">1936-1957</unitdate>
+              <container altrender="Record carton" id="aspace_75ba6b61754615244266d3f09df00036" label="Mixed Materials [31142063165776]" type="Box">7</container>
+              <container id="aspace_70b4f9ebe05d983d8c7931ebb66eb4b4" parent="aspace_75ba6b61754615244266d3f09df00036" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref92" level="file">
+            <did>
+              <unittitle>Notes and Correspondence related to Nora North</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1942/1973" type="inclusive">1942-1973</unitdate>
+              <container altrender="Record carton" id="aspace_b88cb915f7b74094a9c8d25c930fefbc" label="Mixed Materials [31142063165776]" type="Box">7</container>
+              <container id="aspace_2260f88091d111b6b04ec1b82fb0036a" parent="aspace_b88cb915f7b74094a9c8d25c930fefbc" type="Folder">16</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref14" level="subseries">
+          <did>
+            <unittitle>Subseries I.D: Joseph and Helen Oken North Family Records and Memorabilia</unittitle>
+          </did>
+          <scopecontent id="aspace_26ce7bb8169520bbad39946843598dcb">
+            <head>Scope and Content Note</head>
+            <p>This sub-series contains a variety of memorabilia related to Joseph and Helen North. Materials related to Joseph and Helen include membership cards, memorabilia, pamphlets, drawings, and ephemera. Several materials contained in this section related to their children including homework, drawings, other memorabilia related to schooling and childhood. There are also several documents related to Joseph and Helen North's financial struggles including documents related to a rent dispute in 1945 and an Internal Revenue Service audit between 1948-1950. Also contained in this sub-series are a number of personal items such as account books, diplomas, date books, wallets and billfolds, notebooks, and autograph books.</p>
+          </scopecontent>
+          <c id="aspace_ref94" level="file">
+            <did>
+              <unittitle>Joseph and Helen Oken North: Assorted Notes and Drafts</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">2 folders</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1930/1949" type="inclusive">1930s and 1940s</unitdate>
+              <container altrender="Record carton" id="aspace_4e7f8268b3cda2803188c0d8286cfb23" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_e5c2addd0cba62ce7928f1f36f8b921c" parent="aspace_4e7f8268b3cda2803188c0d8286cfb23" type="Folder">1-2</container>
+            </did>
+          </c>
+          <c id="aspace_ref95" level="file">
+            <did>
+              <unittitle>Drawings and Sketches</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_d6ac15dd3040c3c5301692f152638931" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_9534c8d84d651f8b42ad261941cf319a" parent="aspace_d6ac15dd3040c3c5301692f152638931" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref96" level="file">
+            <did>
+              <unittitle>Joseph and Helen Oken North: Assorted Clippings and Ephemera</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_998e49314ec2dbcfba3d81df0fcc81e4" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_6031e0067f9ef432de1fa25760d40dae" parent="aspace_998e49314ec2dbcfba3d81df0fcc81e4" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref97" level="file">
+            <did>
+              <unittitle>Joseph and Helen Oken North: IRS Audit</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1948/1950" type="inclusive">1948-1950</unitdate>
+              <container altrender="Record carton" id="aspace_5a0b0bbae26a7dd68aee1e607e3808ff" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_f5cee88bc76394c70a16ac5d77eed134" parent="aspace_5a0b0bbae26a7dd68aee1e607e3808ff" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_39bbefefc7fc8e7d4f3816990e5cf316" level="file">
+            <did>
+              <unittitle>Joseph North:  <emph render="italic">I Come From America</emph> (unpublished manuscript)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_8c5a3580149fd0c98b7356cf2fa6efbb" label="Mixed Materials [31142063165693]" type="Box">15</container>
+              <container id="aspace_169aebdad6151c68fe02ad6f322bae7c" parent="aspace_8c5a3580149fd0c98b7356cf2fa6efbb" type="Folder">1-4</container>
+            </did>
+          </c>
+          <c id="aspace_0069586936e84a35c6af2fb2552e071b" level="file">
+            <did>
+              <unittitle>Joseph North: Obituaries and Death Announcements</unittitle>
+              <unitdate datechar="creation" normal="1976/1976">1976</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_ec9448a2e32ade3d464a5354bd960463" label="Mixed Materials [31142063165693]" type="Box">15</container>
+              <container id="aspace_1f519fa48ac17d02020a1e694a7842be" parent="aspace_ec9448a2e32ade3d464a5354bd960463" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref98" level="file">
+            <did>
+              <unittitle>Joseph North Rent Dispute</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1945/1945" type="inclusive">Feb. 1945</unitdate>
+              <container altrender="Record carton" id="aspace_a051db41067a3ccefa40aee996b3b3cb" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_b4e519496453171dd81fd096d7ffcccd" parent="aspace_a051db41067a3ccefa40aee996b3b3cb" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_e55bea361b88f36f2a80c269abde1537" level="file">
+            <did>
+              <unittitle>Joseph North: Spanish Civil War Reports and National Defense Press Releases</unittitle>
+              <unitdate datechar="creation" normal="1937/1938" type="inclusive">1937-1938</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_5630d25b16c83c002748c59193b1082f" label="Mixed Materials [31142063165693]" type="Box">15</container>
+              <container id="aspace_82b4d7e6ab6d13eb28b27a36ab7eaab5" parent="aspace_5630d25b16c83c002748c59193b1082f" type="Folder">6-7</container>
+            </did>
+          </c>
+          <c id="aspace_ref99" level="file">
+            <did>
+              <unittitle>Paris Memorabilia</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
+              <container altrender="Record carton" id="aspace_7c6112fcb91abd41baf2b57f75e3aa93" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_395b9831b463dadb1852dc43fef44193" parent="aspace_7c6112fcb91abd41baf2b57f75e3aa93" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref100" level="file">
+            <did>
+              <unittitle>Children's Drawings and Homework</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1948/1951" type="inclusive">1948-1951</unitdate>
+              <container altrender="Record carton" id="aspace_20d8c16864d2e32e86aebd120c867169" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_fadc4ae0e0837cc37d9fdb357d682f12" parent="aspace_20d8c16864d2e32e86aebd120c867169" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref101" level="file">
+            <did>
+              <unittitle>Daniel North Homework</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_69df29b370291d6b2bee4cc4413cbac7" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_539ba74c26dbfeb2bd410d34da7ca197" parent="aspace_69df29b370291d6b2bee4cc4413cbac7" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref190" level="file">
+            <did>
+              <unittitle>Daniel North Travel Diary</unittitle>
+              <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+              <container altrender="Record carton" id="aspace_f6b0d78637bf0eb1d37e5ba2acd8d3b6" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_f6d0f51615ad82b188ddb4dc502f15d7" parent="aspace_f6b0d78637bf0eb1d37e5ba2acd8d3b6" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref102" level="file">
+            <did>
+              <unittitle>Susan North Diploma and Graduation Programs</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1953/1957" type="inclusive">1953, 1957</unitdate>
+              <container altrender="Record carton" id="aspace_16c037e36c20a3f9a4ea2d1ca309ad21" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_72396e7d85430c6a53e273ff41e0c303" parent="aspace_16c037e36c20a3f9a4ea2d1ca309ad21" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref103" level="file">
+            <did>
+              <unittitle>Nora North Notes and Ephemera</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_7ccc57e48b52e5c4bc3fbf7e5eb16bb9" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_71d87588fff9ed031a93ca6172943bc8" parent="aspace_7ccc57e48b52e5c4bc3fbf7e5eb16bb9" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref104" level="file">
+            <did>
+              <unittitle>Materials Related to Helen Oken North Memorial</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1912/1990" type="inclusive">1912-1990</unitdate>
+              <container altrender="Record carton" id="aspace_1981f6caea4049f507e032c075987d35" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_39e4caeec0fd347e594667491c11c031" parent="aspace_1981f6caea4049f507e032c075987d35" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref105" level="file">
+            <did>
+              <unittitle>Anna Sokolow Posters and Programs</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_a5e93a73e29048ea52f2bc8486197e1e" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_6a32e5bf2705059954e25b6159ef81f9" parent="aspace_a5e93a73e29048ea52f2bc8486197e1e" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref106" level="file">
+            <did>
+              <unittitle>"The Young Pioneers of America - Course for Pioneers of Leadership" </unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1938/1938" type="inclusive">Jul. 23, 1938</unitdate>
+              <container altrender="Record carton" id="aspace_3164e60bb8eb9f3292fcf0db5d39dfbf" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_1969d6b665556cdbcdaa276586fd4e8c" parent="aspace_3164e60bb8eb9f3292fcf0db5d39dfbf" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref107" level="file">
+            <did>
+              <unittitle>Pamphlets: First Aid and Child Care</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1932/1938" type="inclusive">1932-1938</unitdate>
+              <container altrender="Record carton" id="aspace_bf34a168d85064ea428c19c68119e85a" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_2f7460b428c5bcb46d5c29286d979b9b" parent="aspace_bf34a168d85064ea428c19c68119e85a" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref108" level="file">
+            <did>
+              <unittitle>Pamphlets: Labor Organizations</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1930/1940" type="inclusive">1930-1940</unitdate>
+              <container altrender="Record carton" id="aspace_283694e694fea1ee47edf53afae7fb33" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_0e12cefa1794d8d280c17f14218b658a" parent="aspace_283694e694fea1ee47edf53afae7fb33" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref109" level="file">
+            <did>
+              <unittitle>Joseph and Helen Oken North Certificates</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1928/1944" type="inclusive">1928, 1943-1944</unitdate>
+              <container altrender="Record carton" id="aspace_0b352ec21ad70afe5546d6f5c2d24351" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_dc191d6fbdc74c08775d723da59774b3" parent="aspace_0b352ec21ad70afe5546d6f5c2d24351" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref111" level="file">
+            <did>
+              <unittitle>Joseph and Helen Oken North Wallets and Passports</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_2c9a679e9ae7a7e9156daf8a8793e591" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_79b27462b3a39ee7b40532888a4413c9" parent="aspace_2c9a679e9ae7a7e9156daf8a8793e591" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref191" level="file">
+            <did>
+              <unittitle>Helen Oken North Account Book</unittitle>
+              <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+              <container altrender="Record carton" id="aspace_77365496c4e4cbfca617cb8e03be1547" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_f80e5b43403616a9225c8cc688467d2a" parent="aspace_77365496c4e4cbfca617cb8e03be1547" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref115" level="file">
+            <did>
+              <unittitle>Helen Oken North Autograph Book</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1925/1925" type="inclusive">1925</unitdate>
+              <container altrender="Record carton" id="aspace_43e778f354969010dd3e73c20259d737" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_85fd52fcbd2ad635031101737f5a4bd0" parent="aspace_43e778f354969010dd3e73c20259d737" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref192" level="file">
+            <did>
+              <unittitle>Helen Oken North Communist Party Membership Book</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_04f20aab93d44d43248bd791537ad74b" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_9c5b7a8ba8ba2f4ca4c14acab83b5956" parent="aspace_04f20aab93d44d43248bd791537ad74b" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref114" level="file">
+            <did>
+              <unittitle>Helen Oken North Datebook</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+              <container altrender="Record carton" id="aspace_314e4ec6781a496502c6d6b7df1785b4" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_9eddc3806a0773497dd64e48ef38856a" parent="aspace_314e4ec6781a496502c6d6b7df1785b4" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref172" level="file">
+            <did>
+              <unittitle>Helen Oken North Diplomas</unittitle>
+              <unitdate datechar="creation" normal="1925/1928" type="inclusive">1925, 1928</unitdate>
+              <container altrender="Flat OS Box 17" id="aspace_6422b8e79fc7248c98bdf76d96dcefac" label="Mixed Materials [31142062759256]" type="Box">Tamiment Shared MSOS006</container>
+            </did>
+          </c>
+          <c id="aspace_ref112" level="file">
+            <did>
+              <unittitle>Helen Oken North Engagement Calendar</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_d136152112383f3e355c8bba3de3b308" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_c72da7d82ab43cedda40ed1906814f64" parent="aspace_d136152112383f3e355c8bba3de3b308" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_ref113" level="file">
+            <did>
+              <unittitle>Helen Oken North Notebook and Telephone Numbers</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_4f224678360e00fce9f0852489ed24a5" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_31ea801e75be411806f927f0b1e22be5" parent="aspace_4f224678360e00fce9f0852489ed24a5" type="Folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_ref110" level="file">
+            <did>
+              <unittitle>Helen Oken North Working Cards and Membership Booklets</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_b992e8c75d2673e58e33a558460f6071" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_98a9b44ad051fa20c57b336623351cd5" parent="aspace_b992e8c75d2673e58e33a558460f6071" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref116" level="file">
+            <did>
+              <unittitle>Nora North: Desk Diary</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+              <container altrender="Record carton" id="aspace_b9923387f098795e6a80907bd89def89" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_73fbf4da819a2d15c586cf0716888bcf" parent="aspace_b9923387f098795e6a80907bd89def89" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_ref117" level="file">
+            <did>
+              <unittitle>Spanish Song Books</unittitle>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 folder</extent>
+              </physdesc>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_046aa088b113025c9954b7987ca4be26" label="Mixed Materials [31142063165768]" type="Box">8</container>
+              <container id="aspace_faf71b229649ecfd61d64012f3e3021d" parent="aspace_046aa088b113025c9954b7987ca4be26" type="Folder">28</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref15" level="series">
+        <did>
+          <unittitle>Series II: Morris and Jennie Oken Papers</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 box</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1920/1953" type="inclusive">1920-1953</unitdate>
+          <langmaterial id="aspace_bd3e0b9da7f15a5083259639127af5e9">Some materials in this series are in Hebrew.</langmaterial>
+        </did>
+        <scopecontent id="aspace_0204a749b3e4dc23dc6989e52653abe7">
+          <head>Scope and Content Note</head>
+          <p>This series contains materials related Helen Oken North's parents Morris and Jennie Oken. This series consists of correspondence written to the Okens from friends and family as well as several materials related to union involvement.</p>
+        </scopecontent>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Morris and Jennie Oken: Incoming Correspondence</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">4 folders</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1920/1943" type="inclusive">1920-1943</unitdate>
+            <container altrender="Record carton" id="aspace_37e1adfbce0285ce6a7b4131e5f8c6c2" label="Mixed Materials [31142063165768]" type="Box">8</container>
+            <container id="aspace_7ee145e8c2720601b9f55f41cde9c3b1" parent="aspace_37e1adfbce0285ce6a7b4131e5f8c6c2" type="Folder">29-32</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Morris and Jennie Oken: Incoming Correspondence</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">6 folders</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1944/1953" type="inclusive">1944-1953</unitdate>
+            <container altrender="Record carton" id="aspace_0b4f56b416e2b14de0b5fc2e7ca0411e" label="Mixed Materials [31142063165750]" type="Box">9</container>
+            <container id="aspace_e225939409ea8edb264e78f019d2bb83" parent="aspace_0b4f56b416e2b14de0b5fc2e7ca0411e" type="Folder">1-6</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Morris Oken: Correspondence Regarding Injury at New York Naval Yard</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1945/1946" type="inclusive">1945-1946</unitdate>
+            <container altrender="Record carton" id="aspace_bd2d401afefae92cb99b4fa81a9c9aaa" label="Mixed Materials [31142063165750]" type="Box">9</container>
+            <container id="aspace_9fd5ec9737b71aaceb52b054323a7c74" parent="aspace_bd2d401afefae92cb99b4fa81a9c9aaa" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Mary Oken Wilson Correspondence</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1944/1953" type="inclusive">1944-1953</unitdate>
+            <container altrender="Record carton" id="aspace_197cc5d8b37200615309d2d5f2a3ca1c" label="Mixed Materials [31142063165750]" type="Box">9</container>
+            <container id="aspace_59a7fcec9806144a73b63d5b0cc8d473" parent="aspace_197cc5d8b37200615309d2d5f2a3ca1c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Morris Oken: International Workers Order Flyers and Pamphlets</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1946/1952" type="inclusive">1946-1952</unitdate>
+            <container altrender="Record carton" id="aspace_70b1b1296cd6b5c57ca00bb54c29b32d" label="Mixed Materials [31142063165750]" type="Box">9</container>
+            <container id="aspace_133fec18c06820bb87107e75af97a9dd" parent="aspace_70b1b1296cd6b5c57ca00bb54c29b32d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>Morris and Jennie Oken: Notes and Clippings</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s</unitdate>
+            <container altrender="Record carton" id="aspace_de45a47eb3ec4a4a449c12c57626075c" label="Mixed Materials [31142063165750]" type="Box">9</container>
+            <container id="aspace_0d15a1dfaecb4e2e9d330041c4f0d452" parent="aspace_de45a47eb3ec4a4a449c12c57626075c" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>Morris Oken: Labor Organizations</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">2 folders</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1920/1959" type="inclusive">1920s-1950s</unitdate>
+            <container altrender="Record carton" id="aspace_45e7c8de45ef6ea2e6ae1339944cbc1c" label="Mixed Materials [31142063165750]" type="Box">9</container>
+            <container id="aspace_3913df6e908de73495f5c3b96f362c07" parent="aspace_45e7c8de45ef6ea2e6ae1339944cbc1c" type="Folder">11-12</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>Morris and Jennie Oken: Labor Organizations</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1951/1953" type="inclusive">1951-1953</unitdate>
+            <container altrender="Record carton" id="aspace_1e650fb159b5e8f1b5241820b870fa64" label="Mixed Materials [31142063165750]" type="Box">9</container>
+            <container id="aspace_6059f1090588110c267619070d6ee028" parent="aspace_1e650fb159b5e8f1b5241820b870fa64" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>Morris Oken: Membership Cards and Membership Books</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1913/1946" type="inclusive">1913-1946</unitdate>
+            <container altrender="Record carton" id="aspace_0290e0b2b1da2e9876caea0758cc5965" label="Mixed Materials [31142063165750]" type="Box">9</container>
+            <container id="aspace_e94d933c0655a5e293308860b4217897" parent="aspace_0290e0b2b1da2e9876caea0758cc5965" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>Morris and Jennie Oken: Notebooks and Billfolds</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_ea900f8a377d213a88a08b204e10e218" label="Mixed Materials [31142063165750]" type="Box">9</container>
+            <container id="aspace_24ca76761898eacb0fa71ed5e5e4826d" parent="aspace_ea900f8a377d213a88a08b204e10e218" type="Folder">15</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref16" level="series">
+        <did>
+          <unittitle>Series III: Lydia Oken Mates Papers </unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 box</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1921/1975" type="inclusive">1921-1975</unitdate>
+        </did>
+        <scopecontent id="aspace_0737330f59d8829395e26fe076e34bf5">
+          <head>Scope and Content Note</head>
+          <p>This series contains the papers of Helen Oken North's sister Lydia Oken Mates and her husband Dave Mates. This series is comprised primarily of correspondence written to Lydia by her sisters and parents. Some correspondence is also addressed to Dave Mates. Also included in this series are union membership cards; materials related to Lydia's education including diplomas, a graduation program, and an autograph book; and other assorted ephemera.</p>
+        </scopecontent>
+        <c id="aspace_ref130" level="file">
+          <did>
+            <unittitle>Lydia Oken Mates: Incoming Correspondence</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">13 folders</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1921/1965" type="inclusive">1921-1965</unitdate>
+            <container altrender="Record carton" id="aspace_6fb70802f065c286841336e9ab65e63a" label="Mixed Materials [31142063165750]" type="Box">9</container>
+            <container id="aspace_d9dca4478637a298be0d9bd56bbff264" parent="aspace_6fb70802f065c286841336e9ab65e63a" type="Folder">16-26</container>
+            <container altrender="Record carton" id="aspace_f1559633219f12f8cb63a05719bdbd64" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_0c16fd286222b84274450982bee3e987" parent="aspace_f1559633219f12f8cb63a05719bdbd64" type="Folder">1-2</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="file">
+          <did>
+            <unittitle>Dave and Lydia Oken Mates: Incoming Correspondence</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">5 folders</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1959/1974" type="inclusive">1959-1974</unitdate>
+            <container altrender="Record carton" id="aspace_ace0ff5fb93da250ccddb2db6e843cdc" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_57339a76b81059c9ead3507a86316d08" parent="aspace_ace0ff5fb93da250ccddb2db6e843cdc" type="Folder">3-7</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>Lydia Oken Mates: collection of Letters of Daniel North to his mother Helen North</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">Aug. 1948-Dec.1948</unitdate>
+            <container altrender="Record carton" id="aspace_9c24e5208307cb4a7795629c81c4b2ca" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_1766ef6ff788d8e10c753758ed0f5af3" parent="aspace_9c24e5208307cb4a7795629c81c4b2ca" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>Lydia Oken Mates: Letters and Clippings related to the death of Alice Herz</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">Mar. 1965-May 1965</unitdate>
+            <container altrender="Record carton" id="aspace_e71ae8cba48b1b3da204024baf69e5e1" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_efe75437468f450b530184fd64f4b553" parent="aspace_e71ae8cba48b1b3da204024baf69e5e1" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>Dave and Lydia Oken Mates: Materials related to Communism in China and Vietnam</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container altrender="Record carton" id="aspace_0b1bac4f549b617d31d6d79974ba57e4" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_a78a4f260b20ffbe8767397037552b9a" parent="aspace_0b1bac4f549b617d31d6d79974ba57e4" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>Dave Mates: Sales Reports</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Record carton" id="aspace_0926e59ca31c586c9975deadc2735d47" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_7e6ab025be4b7551ce03ec2627f2847c" parent="aspace_0926e59ca31c586c9975deadc2735d47" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref171" level="file">
+          <did>
+            <unittitle>Lydia Oken Mates: Diplomas and Certificates</unittitle>
+            <unitdate datechar="creation" normal="1923/1927" type="inclusive">1923-1927</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_ef94e804b617074a2e964e415955bd86" label="Mixed Materials [31142062759256]" type="Box">Tamiment Shared MSOS006</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>Walton High School Graduation Program</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1927/1927" type="inclusive">Jan. 26, 1927</unitdate>
+            <container altrender="Record carton" id="aspace_a4d487b4de5f1e9e5d7a19449f9dba55" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_22c33f1539178a55135325c848c9c7a9" parent="aspace_a4d487b4de5f1e9e5d7a19449f9dba55" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>Lydia Oken Mates: English Assignment "The Modern School of Stelton"</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1927/1927" type="inclusive">May 3, 1927</unitdate>
+            <container altrender="Record carton" id="aspace_569217ac71204fb2a0109c03442ad76c" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_05fd76a5b28323f64fed88cd7a7e04ca" parent="aspace_569217ac71204fb2a0109c03442ad76c" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>Lydia Oken Mates: Labor Union Membership Cards</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate>
+            <container altrender="Record carton" id="aspace_0e674bc3b0b49803dd3855f149779b86" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_194a169e50aa35008f159005feb232df" parent="aspace_0e674bc3b0b49803dd3855f149779b86" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>Lydia Oken Mates: Autograph Book</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1924/1927" type="inclusive">1924-1927</unitdate>
+            <container altrender="Record carton" id="aspace_00cab8da54ec5b1bd2b1e82bc171c62b" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_7ff6cf8a46f94d0210a90effc3ed6ea3" parent="aspace_00cab8da54ec5b1bd2b1e82bc171c62b" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="file">
+          <did>
+            <unittitle>Dave and Lydia Oken Mates: "Museum of First Congress-CPC" Postcards</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_3be36ab9f659d0b7f46c510ec97a544a" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_3c084442d0fdd60402b8bd1ac93a3351" parent="aspace_3be36ab9f659d0b7f46c510ec97a544a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>Memorial Materials: Harry and Esther North, Abe Soifer</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="2002/2003" type="inclusive">2002-2003</unitdate>
+            <container altrender="Record carton" id="aspace_726601f9e08cb5a24e02d8561977539c" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_786a34483152de092dc29cf0f83ffd62" parent="aspace_726601f9e08cb5a24e02d8561977539c" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="file">
+          <did>
+            <unittitle>Lydia Oken Mates: Sketches</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_3c50a867ad8b54eacb84d9c3326b9a0a" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_f4f32ebb13ad120f94250b5f7cc2a0f8" parent="aspace_3c50a867ad8b54eacb84d9c3326b9a0a" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref143" level="file">
+          <did>
+            <unittitle>Lydia Oken Mates: Brochures and Clippings related to art</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_5d4115d672027ad5dfe52126b2047cbe" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_5c180c1e524f4595e7d1140b000d5d5d" parent="aspace_5d4115d672027ad5dfe52126b2047cbe" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="file">
+          <did>
+            <unittitle>Dave Mates Wallet</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_89a1014b3a00251e9fb716a65fe74fdd" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_60b37ab54017e23d79e798514e495bd2" parent="aspace_89a1014b3a00251e9fb716a65fe74fdd" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref145" level="file">
+          <did>
+            <unittitle><emph render="italic">Cocolo</emph> by Bettina Elrich </unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">Jan. 1, 1945</unitdate>
+            <container altrender="Record carton" id="aspace_f9eef662915fe45a1d4012041babcb3b" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_8aaafad27cabb8c8dacfb19456e6851d" parent="aspace_f9eef662915fe45a1d4012041babcb3b" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref146" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">News of Peace</emph>
+            </unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1951/1953" type="inclusive">Oct. 1951-Mar. 1953</unitdate>
+            <container altrender="Record carton" id="aspace_735884cc6226e96f05fd72d34018887d" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_f375c9b575147061594956abe4711258" parent="aspace_735884cc6226e96f05fd72d34018887d" type="Folder">22</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref17" level="series">
+        <did>
+          <unittitle>Series IV: Photographs</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1935/1972" type="inclusive">1935-1972</unitdate>
+        </did>
+        <scopecontent id="aspace_c274e299d96b5f1a50c023b0ec5e7e16">
+          <head>Scope and Content Note</head>
+          <p>This series consists primarily photographs and negatives related to Joseph and Helen Oken North and Dave and Lydia Mates. Images related to Joseph and Helen North consist of prints and negatives that date from 1935-1937 and depict their son Daniel as a baby and other events with friends and family from those years. Images related to Dave and Lydia Mates date from the 1950s to the 1970s and document their various travels, including trips to China and Russia.</p>
+        </scopecontent>
+        <c id="aspace_ref159" level="file">
+          <did>
+            <unittitle>Spanish Civil War Scrapbook</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 box</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1937/1939" type="inclusive">1937-1939</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5 - thin" id="aspace_76070560c727e9d1c87fba69df503512" label="Mixed Materials [31142063165735]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="file">
+          <did>
+            <unittitle>Joseph and Helen North Family Photographs</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1935/1937" type="inclusive">1935-1937</unitdate>
+            <container altrender="Record carton" id="aspace_e2fe6de4b0a24562982aea8b52ee2330" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_3ff7cb636f6800a8001234bbc3804c16" parent="aspace_e2fe6de4b0a24562982aea8b52ee2330" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="file">
+          <did>
+            <unittitle>Helen North: X-Ray</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+            <container altrender="Record carton" id="aspace_20753ef4d36ab130f847e57f4ce1031e" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_10fb41d8c39765fe7748879cb017a0a3" parent="aspace_20753ef4d36ab130f847e57f4ce1031e" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="file">
+          <did>
+            <unittitle>Photograph: Nora North</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">Jan. 1951</unitdate>
+            <container altrender="Record carton" id="aspace_0b00292530d99c724212624ca6c3759e" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_9455f3109d3cf1d688af1dff60c2ded3" parent="aspace_0b00292530d99c724212624ca6c3759e" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="file">
+          <did>
+            <unittitle>Photograph of Helen and Lydia Oken</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_c8e7530366a1e3b25a609aceca0a11bc" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_e4f69ee58af1a63b8ff0069b3e476c18" parent="aspace_c8e7530366a1e3b25a609aceca0a11bc" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref151" level="file">
+          <did>
+            <unittitle>Joseph and Helen North: Unidentified
+</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_ed41fb368728f6916b250d4d528e78e8" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_0cea1d06c11c6b7ec2659adb239e8b6c" parent="aspace_ed41fb368728f6916b250d4d528e78e8" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="file">
+          <did>
+            <unittitle>Morris and Jennie Oken: Photograph "Matutinal Ablutions"</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_f1b05e1e44e1bd9f528003ef8cad0a21" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_b3008db1c9a0b80d7336bf97f30853d4" parent="aspace_f1b05e1e44e1bd9f528003ef8cad0a21" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="file">
+          <did>
+            <unittitle>Lydia Oken Mates: "Snow"</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_d56d5a5254306ee201978912b0af861f" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_87fc28659215843e4e488b271ff18579" parent="aspace_d56d5a5254306ee201978912b0af861f" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref155" level="file">
+          <did>
+            <unittitle>Lydia and Dave Mates Photographs- [China]</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s</unitdate>
+            <container altrender="Record carton" id="aspace_77ee6130a902fb36b580f9046a52aa35" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_24300cf3c259f00cc314e74d2768073d" parent="aspace_77ee6130a902fb36b580f9046a52aa35" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="file">
+          <did>
+            <unittitle>Lydia and Dave Mates Photographs</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">4 folders</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">Sep. 1972, Nov. 1972, undated</unitdate>
+            <container altrender="Record carton" id="aspace_11ec7eda17a0ab9b8b6fbe0db056dc28" label="Mixed Materials [31142063165743]" type="Box">10</container>
+            <container id="aspace_d595f0da8856feebcd1164bb9e9c26e8" parent="aspace_11ec7eda17a0ab9b8b6fbe0db056dc28" type="Folder">31-34</container>
+          </did>
+        </c>
+        <c id="aspace_ref169" level="file">
+          <did>
+            <unittitle>Lydia and Dave Mates Unidentified Negatives</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Card Box 5.75" id="aspace_51a39789d35d254eefbb9e492b259e70" label="Mixed Materials [31142063165701]" type="Box">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref165" level="file">
+          <did>
+            <unittitle>Lydia and Dave Mates Slides: Berlin </unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Card Box 5.75" id="aspace_2928c747706bf7f358ba98472b61fbc6" label="Mixed Materials [31142063165701]" type="Box">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref166" level="file">
+          <did>
+            <unittitle>Lydia and Dave Mates Slides: Kremlin</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Card Box 5.75" id="aspace_67843818ef442bf7f41128b6cda82f5c" label="Mixed Materials [31142063165701]" type="Box">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref167" level="file">
+          <did>
+            <unittitle>Lydia and Dave Mates Slides: Leningrad</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Card Box 5.75" id="aspace_b45796bb4fd21696663e56e320663333" label="Mixed Materials [31142063165701]" type="Box">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref168" level="file">
+          <did>
+            <unittitle>Lydia and Dave Mates Slides: Moscow </unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 folder</extent>
+            </physdesc>
+            <container altrender="Card Box 5.75" id="aspace_1e41cf67eb39c3069bfe0157ee5dd22d" label="Mixed Materials [31142063165701]" type="Box">14</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref18" level="series">
+        <did>
+          <unittitle>Series V: Artifacts</unittitle>
+          <unitdate datechar="creation">circa 1930s</unitdate>
+        </did>
+        <scopecontent id="aspace_6fee5eea718a69398ca72527bdfecc42">
+          <head>Scope and Content Note</head>
+          <p>This series contains artifacts related the Spanish Civil War including a hat taken off of a Moorish soldier who died in the war, a record of Flamenco music, and Spanish castanets. The series also contains an Odessa sailor's hat and several assorted pins and metals related to various Communist and peace organizations.</p>
+        </scopecontent>
+        <c id="aspace_ref160" level="file">
+          <did>
+            <unittitle>Hat: From a Tsarist-era Russian Naval Uniform </unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5 - thin" id="aspace_df9cabc740675e33d656b96b4594f0f0" label="Mixed Materials [31142063165727]" type="Box">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref161" level="file">
+          <did>
+            <unittitle>Hat: From a Moroccan Soldier during Spanish Civil War</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Card Box - 6.5" id="aspace_7dccd5d855728422fad5cb577d4cc0de" label="Mixed Materials [31142063165719]" type="Box">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref164" level="file">
+          <did>
+            <unittitle>Record of Flamenco Music: <emph render="italic">Cante Jondo</emph> by Orestes Menendez with Carlos Montoya on Guitar</unittitle>
+            <container altrender="Flat Box 11.75 x 15.5 - thin" id="aspace_0561bb6fe5e98518e11e1ae03161c270" label="Mixed Materials [31142063165727]" type="Box">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="file">
+          <did>
+            <unittitle>Spanish Castanets</unittitle>
+            <container altrender="Card Box 5.75" id="aspace_01e34568ce43b7f09278e76d9ad73b2c" label="Mixed Materials [31142063165701]" type="Box">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref163" level="file">
+          <did>
+            <unittitle>Pins and Medallions Related to Communist and Peace Organizations</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">5 items</extent>
+            </physdesc>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Card Box 5.75" id="aspace_0ca6beaed040643fc5dae5c18ee300d9" label="Mixed Materials [31142063165701]" type="Box">14</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

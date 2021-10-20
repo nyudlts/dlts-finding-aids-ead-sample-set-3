@@ -1,0 +1,976 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_674">tam_674</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Debevoise &amp; Plimpton Records on Alger Hiss <num>TAM.674</num></titleproper>
+        <author>Heather Mulliner</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>1/23/2017</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 03:46:29 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Debevoise &amp; Plimpton Records on Alger Hiss</unittitle>
+      <origination label="Creator">
+        <corpname role="dnr" rules="dacs" source="naf">Debevoise &amp; Plimpton</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="naf">Hiss, Tony</persname>
+      </origination>
+      <unitid>TAM.674</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">8.5 Linear Feet</extent>
+        <extent altrender="carrier">in 8 record cartons and 1 manuscript box</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1938/1980" type="inclusive">1938-1980</unitdate>
+      <abstract id="aspace_e302f7603163d6c5c861acedb3b04640">The Debevoise &amp; Plimpton Records on Alger Hiss (dated 1938-1980) contain files from the legal firm's representation of Alger Hiss in his 1949 perjury trials and his 1979 <emph render="italic">coram nobis</emph> petition to overturn his conviction. Alger Hiss was a State Department official, who in 1948 was accused by ex-communist Whittaker Chambers of transmitting government secrets to the Soviet Union. The collection consists of materials from Hiss's 1949 trials and includes attorney correspondence, interviews with character witnesses, trial transcripts, notes, copies of evidence, and legal documents filed during the trials. Materials related to the <emph render="italic">coram nobis</emph> petition include drafts, attorney notes, and research on related trials.</abstract>
+      <langmaterial id="aspace_8777cfa6c38164606e13ed35a62fe933">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_206164bebdd592beb965fc5889ce22fe">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_5ae8c33aaf2745144c438c2438bdeee4">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Debevoise &amp; Plimpton LLP and Tony Hiss in 2014. The accession number associated with this collection is 2015.044.</p>
+    </acqinfo>
+    <appraisal id="aspace_a7a568bfe601a4ba0644d21ecae85bfb">
+      <head>Appraisal</head>
+      <p>Duplicate copies of bound trial transcripts have been removed from the collection.</p>
+    </appraisal>
+    <arrangement id="aspace_2bcac95e9466a57e49715c7fcb57d695">
+      <head>Arrangement</head>
+      <p>This collection has been divided into two series by legal case, Series I: <emph render="italic">Coram Nobis</emph> 99900-000 and Series II: Hiss Personal 2395. Series II: Hiss Personal 2395 has been further divided into sub-series based on document type and topic. Files in each sub-series are grouped topically to reflect original groupings established by the creators. Correspondence in sub-series II.B and bound trial transcripts in sub-series II.E are arranged chronologically. The series and sub-series arrangement of the records is as follows:</p>
+      <p>Series I: <emph render="italic">Coram Nobis</emph> 99900-000, Series II: Hiss Personal 2395, Sub-series II.A: Trial Documents and Notes, Sub-series II.B: Correspondence, Sub-series II.C: Interviews, Sub-series II.D: Government Documents, and Sub-series II.E: Trial Transcripts.</p>
+    </arrangement>
+    <bioghist id="aspace_dd1fd50efcc4d2bf41ea84d7ef70054d">
+      <head>Historical Note</head>
+      <p>Alger Hiss (1904-1996) was a State Department official who served in the administration of Franklin Delano Roosevelt, and was involved in the establishment of the United Nations. In 1948 Hiss was named as a communist by Whittaker Chambers in a hearing before the House Un-American Activities Committee (HUAC). Hiss was called before HUAC to testify and later filed a defamation lawsuit against Chambers. During the trial Chambers produced evidence that Hiss and his wife Priscilla had been involved in espionage, and had transmitted government documents to Chambers in 1938. In December 1948, Hiss testified before a grand jury in the Southern District of New York that neither he nor his wife had given government documents to Chambers and that he had not spoken to Chambers since 1937. Following his statements, the grand jury indicted Hiss on charges of perjury in <emph render="italic">United States vs. Alger Hiss</emph>. Alger Hiss was represented by the New York City-based law firm Debevoise &amp; Plimpton. His first perjury trial began in May 1949 and ended in a mistrial. The second trial began in November 1949 and ended in a conviction. Hiss served three years in federal prison. After his release in 1953, Hiss maintained his innocence and continually fought to overturn his conviction. In 1975 Hiss, with William Ruben, filed a Freedom of Information Act (FOIA) lawsuit to gain access to FBI documents related to the trials. Documents they obtained through the FOIA lawsuit formed the basis of a petition for a writ of <emph render="italic">coram nobis</emph> that Hiss and his attorneys at Debevoise &amp; Plimpton filed in 1978. The petition sought to overturn Hiss's conviction claiming that the FBI documents withheld evidence from the defense, but it was rejected in 1982.</p>
+    </bioghist>
+    <prefercite id="aspace_c9d4523f568369329a32e8e16357e642">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Debevoise &amp; Plimpton Records on Alger Hiss; TAM 674; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_960158f4af2df4c6e26d9ab75c07ea63">
+      <head>Processing Information</head>
+      <p>The collection was arranged into series based on the original order of the records as maintained by Debevoise &amp; Plimpton staff.  Materials in this collection were originally housed in large legal accordion files identifying case number, topic, and/or document type. Materials have been removed from files but have been maintained in the groupings established by the creators.  Many of the original folder titles have been retained, while others have been updated by the archivist for uniformity. Duplicate copies of bound trial transcripts were removed from the collection.</p>
+    </processinfo>
+    <scopecontent id="aspace_ba6b351b9bac713a603a6133a07b4793">
+      <head>Scope and Contents</head>
+      <p>The Debevoise &amp; Plimpton Records on Alger Hiss (dated 1938-1980) contain materials from the Debevoise &amp; Plimpton legal firm's representation of Alger Hiss in his 1949 perjury trials and his 1978 petition for a writ of <emph render="italic">coram nobis</emph>. Records related to Hiss's 1949 trials include documents such as memoranda, motions, briefs, and testimony, which are accompanied by attorney notes and analysis. They also include attorney correspondence (dated 1948-1979), character witness interviews, copies of government documents, and newspaper clippings. Documents related to his 1979 <emph render="italic">coram nobis</emph> petition comprise drafts of the petition, notes and files of attorney Robert von Mehren, scholarly articles, and research files. The collection documents not only Hiss's trials and the strategies employed in his defense, but also anti-communist sentiment and anxiety about political dissent during the Cold War.</p>
+    </scopecontent>
+    <userestrict id="aspace_83eb65c586036c38eeeba31732460576">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Debevoise &amp; Plimpton LLP, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Espionage, American -- History -- 20th century.</subject>
+      <subject source="lcsh">Communism -- United States -- 20th century</subject>
+      <subject source="lcsh">Espionage, Soviet -- United States.</subject>
+      <subject source="lcsh">Trials (Espionage) -- United States.</subject>
+      <genreform source="aat">Legal files.</genreform>
+      <subject source="lcsh">Communist trials -- United States.</subject>
+      <geogname source="lcsh">United States -- Politics and government -- 1945-1953.</geogname>
+      <persname source="naf">Hiss, Alger</persname>
+      <corpname authfilenumber="(lccn)n79036120" source="naf">Communist Party of the United States of America</corpname>
+      <persname source="naf">Chambers, Whittaker</persname>
+      <corpname source="naf">United States. Congress. House. Committee on Un-American Activities</corpname>
+      <persname role="dnr" source="naf">Hiss, Tony</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_c32e4851f3bc3300f6a1af40ecc913a9" level="series">
+        <did>
+          <unittitle>Series I: <emph render="italic">Coram Nobis</emph> 99900-000</unittitle>
+          <unitdate datechar="creation" normal="1949/1980" type="inclusive">1949-1980</unitdate>
+        </did>
+        <scopecontent id="aspace_3b31376b58bbd5190c408f8fa02bff04">
+          <head>Scope and Contents</head>
+          <p>This series includes files related to Alger Hiss's 1979 petition for a writ of <emph render="italic">coram nobis</emph> and largely date from 1975 to 1980. Filed by the Debevoise &amp; Plimpton firm as "Coram Nobis 99900-000," these materials consist of research files including law review articles, relevant cases, and court papers from a 1975 Freedom of Information Act (FOIA) lawsuit Alger Hiss filed to obtain access to documents FBI documents related to his case. This series also includes attorney correspondence, drafts of legal memoranda, and notes. Attorney Robert von Mehren's files make up a small portion of the <emph render="italic">coram nobis</emph> materials, and include drafts of the  <emph render="italic">coram nobis</emph> petition, and copies of documents from the 1949 Hiss perjury trials.</p>
+        </scopecontent>
+        <c id="aspace_121620a42fdb9535ee46c84c3c531d6c" level="file">
+          <did>
+            <unittitle>Briefs from Other Cases</unittitle>
+            <unitdate datechar="creation" normal="1975/1975">circa 1975</unitdate>
+            <container altrender="Record carton" id="aspace_aed39f71143c1ea22531e1ac8651a41b" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_8ebb1023ffc555cfb200ff7254f075b5" parent="aspace_aed39f71143c1ea22531e1ac8651a41b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_5f4aa8603bdd8a0295a06af0df033bed" level="file">
+          <did>
+            <unittitle>Cases</unittitle>
+            <unitdate datechar="creation" normal="1963/1977" type="inclusive">1963-1977</unitdate>
+            <container altrender="Record carton" id="aspace_fa75f6a77370caf260ff1100ace7c24b" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_fd106fa02f3b46f82e5b8362f6a9b4f1" parent="aspace_fa75f6a77370caf260ff1100ace7c24b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_c670f585008fd0d180e795abdb8fc741" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container altrender="Record carton" id="aspace_f7df9575ac474bcaac421d6cfc652db2" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_48f22b6bf408d7e8d1fbc6ebc8703ad6" parent="aspace_f7df9575ac474bcaac421d6cfc652db2" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_5c4be9c4b25cfc87e0fd203579f7ce0e" level="file">
+          <did>
+            <unittitle>Coram: Extra</unittitle>
+            <unitdate datechar="creation" normal="1977/1977">1977</unitdate>
+            <container altrender="Record carton" id="aspace_c19f290df75cdc5d71eca6c40808f0d0" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_fcc20960e89525f8ef414f4eaf4eaea8" parent="aspace_c19f290df75cdc5d71eca6c40808f0d0" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_84d1173f3f11915ef3bee339917db492" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1976/1980" type="inclusive">1976-1980</unitdate>
+            <container altrender="Record carton" id="aspace_9ae716cc25ddc833d8ff5b013d12ab05" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_35ec9abc28bcd804caacf0aada37c628" parent="aspace_9ae716cc25ddc833d8ff5b013d12ab05" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_4dd94cd3f94c128fc9dec84538e74ddb" level="file">
+          <did>
+            <unittitle>Court Papers: Drafts and Extra</unittitle>
+            <unitdate datechar="creation" normal="1949/1977" type="inclusive">1949, 1977</unitdate>
+            <container altrender="Record carton" id="aspace_ad7905d2fbd33e4b729903a441f45bab" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_f6f3a710bcd972d63eda8650bc1063de" parent="aspace_ad7905d2fbd33e4b729903a441f45bab" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_87301c0bac684fe534ba9694f1942b98" level="file">
+          <did>
+            <unittitle>Debevoise Research Material</unittitle>
+            <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+            <container altrender="Record carton" id="aspace_c7598c5962b73fb7360e77b1d5fd4e62" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_dbed2ca10ea5c9335e13eb31a71748de" parent="aspace_c7598c5962b73fb7360e77b1d5fd4e62" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_aeee750b04055d4e176006a4d482911e" level="file">
+          <did>
+            <unittitle>Defense Requests for Information</unittitle>
+            <unitdate datechar="creation" normal="1949/1954" type="inclusive">1949-1954</unitdate>
+            <container altrender="Record carton" id="aspace_3272a39fc8988297f7d0fd2e7f16e249" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_3c9cbb4932808265c7c4bf178f29d56f" parent="aspace_3272a39fc8988297f7d0fd2e7f16e249" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_1ccb4c2f2b9cecfd8ac1c31638179d0d" level="file">
+          <did>
+            <unittitle>Facts</unittitle>
+            <unitdate datechar="creation" normal="1949/1975" type="inclusive">1949, 1975</unitdate>
+            <container altrender="Record carton" id="aspace_5c3c2e22778fdf45f428432710061a95" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_b9d155287f8ba764fc8926c5120c39b0" parent="aspace_5c3c2e22778fdf45f428432710061a95" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_996d808840014512be16c88b5425dede" level="file">
+          <did>
+            <unittitle>FOIA Case: Court Papers</unittitle>
+            <unitdate datechar="creation" normal="1977/1977">1977 May 6</unitdate>
+            <container altrender="Record carton" id="aspace_26192f11732195eca1136865bd1bc36c" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_d5a9be5634805dbca398c97aeed7bd9c" parent="aspace_26192f11732195eca1136865bd1bc36c" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_d48f8ebc7a9e405c37bb7d5d94bb8fd2" level="file">
+          <did>
+            <unittitle>Law Review Articles</unittitle>
+            <unitdate datechar="creation" normal="1976/1976">1976, undated</unitdate>
+            <container altrender="Record carton" id="aspace_b9ae5a4ad6e04b91b5882561ed49b276" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_ae9b486afc0e77878a7458e58031c653" parent="aspace_b9ae5a4ad6e04b91b5882561ed49b276" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_c69c5bec333ba11a5bfd89d95d8a4801" level="file">
+          <did>
+            <unittitle>Memos</unittitle>
+            <unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate>
+            <container altrender="Record carton" id="aspace_d59c69559ba89567fc095751d570ae4d" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_0895a49f55056141c2820445bbfcafc0" parent="aspace_d59c69559ba89567fc095751d570ae4d" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_e71ec3a135606fd05a1f5d1a63b9b15f" level="file">
+          <did>
+            <unittitle>Memos</unittitle>
+            <unitdate datechar="creation" normal="1977/1977">1977</unitdate>
+            <container altrender="Record carton" id="aspace_50f237a6412ef65dc3343fa2eea72c4b" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_a00a1e7076a697341d2991b2164149b0" parent="aspace_50f237a6412ef65dc3343fa2eea72c4b" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_c96bb3bb22a1075b303de40f516e33bb" level="file">
+          <did>
+            <unittitle>Memos of Law</unittitle>
+            <unitdate datechar="creation" normal="1975/1977" type="inclusive">1975, 1977</unitdate>
+            <container altrender="Record carton" id="aspace_92b2d37b17c9657b52ee52e7b4f2237b" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_13cfdc26bb5622b794b4dcb24ea91484" parent="aspace_92b2d37b17c9657b52ee52e7b4f2237b" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_179b729d9458c81c31f8c309b27af5fb" level="file">
+          <did>
+            <unittitle>Memos of Law: Drafts</unittitle>
+            <unitdate datechar="creation" normal="1977/1977">1977</unitdate>
+            <container altrender="Record carton" id="aspace_c773e66e0b8d4db9d06515ff76998466" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_09e9a66f92f7e0b5f9469ba65e4aff5c" parent="aspace_c773e66e0b8d4db9d06515ff76998466" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_25f62f66300a4d826ebadbb7c28d8ab1" level="file">
+          <did>
+            <unittitle>Notes</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_369387ce1f35e941af529a6620ff5cae" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_7b67ccb8ac01896598bdd2fd53f327bf" parent="aspace_369387ce1f35e941af529a6620ff5cae" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_5a56661ebf7df49c3a6bd4bdf1dddea0" level="file">
+          <did>
+            <unittitle>Notes on Reviewing Trial for Undisclosure of Exculpatory Evidence by Prosecution</unittitle>
+            <unitdate datechar="creation" normal="1975/1977" type="inclusive">1975-1977</unitdate>
+            <container altrender="Record carton" id="aspace_99781ce09e4124fcc4e3c7c7394068a1" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_1a78644b606144749b4d0633d924f27e" parent="aspace_99781ce09e4124fcc4e3c7c7394068a1" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_516d7ad615a784a805cc7fa6d5041f67" level="file">
+          <did>
+            <unittitle>Sacco and Vanzetti Materials</unittitle>
+            <unitdate datechar="creation" normal="1977/1977">1977</unitdate>
+            <container altrender="Record carton" id="aspace_b0be9f9d4dc60b97bcfb65c9cc9189e6" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_8c847a721587909bb13da850003eba6a" parent="aspace_b0be9f9d4dc60b97bcfb65c9cc9189e6" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_44157dd6c376a37691836f89cd840d23" level="file">
+          <did>
+            <unittitle>Schmahl Documents</unittitle>
+            <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+            <container altrender="Record carton" id="aspace_3f2e19738159e6286f51015d1dd2aa72" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_4369e6f784e6e9918f038d3444e12b2d" parent="aspace_3f2e19738159e6286f51015d1dd2aa72" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_02f0509c4399355fdf8d952c6a90961a" level="file">
+          <did>
+            <unittitle>Von Mehren, Robert B. Files </unittitle>
+            <unitdate datechar="creation" normal="1938/1980" type="inclusive">1938-1949, 1975-1980</unitdate>
+            <container altrender="Record carton" id="aspace_7bf471ef8d0319e3ceb31b0ba7581e67" label="Mixed Materials [31142054856623]" type="Box">1</container>
+            <container id="aspace_46d2767d8aa881f37d4b1fcd6b3ec71d" parent="aspace_7bf471ef8d0319e3ceb31b0ba7581e67" type="Folder">20-26</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_3d9695dc4668ce9a6ad40e54a702ab77" level="series">
+        <did>
+          <unittitle>Series II: Hiss Personal 2395</unittitle>
+          <unitdate datechar="creation" normal="1938/1952" type="inclusive">1938-1952</unitdate>
+        </did>
+        <scopecontent id="aspace_590125559e0460cf9cd84c5f9249a218">
+          <head>Scope and Contents</head>
+          <p>This series comprises the bulk of the collection and contains files related to Alger Hiss's 1949 perjury trials. These files have been classified by the firm as "Hiss Personal 2395," and include evidence and statements gathered in support of Hiss's defense in the case <emph render="italic">United States vs. Alger Hiss</emph>. These materials consist of character witness interviews, correspondence related to witnesses and outside experts, memoranda, trial notes, commentary on testimony, statements, clippings, and procedural documents. They also include printed transcripts of the trials provided to Hiss's attorneys during his 1950 appeal.</p>
+        </scopecontent>
+        <c id="aspace_d1f2e2c4301a216c4a54b8e456763362" level="subseries">
+          <did>
+            <unittitle>Sub-Series II.A: Trial Documents and Notes</unittitle>
+            <unitdate datechar="creation" normal="1938/1950" type="inclusive">1938-1950</unitdate>
+          </did>
+          <scopecontent id="aspace_0f1498e70a80cecde231a2d122804940">
+            <head>Scope and Contents</head>
+            <p>This sub-series includes notes, drafts, briefs, memoranda, evidence, and clippings related to first and second trials in the case <emph render="italic">United States vs. Alger Hiss</emph>. Many materials in this sub-series were gathered in preparation for Alger Hiss's second perjury trial and to support the Hiss's legal team's request for a Bill of Particulars. Included among these materials are copies of Whittaker Chambers's and Esther Chambers's testimony in the 1948 libel suit <emph render="italic">Alger Hiss vs. Whittaker Chambers</emph>. This testimony is incomplete and only consists of volumes 3-7. They also include trial notes of Hiss's attorneys Robert von Mehren and Edward C. McLean. McLean's notes focus predominantly on Hiss's first perjury trial, while von Mehren's notes focus more heavily on the second trial. The sub-series also contains a large amount of clippings gathered by the Hiss defense team.</p>
+          </scopecontent>
+          <c id="aspace_a1dbfed2098bc6ef3269f8b6cea55510" level="file">
+            <did>
+              <unittitle>Abstract of Testimony Presented in House Committee (Arranged by Witnesses)</unittitle>
+              <unitdate datechar="creation" normal="1938/1948" type="inclusive">1938, 1948</unitdate>
+              <container altrender="Record carton" id="aspace_0baee383184b64d197631b702ab3b09d" label="Mixed Materials [31142054856623]" type="Box">1</container>
+              <container id="aspace_74deb5780f87d35fd1691eea1a5c40cd" parent="aspace_0baee383184b64d197631b702ab3b09d" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_8e8f5a8b0fdc3fc24f7fa4de57135269" level="file">
+            <did>
+              <unittitle>Abstract of House Committee Hearings</unittitle>
+              <unitdate datechar="creation">1948 August 3</unitdate>
+              <container altrender="Record carton" id="aspace_1f7f6d6681d42eb5d0899953db25fc7c" label="Mixed Materials [31142054856623]" type="Box">1</container>
+              <container id="aspace_d1d91d815c0188f9753ebb9b1ca3d761" parent="aspace_1f7f6d6681d42eb5d0899953db25fc7c" type="Folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_09636a006c076af583bb704f684903ec" level="file">
+            <did>
+              <unittitle>Baltimore Deposition: Examination before Trial of Whittaker Chambers and Esther Chambers</unittitle>
+              <unitdate datechar="creation" type="inclusive">1948 November 16 - 1949 March 25</unitdate>
+              <container altrender="Record carton" id="aspace_215a2ce1412f69d826d859280f920dde" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_670965d407045250f10fc9fff00c06a8" parent="aspace_215a2ce1412f69d826d859280f920dde" type="Folder">1-9</container>
+            </did>
+          </c>
+          <c id="aspace_bc16cace9a97450bfc85cd6ad5130be3" level="file">
+            <did>
+              <unittitle>Baltimore Deposition: Memos and Notes Regarding Chambers Examination</unittitle>
+              <unitdate datechar="creation">1949 January - February</unitdate>
+              <container altrender="Record carton" id="aspace_08dfcb527d88d5634477b6826b1dba1d" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_8667cbbe6a33f85342a6ecbb7a6f6cb8" parent="aspace_08dfcb527d88d5634477b6826b1dba1d" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_fa4e8375017a615a36b1a11d95dd78f3" level="file">
+            <did>
+              <unittitle>Baltimore Papers: Analysis of State Department Documents</unittitle>
+              <unitdate datechar="creation" normal="1949/1949">1949</unitdate>
+              <container altrender="Record carton" id="aspace_1740e063d4e212c169afc93c385d5e0d" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_c1f2f76d2e1565adbcdf36715293d002" parent="aspace_1740e063d4e212c169afc93c385d5e0d" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_62c570e44426034e9d848c0c2bee3b52" level="file">
+            <did>
+              <unittitle>Baltimore Papers: E.C. McLean Analysis</unittitle>
+              <unitid>cuid802</unitid>
+              <unitdate datechar="creation" normal="1949/1951" type="inclusive">1949-1951</unitdate>
+              <container altrender="Record carton" id="aspace_f584cc4dc967d2f8312e22120f58df48" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_670e6caf7a91f9a68d436888ef638b45" parent="aspace_f584cc4dc967d2f8312e22120f58df48" type="Folder">12</container>
+              <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/k6djhhj0" xlink:role="image-service" xlink:show="new" xlink:title="Baltimore Papers: E.C. McLean Analysis" xlink:type="simple">
+                <daodesc>
+                  <p>Baltimore Papers: E.C. McLean Analysis: 1949-1951</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c>
+          <c id="aspace_d79b93a679759b1cfaab6e4ace68efef" level="file">
+            <did>
+              <unittitle>Bill of Particulars: Extra Copies of Typewriter Memos</unittitle>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_c36da83bde5ccf030acdbfd9779e6966" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_1962151fd690e82975fee940338cd38d" parent="aspace_c36da83bde5ccf030acdbfd9779e6966" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_8426cd0386faea97ae6c722aa17a9ede" level="file">
+            <did>
+              <unittitle>Bill of Particulars: First Trial Hiss Character Witnesses</unittitle>
+              <unitdate datechar="creation" normal="1948/1952" type="inclusive">1948-1952</unitdate>
+              <container altrender="Record carton" id="aspace_3836788c01869903fd962bbe0408a8a9" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_b1b253ca689b0c909ae582ebd55363ef" parent="aspace_3836788c01869903fd962bbe0408a8a9" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_a7e9f82fd8e0e13918879b33cc4d4c81" level="file">
+            <did>
+              <unittitle>Bill of Particulars: Grand Jury Panel</unittitle>
+              <unitdate datechar="creation" normal="1949/1949">1949</unitdate>
+              <container altrender="Record carton" id="aspace_920ce6c4fef4256a52b0f6c962cd59bd" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_b5b744f7968fb88865cf3a487851c4b0" parent="aspace_920ce6c4fef4256a52b0f6c962cd59bd" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_0dffcbdf957ae9209eacf6396595317e" level="file">
+            <did>
+              <unittitle>Bill of Particulars: Investigation of Chambers</unittitle>
+              <unitid>cuid803</unitid>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_694db937f2a5cf759fc27814cc8a3874" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_bda277c900f505ebc6493434390b01bb" parent="aspace_694db937f2a5cf759fc27814cc8a3874" type="Folder">16</container>
+              <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/ffbg7h1v" xlink:role="image-service" xlink:show="new" xlink:title="Bill of Particulars: Investigation of Chambers" xlink:type="simple">
+                <daodesc>
+                  <p>Bill of Particulars: Investigation of Chambers: 1948-1949</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c>
+          <c id="aspace_df213d8ff844f9c89128f34857f8b525" level="file">
+            <did>
+              <unittitle>Bill of Particulars: Not Used - Papers for Deposition</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_676479fb815a3d449e2dac3550c4d367" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_74d6a504c12b1ebed58a8f30a41d9e93" parent="aspace_676479fb815a3d449e2dac3550c4d367" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_633c76bcad9fb30c9ef5b15d21ae28a9" level="file">
+            <did>
+              <unittitle>Bill of Particulars: Notice of Deposition</unittitle>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_a6417a1a6b33c698d51c7b79657a8e5a" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_5a16128ea404e37059b0bca73bc26bef" parent="aspace_a6417a1a6b33c698d51c7b79657a8e5a" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_9148626c0dc11ba97f8be8110ec5c3c6" level="file">
+            <did>
+              <unittitle>Bill of Particulars: Second Trial Drafts</unittitle>
+              <unitdate datechar="creation" normal="1949/1949">1949</unitdate>
+              <container altrender="Record carton" id="aspace_1bde72d217802772dce7ab89b6c490b6" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_32cf06110fba720b7cc4e25af52b1b62" parent="aspace_1bde72d217802772dce7ab89b6c490b6" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_50bd836c3bbf7c392830dbcd090653c7" level="file">
+            <did>
+              <unittitle>Bill of Particulars: Second Trial - Extra Copies of Correspondence</unittitle>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">circa 1948 - 1949</unitdate>
+              <container altrender="Record carton" id="aspace_48729f131c1e1ba2eaad1a2cc0331a56" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_6fe5bbf8bb60d088322822c26dcb44f1" parent="aspace_48729f131c1e1ba2eaad1a2cc0331a56" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_367bde39cf1c5603d5d98f5be718636f" level="file">
+            <did>
+              <unittitle>Bill of Particulars: Second Trial - Extra Memos for Opening</unittitle>
+              <unitdate datechar="creation" normal="1950/1950">1950 January</unitdate>
+              <container altrender="Record carton" id="aspace_566e8c9e05b7ea688cccd2880c492a2e" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_92d976a532a5fd52eea00b3e3f6fb7e6" parent="aspace_566e8c9e05b7ea688cccd2880c492a2e" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_d57fbd9b168f504b51596dc79091c3b0" level="file">
+            <did>
+              <unittitle>Bill of Particulars: Second Trial - Jury</unittitle>
+              <unitdate datechar="creation" normal="1949/1949">1949</unitdate>
+              <container altrender="Record carton" id="aspace_b741e5dbdd1b24be6e1412b44988dc48" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_a198925b069eab202b6d297327de1053" parent="aspace_b741e5dbdd1b24be6e1412b44988dc48" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_d69fbc374ef885a7566463a2c9226cc5" level="file">
+            <did>
+              <unittitle>Bill of Particulars: Second Trial - Miscellaneous Notes for Preparation</unittitle>
+              <unitdate datechar="creation" normal="1949/1949">1949</unitdate>
+              <container altrender="Record carton" id="aspace_48e3da65c49bd0c83770889f6e199e30" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_799d02e9f66cde126d7c75cb2a9cec33" parent="aspace_48e3da65c49bd0c83770889f6e199e30" type="Folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_4413503696fdd880f07cb5cf147820f5" level="file">
+            <did>
+              <unittitle>Bill of Particulars: Second Trial - Record File</unittitle>
+              <unitdate datechar="creation" normal="1948/1950" type="inclusive">1948-1950</unitdate>
+              <container altrender="Record carton" id="aspace_e881e8776fdee1ccbaa6f2e7e0cdbda0" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_003bdec2447c046ea960aa87755bdd41" parent="aspace_e881e8776fdee1ccbaa6f2e7e0cdbda0" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_04dec9f227322b66c3527e8f69df48d7" level="file">
+            <did>
+              <unittitle>Bill of Particulars: Second Trial - Subpoenas Served</unittitle>
+              <unitdate datechar="creation" normal="1950/1950">1950 January - March</unitdate>
+              <container altrender="Record carton" id="aspace_709f479a2c03a17eceee196400b0b08a" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_4abf2927edec43b5386326bf712f35b1" parent="aspace_709f479a2c03a17eceee196400b0b08a" type="Folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_1cd45595a79ecae92900c89c50352e26" level="file">
+            <did>
+              <unittitle>Bill of Particulars: Second Trial Witnesses File</unittitle>
+              <unitdate datechar="creation" normal="1949/1949">1949</unitdate>
+              <container altrender="Record carton" id="aspace_3efe7842e27db30c18607d020be91afb" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_61f1a2492dfa5b46ac311f43ae534bf4" parent="aspace_3efe7842e27db30c18607d020be91afb" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_54376d55df753ab3b22ddce5f4f7de8b" level="file">
+            <did>
+              <unittitle>Bill of Particulars: State Department Memos</unittitle>
+              <unitdate datechar="creation" normal="1949/1949">1949</unitdate>
+              <container altrender="Record carton" id="aspace_a8c6ffaaf108a4864038636d820e16d8" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_8b6801cfd1f3e613531ec499c911acb9" parent="aspace_a8c6ffaaf108a4864038636d820e16d8" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_ba011ba0041464fc03d2515dee6ac476" level="file">
+            <did>
+              <unittitle>Briefs to be Used During Second Trial: Affidavits and Memos in Defense of Motion for New Trial</unittitle>
+              <unitdate datechar="creation" normal="1952/1952">1952</unitdate>
+              <container altrender="Record carton" id="aspace_11a7099f7c291f55d53628eb8462fe57" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_ff92d415e3854097ea53e32a18d16161" parent="aspace_11a7099f7c291f55d53628eb8462fe57" type="Folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_e0f3ca945a1dbe29fa8c010f78364fef" level="file">
+            <did>
+              <unittitle>Briefs to be Used During Second Trial: Chambers "Meet the Press" Script</unittitle>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_b1b78ba0d276390797717274f1716259" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_0d8df8b5527d6f16a84c020315a9aa95" parent="aspace_b1b78ba0d276390797717274f1716259" type="Folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_0dcc24864fc4c3b768d835428605a922" level="file">
+            <did>
+              <unittitle>Briefs to be Used During Second Trial: Libel</unittitle>
+              <unitdate datechar="creation" normal="1948/1948">1948</unitdate>
+              <container altrender="Record carton" id="aspace_eed0e5dfcc5552480a5d70a1469ca2bf" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_610638f86a0d80907051dbaa2b7a5dac" parent="aspace_eed0e5dfcc5552480a5d70a1469ca2bf" type="Folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_48787974182c74eefd7b7fbab83d320b" level="file">
+            <did>
+              <unittitle>Briefs to be Used During Second Trial: Memos of Law</unittitle>
+              <unitdate datechar="creation" normal="1948/1950" type="inclusive">1948-1950</unitdate>
+              <container altrender="Record carton" id="aspace_5f39e2befb0bfd0355708a858f238f94" label="Mixed Materials [31142054856631]" type="Box">2</container>
+              <container id="aspace_d55b4a9c27290be3311babf8d76dc68f" parent="aspace_5f39e2befb0bfd0355708a858f238f94" type="Folder">31-33</container>
+              <container altrender="Record carton" id="aspace_bc8365effc3c05e13bed9fd331ea3918" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_43d236c9de08393e678339eeabaf6cfa" parent="aspace_bc8365effc3c05e13bed9fd331ea3918" type="Folder">1-2</container>
+            </did>
+          </c>
+          <c id="aspace_0ea996e8b77d58616ca1a0bdbbc96297" level="file">
+            <did>
+              <unittitle>Briefs to be Used During Second Trial: Miscellaneous Memos on Legal Problems</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_18a501a7bdaba376207f493f1d972d18" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_5f4ceab5369628dbcfabc9cb8acc2967" parent="aspace_18a501a7bdaba376207f493f1d972d18" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_7083b56f27561849edf9183513d08fd1" level="file">
+            <did>
+              <unittitle>Briefs to be Used During Second Trial: Memo in Support of the Admissibility of Psychiatric Testimony</unittitle>
+              <unitdate datechar="creation" normal="1949/1949">1949</unitdate>
+              <container altrender="Record carton" id="aspace_db788a0820ecd0c2a02ad45ef8f771cd" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_39d876154562f0b1ee9f0f01d33bcc35" parent="aspace_db788a0820ecd0c2a02ad45ef8f771cd" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_a3106dc0d6e7cb353cb63054cee91576" level="file">
+            <did>
+              <unittitle>Briefs to be Used During Second Trial: Motion to Request F.B.I. Reports on Jury Panel</unittitle>
+              <unitdate datechar="creation">1949 March 30</unitdate>
+              <container altrender="Record carton" id="aspace_5a95fb2940a595c12493701605b21860" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_90da2c047511ed1cfeed6c727b584c15" parent="aspace_5a95fb2940a595c12493701605b21860" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_30293dd967924a694030af1b987c2dd1" level="file">
+            <did>
+              <unittitle>Briefs to be Used During Second Trial: Psychiatry File</unittitle>
+              <unitdate datechar="creation" normal="1950/1950">1950</unitdate>
+              <container altrender="Record carton" id="aspace_273520c96fece436ca0f271da28ce539" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_5b2a8db3ab63f2878d62882ade934654" parent="aspace_273520c96fece436ca0f271da28ce539" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_b44544a4065d754585bf116288a6f310" level="file">
+            <did>
+              <unittitle>Briefs to be Used During Second Trial: State Department Floor Plans</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_c5959c9290d2d0091623534bc0a56100" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_243fb3f45bf0110f88338ed3eb0baa78" parent="aspace_c5959c9290d2d0091623534bc0a56100" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_1b8c55b3194feab291461041a80ca5ec" level="file">
+            <did>
+              <unittitle>Drafts</unittitle>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_703766df1f83da542c62dff1b7dc2b05" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_84d95b1178a70bb959b226db0b646d1f" parent="aspace_703766df1f83da542c62dff1b7dc2b05" type="Folder">8-10</container>
+            </did>
+          </c>
+          <c id="aspace_0ea4ed50548e9a53bf6c985e94ae711b" level="file">
+            <did>
+              <unittitle>Drafts: Dr. Binger</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_0fdbe82aa102be8188235d2dfcbfb890" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_07f48efa1802606a26b179ccf7d109c7" parent="aspace_0fdbe82aa102be8188235d2dfcbfb890" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ba82c64fdb01621c7440238ba0d01fc6" level="file">
+            <did>
+              <unittitle>Debevoise Affidavit</unittitle>
+              <unitdate datechar="creation" normal="1975/1975">1975 January</unitdate>
+              <container altrender="Record carton" id="aspace_68bd4298c63f2e0fe6833afbf32cf217" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_34670306e5dae8f054c00ff49e252088" parent="aspace_68bd4298c63f2e0fe6833afbf32cf217" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_e96f8f54fdea5af18a79c5264c48e8dc" level="file">
+            <did>
+              <unittitle>Extra Copies: Analysis of Microfilm</unittitle>
+              <unitid>cuid805</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_363e619833de568c1665baadb5b840f1" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_b4cfe7e9ba564ac4726ddc8e8fdbf601" parent="aspace_363e619833de568c1665baadb5b840f1" type="Folder">13</container>
+              <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/5x69pg1g" xlink:role="image-service" xlink:show="new" xlink:title="Extra Copies: Analysis of Microfilm" xlink:type="simple">
+                <daodesc>
+                  <p>Extra Copies: Analysis of Microfilm: undated</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c>
+          <c id="aspace_6ad2b7f6a767b9272d8c281b6909cc66" level="file">
+            <did>
+              <unittitle>Extra Copies: Appearance before Grand Jury</unittitle>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_b9cf673ca8a030e22809a75f4b4f0b17" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_ed0c3a35ecf644d746f84a0e3a251a89" parent="aspace_b9cf673ca8a030e22809a75f4b4f0b17" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_420cf2cb8d36db4457f1cd86b53f13bb" level="file">
+            <did>
+              <unittitle>Extra Copies: Contents of Files</unittitle>
+              <unitdate datechar="creation" normal="1948/1950" type="inclusive">1948-1950</unitdate>
+              <container altrender="Record carton" id="aspace_fb9d7371fa553d43cb2aec90a5579092" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_3957ab36d42c0a00cfed64a9aa92d97f" parent="aspace_fb9d7371fa553d43cb2aec90a5579092" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_c8b0fcd752dbb12bcac219dd424578d1" level="file">
+            <did>
+              <unittitle>Extra Copies: Court Papers</unittitle>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_d45a59d973cd5d77dde4fcd156494217" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_2398bb7c44ba5265704969a68da65bdb" parent="aspace_d45a59d973cd5d77dde4fcd156494217" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_2a5da3a36f8230fbe14878ec866f22da" level="file">
+            <did>
+              <unittitle>Extra Copies: Second Trial Court Papers</unittitle>
+              <unitdate datechar="creation" normal="1950/1950">1950</unitdate>
+              <container altrender="Record carton" id="aspace_8ee82fe368607edb92a3542341e8d55e" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_d2d33c929d490cf6a9ba83cb70777334" parent="aspace_8ee82fe368607edb92a3542341e8d55e" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_2b0ade06499428c74af54ccc49783937" level="file">
+            <did>
+              <unittitle>Extra Copies: Correspondence</unittitle>
+              <unitdate datechar="creation" normal="1949/1949">1949 April 14</unitdate>
+              <container altrender="Record carton" id="aspace_e14134875198521c79cd42cd5aa0119b" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_52c33f0576a94cf13739746f68de40b1" parent="aspace_e14134875198521c79cd42cd5aa0119b" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_43759a3be93c8aa0e5724c2797494b89" level="file">
+            <did>
+              <unittitle>Extra Copies: Miscellaneous</unittitle>
+              <unitdate datechar="creation" normal="1949/1950" type="inclusive">1949-1950</unitdate>
+              <container altrender="Record carton" id="aspace_e4856a3e1f86be4925da816b8e47930f" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_76187af2f7278d98183a8f854beef19d" parent="aspace_e4856a3e1f86be4925da816b8e47930f" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_86c3ecaeb57eb492809b7633f3cb44b4" level="file">
+            <did>
+              <unittitle>Extra Copies: Motion Papers</unittitle>
+              <unitdate datechar="creation" normal="1949/1949">1949</unitdate>
+              <container altrender="Record carton" id="aspace_b21c90bafe18264430cd7d12a844ed99" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_fd2ec7f848feab668ad6c6d3cb87843d" parent="aspace_b21c90bafe18264430cd7d12a844ed99" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_76d37ac0775481d50f7bd7621f3cf82e" level="file">
+            <did>
+              <unittitle>First Trial: Index of Witnesses and Exhibits</unittitle>
+              <unitdate datechar="creation" normal="1949/1949">1949</unitdate>
+              <container altrender="Record carton" id="aspace_be14307be34796bcbbec4fcbdc24e71c" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_f0e23bf7115cef3f9da984e61f801f83" parent="aspace_be14307be34796bcbbec4fcbdc24e71c" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_f7e9f98ec52b75e7f87495ab01d373ce" level="file">
+            <did>
+              <unittitle>McLean, E.C. Trial Notes: State Department</unittitle>
+              <unitdate datechar="creation" normal="1949/1949">1949</unitdate>
+              <container altrender="Record carton" id="aspace_16704650aff0aa4b2ea55a390e955ffc" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_6345eb882a925c91657b27350642ecd8" parent="aspace_16704650aff0aa4b2ea55a390e955ffc" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_e37ff274df985b28ef6d7e0f3af1430d" level="file">
+            <did>
+              <unittitle>McLean, E.C. Trial Notes</unittitle>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_ee8a28870c9fce542456e3f44cf3af3d" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_b54e854cfb43043002b19fe25373eb49" parent="aspace_ee8a28870c9fce542456e3f44cf3af3d" type="Folder">23-25</container>
+            </did>
+          </c>
+          <c id="aspace_608801cc1a5ced607162a7b11182f4de" level="file">
+            <did>
+              <unittitle>McLean, E.C. Trial Notes: Alger Hiss Opening</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_58f29bd94679a97da50f60f59db6527c" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_61c4292a373d28f70dd18ebc8ef52627" parent="aspace_58f29bd94679a97da50f60f59db6527c" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_ac152c94e935fcc0cd4bd388a4844934" level="file">
+            <did>
+              <unittitle>McLean, E.C. Trial Notes: Copies of First Trial Subpoenas</unittitle>
+              <unitdate datechar="creation">1949 June</unitdate>
+              <container altrender="Record carton" id="aspace_7ef908e382c09761cc81efcd78582110" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_305bef17dc173143c0258013d8b2cd75" parent="aspace_7ef908e382c09761cc81efcd78582110" type="Folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_afcd69ffe079f9ba157b675a6eb09223" level="file">
+            <did>
+              <unittitle>McLean, E.C. Trial Notes: Typewriter</unittitle>
+              <unitid>cuid804</unitid>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_03cd646a3f05c5e0e411142cb965bb74" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_d0327e62e863ab72220d28821d62f4d9" parent="aspace_03cd646a3f05c5e0e411142cb965bb74" type="Folder">29</container>
+              <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/9p8czghc" xlink:role="image-service" xlink:show="new" xlink:title="McLean, E.C. Trial Notes: Typewriter" xlink:type="simple">
+                <daodesc>
+                  <p>McLean, E.C. Trial Notes: Typewriter: 1948-1949</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c>
+          <c id="aspace_094b453dd351e64a72f87b741abca2a1" level="file">
+            <did>
+              <unittitle>Memoranda Regarding Alger Hiss</unittitle>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_4647918a28a21925ac28635280b1d15b" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_307105a0955eccbe790a5d38fe5d8733" parent="aspace_4647918a28a21925ac28635280b1d15b" type="Folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_ac125ef12661825241021ca3922097be" level="file">
+            <did>
+              <unittitle>Memoranda Regarding Alger Hiss: Employment</unittitle>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_0d7be89f0d41ba26425b265593ffadc3" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_bf84848fc28638af6c20dfe3f4729140" parent="aspace_0d7be89f0d41ba26425b265593ffadc3" type="Folder">31</container>
+            </did>
+          </c>
+          <c id="aspace_4b37f2f0680292b569330c93e938b19b" level="file">
+            <did>
+              <unittitle>Memoranda Regarding Alger Hiss: Fansler, Thomas</unittitle>
+              <unitdate datechar="creation" normal="1949/1949">1949</unitdate>
+              <container altrender="Record carton" id="aspace_07f1dc48c3eb8eb63386c9b840df47f9" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_486e13dbe2b6a35ebeaa78e499c9a588" parent="aspace_07f1dc48c3eb8eb63386c9b840df47f9" type="Folder">32</container>
+            </did>
+          </c>
+          <c id="aspace_2b8eff5e0151d8f915e84c24cd35bd9b" level="file">
+            <did>
+              <unittitle>Memoranda Regarding Alger Hiss: F.B.I. Documents</unittitle>
+              <unitdate datechar="creation" normal="1975/1975">1975</unitdate>
+              <container altrender="Record carton" id="aspace_0b542d1d443672f878a3f16994dd78bd" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_5245d89b9d80a245f68578236492e76d" parent="aspace_0b542d1d443672f878a3f16994dd78bd" type="Folder">33</container>
+            </did>
+          </c>
+          <c id="aspace_6e746dae272284e56c9442102f83cb9a" level="file">
+            <did>
+              <unittitle>Memoranda Regarding Alger Hiss: Hiss, Alger Analysis of Chambers Testimony</unittitle>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_0eb9956d1cfb4a6a69bf9038d33e123e" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_12773cecdaa458c489500b6f895eac80" parent="aspace_0eb9956d1cfb4a6a69bf9038d33e123e" type="Folder">34</container>
+            </did>
+          </c>
+          <c id="aspace_bac6a1bf5dcc302efc1483d85665f54f" level="file">
+            <did>
+              <unittitle>Memoranda Regarding Alger Hiss: Hiss, Donald</unittitle>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_8c3da674e3bd596683ad000eab2ea09d" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_2f4858de3ee6e27749ea61bc5a26c076" parent="aspace_8c3da674e3bd596683ad000eab2ea09d" type="Folder">35</container>
+            </did>
+          </c>
+          <c id="aspace_4b9e7b40eb4fa2e486f164724adcd4ec" level="file">
+            <did>
+              <unittitle>Memoranda Regarding Alger Hiss: Hiss, Priscilla (Mrs. Hiss)</unittitle>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_010fe21386e0361f885afb6ba2d2dc8b" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_2d038ebe357398d7eaed4b43307513f0" parent="aspace_010fe21386e0361f885afb6ba2d2dc8b" type="Folder">36</container>
+            </did>
+          </c>
+          <c id="aspace_b880c6e7998f402ca46b8ff748b01f74" level="file">
+            <did>
+              <unittitle>Memoranda Regarding Alger Hiss: Hobson, Timothy</unittitle>
+              <unitid>cuid806</unitid>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_90115ca013a58d5a8b83c9cc21eb26bb" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_d743a1b174f627682709f76dd95b6379" parent="aspace_90115ca013a58d5a8b83c9cc21eb26bb" type="Folder">37</container>
+              <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/280gbc60" xlink:role="image-service" xlink:show="new" xlink:title="Memoranda Regarding Alger Hiss: Hobson, Timothy" xlink:type="simple">
+                <daodesc>
+                  <p>Memoranda Regarding Alger Hiss: Hobson, Timothy: 1948-1949</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c>
+          <c id="aspace_375f9518e0a1f17b1309daa143d21374" level="file">
+            <did>
+              <unittitle>Memoranda Regarding Alger Hiss: Kunze, Adam - Bills Regarding Rented Woodstock Typewriter</unittitle>
+              <unitdate datechar="creation" normal="1949/1949">1949</unitdate>
+              <container altrender="Record carton" id="aspace_b6b4102fcfe6bd76ef8679f2d4419a1f" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_6f5ae559bb72e804bc21be319ea050d5" parent="aspace_b6b4102fcfe6bd76ef8679f2d4419a1f" type="Folder">38</container>
+            </did>
+          </c>
+          <c id="aspace_0027b09d510e9ceedf7e0a798dfe06ef" level="file">
+            <did>
+              <unittitle>Memoranda Regarding Alger Hiss: Maids</unittitle>
+              <unitdate datechar="creation" normal="1949/1949">1949</unitdate>
+              <container altrender="Record carton" id="aspace_78ec9fb8b46bd0bc017c9ef4e6ed2a16" label="Mixed Materials [31142054856649]" type="Box">3</container>
+              <container id="aspace_7156bcc5aec8502a57519b67ecd96a19" parent="aspace_78ec9fb8b46bd0bc017c9ef4e6ed2a16" type="Folder">39</container>
+            </did>
+          </c>
+          <c id="aspace_c803c78a5a186261dd13353c43712e35" level="file">
+            <did>
+              <unittitle>Mimeographed Copies of Letters sent to Alger Hiss: Sent by Carnegie Endowment </unittitle>
+              <unitdate datechar="creation" normal="1948/1948">1948</unitdate>
+              <container altrender="Record carton" id="aspace_68df092faa70ae41d59fa99c3f09ea5b" label="Mixed Materials [31142054856656]" type="Box">4</container>
+              <container id="aspace_8f31d37f6056c5f5fb7d8d29a43e414a" parent="aspace_68df092faa70ae41d59fa99c3f09ea5b" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_e198d31ced5269db8f91d1e3013158e7" level="file">
+            <did>
+              <unittitle>Hiss Residency</unittitle>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_1fa842768dc856c403c51b505209bfca" label="Mixed Materials [31142054856656]" type="Box">4</container>
+              <container id="aspace_174a2a22525fb2120a6938daaa94e5c0" parent="aspace_1fa842768dc856c403c51b505209bfca" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_fcc220b67a37b1765ad90a332746658b" level="file">
+            <did>
+              <unittitle>Von Mehren, Robert: Second Hiss Trial Notes, Volume V and VI</unittitle>
+              <unitid>cuid807</unitid>
+              <unitdate datechar="creation" normal="1949/1950" type="inclusive">1949-1950</unitdate>
+              <container altrender="Record carton" id="aspace_f0b7a6ebf46b379845d2d23502a5087a" label="Mixed Materials [31142054856656]" type="Box">4</container>
+              <container id="aspace_6ab901087635fd044adccac596a8ca27" parent="aspace_f0b7a6ebf46b379845d2d23502a5087a" type="Folder">6</container>
+              <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/xgxd2bw1" xlink:role="image-service" xlink:show="new" xlink:title="Von Mehren, Robert: Second Hiss Trial Notes, Volume V and VI" xlink:type="simple">
+                <daodesc>
+                  <p>Von Mehren, Robert: Second Hiss Trial Notes, Volume V and VI: 1949-1950</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c>
+          <c id="aspace_a100cd3e1e2bb10b448525078f22388b" level="file">
+            <did>
+              <unittitle>Clippings</unittitle>
+              <unitdate datechar="creation" normal="1948/1976" type="inclusive">1948 - 1952, 1975 - 1976</unitdate>
+              <container altrender="Record carton" id="aspace_2b62aed653e7879ef4ed76091383f5d1" label="Mixed Materials [31142054856656]" type="Box">4</container>
+              <container id="aspace_8f816649815ac00f89d3ad60bd92ce3a" parent="aspace_2b62aed653e7879ef4ed76091383f5d1" type="Folder">7-27</container>
+              <container altrender="Record carton" id="aspace_c4f49d3d0405a58cce5d6293f164ba1f" label="Mixed Materials [31142054856664]" type="Box">5</container>
+              <container id="aspace_402491d074babc1bd5f5f0cfe76c6369" parent="aspace_c4f49d3d0405a58cce5d6293f164ba1f" type="Folder">1-14</container>
+            </did>
+          </c>
+          <c id="aspace_b7a603c6d86310d8ec346576f2df3002" level="file">
+            <did>
+              <unittitle>Von Mehren, Robert: Second Hiss Trial Notes - 1949 June &amp; 2001 May 22</unittitle>
+              <unitid>cuid808</unitid>
+              <unitdate datechar="creation" normal="1949/1949">1949</unitdate>
+              <container altrender="Record carton" id="aspace_94b43c1abb283775e82cce30deddb566" label="Mixed Materials [31142054856656]" type="Box">4</container>
+              <container id="aspace_e42b61e1a014b94caa4e7ef21d008638" parent="aspace_94b43c1abb283775e82cce30deddb566" type="Folder">3</container>
+              <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/sqv9sbcr" xlink:role="image-service" xlink:show="new" xlink:title="Von Mehren, Robert: Second Hiss Trial Notes - 1949 June &amp; 2001 May 22" xlink:type="simple">
+                <daodesc>
+                  <p>Von Mehren, Robert: Second Hiss Trial Notes - 1949 June &amp; 2001 May 22: 1949-</p>
+                </daodesc>
+              </dao>
+            </did>
+          </c>
+          <c id="aspace_8e709e2da91bf4dc74902a3b42063741" level="file">
+            <did>
+              <unittitle>Von Mehren, Robert: Second Hiss Trial Notes, Volume I and II</unittitle>
+              <unitdate datechar="creation" normal="1949-11/1949-11">1949-11</unitdate>
+              <container altrender="Record carton" id="aspace_65142cdf6bfe19ecc95b11f6434c8bee" label="Mixed Materials [31142054856656]" type="Box">4</container>
+              <container id="aspace_4abacd94e5cd05e7b7fe734e7db90177" parent="aspace_65142cdf6bfe19ecc95b11f6434c8bee" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_56e850b9fac40ad213c1cedc43efe058" level="file">
+            <did>
+              <unittitle>Von Mehren, Robert: Second Hiss Trial Notes, Volume III and IV</unittitle>
+              <unitdate datechar="creation" normal="1949-12/1949-12">1949-12</unitdate>
+              <container altrender="Record carton" id="aspace_def913ccd10b1976cb3ddbd5e6292213" label="Mixed Materials [31142054856656]" type="Box">4</container>
+              <container id="aspace_327f0080dedd9a9ac74feac028f123b9" parent="aspace_def913ccd10b1976cb3ddbd5e6292213" type="Folder">5</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_f6568df00e3469606796693bed304105" level="subseries">
+          <did>
+            <unittitle>Sub-Series II.B: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1948/1950" type="inclusive">1948 - 1965, 1974 - 1979</unitdate>
+            <container altrender="Record carton" id="aspace_0ae33842edfbe213902b6efba551c691" label="Mixed Materials [31142054856672]" type="Box">6</container>
+            <container id="aspace_14a29ecda5dfdd7aebd043a6e441152f" parent="aspace_0ae33842edfbe213902b6efba551c691" type="Folder">1-13</container>
+          </did>
+          <scopecontent id="aspace_1e52abc8fd5847412b15e6439763a379">
+            <head>Scope and Contents</head>
+            <p>This sub-series contains the Debevoise &amp; Plimpton law firm's correspondence related to the perjury trials of Alger Hiss. Correspondence dates from December 1948 to 1979 and documents the firm's representation of Hiss from the time of his testimony before a federal grand jury in New York up to his petition for a writ of <emph render="italic">coram nobis</emph> in 1979. The bulk of the correspondence is between attorneys at Debevoise &amp; Plimpton and other firms regarding legal services and opinions.  Much of the early correspondence dated 1948 and 1949 is between Hiss and his attorneys, while correspondence dating from 1950 and 1975 contains more correspondence from outside individuals not directly involved with the case.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_b9c6e554db7be9a0c173dc8cdad5901d" level="subseries">
+          <did>
+            <unittitle>Sub-Series II.C: Interviews</unittitle>
+            <unitdate datechar="creation" normal="1948/1950" type="inclusive">1948-1950</unitdate>
+            <container altrender="Record carton" id="aspace_8e3888d8b6bfc0da1d65a8730da629d9" label="Mixed Materials [31142054856672]" type="Box">6</container>
+            <container id="aspace_4e11f237c9ee27a4add8a2f37e308d96" parent="aspace_8e3888d8b6bfc0da1d65a8730da629d9" type="Folder">14-54</container>
+          </did>
+          <scopecontent id="aspace_b590147196b98305b4a974e0432f0781">
+            <head>Scope and Contents</head>
+            <p>This sub-series includes notes, correspondence, and transcripts related to witness interviews used during the Hiss perjury trials. Not all files contain transcripts of interviews, and not all individuals who are featured in the files were brought as witnesses during the trials. Several files were created for individuals sought as witnesses, but who were never brought to testify. Many of the files contain notes regarding testimony or interviews with witnesses or potential witnesses. These files frequently contain Alger Hiss's personal commentary about witness statements and explanations of his association with the individuals.</p>
+          </scopecontent>
+          <c id="aspace_058e060469f26a10bd95372d2d92c85d" level="file">
+            <did>
+              <unittitle>Individuals A - H</unittitle>
+              <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+              <container altrender="Record carton" id="aspace_6bde24bc6fc5e67789cfb6f80d95a48b" label="Mixed Materials [31142054856672]" type="Box">6</container>
+              <container id="aspace_1e561945c998b1621cbe98d04e306846" parent="aspace_6bde24bc6fc5e67789cfb6f80d95a48b" type="Folder">14-54</container>
+            </did>
+          </c>
+          <c id="aspace_ff09d5130d07e74e624b283177ee8c79" level="file">
+            <did>
+              <unittitle>Individuals H - Y</unittitle>
+              <unitdate datechar="creation" normal="1942/1950" type="inclusive">1942, 1948 - 1950</unitdate>
+              <container altrender="Record carton" id="aspace_fdbecc0b08d5994ea136d23aaa24ac5d" label="Mixed Materials [31142054856706]" type="Box">7</container>
+              <container id="aspace_c95008d96d326e037e78b2acacbe5eee" parent="aspace_fdbecc0b08d5994ea136d23aaa24ac5d" type="Folder">1-87</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_feeb02440c69b1b3481701fb8d8e1388" level="subseries">
+          <did>
+            <unittitle>Sub-Series II.D: Government Documents</unittitle>
+            <unitdate datechar="creation" normal="1938/1949" type="inclusive">1938, 1948 - 1949</unitdate>
+            <container altrender="Record carton" id="aspace_4a4f5e2a8f4b886c0690fbf0b778817a" label="Mixed Materials [31142054856706]" type="Box">7</container>
+            <container id="aspace_c7b5e35931d37748e5592336b152267d" parent="aspace_4a4f5e2a8f4b886c0690fbf0b778817a" type="Folder">88-95</container>
+          </did>
+          <scopecontent id="aspace_222a17db5a808d502a63ba6fdfa644b0">
+            <head>Scope and Contents</head>
+            <p>This sub-series contains copies the documents known as the "Baltimore Papers" or "Pumpkin Papers," which Whittaker Chambers claimed Alger Hiss transmitted to him for the purpose of espionage. These documents were presented as evidence by the plaintiff during the perjury trials of <emph render="italic">United States vs. Alger Hiss</emph>. Photocopies of the documents are included in this sub-series along memoranda, notes, and commentary written by Alger Hiss's legal team.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ca6534dc75f2daa3921cc2023d72f8a4" level="subseries">
+          <did>
+            <unittitle>Sub-Series II.E: Trial Transcripts</unittitle>
+            <unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate>
+          </did>
+          <scopecontent id="aspace_0179a3029ee550d09dbb8b00aaa90986">
+            <head>Scope and Contents</head>
+            <p>This series contains a set of complete, bound trial transcripts of the legal case <emph render="italic">United States vs. Alger Hiss</emph>. Transcripts are in volumes I-X, and were prepared by the court in response to Hiss's 1950 appeal of his conviction. Trial transcripts are also accompanied by copies of printed briefs, petitions, memoranda, and affidavits also prepared by the court in response to the appeal.</p>
+          </scopecontent>
+          <c id="aspace_e0e2a5d54ce04685f8f8ba232ba0697e" level="file">
+            <did>
+              <unittitle><emph render="italic">United States of America vs. Alger Hiss</emph>: Petition for a Writ of Certiorari</unittitle>
+              <unitdate datechar="creation" normal="1950/1950">1950 October</unitdate>
+              <container altrender="Record carton" id="aspace_f9751ee44ea12c654ef9a4c2ea82b479" label="Mixed Materials [31142054856706]" type="Box">7</container>
+              <container id="aspace_5a34231aa02f8ce34ff81f50aa3c32c2" parent="aspace_f9751ee44ea12c654ef9a4c2ea82b479" type="Folder">96</container>
+            </did>
+          </c>
+          <c id="aspace_52464fb820ec0c65378ec39eec61720f" level="file">
+            <did>
+              <unittitle><emph render="italic">United States of America vs. Alger Hiss</emph>: Brief for Appellant</unittitle>
+              <unitdate datechar="creation" normal="1950/1950">1950 September 7</unitdate>
+              <container altrender="Record carton" id="aspace_c0b58461ab17225e7344fe21bbf86296" label="Mixed Materials [31142054856706]" type="Box">7</container>
+              <container id="aspace_02ccde9fb74b628758e7d621a19b2126" parent="aspace_c0b58461ab17225e7344fe21bbf86296" type="Folder">97</container>
+            </did>
+          </c>
+          <c id="aspace_c520150a49ca635798e46f82cefec250" level="file">
+            <did>
+              <unittitle><emph render="italic">United States of America vs. Alger Hiss</emph>: Briefs for Appellant</unittitle>
+              <unitdate datechar="creation" normal="1950/1950">1950</unitdate>
+              <container altrender="Record carton" id="aspace_fa0d7461db9c6826d6c0a4b2f0c0e471" label="Mixed Materials [31142054856706]" type="Box">7</container>
+              <container id="aspace_f893758898898cdfe1e5ad60b4d10aec" parent="aspace_fa0d7461db9c6826d6c0a4b2f0c0e471" type="Folder">98</container>
+            </did>
+          </c>
+          <c id="aspace_d51c8bd56f5adc969a8c59efe8e2b624" level="file">
+            <did>
+              <unittitle><emph render="italic">United States of America vs. Alger Hiss</emph> Volume I - IX</unittitle>
+              <unitdate datechar="creation" normal="1950/1950">circa 1950</unitdate>
+              <container altrender="Record carton" id="aspace_8185dff08b7c35587db0c166de86b399" label="Mixed Materials [31142054856706]" type="Box">7</container>
+              <container id="aspace_daf9f70219f87166173ce42e4ebd01ea" parent="aspace_8185dff08b7c35587db0c166de86b399" type="Folder">99-100</container>
+              <container altrender="Record carton" id="aspace_70cd5a025bd9cd5aa86ce0aa64572d59" label="Mixed Materials [31142054856698]" type="Box">8</container>
+              <container id="aspace_d84e0bfa7143a415fcb169f4b8c3289c" parent="aspace_70cd5a025bd9cd5aa86ce0aa64572d59" type="Folder">1-9</container>
+              <container altrender="Manuscript box - Legal" id="aspace_727ed801fa232e62d8757fc43b96317c" label="Mixed Materials [31142054856680]" type="Box">9</container>
+              <container id="aspace_ebd551684073022a2ca5e9329dd2a62e" parent="aspace_727ed801fa232e62d8757fc43b96317c" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_41cdebde07f5d28a22ffc1560ec8d082" level="file">
+            <did>
+              <unittitle><emph render="italic">United States of America vs. Alger Hiss</emph>: Index to Transcript of Record</unittitle>
+              <unitdate datechar="creation" normal="1950/1950">circa 1950</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7e89decdfb286c7ef2bb2dbfb848a8ff" label="Mixed Materials [31142054856680]" type="Box">9</container>
+              <container id="aspace_d657b738230ae793a7fb67bc39f4b388" parent="aspace_7e89decdfb286c7ef2bb2dbfb848a8ff" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_e9ba25bf61570e88b283a4203a081eee" level="file">
+            <did>
+              <unittitle><emph render="italic">United States of America vs. Alger Hiss</emph>: Memoranda</unittitle>
+              <unitdate datechar="creation" normal="1950/1952" type="inclusive">1950-1952</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_d170896ce4f2ea9aba410de23850d4fc" label="Mixed Materials [31142054856680]" type="Box">9</container>
+              <container id="aspace_e8a16f1707ada073523d5895e132ea48" parent="aspace_d170896ce4f2ea9aba410de23850d4fc" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_662b087049ea50f51ee164bcb7b335c6" level="file">
+            <did>
+              <unittitle><emph render="italic">United States of America vs. Alger Hiss</emph>: Affidavits</unittitle>
+              <unitdate datechar="creation" normal="1952/1952">1952</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7339cacfd53bbe197cfe50b8162bae17" label="Mixed Materials [31142054856680]" type="Box">9</container>
+              <container id="aspace_9a101a513ffb161dcc4687ba2738b378" parent="aspace_7339cacfd53bbe197cfe50b8162bae17" type="Folder">4</container>
+            </did>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_267">mss_267</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Alan Sondheim Papers <num>MSS.267</num></titleproper>
+        <author>Rachel Mahre</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>October 2021</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 21:23:05 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Alan Sondheim Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Sondheim, Alan</persname>
+      </origination>
+      <unitid>MSS.267</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">55.5 Linear Feet</extent>
+        <extent altrender="carrier">in 52 records cartons, 6 flat boxes, 1 small cassette box, and 1 large reel</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">95 sound tape reels</extent>
+        <extent altrender="carrier">94 1/4" audio reels and 1 1/2" audio reel</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">215 audiocassettes</extent>
+        <extent altrender="carrier">214 compact cassettes and 1 microcassette</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">45 film reels</extent>
+        <extent altrender="carrier">15 8mm films, 4 super8 films, 21 16mm films, 4 35mm films, 1 offsite film</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">87 videoreels (1/2 inch)</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">100 videocassettes (u-matic)</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">7 videocassettes (betamax)</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 videocassettes (betacam)</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">124 videocassettes (vhs)</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 videocassettes (minidv)</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 sound discs (vinyl)</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">21 electronic discs (cd-rom)</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">16 dvd-r disks</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 3.5" floppy disks</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 media elements</extent>
+        <extent altrender="carrier">1 hard drive</extent>
+      </physdesc>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">9 items</extent>
+        <extent altrender="carrier">9 artifacts</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1965/2002" type="inclusive">1965-2002</unitdate>
+      <langmaterial id="aspace_07f1f9f8711105fef5497f20ecdcc4ee">Materials are in English.</langmaterial>
+      <container altrender="Hollinger Cassette Box 9.5" id="aspace_fb7ee3fd28f00584e6ae33935779115b" label="Mixed Materials [31142063601614]" type="Box">1</container>
+      <container altrender="Record carton" id="aspace_bc240d620166eca277be2067e9627c57" label="Mixed Materials [31142063406642]" type="Box">2</container>
+      <container altrender="Record carton" id="aspace_bc2020f54117acbd8a42a64a46ed6853" label="Mixed Materials [31142063406659]" type="Box">3</container>
+      <container altrender="Record carton" id="aspace_671b4886b59f94718d4f0e8667fc3531" label="Mixed Materials [31142063406667]" type="Box">4</container>
+      <container altrender="Record carton" id="aspace_0a767d03c435bc6172e0e55f081120b6" label="Mixed Materials [31142063406675]" type="Box">5</container>
+      <container altrender="Record carton" id="aspace_ab431b746992a45e091830f1700d9647" label="Mixed Materials [31142063406683]" type="Box">6</container>
+      <container altrender="Record carton" id="aspace_1ca66a40979373cf3b34e4117eec3f53" label="Mixed Materials [31142063406691]" type="Box">7</container>
+      <container altrender="Record carton" id="aspace_12f4ce829e2d391ee52e27725e2fe610" label="Mixed Materials [31142063406709]" type="Box">8</container>
+      <container altrender="Flat OS Box - 16" id="aspace_91c2f789d73cf37bc6ad67619230531d" label="Mixed Materials [31142063406717]" type="Box">9</container>
+      <container altrender="Flat OS Box - 16" id="aspace_b8a15ba1979fc4867dca55adaf95f021" label="Mixed Materials [31142063406725]" type="Box">10</container>
+      <container altrender="Flat OS Box - 16" id="aspace_1878fcbdcf1c7670d8cc269ae1be9792" label="Mixed Materials [31142063406733]" type="Box">11</container>
+      <container altrender="Flat Box - 12 x 16" id="aspace_874e6aa56d092ad776e3fc9b73e9c991" label="Mixed Materials [31142063406741]" type="Box">12</container>
+      <container altrender="Flat OS Box - 16" id="aspace_a44398316e1d03fe0470ccaa5aae7375" label="Mixed Materials [31142063406758]" type="Box">13</container>
+      <container altrender="Record carton" id="aspace_2de772117faa228907c4bbc1e0c52120" label="Mixed Materials [31142063406766]" type="Box">14</container>
+      <container altrender="Record carton" id="aspace_e9e6591bb7b1cab3b99cced6c25d724c" label="Mixed Materials [31142063406816]" type="Box">15</container>
+      <container altrender="Record carton" id="aspace_1a60a26dbe5310c422461be61ca55e67" label="Mixed Materials [31142063406782]" type="Box">16</container>
+      <container altrender="Record carton" id="aspace_8c0c79100adc8456c9bc38d67a4c9a6e" label="Mixed Materials [31142063406790]" type="Box">17</container>
+      <container altrender="Record carton" id="aspace_2b38c27da6dee8a2529c6bd61824df7c" label="Mixed Materials [31142063406808]" type="Box">18</container>
+      <container altrender="Record carton" id="aspace_5de3a86dc3b994e4ad196593a6168ba1" label="Mixed Materials [31142063406865]" type="Box">19</container>
+      <container altrender="Record carton" id="aspace_c87a01bfb88660384c386ada069e89b3" label="Mixed Materials [31142063406824]" type="Box">20</container>
+      <container altrender="Record carton" id="aspace_2963733ad248785721641cb43b741f59" label="Mixed Materials [31142063406832]" type="Box">21</container>
+      <container altrender="Flat OS Box - 16" id="aspace_4e3a20234f14f3261b9a6863e7a6966b" label="Mixed Materials [31142063406774]" type="Box">22</container>
+      <container altrender="Record carton" id="aspace_a0106008949ae54a8fa9688f82d2de1d" label="Mixed Materials [31142063406840]" type="Box">23</container>
+      <container altrender="Record carton" id="aspace_300f949c293566be222e8f3545aac13e" label="Mixed Materials [31142063406857]" type="Box">24</container>
+      <container altrender="Record carton" id="aspace_9478bf5c77d92072e2c491a2beb6a647" label="Mixed Materials [31142063406873]" type="Box">25</container>
+      <container altrender="Record carton" id="aspace_befdea740580852a4597c6161d767403" label="Mixed Materials [31142063406881]" type="Box">26</container>
+      <container altrender="Record carton" id="aspace_25fb7e5f0f07bef6c3f2714fab6db8b0" label="Mixed Materials [31142063406899]" type="Box">27</container>
+      <container altrender="Record carton" id="aspace_c2ceed26bf7dde9df4b783c291b374ce" label="Mixed Materials [31142063406915]" type="Box">28</container>
+      <container altrender="Record carton" id="aspace_3e7130e8969e4147eaac3222f0cb044d" label="Mixed Materials [31142063406907]" type="Box">29</container>
+      <container altrender="Record carton" id="aspace_b0b8cbdf8a39fa3e393b7f7d1b818d77" label="Mixed Materials [31142063406923]" type="Box">30</container>
+      <container altrender="Record carton" id="aspace_c5b63e1bcfb3a2ebcafae8554cbfbb29" label="Mixed Materials [31142063406980]" type="Box">31</container>
+      <container altrender="Record carton" id="aspace_1da3ea5454b1c627539f334a9caf8e5e" label="Mixed Materials [31142063406956]" type="Box">32</container>
+      <container altrender="Record carton" id="aspace_307d40d58877f414c69e56f8c1878cd1" label="Mixed Materials [31142063406931]" type="Box">33</container>
+      <container altrender="Record carton" id="aspace_d53fcd013245cf9553cc2f6c7720327d" label="Mixed Materials [31142063406949]" type="Box">34</container>
+      <container altrender="Record carton" id="aspace_26720c6f376740a2d66e91d36346ba41" label="Mixed Materials [31142063406964]" type="Box">35</container>
+      <container altrender="Record carton" id="aspace_3b34f821f07c7568c9d9f32c9291f881" label="Mixed Materials [31142063406972]" type="Box">36</container>
+      <container altrender="Record carton" id="aspace_041244300983a9ed30bb1cc7b7d7a3d3" label="Mixed Materials [31142063406998]" type="Box">37</container>
+      <container altrender="Record carton" id="aspace_f822da121af53777a4f05497cb8ed10a" label="Mixed Materials [31142063407004]" type="Box">38</container>
+      <container altrender="Record carton" id="aspace_9f7857d81504f99ad5cf148ead94122f" label="Mixed Materials [31142063407012]" type="Box">39</container>
+      <container altrender="Record carton" id="aspace_f547d0f48ac2325e807539887e49b4f9" label="Mixed Materials [31142063407061]" type="Box">40</container>
+      <container altrender="Record carton" id="aspace_7b4e126894037472e2e7056d468d37de" label="Mixed Materials [31142063407053]" type="Box">41</container>
+      <container altrender="Record carton" id="aspace_c4ee0e9f116d8d1d423d01bc745b1ccb" label="Mixed Materials [31142063407020]" type="Box">42</container>
+      <container altrender="Record carton" id="aspace_00ddecfc1ad1ffa73ca32712a2851e2a" label="Mixed Materials [31142063407038]" type="Box">43</container>
+      <container altrender="Record carton" id="aspace_099201af7f92562d50fe659edf0991c1" label="Mixed Materials [31142063407046]" type="Box">44</container>
+      <container altrender="Record carton" id="aspace_a35fb815ada68ef24bd1e3a4c463d434" label="Mixed Materials [31142063407079]" type="Box">45</container>
+      <container altrender="Record carton" id="aspace_dc5de20ff82581861187c1bcf2c5778c" label="Mixed Materials [31142063407087]" type="Box">46</container>
+      <container altrender="Record carton" id="aspace_c0f02d19458bafe620f15f40c4833d60" label="Mixed Materials [31142063407095]" type="Box">47</container>
+      <container altrender="Record carton" id="aspace_68b04924bfeabb7ecab60fd182a44a53" label="Mixed Materials [31142063407103]" type="Box">48</container>
+      <container altrender="Record carton" id="aspace_3f47c8d8845f72075897a2095f68d2a4" label="Mixed Materials [31142063407111]" type="Box">49</container>
+      <container altrender="Record carton" id="aspace_4ca8b98bfdb9fca6bacb71d422b24edf" label="Mixed Materials [31142063407129]" type="Box">50</container>
+      <container altrender="Record carton" id="aspace_3bf474cc7fcef2e843ff81793b1ccc0c" label="Mixed Materials [31142063407137]" type="Box">51</container>
+      <container altrender="Box - 11.25 x 9.25" id="aspace_3040b1ddbc73f669745b418d66dcbb87" label="Mixed Materials [31142063275278]" type="Box">52</container>
+      <container altrender="Record carton" id="aspace_368e2772ce56f36c89c5e189de2984dd" label="Mixed Materials [31142063269511]" type="Box">53</container>
+      <container altrender="Record carton" id="aspace_97350391fefcda6569ec620697daa7b3" label="Mixed Materials [31142063269511]" type="Box">53</container>
+      <container altrender="Record carton" id="aspace_4568c8730519f8db5267158b0711f717" label="Mixed Materials [31142063269537]" type="Box">54</container>
+      <container altrender="Case - 12 x 10.5" id="aspace_67a153403e7346f760ca0a4d07668c7f" label="Mixed Materials [31142063275286]" type="Box">55</container>
+      <container altrender="Record carton" id="aspace_2c259c40da7339aba268b4667a90f028" label="Mixed Materials [31142063275294]" type="Box">56</container>
+      <container altrender="Record carton" id="aspace_3ee5448eab367e9e49a11f30db3f0413" label="Mixed Materials [31142063269529]" type="Box">57</container>
+      <container altrender="Record carton" id="aspace_62089d7c6812c9025424e2328ba9e2f9" label="Mixed Materials [31142063166113]" type="Box">58</container>
+      <container altrender="Record carton" id="aspace_20e0a789f048df120d0346633a5f983d" label="videoreels (1/2 inch) [31142063100211]" type="Box">Quarantine 1</container>
+    </did>
+    <acqinfo id="aspace_7ec5e84ad470ead84ca6c0234d7db69b">
+      <head>Immediate Source of Acquisition</head>
+      <p>Purchased from Alan Sondheim in April, 2010; the accession number associated with this collection is 2009-267.</p>
+    </acqinfo>
+    <phystech id="aspace_a9ac0a80a070b53252199a53bf573889">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact [Fales, special.collections@nyu.edu, 212-998-2596] with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <phystech id="aspace_59e5303a32dc76a4afe31da427b09ffe">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Born-digital materials have not been transferred and may not be available to researchers. Researchers may request access copies.  To request that material be transferred, or if you are unsure if material has been transferred, please contact [Fales, special.collections@nyu.edu, 212-998-2596] with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <prefercite id="aspace_92782df7fc905cf97a657bff3a150ab2">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Alan Sondheim Papers; MSS 267; box number; folder number; Fales Library and Special Collections, New York University.</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="lcsh">Cyberspace |x Political aspects.</subject>
+      <subject source="lcsh">Art and the internet -- Exhibitions</subject>
+      <subject source="lcsh">Computer art.</subject>
+      <subject source="lcsh">Digital art |z United States.</subject>
+      <subject source="lcsh">New media art.</subject>
+      <subject source="lcsh">Video art -- United States.</subject>
+      <subject authfilenumber="sh85046442" source="lcsh">Experimental films -- United States</subject>
+      <subject source="lcsh">Slides (Photography)</subject>
+      <subject source="lcsh">Gender identity -- United States</subject>
+      <subject source="lcsh">Feminist theory.</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_7861564361caaadfa46b3481b43644fa" level="series">
+        <did>
+          <unittitle>Series I. Written Work</unittitle>
+        </did>
+      </c>
+      <c id="aspace_386c98a551f64c975a8f42fa83e37272" level="series">
+        <did>
+          <unittitle>Series II. Visual Art</unittitle>
+        </did>
+      </c>
+      <c id="aspace_186b7be4fd21896b4df0f9d7d4651a30" level="series">
+        <did>
+          <unittitle>Series III. Musical Recordings</unittitle>
+        </did>
+      </c>
+      <c id="aspace_db2c21bc35e4fcf2ba55ab8a56d61550" level="series">
+        <did>
+          <unittitle>Series IV. Film and Video Recordings</unittitle>
+        </did>
+        <c id="aspace_4d728adfa2bad85719c99bcb809645d3" level="file">
+          <did>
+            <unittitle>Found Footage</unittitle>
+            <unitdate datechar="creation" normal="1950/1984" type="inclusive">1950-1984</unitdate>
+            <container altrender="Record carton" id="aspace_05f0a5628765f0865d02c7f3d939019e" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_0aee2b897fa8ec91059d6c0a89c7b7a9" parent="aspace_05f0a5628765f0865d02c7f3d939019e" type="8mm_Film_Reel">267_001</container>
+          </did>
+          <scopecontent id="aspace_d2b5c47160ef3201dc6c1012959dce53">
+            <head>Scope and Contents</head>
+            <p>Label on original can says "0. Washington D.C. 1950; 1. 1950 found footage; 2. Corporate film '84?"</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_23d4f46dbc5b46d0c94e519a474d7496" level="file">
+          <did>
+            <unittitle>.1.</unittitle>
+            <unitdate datechar="creation" normal="1970-07/1970-07">July, 1970</unitdate>
+            <container altrender="Record carton" id="aspace_5ed6525901a39d7af1f1830671ed0aa3" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_a3d1c83bc48f1cc384537d2dd8a42082" parent="aspace_5ed6525901a39d7af1f1830671ed0aa3" type="8mm_Film_Reel">267_003</container>
+          </did>
+        </c>
+        <c id="aspace_29e7e17c37a2abb580055482951633e9" level="file">
+          <did>
+            <unittitle>Car</unittitle>
+            <unitdate datechar="creation" normal="1970-07/1970-07">July, 1970</unitdate>
+            <container altrender="Record carton" id="aspace_8168717472b38b0a1c7a22e603b0e80e" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_a26c1fea1033aa3f95f226f2c7ad1b4b" parent="aspace_8168717472b38b0a1c7a22e603b0e80e" type="8mm_Film_Reel">267_002</container>
+          </did>
+          <phystech id="aspace_60b1be4f8ab64f4d28ebfe1288be8016">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Format: Super 8 mm</p>
+          </phystech>
+        </c>
+        <c id="aspace_dde2680b95ecceca3b459712a82a62fa" level="file">
+          <did>
+            <unittitle>Oscelloscope Films</unittitle>
+            <unitdate datechar="creation" normal="1970/1975" type="inclusive">1970-1975</unitdate>
+            <container altrender="Record carton" id="aspace_456269dd0b473ab759e9e82ded8d4f24" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_718c765748549234cc1df25bb79379bd" parent="aspace_456269dd0b473ab759e9e82ded8d4f24" type="8mm_Film_Reel">267_005</container>
+          </did>
+          <scopecontent id="aspace_de2179ffe62d86c403cf27d9e63776b1">
+            <head>Scope and Contents</head>
+            <p>Original can label says "1. 2 x 3 Oscelloscope Waveform; 2. Nova Scotia Gestmal [?] Work; 3. Orseus; 4. Beth Doubled; 5. wh SEM; 6. Oscelloscope over TV, Overlaw Talking Heads; 7. Oscelloscope; 8. Chris and Don; 1972? - 1973 - 1974?"</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_f930e2f78951c1f2c13ef45350e654bf" level="file">
+          <did>
+            <unittitle>4-3-2-0 Spacing: Brown University </unittitle>
+            <unitid>cuid21360</unitid>
+            <unitdate datechar="creation" normal="1973/1973">1973</unitdate>
+            <container altrender="Record carton" id="aspace_96a760393cb6a18caae9e533fdb6c911" label="videoreels (1/2 inch) [31142063406873]" type="Box">25</container>
+          </did>
+          <phystech id="aspace_ab35169b15ccf75ec3f033c98b465f92">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Format: EIAJ 1/2" Open Reel Video, Duration: 30 min.</p>
+          </phystech>
+        </c>
+        <c id="aspace_6d1b92805920040cb3a3a30154a0770f" level="file">
+          <did>
+            <unittitle>Additional footage from <emph render="italic">The Blue Tape </emph></unittitle>
+            <unitid>cuid21359</unitid>
+            <unitdate datechar="creation" normal="1974/1974">1974</unitdate>
+            <container altrender="Record carton" id="aspace_e7fc0f44c503438afcf358a37c0d8cf6" label="videoreels (1/2 inch) [31142063406964]" type="Box">35</container>
+            <container id="aspace_33083672a17e0d127717d02d2247c122" parent="aspace_e7fc0f44c503438afcf358a37c0d8cf6" type="reel">cuid21359</container>
+          </did>
+          <scopecontent id="aspace_683b19900a56ecfab9ab900fcbf17544">
+            <head>Scope and Contents</head>
+            <p>Additional footage from the Kathy Acker/Alan Sondheim video work "The Blue Tape." The tape is labeled "acker/sondheim satire/part 1."</p>
+          </scopecontent>
+          <phystech id="aspace_75048639a8f20f6982fc56cf0997fc2a">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Format: EIAJ 1/2" Open Reel Video, Duration: 30 min.</p>
+          </phystech>
+        </c>
+        <c id="aspace_38b58e4564325c20c3c48f5fef24d35b" level="file">
+          <did>
+            <unittitle>Travel Footage - Southwest and Northeast U.S.</unittitle>
+            <unitdate datechar="creation" normal="1975/1981" type="inclusive">1975-1981</unitdate>
+            <container altrender="Record carton" id="aspace_1067abb01b8237a37e6c8a459347a6e3" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_1d61ee04b63ba400fa1ef4f798317228" parent="aspace_1067abb01b8237a37e6c8a459347a6e3" type="8mm_Film_Reel">267_008</container>
+          </did>
+          <scopecontent id="aspace_626d4387c11dd705df49d61e242a2047">
+            <head>Scope and Contents</head>
+            <p>Original reel label says: "0. Introduction 1981; 1. Caldera, Los Alamos; 2. Pueblo ruin / Atomic Museum; 3. UCLA / Santa Monica; 4. NYC / Staten Island Market View; 5. Far Hills, N.J. '75; 6. S.E.M., Nova Scotia 77? 7. Instrumenalists, '81?"</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_17fa12ce91974a21a45ea6d8644456ef" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Theses After Marx Red Art Brigade</emph>
+            </unittitle>
+            <unitid>cuid21361</unitid>
+            <unitdate datechar="creation" normal="1976/1976">1976</unitdate>
+            <container altrender="Record carton" id="aspace_910cc7bd4f71ea5a7210ecfe278a1999" label="videoreels (1/2 inch) [31142063406782]" type="Box">16</container>
+          </did>
+          <phystech id="aspace_d8caf7f48936a63da2e98e1cc787cc51">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Format: EIAJ 1/2" Open Reel Video, Duration: 30 min.</p>
+          </phystech>
+        </c>
+        <c id="aspace_aafbf45292c3d0f36d8b8301b8896444" level="file">
+          <did>
+            <unittitle>Laura</unittitle>
+            <unitdate datechar="creation" normal="1979/1979">1979</unitdate>
+            <container altrender="Record carton" id="aspace_52796774cdd522d732055a8d674b96e9" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_37e4a1fbae5fb484eee5dde277566b6d" parent="aspace_52796774cdd522d732055a8d674b96e9" type="8mm_Film_Reel">267_006, 267_009</container>
+          </did>
+        </c>
+        <c id="aspace_525f78ef38fd7c11ebbaf5624a90824c" level="file">
+          <did>
+            <unittitle><emph render="italic">Hollywood</emph> -- Dup 1, Reel 2 of 2</unittitle>
+            <unitdate datechar="creation" normal="1981/1981">1981</unitdate>
+            <container altrender="Film Can (1.25&quot; height, any dimensions)" id="aspace_cce118ae8b11aba0e8818b95e97f9297" label="16mm film reels [31142063505591]" type="reel">mss267_container6</container>
+            <container id="aspace_38b0ffa544b2d36ff9577f4c32abf10e" parent="aspace_cce118ae8b11aba0e8818b95e97f9297" type="reel">mss267_container6</container>
+          </did>
+        </c>
+        <c id="aspace_9c32b0a3e5aaec0e7c5e219761485268" level="file">
+          <did>
+            <unittitle>Hollywood</unittitle>
+            <unitdate datechar="creation" normal="1981/1981">1981</unitdate>
+            <container altrender="Flat OS Box - 16" id="aspace_ccff66704c00b0a00c86d29ae899bc19" label="film [31142063406725]" type="Box">10</container>
+            <container id="aspace_a69a8b8dc7435d2ef6b835ce8e60c4a4" parent="aspace_ccff66704c00b0a00c86d29ae899bc19" type="16mm_film_reels">267_011, 267_012</container>
+          </did>
+        </c>
+        <c id="aspace_81e102c3226acca9aad869f74fce265d" level="file">
+          <did>
+            <unittitle>35mm Master Negatives</unittitle>
+            <unitdate datechar="creation" normal="1981/1981">1981</unitdate>
+            <container altrender="Record carton" id="aspace_b227fb06b95c3e2c56dc50b16f10ddf7" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_aae24d05b23c246320bbef1f41f4cbf7" parent="aspace_b227fb06b95c3e2c56dc50b16f10ddf7" type="35mm_film_reels">267_010</container>
+          </did>
+        </c>
+        <c id="aspace_70d132a7cfaec9b3e0c43e5fa7d73a46" level="file">
+          <did>
+            <unittitle>Talking Cure</unittitle>
+            <unitdate datechar="creation" normal="1982/1982">1982</unitdate>
+            <container altrender="Flat OS Box - 16" id="aspace_5eb49d0dac2244abc9d9bf8c38796a2f" label="film [31142063406725]" type="Box">10</container>
+            <container id="aspace_6aa4c30194715f26e5a77349021c0fba" parent="aspace_5eb49d0dac2244abc9d9bf8c38796a2f" type="16mm_film_reels">267_013</container>
+          </did>
+        </c>
+        <c id="aspace_f9a0988191b02a85550ddf2da65b312a" level="file">
+          <did>
+            <unittitle>This Is the Film in Which You Are Forgiven and This Is the Film in Which I Am Lost</unittitle>
+            <unitdate datechar="creation" normal="1982/1984" type="inclusive">1982-1984</unitdate>
+            <container altrender="Record carton" id="aspace_03b6c56085b62718116be218a1bc3ce6" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_bf926184081c3d0ff6389c70a4bbdfdf" parent="aspace_03b6c56085b62718116be218a1bc3ce6" type="16mm_film_reels">267_015</container>
+          </did>
+          <scopecontent id="aspace_2d412f39dcc475aa3847544b52089e0a">
+            <head>Scope and Contents</head>
+            <p>Original film can label says "Pia -- This is the film in which you are forgiven; This is the film in which I am lost; Silent 16-18 fps; 1982-1983; Alan Sondheim"</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_2f58b499ff461e6622431e241ad5ddba" level="file">
+          <did>
+            <unittitle>Tasmanian Master</unittitle>
+            <unitdate datechar="creation" normal="1983/1983">1983</unitdate>
+            <container altrender="Record carton" id="aspace_06ab403c7e0793a23b9caa82057e8f06" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_beb4db35dd16872520b43ad2922221b2" parent="aspace_06ab403c7e0793a23b9caa82057e8f06" type="16mm_film_reels">267_014</container>
+          </did>
+        </c>
+        <c id="aspace_5de61aaab7daa0afef90676315123707" level="file">
+          <did>
+            <unittitle>One Day in the Life of Tryon</unittitle>
+            <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+            <container altrender="Record carton" id="aspace_6129ada28c9f86d864871b47322267d6" label="film [31142063406972]" type="Box">36</container>
+            <container id="aspace_805cbcddb5296411bee9ce985db5b93d" parent="aspace_6129ada28c9f86d864871b47322267d6" type="16mm_film_reels">267_016</container>
+          </did>
+        </c>
+        <c id="aspace_fd7b54f190bca159ae2588d6640f3334" level="file">
+          <did>
+            <unittitle>Dallas Silent Footage</unittitle>
+            <unitdate datechar="creation" normal="1987/1987">1987</unitdate>
+            <container altrender="Record carton" id="aspace_bafeb27a20726fde38bd2a76fa20d558" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_7ef861fea982dc63ac0e2e2fd4b7a4e9" parent="aspace_bafeb27a20726fde38bd2a76fa20d558" type="16mm_film_reels">267_017</container>
+          </did>
+        </c>
+        <c id="aspace_d808fd9cc8cc05a5477497954c9d7d0b" level="file">
+          <did>
+            <unittitle>She Came in and Out of Me - Film the End</unittitle>
+            <unitdate datechar="creation" normal="1987/1987">1987</unitdate>
+            <container altrender="Record carton" id="aspace_b4d3b753c1c5ea58e2f8afc225dd99f5" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_ff4ec57a77c804ae4a608495da899f06" parent="aspace_b4d3b753c1c5ea58e2f8afc225dd99f5" type="16mm_film_reels">267_018</container>
+          </did>
+        </c>
+        <c id="aspace_d31c541453f400f972e3ce5e7269ec66" level="file">
+          <did>
+            <unittitle>Angelina</unittitle>
+            <unitdate datechar="creation" normal="1989/1989">1989</unitdate>
+            <container altrender="Record carton" id="aspace_d213257bffe9f62b6f12f8c89f4f09a5" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_6d5573d59e98f13a4eba2d1aa17c7e05" parent="aspace_d213257bffe9f62b6f12f8c89f4f09a5" type="8mm_Film_Reel">267_019</container>
+          </did>
+        </c>
+        <c id="aspace_b17db7c0fcf698af1db3d69e45c9d9b1" level="file">
+          <did>
+            <unittitle>Color Video Master</unittitle>
+            <unitdate datechar="creation" normal="1970/1990" type="inclusive">Undated</unitdate>
+            <container altrender="Flat OS Box - 16" id="aspace_031d50585111d084e9f99f29d8275097" label="film [31142063406725]" type="Box">10</container>
+            <container id="aspace_95b3c20142cc13a12d6391c93149a9a6" parent="aspace_031d50585111d084e9f99f29d8275097" type="16mm_film_reels">267_020</container>
+          </did>
+        </c>
+        <c id="aspace_117bc7e300c25f0c3203de7a69883461" level="file">
+          <did>
+            <unittitle>Compilation Film</unittitle>
+            <container altrender="Record carton" id="aspace_d9668cea46aaacc707df612a36dc4c87" label="film [31142063406972]" type="Box">36</container>
+            <container id="aspace_40400b96dcaf4ad4dc9c8d16768d9b03" parent="aspace_d9668cea46aaacc707df612a36dc4c87" type="16mm_film_reels">267_007</container>
+          </did>
+          <scopecontent id="aspace_f7fbe6a0db46ca58211684ce9d91dd11">
+            <head>Scope and Contents</head>
+            <p>Original film can label says "1973 Compilation Film; Before Tasmania 1981; Hartford Footage / Laura"</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_63501c9b7d175e531e77e7bf2719c729" level="file">
+          <did>
+            <unittitle>Fold Catastrophe</unittitle>
+            <unitdate datechar="creation" normal="1970/1990" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_1ea7af046deb67309408d40ba8ae0978" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_e9431c632530e1cce27d66d9a66e1be7" parent="aspace_1ea7af046deb67309408d40ba8ae0978" type="8mm_Film_Reel">267_027</container>
+          </did>
+        </c>
+        <c id="aspace_a5890fc8c808103e3a501ef2c802c8cf" level="file">
+          <did>
+            <unittitle>Georgian Bay</unittitle>
+            <unitdate datechar="creation" normal="1970/1990" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_f62d25cae6196867e5e95da6e4d04674" label="film [31142063406972]" type="Box">36</container>
+            <container id="aspace_a882755d09484fe8e1852107e9b9467a" parent="aspace_f62d25cae6196867e5e95da6e4d04674" type="16mm_film_reels">267_028</container>
+          </did>
+        </c>
+        <c id="aspace_830389040d103445e1cdd73b8277aff3" level="file">
+          <did>
+            <unittitle>Joanne - yr 300 footage, Halifax footage</unittitle>
+            <unitdate datechar="creation" normal="1970/1990" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_e1dca5fb608fecfd2e494de37c38f8b1" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_209884f65625cd658c6e8a3b1447c744" parent="aspace_e1dca5fb608fecfd2e494de37c38f8b1" type="8mm_Film_Reel">267_029, 267_030</container>
+          </did>
+        </c>
+        <c id="aspace_eb6aba1b6dddaef5d02c25ecebac9e16" level="file">
+          <did>
+            <unittitle>NYC FG Waterfall ACA Briarcliff Shreveport</unittitle>
+            <unitdate datechar="creation" normal="1970/1990" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_886f8c5788dfc8f6950594d66d42ac25" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_e9cecbf4c19a45cf208226497970a41a" parent="aspace_886f8c5788dfc8f6950594d66d42ac25" type="8mm_Film_Reel">267_024</container>
+          </did>
+        </c>
+        <c id="aspace_799899393479068cd5d0f54252de6ea9" level="file">
+          <did>
+            <unittitle>Old Moving Car Footage, Punk Footage</unittitle>
+            <unitdate datechar="creation" normal="1970/1990" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_c771d3c23d268c7e9c9721ca8aa09d14" label="film [31142063406972]" type="Box">36</container>
+            <container id="aspace_b8d0247ba80f80936e46a808a3af06a5" parent="aspace_c771d3c23d268c7e9c9721ca8aa09d14" type="16mm_film_reels">267_004</container>
+          </did>
+        </c>
+        <c id="aspace_1d77f9a099786442af8490ec7f9f5492" level="file">
+          <did>
+            <unittitle>S.E.M. Imagery</unittitle>
+            <unitdate datechar="creation" normal="1970/1990" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_c21dec802bf1cb9eb42345cd750b0c08" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_be26044f3ac366ab4c0647b3cb720301" parent="aspace_c21dec802bf1cb9eb42345cd750b0c08" type="8mm_Film_Reel">267_034</container>
+          </did>
+        </c>
+        <c id="aspace_b888cead373f84abc8052e1c6ec1de00" level="file">
+          <did>
+            <unittitle>Short Road Bit</unittitle>
+            <unitdate datechar="creation" normal="1970/1990" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_817e4b5687f67411e7a4b4ec6a1081a5" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_b403dfd76d960e760b2a97e4fbfb2126" parent="aspace_817e4b5687f67411e7a4b4ec6a1081a5" type="8mm_Film_Reel">267_036</container>
+          </did>
+        </c>
+        <c id="aspace_285d948b4b66befb7432a7bf8ec05e21" level="file">
+          <did>
+            <unittitle>Some Fall Shots</unittitle>
+            <unitdate datechar="creation" normal="1970/1990" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_4c53d048cab7343bb4256e449ca38ec3" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_374129ee4dda50fa2bbfdcfe3158a79b" parent="aspace_4c53d048cab7343bb4256e449ca38ec3" type="8mm_Film_Reel">267_035</container>
+          </did>
+        </c>
+        <c id="aspace_f3794886d65a967d89ea94ec7b7b7e8d" level="file">
+          <did>
+            <unittitle>Work of Inferno [?]</unittitle>
+            <unitdate datechar="creation" normal="1970/1990" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_79450ec6696033119b53fb7e2ddbd482" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_4dc5b64878c6b8dedb5be97a9ab0a9ee" parent="aspace_79450ec6696033119b53fb7e2ddbd482" type="8mm_Film_Reel">267_023</container>
+          </did>
+        </c>
+        <c id="aspace_c2dfc8a9bd0a8f6632f3f5983c9e8732" level="file">
+          <did>
+            <unittitle>World War II Canadian Training Film</unittitle>
+            <unitdate datechar="creation" normal="1970/1990" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_c1a14521d80e45824cd6aed83b7a0857" label="film [31142063406972]" type="Box">36</container>
+            <container id="aspace_0403452a3ac4aaa173645fea46ada5c7" parent="aspace_c1a14521d80e45824cd6aed83b7a0857" type="16mm_film_reels">267_022</container>
+          </did>
+        </c>
+        <c id="aspace_ff7c00ae0e60f1a238dcef719bf41f95" level="file">
+          <did>
+            <unittitle>Way Out West</unittitle>
+            <unitdate datechar="creation" normal="1970/1990" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_f9b0f85058aaf73af79a055f4ea358a2" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_bf7a3bc6501f4b947c1f6540f03c18bf" parent="aspace_f9b0f85058aaf73af79a055f4ea358a2" type="16mm_film_reels">267_026</container>
+          </did>
+        </c>
+        <c id="aspace_2f5b0245c8591df78c17acd7326d615f" level="file">
+          <did>
+            <unittitle>Untitled Film</unittitle>
+            <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+            <container altrender="Record carton" id="aspace_f203370fbfe809fffcaec5cc5edafb5a" label="film [31142063406972]" type="Box">36</container>
+            <container id="aspace_1bbef1c8c8686c66ea980c0dc1a3b255" parent="aspace_f203370fbfe809fffcaec5cc5edafb5a" type="16mm_film_reels">267_031</container>
+          </did>
+        </c>
+        <c id="aspace_99486ebde910bfda7aca46847eff1265" level="file">
+          <did>
+            <unittitle>Unlabeled</unittitle>
+            <unitdate datechar="creation" normal="1970/1990" type="inclusive">Undated</unitdate>
+            <container altrender="Flat OS Box - 16" id="aspace_eddfed80e92a067b1be0d0974b17203c" label="film [31142063406733]" type="Box">11</container>
+            <container id="aspace_01c3f75be72eefe561c384624c68b3c5" parent="aspace_eddfed80e92a067b1be0d0974b17203c" type="16mm_film_reels">267_021</container>
+            <container altrender="Record carton" id="aspace_27ea22c316ca8bd9a8feb6319998519a" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_4de99ed870cac0180b1eb202c646858a" parent="aspace_27ea22c316ca8bd9a8feb6319998519a" type="16mm_film_reels">267_025, 267_037, 267_038, 267_039</container>
+            <container altrender="Record carton" id="aspace_7f8616c18a515e4ae7bbb7d5c9a0c3d0" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_c526bfed6487062c2db8c10688b65168" parent="aspace_7f8616c18a515e4ae7bbb7d5c9a0c3d0" type="35mm_film_reels">267_032, 267_033</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_d9947fdd911b25cc42ed4f61313f2590" level="series">
+        <did>
+          <unittitle>Series V. Events</unittitle>
+        </did>
+        <c id="aspace_9acf6028441e412dbb02d799111e6a8f" level="file">
+          <did>
+            <unittitle>Brown University MCM 170 Class</unittitle>
+            <unitdate datechar="creation" normal="2002/2010" type="inclusive">c. 2007</unitdate>
+            <container altrender="Record carton" id="aspace_7d7529d3541d3f45ab60b3dd7df5a17f" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_8867adfcef997f6c65befbbe6991de1c" parent="aspace_7d7529d3541d3f45ab60b3dd7df5a17f" type="16mm_film_reels">267_040</container>
+          </did>
+        </c>
+        <c id="aspace_de0e3365aebae72ddc232299342844e5" level="file">
+          <did>
+            <unittitle>Brown University Intro Film</unittitle>
+            <unitdate datechar="creation" normal="2000/2010" type="inclusive">c. 2007</unitdate>
+            <container altrender="Record carton" id="aspace_306fcfa6097ebe614eddf2d985611848" label="film [31142063406667]" type="Box">4</container>
+            <container id="aspace_1b6d15dd4aff164e9b9f629221b5e350" parent="aspace_306fcfa6097ebe614eddf2d985611848" type="16mm_film_reels">267_041</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

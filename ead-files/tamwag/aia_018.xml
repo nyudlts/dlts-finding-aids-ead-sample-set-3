@@ -1,0 +1,1120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/aia_018">aia_018</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the New York Irish History Roundtable Records <num>AIA.018</num></titleproper>
+        <author>Megan O'Shea</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>April 2018</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 02:09:47 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>September 2018</date>
+        <item>Updated by Megan O'Shea to incorporate material from accession number 2018.110</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>New York Irish History Roundtable Records</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="naf">New York Irish History Roundtable</corpname>
+      </origination>
+      <unitid>AIA.018</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">21.57 Linear Feet</extent>
+        <extent altrender="carrier">in 43 manuscript boxes, 1 half manuscript box, 1 cassette box, 2 card boxes, and 2 record cartons</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">18 audiocassettes</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">3 videocassettes (vhs)</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">461.7 Megabytes</extent>
+        <extent altrender="carrier">in 62 computer files</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1867/2015" type="inclusive">1867-2015</unitdate>
+      <unitdate datechar="creation" normal="1987/2003" type="bulk">1987-2003</unitdate>
+      <physloc id="aspace_4a144c5e52b9c5f2379db8dae94b009a">Materials are stored off-site and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two days prior to research visit.</physloc>
+      <abstract id="aspace_ba67ad18f1395a447d0ff37e49843c03">The New York Irish History Roundtable, founded in 1984, encourages research on the history of the Irish in New York, New York, and provides a forum for professional and amateur historians and genealogists sharing an interest in this topic.  The Roundtable sponsors lectures, walking tours, graduate and undergraduate scholarships and awards, exhibitions, genealogy workshops, and publishes books, a bi-annual newsletter, and an annual journal, <emph render="italic">New York Irish History</emph>.  The collection documents all activities of the Roundtable from 1984 to 2011 and includes files of former officers and publications, both of the organization and on topics of interest to the officers and members.  The collection consists of mainly paper material, with some digital and audiovisual material.  Material in the collection includes correspondence, paper and digital drafts and published versions of Roundtable publications, photographs of events, agendas and minutes documenting meetings of the Board of Directors and Roundtable committees, and audiovisual material documenting special projects of the Roundtable.</abstract>
+      <langmaterial id="aspace_c6833bac916f5f7e27d2be2f51964259">Materials are in English.</langmaterial>
+    </did>
+    <bioghist id="aspace_7fada40d61463f96a7bcbfd04630ecd5">
+      <head>Historical Note</head>
+      <p>Since 1984 the New York Irish History Roundtable has encouraged research and provided a forum for historians and genealogists sharing an interest in the history of the Irish in New York, New York.  Past projects conducted by the Roundtable include an attempt to create an index for the newspaper <emph render="italic">Irish Echo</emph>, an oral history of people who lived in Irish neighborhoods in New York City, and the restoration of the gravestone of Matilda Tone.  Past events and museum exhibits  include a dinner commemorating the Irish famine in the 19th century and its effects on New York City, an exhibit on traditional Irish music and dance in New York City, walking tours of New York City cemeteries, and genealogy workshops.  The Roundtable and its members contributed to the publication of a bibliography of theses and dissertations titled <emph render="italic">The Irish Experience in New York City</emph> compiled by Ann M. Shea and Marion Casey, and an anthology titled <emph render="italic">The New York Irish</emph> edited by Ronald H. Bayor and Timothy J. Meagher, both on the history of the Irish in New York City.  In addition to these publications, the Roundtable publishes an annual journal, <emph render="italic">New York Irish History</emph>, and their bi-annual newsletter.</p>
+    </bioghist>
+    <userestrict id="aspace_4a41b2e2946e76db17e4ff047ab30db9">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the New York Irish History Roundtable were transferred to New York University in 2004 by Frank Naughton. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Labor Archives. Please contact tamiment.wagner@nyu.edu.</p>
+    </userestrict>
+    <acqinfo id="aspace_dc1685b007add9212def26719a89598c">
+      <head>Immediate Source of Acquisition</head>
+      <p>In 2004, the New York Irish History Roundtable sent a gift of 10 cubic feet. Additional donations were received in 2009 and 2018. The accession numbers associated with this collection are 1997.049, 2012.083, 2012.088, and 2018.110.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_0bb8139cc898d12299c8c5d891cec179">
+      <head>Conditions Governing Access</head>
+      <p>Open for research without restrictions.</p>
+    </accessrestrict>
+    <scopecontent id="aspace_6c9903458bebe7d33ddb39bd0ca36a5f">
+      <head>Scope and Contents</head>
+      <p>The New York Irish History Roundtable Records document the activities of the Roundtable from 1984 to 2011 and include files of former officers.  The collection consists of mainly paper material, with some digital and audiovisual material, and dates from 1867 to 2011, with the bulk of the material dating between 1987 and 2003.  Material in the collection includes correspondence between officers and members, Roundtable publications, membership files, financial documents, photographs and programs of events, agendas and minutes documenting meetings of the Board of Directors and Roundtable committees, books on historical topics of interest to Roundtable officers, and audiovisual material documenting Roundtable projects.  The collection documents the Roundtable's publications, including its bi-annual newsletter and annual journal, <emph render="italic">New York Irish History</emph>.  Other publications in the collection include an anthology, <emph render="italic">The New York Irish</emph>, edited by Ronald H. Bayor and Timothy J. Meagher, and a bibliography of theses and dissertations, <emph render="italic">The Irish Experience in New York City</emph>, compiled by Ann M. Shea and Marion Casey.  Material related to the Roundtable's publications includes drafts and final versions in paper and digital formats, correspondence regarding these publications, and audio recordings of presentations of chapters from <emph render="italic">The New York Irish</emph> at the 1992 meeting of the Organization of American Historians.  Roundtable events and projects documented in the collection include the 10th anniversary of the Roundtable, the restoration of the gravestone of Matilda Tone in 1994 in Green-Wood Cemetery in Brooklyn, and an oral history project conducted by Roundtable members.  There is a large amount of material on the exhibit, <emph render="italic">Gaelic Gotham</emph>, held at the Museum of the City of New York in 1996.  This material consists of paper and born-digital material and includes correspondence regarding the planning of the exhibit by the Roundtable and the Museum, clippings and correspondence regarding the final exhibit, the public's reaction to it, and the Roundtable's 1997 report on the exhibit titled <emph render="italic">Gaelic Gotham Report</emph>.  There is duplication throughout the collection, with each series documenting the same events and topics.</p>
+    </scopecontent>
+    <prefercite id="aspace_febfc7f91e810730bfb1ac4e3018f5ec">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; New York Irish History Roundtable Records; AIA 018; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <arrangement id="aspace_13d359b0b2bff95b233692c9e8aa4237">
+      <head>Arrangement</head>
+      <p>The collection is arranged in the following series.  Material in each series is physically arranged in the order in which it was received from the donor.  The container list for each series is arranged in alphabetical order by organization name, title of work, topic, or format. 
+ </p>
+      <p>
+Series I. Ann M. Shea Files</p>
+      <p>Series II. Marion Casey Files</p>
+      <p>Series III. Clare Curtin Files</p>
+      <p>Series IV. Angela Carter Files</p>
+    </arrangement>
+    <processinfo id="aspace_c46ed24fe60eef770c9540734bbc0df6">
+      <head>Processing Information</head>
+      <p>Series were created according to the arrangement in which the collection was received and material was arranged together intellectually. Paper material for each series was brought together physically, with oversized paper materials, audiovisual material, and physical digital media housed together as appropriate. Separation sheets were created to sustain the intellectual relationship between items.</p>
+      <p>Paper material was housed in archival folders and boxes. Physical digital media and audiovisual material were housed in archival boxes.  Preservation photocopies were created for material originally printed on thermal fax paper.</p>
+      <p>Floppy disks and optical media forensically imaged, analyzed, and arranged in Forensic Toolkit.</p>
+      <p>New York University Libraries follows professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity of the content.</p>
+    </processinfo>
+    <appraisal id="aspace_e1c55907779bb110776bbe6406763491">
+      <head>Appraisal</head>
+      <p>Four floppy disks were deaccessioned after forensic imaging and analysis determined items contained no usable data.</p>
+      <p>Duplicates of the Roundtable's publications, off-air recordings of radio shows, and publications not related to the Roundtable or Irish history were deaccessioned.</p>
+    </appraisal>
+    <phystech id="aspace_866b545c83c3ee3dc303ce124b9b1bb9">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>An access terminal for born-digital materials in the collection is available by appointment for reading room viewing and listening only. Researchers may view an item's original container and/or carrier, but the physical carriers themselves are not available for use because of preservation concerns.</p>
+    </phystech>
+    <phystech id="aspace_7fb89565b0802b5f08c216157feca8ca">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <controlaccess>
+      <subject source="lcsh">Irish Americans -- New York (State) -- History.</subject>
+      <subject source="lcsh">History -- Societies, etc. -- New York (State)</subject>
+      <geogname source="lcsh">New York (N.Y.) -- History</geogname>
+      <persname source="naf">Casey, Marion R., 1962-</persname>
+      <persname source="naf">Shea, Ann M., 1933-</persname>
+      <persname rules="dacs" source="local">Curtin, Clare</persname>
+      <persname rules="dacs" source="local">Carter, Angela</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_a094851a8459f4baaccb8a6bf6b6ce04" level="series">
+        <did>
+          <unittitle>Series I. Ann M. Shea Files</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">9.9 Linear Feet</extent>
+            <extent altrender="carrier">in 16 manuscript boxes, 2 card boxes, and 2 record cartons</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">461.5 Megabytes</extent>
+            <extent altrender="carrier">in 39 computer files</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1867/2011" type="inclusive">1867-2011</unitdate>
+          <unitdate datechar="creation" normal="1987/2011" type="bulk">1987-2011</unitdate>
+        </did>
+        <scopecontent id="aspace_d732c0f64af28525f838d2d6e3221eca">
+          <head>Scope and Contents</head>
+          <p>This series contains the files of Ann M. "Nancy" Shea and documents her work as Vice-President for Local History and Treasurer.  The series spans 1867 to 2011, with the bulk of the material dating between 1987 and 2011, and includes correspondence regarding membership renewals and surveys, membership databases, Roundtable events and projects, and financial documents.  The financial documents include bank statements, checks, expense statements, receipts, invoices, tax documents, and ledgers.  This series also includes Shea's library of paper and digital versions of Roundtable publications, genealogy books, and books on the Irish in New York City.  Special events and projects documented in this series include a project to create an index of the newspaper the <emph render="italic">Irish Echo</emph> and the compilation of the <emph render="italic">Gaelic Gotham Report</emph>.</p>
+        </scopecontent>
+        <c id="aspace_a18ba9fefb8fcb1d0a92e219f389c759" level="file">
+          <did>
+            <unittitle>Administrative files</unittitle>
+            <unitdate datechar="creation" normal="1988/2003" type="inclusive">1988-2003</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_c43930adc4ba10f72daf6bc07a281fd9" label="Mixed Materials [31142063594074]" type="Box">5</container>
+            <container id="aspace_12b5c4f0d8731ea53dd2dd3abae470b2" parent="aspace_c43930adc4ba10f72daf6bc07a281fd9" type="Folder">2</container>
+            <container altrender="Manuscript box - Letter" id="aspace_09eafb6d4806852ec7a1e200a17f04dc" label="Mixed Materials [31142063594108]" type="Box">8</container>
+            <container id="aspace_105f31e9720764fc110b36987c4e21b7" parent="aspace_09eafb6d4806852ec7a1e200a17f04dc" type="Folder">19</container>
+            <container altrender="Manuscript box - Letter" id="aspace_5bc040972035b0d313c837321b4f8340" label="Mixed Materials [31142063594124]" type="Box">10</container>
+            <container id="aspace_12dcbeb551050dcc19117b2fc7f723da" parent="aspace_5bc040972035b0d313c837321b4f8340" type="Folder">11</container>
+            <container altrender="Manuscript box - Letter" id="aspace_90340104084af3db3666f0b25d0f490d" label="Mixed Materials [31142063594140]" type="Box">12</container>
+            <container id="aspace_4d3e4fa33039b17904707da346b3fc6a" parent="aspace_90340104084af3db3666f0b25d0f490d" type="Folder">20-21</container>
+            <container altrender="Manuscript box - Letter" id="aspace_fb507c4a35a77293a97873f043e0a46a" label="Mixed Materials [31142063594157]" type="Box">13</container>
+            <container id="aspace_e73bb709d0581a5f78695bf94d605d80" parent="aspace_fb507c4a35a77293a97873f043e0a46a" type="Folder">1</container>
+            <container altrender="Manuscript box - Letter" id="aspace_606a77e57c570db5402390db5d3f15ab" label="Mixed Materials [31142063594165]" type="Box">14</container>
+            <container id="aspace_2560693b706ccf539d63d16cecf1bb12" parent="aspace_606a77e57c570db5402390db5d3f15ab" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_7bc22210750c71d52a45fb098f1b7931" level="file">
+          <did>
+            <unittitle>Annual meeting files</unittitle>
+            <unitdate datechar="creation" normal="1996/1998" type="inclusive">1996-1998</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_92a07a6278b5f1542df130f49e83d632" label="Mixed Materials [31142063594108]" type="Box">8</container>
+            <container id="aspace_a09233ebb01053725ec144483ca63340" parent="aspace_92a07a6278b5f1542df130f49e83d632" type="Folder">13</container>
+            <container altrender="Manuscript box - Letter" id="aspace_e1047d2ebef6c098d9f605e05fa1aec8" label="Mixed Materials [31142063594132]" type="Box">11</container>
+            <container id="aspace_5d9761207735a0c6b0ac68b0cafa234d" parent="aspace_e1047d2ebef6c098d9f605e05fa1aec8" type="Folder">6-7</container>
+          </did>
+        </c>
+        <c id="aspace_901cebc4d24d1b723c14de31e62e0922" level="file">
+          <did>
+            <unittitle>Awards and scholarship files</unittitle>
+            <unitdate datechar="creation" normal="1996/2010" type="inclusive">1996-2010</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_fbbca49348d6f11f7f5dbe8ba9d89d4c" label="Mixed Materials [31142063594058]" type="Box">3</container>
+            <container id="aspace_964870157c9d433be943da7e9710eb66" parent="aspace_fbbca49348d6f11f7f5dbe8ba9d89d4c" type="Folder">10</container>
+            <container altrender="Manuscript box - Letter" id="aspace_0cc1d126402c77ebe6df3cce49e6d9ae" label="Mixed Materials [31142063594058]" type="Box">3</container>
+            <container id="aspace_6187e68bbdb2daa1b030d565a22212eb" parent="aspace_0cc1d126402c77ebe6df3cce49e6d9ae" type="Folder">12</container>
+            <container altrender="Manuscript box - Letter" id="aspace_e11298d114f2dc744706db254c8ef67e" label="Mixed Materials [31142063594082]" type="Box">6</container>
+            <container id="aspace_10f5d964895b5c051d6f1e40eae5415f" parent="aspace_e11298d114f2dc744706db254c8ef67e" type="Folder">9</container>
+            <container altrender="Manuscript box - Letter" id="aspace_59ada8dfe5c97d9cd25cc37672e1aa87" label="Mixed Materials [31142063594116]" type="Box">9</container>
+            <container id="aspace_606e142b0add557fe6f0c766922a96e2" parent="aspace_59ada8dfe5c97d9cd25cc37672e1aa87" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_e58245bb2c972f2fb0e068fa1399165c" level="file">
+          <did>
+            <unittitle>Books</unittitle>
+            <unitdate datechar="creation" normal="1867/2008" type="inclusive">1867-2008</unitdate>
+            <container altrender="Record carton" id="aspace_252a4eef5757186e234450081e0661b3" label="Mixed Materials [31142063594504]" type="Box">47</container>
+            <container altrender="Record carton" id="aspace_093aae663ba825740dc5075b4dc709ea" label="Mixed Materials [31142063594512]" type="Box">48</container>
+          </did>
+        </c>
+        <c id="aspace_8c9ed660d0742c9f32785cfffb39a5d7" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate datechar="creation" normal="1987/2009" type="inclusive">1987-2009</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_92155c5d367511dc72ee089fdb39fc0d" label="Mixed Materials [31142063594066]" type="Box">4</container>
+            <container id="aspace_02bc4fd067208c55b7a218214b7f678d" parent="aspace_92155c5d367511dc72ee089fdb39fc0d" type="Folder">2</container>
+            <container altrender="Manuscript box - Letter" id="aspace_712e059f6674a99ce70c7ed55cd5f824" label="Mixed Materials [31142063594090]" type="Box">7</container>
+            <container id="aspace_5d9f9d3617fea434da9de8f49e40eb96" parent="aspace_712e059f6674a99ce70c7ed55cd5f824" type="Folder">16</container>
+            <container altrender="Manuscript box - Letter" id="aspace_2c369516e9ce3ec8f4a2c8067b59e348" label="Mixed Materials [31142063594124]" type="Box">10</container>
+            <container id="aspace_1b171accef0c93d642b57e0bead6002b" parent="aspace_2c369516e9ce3ec8f4a2c8067b59e348" type="Folder">7</container>
+            <container altrender="Manuscript box - Letter" id="aspace_8c08492ea4f4492a139f943a0642d416" label="Mixed Materials [31142063594165]" type="Box">14</container>
+            <container id="aspace_796471a46caf875a64b1a8a6eed1b617" parent="aspace_8c08492ea4f4492a139f943a0642d416" type="Folder">5</container>
+            <container altrender="Flat OS Box 17" id="aspace_e6ae195c975c240f37918d310f215140" label="Mixed Materials [31142062882272]" type="Box">Shared Tamiment 014</container>
+            <container id="aspace_f8cc92b756eb757d4a6f1f341245fc72" parent="aspace_e6ae195c975c240f37918d310f215140" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_036bde98c7be5989211447e701098909" level="file">
+          <did>
+            <unittitle>Contracts</unittitle>
+            <unitdate datechar="creation" normal="1995/1997" type="inclusive">1995-1997</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_f37109792b82b3311543419588687146" label="Mixed Materials [31142063594173]" type="Box">15</container>
+            <container id="aspace_5eb1e1a5c1548ccd19462f192eab11f1" parent="aspace_f37109792b82b3311543419588687146" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_99d95e02a24685e6b6bdfb1db2ce66ab" level="file">
+          <did>
+            <unittitle>Correspondence -- General</unittitle>
+            <unitdate datechar="creation" normal="1995/2010" type="inclusive">1995-2010</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_1d903384174c27445e9eb0002e03e520" label="Mixed Materials [31142063594058]" type="Box">3</container>
+            <container id="aspace_37f3135a3589582c4c14318cd01b00fe" parent="aspace_1d903384174c27445e9eb0002e03e520" type="Folder">19-20</container>
+            <container altrender="Manuscript box - Letter" id="aspace_2933d82f6c005fbc1cfc1c364f0bcf79" label="Mixed Materials [31142063594066]" type="Box">4</container>
+            <container id="aspace_a918fc174c1ebd0790c5d859e7d3b9f9" parent="aspace_2933d82f6c005fbc1cfc1c364f0bcf79" type="Folder">1</container>
+            <container altrender="Manuscript box - Letter" id="aspace_a994525beefaf63e887973d2f04d6452" label="Mixed Materials [31142063594066]" type="Box">4</container>
+            <container id="aspace_26249c37c7238ed220171b692daaaea4" parent="aspace_a994525beefaf63e887973d2f04d6452" type="Folder">3-6</container>
+            <container altrender="Manuscript box - Letter" id="aspace_134ffd3b688746264f382edca548a576" label="Mixed Materials [31142063594066]" type="Box">4</container>
+            <container id="aspace_a23862917b4ed0be2b665e9cb4116d69" parent="aspace_134ffd3b688746264f382edca548a576" type="Folder">10</container>
+            <container altrender="Manuscript box - Letter" id="aspace_a83c11c9c7cc0b05753ee03d4b8cde0d" label="Mixed Materials [31142063594108]" type="Box">8</container>
+            <container id="aspace_7193d5e56a3ff2e0108874a50e2f86d5" parent="aspace_a83c11c9c7cc0b05753ee03d4b8cde0d" type="Folder">14</container>
+            <container altrender="Manuscript box - Letter" id="aspace_4d4c4a9a03858b9af7a7b4465a63188f" label="Mixed Materials [31142063594116]" type="Box">9</container>
+            <container id="aspace_948a89f540bcf22fa62bdfecfcd014b5" parent="aspace_4d4c4a9a03858b9af7a7b4465a63188f" type="Folder">6</container>
+            <container altrender="Manuscript box - Letter" id="aspace_06ddfcd4e42eca77f9d118bff3b45856" label="Mixed Materials [31142063594116]" type="Box">9</container>
+            <container id="aspace_66807310ce6b8a63cd5c47efa3307e63" parent="aspace_06ddfcd4e42eca77f9d118bff3b45856" type="Folder">12-13</container>
+            <container altrender="Manuscript box - Letter" id="aspace_e53ac39776836efd230d4349986180f2" label="Mixed Materials [31142063594124]" type="Box">10</container>
+            <container id="aspace_c56b16f1d897ad4240128cc18b63ae16" parent="aspace_e53ac39776836efd230d4349986180f2" type="Folder">1</container>
+            <container altrender="Manuscript box - Letter" id="aspace_53d185ea8ad030e2fb8578d84fbfeee4" label="Mixed Materials [31142063594124]" type="Box">10</container>
+            <container id="aspace_18dba25199cafe2734cce7234052ce6f" parent="aspace_53d185ea8ad030e2fb8578d84fbfeee4" type="Folder">10</container>
+            <container altrender="Manuscript box - Letter" id="aspace_031561f6b4ec74a9933389bba4402286" label="Mixed Materials [31142063594132]" type="Box">11</container>
+            <container id="aspace_04b4f84df9c22c7eedf6ad04e4efe4eb" parent="aspace_031561f6b4ec74a9933389bba4402286" type="Folder">14</container>
+            <container altrender="Manuscript box - Letter" id="aspace_0a37cc1a6ce2a55f51b4cc4aeb9bf7d3" label="Mixed Materials [31142063594140]" type="Box">12</container>
+            <container id="aspace_eedd7a4db091676efbf012485b4d60c5" parent="aspace_0a37cc1a6ce2a55f51b4cc4aeb9bf7d3" type="Folder">9-10</container>
+            <container altrender="Manuscript box - Letter" id="aspace_ceec04cd91787c4a3ba31cb06cc37cff" label="Mixed Materials [31142063594140]" type="Box">12</container>
+            <container id="aspace_9881bcebafaa3093fa04ada7e4bcaf65" parent="aspace_ceec04cd91787c4a3ba31cb06cc37cff" type="Folder">18</container>
+            <container altrender="Manuscript box - Letter" id="aspace_df0dd74fb560a16e990f2b23cd2a030e" label="Mixed Materials [31142063594157]" type="Box">13</container>
+            <container id="aspace_ee10b731d42fbebf98af66d1515b6320" parent="aspace_df0dd74fb560a16e990f2b23cd2a030e" type="Folder">2-3</container>
+            <container altrender="Manuscript box - Letter" id="aspace_d84d95732c62a19c061a46ab9b78bed8" label="Mixed Materials [31142063594165]" type="Box">14</container>
+            <container id="aspace_a95b0b1cbc4b753afca02872b7597ea1" parent="aspace_d84d95732c62a19c061a46ab9b78bed8" type="Folder">13</container>
+            <container altrender="Manuscript box - Letter" id="aspace_71cdbebdcd34512eff5f2638db8caf29" label="Mixed Materials [31142063594165]" type="Box">14</container>
+            <container id="aspace_5abefdca35db02fbf8b6adb9a92b8110" parent="aspace_71cdbebdcd34512eff5f2638db8caf29" type="Folder">16-17</container>
+            <container altrender="Manuscript box - Letter" id="aspace_009c0d9908289b82744cf78cc3ff8fe1" label="Mixed Materials [31142063594173]" type="Box">15</container>
+            <container id="aspace_b949976ee08214e9b9184596c75a64d8" parent="aspace_009c0d9908289b82744cf78cc3ff8fe1" type="Folder">12-14</container>
+          </did>
+        </c>
+        <c id="aspace_ef2bc463db996bf17682f12cc22bae50" level="file">
+          <did>
+            <unittitle>Correspondence -- Grant applications</unittitle>
+            <unitdate datechar="creation" normal="1997/1998" type="inclusive">1997-1998</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_3741d0d73cc4cc935b30fc0e05ef0879" label="Mixed Materials [31142063594108]" type="Box">8</container>
+            <container id="aspace_fab8c73b60840d0932063f8aa81b32a4" parent="aspace_3741d0d73cc4cc935b30fc0e05ef0879" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_f0102c9dc821fe1506163a13dc0af6c7" level="file">
+          <did>
+            <unittitle>Election files</unittitle>
+            <unitdate datechar="creation" normal="1994/2008" type="inclusive">1994-2008</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_1431f6374bd284051d068628171d71d4" label="Mixed Materials [31142063594124]" type="Box">10</container>
+            <container id="aspace_28594da0c68c2b96ee638eb301ce9bb1" parent="aspace_1431f6374bd284051d068628171d71d4" type="Folder">12</container>
+            <container altrender="Manuscript box - Letter" id="aspace_49ef738c87497f4ab3ae010459b6cd36" label="Mixed Materials [31142063594165]" type="Box">14</container>
+            <container id="aspace_d5091db64aa5e2497139e50cf60c10e9" parent="aspace_49ef738c87497f4ab3ae010459b6cd36" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_fca104dfbd9c179f7ab21274bcacf059" level="file">
+          <did>
+            <unittitle>Events -- Genealogy workshops</unittitle>
+            <unitdate datechar="creation" normal="1996/2006" type="inclusive">1996-2006</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_368504ee441da51e1e497ca9ce884d0e" label="Mixed Materials [31142063594140]" type="Box">12</container>
+            <container id="aspace_0d6d170be539663301b742afd5610198" parent="aspace_368504ee441da51e1e497ca9ce884d0e" type="Folder">11-17</container>
+            <container altrender="Manuscript box - Letter" id="aspace_788b0bc9173083c83d834d3fd6cb4559" label="Mixed Materials [31142063594165]" type="Box">14</container>
+            <container id="aspace_e3e9cafb917ca3f01756d23abb869aad" parent="aspace_788b0bc9173083c83d834d3fd6cb4559" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_5fafcf18fe7338590deda4a7d3bb02e1" level="file">
+          <did>
+            <unittitle>Events -- General</unittitle>
+            <unitdate datechar="creation" normal="1995/2010" type="inclusive">1995-2010</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_a1058aec42378388bd773b8bdf2f7f98" label="Mixed Materials [31142063594058]" type="Box">3</container>
+            <container id="aspace_ec881df65bbeae31c9549094196ef88b" parent="aspace_a1058aec42378388bd773b8bdf2f7f98" type="Folder">13</container>
+            <container altrender="Manuscript box - Letter" id="aspace_450bdea0c2c0031c6482b830406743d4" label="Mixed Materials [31142063594108]" type="Box">8</container>
+            <container id="aspace_d42343c6fe7065a6bfb3307723338572" parent="aspace_450bdea0c2c0031c6482b830406743d4" type="Folder">10</container>
+            <container altrender="Manuscript box - Letter" id="aspace_fbf901f1cebf8a0b53bf04a367428ac1" label="Mixed Materials [31142063594108]" type="Box">8</container>
+            <container id="aspace_425564b9b0314da8182a4acbd395132e" parent="aspace_fbf901f1cebf8a0b53bf04a367428ac1" type="Folder">20-24</container>
+            <container altrender="Manuscript box - Letter" id="aspace_7784ae92720f35633bc7d4b43902af3b" label="Mixed Materials [31142063594132]" type="Box">11</container>
+            <container id="aspace_011fae0d5873b38494077a90f6f45c9c" parent="aspace_7784ae92720f35633bc7d4b43902af3b" type="Folder">5</container>
+            <container altrender="Manuscript box - Letter" id="aspace_3677e05da7bf05e9b37e17e0ad0b6135" label="Mixed Materials [31142063594132]" type="Box">11</container>
+            <container id="aspace_31794a4336732a21297d0f5377bb6141" parent="aspace_3677e05da7bf05e9b37e17e0ad0b6135" type="Folder">8</container>
+            <container altrender="Manuscript box - Letter" id="aspace_1499c0f2b49dc5350f24422e45e5d4bd" label="Mixed Materials [31142063594132]" type="Box">11</container>
+            <container id="aspace_2af046df81ade59d303e7e4820dd2626" parent="aspace_1499c0f2b49dc5350f24422e45e5d4bd" type="Folder">16</container>
+            <container altrender="Manuscript box - Letter" id="aspace_7e380eebdeb5473ce90bf791d4cf21cc" label="Mixed Materials [31142063594132]" type="Box">11</container>
+            <container id="aspace_6f70968c57776058f8dc1815583999a7" parent="aspace_7e380eebdeb5473ce90bf791d4cf21cc" type="Folder">19</container>
+            <container altrender="Manuscript box - Letter" id="aspace_983dcbc0a27903a0971993aa9b10681c" label="Mixed Materials [31142063594140]" type="Box">12</container>
+            <container id="aspace_5e21a4cf57c109cc93bedc3e0910c370" parent="aspace_983dcbc0a27903a0971993aa9b10681c" type="Folder">1-8</container>
+          </did>
+        </c>
+        <c id="aspace_ec8318a1f84e2f16cb36d69eee635917" level="file">
+          <did>
+            <unittitle>Events -- New York and the Irish Famine</unittitle>
+            <unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_fa5c27bcaaf2280da77500ddda9ff324" label="Mixed Materials [31142063594165]" type="Box">14</container>
+            <container id="aspace_65c19a1d2e79abaa7b3fcf618d5a44ae" parent="aspace_fa5c27bcaaf2280da77500ddda9ff324" type="Folder">10-12</container>
+          </did>
+        </c>
+        <c id="aspace_9968fbacd8cc6bd731ba993898ff6714" level="file">
+          <did>
+            <unittitle>Financial documents</unittitle>
+            <unitdate datechar="creation" normal="1989/2007" type="inclusive">1989-2007</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_3d6eada8fb96b0e3cb28a675cbed5ca4" label="Mixed Materials [31142063594074]" type="Box">5</container>
+            <container id="aspace_566e9a51c85472ef48e07859aeb6c397" parent="aspace_3d6eada8fb96b0e3cb28a675cbed5ca4" type="Folder">12</container>
+            <container altrender="Manuscript box - Letter" id="aspace_2c8ab35310990e0efb2addc630a2eb1e" label="Mixed Materials [31142063594132]" type="Box">11</container>
+            <container id="aspace_d2dd17c3026864c8be7de533be1e9f08" parent="aspace_2c8ab35310990e0efb2addc630a2eb1e" type="Folder">12</container>
+            <container altrender="Manuscript box - Letter" id="aspace_5012198f7825656cc222e8c0819d6fb8" label="Mixed Materials [31142063594157]" type="Box">13</container>
+            <container id="aspace_c7229f08983101e476697a213f834b0a" parent="aspace_5012198f7825656cc222e8c0819d6fb8" type="Folder">12-15</container>
+            <container altrender="Manuscript box - Letter" id="aspace_23f46b06e5a255d2cb3ddfb80f139513" label="Mixed Materials [31142063594165]" type="Box">14</container>
+            <container id="aspace_188be375c494a7340425f1b9a93330b4" parent="aspace_23f46b06e5a255d2cb3ddfb80f139513" type="Folder">3</container>
+            <container altrender="Manuscript box - Letter" id="aspace_7ef605aadba22eeba7f4622c24d633f7" label="Mixed Materials [31142063594173]" type="Box">15</container>
+            <container id="aspace_f659139a2b2c80c3fd05baae6b1165ef" parent="aspace_7ef605aadba22eeba7f4622c24d633f7" type="Folder">5-10</container>
+            <container altrender="Manuscript box - Letter" id="aspace_49fa5fac93653a25f0a119f1b894ed53" label="Mixed Materials [31142063594173]" type="Box">15</container>
+            <container id="aspace_a9bd2f07160e9c420a97893b168250a9" parent="aspace_49fa5fac93653a25f0a119f1b894ed53" type="Folder">16-17</container>
+            <container altrender="Manuscript box - Letter" id="aspace_bcbf470edd083f15ed535334d049a884" label="Mixed Materials [31142063594181]" type="Box">16</container>
+            <container id="aspace_2bf3c28b5b686829c847d4a52b4bb1be" parent="aspace_bcbf470edd083f15ed535334d049a884" type="Folder">1-7</container>
+            <container altrender="Manuscript box - Letter" id="aspace_d1c419766b07fe3ba5c7d35a6f1ca82a" label="Mixed Materials [31142063594181]" type="Box">16</container>
+            <container id="aspace_88c8188066895ee65fea35b032b0e1f0" parent="aspace_d1c419766b07fe3ba5c7d35a6f1ca82a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_b313b0debe0f8006792f74bc96bd48ad" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Gaelic Gotham Report</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1995/1997" type="inclusive">1995-1997</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_f6c703538cb2460b15a8ba8e2b6d92c4" label="Mixed Materials [31142063594033]" type="Box">1</container>
+            <container id="aspace_ef2f07c1287b297d159139b8a929400a" parent="aspace_f6c703538cb2460b15a8ba8e2b6d92c4" type="Folder">1-14</container>
+            <container altrender="Manuscript box - Letter" id="aspace_4206beccf5fbaf35f02def68cdac5c2e" label="Mixed Materials [31142063594041]" type="Box">2</container>
+            <container id="aspace_a9cefd15148a31eacc296f5500a0da0e" parent="aspace_4206beccf5fbaf35f02def68cdac5c2e" type="Folder">1-15</container>
+            <container altrender="Manuscript box - Letter" id="aspace_9e17d86dd2a731aa17e5bb22ca376902" label="Mixed Materials [31142063594132]" type="Box">11</container>
+            <container id="aspace_fd09efe185b4ba206f5d597d7067bbcd" parent="aspace_9e17d86dd2a731aa17e5bb22ca376902" type="Folder">10</container>
+            <container id="aspace_6a023f550339c17b7095e0eacfb8a268" label="electronic records" type="Box">Electronic records</container>
+            <container id="aspace_0d5fcbb517a73cbc559d55843fbbbf45" parent="aspace_6a023f550339c17b7095e0eacfb8a268" type="E-records">TW_AIA_18_ER_5</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/aia_018.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Gaelic Gotham Report" xlink:type="simple">
+              <daodesc>
+                <p>Gaelic Gotham Report: 1996-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_c1a24e034d2271263ccba2f8454d4f1f" level="file">
+          <did>
+            <unittitle><emph render="italic">The Irish Experience in New York City</emph> files</unittitle>
+            <unitdate datechar="creation" normal="1994/2009" type="inclusive">1994-2009</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_fa5d48e7a0273c520a2b3ef9c270e1cd" label="Mixed Materials [31142063594124]" type="Box">10</container>
+            <container id="aspace_27e28f6f3bf02f8380b6a120c6676f46" parent="aspace_fa5d48e7a0273c520a2b3ef9c270e1cd" type="Folder">4-5</container>
+          </did>
+        </c>
+        <c id="aspace_a4036989f00ca5858206a6ebeb726f1e" level="file">
+          <did>
+            <unittitle>Meeting agendas and minutes</unittitle>
+            <unitdate datechar="creation" normal="1991/2011" type="inclusive">1991-2011</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_46cc698fa360ce5ff80d706eb0fa7ead" label="Mixed Materials [31142063594074]" type="Box">5</container>
+            <container id="aspace_d2e9c4e52d311041cb55158706f0f114" parent="aspace_46cc698fa360ce5ff80d706eb0fa7ead" type="Folder">3-7</container>
+            <container altrender="Manuscript box - Letter" id="aspace_bddb524bfa42dc98d8debd274f9f78e6" label="Mixed Materials [31142063594058]" type="Box">3</container>
+            <container id="aspace_e1b83a65f249a9fa491ad54c2cd30cfa" parent="aspace_bddb524bfa42dc98d8debd274f9f78e6" type="Folder">1</container>
+            <container altrender="Manuscript box - Letter" id="aspace_84f9dc91776a10dc49392fdd1e797e96" label="Mixed Materials [31142063594058]" type="Box">3</container>
+            <container id="aspace_56e50e3a9babb8d93428504bb1827ec4" parent="aspace_84f9dc91776a10dc49392fdd1e797e96" type="Folder">16</container>
+            <container altrender="Manuscript box - Letter" id="aspace_1446df772fd5b8afc6df3deadbd52d0e" label="Mixed Materials [31142063594090]" type="Box">7</container>
+            <container id="aspace_b0b4ca908f35dce19065063febc5dfa4" parent="aspace_1446df772fd5b8afc6df3deadbd52d0e" type="Folder">10</container>
+            <container altrender="Manuscript box - Letter" id="aspace_7d37a723f495d1524109291e6852fa91" label="Mixed Materials [31142063594132]" type="Box">11</container>
+            <container id="aspace_013a3567477017ff934790d3e08e16a2" parent="aspace_7d37a723f495d1524109291e6852fa91" type="Folder">13</container>
+            <container altrender="Manuscript box - Letter" id="aspace_139a3bc88c8d147e1c8226220e4b1406" label="Mixed Materials [31142063594132]" type="Box">11</container>
+            <container id="aspace_72f98f4b9db8a05d8edc38429dc44f5a" parent="aspace_139a3bc88c8d147e1c8226220e4b1406" type="Folder">15</container>
+            <container altrender="Manuscript box - Letter" id="aspace_467f289587f1c7d341112da33f918ed1" label="Mixed Materials [31142063594157]" type="Box">13</container>
+            <container id="aspace_22020e5953ce7e7344952d2456820541" parent="aspace_467f289587f1c7d341112da33f918ed1" type="Folder">10-11</container>
+            <container altrender="Manuscript box - Letter" id="aspace_0b13a140dbf4a93d0671c549a43703c8" label="Mixed Materials [31142063594165]" type="Box">14</container>
+            <container id="aspace_5fc5b1734d5658c57581e6b7daa2f5fa" parent="aspace_0b13a140dbf4a93d0671c549a43703c8" type="Folder">1</container>
+            <container altrender="Manuscript box - Letter" id="aspace_bf8b5c9270a490f9ba4b133a4c8d206b" label="Mixed Materials [31142063594165]" type="Box">14</container>
+            <container id="aspace_061f609b481faca160eef36738e5ec20" parent="aspace_bf8b5c9270a490f9ba4b133a4c8d206b" type="Folder">15</container>
+            <container altrender="Manuscript box - Letter" id="aspace_adc8367d0cc7cb7ea33e7e23cf5afa8d" label="Mixed Materials [31142063594173]" type="Box">15</container>
+            <container id="aspace_483c1d9ad262d1b33f85542f1a7deec9" parent="aspace_adc8367d0cc7cb7ea33e7e23cf5afa8d" type="Folder">3</container>
+            <container altrender="Manuscript box - Letter" id="aspace_72229bcada580fb1eb2499fa32268d3e" label="Mixed Materials [31142063594173]" type="Box">15</container>
+            <container id="aspace_2014d2603c8275cc36a7fa5569261ad9" parent="aspace_72229bcada580fb1eb2499fa32268d3e" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_c3f0b6228ba3fbac16c68a85d45cf0d1" level="file">
+          <did>
+            <unittitle>Membership files</unittitle>
+            <unitdate datechar="creation" normal="1991/2011" type="inclusive">1991-2011</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_fe5a6710fcbde136ffaafd3610c75f91" label="Mixed Materials [31142063594058]" type="Box">3</container>
+            <container id="aspace_589791e1d5ec470d72bb16117d560f9f" parent="aspace_fe5a6710fcbde136ffaafd3610c75f91" type="Folder">7-9</container>
+            <container altrender="Manuscript box - Letter" id="aspace_52a261bdf458ceead02a5dda1b4aa0d3" label="Mixed Materials [31142063594058]" type="Box">3</container>
+            <container id="aspace_74e44bdf31250b6a0e10b799fb438a88" parent="aspace_52a261bdf458ceead02a5dda1b4aa0d3" type="Folder">11</container>
+            <container altrender="Manuscript box - Letter" id="aspace_08ef9cabf353ae432cb853db330e22c8" label="Mixed Materials [31142063594058]" type="Box">3</container>
+            <container id="aspace_5398c3a9263379e22795d5b2146cb781" parent="aspace_08ef9cabf353ae432cb853db330e22c8" type="Folder">14</container>
+            <container altrender="Manuscript box - Letter" id="aspace_800cd8fa332ee5b2d9b40e6ecb061060" label="Mixed Materials [31142063594058]" type="Box">3</container>
+            <container id="aspace_241d43ecb3b7914591aa22d683ab3d52" parent="aspace_800cd8fa332ee5b2d9b40e6ecb061060" type="Folder">17-18</container>
+            <container altrender="Manuscript box - Letter" id="aspace_9d55ae6e2aee5fc53c631d27c1b4efe8" label="Mixed Materials [31142063594066]" type="Box">4</container>
+            <container id="aspace_ae7f2b236d0877e53f87e4050f001203" parent="aspace_9d55ae6e2aee5fc53c631d27c1b4efe8" type="Folder">7-9</container>
+            <container altrender="Manuscript box - Letter" id="aspace_cb13c702c411c7bca0ede17a78acb6b1" label="Mixed Materials [31142063594066]" type="Box">4</container>
+            <container id="aspace_e98ac1ac10d7623ad934163483fa5d1d" parent="aspace_cb13c702c411c7bca0ede17a78acb6b1" type="Folder">11-12</container>
+            <container altrender="Manuscript box - Letter" id="aspace_a2b895f0a899cce51a6cf156d606d7e7" label="Mixed Materials [31142063594074]" type="Box">5</container>
+            <container id="aspace_008812efa234a2d7189e0e4ae5e971b6" parent="aspace_a2b895f0a899cce51a6cf156d606d7e7" type="Folder">1</container>
+            <container altrender="Manuscript box - Letter" id="aspace_4ffebf9fab4594581f285c9ea1b31840" label="Mixed Materials [31142063594074]" type="Box">5</container>
+            <container id="aspace_dead6c4f3bfeb0a00eeab842701fa9da" parent="aspace_4ffebf9fab4594581f285c9ea1b31840" type="Folder">13</container>
+            <container altrender="Manuscript box - Letter" id="aspace_35db7a4945321836f4192a5716d20143" label="Mixed Materials [31142063594082]" type="Box">6</container>
+            <container id="aspace_edca7a613e94895e2488c50975790c4d" parent="aspace_35db7a4945321836f4192a5716d20143" type="Folder">1-7</container>
+            <container altrender="Manuscript box - Letter" id="aspace_686d27b17972e55bd02f2ffdcc86bd43" label="Mixed Materials [31142063594082]" type="Box">6</container>
+            <container id="aspace_b0d8b9b9eff018dd9455bfce3958d12f" parent="aspace_686d27b17972e55bd02f2ffdcc86bd43" type="Folder">10-12</container>
+            <container altrender="Manuscript box - Letter" id="aspace_ab4f4b6654d759d26212c98519bd40e7" label="Mixed Materials [31142063594090]" type="Box">7</container>
+            <container id="aspace_6aa2a8d8e4b9b665fe8a38c5c02ec3ff" parent="aspace_ab4f4b6654d759d26212c98519bd40e7" type="Folder">1-9</container>
+            <container altrender="Manuscript box - Letter" id="aspace_f51ba860227cd2c8f435f4f97b3cbf12" label="Mixed Materials [31142063594108]" type="Box">8</container>
+            <container id="aspace_a386cd37bce0750089536f109f516aff" parent="aspace_f51ba860227cd2c8f435f4f97b3cbf12" type="Folder">11</container>
+            <container altrender="Manuscript box - Letter" id="aspace_c07ba712acef7ee8453c437cff804f4d" label="Mixed Materials [31142063594108]" type="Box">8</container>
+            <container id="aspace_86463d23dc31e5388611bee2611b17b6" parent="aspace_c07ba712acef7ee8453c437cff804f4d" type="Folder">15-18</container>
+            <container altrender="Manuscript box - Letter" id="aspace_4d5850d2df2fc119e0e7a1efb610bec2" label="Mixed Materials [31142063594116]" type="Box">9</container>
+            <container id="aspace_e27c065fe81684bccd61a22ad2e917c9" parent="aspace_4d5850d2df2fc119e0e7a1efb610bec2" type="Folder">1-2</container>
+            <container altrender="Manuscript box - Letter" id="aspace_d4b2249529678473fb51a72ae28bf996" label="Mixed Materials [31142063594116]" type="Box">9</container>
+            <container id="aspace_c901ae9e651dff550b2e9f9536b5eb0f" parent="aspace_d4b2249529678473fb51a72ae28bf996" type="Folder">3-4</container>
+            <container altrender="Manuscript box - Letter" id="aspace_8442548231e302569e6d16e723356ceb" label="Mixed Materials [31142063594157]" type="Box">13</container>
+            <container id="aspace_4d5eb66bd032440d73a169fe5b20fbb2" parent="aspace_8442548231e302569e6d16e723356ceb" type="Folder">6-9</container>
+            <container altrender="Manuscript box - Letter" id="aspace_18ccb976312e148ba79bd4b7ecf1c09e" label="Mixed Materials [31142063594165]" type="Box">14</container>
+            <container id="aspace_707459a8e0a2f1883e19cd9fb06cf5bc" parent="aspace_18ccb976312e148ba79bd4b7ecf1c09e" type="Folder">2</container>
+            <container altrender="Manuscript box - Letter" id="aspace_d11562b898c610af7772cae4fb4abc9e" label="Mixed Materials [31142063594165]" type="Box">14</container>
+            <container id="aspace_ca8fc32d00176940ba7b3ec043d0ecf3" parent="aspace_d11562b898c610af7772cae4fb4abc9e" type="Folder">14</container>
+            <container altrender="Manuscript box - Letter" id="aspace_dd48503771704b67953ccfcaded8be0a" label="Mixed Materials [31142063594173]" type="Box">15</container>
+            <container id="aspace_ef289e1bd0c4ea315838f7e8ad7abf55" parent="aspace_dd48503771704b67953ccfcaded8be0a" type="Folder">4</container>
+            <container altrender="Manuscript box - Letter" id="aspace_2331858d9e381a4e8fa50b62243dbc5f" label="Mixed Materials [31142063594173]" type="Box">15</container>
+            <container id="aspace_e53d25d01ee363ee6e8a336dc0533979" parent="aspace_2331858d9e381a4e8fa50b62243dbc5f" type="Folder">15</container>
+            <container altrender="Manuscript box - Letter" id="aspace_a5578af174688b81d05c494f2c407e2a" label="Mixed Materials [31142063594181]" type="Box">16</container>
+            <container id="aspace_4e9bff763bd600bf9eeb0d51ccf6e9c0" parent="aspace_a5578af174688b81d05c494f2c407e2a" type="Folder">8-11</container>
+            <container id="aspace_a4bb4c2836b2bbd7d691ed93cd515337" label="electronic records" type="Box">Electronic records</container>
+            <container id="aspace_120676177c929af2c4ebd3db97075cd8" parent="aspace_a4bb4c2836b2bbd7d691ed93cd515337" type="E-records">TW_AIA_18_ER_1</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/aia_018.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Membership files" xlink:type="simple">
+              <daodesc>
+                <p>Membership files: 2008-2009</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_cf57c08109ad7118127f0c9a8ee634a4" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The New York Irish</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_d8e89e2957bbbf70cea5ada3dbef9666" label="Mixed Materials [31142063594090]" type="Box">7</container>
+            <container id="aspace_6c3a588d17cf80d216a63c7456e44a47" parent="aspace_d8e89e2957bbbf70cea5ada3dbef9666" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_edf6eaf8207b3e4710f56a9c78eae1f7" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">New York Irish History</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1994/2007" type="inclusive">1994-2007</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_9fac4e29ffcaa94184230f127f8812ae" label="Mixed Materials [31142063594058]" type="Box">3</container>
+            <container id="aspace_a090fa6bcf10b487f04b502ee0708fad" parent="aspace_9fac4e29ffcaa94184230f127f8812ae" type="Folder">3-4</container>
+            <container altrender="Manuscript box - Letter" id="aspace_8cd13ff286ac537d7acd086f04032c45" label="Mixed Materials [31142063594058]" type="Box">3</container>
+            <container id="aspace_b9cbf49a99bb06bdcc9f874f416b175e" parent="aspace_8cd13ff286ac537d7acd086f04032c45" type="Folder">15</container>
+            <container altrender="Manuscript box - Letter" id="aspace_5df5e34867af5e4d8a28736d3f46e0c7" label="Mixed Materials [31142063594074]" type="Box">5</container>
+            <container id="aspace_1cdd52a00200d882cd51cab834507350" parent="aspace_5df5e34867af5e4d8a28736d3f46e0c7" type="Folder">8-10</container>
+            <container altrender="Manuscript box - Letter" id="aspace_f27d152e26b8537c30014c3a76fd6fe3" label="Mixed Materials [31142063594082]" type="Box">6</container>
+            <container id="aspace_94e767f6cc25a379659b9445d842d4c5" parent="aspace_f27d152e26b8537c30014c3a76fd6fe3" type="Folder">8</container>
+            <container altrender="Manuscript box - Letter" id="aspace_20471df91252616fa0c41926485881cb" label="Mixed Materials [31142063594116]" type="Box">9</container>
+            <container id="aspace_7f4cbf0faa62cf93f633d6d1a23cb8ea" parent="aspace_20471df91252616fa0c41926485881cb" type="Folder">8-10</container>
+            <container altrender="Manuscript box - Letter" id="aspace_a840f74b2452f2ab206b36420765e420" label="Mixed Materials [31142063594132]" type="Box">11</container>
+            <container id="aspace_cbd20e6b0fd1302c39ae401309a27d89" parent="aspace_a840f74b2452f2ab206b36420765e420" type="Folder">11</container>
+            <container altrender="Manuscript box - Letter" id="aspace_036e7b425b5ca55266bb5436bd2f68b1" label="Mixed Materials [31142063594157]" type="Box">13</container>
+            <container id="aspace_55ed480ce38d83c047f06c63e641337f" parent="aspace_036e7b425b5ca55266bb5436bd2f68b1" type="Folder">5</container>
+            <container altrender="Manuscript box - Letter" id="aspace_aac9db9ac2f6a36b581291de5957852f" label="Mixed Materials [31142063594165]" type="Box">14</container>
+            <container id="aspace_d993e4f669695d50cc676541228e9324" parent="aspace_aac9db9ac2f6a36b581291de5957852f" type="Folder">7</container>
+            <container id="aspace_30b401efe720554a00fecdac26afa4dc" label="electronic records" type="Box">Electronic records</container>
+            <container id="aspace_9c154989dd7690d38247e3e457cb7ba2" parent="aspace_30b401efe720554a00fecdac26afa4dc" type="E-records">TW_AIA_18_ER_2</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/aia_018.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="New York Irish History" xlink:type="simple">
+              <daodesc>
+                <p>New York Irish History: 2005-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_567a424a1790764e943476e5ad27158a" level="file">
+          <did>
+            <unittitle>New York Irish History Roundtable blog</unittitle>
+            <unitdate datechar="creation" normal="2008/2008">2008</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_0d2c957417c4453b6ec3bbc1e5dd353d" label="Mixed Materials [31142063594124]" type="Box">10</container>
+            <container id="aspace_aded769001f7acc2d19e2f2f675eafa6" parent="aspace_0d2c957417c4453b6ec3bbc1e5dd353d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_534d83b99e0f34f230145ed8e1bc5dac" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">New York Irish History Roundtable Newsletter</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1988/2011" type="inclusive">1988-2011</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_1031761a1ada83c4854133b847e2614d" label="Mixed Materials [31142063594058]" type="Box">3</container>
+            <container id="aspace_71c24451164345be663303f0c13c1063" parent="aspace_1031761a1ada83c4854133b847e2614d" type="Folder">2</container>
+            <container altrender="Manuscript box - Letter" id="aspace_60f54e95358b710104d0c2291c692095" label="Mixed Materials [31142063594090]" type="Box">7</container>
+            <container id="aspace_f7e7415f1364a111f170595ddc321557" parent="aspace_60f54e95358b710104d0c2291c692095" type="Folder">11</container>
+            <container altrender="Manuscript box - Letter" id="aspace_56e13db01ec9f23942bcd5f37c725a6d" label="Mixed Materials [31142063594116]" type="Box">9</container>
+            <container id="aspace_c6491b3ab6a39970024c36fea40c26e4" parent="aspace_56e13db01ec9f23942bcd5f37c725a6d" type="Folder">3</container>
+            <container altrender="Manuscript box - Letter" id="aspace_684e5750423b9755d5f5a44f5945ebd3" label="Mixed Materials [31142063594132]" type="Box">11</container>
+            <container id="aspace_eda325b0016b23c0612b2c4b3b189633" parent="aspace_684e5750423b9755d5f5a44f5945ebd3" type="Folder">9</container>
+            <container altrender="Manuscript box - Letter" id="aspace_065c7ebd1145c522421f1b2bab63bf86" label="Mixed Materials [31142063594132]" type="Box">11</container>
+            <container id="aspace_b583b569482cc41deb3f946d40f4f537" parent="aspace_065c7ebd1145c522421f1b2bab63bf86" type="Folder">17-18</container>
+          </did>
+        </c>
+        <c id="aspace_4d370309e8ab9d2e7d7a1a3afadcf1ac" level="file">
+          <did>
+            <unittitle>New York Irish History Roundtable website</unittitle>
+            <unitdate datechar="creation" normal="1996/2006" type="inclusive">1996-2006</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_36d495f9efcdbdc6af4ead0e92e4ab0b" label="Mixed Materials [31142063594074]" type="Box">5</container>
+            <container id="aspace_6b57cb264b11099ec0ffbe8f7adead6d" parent="aspace_36d495f9efcdbdc6af4ead0e92e4ab0b" type="Folder">11</container>
+            <container altrender="Manuscript box - Letter" id="aspace_f5a2bdc800e133854828129df8eefea5" label="Mixed Materials [31142063594165]" type="Box">14</container>
+            <container id="aspace_9a3e6b946e918f3d7bf8f8538ccf9556" parent="aspace_f5a2bdc800e133854828129df8eefea5" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_0116499c25d1e98452f2d6c39857fd1f" level="file">
+          <did>
+            <unittitle>Officer files</unittitle>
+            <unitdate datechar="creation" normal="1995/2001" type="inclusive">1995-2001</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_7e37319ba5eed8d9917024db6b28abad" label="Mixed Materials [31142063594090]" type="Box">7</container>
+            <container id="aspace_ec178ff03b41c38beac57524424fcf38" parent="aspace_7e37319ba5eed8d9917024db6b28abad" type="Folder">13-15</container>
+            <container altrender="Manuscript box - Letter" id="aspace_c03323df30ec0015e3e1b153df79faf4" label="Mixed Materials [31142063594124]" type="Box">10</container>
+            <container id="aspace_d9cee90efa507fd0db81368c76a9e03e" parent="aspace_c03323df30ec0015e3e1b153df79faf4" type="Folder">2-3</container>
+            <container altrender="Manuscript box - Letter" id="aspace_3941eaa6bbfe2706122850f50a33c1e7" label="Mixed Materials [31142063594173]" type="Box">15</container>
+            <container id="aspace_e6f6b002f03d0853cead32afbb2c9e29" parent="aspace_3941eaa6bbfe2706122850f50a33c1e7" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ac078307570e8c46946f97a02cc461b5" level="file">
+          <did>
+            <unittitle>Press contacts</unittitle>
+            <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_f05fefc9ef788ff9d99b3b1145cb981d" label="Mixed Materials [31142063594090]" type="Box">7</container>
+            <container id="aspace_3962c45bb2b502edc133e60781efd4fe" parent="aspace_f05fefc9ef788ff9d99b3b1145cb981d" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_c29052883781604e1290411d419671c6" level="file">
+          <did>
+            <unittitle>Projects -- Commemoration of the United Irish Rebellion of 1798</unittitle>
+            <unitdate datechar="creation" normal="1996/1997" type="inclusive">1996-1997</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_991a427ae83907723052b96ed555c7b6" label="Mixed Materials [31142063594124]" type="Box">10</container>
+            <container id="aspace_c9a785d99d7cd5769a5bc7bc9eb1d416" parent="aspace_991a427ae83907723052b96ed555c7b6" type="Folder">8-9</container>
+            <container altrender="Flat OS Box 17" id="aspace_882f3662b2ece3711f26a607f4ed6994" label="Mixed Materials [31142062882272]" type="Box">Shared Tamiment 014</container>
+            <container id="aspace_3f1f88728fa8791996a1292822a1a741" parent="aspace_882f3662b2ece3711f26a607f4ed6994" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_7afa25772787584de42f50eb5397a23a" level="file">
+          <did>
+            <unittitle>Projects -- Emigrant Savings Bank</unittitle>
+            <unitdate datechar="creation" normal="1996/2003" type="inclusive">1996-2003</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_9892999ca4848c23a1cac95bb8ff2953" label="Mixed Materials [31142063594124]" type="Box">10</container>
+            <container id="aspace_8efed1883c16bf1f9518b7bb877a178e" parent="aspace_9892999ca4848c23a1cac95bb8ff2953" type="Folder">13-14</container>
+            <container altrender="Manuscript box - Letter" id="aspace_6f3a1cfc9a783ec1c661705634141c24" label="Mixed Materials [31142063594132]" type="Box">11</container>
+            <container id="aspace_d71e0cafe4edf83a7fc34a67d021824d" parent="aspace_6f3a1cfc9a783ec1c661705634141c24" type="Folder">1-4</container>
+          </did>
+        </c>
+        <c id="aspace_3c957d5c0ee0858a050a87690e0aa332" level="file">
+          <did>
+            <unittitle>Projects -- <emph render="italic">Irish Echo</emph> indexing</unittitle>
+            <unitdate datechar="creation" normal="1989/1997" type="inclusive">1989-1997</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_a6ce88344692109ae66684f1684ccdb1" label="Mixed Materials [31142063594058]" type="Box">3</container>
+            <container id="aspace_b0efc5123ded8001eae150b9ab4749f5" parent="aspace_a6ce88344692109ae66684f1684ccdb1" type="Folder">5-6</container>
+            <container altrender="Card Box - 6.5" id="aspace_a5fc472abec30fc126dc9f9126fda5f8" label="Mixed Materials [31142063594488]" type="Box">45</container>
+            <container altrender="Card Box - 6.5" id="aspace_9cc10f7e804708284e7990ae15ff1e96" label="Mixed Materials [31142063594496]" type="Box">46</container>
+          </did>
+        </c>
+        <c id="aspace_69bd510bce85d7a292548b2a5115c3cf" level="file">
+          <did>
+            <unittitle>Projects -- Oral history</unittitle>
+            <unitdate datechar="creation" normal="1988/1988">1988</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_de0b2d000c165fbb7dbfb3b482e72628" label="Mixed Materials [31142063594108]" type="Box">8</container>
+            <container id="aspace_707b0182a141b09bac457ce088bc8630" parent="aspace_de0b2d000c165fbb7dbfb3b482e72628" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_12a5f5f9143fefe8763cc445a63178ab" level="file">
+          <did>
+            <unittitle>Projects -- Small projects files</unittitle>
+            <unitdate datechar="creation" normal="1995/2005" type="inclusive">1995-2005</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_85dc2774ab68991f2396a6eef38f8cbf" label="Mixed Materials [31142063594090]" type="Box">7</container>
+            <container id="aspace_276a9e81504f634846d625635d476d16" parent="aspace_85dc2774ab68991f2396a6eef38f8cbf" type="Folder">18</container>
+            <container altrender="Manuscript box - Letter" id="aspace_ac9803a4233cf429789ec285a9f90f8a" label="Mixed Materials [31142063594108]" type="Box">8</container>
+            <container id="aspace_724ae0946f1146fa8e5e1dfd3b661bac" parent="aspace_ac9803a4233cf429789ec285a9f90f8a" type="Folder">1-7</container>
+            <container altrender="Manuscript box - Letter" id="aspace_d369cf2857c537818b26afd292c26cc3" label="Mixed Materials [31142063594116]" type="Box">9</container>
+            <container id="aspace_3118068c31e4011d17140728dc74cce4" parent="aspace_d369cf2857c537818b26afd292c26cc3" type="Folder">11</container>
+            <container altrender="Manuscript box - Letter" id="aspace_6a36e130ec186c547ac13305f350cf7b" label="Mixed Materials [31142063594140]" type="Box">12</container>
+            <container id="aspace_f4e8b27f2b7d0a55ab9ad50071d9d8f7" parent="aspace_6a36e130ec186c547ac13305f350cf7b" type="Folder">19</container>
+            <container altrender="Manuscript box - Letter" id="aspace_0fd2db85341b1258173f99d280f8671d" label="Mixed Materials [31142063594157]" type="Box">13</container>
+            <container id="aspace_99313d22dbc5944f529e84607dd12fa6" parent="aspace_0fd2db85341b1258173f99d280f8671d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_2dc98e214418359da2bb188f95ce4be7" level="file">
+          <did>
+            <unittitle>Publications Committee</unittitle>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_68ffd83d690326e68eb2f30c42eaf539" label="Mixed Materials [31142063594108]" type="Box">8</container>
+            <container id="aspace_187406da4c33f7445b9bb6b1899af891" parent="aspace_68ffd83d690326e68eb2f30c42eaf539" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_976796dd11e491021c72ede26f7a886d" level="series">
+        <did>
+          <unittitle>Series II. Marion Casey Files</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">11.8 Linear Feet</extent>
+            <extent altrender="carrier">in 23 manuscript boxes, 1 half manuscript box, 1 card box, 1 cassette box</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">18 audiocassettes</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">3 videocassettes (vhs)</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">82.4 kilobytes</extent>
+            <extent altrender="carrier">in 20 documents</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1984/2015" type="inclusive">1984-2015</unitdate>
+        </did>
+        <scopecontent id="aspace_1d32298057d325f92c60610e932bb45f">
+          <head>Scope and Contents</head>
+          <p>This series contains the files of Marion Casey and documents her work as President of the Roundtable and as a member of the Board of Directors, as well as her continued membership in the Roundtable.  The series dates between 1984 and 2015.  Material in this series includes correspondence, drafts and published versions of Roundtable publications, photographs and other material documenting Roundtable events, and paper and audiovisual material on Roundtable projects.  Projects documented in this series include the compilation of <emph render="italic">The Irish Experience in New York City</emph> by Casey and Ann M. Shea, an oral history project undertaken by the Roundtable, the 10th Anniversary of the Roundtable, and the restoration of Matilda Tone's gravestone in Green-Wood Cemetery.  The oral history project is documented in paper correspondence, notes, and secondary sources on conducting oral histories, as well as audio and video recordings of oral history interviews of people who lived in Irish neighborhoods in New York City.  This series also contains correspondence, notes, and audio and video recordings of events at the <emph render="italic">Keeping the Tradition Alive:  A History of Irish Music and Dance in New York City</emph> exhibit at the Museum of the City of New York in 1991.  Casey's role in the publication of <emph render="italic">The New York Irish</emph> is documented in this series through drafts and proofs of articles included in the book, paper and born-digital notes, minutes and notes from meetings about the project, correspondence, and event ephemera.  The correspondence includes plans for events celebrating the publication of the book, as well as correspondence with contributors to and the publishers of the book.  Also included are audio recordings of presentations by contributors to the book from the Organization of American Historians conference in 1992.  Files labeled "Mixed documents" include correspondence, notes, clippings, agenda and minutes on various topics including Roundtable publications, events, and research interest of Roundtable officers and members.  Publications files include correspondence, drafts, published versions of <emph render="italic">New York Irish History</emph>, the Roundtable's newsletter, promotional ephemera, and correspondence regarding printing and graphic design.  Membership files include correspondence with and about members and dues, renewal forms, and surveys conducted of members.</p>
+        </scopecontent>
+        <c id="aspace_26cd9b7d8a7b1928c1fa222f73dcff67" level="file">
+          <did>
+            <unittitle>Administrative files</unittitle>
+            <unitdate datechar="creation" normal="1987/1993" type="inclusive">1987-1993</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_9bfbd180a6296371a0856dbd15f0a27a" label="Mixed Materials [31142063594256]" type="Box">23</container>
+            <container id="aspace_785e5836d73a00f420686c5450873855" parent="aspace_9bfbd180a6296371a0856dbd15f0a27a" type="Folder">5-6</container>
+          </did>
+        </c>
+        <c id="aspace_6c60fcad3e469f10fc2375773d4c6248" level="file">
+          <did>
+            <unittitle>Clippings and press releases</unittitle>
+            <unitdate datechar="creation" normal="1987/1994" type="inclusive">1987-1994</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_711dc4ec8beaaa5998b77787208df13e" label="Mixed Materials [31142063594249]" type="Box">22</container>
+            <container id="aspace_f7656dbd607e7b64e0f3c9336d6a03c1" parent="aspace_711dc4ec8beaaa5998b77787208df13e" type="Folder">7</container>
+            <container altrender="Manuscript box - Letter" id="aspace_6a00a01ac4886f387108f38cfffcf56f" label="Mixed Materials [31142063594264]" type="Box">24</container>
+            <container id="aspace_f49ca9f661c7e72c3738389efaf38f66" parent="aspace_6a00a01ac4886f387108f38cfffcf56f" type="Folder">2</container>
+            <container altrender="Manuscript box - Letter" id="aspace_7609ef8949bbdb14649d63818eedbf69" label="Mixed Materials [31142063594314]" type="Box">29</container>
+            <container id="aspace_640c50861fff995d5dd26ada7f7d7df2" parent="aspace_7609ef8949bbdb14649d63818eedbf69" type="Folder">6-11</container>
+          </did>
+        </c>
+        <c id="aspace_fa0cdd06f5a1978039dc7aa04a3a3293" level="file">
+          <did>
+            <unittitle>Correspondence -- Funding sources</unittitle>
+            <unitdate datechar="creation" normal="1987/1991" type="inclusive">1987-1991</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_4969eaab09d89b039bfa1bb444a3bb00" label="Mixed Materials [31142063594231]" type="Box">21</container>
+            <container id="aspace_42d3f8fa10369558d19dfcce6f7ddf2d" parent="aspace_4969eaab09d89b039bfa1bb444a3bb00" type="Folder">11-12</container>
+            <container altrender="Manuscript box - Letter" id="aspace_d0a3bb1e73ba9f972467307afc9b12b5" label="Mixed Materials [31142063594249]" type="Box">22</container>
+            <container id="aspace_d091c4e1d9470a53ef6f0ecfb37e21ff" parent="aspace_d0a3bb1e73ba9f972467307afc9b12b5" type="Folder">1-2</container>
+            <container altrender="Manuscript box - Letter" id="aspace_793643daa777482abbad4e2c21c261e1" label="Mixed Materials [31142063594272]" type="Box">25</container>
+            <container id="aspace_477fa7af3bc87a057216bfc954447997" parent="aspace_793643daa777482abbad4e2c21c261e1" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_f870f3afb71f995d53dee5f0155ba0cd" level="file">
+          <did>
+            <unittitle>Correspondence -- General</unittitle>
+            <unitdate datechar="creation" normal="1985/2015" type="inclusive">1985-2015</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_464bdd019541e6ef83aa9aea792b846d" label="Mixed Materials [31142063594223]" type="Box">20</container>
+            <container id="aspace_0103c902d0eb37346609699673abecb5" parent="aspace_464bdd019541e6ef83aa9aea792b846d" type="Folder">6-10</container>
+            <container altrender="Manuscript box - Letter" id="aspace_a15b1f529aebcae6f64bc47279ed8053" label="Mixed Materials [31142063594322]" type="Box">30</container>
+            <container id="aspace_7c356f326e86a84808140386b5387afd" parent="aspace_a15b1f529aebcae6f64bc47279ed8053" type="Folder">1-3</container>
+            <container altrender="Manuscript box - Legal" id="aspace_d4f83dbab1bc6569c590fd12077788bb" label="Mixed Materials [31142063594348]" type="Box">31</container>
+            <container id="aspace_6b7d0deaef08e35e1e691422a4b24a7a" parent="aspace_d4f83dbab1bc6569c590fd12077788bb" type="Folder">12</container>
+            <container altrender="Manuscript box - Legal" id="aspace_f920cbaee54316c175584cfc7de974e5" label="Mixed Materials [31142063594355]" type="Box">32</container>
+            <container id="aspace_3f5ba0ef7963062de842616487fa5dd8" parent="aspace_f920cbaee54316c175584cfc7de974e5" type="Folder">1</container>
+            <container altrender="Manuscript box - Legal" id="aspace_577819dde2a1c20d6140a3b1395a551d" label="Mixed Materials [31142063594355]" type="Box">32</container>
+            <container id="aspace_1575b6fbf3f7d0b30dfae4b42dcedf88" parent="aspace_577819dde2a1c20d6140a3b1395a551d" type="Folder">4</container>
+            <container altrender="Manuscript box - Legal" id="aspace_620628940a3b889539d6aea3cc25bdee" label="Mixed Materials [31142063594355]" type="Box">32</container>
+            <container id="aspace_bfc9f0d946b6cffa3a879aea5ebecf51" parent="aspace_620628940a3b889539d6aea3cc25bdee" type="Folder">14</container>
+            <container altrender="Manuscript box - Legal" id="aspace_bf9f8f47d6a0b4a0b7563cc763f48204" label="Mixed Materials [31142063594355]" type="Box">32</container>
+            <container id="aspace_717037bc71c17a988ef641081cfbb36f" parent="aspace_bf9f8f47d6a0b4a0b7563cc763f48204" type="Folder">14</container>
+            <container altrender="Manuscript box - Legal" id="aspace_c0a847a936fb3401a2353d3ecce609be" label="Mixed Materials [31142063581287]" type="Box">Shared Tamiment 030</container>
+            <container id="aspace_7090c4d32be19e02b9503313b21cc7e4" parent="aspace_c0a847a936fb3401a2353d3ecce609be" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ec2ef87f0a0981ced09ce4200b11a08f" level="file">
+          <did>
+            <unittitle>Correspondence -- Legal</unittitle>
+            <unitdate datechar="creation" normal="1988/1991" type="inclusive">1988-1991</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_aabf156e0d082909a9737437bab668ef" label="Mixed Materials [31142063594249]" type="Box">22</container>
+            <container id="aspace_85c5ac45343f973a9249912b32327b35" parent="aspace_aabf156e0d082909a9737437bab668ef" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_0450d98b32e6cdc20d1077d1060d932d" level="file">
+          <did>
+            <unittitle>Election files</unittitle>
+            <unitdate datechar="creation" normal="1997/1998" type="inclusive">1997-1998</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8939631e9d032fab0e0287747247bcf0" label="Mixed Materials [31142063594355]" type="Box">32</container>
+            <container id="aspace_83cb55e23a4fa52581677d09bedc4357" parent="aspace_8939631e9d032fab0e0287747247bcf0" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_2338eda12bc6cba5858697a94094d735" level="file">
+          <did>
+            <unittitle>Events -- Genealogy workshops</unittitle>
+            <unitdate datechar="creation" normal="1988/1992" type="inclusive">1988-1992</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_64fc8c65c3f8b8fe9b69305fe3ba13a7" label="Mixed Materials [31142063594231]" type="Box">21</container>
+            <container id="aspace_12967340a332524be766044927fcea92" parent="aspace_64fc8c65c3f8b8fe9b69305fe3ba13a7" type="Folder">13-14</container>
+            <container altrender="Manuscript box - Legal" id="aspace_cb546fe349aa82d58c010ae22d7e858e" label="Mixed Materials [31142063594355]" type="Box">32</container>
+            <container id="aspace_78a7111e309eef227ce2e53af739a17e" parent="aspace_cb546fe349aa82d58c010ae22d7e858e" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_89e0ff20487838755aa71acb3817c0e2" level="file">
+          <did>
+            <unittitle>Events -- New York and the Irish Famine</unittitle>
+            <unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_77bc7de8d110109f768e63bf78d03b6d" label="Mixed Materials [31142063594272]" type="Box">25</container>
+            <container id="aspace_dd099f0daf65cecb6e2bcacf3af2c5f0" parent="aspace_77bc7de8d110109f768e63bf78d03b6d" type="Folder">12-14</container>
+            <container altrender="Manuscript box - Letter" id="aspace_c3f00df754cf1678f4704b7a24f74bd8" label="Mixed Materials [31142063594280]" type="Box">26</container>
+            <container id="aspace_2bfee8aaff239cbfd793ea4574f408f4" parent="aspace_c3f00df754cf1678f4704b7a24f74bd8" type="Folder">1-7</container>
+          </did>
+        </c>
+        <c id="aspace_da83e0ffec26d162c6f51b7e04327937" level="file">
+          <did>
+            <unittitle>Financial documents</unittitle>
+            <unitdate datechar="creation" normal="1984/1993" type="inclusive">1984-1993</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_cd22a8f34bcc583656e4785f22a87618" label="Mixed Materials [31142063594231]" type="Box">21</container>
+            <container id="aspace_4c912b45433036311edc6df7695bce64" parent="aspace_cd22a8f34bcc583656e4785f22a87618" type="Folder">1-10</container>
+          </did>
+        </c>
+        <c id="aspace_c2cb45c77f0a4c3de7dc7b0f9bc7440f" level="file">
+          <did>
+            <unittitle>Internet Committee</unittitle>
+            <unitdate datechar="creation" normal="1996/1998" type="inclusive">1996-1998</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5ede5cd0c777ba9a520b7c99f6711940" label="Mixed Materials [31142063594355]" type="Box">32</container>
+            <container id="aspace_21581a71623507bb231611d604625b19" parent="aspace_5ede5cd0c777ba9a520b7c99f6711940" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_8ab1699c4c8cf77dd61fdb0263805ce8" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The Irish Experience in New York City</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1990/1996" type="inclusive">1990-1996</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_ee1902dc9e3260e1c6fe98aac402a593" label="Mixed Materials [31142063594264]" type="Box">24</container>
+            <container id="aspace_bf3a8d63dc4bce8cbb3f42f4de9a0b16" parent="aspace_ee1902dc9e3260e1c6fe98aac402a593" type="Folder">4-6</container>
+            <container altrender="Manuscript box - Legal" id="aspace_b1fb3dc7bf3c46ffcc3802141cc129b2" label="Mixed Materials [31142063594405]" type="Box">37</container>
+            <container id="aspace_7a8e13d196a6303ddd5888d355e9a2be" parent="aspace_b1fb3dc7bf3c46ffcc3802141cc129b2" type="Folder">1-14</container>
+            <container altrender="Manuscript box - Legal" id="aspace_088adb50d4e73c477078190a52fb6c57" label="Mixed Materials [31142063594413]" type="Box">38</container>
+            <container id="aspace_ddea2878c0b8e012fd5e6cb9856c902d" parent="aspace_088adb50d4e73c477078190a52fb6c57" type="Folder">1-5</container>
+          </did>
+        </c>
+        <c id="aspace_858e9baf5e28c298c1326ea557b27b3c" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Keeping the Tradition Alive:  A History of Irish Music and Dance in New York City</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_f51af6715a87ecf6d4b0ec330ce0f39a" label="Mixed Materials [31142063594249]" type="Box">22</container>
+            <container id="aspace_6f4c375fad7f8b9572749e8faae31ac7" parent="aspace_f51af6715a87ecf6d4b0ec330ce0f39a" type="Folder">4-6</container>
+            <container altrender="Manuscript box - Letter" id="aspace_1620db5e561773d012ff646d58757916" label="Mixed Materials [31142063594249]" type="Box">22</container>
+            <container id="aspace_f529d0710b9f79ec5b7eb58c6305f930" parent="aspace_1620db5e561773d012ff646d58757916" type="Folder">9-12</container>
+            <container altrender="Hollinger Cassette Box 5" id="aspace_73972e71cfb81e3ccbe4ae3ba3b27f3f" label="master cassette [31142063594470]" type="Box">44</container>
+            <container id="aspace_16cf606e74411380464139bd1e50243b" parent="aspace_73972e71cfb81e3ccbe4ae3ba3b27f3f" type="Cassette">018.0012-018.0015</container>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_c3d7619a67c5be8326edc1f5e81f5de7" label="master cassette [31142063594538]" type="Box">49</container>
+            <container id="aspace_5ec62315e97f538adcbb5461ea7e7728" parent="aspace_c3d7619a67c5be8326edc1f5e81f5de7" type="Cassette">018.0019-018.0020</container>
+          </did>
+        </c>
+        <c id="aspace_529bb8712c7c33a34eb8b4a3583d7d59" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate datechar="creation" normal="1984/2000" type="inclusive">1984-2000</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_dcd13a5696e158448bc45121e3abe4e1" label="Mixed Materials [31142063594306]" type="Box">28</container>
+            <container id="aspace_5b98eaba1087ee9bd1dcd4b1f999cca3" parent="aspace_dcd13a5696e158448bc45121e3abe4e1" type="Folder">10-13</container>
+            <container altrender="Manuscript box - Letter" id="aspace_84bf6d3576e665135408ce2ca151f0c2" label="Mixed Materials [31142063594314]" type="Box">29</container>
+            <container id="aspace_cada2c273bff1e7b9dd68bb0232a9072" parent="aspace_84bf6d3576e665135408ce2ca151f0c2" type="Folder">1-2</container>
+            <container altrender="Manuscript box - Legal" id="aspace_27b6e94ad3af0dd9a28314c76bfaf40b" label="Mixed Materials [31142063594355]" type="Box">32</container>
+            <container id="aspace_ca2da3979d779922a9439ae0f5c25b46" parent="aspace_27b6e94ad3af0dd9a28314c76bfaf40b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_4f346d0a94be21f6f8659218ab12eef6" level="file">
+          <did>
+            <unittitle>Membership files</unittitle>
+            <unitdate datechar="creation" normal="1984/2003" type="inclusive">1984-2003</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_07de0e7af855ad61492265bfdd82ad62" label="Mixed Materials [31142063594256]" type="Box">23</container>
+            <container id="aspace_9273df3321128443c0bcb9e36caa61d3" parent="aspace_07de0e7af855ad61492265bfdd82ad62" type="Folder">1-4</container>
+            <container altrender="Manuscript box - Letter" id="aspace_8190a7a883838f867af1098c7f6be85d" label="Mixed Materials [31142063594256]" type="Box">23</container>
+            <container id="aspace_a65bcfacda99f89edf581ee5080f17f4" parent="aspace_8190a7a883838f867af1098c7f6be85d" type="Folder">7</container>
+            <container altrender="Manuscript box - Letter" id="aspace_099de83ba8dabc541811d9e04e119273" label="Mixed Materials [31142063594272]" type="Box">25</container>
+            <container id="aspace_0911963f20b7590d7b198de1bf234110" parent="aspace_099de83ba8dabc541811d9e04e119273" type="Folder">5</container>
+            <container altrender="Manuscript box - Letter" id="aspace_53b76733a19973a94df066d9d68f500f" label="Mixed Materials [31142063594306]" type="Box">28</container>
+            <container id="aspace_ea9a26720564f3bc6f6cafaac9185a78" parent="aspace_53b76733a19973a94df066d9d68f500f" type="Folder">4-6</container>
+            <container altrender="Manuscript box - Legal" id="aspace_5043198461743e6c369569b962db3222" label="Mixed Materials [31142063594348]" type="Box">31</container>
+            <container id="aspace_ba9e35c878d9803f7f5bca845ad32b77" parent="aspace_5043198461743e6c369569b962db3222" type="Folder">5-8</container>
+            <container altrender="Manuscript box - Legal" id="aspace_7ffae77736702caf6d43bc07bec9b963" label="Mixed Materials [31142063594348]" type="Box">31</container>
+            <container id="aspace_c148b72829e05a86be0cb4f95b1778aa" parent="aspace_7ffae77736702caf6d43bc07bec9b963" type="Folder">13</container>
+            <container altrender="Manuscript box - Legal" id="aspace_452668123fe5653d3e75555a7da1a100" label="Mixed Materials [31142063594355]" type="Box">32</container>
+            <container id="aspace_42447fa32a41625453872a024f957d9f" parent="aspace_452668123fe5653d3e75555a7da1a100" type="Folder">18</container>
+            <container altrender="Card Box - 6.5" id="aspace_35becb2865179b80b258bb70ebfd3e6a" label="Mixed Materials [31142063594496]" type="Box">46</container>
+          </did>
+        </c>
+        <c id="aspace_ec30d8d95a05dad7625820607284b964" level="file">
+          <did>
+            <unittitle>Mixed documents</unittitle>
+            <unitdate datechar="creation" normal="1987/2003" type="inclusive">1987-2003</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_cb25c977a8b2decd03d3873fa51669e4" label="Mixed Materials [31142063594272]" type="Box">25</container>
+            <container id="aspace_becdf7a00fdef47168cc5dea8435ee12" parent="aspace_cb25c977a8b2decd03d3873fa51669e4" type="Folder">6</container>
+            <container altrender="Manuscript box - Letter" id="aspace_bd882f5f5403a2d155896ad88adcc578" label="Mixed Materials [31142063594272]" type="Box">25</container>
+            <container id="aspace_148c2907d7b27824e2d392ba4100c132" parent="aspace_bd882f5f5403a2d155896ad88adcc578" type="Folder">9</container>
+            <container altrender="Manuscript box - Legal" id="aspace_9c4a57153b1d0e49c8278cbd6f7a8ec2" label="Mixed Materials [31142063594348]" type="Box">31</container>
+            <container id="aspace_d220106836de4377c694440f57d113ec" parent="aspace_9c4a57153b1d0e49c8278cbd6f7a8ec2" type="Folder">10</container>
+            <container altrender="Manuscript box - Legal" id="aspace_729dfa3c76f76afbb1d6f9c8c269e08c" label="Mixed Materials [31142063594355]" type="Box">32</container>
+            <container id="aspace_ba34462eb20d1445e10bb30c1444256b" parent="aspace_729dfa3c76f76afbb1d6f9c8c269e08c" type="Folder">13</container>
+            <container altrender="Manuscript box - Legal" id="aspace_95f2f53e5d04bdd6df64bf7166174401" label="Mixed Materials [31142063594355]" type="Box">32</container>
+            <container id="aspace_a38ffe77d8e9599004d3c1c1b9be2153" parent="aspace_95f2f53e5d04bdd6df64bf7166174401" type="Folder">16-17</container>
+            <container altrender="Manuscript box - Legal" id="aspace_6431ff2f44c04ab39b0ee2ce2ac1a526" label="Mixed Materials [31142063594355]" type="Box">32</container>
+            <container id="aspace_55386bdcf70c9fb1b5dac7c4db155cd9" parent="aspace_6431ff2f44c04ab39b0ee2ce2ac1a526" type="Folder">19-20</container>
+          </did>
+        </c>
+        <c id="aspace_3fdb9e42612f1cd710f89fd78caa79da" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The New York Irish</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1989/1997" type="inclusive">1989-1997</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_30c700f135689aa7e056b215892b4c03" label="Mixed Materials [31142063594272]" type="Box">25</container>
+            <container id="aspace_e5d69206314c1c568305375a4f87d6ff" parent="aspace_30c700f135689aa7e056b215892b4c03" type="Folder">10</container>
+            <container altrender="Manuscript box - Legal" id="aspace_dfa34089231e18a9db816fc7d65a892f" label="Mixed Materials [31142063594363]" type="Box">33</container>
+            <container id="aspace_28e8709c38153c31a7e1d38b03b85048" parent="aspace_dfa34089231e18a9db816fc7d65a892f" type="Folder">1-12</container>
+            <container altrender="Manuscript box - Legal" id="aspace_708e95cc395b4c859ec732493b4c40f1" label="Mixed Materials [31142063594371]" type="Box">34</container>
+            <container id="aspace_da0a74259df84dca8cd2b4a0dc035730" parent="aspace_708e95cc395b4c859ec732493b4c40f1" type="Folder">1-11</container>
+            <container altrender="Manuscript box - Legal" id="aspace_b7128676bf7918704e66be7f3611352e" label="Mixed Materials [31142063594389]" type="Box">35</container>
+            <container id="aspace_b3bb3c2a5e86e30454ada2398fe49f71" parent="aspace_b7128676bf7918704e66be7f3611352e" type="Folder">1-11</container>
+            <container altrender="Manuscript box - Legal" id="aspace_e2de7d46340a118906ae995b802ff129" label="Mixed Materials [31142063594397]" type="Box">36</container>
+            <container id="aspace_38f9343449f027852dbbfbc30a694b6e" parent="aspace_e2de7d46340a118906ae995b802ff129" type="Folder">1-11</container>
+            <container altrender="Manuscript box - Legal" id="aspace_65918b0b15610b519237f075cd51c171" label="Mixed Materials [31142063594413]" type="Box">38</container>
+            <container id="aspace_aa50b61871b55e8446c1c22fb3a5cfd6" parent="aspace_65918b0b15610b519237f075cd51c171" type="Folder">6-14</container>
+            <container altrender="Manuscript box - Legal" id="aspace_03f2e4e54624fc0c43e53d1eb19deac7" label="Mixed Materials [31142063594421]" type="Box">39</container>
+            <container id="aspace_ae3d45ab56bf432be75aa34e715bfdf5" parent="aspace_03f2e4e54624fc0c43e53d1eb19deac7" type="Folder">1-12</container>
+            <container altrender="Manuscript box - Legal" id="aspace_bfe9f9896cfd043f695e099b7eaa922f" label="Mixed Materials [31142063594439]" type="Box">40</container>
+            <container id="aspace_00c435646fbe7b05273a45099df62fdf" parent="aspace_bfe9f9896cfd043f695e099b7eaa922f" type="Folder">1-14</container>
+            <container altrender="Manuscript box - Legal" id="aspace_de6d9f882b993beb4b78ef762aae590f" label="Mixed Materials [31142063594447]" type="Box">41</container>
+            <container id="aspace_b21dce241d8876c38a1fd4d6e80d5305" parent="aspace_de6d9f882b993beb4b78ef762aae590f" type="Folder">1-9</container>
+            <container altrender="Hollinger Cassette Box 5" id="aspace_c9a630a4cd98c0026eb0e25d5847daf9" label="master cassette [31142063594470]" type="Box">44</container>
+            <container id="aspace_d78385e5fb6294aa4ced8c8a837c9b41" parent="aspace_c9a630a4cd98c0026eb0e25d5847daf9" type="Cassette">018.0016-018.0018</container>
+            <container altrender="Card Box - 6.5" id="aspace_6b48ca1c3fcd82ef67f7bf2cf09d9ee9" label="Mixed Materials [31142063594496]" type="Box">46</container>
+            <container id="aspace_b1023065ad39f426885d90c3ba8db434" label="electronic records" type="Box">Electronic records</container>
+            <container id="aspace_b41a0d2755792d7b0e3bbff997afae67" parent="aspace_b1023065ad39f426885d90c3ba8db434" type="E-records">TW_AIA_18_ER_4</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/aia_018.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="The New York Irish" xlink:type="simple">
+              <daodesc>
+                <p>The New York Irish: 1995-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_5c14bbedfe3acacbdfb076355b17e557" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">New York Irish History</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1988/2004" type="inclusive">1988-2004</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_00acf02d9938d5d83929e8264fb98031" label="Mixed Materials [31142063594249]" type="Box">22</container>
+            <container id="aspace_34cdcc0077ff357bfc6df54c42cf2237" parent="aspace_00acf02d9938d5d83929e8264fb98031" type="Folder">8</container>
+            <container altrender="Manuscript box - Letter" id="aspace_7ea961180bb9ebf41f7731d087e07e80" label="Mixed Materials [31142063594272]" type="Box">25</container>
+            <container id="aspace_3823ca3b0ccfe1b97de4acc8a96bb834" parent="aspace_7ea961180bb9ebf41f7731d087e07e80" type="Folder">8</container>
+            <container altrender="Manuscript box - Letter" id="aspace_1b7b4d25b1f44911e941a3740453bcd6" label="Mixed Materials [31142063594272]" type="Box">25</container>
+            <container id="aspace_b19dcc2f9b2688a1c2f599aad52dc836" parent="aspace_1b7b4d25b1f44911e941a3740453bcd6" type="Folder">11</container>
+            <container altrender="Manuscript box - Letter" id="aspace_a425c52b05312879b9e56e67838dc903" label="Mixed Materials [31142063594298]" type="Box">27</container>
+            <container id="aspace_abdf84a0d5997c45f49201d0d9b90adb" parent="aspace_a425c52b05312879b9e56e67838dc903" type="Folder">1-19</container>
+            <container altrender="Manuscript box - Letter" id="aspace_91c8f2c592d3e1db8ad2a6b0a9c1c9e5" label="Mixed Materials [31142063594306]" type="Box">28</container>
+            <container id="aspace_e5493b485fc29de511447ed1ee825bce" parent="aspace_91c8f2c592d3e1db8ad2a6b0a9c1c9e5" type="Folder">1-3</container>
+            <container altrender="Manuscript box - Letter" id="aspace_a4e5162f154dfaa091aa9685bb13c7f9" label="Mixed Materials [31142063594314]" type="Box">29</container>
+            <container id="aspace_ce1bc983ff7e9d731144295cefa0ce87" parent="aspace_a4e5162f154dfaa091aa9685bb13c7f9" type="Folder">5</container>
+            <container altrender="Manuscript box - Legal" id="aspace_5a882ba3eff93a7a37248a766325c7ec" label="Mixed Materials [31142063594348]" type="Box">31</container>
+            <container id="aspace_deae69834565b9117db3f071b691b7f3" parent="aspace_5a882ba3eff93a7a37248a766325c7ec" type="Folder">9</container>
+            <container altrender="Manuscript box - Legal" id="aspace_eb26bc19a05321d089b7775f7c1eed64" label="Mixed Materials [31142063581287]" type="Box">Shared Tamiment 030</container>
+            <container id="aspace_31302f5f2b44566924b24e2bad10f4c0" parent="aspace_eb26bc19a05321d089b7775f7c1eed64" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_dc1e210a6b704d225fce479d3ef5614a" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">New York Irish History Roundtable Newsletter</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1987/2000" type="inclusive">1987-2000</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_c08cd903a411e276d6ec9dc05079fe9c" label="Mixed Materials [31142063594223]" type="Box">20</container>
+            <container id="aspace_391f8963858c17ebba83c0af45c0271d" parent="aspace_c08cd903a411e276d6ec9dc05079fe9c" type="Folder">11-12</container>
+            <container altrender="Manuscript box - Letter" id="aspace_e812b00109566950dd0ce2055d1fd7e3" label="Mixed Materials [31142063594256]" type="Box">23</container>
+            <container id="aspace_5f81eb1ef7933363650fbb561b2c21cc" parent="aspace_e812b00109566950dd0ce2055d1fd7e3" type="Folder">8-10</container>
+            <container altrender="Manuscript box - Legal" id="aspace_b54f3080b135fb897642effffd275051" label="Mixed Materials [31142063594355]" type="Box">32</container>
+            <container id="aspace_92aea12654587b1dda2f5ea7fd3684e9" parent="aspace_b54f3080b135fb897642effffd275051" type="Folder">8-11</container>
+          </did>
+        </c>
+        <c id="aspace_7b4d7f09732829b55a645701120a6cda" level="file">
+          <did>
+            <unittitle>New York Irish History Roundtable website</unittitle>
+            <unitdate datechar="creation" normal="1996/1999" type="inclusive">1996-1999</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_df6f6e3865ca12ed66b806415fc6a1d9" label="Mixed Materials [31142063594348]" type="Box">31</container>
+            <container id="aspace_5ee314a8dd292f74b60bfe4da2d9e66f" parent="aspace_df6f6e3865ca12ed66b806415fc6a1d9" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_b56b7207ba06470df20c86a514a672ed" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="1988/1996" type="inclusive">1988-1996</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_d28032d80cc484105ca85643ed346f5e" label="Mixed Materials [31142063594306]" type="Box">28</container>
+            <container id="aspace_a788981ae5656dac491370ac7d5822da" parent="aspace_d28032d80cc484105ca85643ed346f5e" type="Folder">7-9</container>
+            <container altrender="Manuscript box - Letter" id="aspace_5eb0f70a37386e9dee4e20f7a49259ec" label="Mixed Materials [31142063594322]" type="Box">30</container>
+            <container id="aspace_1ab270d00e853f4bc03c0ad9aab52a72" parent="aspace_5eb0f70a37386e9dee4e20f7a49259ec" type="Folder">4-25</container>
+            <container altrender="Manuscript box - Legal" id="aspace_9d9674fe11a6aa045240719bb4ae4fb1" label="Mixed Materials [31142063594348]" type="Box">31</container>
+            <container id="aspace_79d4f0aa20cd190a76465f338f998ec5" parent="aspace_9d9674fe11a6aa045240719bb4ae4fb1" type="Folder">1-4</container>
+          </did>
+        </c>
+        <c id="aspace_d6867a83db354bc9d84eb508ed5ecefa" level="file">
+          <did>
+            <unittitle>Projects -- Commemoration of the United Irish Rebellion of 1798</unittitle>
+            <unitdate datechar="creation" normal="1995/1997" type="inclusive">1995-1997</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_e95b69f3438db8348ab006d25645165a" label="Mixed Materials [31142063594280]" type="Box">26</container>
+            <container id="aspace_86014b24bd56472e7a991299ab412adf" parent="aspace_e95b69f3438db8348ab006d25645165a" type="Folder">8-11</container>
+            <container altrender="Flat OS Box 17" id="aspace_b8ea93ba98f29b9c966975d6cd26e115" label="Mixed Materials [31142062882272]" type="Box">Shared Tamiment 014</container>
+            <container id="aspace_2fed860b217d078f2a7e759abb99ddca" parent="aspace_b8ea93ba98f29b9c966975d6cd26e115" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_db1282d28b2a012eefb81dfe3ce489fa" level="file">
+          <did>
+            <unittitle>Projects -- <emph render="italic">Irish Echo</emph> indexing</unittitle>
+            <unitdate datechar="creation" normal="1988/1993" type="inclusive">1988-1993</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_d9fdd64eb491f969e123cbd3eb8220ad" label="Mixed Materials [31142063594231]" type="Box">21</container>
+            <container id="aspace_98dd1ace57ab5f395cfa520561951ed3" parent="aspace_d9fdd64eb491f969e123cbd3eb8220ad" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_5d7a0f13b2be1fa589a7df807b86af42" level="file">
+          <did>
+            <unittitle>Projects -- Oral history</unittitle>
+            <unitdate datechar="creation" normal="1986/1991" type="inclusive">1986-1991</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_06dcf233f19b97b4fea70a397eae1202" label="Mixed Materials [31142063594264]" type="Box">24</container>
+            <container id="aspace_8b382b5c031c46931c802afd7e8304de" parent="aspace_06dcf233f19b97b4fea70a397eae1202" type="Folder">7-9</container>
+            <container altrender="Manuscript box - Letter" id="aspace_c8bfe3433436b483844a65c97775d144" label="Mixed Materials [31142063594272]" type="Box">25</container>
+            <container id="aspace_d55c9d8dee39719d98832a7631a336a1" parent="aspace_c8bfe3433436b483844a65c97775d144" type="Folder">1-3</container>
+            <container altrender="Hollinger Cassette Box 5" id="aspace_3b84101eb77705dd327fa89c9d02bc5a" label="master cassette [31142063594470]" type="Box">44</container>
+            <container id="aspace_0082ee7b43a3ec173fc932d2be69952d" parent="aspace_3b84101eb77705dd327fa89c9d02bc5a" type="Cassette">018.0001-018.0011</container>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_4e59eca9985ac077159039e9e09dc9d2" label="master cassette [31142063594538]" type="Box">49</container>
+            <container id="aspace_d8591118b0a0a4eac53a44bd714ea5a3" parent="aspace_4e59eca9985ac077159039e9e09dc9d2" type="Cassette">018.0021</container>
+          </did>
+        </c>
+        <c id="aspace_7734bb65babbcc0ebfbaab2f410c7571" level="file">
+          <did>
+            <unittitle>Publications</unittitle>
+            <unitdate datechar="creation" normal="1985/2000" type="inclusive">1985-2000</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_57d3f309c58bc7db16b3422dc9dd4a53" label="Mixed Materials [31142063594256]" type="Box">23</container>
+            <container id="aspace_38cd62c3a70e930a8d46c8c9bd16ccbd" parent="aspace_57d3f309c58bc7db16b3422dc9dd4a53" type="Folder">11-16</container>
+            <container altrender="Manuscript box - Letter" id="aspace_6d1ff1d93334c8e1925389573d3f09e5" label="Mixed Materials [31142063594264]" type="Box">24</container>
+            <container id="aspace_437b16be24de1d5cc130ef71452a2db8" parent="aspace_6d1ff1d93334c8e1925389573d3f09e5" type="Folder">1</container>
+            <container altrender="Manuscript box - Letter" id="aspace_294938a2e0f294cf3a49d0e68a0df679" label="Mixed Materials [31142063594314]" type="Box">29</container>
+            <container id="aspace_f65a5c4d46ba508a8c1b308073d0fbcb" parent="aspace_294938a2e0f294cf3a49d0e68a0df679" type="Folder">3-4</container>
+            <container altrender="Manuscript box - Legal" id="aspace_32ffb2c0a2019aeff3af6bb96dbef279" label="Mixed Materials [31142063594348]" type="Box">31</container>
+            <container id="aspace_20225a79c9a942d57a17ad3896324b91" parent="aspace_32ffb2c0a2019aeff3af6bb96dbef279" type="Folder">11</container>
+            <container altrender="Manuscript box - Legal" id="aspace_3163448b9982dcfdcf0ac943fccd78f3" label="Mixed Materials [31142063594355]" type="Box">32</container>
+            <container id="aspace_b6688cc195de0bcbac80865a312548b8" parent="aspace_3163448b9982dcfdcf0ac943fccd78f3" type="Folder">5-7</container>
+          </did>
+        </c>
+        <c id="aspace_8d7a4da2b34a518d90c7269d3ef44617" level="file">
+          <did>
+            <unittitle>Scholarship files</unittitle>
+            <unitdate datechar="creation" normal="1990/1993" type="inclusive">1990-1993</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_3b3af16b3a3198c6f74a3cff57de9de8" label="Mixed Materials [31142063594264]" type="Box">24</container>
+            <container id="aspace_eef7aa285ead6c5cfc761277ad3b5526" parent="aspace_3b3af16b3a3198c6f74a3cff57de9de8" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_d6ae7916ddee551e89ff2f57ff6e5961" level="series">
+        <did>
+          <unittitle>Series III. Clare Curtin Files</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2.2 Linear Feet</extent>
+            <extent altrender="carrier">in 5 manuscript boxes</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1989/2007" type="inclusive">1989-2007</unitdate>
+        </did>
+        <scopecontent id="aspace_41c4732108392e05b59d77961f1ba2f7">
+          <head>Scope and Contents</head>
+          <p>This series contains the files of Clare Curtin and documents her work as Secretary of the Roundtable.  The series dates between 1989 and 2007 and includes membership materials, correspondence between officers, and drafts and published versions of Roundtable newsletters and <emph render="italic">New York Irish History</emph>.  The membership material consists of renewal forms, lists, and surveys conducted in 1991 and 1995.</p>
+        </scopecontent>
+        <c id="aspace_3c1a209c880e84a5a3d50dccb34cecbf" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_0c96a06818667e0e8f5c3e459014533f" label="Mixed Materials [31142063594223]" type="Box">20</container>
+            <container id="aspace_4b540e4992b9d56c8d6f9dbfd0fda976" parent="aspace_0c96a06818667e0e8f5c3e459014533f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ad03a9e5a0d57653d2cc2d56e1c852f4" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1994/1997" type="inclusive">1994-1997</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_77b913763b7cd6ce9279ffb91ad1cebe" label="Mixed Materials [31142063594223]" type="Box">20</container>
+            <container id="aspace_5492f60cde82f2b72d23785988493fa7" parent="aspace_77b913763b7cd6ce9279ffb91ad1cebe" type="Folder">2-3</container>
+          </did>
+        </c>
+        <c id="aspace_db21cd5a567248ebad4d57d2111bb6f1" level="file">
+          <did>
+            <unittitle>Election files</unittitle>
+            <unitdate datechar="creation" normal="1994/1994">1994</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_c4b8e3de995554f302feebc9bdcaefd4" label="Mixed Materials [31142063594207]" type="Box">18</container>
+            <container id="aspace_744ab3ebd22aebcde07b2eadb9d7c46b" parent="aspace_c4b8e3de995554f302feebc9bdcaefd4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_50c5714b2a16977cc2315a975c6acfd2" level="file">
+          <did>
+            <unittitle>Mailing lists</unittitle>
+            <unitdate datechar="creation" normal="1994/1997" type="inclusive">1994-1997</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_e1b3ddcbfd5dec8438316ac0f2599d39" label="Mixed Materials [31142063594207]" type="Box">18</container>
+            <container id="aspace_dcefde54c8a0b8977d261c0ff49d3bba" parent="aspace_e1b3ddcbfd5dec8438316ac0f2599d39" type="Folder">2</container>
+            <container altrender="Manuscript box - Letter" id="aspace_271d9cdaa014d933f4c6cec050537b86" label="Mixed Materials [31142063594223]" type="Box">20</container>
+            <container id="aspace_fa840aa327347a5ea8ffcd15dcf7e1f8" parent="aspace_271d9cdaa014d933f4c6cec050537b86" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_fd482829ca811de7eda61d3da20bebef" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate datechar="creation" normal="1994/1997" type="inclusive">1994-1997</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_f8ac3fd3cd7f4b5bbd9fb7ec0b73085e" label="Mixed Materials [31142063594207]" type="Box">18</container>
+            <container id="aspace_a0b2aac3a59ba4ff6cb353be425c31c3" parent="aspace_f8ac3fd3cd7f4b5bbd9fb7ec0b73085e" type="Folder">1</container>
+            <container altrender="Manuscript box - Letter" id="aspace_bddf3cc287f4ef65fe713124f583e6d1" label="Mixed Materials [31142063594223]" type="Box">20</container>
+            <container id="aspace_85e288c2412c94abd5cba06d08e8de30" parent="aspace_bddf3cc287f4ef65fe713124f583e6d1" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_84eeddd5d080c716304090639de63d9f" level="file">
+          <did>
+            <unittitle>Membership files</unittitle>
+            <unitdate datechar="creation" normal="1991/1997" type="inclusive">1991-1997</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_e561b8ee5cbace3ac15f873957946cd5" label="Mixed Materials [31142063594199]" type="Box">17</container>
+            <container id="aspace_8864ada290423893d4270d3f678593ea" parent="aspace_e561b8ee5cbace3ac15f873957946cd5" type="Folder">4-16</container>
+            <container altrender="Manuscript box - Letter" id="aspace_6c12b6ecfb7054d9d09dcf45fd6f2bd8" label="Mixed Materials [31142063594207]" type="Box">18</container>
+            <container id="aspace_3aad09f1d619f2f0a92e21cbaf7817a3" parent="aspace_6c12b6ecfb7054d9d09dcf45fd6f2bd8" type="Folder">4-9</container>
+            <container altrender="Manuscript box - Letter" id="aspace_a78f6050aff64ada9cbb743ceeb42c6d" label="Mixed Materials [31142063594215]" type="Box">19</container>
+            <container id="aspace_f24844f7ce54ee181505181a3a1899ad" parent="aspace_a78f6050aff64ada9cbb743ceeb42c6d" type="Folder">1-6</container>
+          </did>
+        </c>
+        <c id="aspace_1c3f9e61442f55171c5938d6063db229" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">New York Irish History</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1989/1991" type="inclusive">1989-1991</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_b1b0fea378903d0446fb0677fd64d0d1" label="Mixed Materials [31142063594181]" type="Box">16</container>
+            <container id="aspace_b81110eaccf6bf0acb73d16f7e9c21c9" parent="aspace_b1b0fea378903d0446fb0677fd64d0d1" type="Folder">13</container>
+            <container altrender="Manuscript box - Letter" id="aspace_e86520affcc71987eaf485ac33f2c57a" label="Mixed Materials [31142063594199]" type="Box">17</container>
+          </did>
+        </c>
+        <c id="aspace_dcc5b4cd4de10d0f8ecfc9b203f6b558" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">New York Irish History Roundtable Newsletter</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1999/2007" type="inclusive">1999-2007</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_c27ffe2ed1a90a5eb4bb5b9be5899410" label="Mixed Materials [31142063594199]" type="Box">17</container>
+            <container id="aspace_3c933733268d6efa467a138c66be5412" parent="aspace_c27ffe2ed1a90a5eb4bb5b9be5899410" type="Folder">2-3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_7de2f6fd8ead2caf2b5b98f8ab9fa1c9" level="series">
+        <did>
+          <unittitle>Series IV. Angela Carter Files</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.3 Linear Feet</extent>
+            <extent altrender="carrier">in 3 manuscript boxes</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">106 kilobytes</extent>
+            <extent altrender="carrier">in 3 computer files</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1986/2000" type="inclusive">1986-2000</unitdate>
+        </did>
+        <scopecontent id="aspace_b29fcab89a3a54815d142cd751062b42">
+          <head>Scope and Contents</head>
+          <p>This series contains the files of Angela Carter and documents her work as Corresponding Secretary, Newsletter Editor, and Recording Secretary.  The series dates from 1986 to 2000 and documents Carter's work on <emph render="italic">The New York Irish</emph> and the <emph render="italic">Gaelic Gotham Report</emph>.  Materials include correspondence and clippings on both publications, paper drafts of <emph render="italic">The New York Irish</emph>, paper and born-digital drafts of the <emph render="italic">Gaelic Gotham Report</emph>, and statements for the bank account connected to <emph render="italic">The New York Irish</emph>.</p>
+        </scopecontent>
+        <c id="aspace_b1f32a30393e23dc53e47673abf8dd7c" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Gaelic Gotham Report</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1992/1999" type="inclusive">1992-1999</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6528835236138512e4852afc8b50fd01" label="Mixed Materials [31142063594447]" type="Box">41</container>
+            <container id="aspace_d6a8cacf29bad1660f2489f99e7944b2" parent="aspace_6528835236138512e4852afc8b50fd01" type="Folder">9-10</container>
+            <container altrender="Manuscript box - Legal" id="aspace_0af064869db3c8dcf0217c69dc09d473" label="Mixed Materials [31142063594454]" type="Box">42</container>
+            <container id="aspace_dccd96e16a0662853977268d84bfa73b" parent="aspace_0af064869db3c8dcf0217c69dc09d473" type="Folder">1-13</container>
+            <container id="aspace_a3d60abf8428051c99f0cb4d2ea129b1" label="electronic records" type="Box">Electronic records</container>
+            <container id="aspace_3771fffb7ec760d5905a0d9f507ac2ea" parent="aspace_a3d60abf8428051c99f0cb4d2ea129b1" type="E-records">TW_AIA_18_ER_3</container>
+            <dao xlink:actuate="onRequest" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/aia_018.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Gaelic Gotham Report" xlink:type="simple">
+              <daodesc>
+                <p>Gaelic Gotham Report: 1996-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_f66b957fef2f3449f5f8492a6314ca0e" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The New York Irish</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1986/2000" type="inclusive">1986-2000</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9feacd17996330cedf75760c2563b700" label="Mixed Materials [31142063594447]" type="Box">41</container>
+            <container id="aspace_6af106fe6f812330c2716a0448dee79f" parent="aspace_9feacd17996330cedf75760c2563b700" type="Folder">8</container>
+            <container altrender="Manuscript box - Legal" id="aspace_b9b35128beb89f255ab7cff3a5521dd7" label="Mixed Materials [31142063594454]" type="Box">42</container>
+            <container id="aspace_bffabef6852ff7b807134be9b6371d72" parent="aspace_b9b35128beb89f255ab7cff3a5521dd7" type="Folder">14</container>
+            <container altrender="Manuscript box - Legal" id="aspace_041584ac1a09b1e91e39f46e4feda6e6" label="Mixed Materials [31142063594462]" type="Box">43</container>
+            <container id="aspace_1414f46386d09729b100493e973e7abc" parent="aspace_041584ac1a09b1e91e39f46e4feda6e6" type="Folder">1-11</container>
+            <container altrender="Flat OS Box 17" id="aspace_8745a38ddd46928999a464dc290a5944" label="Mixed Materials [31142062882272]" type="Box">Shared Tamiment 014</container>
+            <container id="aspace_6b911322e908e8eda4e93564bf4e18b3" parent="aspace_8745a38ddd46928999a464dc290a5944" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_273">tam_273</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Irving Adler Papers <num>TAM.273</num></titleproper>
+        <author>Tamiment Staff</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Adler Guide.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 02:11:21 -0400</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>September 2016</date>
+        <item>Edited by Heather Mulliner to include autobiography from 2016 accession</item>
+      </change>
+      <change>
+        <date>June 2021</date>
+        <item>Edited by Rachel Mahre revising laudatory language in the Biographical Note and including information about Adler's death.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Irving Adler Papers</unittitle>
+      <origination label="Creator">
+        <persname role="dnr" source="naf">Adler, Irving</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="aacr" source="naf">Heins, Marjorie</persname>
+      </origination>
+      <unitid>TAM.273</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">in 2 record cartons</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1929/2009" type="inclusive">1929-2009</unitdate>
+      <abstract id="aspace_1941af6ab668d85c0bfcab520d56f3c7">Irving Adler (1913-2012) was an educator, mathematician, science writer and progressive activist born in New York City. He taught mathematics in the New York City secondary schools, was an activist in the progressive Teachers' Union, and the National Director of the National Council of the Arts, Sciences and Professions. Adler wrote numerous books, articles, and reviews on politics, education, mathematics and science (many for children). He was also a founding board member of the American Institute for Marxist Studies (AIMS). The collection includes his writings, clippings, correspondence and ephemera.</abstract>
+      <langmaterial id="aspace_54b169292185e3e073c8c6a998625965">This collection is in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_b40a9732bf6dabeaa45facc50c55262a">
+      <head>Conditions Governing Access</head>
+      <p>Open for research with restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_69cfcdfb2e3ab054649321c3d499f4b8">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Irving Adler in 2002; additional materials were added by Irving Adler in 2010 and by  Marjorie Heins in 2016. The accession numbers associated with these gifts is 2001.205 and 2016.032.</p>
+    </acqinfo>
+    <arrangement id="aspace_07eabfc952d1d224eb1b814ebc537069">
+      <head>Arrangement</head>
+      <p>Files are arranged alphabetically by subject or creator.</p>
+    </arrangement>
+    <bioghist id="aspace_2149e20074781e9423b2a7f3aa731256">
+      <head>Biographical Note</head>
+      <p>Irving Adler (1913-2012) was an educator, mathematician, science writer and progressive activist. He was born in New York City, attended City College (B.S., 1931) and received graduate degrees in mathematics from Columbia University (M.A., 1938; Ph.D., 1961). From 1932-1952 he taught mathematics in the New York City secondary schools and was an activist in the progressive Teachers' Union. In 1953 he was the National Director of the National Council of the Arts, Sciences and Professions. In 1954 he was suspended for refusing to cooperate with government investigations into teachers' political beliefs and associations. Reinstated in 1976, he then retired. In the 1950s Adler began a career as the author (frequently with his first wife Ruth Adler) of numerous books on mathematics and science (many for children), and also wrote <title render="italic">What We Want of Our Schools: Plain Talk on Education, from Theory to Budgets</title>(1957). Adler also published several scholarly papers on mathematics, book reviews, and articles on the philosophy of science and on dialectical materialism. Adler was a founding board member of the American Institute for Marxist Studies (AIMS) and a regular contributor to <title render="italic">Science &amp; Society</title>(a Marxist quarterly). Moving to Vermont in the early 1960s, he continued his progressive activism locally. Through his philanthropic efforts helped to establish the City College Volunteers in Spain Memorial Scholarship and, at Dartmouth College, the Joseph Dallet Jr. 1927 Memorial Prize, each in honor of alumni who fought in the Spanish Civil War. Adler passed away in 2012 at the age of 99.</p>
+    </bioghist>
+    <prefercite id="aspace_bf2371a05445e5475f5e0be50cc95016">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Irving Adler Papers; TAM 273; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_0c518f4ec77e89d002c48ce4b6581771">
+      <head>Processing Information</head>
+      <p>Decisions concerning the arrangement, description, and rehousing of this collection prior to 2016 have not yet been recorded. In 2016, a copy of Irving Adler's autobiograph <emph render="italic">Kicked Upstairs</emph> was added to the collection following the existing arrangement.</p>
+    </processinfo>
+    <scopecontent id="aspace_b2528bac3e0f03d300a82d1731e15203">
+      <head>Scope and Content Note</head>
+      <p>The Irving Adler Papers (dates 1929-2009) contain published and unpublished writings by Adler on mathematics, the philosophy of science, dialectical materialism, and on educational issues. There is correspondence related the publication and reception of these writings (notably Freeman Dyson), and a thick file of correspondence with AIMS Director Herbert Aptheker. Freedom of Information Act (FOIA) documents and correspondence comprise one folder each re: Adler's CIA and FBI files. Two City College files contain Adler's student writings and activist ephemera. Several files related to Adler's teaching career contain typescripts on the teaching of mathematics, Teachers Union ephemera and publications, and testimony and other documents from the administrative proceedings leading to his suspension. The collection also contains a copy of Irving Adler's autobiography, which chronicles his experience of banned from teaching because of his affiliation with the Communist Party. Another file documents the similar case of Joyce Sparer, later Adler's second wife. Several files containing clippings and letters to newspaper editors on topical matters document Adler's activism following his move to Vermont. There are also files on the Spanish Civil War-related scholarships Adler established, files on several on miscellaneous events or topics, and a thick biographical file which includes an oral history transcript.</p>
+    </scopecontent>
+    <userestrict id="aspace_86d80dad8242bc8f8fba440b5c5b716c">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by Irving Adler were transferred to New York University in 2002 by Irving Adler. Permission to publish or reproduce materials in this collection must be secured from Tamiment Library and Robert F. Wagner Labor Archives.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Biographies.</genreform>
+      <subject source="lcsh">Mathematics --  Study and teaching -- United States</subject>
+      <genreform source="aat">Writings (document genre)</genreform>
+      <subject source="lcsh">Political persecution -- Teachers and educators.</subject>
+      <subject source="lcsh">Dialectical materialism.</subject>
+      <subject source="lcsh">Civil rights -- United States.</subject>
+      <genreform source="aat">Printed ephemera.</genreform>
+      <genreform source="aat">Transcripts.</genreform>
+      <genreform source="aat">Typescripts</genreform>
+      <persname rules="aacr" source="naf">Aptheker, Herbert, 1915-2003.</persname>
+      <corpname source="naf">Teachers' Union of the City of New York</corpname>
+      <corpname source="local">National Council of the Arts, Sciences and Professions</corpname>
+      <persname source="naf">Adler, Irving</persname>
+      <persname role="dnr" rules="aacr" source="naf">Heins, Marjorie</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>Adler, Irving: Auto / Biographical Materials, Including Oral History Transcript</unittitle>
+          <unitdate datechar="creation" normal="1932/2009" type="inclusive">1932-2009</unitdate>
+          <container altrender="Record carton" id="aspace_8f0f2decd2b9c16bfeddadb961274273" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_be2c346436a2ebd663f2742130884634" parent="aspace_8f0f2decd2b9c16bfeddadb961274273" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Adler, Irving: City College</unittitle>
+          <unitdate datechar="creation" normal="1929/1931" type="inclusive">1929-1931</unitdate>
+          <container altrender="Record carton" id="aspace_cee96220399755c93b0085d2e1949a4e" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_37d23f24d7fad0f84720ffd69be13471" parent="aspace_cee96220399755c93b0085d2e1949a4e" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Adler, Irving: City College Phi Beta Kappa - Gamma Chapter</unittitle>
+          <unitdate datechar="creation" normal="1934/1937" type="inclusive">1934-1937</unitdate>
+          <container altrender="Record carton" id="aspace_2a28c09406d2ac5432f5271eeaabb7ee" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_a3e510cfe89a70cfe528165367572c3c" parent="aspace_2a28c09406d2ac5432f5271eeaabb7ee" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Adler, Irving: Correspondence re Soviet Publication of His Writings</unittitle>
+          <unitdate datechar="creation" normal="1959/1970" type="inclusive">1959-1970</unitdate>
+          <container altrender="Record carton" id="aspace_9b4d5b76b9804474c4ed86a34c0ead6f" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_1f2dee8e1ad882a103e0938105868a58" parent="aspace_9b4d5b76b9804474c4ed86a34c0ead6f" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_2cc186200f4a51c45ae8836744cca0ec" level="file">
+        <did>
+          <unittitle>Adler, Irving: <emph render="italic">Kicked Upstairs: A Political Autobiography of a "Blacklisted" Teacher</emph></unittitle>
+          <unitdate datechar="creation" normal="2007/2007">2007</unitdate>
+          <container altrender="Record carton" id="aspace_7c829d1c5d7959a102f26d3c673581da" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_46529904fa19cb6e870289265e4d33ba" parent="aspace_7c829d1c5d7959a102f26d3c673581da" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Adler, Irving: Teaching Career</unittitle>
+          <unitdate datechar="creation" normal="1930/1930" type="inclusive">1930s</unitdate>
+          <container altrender="Record carton" id="aspace_17925eb40fbd7eadb1e92d7bb3c6a9fd" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_bfee565eac78ecdb89c4c512011e03c3" parent="aspace_17925eb40fbd7eadb1e92d7bb3c6a9fd" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Adler, Irving: Teaching Career</unittitle>
+          <unitdate datechar="creation" normal="1942/1947" type="inclusive">1942-1947</unitdate>
+          <container altrender="Record carton" id="aspace_479c8dc960807897268b377ec29c3986" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_c8d124db1d887a03d99d29d3deac2693" parent="aspace_479c8dc960807897268b377ec29c3986" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Adler, Irving: Teaching Career &amp; Dismissal</unittitle>
+          <unitdate datechar="creation" normal="1949/1952" type="inclusive">1949, 1952</unitdate>
+          <container altrender="Record carton" id="aspace_3c15dbc2c7272d129b17ff403f8804ca" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_f83a84b14139be54f732f193b057eed2" parent="aspace_3c15dbc2c7272d129b17ff403f8804ca" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Adler, Irving: Teaching Career &amp; Dismissal</unittitle>
+          <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+          <container altrender="Record carton" id="aspace_323161dcea6f638aa4fb67ce33d04086" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_cc9b0d0348dfc078e9fc8df31430dba5" parent="aspace_323161dcea6f638aa4fb67ce33d04086" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Adler, Irving: Teaching Career - Vindication &amp; Reinstatement</unittitle>
+          <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+          <container altrender="Record carton" id="aspace_19018ed9febf628d17e8dfd60bb16e6e" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_407bdd3173399af9e2c109f189630c98" parent="aspace_19018ed9febf628d17e8dfd60bb16e6e" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Adler, Irving: Testimony Before U.S. Senate Committee on the Judiciary: Subversive Influence in the Educational Process</unittitle>
+          <unitdate datechar="creation">1952 September 23</unitdate>
+          <container altrender="Record carton" id="aspace_b373cea1a7917c8fcda60ab266adf2fd" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_422abef5e4639f56c0478ef1b1541f3d" parent="aspace_b373cea1a7917c8fcda60ab266adf2fd" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>American Institute for Marxist Studies: Herbert Aptheker Correspondence</unittitle>
+          <unitdate datechar="creation" normal="1963/1975" type="inclusive">1963-1975</unitdate>
+          <container altrender="Record carton" id="aspace_6ce04a3c7bc0724d3fa34664c900c9f2" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_ec76cc798dae38ed7bf5cee77a7db7e3" parent="aspace_6ce04a3c7bc0724d3fa34664c900c9f2" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>Book Reviews &amp; Miscellaneous Writings</unittitle>
+          <unitdate datechar="creation" normal="1958/1986" type="inclusive">1958-1986</unitdate>
+          <container altrender="Record carton" id="aspace_fc84cc415fc40f34266690b1f898e700" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_3e403b2cc3c886c9ccabac63b56e7e48" parent="aspace_fc84cc415fc40f34266690b1f898e700" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Central Intelligence Agency: FOIA Correspondence &amp; File</unittitle>
+          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+          <container altrender="Record carton" id="aspace_88d858ace7dd4ec446969906d86900d6" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_828cf112a4246f29e74c12563782ae92" parent="aspace_88d858ace7dd4ec446969906d86900d6" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>"Chemical Evolution, a Holistic Approach to" and Freeman Dyson Correspondence</unittitle>
+          <unitdate datechar="creation" normal="1976/1989" type="inclusive">1976, 1989</unitdate>
+          <container altrender="Record carton" id="aspace_6349ebbf7bf8711d58907e2b2ba69d7f" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_67853e4e7361fbfcd24d4ae4a20fbf0e" parent="aspace_6349ebbf7bf8711d58907e2b2ba69d7f" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>City College Volunteers in Spain Memorial Scholarship</unittitle>
+          <unitdate datechar="creation" normal="1978/1989" type="inclusive">1978-1989</unitdate>
+          <container altrender="Record carton" id="aspace_c86cb884e9a89c61e6a52c82f4a834fe" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_5ff4614ef7be3ed0acd3cca51a097fef" parent="aspace_c86cb884e9a89c61e6a52c82f4a834fe" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>Cohen, Morris Raphael - Centennial</unittitle>
+          <unitdate datechar="creation" normal="1978/1980" type="inclusive">1978-1980</unitdate>
+          <container altrender="Record carton" id="aspace_afe645fbf46f5f40936e7cb71eaf7f2f" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_aec7768d185ddb4a056d59a45d736317" parent="aspace_afe645fbf46f5f40936e7cb71eaf7f2f" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>Conway, Joseph: "The Three Buzzards" (poem re: Thomas, Nixon, Mundt)</unittitle>
+          <unitdate datechar="creation" type="inclusive">undated</unitdate>
+          <container altrender="Record carton" id="aspace_87f5e245c2fbd765abf70484128e1c12" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_a873d963a178c3905ad8cff5218ddfe0" parent="aspace_87f5e245c2fbd765abf70484128e1c12" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>Dallet, Joseph Jr. 1927 Memorial Prize (Dartmouth College)</unittitle>
+          <unitdate datechar="creation" normal="1983/2000" type="inclusive">1983-2000</unitdate>
+          <container altrender="Record carton" id="aspace_6814a99f36912e52c4bf9f419c3b5cd8" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_cba275a49a6678ba249004381634de18" parent="aspace_6814a99f36912e52c4bf9f419c3b5cd8" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Dialectical Materialism: Early Writings</unittitle>
+          <unitdate datechar="creation" normal="1930/1939" type="inclusive">circa 1930s</unitdate>
+          <container altrender="Record carton" id="aspace_1b9a86a0b0a554873c5f729c4a52b63d" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_c523713f9b028dd252efda7777e5536c" parent="aspace_1b9a86a0b0a554873c5f729c4a52b63d" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>Dialectical Materialism: Notes &amp; Typescripts</unittitle>
+          <unitdate datechar="creation" normal="1929/2002" type="inclusive">undated</unitdate>
+          <container altrender="Record carton" id="aspace_57ebc997117c05d44fddf893823f5960" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_a3e9f5c3f63c49197cbd703155a3d099" parent="aspace_57ebc997117c05d44fddf893823f5960" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>Dialectics Book Project: Notes &amp; Typescripts</unittitle>
+          <unitdate datechar="creation" normal="1929/2002" type="inclusive">undated</unitdate>
+          <container altrender="Record carton" id="aspace_672edda3c90530b982c2217ea0801a7f" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_d1b5513dc4d2bde44e74c7c98c6961c6" parent="aspace_672edda3c90530b982c2217ea0801a7f" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref56" level="file">
+        <did>
+          <unittitle>Dr. Irvinng Adler on Health Care (DVD)</unittitle>
+          <unitdate datechar="creation">2009 September 8</unitdate>
+          <container altrender="Record carton" id="aspace_f0d41475e3156df5403cc1e314681a32" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_b47e2a4a7f8c9e44f58486aac25a7bef" parent="aspace_f0d41475e3156df5403cc1e314681a32" type="Folder">21A</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>FBI File</unittitle>
+          <unitdate datechar="creation" normal="1929/2002" type="inclusive">undated</unitdate>
+          <container altrender="Record carton" id="aspace_058aaa62bb671bbbd9f4306cf7bf5f82" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_d3597e56f4d979cdea527549908d3963" parent="aspace_058aaa62bb671bbbd9f4306cf7bf5f82" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>Goldway, David: Memorial Meeting</unittitle>
+          <unitdate datechar="creation">1990 September 30</unitdate>
+          <container altrender="Record carton" id="aspace_f73c4a18051de48f5c75276c66e65675" label="Mixed Materials [31142054609790]" type="Box">1</container>
+          <container id="aspace_1b1a1da6cc2d5b579f1256d7876b79cd" parent="aspace_f73c4a18051de48f5c75276c66e65675" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>Marxism &amp; Education: Talk Delivered at World Fellowship, NH</unittitle>
+          <unitdate datechar="creation">1966 July 19</unitdate>
+          <container altrender="Record carton" id="aspace_a33e4a3e4ce843e0ab32a1d3a44752ef" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_813d4e439b62d7d9a54cae38bc3a1812" parent="aspace_a33e4a3e4ce843e0ab32a1d3a44752ef" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>Mathematics: Articles (Published) &amp; Conference Papers</unittitle>
+          <unitdate datechar="creation" normal="1962/1997" type="inclusive">1962-1997</unitdate>
+          <container altrender="Record carton" id="aspace_f000014480614e5afb92440dfd9ca3fc" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_a02c3c5e20430b9b9bcafdf1db1639ef" parent="aspace_f000014480614e5afb92440dfd9ca3fc" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>Mathematics: Correspondence with Paul Halmos</unittitle>
+          <unitdate datechar="creation" normal="1968/1974" type="inclusive">1968-1974</unitdate>
+          <container altrender="Record carton" id="aspace_52e2d23178527d99d0a275e656143b6f" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_a1c69a62565e7cdf1c7094ad0f090d62" parent="aspace_52e2d23178527d99d0a275e656143b6f" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle>National Council of the Arts, Sciences and the Professions: World Forum (Proposed Project)</unittitle>
+          <unitdate datechar="creation" normal="1953/1954" type="inclusive">1953-1954</unitdate>
+          <container altrender="Record carton" id="aspace_cdca946d9c97bc048a44ac89ab398097" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_f078ae1103ef07500456b34599cc608e" parent="aspace_cdca946d9c97bc048a44ac89ab398097" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="file">
+        <did>
+          <unittitle>On Causality in Quantum Mechanics ( <title render="italic">Science &amp; Nature</title>#5): Correspondence, Notes, Typescripts</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Record carton" id="aspace_492cd13528c5ff7bdf68cae16e0540ae" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_03a581a5e7c93d579c10d5bb8299fb0c" parent="aspace_492cd13528c5ff7bdf68cae16e0540ae" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="file">
+        <did>
+          <unittitle>Reading Is Fun Exhibit</unittitle>
+          <unitdate datechar="creation" normal="1954/1957" type="inclusive">1954-1957</unitdate>
+          <container altrender="Record carton" id="aspace_dd5ee7c8a26fe51f4c35afe3d76bce07" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_84833917a47cb23b62270eac99e64e08" parent="aspace_dd5ee7c8a26fe51f4c35afe3d76bce07" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref41" level="file">
+        <did>
+          <unittitle><title render="italic">Science &amp; Society:</title>Book Reviews &amp; Correspondence <title render="italic"/></unittitle>
+          <unitdate datechar="creation" normal="1970/1990" type="inclusive">1970-1990</unitdate>
+          <container altrender="Record carton" id="aspace_c159a5867cf7441c632a088520e92382" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_af69af2faccc04fbe986eba565cc5065" parent="aspace_c159a5867cf7441c632a088520e92382" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref42" level="file">
+        <did>
+          <unittitle><title render="italic">Science &amp; Society:</title>"Some Philosophical Implications of Modern Mathematics" (Correspondence &amp; Typescript for Published Article) <title render="italic"/></unittitle>
+          <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+          <container altrender="Record carton" id="aspace_40ed8eaa7b2bb80a7eae6276a73a62af" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_8804191a5f14fcda3707baf687c2c6f7" parent="aspace_40ed8eaa7b2bb80a7eae6276a73a62af" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref43" level="file">
+        <did>
+          <unittitle>Sparer, Joyce: New York City Board of Education - Employment Case</unittitle>
+          <unitdate datechar="creation" normal="1956/1984" type="inclusive">1956-1984</unitdate>
+          <container altrender="Record carton" id="aspace_ff4f49f76ba6f74f941673527aa2c878" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_e8a109b383339d7cb6571fb7714346c5" parent="aspace_ff4f49f76ba6f74f941673527aa2c878" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref44" level="file">
+        <did>
+          <unittitle>Teachers Union</unittitle>
+          <unitdate datechar="creation" normal="1938/1951" type="inclusive">1938-1951</unitdate>
+          <container altrender="Record carton" id="aspace_622305a9039c26eb7f45e402310d1a53" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_8d9f05e07dd9b9700368de91f80fff56" parent="aspace_622305a9039c26eb7f45e402310d1a53" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref45" level="file">
+        <did>
+          <unittitle>Vermont: <title render="italic">Bennington Banner</title>(Letters to Editor, Clippings)</unittitle>
+          <unitdate datechar="creation" normal="1961/1993" type="inclusive">1961-1993</unitdate>
+          <container altrender="Record carton" id="aspace_365e37415c1aedb42c52b2d8345444f2" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_c711e3a96c2cd560f2240c7c528f6307" parent="aspace_365e37415c1aedb42c52b2d8345444f2" type="Folder">11-12</container>
+        </did>
+      </c>
+      <c id="aspace_ref46" level="file">
+        <did>
+          <unittitle>Vermont: Goddard College</unittitle>
+          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+          <container altrender="Record carton" id="aspace_162dfc952c693774871f53e4fc3fba7b" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_3d110de2c1cc1c5562d0db9dceb12250" parent="aspace_162dfc952c693774871f53e4fc3fba7b" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref47" level="file">
+        <did>
+          <unittitle>Vermont in Mississippi Commemoration</unittitle>
+          <unitdate datechar="creation" normal="1965/1990" type="inclusive">1965 , 1990</unitdate>
+          <container altrender="Record carton" id="aspace_64d6c6948c40f901de9b6ff311f4b0e1" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_981d3a04ba100deccc58dc5234856a44" parent="aspace_64d6c6948c40f901de9b6ff311f4b0e1" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref48" level="file">
+        <did>
+          <unittitle>Vermont: Math &amp; Science Teachers Association</unittitle>
+          <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+          <container altrender="Record carton" id="aspace_ddd70ac9cd1b7d4f90c50df3cccaaee5" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_4be6a8e01f5731b5a02376331853085f" parent="aspace_ddd70ac9cd1b7d4f90c50df3cccaaee5" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref49" level="file">
+        <did>
+          <unittitle>Vermont: Miscellaneous Clippings &amp; Correspondence</unittitle>
+          <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960s-1980s</unitdate>
+          <container altrender="Record carton" id="aspace_2bf0c8c7b94815b34598f9470c871668" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_b0d0df582d22a3b989eb8e633aa3c44c" parent="aspace_2bf0c8c7b94815b34598f9470c871668" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref50" level="file">
+        <did>
+          <unittitle>Vermont: Radical Right - Clippings &amp; Correspondence</unittitle>
+          <unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate>
+          <container altrender="Record carton" id="aspace_0ec927ed2e4900615dc06680095849c5" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_c17fd4f4406afa6ab5450685a496c06a" parent="aspace_0ec927ed2e4900615dc06680095849c5" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref51" level="file">
+        <did>
+          <unittitle>Vermont: Shaftsbury School Board Campaign</unittitle>
+          <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+          <container altrender="Record carton" id="aspace_cc94a2a701a0a17c7c32bc801ee46888" label="Mixed Materials [31142054609808]" type="Box">2</container>
+          <container id="aspace_28debe6d8fe8db7cf99bd57ac000e97f" parent="aspace_cc94a2a701a0a17c7c32bc801ee46888" type="Folder">18</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

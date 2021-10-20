@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="inventory_folderlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/alba_279/">alba_279</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the David Mates Papers <num>ALBA.279</num></titleproper>
+        <author>Maggie Schreiner</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2014</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 03:13:19 -0400</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>David Mates Papers</unittitle>
+      <origination label="Creator">
+        <persname source="local">Mates, David</persname>
+      </origination>
+      <origination label="source">
+        <corpname source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
+      </origination>
+      <unitid>ALBA.279</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+        <extent altrender="carrier">in 2 manuscript boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1972/2006" type="inclusive">1972-2006</unitdate>
+      <unitdate datechar="creation" normal="1972/1976" type="bulk">1972-1976</unitdate>
+      <abstract id="aspace_3eaa5059e290ccb0459e3f0c36f1872c">David Mates served as a lieutenant in the Abraham Lincoln Brigade during the Spanish Civil War, and later served as commander of the San Francisco (Bay Area) Post of the Veterans of the Abraham Lincoln Brigade (VALB). He also served on the VALB National Board. This collection consists largely of correspondence received by Mates in his capacity as commander of the Bay Area Post.</abstract>
+      <langmaterial id="aspace_8487da8ee3d46ae0b41d37aa23cb4869">Materials are primarily in English, with a limited number of materials in Spanish.</langmaterial>
+    </did>
+    <bioghist id="aspace_5ca38a58a95d2e6c4594fbbbd8bf87e9">
+      <head>Historical/Biographical Note</head>
+      <p>David Mates served as a lieutenant in the Abraham Lincoln brigade during the Spanish Civil War.  Born in New York, he was a labor organizer in Detroit before serving in Spain. After the Civil War he lived in Chicago and Detroit, where he was an organizer for the United Electrical Workers and a Communist Party activist. Later in life he lived in Palo Alto, CA, and served as commander of the San Francisco (Bay Area) Post of the Veterans of the Abraham Lincoln Brigade (VALB). He also served on the VALB national board.  He died in 1977.</p>
+    </bioghist>
+    <prefercite id="aspace_47e266f3968bb0f604eec1f3c24e60d4">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; David Mates Papers; ALBA 279; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_cf66dfd465ff83317c58d57e645b87dd">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives for more information and to schedule an appointment, tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </accessrestrict>
+    <scopecontent id="aspace_99122fa7ea53955820ba6ccf3d997ba8">
+      <head>Scope and Content Note</head>
+      <p>The collection consists largely of correspondence received by Mates in his capacity as commander of the Bay Area Post of the Veterans of the Abraham Lincoln Brigade (VALB).  Along with regular mailings from the VALB national office and notices from the Bay Area Post are newsletters and notices from Spanish Civil War veterans in Canada and in Europe.  There is also a small amount of personal correspondence from other U.S. veterans, including Steve Nelson, Robert Reed and Sana Goldblatt.  One envelope contains a few original photos and reproductions of photos from 1937-38 in Spain.</p>
+    </scopecontent>
+    <acqinfo id="aspace_58f37d3e711fdbbd4a90d6b335d4a02e">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials found in collection; provenance is unknown. The accession number 2010.024 is associated with this collection.</p>
+    </acqinfo>
+    <userestrict id="aspace_3047bf98438f40ebafa3e7361fbc4922">
+      <head>Use Restrictions</head>
+      <p>The Tamiment Library &amp; Robert F. Wagner Labor Archives has no information about copyright ownership for this collection and is not authorized to grant permission to publish or reproduce materials from it. Copyrights held by original creators of individual items in the collection are expected to pass into the public domain 70 years after the creator's death. For more information, please contact the Tamiment Library &amp; Robert F. Wagner Labor Archives, tamiment.wagner@nyu.edu or 212-998-2630.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Veterans -- United States -- Correspondence.</geogname>
+      <geogname source="lcsh">Spain -- History -- Civil War, 1936-1939 -- Participation, American</geogname>
+      <corpname source="naf">Veterans of the Abraham Lincoln Brigade. Bay Area Post</corpname>
+      <corpname role="fmo" source="naf">Veterans of the Abraham Lincoln Brigade</corpname>
+      <persname source="local">Mates, David</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref6" level="file">
+        <did>
+          <unittitle>Correspondence: Art Landis Books</unittitle>
+          <unitdate datechar="creation" normal="1972/1974" type="inclusive">1972-1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8f352d3ce0d00f97d4412dac01d470e0" label="Mixed Materials [31142062732964]" type="Box">1</container>
+          <container id="aspace_60e5d8a9867d461e89b6f56f75c8ac70" parent="aspace_8f352d3ce0d00f97d4412dac01d470e0" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref7" level="file">
+        <did>
+          <unittitle>Correspondence: Don Thayer</unittitle>
+          <unitdate datechar="creation" normal="1971/1972" type="inclusive">1971-1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_123d76c7baf3b6ead0d9e9012ac84f2a" label="Mixed Materials [31142062732964]" type="Box">1</container>
+          <container id="aspace_e50aafd5ae50138c03ab033da39c645f" parent="aspace_123d76c7baf3b6ead0d9e9012ac84f2a" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref9" level="file">
+        <did>
+          <unittitle>Correspondence: Milton Wolff</unittitle>
+          <unitdate datechar="creation" normal="1972/1975" type="inclusive">1972-1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3f22300739cd834eb18591d79e68f690" label="Mixed Materials [31142062732964]" type="Box">1</container>
+          <container id="aspace_500d4899375544c728dee3ab02995fd5" parent="aspace_3f22300739cd834eb18591d79e68f690" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="file">
+        <did>
+          <unittitle>Correspondence: Miscellaneous</unittitle>
+          <unitdate datechar="creation" normal="1971/1975" type="inclusive">1971-1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_22a0022e7fce832ecb329320678fa835" label="Mixed Materials [31142062732964]" type="Box">1</container>
+          <container id="aspace_c46f061190331aaba0a37a2f8dd8079f" parent="aspace_22a0022e7fce832ecb329320678fa835" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref11" level="file">
+        <did>
+          <unittitle>Correspondence: Veterans of the Abraham Lincoln Brigade</unittitle>
+          <unitdate datechar="creation" normal="1971/1976" type="inclusive">1971-1976</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_801168d8ce59242386a25801b548ef93" label="Mixed Materials [31142062732964]" type="Box">1</container>
+          <container id="aspace_d84208351587a5f24b2b65487cba5c12" parent="aspace_801168d8ce59242386a25801b548ef93" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>Correspondence: Veterans of the Abraham Lincoln Brigade (Bay Area Chapter)</unittitle>
+          <unitdate datechar="creation" normal="1974/1976" type="inclusive">1974-1976</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_aaaceed5edcbf3e94e69353f9fb8bc22" label="Mixed Materials [31142062732964]" type="Box">1</container>
+          <container id="aspace_7711e70c7497fd228b556f5934c1c8f8" parent="aspace_aaaceed5edcbf3e94e69353f9fb8bc22" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Correspondence: Veterans of the International Brigades (Mackenzie-Papineau Battalion of Canada)</unittitle>
+          <container altrender="Manuscript box - Legal" id="aspace_31095622f22f017bc647edb4d0294e49" label="Mixed Materials [31142062732964]" type="Box">1</container>
+          <container id="aspace_fa18e6512f0cb286af70fa576971face" parent="aspace_31095622f22f017bc647edb4d0294e49" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Delgation to China</unittitle>
+          <unitdate datechar="creation" normal="1974/1976" type="inclusive">1974-1976</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b9aa77845a1da200c754d61604f092d1" label="Mixed Materials [31142062732964]" type="Box">1</container>
+          <container id="aspace_b0cf00b3a482621e57f7cca563290462" parent="aspace_b9aa77845a1da200c754d61604f092d1" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Executive Committee: Minutes</unittitle>
+          <unitdate datechar="creation" normal="1973/1976" type="inclusive">1973-1976</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5747d906d7e6f243cc4049df3c2900cf" label="Mixed Materials [31142062732964]" type="Box">1</container>
+          <container id="aspace_5e856f788c6faca2fb289402e037d2a2" parent="aspace_5747d906d7e6f243cc4049df3c2900cf" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Financial</unittitle>
+          <unitdate datechar="creation" normal="1971/1974" type="inclusive">1971-1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a9a1a965dae91d2053c0799c67448e22" label="Mixed Materials [31142062732964]" type="Box">1</container>
+          <container id="aspace_b89bdd15f5e27a8ce0a4842e19bbbc23" parent="aspace_a9a1a965dae91d2053c0799c67448e22" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Flyers</unittitle>
+          <unitdate datechar="creation">1974; undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e7b78a568f02ab34677d0317474954d3" label="Mixed Materials [31142062732964]" type="Box">1</container>
+          <container id="aspace_86ecd6ac641d988f57783ae904421d2e" parent="aspace_e7b78a568f02ab34677d0317474954d3" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Madison Committee for a Democratic Spain</unittitle>
+          <unitdate datechar="creation" normal="1975/1976" type="inclusive">1975-1976</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b819e781b6af12799e0c1cad7a8f05c7" label="Mixed Materials [31142062732964]" type="Box">1</container>
+          <container id="aspace_34a87191c182783eaef500fd21317465" parent="aspace_b819e781b6af12799e0c1cad7a8f05c7" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Miscellaneous</unittitle>
+          <unitdate datechar="creation">1975; undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_01f23b9593f23da7d71732476334d0c5" label="Mixed Materials [31142062732964]" type="Box">1</container>
+          <container id="aspace_d3efffc06354c6412ed2d113617b9ef6" parent="aspace_01f23b9593f23da7d71732476334d0c5" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>National Board</unittitle>
+          <unitdate datechar="creation" normal="1972/1976" type="inclusive">1972-1976</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b44c74d051db7e0923c2bd0f52e3832b" label="Mixed Materials [31142062732972]" type="Box">2</container>
+          <container id="aspace_7e3e5a6ad1abb83420b13a1d78719e6c" parent="aspace_b44c74d051db7e0923c2bd0f52e3832b" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>National Board: Minutes</unittitle>
+          <unitdate datechar="creation" normal="1972/1976" type="inclusive">1972-1976</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cc4da1669d3bfa9141400b93f72cb49e" label="Mixed Materials [31142062732972]" type="Box">2</container>
+          <container id="aspace_a7e1a560a768cca1b56698e6fe9c6aad" parent="aspace_cc4da1669d3bfa9141400b93f72cb49e" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>National Resident Board: Minutes</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e787a71560bb0e4010bc6786199e8262" label="Mixed Materials [31142062732972]" type="Box">2</container>
+          <container id="aspace_bb75504dafffd0d3eb7a4a4d1eff9eca" parent="aspace_e787a71560bb0e4010bc6786199e8262" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Photographs (Spain)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_199cefa78c54f4e59b24cc923b426736" label="Mixed Materials [31142062732972]" type="Box">2</container>
+          <container id="aspace_e9b54af5a0d179004811e9804f0a82b4" parent="aspace_199cefa78c54f4e59b24cc923b426736" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>U.S. Committee for the Carabanchel 10</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9d971794eb974e193f0c28feff1938d3" label="Mixed Materials [31142062732972]" type="Box">2</container>
+          <container id="aspace_ebf25e8955642c92ad4dd80c54fe40b4" parent="aspace_9d971794eb974e193f0c28feff1938d3" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>U.S. Committee for Democratic Spain</unittitle>
+          <unitdate datechar="creation" normal="1974/1976" type="inclusive">1974-1976</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_54c11bedd8e7b30b5d9ca7dc4bdb94d8" label="Mixed Materials [31142062732972]" type="Box">2</container>
+          <container id="aspace_973d8989b0e4bb6caf01bf56ec9ab55f" parent="aspace_54c11bedd8e7b30b5d9ca7dc4bdb94d8" type="Folder">6</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

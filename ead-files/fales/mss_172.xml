@@ -1,0 +1,1737 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_172">mss_172</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Dickason Papers, 1866-2012 <num>MSS.172</num></titleproper>
+        <author>David Brown in 2010 with additional notes written by Andrea Kutsenkow in 2016.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>2010</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 21:22:54 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>December 2016</date>
+        <item>Record edited by Andrea Kutsenkow to reflect 2016 accretion</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Dickason Papers</unittitle>
+      <origination label="Creator">
+        <persname source="local">Dickason, Jerry G. (Jerry Grove)</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="naf">Dickason, Elly, 1940-</persname>
+      </origination>
+      <unitid>MSS.172</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">12.5 Linear Feet</extent>
+        <extent altrender="carrier">in 19 boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1920/2012" type="inclusive">1920-2012</unitdate>
+      <abstract id="aspace_b549b34d7361f45c34d040480f06fd35">This collection is comprised of materials documenting Jerry G. Dickason's and Elly Dickason's affiliation with the Judson Memorial Church and its associated organizations, including materials related to the production of the book <emph render="underline">Remembering Judson House</emph>, which was published in 2000. These materials date between 1920 and 2012 and include correspondence, manuscripts, research notes, research materials, galley proofs, board minutes, photographs, newspaper clippings, transcripts of sermons, church bulletins, artwork, and media.</abstract>
+      <physloc id="aspace_fe4a6132814dbcde10b9c7ff46da9d9c">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_e1d342f39947f9d819b7449a4fee658f">Materials are in English.</langmaterial>
+    </did>
+    <userestrict id="aspace_e4910a7c8331d9e2879de7e2472042f1">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <accessrestrict id="aspace_7ac0ae0d9116e4ea23d96f785b160247">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <scopecontent id="aspace_8879e526f917d224a002fc7562de50ee">
+      <head>Scope and Contents</head>
+      <p>This collection is comprised of materials documenting Jerry G. Dickason's and Elly Dickason's affiliation with the Judson Memorial Church and its associated organizations, including materials related to the production of the book <emph render="underline">Remembering Judson House</emph>, which was published in 2000. These materials date between 1920 and 2012 and include correspondence, manuscripts, research notes, research materials, galley proofs, board minutes, photographs, newspaper clippings, transcripts of sermons, church bulletins, artwork, and media.</p>
+    </scopecontent>
+    <prefercite id="aspace_7ca80f64b21746ee7921eb27dd25e5d8">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form:
+Identification of item, date (if known); Dickason Papers; MSS 172; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+    </prefercite>
+    <relatedmaterial id="aspace_a75822ca236f3c0a01126eb08f8fd995">
+      <head>Related Materials</head>
+      <p>Judson Memorial Church Archive (MSS.094)</p>
+    </relatedmaterial>
+    <bioghist id="aspace_9b11671e226796b119a76807593f3de4">
+      <head>Biographical / Historical</head>
+      <p>Jerry G. Dickason, a retired professor, and Elly Dickason, a long-time member of the Judson Church congregation, edited the book <emph render="underline">Remembering Judson House</emph> (Judson Memorial Church, 2000), a compilation of 48 interviews with people who lived or worked at Judson House.</p>
+    </bioghist>
+    <arrangement id="aspace_a44826e277e9ebc381ea400d776fdb57">
+      <head>Arrangement</head>
+      <p>This collection is arranged into five series: Series I: Production Materials; Series II: Source Materials and Research; Series III: Administrative Materials Unrelated to "Remembering Judson House;" Series IV: Hot Spots Calendar (includes Production Materials), and Series V: 2016 Accretion.</p>
+    </arrangement>
+    <acqinfo id="aspace_cfd4f2452d2a504fb436b461f9c2f84e">
+      <head>Immediate Source of Acquisition</head>
+      <p>The Dickason Papers were initially donated to NYU in 2002. Accretions followed in 2007 and 2013. A third accretion was donated by Jerry G. Dickason in April 2016; the accession number associated with this gift is 2016.051.</p>
+    </acqinfo>
+    <processinfo id="aspace_fcdce72c1c85f3e66b17dd020e67b3fa">
+      <head>Processing Information</head>
+      <p>Decisions about the arrangement, description, and physical interventions taken on this collection prior to 2016 have not yet been recorded. In December 2016, an accretion was incorporated into the collection as a separate series. Some materials were treated for mold and then rehoused in acid-free folders and an archival manuscript box. Materials were kept in the order in which they were received from the donor, and interleaving and Mylar sleeves were used for acidic newsprint and loose photographs.</p>
+      <p>On February 2019, materials from accession 2008.172 were placed in new acid-free folders and manuscript boxes, rehoused for offsite storage. Original order of documents maintained from boxes 20-23.</p>
+    </processinfo>
+    <phystech id="aspace_f6b4e3e584253c7c13e48aee8d106bce">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Audiovisual and born-digital materials have not been preserved and may not be available to researchers.</p>
+    </phystech>
+    <controlaccess>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <genreform source="aat">Manuscripts</genreform>
+      <genreform source="aat">Calendars.</genreform>
+      <genreform source="aat">Audiocassettes.</genreform>
+      <genreform source="aat">Proofs (printed matter)</genreform>
+      <genreform source="aat">Drawings</genreform>
+      <genreform source="aat">Sermons.</genreform>
+      <genreform source="aat">Church bulletins.</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Color photographs.</genreform>
+      <corpname source="naf">Judson Memorial Church (New York, N.Y.)</corpname>
+      <persname source="naf">Nute, Don</persname>
+      <persname source="local">Dickason, Jerry G. (Jerry Grove)</persname>
+      <persname source="naf">Dickason, Elly, 1940-</persname>
+      <persname rules="dacs" source="local">Covington, Jim</persname>
+      <persname rules="dacs" source="local">Knottenbelt, Maarten Jan, 1920-2004</persname>
+      <persname source="naf">Carmines, Al</persname>
+      <persname source="naf">Moody, Howard, 1921-2012</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref1" level="series">
+        <did>
+          <unittitle>Series I: Production Materials </unittitle>
+        </did>
+        <c id="aspace_ref2" level="subseries">
+          <did>
+            <unittitle>Subseries A: Correspondence</unittitle>
+          </did>
+          <c id="aspace_ref3" level="file">
+            <did>
+              <unittitle>Initial Correspondence and notes for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+              <container altrender="Manuscript box - Legal - Half" id="aspace_63e7a403be73985d052f5234d9cfad52" label="Mixed Materials [31142063611308]" type="Box">1</container>
+              <container id="aspace_072a5c46a145a5a1eee7d123730a2f8c" parent="aspace_63e7a403be73985d052f5234d9cfad52" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref5" level="file">
+            <did>
+              <unittitle>Miscellaneous Notes and Correspondence Following Publication of Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+              <container altrender="Manuscript box - Legal - Half" id="aspace_ca53e607b27599d929ec5601a81182cd" label="Mixed Materials [31142063611308]" type="Box">1</container>
+              <container id="aspace_35204ce7608086e0e97c1602c8edf236" parent="aspace_ca53e607b27599d929ec5601a81182cd" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref6" level="file">
+            <did>
+              <unittitle>Review Copy Corespondence for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+              <container altrender="Manuscript box - Legal - Half" id="aspace_9bc2c8471bdc147e9876cd02c584c094" label="Mixed Materials [31142063611308]" type="Box">1</container>
+              <container id="aspace_a39a6172bcb4942b77617748021d6896" parent="aspace_9bc2c8471bdc147e9876cd02c584c094" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref7" level="file">
+            <did>
+              <unittitle>Correspondence with Marvin Taylor regarding Deposit of Dickason Papers at Fales</unittitle>
+              <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+              <container altrender="Manuscript box - Legal - Half" id="aspace_9aade1d579c9c3af6245f585330fd458" label="Mixed Materials [31142063611308]" type="Box">1</container>
+              <container id="aspace_24c9ffa8ea6cac85a2a79e04f84779c9" parent="aspace_9aade1d579c9c3af6245f585330fd458" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref8" level="file">
+            <did>
+              <unittitle>Correspondence with Contributors to Remembering Judson House: Bailey - Hendricks</unittitle>
+              <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_c38995e07f9b76022e37ba8f00079551" label="Mixed Materials [31142063611316]" type="Box">2</container>
+              <container id="aspace_4838391a87f550e8494dbafe5217d7d3" parent="aspace_c38995e07f9b76022e37ba8f00079551" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref10" level="file">
+            <did>
+              <unittitle>Correspondence with Contributors to Remembering Judson House: Holt - Oldenburg</unittitle>
+              <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_bcd5fb5a3f17c7b7d480613ffb00debc" label="Mixed Materials [31142063611316]" type="Box">2</container>
+              <container id="aspace_5dc35ec043685e1cae5ad01dcfb592d8" parent="aspace_bcd5fb5a3f17c7b7d480613ffb00debc" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref11" level="file">
+            <did>
+              <unittitle>Correspondence with Contributors to Remembering Judson House: Ovitt - Yampolsky</unittitle>
+              <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_f674cfbc3a923f77d43646df139df88d" label="Mixed Materials [31142063611316]" type="Box">2</container>
+              <container id="aspace_cd563833cb800b22ad8497c46fb08ac6" parent="aspace_f674cfbc3a923f77d43646df139df88d" type="Folder">7</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref12" level="subseries">
+          <did>
+            <unittitle>Subseries B: Manuscripts</unittitle>
+          </did>
+          <c id="aspace_ref13" level="file">
+            <did>
+              <unittitle>Manuscripts by Contributors to Remembering Judson House: Benn - Garrard</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_5e30b50c0d6a235bebab69ecf70d0af9" label="Mixed Materials [31142063611316]" type="Box">2</container>
+              <container id="aspace_a8ce2eee648174f8852e83ff31a8ab95" parent="aspace_5e30b50c0d6a235bebab69ecf70d0af9" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref14" level="file">
+            <did>
+              <unittitle>Manuscripts by Contributors to Remembering Judson House: Goodman - Johnson</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_b04f0a483b55a2eb50192cf8d43b664c" label="Mixed Materials [31142063611316]" type="Box">2</container>
+              <container id="aspace_fcff28c1b096de2322378d481f17bdec" parent="aspace_b04f0a483b55a2eb50192cf8d43b664c" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref16" level="file">
+            <did>
+              <unittitle>Manuscripts by Contributors to Remembering Judson House: Kaprow - Oldenburg</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_2f20a3ca0289cd50914e1b7e9345f1f9" label="Mixed Materials [31142063611316]" type="Box">2</container>
+              <container id="aspace_6d8eae69cdd431b21f3455af0c99bb63" parent="aspace_2f20a3ca0289cd50914e1b7e9345f1f9" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref17" level="file">
+            <did>
+              <unittitle>Manuscripts by Contributors to Remembering Judson House: Ortiz - Tungate</unittitle>
+              <container altrender="Manuscript box - Legal" id="aspace_7f7c2f0a7e19c2e3436369f8dfd8b492" label="Mixed Materials [31142063611316]" type="Box">2</container>
+              <container id="aspace_f372cf639efda61d961071995c21e529" parent="aspace_7f7c2f0a7e19c2e3436369f8dfd8b492" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref18" level="file">
+            <did>
+              <unittitle>Manuscripts by Contributors to Remembering Judson House: Wesselman - Yangas</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_c1a0c55f0cb27ee12c1a16d8762c1183" label="Mixed Materials [31142063611316]" type="Box">2</container>
+              <container id="aspace_64fe547eb47881a9d4be2d86f491061b" parent="aspace_c1a0c55f0cb27ee12c1a16d8762c1183" type="Folder">12</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref20" level="subseries">
+          <did>
+            <unittitle>Subseries C: Design Materials</unittitle>
+          </did>
+          <c id="aspace_ref21" level="file">
+            <did>
+              <unittitle>Correspondence with Impressions, Compositor for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_22c412b8d5a53ba02018f32fec4b3d35" label="Mixed Materials [31142063611332]" type="Box">3</container>
+              <container id="aspace_a484e689401c4aded91f45a3fa69dcac" parent="aspace_22c412b8d5a53ba02018f32fec4b3d35" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref23" level="file">
+            <did>
+              <unittitle>Correspondence with Impressions, Compositor for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_47a42ee84f349e9657d914d24917ce28" label="Mixed Materials [31142063611332]" type="Box">3</container>
+              <container id="aspace_0d4e483346d7f82d9b4e6974d93caa2c" parent="aspace_47a42ee84f349e9657d914d24917ce28" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref24" level="file">
+            <did>
+              <unittitle>Correspondence with Impressions, Compositor for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_61a06e99026cb61b965947310c2f5472" label="Mixed Materials [31142063611332]" type="Box">3</container>
+              <container id="aspace_b381fe067dd3b23cbe42c4b3bc34bda1" parent="aspace_61a06e99026cb61b965947310c2f5472" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref25" level="file">
+            <did>
+              <unittitle>Text of Remembering Judson House Submitted to Impressions</unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_9359567147771cdd51b0c4495607432d" label="Mixed Materials [31142063611332]" type="Box">3</container>
+              <container id="aspace_16554bba96b8e3b94eb9965d5f59dc48" parent="aspace_9359567147771cdd51b0c4495607432d" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref26" level="file">
+            <did>
+              <unittitle>Text of Remembering Judson House Submitted to Impressions </unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_099830a954e1a471d3cb55e96f9c6aff" label="Mixed Materials [31142063611332]" type="Box">3</container>
+              <container id="aspace_1a85c4d428c030023899c80ca6bc5e68" parent="aspace_099830a954e1a471d3cb55e96f9c6aff" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref27" level="file">
+            <did>
+              <unittitle>Text of Remembering Judson House Submitted to Impressions</unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_2af29814add473fcc38606821f8df43d" label="Mixed Materials [31142063611332]" type="Box">3</container>
+              <container id="aspace_acc45a6ec56127deddaae74ce1d035b9" parent="aspace_2af29814add473fcc38606821f8df43d" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref28" level="file">
+            <did>
+              <unittitle>Correspondence with Shirley Chetter, designer for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_4c539083ec201c401c599b2f609e1a79" label="Mixed Materials [31142063611332]" type="Box">3</container>
+              <container id="aspace_20e8c13a60b3c78ba3281f12a5b8c2e8" parent="aspace_4c539083ec201c401c599b2f609e1a79" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref29" level="file">
+            <did>
+              <unittitle>Correspondence with Quinn - Woodbine, Inc., Printer for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_c108bd525ef1a1e3b807cb3d2bd47c6c" label="Mixed Materials [31142063611332]" type="Box">3</container>
+              <container id="aspace_302913357c6b5e9e8baae5053c32da32" parent="aspace_c108bd525ef1a1e3b807cb3d2bd47c6c" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref30" level="file">
+            <did>
+              <unittitle>Final Pageproofs for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_a8a7662b6ec48fc2af7dddc49dd10b5e" label="Mixed Materials [31142063611332]" type="Box">3</container>
+              <container id="aspace_4bfb809d1d8cbbc07ab305ce100750b9" parent="aspace_a8a7662b6ec48fc2af7dddc49dd10b5e" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref31" level="file">
+            <did>
+              <unittitle>Final Pageproofs for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_112ae0431f9258a5bacadcee75fc0f70" label="Mixed Materials [31142063611332]" type="Box">3</container>
+              <container id="aspace_e7453741c863bbc18e3d307e22e68019" parent="aspace_112ae0431f9258a5bacadcee75fc0f70" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref32" level="file">
+            <did>
+              <unittitle>Remembering Judson House Mock-Ups (10)</unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_7233d18f46ff4b1fbb10298edd15c76e" label="Mixed Materials [31142063611332]" type="Box">3</container>
+              <container id="aspace_6273f83c27502f7b5daff153f41afdb3" parent="aspace_7233d18f46ff4b1fbb10298edd15c76e" type="Folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_ref34" level="file">
+            <did>
+              <unittitle>Remembering Judson House Photocopies of Photo Album</unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_47f88796393b9a1df81e1dfa6e7bb573" label="Mixed Materials [31142063611324]" type="Box">4</container>
+              <container id="aspace_2f0c0e3bff83ab740a22ae47a07abac4" parent="aspace_47f88796393b9a1df81e1dfa6e7bb573" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_ref35" level="file">
+            <did>
+              <unittitle>Uncorrected Image Proofs for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_98ee679571495d0544ba7349934223d1" label="Mixed Materials [31142063611324]" type="Box">4</container>
+              <container id="aspace_705a2f29f2995ab96e454361d5240543" parent="aspace_98ee679571495d0544ba7349934223d1" type="Folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_ref36" level="file">
+            <did>
+              <unittitle>Corrected Image Proofs for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_dc3c18a8c1d109c350fbd5f676258fe4" label="Mixed Materials [31142063611324]" type="Box">4</container>
+              <container id="aspace_01d1f590d9dee029a327b033985c1664" parent="aspace_dc3c18a8c1d109c350fbd5f676258fe4" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref37" level="file">
+            <did>
+              <unittitle>Images (photocopies) of Judson Health Center + Judson Gallery</unittitle>
+              <unitdate datechar="creation" normal="1920/1968" type="inclusive">1920-1968</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_57256c06f51b0420d77d63bea9a8301d" label="Mixed Materials [31142063611324]" type="Box">4</container>
+              <container id="aspace_cad4b68174d995333cce578c13a1b36f" parent="aspace_57256c06f51b0420d77d63bea9a8301d" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_ref38" level="file">
+            <did>
+              <unittitle>Images (photocopies) not used for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_b53de02b9c5e8cb22900a8be37da6e3b" label="Mixed Materials [31142063611324]" type="Box">4</container>
+              <container id="aspace_1184a20b8ba186341b8246020433d673" parent="aspace_b53de02b9c5e8cb22900a8be37da6e3b" type="Folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_ref39" level="file">
+            <did>
+              <unittitle>Images (color copies) of Judson House (interiors + exteriors)</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7c7ce9e4cc2091e1d3fe022f2bbd673b" label="Mixed Materials [31142063611324]" type="Box">4</container>
+              <container id="aspace_8b3334b2a90c57954b1081ef0a843f82" parent="aspace_7c7ce9e4cc2091e1d3fe022f2bbd673b" type="Folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref40" level="file">
+            <did>
+              <unittitle>Image Research for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_0cf2fd9a836f0fa62ed24da894331997" label="Mixed Materials [31142063611324]" type="Box">4</container>
+              <container id="aspace_1de269132e04ca2692035358abe1ca78" parent="aspace_0cf2fd9a836f0fa62ed24da894331997" type="Folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_ref41" level="file">
+            <did>
+              <unittitle>Final pageproofs for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_652ee2909b0135f6c51009cfeb802446" label="Mixed Materials [31142063611324]" type="Box">4</container>
+              <container id="aspace_f1884070d711b590077107fb9318cf7f" parent="aspace_652ee2909b0135f6c51009cfeb802446" type="Folder">31</container>
+            </did>
+          </c>
+          <c id="aspace_ref42" level="file">
+            <did>
+              <unittitle>Final pageproofs for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_aa2f87fb1a182bc9832b1a86f3937e80" label="Mixed Materials [31142063611324]" type="Box">4</container>
+              <container id="aspace_6d8e36804bab657e9bc780696684fa1e" parent="aspace_aa2f87fb1a182bc9832b1a86f3937e80" type="Folder">32</container>
+            </did>
+          </c>
+          <c id="aspace_ref43" level="file">
+            <did>
+              <unittitle>Proofs ("Blues") for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_69c98ca774b80f6068a0fb6a2cf093c4" label="Mixed Materials [31142063611324]" type="Box">4</container>
+              <container id="aspace_18f2b0b5794797c2ab9f854df8bfc655" parent="aspace_69c98ca774b80f6068a0fb6a2cf093c4" type="Folder">33</container>
+            </did>
+          </c>
+          <c id="aspace_ref44" level="file">
+            <did>
+              <unittitle>Proofs ("Blues") for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_4120414fe65debace1053c94e1551919" label="Mixed Materials [31142063611324]" type="Box">4</container>
+              <container id="aspace_5268bbcd445e84ebb02f98155e753b0e" parent="aspace_4120414fe65debace1053c94e1551919" type="Folder">34</container>
+            </did>
+          </c>
+          <c id="aspace_ref45" level="file">
+            <did>
+              <unittitle>Permission for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7f061be81569f4c70bf1bf687ce2adc8" label="Mixed Materials [31142063611324]" type="Box">4</container>
+              <container id="aspace_6bad2a8dc146f4cf8361c0bbc5374ee9" parent="aspace_7f061be81569f4c70bf1bf687ce2adc8" type="Folder">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref46" level="file">
+            <did>
+              <unittitle>ISBN and CIP information for Remembering Judson House</unittitle>
+              <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_955885773e424a7f8b81c6faf667ca6c" label="Mixed Materials [31142063611324]" type="Box">4</container>
+              <container id="aspace_6f6f8858671e386cb177f964b8a9d904" parent="aspace_955885773e424a7f8b81c6faf667ca6c" type="Folder">36</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref144" level="subseries">
+          <did>
+            <unittitle>Subseries D: Media</unittitle>
+          </did>
+          <scopecontent id="aspace_6d41ab32270f95a45023d63ab9dbda79">
+            <head>Scope and Content</head>
+            <p>Box 5 consists of moving image and audio; box 5a consists of computer disks. These items are originals: no access copies currently exist for resarcher use.</p>
+          </scopecontent>
+          <c id="aspace_ref145" level="item">
+            <did>
+              <unittitle>Governance Tape I</unittitle>
+              <unitid>ID: 172.0001</unitid>
+              <unitdate datechar="creation">04/09/1994</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_b3c7822c7583719b6b5391698d07a6ea" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_dbe77c947b1dbef6c6dcbfbe3bde37af" parent="aspace_b3c7822c7583719b6b5391698d07a6ea" type="Media">ID: 172.0001</container>
+            </did>
+          </c>
+          <c id="aspace_ref146" level="item">
+            <did>
+              <unittitle>Governance Tape II </unittitle>
+              <unitid>ID: 172.0002</unitid>
+              <unitdate datechar="creation">04/09/1994</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_7a069b0c73c7fbe5dbbdf5088930d5ed" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_dc2aa0d0044da394fa4b5a4741bba996" parent="aspace_7a069b0c73c7fbe5dbbdf5088930d5ed" type="Media">ID: 172.0002</container>
+            </did>
+          </c>
+          <c id="aspace_ref147" level="item">
+            <did>
+              <unittitle>Governance Comm. Mtg</unittitle>
+              <unitid>ID: 172.0003</unitid>
+              <unitdate datechar="creation">06/07/1994</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_101b77611de569926a83be09c09a024c" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_816f63aa5766217d0cb2e6c11b967c8e" parent="aspace_101b77611de569926a83be09c09a024c" type="Media">ID: 172.0003</container>
+            </did>
+          </c>
+          <c id="aspace_ref148" level="item">
+            <did>
+              <unittitle>Governance Comm</unittitle>
+              <unitid>ID: 172.0004</unitid>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_2276834772f3df992c97b8e91da23252" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_7c07aab6100f41593487ddef8ecbc8dd" parent="aspace_2276834772f3df992c97b8e91da23252" type="Media">ID: 172.0004</container>
+            </did>
+          </c>
+          <c id="aspace_ref149" level="item">
+            <did>
+              <unittitle>Cong. Meeting</unittitle>
+              <unitid>ID: 172.0005</unitid>
+              <unitdate datechar="creation">05/17/1998</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_5625da70e9ecfc148096a8d42588443a" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_0b8cbb4ae2979b49473b02ceaa3016b6" parent="aspace_5625da70e9ecfc148096a8d42588443a" type="Media">ID: 172.0005</container>
+            </did>
+          </c>
+          <c id="aspace_ref150" level="item">
+            <did>
+              <unittitle>Judson Congregation Mtg.</unittitle>
+              <unitid>ID: 172.0006</unitid>
+              <unitdate datechar="creation">11/08/1998</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_3e512834e3242e2139d5344b113a0514" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_59d54a2211d27a674eea0761bb092b1a" parent="aspace_3e512834e3242e2139d5344b113a0514" type="Media">ID: 172.0006</container>
+            </did>
+          </c>
+          <c id="aspace_ref151" level="item">
+            <did>
+              <unittitle>Judson Congregation Mtg.</unittitle>
+              <unitid>ID: 172.0007</unitid>
+              <unitdate datechar="creation">12/6/1998</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_be466b3bd367330510e673d9f7c8c929" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_5aeb815a15acccb5e768e9eb4663ce4d" parent="aspace_be466b3bd367330510e673d9f7c8c929" type="Media">ID: 172.0007</container>
+            </did>
+          </c>
+          <c id="aspace_ref152" level="item">
+            <did>
+              <unittitle>Congregational Meeting</unittitle>
+              <unitid>ID: 172.0008</unitid>
+              <unitdate datechar="creation">01/24/1999</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_f1b5cd6f7dc2b752d50020a1c6dc494e" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_db42452f9d89e1886fe5ffc3f10c3fb9" parent="aspace_f1b5cd6f7dc2b752d50020a1c6dc494e" type="Media">ID: 172.0008</container>
+            </did>
+          </c>
+          <c id="aspace_ref153" level="item">
+            <did>
+              <unittitle>Congregational Meeting</unittitle>
+              <unitid>ID: 172.0009</unitid>
+              <unitdate datechar="creation">01/24/1999</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_28447e6c7c15c6e6dfd4d5719584c20a" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_0260b55632cf7b611e5d3eb7f67d126a" parent="aspace_28447e6c7c15c6e6dfd4d5719584c20a" type="Media">ID: 172.0009</container>
+            </did>
+          </c>
+          <c id="aspace_ref154" level="item">
+            <did>
+              <unittitle>Judson Bd.</unittitle>
+              <unitid>ID: 172.0010</unitid>
+              <unitdate datechar="creation">08/24/1998</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_73d62259d80e8c58c86a4d61aa9ffba2" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_329936f34e4ef6980d397e24411b0317" parent="aspace_73d62259d80e8c58c86a4d61aa9ffba2" type="Media">ID: 172.0010</container>
+            </did>
+          </c>
+          <c id="aspace_ref155" level="item">
+            <did>
+              <unittitle>Judson Board</unittitle>
+              <unitid>ID: 172.0011</unitid>
+              <unitdate datechar="creation">09/09/1998</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_6cab5c259b03340e38177e799feec853" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_9421941a3ef406a332878a9fc61a660b" parent="aspace_6cab5c259b03340e38177e799feec853" type="Media">ID: 172.0011</container>
+            </did>
+          </c>
+          <c id="aspace_ref156" level="item">
+            <did>
+              <unittitle>Judson Board</unittitle>
+              <unitid>ID: 172.0012</unitid>
+              <unitdate datechar="creation">08/24/1998</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_0a78a7fe6cb4685779c4016cfb87e6c3" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_2e38b7616c3462795a8842df295b9715" parent="aspace_0a78a7fe6cb4685779c4016cfb87e6c3" type="Media">ID: 172.0012</container>
+            </did>
+          </c>
+          <c id="aspace_ref157" level="item">
+            <did>
+              <unittitle>Judson Board</unittitle>
+              <unitid>ID: 172.0013</unitid>
+              <unitdate datechar="creation">09/09/1998</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_4f6365d82cf1db85cb4f9e31c34bd8fc" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_f290bd2674dfd638f458a67adcf6b948" parent="aspace_4f6365d82cf1db85cb4f9e31c34bd8fc" type="Media">ID: 172.0013</container>
+            </did>
+          </c>
+          <c id="aspace_ref158" level="item">
+            <did>
+              <unittitle>Judson Bd</unittitle>
+              <unitid>ID: 172.0014</unitid>
+              <unitdate datechar="creation">01/6/1999</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_c5004c438a0c0ad973bdbc7c7e4ea3e6" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_b70a414e892dc528f257d0fc984f740f" parent="aspace_c5004c438a0c0ad973bdbc7c7e4ea3e6" type="Media">ID: 172.0014</container>
+            </did>
+          </c>
+          <c id="aspace_ref160" level="item">
+            <did>
+              <unittitle>Judson Bd</unittitle>
+              <unitid>ID: 172.0015</unitid>
+              <unitdate datechar="creation">01/06/1999</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_77cb1bf7dac1889f8fe9d1078b8ee1be" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_e5d55354ff9f8b0586a63005f066ffa3" parent="aspace_77cb1bf7dac1889f8fe9d1078b8ee1be" type="Media">ID: 172.0015</container>
+            </did>
+          </c>
+          <c id="aspace_ref159" level="item">
+            <did>
+              <unittitle>Judson House Service Original</unittitle>
+              <unitid>ID: 172.0016</unitid>
+              <unitdate datechar="creation">07/11/0999</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_fd87e2593126d638c3441de3a4fba021" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_4231039923e3d67b51cf585da9120e07" parent="aspace_fd87e2593126d638c3441de3a4fba021" type="Media">ID: 172.0016</container>
+            </did>
+          </c>
+          <c id="aspace_ref161" level="item">
+            <did>
+              <unittitle>Judson House Service</unittitle>
+              <unitid>ID: 172.0017</unitid>
+              <unitdate datechar="creation">07/11/1999</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_6e946ecc8f028954eb2d7e954a24030c" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_2df8e6c8d091937b5e39797b36b4e9d2" parent="aspace_6e946ecc8f028954eb2d7e954a24030c" type="Media">ID: 172.0017</container>
+            </did>
+          </c>
+          <c id="aspace_ref162" level="item">
+            <did>
+              <unittitle>Judson House Service Demo Tape</unittitle>
+              <unitid>ID: 172.0018</unitid>
+              <unitdate datechar="creation">07/11/1999</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_c5e9eb8144105efef91dfc48fca6142a" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_73a54f9fb7522c6c5149fed767455f2b" parent="aspace_c5e9eb8144105efef91dfc48fca6142a" type="Media">ID: 172.0018</container>
+            </did>
+          </c>
+          <c id="aspace_ref163" level="item">
+            <did>
+              <unittitle>Greg Shunick 1</unittitle>
+              <unitid>ID: 172.0019</unitid>
+              <unitdate datechar="creation">04/19/1998</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_0941a345c4b8596edc2cc84179e9cb42" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_88fed65aba20d5ae35ff5b114053a6ee" parent="aspace_0941a345c4b8596edc2cc84179e9cb42" type="Media">ID: 172.0019</container>
+            </did>
+          </c>
+          <c id="aspace_ref164" level="item">
+            <did>
+              <unittitle>Greg Shunick 2</unittitle>
+              <unitid>ID: 172.0020</unitid>
+              <unitdate datechar="creation">04/19/1998</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_8f070cf6f348597870fac324924d7b93" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_150ac9dc616d51ecaabfa3c88f541dab" parent="aspace_8f070cf6f348597870fac324924d7b93" type="Media">ID: 172.0020</container>
+            </did>
+          </c>
+          <c id="aspace_ref165" level="item">
+            <did>
+              <unittitle>Jon Hendricks Interview Tape 1</unittitle>
+              <unitid>ID: 172.0021</unitid>
+              <unitdate datechar="creation">12/29/1998</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_d7f64760664cfad21ba092677916f584" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_e02e21a13e9379e88764fecad169b440" parent="aspace_d7f64760664cfad21ba092677916f584" type="Media">ID: 172.0021</container>
+            </did>
+          </c>
+          <c id="aspace_ref166" level="item">
+            <did>
+              <unittitle>Jon Hendricks Interview Tape 2</unittitle>
+              <unitid>ID: 172.0022</unitid>
+              <unitdate datechar="creation">12/29/1998</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_ac48bd311b72f8a5e362b80c951b0ff5" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_3e1eb247166fb95f2e7be753054f1795" parent="aspace_ac48bd311b72f8a5e362b80c951b0ff5" type="Media">ID: 172.0022</container>
+            </did>
+          </c>
+          <c id="aspace_ref167" level="item">
+            <did>
+              <unittitle>[Robt. Boy a Interview re 81 W. 3rd Street]</unittitle>
+              <unitid>ID: 172.0023</unitid>
+              <unitdate datechar="creation">01/06/1999</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_8a873344fcdf4dfbcde86390486f1355" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_1fdf6b3a90d63d5219f545983dae9d9a" parent="aspace_8a873344fcdf4dfbcde86390486f1355" type="Media">ID: 172.0023</container>
+            </did>
+          </c>
+          <c id="aspace_ref168" level="item">
+            <did>
+              <unittitle>Untitled</unittitle>
+              <unitid>ID: 172.0024</unitid>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_954b8c5822a48daa610deb45add9fdaf" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_07c5f06d4c38a00fe420bbdeae81bb62" parent="aspace_954b8c5822a48daa610deb45add9fdaf" type="Media">ID: 172.0024</container>
+            </did>
+          </c>
+          <c id="aspace_ref169" level="item">
+            <did>
+              <unittitle>Untitled</unittitle>
+              <unitid>ID: 172.0025</unitid>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_d279547397a77a3478e0ee9d878275f2" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_c6aa235df9cd4aa96551c71d1f0cc688" parent="aspace_d279547397a77a3478e0ee9d878275f2" type="Media">ID: 172.0025</container>
+            </did>
+          </c>
+          <c id="aspace_ref170" level="item">
+            <did>
+              <unittitle>Untitled</unittitle>
+              <unitid>ID: 172.0026</unitid>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_67b40343d4c855f0ab73107e111088a7" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_f1f32bf5cb1d6f7c719d340a2f7cc3fc" parent="aspace_67b40343d4c855f0ab73107e111088a7" type="Media">ID: 172.0026</container>
+            </did>
+          </c>
+          <c id="aspace_ref171" level="item">
+            <did>
+              <unittitle>[Seyman Hacker]</unittitle>
+              <unitid>ID: 172.0027</unitid>
+              <unitdate datechar="creation">04/01/1999</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_4915d7948785195de1b47f12289cc4b2" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_7b521f1b94ddf23088529cb13e4bb703" parent="aspace_4915d7948785195de1b47f12289cc4b2" type="Media">ID: 172.0027</container>
+            </did>
+          </c>
+          <c id="aspace_ref172" level="item">
+            <did>
+              <unittitle>Roland Wiggeys</unittitle>
+              <unitid>ID: 172.0028</unitid>
+              <unitdate datechar="creation">06/22/1999</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_ac10cde003fe976238f478e452bb4600" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_28d7f959eb15175d851b9cd16fbf5198" parent="aspace_ac10cde003fe976238f478e452bb4600" type="Media">ID: 172.0028</container>
+            </did>
+          </c>
+          <c id="aspace_ref173" level="item">
+            <did>
+              <unittitle>Interview with Tom Wesselmann</unittitle>
+              <unitid>ID: 172.0029</unitid>
+              <unitdate datechar="creation">12/03/1999</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_1f8329b65e9fb9b58f527614214f0be5" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_aa387c6d7b90302814abad5031b098a3" parent="aspace_1f8329b65e9fb9b58f527614214f0be5" type="Media">ID: 172.0029</container>
+            </did>
+          </c>
+          <c id="aspace_ref174" level="item">
+            <did>
+              <unittitle>Judson Run Away [...] Interviews</unittitle>
+              <unitid>ID: 172.0030</unitid>
+              <unitdate datechar="creation">02/28/2000</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_64ccd8f98205d6f0d6454d7a21dec515" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_6a4b162c44afa056ba6afe289b2a8923" parent="aspace_64ccd8f98205d6f0d6454d7a21dec515" type="Media">ID: 172.0030</container>
+            </did>
+          </c>
+          <c id="aspace_ref175" level="item">
+            <did>
+              <unittitle>Interview with [Claes Oldenbury] for Judson House Book</unittitle>
+              <unitid>ID: 172.0031</unitid>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_f8b815e4bb054d9ffe250eb8683175f4" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_cd8cce8246f80e84541f4d84fca13bcb" parent="aspace_f8b815e4bb054d9ffe250eb8683175f4" type="Media">ID: 172.0031</container>
+            </did>
+          </c>
+          <c id="aspace_ref176" level="item">
+            <did>
+              <unittitle>Untitled Tape 2</unittitle>
+              <unitid>ID: 172.0032</unitid>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_374d18b98e821be72789397d7abd5371" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_49d7fac013d6a285d28cb2b91f6b41fe" parent="aspace_374d18b98e821be72789397d7abd5371" type="Media">ID: 172.0032</container>
+            </did>
+          </c>
+          <c id="aspace_ref177" level="item">
+            <did>
+              <unittitle>Untitled Tape 1</unittitle>
+              <unitid>ID: 172.0033</unitid>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_8d56688e1cf7e1bb9efe54c1ca3dc657" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_f32ccbe87a3ac302453fa6378a4a8ede" parent="aspace_8d56688e1cf7e1bb9efe54c1ca3dc657" type="Media">ID: 172.0033</container>
+            </did>
+          </c>
+          <c id="aspace_ref178" level="item">
+            <did>
+              <unittitle>Untitled Tape 3</unittitle>
+              <unitid>ID: 172.0034</unitid>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_b56bf27e709ffa025d6827fe3793be59" label="media [31142063611456]" type="Box">5</container>
+              <container id="aspace_88c811119ec9b817b70b71e2f4239697" parent="aspace_b56bf27e709ffa025d6827fe3793be59" type="Media">ID: 172.0034</container>
+            </did>
+          </c>
+          <c id="aspace_ref179" level="item">
+            <did>
+              <unittitle>Remembering Judson House Disk 1/4</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_99188f3797be0214f33383d812a198e0" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_77ed6b4087c47dd91921199d801f9ad9" parent="aspace_99188f3797be0214f33383d812a198e0" type="disk">ID: 172.3.0001</container>
+            </did>
+          </c>
+          <c id="aspace_ref180" level="item">
+            <did>
+              <unittitle>Remembering Judson House Disk 2/4</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_506fd4f32bcde6c7b26e3519f59bbf77" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_190e4f4b58bc8377d0b4ec89945692d1" parent="aspace_506fd4f32bcde6c7b26e3519f59bbf77" type="disk">ID: 172.3.0002</container>
+            </did>
+          </c>
+          <c id="aspace_ref181" level="item">
+            <did>
+              <unittitle>Remembering Judson House Disk 3/4</unittitle>
+              <unitid>ID: 172.3.0003</unitid>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_85a777265973910c259f28011f17b4ee" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_c3f8dadeb1bf19d7d31a6b3b2cd106cd" parent="aspace_85a777265973910c259f28011f17b4ee" type="Media">ID: 172.3.0003</container>
+            </did>
+          </c>
+          <c id="aspace_ref182" level="item">
+            <did>
+              <unittitle>Remembering Judson House Disk 4/4</unittitle>
+              <unitid>ID: 172.3.0004</unitid>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_3417a28060a7a57051844f570bd9b676" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_9b7f2982cf50564fefc62da07d52cf9c" parent="aspace_3417a28060a7a57051844f570bd9b676" type="Media">ID: 172.3.0004</container>
+            </did>
+          </c>
+          <c id="aspace_ref183" level="item">
+            <did>
+              <unittitle>Judson Hse Bk: Irene's Piece</unittitle>
+              <unitid>ID: 172.3.0005</unitid>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_ab6d185486eac8ec437d9b35f3bfa7f9" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_922d632768b851833689bb3785bf98ee" parent="aspace_ab6d185486eac8ec437d9b35f3bfa7f9" type="Media">ID: 172.3.0005</container>
+            </did>
+          </c>
+          <c id="aspace_ref184" level="item">
+            <did>
+              <unittitle>Full text 2 NYC [Ffarrabes-end (Kurnitz Missing)] 2nd copy
+</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_80c12abf619ef701c1bff8332643d10a" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_09cfd0ae144f5089d2f51bbfe78ff30a" parent="aspace_80c12abf619ef701c1bff8332643d10a" type="disk">ID: 172.3.0006</container>
+            </did>
+          </c>
+          <c id="aspace_ref185" level="item">
+            <did>
+              <unittitle>Untitled</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_164cb28d04f6f5e74abf70d54b183302" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_9eb82108fd7169151f710e46150d7e88" parent="aspace_164cb28d04f6f5e74abf70d54b183302" type="disk">ID: 172.3.0007</container>
+            </did>
+          </c>
+          <c id="aspace_ref186" level="item">
+            <did>
+              <unittitle>Judson Text</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_c86dbec5d47f71674150494dca535278" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_48b73f332ae5e2a38a02e632d0768dce" parent="aspace_c86dbec5d47f71674150494dca535278" type="disk">ID: 172.3.0008</container>
+            </did>
+          </c>
+          <c id="aspace_ref187" level="item">
+            <did>
+              <unittitle>Judson House Sample Pages</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_249741b7228dd75f49a815ad8c3be4e6" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_d50fea3b2515d9ab251b25f849508870" parent="aspace_249741b7228dd75f49a815ad8c3be4e6" type="disk">ID: 172.3.0009</container>
+            </did>
+          </c>
+          <c id="aspace_ref188" level="item">
+            <did>
+              <unittitle>[Scans Judson House 50' + 60's Judson Arts Part 1]</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_c1b2aeb2188110558f69541e3dfdb53d" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_b8b359ca12319c2da99314609cb74109" parent="aspace_c1b2aeb2188110558f69541e3dfdb53d" type="disk">ID: 172.3.0010</container>
+            </did>
+          </c>
+          <c id="aspace_ref189" level="item">
+            <did>
+              <unittitle>Judson Photos</unittitle>
+              <unitdate datechar="creation">01/08/1999</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_3e7b8a86eca0f124205315fd34a616cc" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_1c62201681b4dd1aed6226521a336221" parent="aspace_3e7b8a86eca0f124205315fd34a616cc" type="disk">ID: 172.3.0011</container>
+            </did>
+          </c>
+          <c id="aspace_ref190" level="item">
+            <did>
+              <unittitle>Judson Sunday School</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_f2abf57acbd66ea8dbf7a0185ef52726" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_2811045e1af6545cd4dfdf0bc97dd0fb" parent="aspace_f2abf57acbd66ea8dbf7a0185ef52726" type="disk">ID: 172.3.0012</container>
+            </did>
+          </c>
+          <c id="aspace_ref191" level="item">
+            <did>
+              <unittitle>Medical [Center] Part 2 of 3</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_378ef22ecb86a97ef57df3180cf6d4df" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_7d3dcc546d3f4283d5c3bf846adc8fe3" parent="aspace_378ef22ecb86a97ef57df3180cf6d4df" type="disk">ID: 172.3.0013</container>
+            </did>
+          </c>
+          <c id="aspace_ref192" level="item">
+            <did>
+              <unittitle>The New York Times Picture Desk</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_f50b7b960e0d4ee57cd980ddacd7bb3d" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_d07c11ba4ac9140a0848aa38c4f8a52e" parent="aspace_f50b7b960e0d4ee57cd980ddacd7bb3d" type="disk">ID: 172.3.0014</container>
+            </did>
+          </c>
+          <c id="aspace_ref193" level="item">
+            <did>
+              <unittitle>Untitled</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_3ec011c90f85c52a54ad2239246cbd16" label="Graphic Materials [31142063611464]" type="Box">5A</container>
+              <container id="aspace_763d7310d9d60e998fc03a33cd4e4113" parent="aspace_3ec011c90f85c52a54ad2239246cbd16" type="disk">ID: 172.3.0015</container>
+            </did>
+          </c>
+          <c id="aspace_ref194" level="item">
+            <did>
+              <unittitle>Dickason Post Script cx</unittitle>
+              <unitdate datechar="creation">11/10/2000</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_bc17ba0bc2f96d84c4f8c73aa8b770ae" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_e3e6ecfa38c352d0bd08da0c0ec06b20" parent="aspace_bc17ba0bc2f96d84c4f8c73aa8b770ae" type="disk">ID: 172.3.0016</container>
+            </did>
+          </c>
+          <c id="aspace_ref195" level="item">
+            <did>
+              <unittitle>Remembering Judson House Dickason Post Script</unittitle>
+              <unitdate datechar="creation">10/24/00</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_7a43db456928fe7159f7711eef3dc430" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_ca34ad4c31e8e95c39951d8b23d56917" parent="aspace_7a43db456928fe7159f7711eef3dc430" type="disk">ID: 172.3.0017</container>
+            </did>
+          </c>
+          <c id="aspace_ref196" level="item">
+            <did>
+              <unittitle>Remembering Judson House Quark, fonts, art</unittitle>
+              <unitdate datechar="creation">10/24/2000</unitdate>
+              <container altrender="Flat Box - 12 x 16" id="aspace_fbe3c5c4ed9ae98e161e7ba0b0461527" label="media [31142063611464]" type="Box">5A</container>
+              <container id="aspace_69195523911ccf020e9d64112cb60f6d" parent="aspace_fbe3c5c4ed9ae98e161e7ba0b0461527" type="disk">ID: 172.3.0018</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref47" level="series">
+        <did>
+          <unittitle>Series II: Source Materials &amp; Research </unittitle>
+        </did>
+        <c id="aspace_ref48" level="subseries">
+          <did>
+            <unittitle>Subseries A: Original Historic Materials</unittitle>
+          </did>
+          <c id="aspace_5124b340ab18756765f07df6675e4562" level="file">
+            <did>
+              <unittitle>Original Historic Materials - Glass Lantern Slides - Judson Health Center Images</unittitle>
+              <container altrender="Card Box - 5 x 8.5" id="aspace_deb63550f8bfa9ca250e32c73f1f366d" label="Mixed Materials [31142063611431]" type="Box">6A</container>
+              <container altrender="Card Box - 5 x 8.5" id="aspace_dd7879060d268944aa63a37150ec0264" label="Mixed Materials [31142063611449]" type="Box">6B</container>
+            </did>
+          </c>
+          <c id="aspace_ref203" level="item">
+            <did>
+              <unittitle>Original Packaging for Glass Lantern Slides</unittitle>
+              <container altrender="Manuscript box - Letter" id="aspace_7ccd1539b96fcbf16ad30ed7a5ed21cf" label="Mixed Materials [31142063611357]" type="Box">6C</container>
+            </did>
+            <odd id="aspace_cb8d65cb37dd5c9f561e7ea24e97bc38">
+              <head>General</head>
+              <p>Box contains 5 small boxes and one larger box with "4 glass plates" written on it.</p>
+            </odd>
+          </c>
+          <c id="aspace_ref49" level="file">
+            <did>
+              <unittitle>Original Historic Materials - Photographic Print - Judson Health Center Field Visit Havercia Danwelly, RN</unittitle>
+              <unitdate datechar="creation" normal="1924/1924" type="inclusive">1924</unitdate>
+              <container altrender="Manuscript box - Legal - Half" id="aspace_492fa55a24574bb5431c3b386cd22250" label="Mixed Materials [31142063611340]" type="Box">7</container>
+              <container id="aspace_fa3d074e9a75380b6721bd81a98a5e41" parent="aspace_492fa55a24574bb5431c3b386cd22250" type="Folder">37</container>
+            </did>
+          </c>
+          <c id="aspace_ref50" level="file">
+            <did>
+              <unittitle>Original Historic Materials - Photographic Print - Judson Health Center Dr. Eleanor Campbell</unittitle>
+              <unitdate datechar="creation" normal="1925/1925" type="inclusive">1925</unitdate>
+              <container altrender="Manuscript box - Legal - Half" id="aspace_55d21bfa6da0faa0add02f0fdd89d6ca" label="Mixed Materials [31142063611340]" type="Box">7</container>
+              <container id="aspace_784d3a03c3c5f75a759599e8db955c2f" parent="aspace_55d21bfa6da0faa0add02f0fdd89d6ca" type="Folder">38</container>
+            </did>
+          </c>
+          <c id="aspace_ref51" level="file">
+            <did>
+              <unittitle>Original Historic Materials - Photographic Print - Judson Health Center New Pictures</unittitle>
+              <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+              <container altrender="Manuscript box - Legal - Half" id="aspace_c7631d46197b862920ea2e2369d587d8" label="Mixed Materials [31142063611340]" type="Box">7</container>
+              <container id="aspace_8e24fa6d8506d0d54691bf701b618b3e" parent="aspace_c7631d46197b862920ea2e2369d587d8" type="Folder">39</container>
+            </did>
+          </c>
+          <c id="aspace_ref52" level="file">
+            <did>
+              <unittitle>Original Historic Materials - Photographic Print - Judson Health Center Mayor Presents Scroll to Judson Founder</unittitle>
+              <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+              <container altrender="Manuscript box - Legal - Half" id="aspace_4b25e8ac9a3a32d65405560e57984378" label="Mixed Materials [31142063611340]" type="Box">7</container>
+              <container id="aspace_708f63d16a339defd35fa1176b9418e4" parent="aspace_4b25e8ac9a3a32d65405560e57984378" type="Folder">40</container>
+            </did>
+          </c>
+          <c id="aspace_ref53" level="file">
+            <did>
+              <unittitle>Original Historic Materials - Photographic Print - Judson Health Center Mrs. Brumfield RN with Mrs. Barbara Smyrnov</unittitle>
+              <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+              <container altrender="Manuscript box - Legal - Half" id="aspace_1b1fc2ea3e29680f35c8a893da4af5b1" label="Mixed Materials [31142063611340]" type="Box">7</container>
+              <container id="aspace_7e26dd834620bac30095782835c2cc1c" parent="aspace_1b1fc2ea3e29680f35c8a893da4af5b1" type="Folder">41</container>
+            </did>
+          </c>
+          <c id="aspace_ref54" level="file">
+            <did>
+              <unittitle>Original Historic Materials - Judson Health Center </unittitle>
+              <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+              <container altrender="Manuscript box - Legal - Half" id="aspace_44204a974d49ada6cb57c2643efb11ee" label="Mixed Materials [31142063611340]" type="Box">7</container>
+              <container id="aspace_815f0bae0cb03ed8cdeb66db5b28978d" parent="aspace_44204a974d49ada6cb57c2643efb11ee" type="Folder">42</container>
+            </did>
+          </c>
+          <c id="aspace_ref55" level="file">
+            <did>
+              <unittitle>Original Historic Materials - Photographic Print - Judson Health Center Nutrition Class for "Future Homemakers" </unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Manuscript box - Legal - Half" id="aspace_f5292189dfbd030a21bdd06768109c9b" label="Mixed Materials [31142063611340]" type="Box">7</container>
+              <container id="aspace_739ab8f4a3eff51e4574ff04058ffda7" parent="aspace_f5292189dfbd030a21bdd06768109c9b" type="Folder">43</container>
+            </did>
+          </c>
+          <c id="aspace_ref56" level="file">
+            <did>
+              <unittitle>Original Historic Materials - Photographic Print - Judson Health Center Boys Cooking Class</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Manuscript box - Legal - Half" id="aspace_52f3c615c65ac569b005c556381e457f" label="Mixed Materials [31142063611340]" type="Box">7</container>
+              <container id="aspace_ff9a8707a4326ca07f4c3d22b87e5a9e" parent="aspace_52f3c615c65ac569b005c556381e457f" type="Folder">44</container>
+            </did>
+          </c>
+          <c id="aspace_ref57" level="file">
+            <did>
+              <unittitle>Original Historic Materials - Photographic Print - Judson Health Center Registration Desk</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Manuscript box - Legal - Half" id="aspace_8066c46ed210b4693f7ccf202c8d0369" label="Mixed Materials [31142063611340]" type="Box">7</container>
+              <container id="aspace_ba95e0b5d76f68ea25d6b2e861ff7152" parent="aspace_8066c46ed210b4693f7ccf202c8d0369" type="Folder">45</container>
+            </did>
+          </c>
+          <c id="aspace_ref58" level="file">
+            <did>
+              <unittitle>Original Historic Materials - Photographic Print - Judson Health Center, Nurse Checks Height, Weight, + Temperature of Child </unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Manuscript box - Legal - Half" id="aspace_b991f3d8b81f81a38ed2ae3ea5d5d54e" label="Mixed Materials [31142063611340]" type="Box">7</container>
+              <container id="aspace_5f5d82ede556162fa73e44ec0e24e9ae" parent="aspace_b991f3d8b81f81a38ed2ae3ea5d5d54e" type="Folder">46</container>
+            </did>
+          </c>
+          <c id="aspace_ref59" level="file">
+            <did>
+              <unittitle>Original Historic Materials - Photographic Print - Judson Health Center Children's Exam</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Manuscript box - Legal - Half" id="aspace_9f26efb8bcbc333decee8c8bb12c3da8" label="Mixed Materials [31142063611340]" type="Box">7</container>
+              <container id="aspace_4faf02a906eaeae24bdba89c6be681a3" parent="aspace_9f26efb8bcbc333decee8c8bb12c3da8" type="Folder">47</container>
+            </did>
+          </c>
+          <c id="aspace_ref205" level="item">
+            <did>
+              <unittitle>Black Scrapbook</unittitle>
+              <container altrender="Flat Box - 12 x 16" id="aspace_28019d9a7c6e83bed2d8a3e006b0b8ef" label="Mixed Materials [31142063611365]" type="Box">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref60" level="file">
+            <did>
+              <unittitle>The Judsonian</unittitle>
+              <unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7843ae2b810e7af05c63cffba864e7a9" label="Mixed Materials [31142063611373]" type="Box">9</container>
+              <container id="aspace_a1311ae1a4f69d4eacd7fd021706029a" parent="aspace_7843ae2b810e7af05c63cffba864e7a9" type="Folder">48</container>
+            </did>
+          </c>
+          <c id="aspace_ref61" level="file">
+            <did>
+              <unittitle>The Judsonian (Photocopy)</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_e8d948d402247d5158a15eba45acd6ad" label="Mixed Materials [31142063611373]" type="Box">9</container>
+              <container id="aspace_10ac93defede77dfd69f50f96a343d31" parent="aspace_e8d948d402247d5158a15eba45acd6ad" type="Folder">49</container>
+            </did>
+          </c>
+          <c id="aspace_ref62" level="file">
+            <did>
+              <unittitle>Judson Health Center - Original Documents</unittitle>
+              <unitdate datechar="creation" normal="1922/1942" type="inclusive">1922-1942</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_59beb194caa84c04513145eb20c94fe4" label="Mixed Materials [31142063611373]" type="Box">9</container>
+              <container id="aspace_71302acf29a69f4710baa11874ed89d5" parent="aspace_59beb194caa84c04513145eb20c94fe4" type="Folder">50</container>
+            </did>
+          </c>
+          <c id="aspace_ref63" level="file">
+            <did>
+              <unittitle>Measuring the Work of  a Health Center (Eleanor A. Campbell)</unittitle>
+              <unitdate datechar="creation" normal="1925/1925" type="inclusive">1925</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_99868a7b5b7080ed3c1615ed63af0d3d" label="Mixed Materials [31142063611373]" type="Box">9</container>
+              <container id="aspace_6f9a921748a26d23d5caf29b1aaadaf2" parent="aspace_99868a7b5b7080ed3c1615ed63af0d3d" type="Folder">51</container>
+            </did>
+          </c>
+          <c id="aspace_ref64" level="file">
+            <did>
+              <unittitle>The Story of a Community Health Enterprise (Eleanor A. Campbell)</unittitle>
+              <unitdate datechar="creation" normal="1928/1928" type="inclusive">1928</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_b7e0edbc630592c6a763a67f147e6bb5" label="Mixed Materials [31142063611373]" type="Box">9</container>
+              <container id="aspace_9505daac99fbd73bc56f77d4c9d40a43" parent="aspace_b7e0edbc630592c6a763a67f147e6bb5" type="Folder">52</container>
+            </did>
+          </c>
+          <c id="aspace_ref65" level="file">
+            <did>
+              <unittitle>Scrapbook Clipping, Dr. Eleanor Campbell, Director of Judson Health Center Explaining Clinic to Visitors</unittitle>
+              <unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_4d3fc2337140b4fd381469112130b7d4" label="Mixed Materials [31142063611373]" type="Box">9</container>
+              <container id="aspace_9a0b43742db1a2da3310161cff17397d" parent="aspace_4d3fc2337140b4fd381469112130b7d4" type="Folder">53</container>
+            </did>
+          </c>
+          <c id="aspace_ref66" level="file">
+            <did>
+              <unittitle>Pamphlets and Ephemera for Judson Health Center</unittitle>
+              <unitdate datechar="creation" normal="1925/1934" type="inclusive">1925-1934</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_0805d9cd8a029b19214c22d8e976b15b" label="Mixed Materials [31142063611373]" type="Box">9</container>
+              <container id="aspace_99e2c57a38ae88460b5ec88b3b24156c" parent="aspace_0805d9cd8a029b19214c22d8e976b15b" type="Folder">54</container>
+            </did>
+          </c>
+          <c id="aspace_ref67" level="file">
+            <did>
+              <unittitle>Judson Studio, "Exodus"</unittitle>
+              <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_82f71d59a25f24b34fe8e9e099e75619" label="Mixed Materials [31142063611373]" type="Box">9</container>
+              <container id="aspace_2ee4c3f410f94c1fb53d80c2abbe9851" parent="aspace_82f71d59a25f24b34fe8e9e099e75619" type="Folder">55</container>
+            </did>
+          </c>
+          <c id="aspace_ref68" level="file">
+            <did>
+              <unittitle>Judson Studio, "Exodus"</unittitle>
+              <unitdate datechar="creation" normal="1930/1960" type="inclusive">1930-1960</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_dac9a4066a73bdb508be3d22f5a8d1dc" label="Mixed Materials [31142063611373]" type="Box">9</container>
+              <container id="aspace_6f4e75aa038cb207f4007bfefdc7172d" parent="aspace_dac9a4066a73bdb508be3d22f5a8d1dc" type="Folder">56</container>
+            </did>
+          </c>
+          <c id="aspace_ref69" level="file">
+            <did>
+              <unittitle>Judson Health Center copy of Eleanor A. Campbell's Will</unittitle>
+              <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_cf180438e3faa28a8dbc5a3ba0625dbb" label="Mixed Materials [31142063611373]" type="Box">9</container>
+              <container id="aspace_fa253256784cccdef0ecdf61f640f55e" parent="aspace_cf180438e3faa28a8dbc5a3ba0625dbb" type="Folder">57</container>
+            </did>
+          </c>
+          <c id="aspace_ref70" level="file">
+            <did>
+              <unittitle>Report on Judson House Crisis Referral Unit Residence</unittitle>
+              <unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_37ad3e7a596c87ebb90f17691d3121ad" label="Mixed Materials [31142063611373]" type="Box">9</container>
+              <container id="aspace_e8eb3a89f3cdb7ebc5aaa743617509ed" parent="aspace_37ad3e7a596c87ebb90f17691d3121ad" type="Folder">58</container>
+            </did>
+          </c>
+          <c id="aspace_ref71" level="file">
+            <did>
+              <unittitle>Fried Shoes</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_28239b72dcdbcfba5819f57dfec2a37b" label="Mixed Materials [31142063611373]" type="Box">9</container>
+              <container id="aspace_2e68d5d2e7d448147cef2c8efc1effc4" parent="aspace_28239b72dcdbcfba5819f57dfec2a37b" type="Folder">59</container>
+            </did>
+          </c>
+          <c id="aspace_ref72" level="file">
+            <did>
+              <unittitle>A Voice in the Village; Howard Moody: Twenty Years of Washington Square</unittitle>
+              <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_a52c0f567cde7dc1e2e05e244357d60b" label="Mixed Materials [31142063611373]" type="Box">9</container>
+              <container id="aspace_318f8591b3279a39b030e76c36d5a862" parent="aspace_a52c0f567cde7dc1e2e05e244357d60b" type="Folder">60</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref73" level="subseries">
+          <did>
+            <unittitle>Subseries B: General Source &amp; Research Materials</unittitle>
+          </did>
+          <c id="aspace_ref74" level="file">
+            <did>
+              <unittitle>Research Materials - Judson Health Center, Reports, Press, Releases, Correspondence</unittitle>
+              <unitdate datechar="creation" normal="1924/1962" type="inclusive">1924-1962</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_e996a09125621cd54fab3a088b25d54a" label="Mixed Materials [31142063611381]" type="Box">10</container>
+              <container id="aspace_56c1a37321143c1a187e22d0e4049421" parent="aspace_e996a09125621cd54fab3a088b25d54a" type="Folder">61</container>
+            </did>
+          </c>
+          <c id="aspace_ref75" level="file">
+            <did>
+              <unittitle>Research Materials - Judson Health Center, Board Meeting Minutes, Newspaper Articles, Reports</unittitle>
+              <unitdate datechar="creation" normal="1930/1943" type="inclusive">1930-1943</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_10fb76fdff2bf62aa59917fdbed920e4" label="Mixed Materials [31142063611381]" type="Box">10</container>
+              <container id="aspace_b586d641eac734b6706de6f0acea6e21" parent="aspace_10fb76fdff2bf62aa59917fdbed920e4" type="Folder">62</container>
+            </did>
+          </c>
+          <c id="aspace_ref76" level="file">
+            <did>
+              <unittitle>Research Materials - Judson Health Center, Press, Articles, Radio Reports, Reports</unittitle>
+              <unitdate datechar="creation" normal="1942/1962" type="inclusive">1942-1962</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_4a58da60df703e2a62b267f170cb20ac" label="Mixed Materials [31142063611381]" type="Box">10</container>
+              <container id="aspace_70ebbb6ec7a25fc95a99d5da69b506d0" parent="aspace_4a58da60df703e2a62b267f170cb20ac" type="Folder">63</container>
+            </did>
+          </c>
+          <c id="aspace_ref77" level="file">
+            <did>
+              <unittitle>Research Materials - Judson House (New York Historical Society)</unittitle>
+              <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_a0406e2ff4864d69eda41cc0c396ae80" label="Mixed Materials [31142063611381]" type="Box">10</container>
+              <container id="aspace_2da112704231d2c4770ea9239966ef69" parent="aspace_a0406e2ff4864d69eda41cc0c396ae80" type="Folder">64</container>
+            </did>
+          </c>
+          <c id="aspace_ref78" level="file">
+            <did>
+              <unittitle>Research Materials - Judson Health Center - Information New York City District Health Administration</unittitle>
+              <unitdate datechar="creation" normal="1866/1938" type="inclusive">1866-1938</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_8f1082ec1f6a6452c8beac354c6edba1" label="Mixed Materials [31142063611381]" type="Box">10</container>
+              <container id="aspace_bc0c96c85236db679301c294c7eb8df9" parent="aspace_8f1082ec1f6a6452c8beac354c6edba1" type="Folder">65</container>
+            </did>
+          </c>
+          <c id="aspace_ref79" level="file">
+            <did>
+              <unittitle>Research Materials - Judson Health Center, Copies of Booklets on Health Center</unittitle>
+              <unitdate datechar="creation" normal="1922/1928" type="inclusive">1922-1928</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_4f0ff74071bf5b327c6e0992a0bcba8d" label="Mixed Materials [31142063611381]" type="Box">10</container>
+              <container id="aspace_703d6579c1e49a1d1b963d7e75401e02" parent="aspace_4f0ff74071bf5b327c6e0992a0bcba8d" type="Folder">66</container>
+            </did>
+          </c>
+          <c id="aspace_ref80" level="file">
+            <did>
+              <unittitle>Research Materials - Eleanor A. Campbell/Judson Health Center</unittitle>
+              <unitdate datechar="creation" normal="1926/1951" type="inclusive">1926-1951</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_3b638a427a4ba92d5653433f7552a192" label="Mixed Materials [31142063611381]" type="Box">10</container>
+              <container id="aspace_3c5c2c3c78987a107f159f1bd39e652f" parent="aspace_3b638a427a4ba92d5653433f7552a192" type="Folder">67</container>
+            </did>
+          </c>
+          <c id="aspace_ref81" level="file">
+            <did>
+              <unittitle>Research Materials  - Anderson and Milbank Families/Judson Health Center</unittitle>
+              <container altrender="Manuscript box - Legal" id="aspace_c91cc6594411e89a858f5090c70242fc" label="Mixed Materials [31142063611381]" type="Box">10</container>
+              <container id="aspace_a59e670d410cfc548f4cefe2257ee6de" parent="aspace_c91cc6594411e89a858f5090c70242fc" type="Folder">68</container>
+            </did>
+          </c>
+          <c id="aspace_ref82" level="file">
+            <did>
+              <unittitle>Research Materials for Judson Gallery</unittitle>
+              <unitdate datechar="creation" normal="1960/1967" type="inclusive">1960-1967</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_b78f509fab7c8150826d8fe9577edc76" label="Mixed Materials [31142063611399]" type="Box">11</container>
+              <container id="aspace_cb650270405417ffae9a228f8aa346fd" parent="aspace_b78f509fab7c8150826d8fe9577edc76" type="Folder">69</container>
+            </did>
+          </c>
+          <c id="aspace_ref83" level="file">
+            <did>
+              <unittitle>Research Materials - Judson House</unittitle>
+              <unitdate datechar="creation" normal="1951/1999" type="inclusive">1951-1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_4814d9223156086825ff0f19e86b9ea3" label="Mixed Materials [31142063611399]" type="Box">11</container>
+              <container id="aspace_fe117291b90b2de40c9845c1c5c11575" parent="aspace_4814d9223156086825ff0f19e86b9ea3" type="Folder">70</container>
+            </did>
+          </c>
+          <c id="aspace_ref84" level="file">
+            <did>
+              <unittitle>"Judson Health Center, 1920-1950" 3 Drafts by Jerry Dickason</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_ca51b3476ea94170c57d851dd45a512e" label="Mixed Materials [31142063611399]" type="Box">11</container>
+              <container id="aspace_936b797901d125fa945792bd4bd1d4ed" parent="aspace_ca51b3476ea94170c57d851dd45a512e" type="Folder">71</container>
+            </did>
+          </c>
+          <c id="aspace_ref85" level="file">
+            <did>
+              <unittitle>[Brief History of the Judson Health Center]</unittitle>
+              <unitdate datechar="creation">Undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_8943f5dc879dce92825d1d2bda4fd11c" label="Mixed Materials [31142063611399]" type="Box">11</container>
+              <container id="aspace_ec6465a21c261791eb3b4343d83bd0fd" parent="aspace_8943f5dc879dce92825d1d2bda4fd11c" type="Folder">72</container>
+            </did>
+          </c>
+          <c id="aspace_ref86" level="file">
+            <did>
+              <unittitle>Research Matrials - Judson Student House</unittitle>
+              <unitdate datechar="creation" normal="1948/1961" type="inclusive">1948-1961</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_ae0aa7c5e2bf2b9cee2295ae126f6f0a" label="Mixed Materials [31142063611399]" type="Box">11</container>
+              <container id="aspace_981c02d3b57307759062ce16b1b3a93d" parent="aspace_ae0aa7c5e2bf2b9cee2295ae126f6f0a" type="Folder">73</container>
+            </did>
+          </c>
+          <c id="aspace_ref87" level="file">
+            <did>
+              <unittitle>Judson Memorial Church Publications</unittitle>
+              <unitdate datechar="creation" normal="1990/2000" type="inclusive">1990-2000</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_5bc22cee97c295d1b3b9296833fa287d" label="Mixed Materials [31142063611399]" type="Box">11</container>
+              <container id="aspace_7d3bd58922bd5f35a6598e7f7a48dc1c" parent="aspace_5bc22cee97c295d1b3b9296833fa287d" type="Folder">74</container>
+            </did>
+          </c>
+          <c id="aspace_ref88" level="file">
+            <did>
+              <unittitle>Miscellaneous Pamphlets - "The Judson House Project," Off Limits</unittitle>
+              <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_68f3034d63bb8def4ea12f2b2af90d58" label="Mixed Materials [31142063611399]" type="Box">11</container>
+              <container id="aspace_9c6eb7a79ab2c5ea8663b2f0e599a7f0" parent="aspace_68f3034d63bb8def4ea12f2b2af90d58" type="Folder">75</container>
+            </did>
+          </c>
+          <c id="aspace_ref89" level="file">
+            <did>
+              <unittitle>Peter Maavman's Sermons</unittitle>
+              <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_1103bc89e5639fa002982d81339fa361" label="Mixed Materials [31142063611399]" type="Box">11</container>
+              <container id="aspace_bc009c17ecc15c231fafb8ae20e2747f" parent="aspace_1103bc89e5639fa002982d81339fa361" type="Folder">76</container>
+            </did>
+          </c>
+          <c id="aspace_ref90" level="file">
+            <did>
+              <unittitle>Miscellaneous notes + bulletins to Judson Memorial Church Congregation</unittitle>
+              <unitdate datechar="creation">1982-1993, 1999-2001</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_74ffe864f482d17c3d254ac025bb62d5" label="Mixed Materials [31142063611399]" type="Box">11</container>
+              <container id="aspace_420e8626527aecf12e4111116684d298" parent="aspace_74ffe864f482d17c3d254ac025bb62d5" type="Folder">77</container>
+            </did>
+          </c>
+          <c id="aspace_ref91" level="file">
+            <did>
+              <unittitle>Miscellaneous Color Pictures - Judson Garden + Tom Wesselmann, Jeremy Dickason</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_fac2493b6fd153a9faeb55f20d0553bb" label="Mixed Materials [31142063611399]" type="Box">11</container>
+              <container id="aspace_9944349d23d75cdca2cd8e453af09ac5" parent="aspace_fac2493b6fd153a9faeb55f20d0553bb" type="Folder">78</container>
+            </did>
+          </c>
+          <c id="aspace_ref92" level="file">
+            <did>
+              <unittitle>Miscellaneous Pictures - Judson House Watching Negatives and Contact Sheet</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_44e806420ca515d7ca11e5002fd2a8ff" label="Mixed Materials [31142063611399]" type="Box">11</container>
+              <container id="aspace_72528b6ab1ff3d4c609200656ee033f6" parent="aspace_44e806420ca515d7ca11e5002fd2a8ff" type="Folder">79</container>
+            </did>
+          </c>
+          <c id="aspace_ref93" level="file">
+            <did>
+              <unittitle>Miscellaneous Contact Sheet + Negatives - Judson House Matching  4x6 Prints</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_fa688d97b12105c11ebf9de76f056bc0" label="Mixed Materials [31142063611399]" type="Box">11</container>
+              <container id="aspace_77bb460173ea56ac4cee2f57dcee0196" parent="aspace_fa688d97b12105c11ebf9de76f056bc0" type="Folder">80</container>
+            </did>
+          </c>
+          <c id="aspace_ref206" level="item">
+            <did>
+              <unittitle>Various Newspapers</unittitle>
+              <container altrender="Flat Box - 12 x 16" id="aspace_2bc54f81e8309752f5062d34eac786b1" label="Mixed Materials [31142063611407]" type="Box">12</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref94" level="series">
+        <did>
+          <unittitle>Series III: Administrative Materials Unrelated to "Remembering Judson House"</unittitle>
+        </did>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Board Meeting Minutes, Financial Report, Commission on Judson's Financial Future</unittitle>
+            <unitdate datechar="creation">Jan. - Dec. 1997</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_72455e672c757cdb6123d03c0972264a" label="Mixed Materials [31142063611415]" type="Box">13</container>
+            <container id="aspace_313f63e256e69120ddb3cd212c3bbc89" parent="aspace_72455e672c757cdb6123d03c0972264a" type="Folder">81</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Board Meeting Minutes and Notes</unittitle>
+            <unitdate datechar="creation">Feb. - July 1999</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2feeba54ee50da0d0da821d70aeec2f6" label="Mixed Materials [31142063611415]" type="Box">13</container>
+            <container id="aspace_6e4032c834849a989fb12d912b852df1" parent="aspace_2feeba54ee50da0d0da821d70aeec2f6" type="Folder">82</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Board Meeting Minutes and Notes</unittitle>
+            <unitdate datechar="creation">Feb. - April 2000</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_db6c3318691780f87eaf4b983497cf9b" label="Mixed Materials [31142063611415]" type="Box">13</container>
+            <container id="aspace_b9f8d541f6ffe556a2e8d730d36d3e72" parent="aspace_db6c3318691780f87eaf4b983497cf9b" type="Folder">83</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Judson Board Meeting Minutes and Notes</unittitle>
+            <unitdate datechar="creation">Feb. - May 1998</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dd434d5bc6b8de7d80c1a961eab96dc4" label="Mixed Materials [31142063611415]" type="Box">13</container>
+            <container id="aspace_579aff2f0616a611077da6bf5f5de5ee" parent="aspace_dd434d5bc6b8de7d80c1a961eab96dc4" type="Folder">84</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Judson Board Meeting and Notes</unittitle>
+            <unitdate datechar="creation">May - Sept. 1998</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_65e472358ae1993f727c62ad647d5a56" label="Mixed Materials [31142063611415]" type="Box">13</container>
+            <container id="aspace_3280f887271e89214934241cb3736eab" parent="aspace_65e472358ae1993f727c62ad647d5a56" type="Folder">85</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Judson House Board Meetings, Correspondence</unittitle>
+            <unitdate datechar="creation">Sept. - Nov. 1998</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_089e0caf2836c43e163f801ebaae496c" label="Mixed Materials [31142063611415]" type="Box">13</container>
+            <container id="aspace_ac62cd9ccd6564c09f2716a5223a319a" parent="aspace_089e0caf2836c43e163f801ebaae496c" type="Folder">86</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Judson Board Meetings, Correspondence</unittitle>
+            <unitdate datechar="creation">Nov. 1998 - Jan. 1999</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_662814c631295c480be7ad85ce8404b6" label="Mixed Materials [31142063611423]" type="Box">14</container>
+            <container id="aspace_7aec0b8b03995d25d99637670293bc17" parent="aspace_662814c631295c480be7ad85ce8404b6" type="Folder">87</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Board Meeting - Minutes</unittitle>
+            <unitdate datechar="creation">Dec. 1998 - Dec. 1999</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_387ada01712b88f834437ddabe062c81" label="Mixed Materials [31142063611423]" type="Box">14</container>
+            <container id="aspace_180908e55ffbd64a7a07f78cf992f4a8" parent="aspace_387ada01712b88f834437ddabe062c81" type="Folder">88</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>Board Meeting/Congregational Meeting Minutes and Notes</unittitle>
+            <unitdate datechar="creation">Oct. 1999 - June 2000</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9a83e0513d02f9a3636985ec338ceb1b" label="Mixed Materials [31142063611423]" type="Box">14</container>
+            <container id="aspace_7fefec32eec236878997c56c12eba82e" parent="aspace_9a83e0513d02f9a3636985ec338ceb1b" type="Folder">89</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Board Meeting</unittitle>
+            <unitdate datechar="creation">April - Oct. 1999</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3bd3f1cb8a39067f7620fdb26e4d6e13" label="Mixed Materials [31142063611423]" type="Box">14</container>
+            <container id="aspace_e42049ef7ce6af04c55d58486cafaeda" parent="aspace_3bd3f1cb8a39067f7620fdb26e4d6e13" type="Folder">90</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Board Meeting</unittitle>
+            <unitdate datechar="creation">Oct. - Nov. 1999</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ad9a892a904b09ba59bab2dec75ad7f7" label="Mixed Materials [31142063611423]" type="Box">14</container>
+            <container id="aspace_024b07ff3700a9109cdab3e50c5e1a91" parent="aspace_ad9a892a904b09ba59bab2dec75ad7f7" type="Folder">91</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Board Meeting</unittitle>
+            <unitdate datechar="creation">Dec. 1999 - Feb. 2000</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1174e680fb3a3902e5241922fa0f2484" label="Mixed Materials [31142063611423]" type="Box">14</container>
+            <container id="aspace_53a680dc5a993166b79ff391537a123f" parent="aspace_1174e680fb3a3902e5241922fa0f2484" type="Folder">92</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Board Meeting</unittitle>
+            <unitdate datechar="creation">May - Dec. 2000</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_385eec1a80d07e59a1736a17f1f94098" label="Mixed Materials [31142063611423]" type="Box">14</container>
+            <container id="aspace_8a870043096a014d56b221023bbbaf3e" parent="aspace_385eec1a80d07e59a1736a17f1f94098" type="Folder">93</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref143" level="series">
+        <did>
+          <unittitle>Series IV: Hot Spots Calendar (Includes Production Materials)</unittitle>
+        </did>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Personnel Committee</unittitle>
+            <unitdate datechar="creation" normal="1996/1997" type="inclusive">1996-1997</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_127659ae4f637209b9dcac6d78ed4f7d" label="Mixed Materials [31142063611472]" type="Box">15</container>
+            <container id="aspace_c220b2c193b1c3f587759996d84d8529" parent="aspace_127659ae4f637209b9dcac6d78ed4f7d" type="Folder">94</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Personnel Committee</unittitle>
+            <unitdate datechar="creation" normal="1997/1998" type="inclusive">1997-1998</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_4ce758d8a7723e0107c8d8104b7aa2cb" label="Mixed Materials [31142063611472]" type="Box">15</container>
+            <container id="aspace_2c9dbe4fa9969aa63bae74c3070f7c49" parent="aspace_4ce758d8a7723e0107c8d8104b7aa2cb" type="Folder">95</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Personnel Committee</unittitle>
+            <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_82d2b91e596ec91465c89984b187c164" label="Mixed Materials [31142063611472]" type="Box">15</container>
+            <container id="aspace_59cbc9493d45c657e782f65502181f64" parent="aspace_82d2b91e596ec91465c89984b187c164" type="Folder">96</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Personnel Committee - Confidentiality Articles</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_6ad654f77fc12517fcd839b599d5901d" label="Mixed Materials [31142063611472]" type="Box">15</container>
+            <container id="aspace_77c94bd0f46f241a974c33c24b294080" parent="aspace_6ad654f77fc12517fcd839b599d5901d" type="Folder">97</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Structures and Governance Committee Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1992/1994" type="inclusive">1992-1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cc7522aa2fd8473fe352e641ae215434" label="Mixed Materials [31142063611480]" type="Box">16</container>
+            <container id="aspace_5567828b0c3ad162016f69a1b2062f50" parent="aspace_cc7522aa2fd8473fe352e641ae215434" type="Folder">98</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Structures and Governance Committee, By-Lines</unittitle>
+            <unitdate datechar="creation">Mar. - Sept. 1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0c8fa2ec5c18e03684ed74c485b8b8d2" label="Mixed Materials [31142063611480]" type="Box">16</container>
+            <container id="aspace_6eb80d2c8dd52d48b4f8fa9536d02cd3" parent="aspace_0c8fa2ec5c18e03684ed74c485b8b8d2" type="Folder">99</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Structures and Governance Committee Correspondence</unittitle>
+            <unitdate datechar="creation">Mar. - Nov. 1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e42e60bc74a0811db0c34d67863e6cf0" label="Mixed Materials [31142063611480]" type="Box">16</container>
+            <container id="aspace_ba3b9426f7f78d1cf4b6a288e1701662" parent="aspace_e42e60bc74a0811db0c34d67863e6cf0" type="Folder">100</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Structures and Governance Committee</unittitle>
+            <unitdate datechar="creation">May - Aug. 1994</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5a080d6c501e4fcfd442a6013518644d" label="Mixed Materials [31142063611480]" type="Box">16</container>
+            <container id="aspace_291945d4523d8f3a5af0897207efd15b" parent="aspace_5a080d6c501e4fcfd442a6013518644d" type="Folder">101</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Structures and Governance Committee</unittitle>
+            <unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_000669b904177a032c8783d8ea18718d" label="Mixed Materials [31142063611480]" type="Box">16</container>
+            <container id="aspace_640ab9bd954d0163c6923f52b1549a67" parent="aspace_000669b904177a032c8783d8ea18718d" type="Folder">102</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Structures and Governance Evaluation</unittitle>
+            <unitdate datechar="creation">June - Sept. 1998 (1)</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0e508eb7cb59179cd1edd0cc9d6ad5e3" label="Mixed Materials [31142063611480]" type="Box">16</container>
+            <container id="aspace_e42e2f375a0061e2e9cf1b47c1507f5d" parent="aspace_0e508eb7cb59179cd1edd0cc9d6ad5e3" type="Folder">103</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Structures and Governance Evaluation</unittitle>
+            <unitdate datechar="creation">Jun. - Sep. 1998 (2)</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ce8cbf3f4f9fc71957fa2a4f9f46aeef" label="Mixed Materials [31142063611480]" type="Box">16</container>
+            <container id="aspace_0a4858dbdfe7b6b7281c090770f23cbd" parent="aspace_ce8cbf3f4f9fc71957fa2a4f9f46aeef" type="Folder">104</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Congregational Meeting</unittitle>
+            <unitdate datechar="creation">Jan. 1999</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_d2f987544309f15e86666d7d97917e3c" label="Mixed Materials [31142063611498]" type="Box">17</container>
+            <container id="aspace_92ba4a5ac61f227f2463c48d64333a0e" parent="aspace_d2f987544309f15e86666d7d97917e3c" type="Folder">106</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Structures and Governance Evaluation</unittitle>
+            <unitdate datechar="creation">Nov. - Dec. 1998</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dd53304a225816d90a23257ab2aba4c9" label="Mixed Materials [31142063611480]" type="Box">16</container>
+            <container id="aspace_39151b33a93f34b7ab25e5fff861e0af" parent="aspace_dd53304a225816d90a23257ab2aba4c9" type="Folder">105</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>Congregational Meeting</unittitle>
+            <unitdate datechar="creation">Feb. - March 1999</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_e31348fbc526e4d8ba7cde67b0f7b391" label="Mixed Materials [31142063611498]" type="Box">17</container>
+            <container id="aspace_baa6033e23e30f6cee843695ee8283a7" parent="aspace_e31348fbc526e4d8ba7cde67b0f7b391" type="Folder">107</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>Hot Spots Calendar - Don Nute Memorial Materials</unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_d37c64e820613b8aaf8592b45e224bbc" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_8cbe3311739d3d1c1bc9f9643b7d1702" parent="aspace_d37c64e820613b8aaf8592b45e224bbc" type="Folder">108</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>Hot Spots Calendar - Calendar</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_d575e64bea125d99b28ba4720fa059df" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_1131d1c8be1d07592efa36a3b0d4bc34" parent="aspace_d575e64bea125d99b28ba4720fa059df" type="Folder">109</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>Hot Spots Calendar - Drawing Paper</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_f44350739e80fda798a89ebfb0145441" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_1384443a665910fb09d31ee7a9fc9e50" parent="aspace_f44350739e80fda798a89ebfb0145441" type="Folder">110</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>Hot Spots Calendar - Original Drawing for January</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_d6c07e638d9ed14d0d8fff116dd145b7" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_7ee37b2c39c99008bd341e23fdac5578" parent="aspace_d6c07e638d9ed14d0d8fff116dd145b7" type="Folder">111</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>Hot Spots Calendar - Original Drawing for February</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_405799de6641b5a72e17f747e4dbc50e" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_1f1cca50a3821650dba20ec449388d73" parent="aspace_405799de6641b5a72e17f747e4dbc50e" type="Folder">112</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="file">
+          <did>
+            <unittitle>Hot Spots Calendar - Original Drawing for March</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_e87486b741c65365f857baf7c9cada61" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_813b560f212297827b0f1934dfb24ce4" parent="aspace_e87486b741c65365f857baf7c9cada61" type="Folder">113</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="file">
+          <did>
+            <unittitle>Hot Spots Calendar - Original Drawing for April</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_7e3d8320be93ca8331d7b5e9eca505ff" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_ea4126dc30147c64df470f16ddf337e6" parent="aspace_7e3d8320be93ca8331d7b5e9eca505ff" type="Folder">114</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>Hot Spots Calendar - Original Drawing for May</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_285eabb9aceb6f6ffe28d30457e3362b" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_1fdc57a8813beeac7eb1dcfe9310569f" parent="aspace_285eabb9aceb6f6ffe28d30457e3362b" type="Folder">115</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>Hot Spots Calendar - Original Drawing for June</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_cbc3f86176641efb64828791cbaff56c" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_9cb6f4320a22d3719dd7dad99ed31974" parent="aspace_cbc3f86176641efb64828791cbaff56c" type="Folder">116</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>Hot Spots Calendar - Original Drawing for July</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_80a2a2e4cc649159f7c10657c0272df1" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_b96dbbd830f45a60b0b0796f8516358a" parent="aspace_80a2a2e4cc649159f7c10657c0272df1" type="Folder">117</container>
+          </did>
+        </c>
+        <c id="aspace_ref202" level="file">
+          <did>
+            <unittitle>Hot Spots Calendar - Original Drawing for August</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_7230f5acbbb7a60997c6e74b8a234db9" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_9c9b6784bf46a3c134806f97bebd789e" parent="aspace_7230f5acbbb7a60997c6e74b8a234db9" type="Folder">118</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>Hot Spots Calendar - Original Drawing for September</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_4b4454407c89201b39e9d3764f942b5d" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_58abcdc45d3eb6fbdd1d06b4834d5255" parent="aspace_4b4454407c89201b39e9d3764f942b5d" type="Folder">119</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>Hot Spots Calendar - Original Drawing for October</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_0eabd2115ff9d12152accbd9e02a727f" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_602984aa3e5f833870caca623888ed6d" parent="aspace_0eabd2115ff9d12152accbd9e02a727f" type="Folder">120</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>Hot Spots Calendar - Original Drawing for November</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_1eaf3813d537b387284fea13cbe47523" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_6ceea30446694a48318864ff03e8bcbc" parent="aspace_1eaf3813d537b387284fea13cbe47523" type="Folder">121</container>
+          </did>
+        </c>
+        <c id="aspace_ref199" level="item">
+          <did>
+            <unittitle>Hot Spots Calendar - Original Drawing for December</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_93a3bcb4af411550a9d8728b212190c9" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_6aeee72347ac519070fee425b40c6b24" parent="aspace_93a3bcb4af411550a9d8728b212190c9" type="Folder">122</container>
+          </did>
+        </c>
+        <c id="aspace_ref200" level="item">
+          <did>
+            <unittitle>Hot Spots Calendar - Original Artwork (not included in calendar)</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_06d50f651545c265e7ce99e4cb9ddc44" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_6d2e75781671e25c26fb5b71188693c5" parent="aspace_06d50f651545c265e7ce99e4cb9ddc44" type="Folder">123</container>
+          </did>
+        </c>
+        <c id="aspace_ref201" level="file">
+          <did>
+            <unittitle>Hot Spots Calendar - Original Artwork (not included in calendar) </unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_a4750ecb56f1f48093e33e0ccfe02c24" label="Mixed Materials [31142063611506]" type="Box">18</container>
+            <container id="aspace_a08e1eeb84f232d257656cb28746e397" parent="aspace_a4750ecb56f1f48093e33e0ccfe02c24" type="Folder">124</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_4cbdee2cf90791e775edfcf8e177e24b" level="series">
+        <did>
+          <unittitle>2016 Accretion</unittitle>
+        </did>
+        <arrangement id="aspace_39f8465e454dc621cea8c23869db42ad">
+          <head>Arrangement</head>
+          <p>This accretion has not been arranged by an archivist; materials are arranged in the order in which they were received by the donor.</p>
+        </arrangement>
+        <scopecontent id="aspace_e4d75c6d486b5b1dce2f0f8d02a1eb30">
+          <head>Scope and Contents</head>
+          <p>The accretion consists of materials that date between 1969 and 2012 with the bulk of the materials dating between the early 1970s and the early 1990s. Within the accretion are transcripts of sermons (including one by Elly Dickason), Judson Memorial Church bulletins, photographs used in <emph render="italic">Remembering Judson House</emph>, as well as memorial materials about the passings of composer Al Carmines and Minister Howard R. Moody. Also included in the accretion are  materials about Dickason's and former Judson employee Jim Covington's involvement with the New York Center for Men (1983-1984), as well as a file about the research of anti-war activist Maarten Knottenbelt (1982-1989).</p>
+        </scopecontent>
+        <c id="aspace_1bdd09db7bc5a265d0c4fd6e1ec77b9b" level="file">
+          <did>
+            <unittitle>Judson House Book</unittitle>
+            <unitdate datechar="creation" normal="1972/2001" type="inclusive">1972, 2001, undated</unitdate>
+            <container altrender="Manuscript Box - 7.25" id="aspace_22535eaebf0eeeeb21913e9de0199986" label="Mixed Materials [31142054856136]" type="Box">19</container>
+            <container id="aspace_1c90ef5b28ff54092efc86c18b583ef4" parent="aspace_22535eaebf0eeeeb21913e9de0199986" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_384ca4692c7a7de6ccb740447a9c2ccd" level="file">
+          <did>
+            <unittitle>Judson Sunday Bulletins</unittitle>
+            <unitdate datechar="creation" normal="1971/1992" type="inclusive">1971-1992</unitdate>
+            <container altrender="Manuscript Box - 7.25" id="aspace_2cb3f8750b2578789f6f6d0bb83fd77e" label="Mixed Materials [31142054856136]" type="Box">19</container>
+            <container id="aspace_c1536fb26985aba5fc39e93cfee2a223" parent="aspace_2cb3f8750b2578789f6f6d0bb83fd77e" type="Folder">2-4</container>
+          </did>
+        </c>
+        <c id="aspace_5409adb9f46af46cbc488feb81170647" level="file">
+          <did>
+            <unittitle>Judson Sermons</unittitle>
+            <unitdate datechar="creation" normal="1969/1990" type="inclusive">1969-1990</unitdate>
+            <container altrender="Manuscript Box - 7.25" id="aspace_26de53d2463d6940fef410af3236f27c" label="Mixed Materials [31142054856136]" type="Box">19</container>
+            <container id="aspace_b5b7d7fc5b71d88b09ab53ecf7f44fba" parent="aspace_26de53d2463d6940fef410af3236f27c" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_3120d6972187058a192c5bf175e7beef" level="file">
+          <did>
+            <unittitle>The New York Center for Men</unittitle>
+            <unitdate datechar="creation" normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <container altrender="Manuscript Box - 7.25" id="aspace_5f8a8594f0619521e3c19e696984c2a9" label="Mixed Materials [31142054856136]" type="Box">19</container>
+            <container id="aspace_8daf485380eb1fb1166ad90e66ce5924" parent="aspace_5f8a8594f0619521e3c19e696984c2a9" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_cc01c11c8d07cca73866c2f6718d9337" level="file">
+          <did>
+            <unittitle>Knottenbelt, Maarten</unittitle>
+            <unitdate datechar="creation" normal="1982/1989" type="inclusive">1982, 1989</unitdate>
+            <container altrender="Manuscript Box - 7.25" id="aspace_0083939a92d9c460064b5e5bd9ed38c6" label="Mixed Materials [31142054856136]" type="Box">19</container>
+            <container id="aspace_efd94d699717ba0521d3343f17ab43db" parent="aspace_0083939a92d9c460064b5e5bd9ed38c6" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_b984e53a848d5a656a65f04009d1f271" level="file">
+          <did>
+            <unittitle>Carmines, Al -- Obituary</unittitle>
+            <unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate>
+            <container altrender="Manuscript Box - 7.25" id="aspace_757cef71980674b9bc1137d10d03f7ba" label="Mixed Materials [31142054856136]" type="Box">19</container>
+            <container id="aspace_2aa791ae5d8c768b6c42c5e2db7fa7c8" parent="aspace_757cef71980674b9bc1137d10d03f7ba" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_4a5fe2625c03fa3e912c20895c5b0657" level="file">
+          <did>
+            <unittitle>Carmines, Al -- Oratories</unittitle>
+            <unitdate datechar="creation" normal="1976/1990" type="inclusive">1976-1977, 1990, undated</unitdate>
+            <container altrender="Manuscript Box - 7.25" id="aspace_1d48aa0df62a7c31c5f94911c406cd8c" label="Mixed Materials [31142054856136]" type="Box">19</container>
+            <container id="aspace_9135e20b1a3d02a95471fe6535c0d5b8" parent="aspace_1d48aa0df62a7c31c5f94911c406cd8c" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_0774da17535d9b8753a946ced256ba61" level="file">
+          <did>
+            <unittitle>Moody, Howard R.</unittitle>
+            <unitdate datechar="creation" normal="1990/2012" type="inclusive">1990, 2004, 2012, undated</unitdate>
+            <container altrender="Manuscript Box - 7.25" id="aspace_b89b2d9c2d88ae6cbc82c04260a222b7" label="Mixed Materials [31142054856136]" type="Box">19</container>
+            <container id="aspace_b2eaa4a85405363984956b770134c2cc" parent="aspace_b89b2d9c2d88ae6cbc82c04260a222b7" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_b83813334081320dbe7c741e1c672101" level="file">
+          <did>
+            <unittitle>Dickason, Elly -- Sermon on Illness</unittitle>
+            <unitdate datechar="creation" normal="1992-07-26/1992-07-26">1992-07-26</unitdate>
+            <container altrender="Manuscript Box - 7.25" id="aspace_187d0ebd9c742b311facb1cabb56ef25" label="Mixed Materials [31142054856136]" type="Box">19</container>
+            <container id="aspace_06338a427cff98ca03def3a996bcbab6" parent="aspace_187d0ebd9c742b311facb1cabb56ef25" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_22032526fb6f45dea76cfdd272932b6c" level="file">
+          <did>
+            <unittitle>Judson Service</unittitle>
+            <unitdate datechar="creation" normal="1994-09-04/1994-09-04">1994-09-04</unitdate>
+            <container altrender="Manuscript Box - 7.25" id="aspace_2cd8b8b5bbdef73f9455e17dd0e26743" label="Mixed Materials [31142054856136]" type="Box">19</container>
+            <container id="aspace_bf25873594342db621f47d87c1120682" parent="aspace_2cd8b8b5bbdef73f9455e17dd0e26743" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

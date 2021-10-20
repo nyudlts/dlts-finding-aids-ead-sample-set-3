@@ -1,0 +1,1108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_779">tam_779</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Tamiment Library and Robert F. Wagner Labor Archives Collection of Asia Serials <num>TAM.779</num></titleproper>
+        <author>Megan O'Shea and Jennipher Ambrose</author>
+        <sponsor>The arrangement, description, and encoding of this collection has been made possible in part by a major grant from the National Endowment for the Humanities: Exploring the human endeavor.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>February 2019</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 04:09:28 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>May 2019</date>
+        <item>Updated by Jennipher Ambrose to incorporate material omitted during initial processing of the collection</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Tamiment Library and Robert F. Wagner Labor Archives Collection of Asia Serials</unittitle>
+      <origination label="Creator">
+        <corpname role="col" source="local">Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </origination>
+      <unitid>TAM.779</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">8.9 Linear Feet</extent>
+        <extent altrender="carrier">in 14 manuscript boxes and 11 flat boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1940/2008" type="inclusive">1940-2008</unitdate>
+      <unitdate datechar="creation" normal="1970/1989" type="bulk">1970-1989</unitdate>
+      <physloc id="aspace_7d87f317b0a53eabe4d3b16b8d0f7cb7">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <abstract id="aspace_c9f4c368d304844cc7b325c592643118">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Asia Serials contains over 100 titles published in and about East Asia and Southeast Asia between 1940 and 2008.  The bulk of the collection dates from the 1970s and the 1980s.  Topics include political and social issues throughout Asia, arts in Asia, and Asian American communities and organizations in the United States.</abstract>
+      <langmaterial id="aspace_b350444977b4f323e22ac068a7d20a7a">Materials primarily in English, with some publications in Chinese, Japanese, French, and Portuguese.</langmaterial>
+    </did>
+    <arrangement id="aspace_23bc1ea8b735438ea228f605be5d7c60">
+      <head>Arrangement</head>
+      <p>Serials in this collection are arranged alphabetically by title.</p>
+    </arrangement>
+    <accessrestrict id="aspace_041ca2764f612c386313d7d2a1a7b036">
+      <head>Conditions Governing Access</head>
+      <p>Open to users without restriction.</p>
+    </accessrestrict>
+    <userestrict id="aspace_cf6bcb36a35cb2653711be3f56850042">
+      <head>Conditions Governing Use</head>
+      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Tamiment Library &amp; Robert F. Wagner Labor Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>
+    </userestrict>
+    <acqinfo id="aspace_ad0c308e68002dcdd796350602c5eee0">
+      <head>Immediate Source of Acquisition</head>
+      <p>This collection combines serials relating to Asia drawn from two discrete groups of material held by the Tamiment Library. The first was a partially inventoried backlog of serials, received by the library through donations, subscriptions, and in archival collections. The second group consisted of around 1,700 serials, newspapers, and magazines, organized by title as an artificial collection, referred to as Periodicals.001 or Boxed Newspapers. This material was combined, inventoried, and arranged and described in subject-based categories in 2017. The accession number related to this collection is 2017.049.</p>
+    </acqinfo>
+    <prefercite id="aspace_db77711954b5bf0b5fee37b78ad2b089">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Tamiment Library and Robert F. Wagner Labor Archives Collection of Asia Serials; TAM 779; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_6f8427f2ed61698c45bf7a6ca6ec5996">
+      <head>Processing Information</head>
+      <p>The material in this collection was assembled from various backlogs of uncataloged material held by the Tamiment Library. This material was inventoried, separated according to its subject matter, and arranged in a series of subject-based artificial collections. Accumulations of material relating to Asia were identified and brought together physically. Materials were housed in archival folders and boxes according to size. The inventory is arranged alphabetically by title of publication, with publishing organization and place of publication listed when known.</p>
+    </processinfo>
+    <scopecontent id="aspace_75c76268af37c03f953b927d7e82549c">
+      <head>Scope and Contents</head>
+      <p>The Tamiment Library and Robert F. Wagner Labor Archives Collection of Asia Serials contains over 100 titles published in and about East Asia and Southeast Asia between 1940 and 2008.  The bulk of the collection dates from the 1970s and the 1980s and consists of serials published in Hong Kong, China, New York, and California in the 1970s and the 1980s.  Topics include political and social issues in China, Japan, North Korea, South Korea, Hong Kong, and Taiwan, as well as diplomatic and political relations between these countries and the United States (US).  Other topics include Asian and Asian American arts and literature; racial equality for Asian Americans in the US, particularly in California and New York; and cultural and political activities in Hong Kong, California, and New York.  The collection contains a number of newspapers published for Chinese American, Indian, and Filipino communities San Francisco, New York City, and other cities in the US, and by Asian American organizations concerned with human rights issues in China and North Korea.  Large runs include <emph render="italic">East West</emph> from San Francisco, California and <emph render="italic">Issues &amp; Studies</emph> from Taiwan.</p>
+    </scopecontent>
+    <controlaccess>
+      <genreform source="aat">Serials (publications)</genreform>
+      <subject source="lcsh">Asian Americans -- Ethnic identity.</subject>
+      <subject source="lcsh">Asian Americans -- California -- Periodicals.</subject>
+      <subject source="lcsh">Asian Americans -- New York (State) -- New York -- Periodicals.</subject>
+      <geogname source="lcsh">East Asia -- Foreign Relations -- 20th century.</geogname>
+      <geogname source="lcsh">East Asia -- Periodicals.</geogname>
+      <geogname source="lcsh">Southeast Asia -- Periodicals.</geogname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_284d83fcfbd33fc9b5bd98de0bdd040b" level="file">
+        <did>
+          <unittitle><emph render="italic">A. Magazine, The Asian American Quarterly</emph> : Metro East Publications, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_bcccdba270b0df4d72c310df27f54142" label="Mixed Materials [31142063008281]" type="Box">14</container>
+          <container id="aspace_d666e28bc27d1ad851c8fa034f87ea9d" parent="aspace_bcccdba270b0df4d72c310df27f54142" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_7f8ec7e10a144e53ccb78e759fd590b2" level="file">
+        <did>
+          <unittitle><emph render="italic">Actual Action</emph> : Actual Action Editorial Commity, Tokyo, Japan</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_79dbf6707d39941a9c7ed86dff9fb555" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_448307d1e0abec04e7bc7cc7f19dce89" parent="aspace_79dbf6707d39941a9c7ed86dff9fb555" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_34ab5b3005faaa698fd6bc16511e0971" level="file">
+        <did>
+          <unittitle><emph render="italic">AFNY News Forum</emph> : Asians &amp; Friends--New York, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_120893a46df868908d996c00b724bd6e" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_81705827e13acd47959dcc3315bd43e7" parent="aspace_120893a46df868908d996c00b724bd6e" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_a4864d7d0a73c759dd9c424a4bd8ff2e" level="file">
+        <did>
+          <unittitle><emph render="italic">Ang Katipunan</emph> : Union of Democratic Filipinos, Oakland, CA</unittitle>
+          <unitdate datechar="creation" normal="1977/1986" type="inclusive">1977-1986</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_189f1336cb66135c74e8eb7bf6817633" label="Mixed Materials [31142063008281]" type="Box">14</container>
+          <container id="aspace_84d20b9365258a599b0eaeb302e294d1" parent="aspace_189f1336cb66135c74e8eb7bf6817633" type="Folder">2-10</container>
+        </did>
+      </c>
+      <c id="aspace_382ebaa60dc642de2222ae8a8c5ffe06" level="file">
+        <did>
+          <unittitle><emph render="italic">Artspiral</emph> : Asian American Arts Centre, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1988/1993" type="inclusive">1988-1993</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_7faf5fe577a1cf0758a402464567f997" label="Mixed Materials [31142063008299]" type="Box">15</container>
+          <container id="aspace_0a7c6a2a1ea145cf4898f9576ded4fa9" parent="aspace_7faf5fe577a1cf0758a402464567f997" type="Folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_dbd4188835e1109cc1f735ce84a87483" level="file">
+        <did>
+          <unittitle><emph render="italic">Asia in Washington</emph> : Asia Society. Washington Center, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_9425011a5f6f589a868cb7a8a7b25304" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_292e795e8f523bef13c83ef16bd6a839" parent="aspace_9425011a5f6f589a868cb7a8a7b25304" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_9f702f9a3210d0a65ad0d16f0f68e012" level="file">
+        <did>
+          <unittitle><emph render="italic">Asian American Resource Workshop Newsletter</emph> : Asian American Resource Workshop, Boston, MA</unittitle>
+          <unitdate datechar="creation" normal="1987/1990" type="inclusive">1987-1990</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_9a7700ca5465f81646228ee91ca7b8f9" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_3f30167c744d05a12e56b3186f9793a4" parent="aspace_9a7700ca5465f81646228ee91ca7b8f9" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_0986e45fc1d24f8f0e79e00ba1a8916a" level="file">
+        <did>
+          <unittitle><emph render="italic">Asian Americans for Equality</emph> : Asian Americans for Equality, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1989/1991" type="inclusive">1989-1991</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_4777186dfdcab6441e8c76da5d6e0de9" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_d72edaf88b62e1e977fb513253958087" parent="aspace_4777186dfdcab6441e8c76da5d6e0de9" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_9666775b11729919f5052ee04141d8a3" level="file">
+        <did>
+          <unittitle><emph render="italic">Asian New Yorker</emph> : Asian New Yorker Company, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1994/1997" type="inclusive">1994-1997</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_0fa085eed346dfbf4ba66e2944057915" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_40f59e88e95e87f1b5e3464ba2b156d1" parent="aspace_0fa085eed346dfbf4ba66e2944057915" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_07de45be940932e459035c0e0538b5b5" level="file">
+        <did>
+          <unittitle><emph render="italic">Asian-America Spirit</emph> : East Coast Asian Student Union, Boston, MA</unittitle>
+          <unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_e89d1a9304b317fd5240b247f8e0cc3a" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_d5205a36bb966b4d9731a16b6c6d62a8" parent="aspace_e89d1a9304b317fd5240b247f8e0cc3a" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_8afe30995174c0228d049f231d92d263" level="file">
+        <did>
+          <unittitle><emph render="italic">Asians &amp; Friends New York</emph> : Asians &amp; Friends--New York, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_fc8a81e057187f879aa39b6d79c96c50" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_3124d4f560a374ec8beae22f88cff9c1" parent="aspace_fc8a81e057187f879aa39b6d79c96c50" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_879262e4ddff9348984fcaecd13392b0" level="file">
+        <did>
+          <unittitle><emph render="italic">Bridge</emph> : Southeast Asia Resource Action Center, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_45327b1593021f15162ceef64769ffaa" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_4d7b060d775faf5fdad5a5d0f32cc80e" parent="aspace_45327b1593021f15162ceef64769ffaa" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_cb1ec8292afa28f622aec20e7304d358" level="file">
+        <did>
+          <unittitle><emph render="italic">CAAV (Committee Against Anti-Asian Violence) Voice</emph> : Committee Against Anti-Asian Violence, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1990/1992" type="inclusive">1990-1992</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_fb4370246f6995ea568386db2100b21e" label="Mixed Materials [31142063008174]" type="Box">3</container>
+          <container id="aspace_d86a7dd43e09f18d9fd925f30c201d74" parent="aspace_fb4370246f6995ea568386db2100b21e" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_25f3f07ffb6cfbb99e34160433b2447e" level="file">
+        <did>
+          <unittitle><emph render="italic">CCAS Newsletter</emph> : CCAS, Stanford, CA</unittitle>
+          <unitdate datechar="creation" normal="1973/1975" type="inclusive">1973-1975</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_dbeaa6dfba6c486f215527886e988c43" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_ed3f87d47283eb3faa384cf1f8415e16" parent="aspace_dbeaa6dfba6c486f215527886e988c43" type="Folder">11-12</container>
+        </did>
+      </c>
+      <c id="aspace_e35a613b7764f6eb7bdba2ff1c44da2b" level="file">
+        <did>
+          <unittitle><emph render="italic">Cheng Ming</emph> : Pak Ka Publisher, Hong Kong</unittitle>
+          <unitdate datechar="creation" normal="1979/1979">1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_68c62d5dc6c7b79e647f0f324cbbbfb8" label="Mixed Materials [31142062673911]" type="Box">Shared Tamiment 062</container>
+          <container id="aspace_9487f853ee471613e48ab43958398560" parent="aspace_68c62d5dc6c7b79e647f0f324cbbbfb8" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_86a5bf5de5dc4731ba148a7a95f0cfa1" level="file">
+        <did>
+          <unittitle><emph render="italic">China &amp; World Cultural Exchange</emph> : Cultural Exchange, Beijing, China</unittitle>
+          <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_8a71d9d355a905ca52c0aca7afdbf1da" label="Mixed Materials [31142063008174]" type="Box">3</container>
+          <container id="aspace_a277cc486da960158056bf957a3bcfaf" parent="aspace_8a71d9d355a905ca52c0aca7afdbf1da" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_5a5a3550b644246dc044af9340475c1a" level="file">
+        <did>
+          <unittitle><emph render="italic">China At Work</emph> : Society for Anglo-Chinese Understanding, London, UK</unittitle>
+          <unitdate datechar="creation" normal="1940/1999" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a5b567947b6e4f1cdb8225af96ee69e2" label="Mixed Materials [31142063008166]" type="Box">2</container>
+          <container id="aspace_0cc30ff1edcec5d4b95f455d9c809426" parent="aspace_a5b567947b6e4f1cdb8225af96ee69e2" type="Folder">1-9</container>
+        </did>
+      </c>
+      <c id="aspace_331d66b00f9d439b3835afce2bcb515d" level="file">
+        <did>
+          <unittitle><emph render="italic">China Daily News</emph> : China Daily News, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_0391590cc269e51417d64c9a12bf7f26" label="Mixed Materials [31142063008299]" type="Box">15</container>
+          <container id="aspace_dcebf8a1dfb8fb7016ed29de3d831ec0" parent="aspace_0391590cc269e51417d64c9a12bf7f26" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_2649afa1056dd18f1767721767c120b7" level="file">
+        <did>
+          <unittitle><emph render="italic">China Digest</emph> : China Digest Association, Hong Kong</unittitle>
+          <unitdate datechar="creation" normal="1948/1950" type="inclusive">1948-1950</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_910aa758b96efc3089842dc2f39f4255" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_e260ff17c6a53ba2f9f126f86636d9fd" parent="aspace_910aa758b96efc3089842dc2f39f4255" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_9764efd1e7ff6ad808572c7075f672f0" level="file">
+        <did>
+          <unittitle><emph render="italic">China Friendship</emph> : US-China Peoples Friendship Association, Cleveland, OH</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_51abf1a58a69d70799d7336593b5df34" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_330d1eaaf118d8281a3f9fd0ea1f2537" parent="aspace_51abf1a58a69d70799d7336593b5df34" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_5b74c35ab69ce29a7cb7f7f5d6cb1b56" level="file">
+        <did>
+          <unittitle><emph render="italic">China News Digest</emph> : United Service to China, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1940/1999" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_8baa87d96d3917ce05ebb10080a28a9e" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_57da5fada612c05f91d36ba12c08cd69" parent="aspace_8baa87d96d3917ce05ebb10080a28a9e" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_2775afab64d3c99863e23570e8493fc5" level="file">
+        <did>
+          <unittitle><emph render="italic">China Policy Study Group Broadsheet</emph> : China Policy Study Group, London, UK</unittitle>
+          <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_add0d4dfbef8493e0a0b34f64efbee69" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_257662fb573ec42a56a310f3421babfa" parent="aspace_add0d4dfbef8493e0a0b34f64efbee69" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_bb407eeeaef596df9b73c165a09e2f8e" level="file">
+        <did>
+          <unittitle><emph render="italic">China Update</emph> : Yale-China Association, New Haven, CT</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_c1cd1cd8592a2c356c51d451810a10bc" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_6477011867291ed668218ff195516de4" parent="aspace_c1cd1cd8592a2c356c51d451810a10bc" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ca5dec3c5da10edc9874de9f08c7cbb8" level="file">
+        <did>
+          <unittitle><emph render="italic">Chinese American Forum</emph> : Chinese American Forum, Inc., Silver Springs, MD</unittitle>
+          <unitdate datechar="creation" normal="1986/1996" type="inclusive">1986-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_86c066de7bb5d1f8d85738d76cd05ab3" label="Mixed Materials [31142063008166]" type="Box">2</container>
+          <container id="aspace_41c4af97194969be954b66f73623cbf0" parent="aspace_86c066de7bb5d1f8d85738d76cd05ab3" type="Folder">2-9</container>
+        </did>
+      </c>
+      <c id="aspace_fe5b1f4b6a186e759c509918f6131f7f" level="file">
+        <did>
+          <unittitle><emph render="italic">Chinese People's Institute of Foreign Affairs Journal</emph> : Chinese People's Institute of Foreign Affairs, Beijing, China</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_7c0eb0c18130f038116f716bfac62dba" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_bccad93b013837c29a06674ea79be8f1" parent="aspace_7c0eb0c18130f038116f716bfac62dba" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_62fb5020ea11dcaa44e4b50ed3d85ce8" level="file">
+        <did>
+          <unittitle><emph render="italic">CICC Currents</emph> : Chinese Information and Culture Center, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4195142ea8cfeec7898de31d386e8a85" label="Mixed Materials [31142063008166]" type="Box">2</container>
+          <container id="aspace_75593e7ed2c4e2d1b80cd1e2e20d776b" parent="aspace_4195142ea8cfeec7898de31d386e8a85" type="Folder">1-10</container>
+        </did>
+      </c>
+      <c id="aspace_ee8842cf3c0bcaf0d3d1fee824bd0212" level="file">
+        <did>
+          <unittitle><emph render="italic">City Magazine</emph> : The Tabloid Coop, Wanchai, Hong Kong</unittitle>
+          <unitdate datechar="creation" normal="1978/1979" type="inclusive">1978-1979</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_e9262bfdad02ee0b3efa540796891de8" label="Mixed Materials [31142063008174]" type="Box">3</container>
+          <container id="aspace_a1e7943a71c1833ecbe4e4f695601635" parent="aspace_e9262bfdad02ee0b3efa540796891de8" type="Folder">2-6</container>
+        </did>
+      </c>
+      <c id="aspace_ef49cfce6880c6a8fa59f9406e00fa70" level="file">
+        <did>
+          <unittitle><emph render="italic">Committee Bridges</emph> : Committee of 100, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_c335660fa79f5e4ac9dfadefa0b4486e" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_a593bb2e247a7849027b09f64823cfc4" parent="aspace_c335660fa79f5e4ac9dfadefa0b4486e" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_b3538ef3a5d4593a10d63b458f474bf5" level="file">
+        <did>
+          <unittitle><emph render="italic">Contas do Exercicio e da Gerencia de 1944 da Reparticao Tecnica das Obras Publicas</emph> : Imprensa Nacional de Macau, Macau</unittitle>
+          <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bb085e30a00f128bb26553179cc6f77f" label="Mixed Materials [31142063008166]" type="Box">2</container>
+          <container id="aspace_969ea8bff4be8c7de476b413a4dba7e5" parent="aspace_bb085e30a00f128bb26553179cc6f77f" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_f658ab3e40294104103c60e31d6194a4" level="file">
+        <did>
+          <unittitle><emph render="italic">Correspondence</emph> : Kilusang Mayo Uno International Department, Manila, Philippines</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_372a8bd6d4e1f6eb83bb7254b0c5972c" label="Mixed Materials [31142063008158]" type="Box">1</container>
+          <container id="aspace_0922d50eaf98458dbeaa1377030ddeeb" parent="aspace_372a8bd6d4e1f6eb83bb7254b0c5972c" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_9addea0e2b7976b5e782cde5dded30c4" level="file">
+        <did>
+          <unittitle><emph render="italic">Currents</emph> : Chinese Information and Culture Center - Taipei Economic and Cultural Office in New York, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1997/2000" type="inclusive">1997-2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_18ba1c866cbaf73c7c31b4828d03bd07" label="Mixed Materials [31142063008166]" type="Box">2</container>
+          <container id="aspace_9a1d8fd508ad607a1ed883cc6f760433" parent="aspace_18ba1c866cbaf73c7c31b4828d03bd07" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_648f03704fe80290ca811f7d17c2755a" level="file">
+        <did>
+          <unittitle><emph render="italic">Da Cheng</emph> : Da Cheng Za Zhi She, Honk Kong</unittitle>
+          <unitdate datechar="creation" normal="1973/1973">1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_88e1954a9d661cc3cd4d7ebafe873ab3" label="Mixed Materials [31142062673911]" type="Box">Shared Tamiment 062</container>
+          <container id="aspace_107c71d44461d5ba61a9830df274563c" parent="aspace_88e1954a9d661cc3cd4d7ebafe873ab3" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_fefcdb810b95927f46769c849f26251b" level="file">
+        <did>
+          <unittitle><emph render="italic">Debate: The Philippine Left Review</emph> : Debate, Amsterdam, Netherlands</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_b78db6c12a2aabe241b8f99eb27f346a" label="Mixed Materials [31142063008174]" type="Box">3</container>
+          <container id="aspace_19d5b7282ee8cbb3f6c345acc61472a1" parent="aspace_b78db6c12a2aabe241b8f99eb27f346a" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_002a49f4b9409221d0302c47a6719d5b" level="file">
+        <did>
+          <unittitle><emph render="italic">DiverseCity</emph> : Humanist Center of Cultures, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_68c3f095122d9c0806a230db25ff4d19" label="Mixed Materials [31142063008299]" type="Box">15</container>
+          <container id="aspace_59143253251273b46ac16fe58c44238d" parent="aspace_68c3f095122d9c0806a230db25ff4d19" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_b0383d9ae3574eda1c48ffc503e35df7" level="file">
+        <did>
+          <unittitle><emph render="italic">E. Timor Update</emph> : East Timor Human Rights Committee, Syracuse, NY</unittitle>
+          <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_9b73805d01fd42386ae28220cb2c91bd" label="Mixed Materials [31142063008174]" type="Box">3</container>
+          <container id="aspace_1d68408f9aa4ce221edff09fb2c1cd99" parent="aspace_9b73805d01fd42386ae28220cb2c91bd" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_d38c32d4707454a77b76289e94d4b9b7" level="file">
+        <did>
+          <unittitle><emph render="italic">East West</emph> : East/West Chinese-American Journal, Inc., San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1985/1990" type="inclusive">1985-1990</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_bbc4f744ce0cd191ea94648b90aa7ac5" label="Mixed Materials [31142063008299]" type="Box">15</container>
+          <container id="aspace_a0bf40f20655dbbedca4d167799acd39" parent="aspace_bbc4f744ce0cd191ea94648b90aa7ac5" type="Folder">7-9</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_05c5d5bc3b665eec5f40859296289434" label="Mixed Materials [31142063008307]" type="Box">16</container>
+          <container id="aspace_d4a57aa9f5101f389b9ff48469021994" parent="aspace_05c5d5bc3b665eec5f40859296289434" type="Folder">1-8</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_709d0856db613118190ae085ab0a5517" label="Mixed Materials [31142063008315]" type="Box">17</container>
+          <container id="aspace_72d02d4ef2b6829ab73e588efe639c07" parent="aspace_709d0856db613118190ae085ab0a5517" type="Folder">1-7</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_05047ebc43a8b57ce1fb29556a3ab4c4" label="Mixed Materials [31142063008323]" type="Box">18</container>
+          <container id="aspace_ea710c000761b9fa1131443f0eeab937" parent="aspace_05047ebc43a8b57ce1fb29556a3ab4c4" type="Folder">1-7</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_f4cb54992c2afa6305e784a4d058a5f7" label="Mixed Materials [31142063008331]" type="Box">19</container>
+          <container id="aspace_e7e47e48b2c3bc2a89619799974fca78" parent="aspace_f4cb54992c2afa6305e784a4d058a5f7" type="Folder">1-7</container>
+        </did>
+      </c>
+      <c id="aspace_9f3e9aed6a1daef8a57c82370fc9666b" level="file">
+        <did>
+          <unittitle><emph render="italic">East West</emph> : East/West Publishing Co., San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1970/1974" type="inclusive">1970-1974</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_ae56e97b46a4b61545b44b038bdb6ef8" label="Mixed Materials [31142063008299]" type="Box">15</container>
+          <container id="aspace_fa129440f9352bb725fd403c4505171a" parent="aspace_ae56e97b46a4b61545b44b038bdb6ef8" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_06ab3819b8df3ef7a42d3ad15b1cc8c9" level="file">
+        <did>
+          <unittitle><emph render="italic">Eastern Horizon</emph> : Eastern Horizon Press, Hong Kong, China</unittitle>
+          <unitdate datechar="creation" normal="1972/1975" type="inclusive">1972-1975</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_1d7e0e80eec0637bed09623a1a1ee5c0" label="Mixed Materials [31142063008182]" type="Box">4</container>
+          <container id="aspace_3e0c0673afeb8117b39a09ae3044dd80" parent="aspace_1d7e0e80eec0637bed09623a1a1ee5c0" type="Folder">1-7</container>
+        </did>
+      </c>
+      <c id="aspace_99df891489dafbda38fd631e0703e597" level="file">
+        <did>
+          <unittitle><emph render="italic">Echoes From Tiananmen</emph> : Friends of Chinese Minzhu, Kowloon, Hong Kong</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_3bb1030f318d47bf250ce796165ee267" label="Mixed Materials [31142063008174]" type="Box">3</container>
+          <container id="aspace_492f8d72b07f9e10734c48250c295a92" parent="aspace_3bb1030f318d47bf250ce796165ee267" type="Folder">10-11</container>
+        </did>
+      </c>
+      <c id="aspace_9fd30db13483a35553c0fc3af07a671b" level="file">
+        <did>
+          <unittitle><emph render="italic">Eurasiam Bilingual Monthly Magazine</emph> : Eurasiam Magazine Co., Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_ff1c45e2152568e3d2559e23c9d3fe43" label="Mixed Materials [31142063008349]" type="Box">20</container>
+          <container id="aspace_9ed26eafa0f2a65460dd0edddd8374ce" parent="aspace_ff1c45e2152568e3d2559e23c9d3fe43" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_61c37f416c0114df6ade510c1f93d45e" level="file">
+        <did>
+          <unittitle>
+            <emph render="italic">Handbook of Japanese Financial/Industrial Combines</emph>
+          </unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_0db24a08fa345764f8e0c29962ef7253" label="Mixed Materials [31142063008174]" type="Box">3</container>
+          <container id="aspace_587e770c93f37e15516ba53bb6c6c444" parent="aspace_0db24a08fa345764f8e0c29962ef7253" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_b96aa8cf602183e5c143752d2ce2293a" level="file">
+        <did>
+          <unittitle><emph render="italic">Image</emph> : Organization of Chinese Americans, Inc., Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1979/1992" type="inclusive">1979-1992</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_87399b9d5eda7a65c4c1f980cd2dd523" label="Mixed Materials [31142063008182]" type="Box">4</container>
+          <container id="aspace_09970ab4259d17cd967aaa4966a1c472" parent="aspace_87399b9d5eda7a65c4c1f980cd2dd523" type="Folder">8</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_554ab94536553b7c40ce78d468d072af" label="Mixed Materials [31142063008349]" type="Box">20</container>
+          <container id="aspace_db7b96ee65c465aecd4d385dbf1c4355" parent="aspace_554ab94536553b7c40ce78d468d072af" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_75bbe438c35c71f4f3bddf730917102f" level="file">
+        <did>
+          <unittitle><emph render="italic">Indian-American</emph> : SRIR Communications, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_dd211114e82fd39bcf73e9676b77e343" label="Mixed Materials [31142063008398]" type="Box">5</container>
+          <container id="aspace_021d33ce98be30fddd51d269cf7e61bd" parent="aspace_dd211114e82fd39bcf73e9676b77e343" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_488f519936b340e3a0282d4fa45a8703" level="file">
+        <did>
+          <unittitle><emph render="italic">Indusco Bulletin</emph> : Indusco, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1944/1951" type="inclusive">1944-1951</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_34bb74be229bf612a31288fb5b00df3f" label="Mixed Materials [31142063008398]" type="Box">5</container>
+          <container id="aspace_3dcdf89d91969800fb4fbf9b1f563852" parent="aspace_34bb74be229bf612a31288fb5b00df3f" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_cd41c657fe257505f628e878910167bf" level="file">
+        <did>
+          <unittitle><emph render="italic">Indusco Inc.: Balie Schools</emph> : Indusco, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_5490f21e1ea7b402a015f452b973055e" label="Mixed Materials [31142063008398]" type="Box">5</container>
+          <container id="aspace_a5ad9d0b0ae1f98c95fbe56e8e590359" parent="aspace_5490f21e1ea7b402a015f452b973055e" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_93659060440ffd772bfa0a93947d3700" level="file">
+        <did>
+          <unittitle><emph render="italic">Inquiry Magazine</emph> : East Timor Research Project, Ithaca, NY</unittitle>
+          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_97746b38d9e3d092b70d467ea3291c25" label="Mixed Materials [31142063008398]" type="Box">5</container>
+          <container id="aspace_abf5329512dafc282b961cb650311f5f" parent="aspace_97746b38d9e3d092b70d467ea3291c25" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ae986c1c2aeaa46c70c114140368bb45" level="file">
+        <did>
+          <unittitle><emph render="italic">Issues &amp; Studies</emph> : Institute of International Relations, Taipei, Taiwan</unittitle>
+          <unitdate datechar="creation" normal="1981/1989" type="inclusive">1981-1989</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_9dcba09dadf5ce407eab045cde050b8d" label="Mixed Materials [31142063008398]" type="Box">5</container>
+          <container id="aspace_903a20aee0687f1d211649daef15fd1e" parent="aspace_9dcba09dadf5ce407eab045cde050b8d" type="Folder">5-9</container>
+          <container altrender="Manuscript box - Letter" id="aspace_7cdb4b0e15f3e87e5005056362c9b9c0" label="Mixed Materials [31142063008208]" type="Box">6</container>
+          <container id="aspace_0e7d18907b7ea5f58d2a31e932cdfbe4" parent="aspace_7cdb4b0e15f3e87e5005056362c9b9c0" type="Folder">1-7</container>
+          <container altrender="Manuscript box - Letter" id="aspace_efefe35dc3cd62c6f67700ee7e39234d" label="Mixed Materials [31142063008216]" type="Box">7</container>
+          <container id="aspace_11ac1c1e994d88850628a90a45cd07c3" parent="aspace_efefe35dc3cd62c6f67700ee7e39234d" type="Folder">1-7</container>
+          <container altrender="Manuscript box - Letter" id="aspace_3166d5f6716bc806366ac030c07f12dd" label="Mixed Materials [31142063008224]" type="Box">8</container>
+          <container id="aspace_18b12470e473224c3258e65376fe874b" parent="aspace_3166d5f6716bc806366ac030c07f12dd" type="Folder">1-6</container>
+          <container altrender="Manuscript box - Letter" id="aspace_02d220f2b60e3dac12bed902965e290f" label="Mixed Materials [31142063008232]" type="Box">9</container>
+          <container id="aspace_419c1ad5293f21d6fb97979b1165380e" parent="aspace_02d220f2b60e3dac12bed902965e290f" type="Folder">1-6</container>
+          <container altrender="Manuscript box - Letter" id="aspace_56f268947a6e04ef7c91d429093d551c" label="Mixed Materials [31142063008240]" type="Box">10</container>
+          <container id="aspace_f7a5bc5de5435bb150617f75fa86f20d" parent="aspace_56f268947a6e04ef7c91d429093d551c" type="Folder">1-5</container>
+        </did>
+      </c>
+      <c id="aspace_968b8788f0537bb3b2a32ca734069a0e" level="file">
+        <did>
+          <unittitle><emph render="italic">Japan Times Weekly</emph> : The Japan Times, Tokyo, Japan</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_d8ade32e8c7ae27e6ff005db4ee2a5c4" label="Mixed Materials [31142063008349]" type="Box">20</container>
+          <container id="aspace_3f922627001d080cbc3549538dac9555" parent="aspace_d8ade32e8c7ae27e6ff005db4ee2a5c4" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_d8b3bafc4a93e4707a1980552ba82650" level="file">
+        <did>
+          <unittitle><emph render="italic">Kalayaan International</emph> : Kalayaan International, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1971/1973" type="inclusive">1971-1973</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_d8bc33450b26ff399633fe67cebd06be" label="Mixed Materials [31142063008349]" type="Box">20</container>
+          <container id="aspace_4edde5a66c63031fc9e5ac68ae2d1f43" parent="aspace_d8bc33450b26ff399633fe67cebd06be" type="Folder">4-8</container>
+        </did>
+      </c>
+      <c id="aspace_8d4445b198e8bb6eb9baff9d0e93f256" level="file">
+        <did>
+          <unittitle><emph render="italic">Katipunan</emph> : Katipunan Publications, Oakland, CA</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_f1e07654d15ffeb50bd38aeb3386f8a8" label="Mixed Materials [31142063008356]" type="Box">21</container>
+          <container id="aspace_32de0c71658a1279251285c7c625bca2" parent="aspace_f1e07654d15ffeb50bd38aeb3386f8a8" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_be195379fce1dd38b46970e7fd7106db" level="file">
+        <did>
+          <unittitle><emph render="italic">Korea</emph> : Committee for Solidarity with the Korean People, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_ca838f8f78d77863a39cd7c3bad51741" label="Mixed Materials [31142063008356]" type="Box">21</container>
+          <container id="aspace_2ed6a71852dfe436d40524169d9c5936" parent="aspace_ca838f8f78d77863a39cd7c3bad51741" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_0a81ae141e4b3ac9b81998f305aae940" level="file">
+        <did>
+          <unittitle><emph render="italic">Korea Information Bulletin</emph> : Foreign Languages Publishing House, Democratic People's Republic of Korea</unittitle>
+          <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_4b0c45b7984af9389a01a378c1128352" label="Mixed Materials [31142063008240]" type="Box">10</container>
+          <container id="aspace_c8fe0ed8b2b8dc928b12f67c849abba7" parent="aspace_4b0c45b7984af9389a01a378c1128352" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_13dcff33f1b603cdc6be112cab922b05" level="file">
+        <did>
+          <unittitle><emph render="italic">Korea Labour</emph> : Korea Research and Information Center, Seoul, South Korea</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_5d6265ab38eb1303850dfa56d1e0a950" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_71ac240f6820b967621ca92d917d59db" parent="aspace_5d6265ab38eb1303850dfa56d1e0a950" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_1b7babc4f04b8da2f6818d5a0fddd951" level="file">
+        <did>
+          <unittitle><emph render="italic">Korea Today</emph> : Foreign Languages Publishing House, Pyongyang, Democratic People's Republic of Korea</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_fd19bb7fed49ea42dc992c09b498c1f6" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_80552b3f1b93c0371d1f92b298b62cf8" parent="aspace_fd19bb7fed49ea42dc992c09b498c1f6" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_0b248e859463e405997252ff2f2e9b58" level="file">
+        <did>
+          <unittitle><emph render="italic">Korea Update</emph> : Korea Coalition, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1990/1991" type="inclusive">1990-1991</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_1ce3aa810abd15ab527124aca96fde25" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_175de3940009142449a3f55f99dde3ac" parent="aspace_1ce3aa810abd15ab527124aca96fde25" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_591c56ea849b65b50ffaebba41faee47" level="file">
+        <did>
+          <unittitle><emph render="italic">Korea: Or the Third World War</emph> : Contemporary Press, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1940/1999" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_4f3473154c3fa4f20676f3bc05528f9d" label="Mixed Materials [31142063008406]" type="Box">13</container>
+          <container id="aspace_38295e654c9ef8051d4c1e449d7e1bc1" parent="aspace_4f3473154c3fa4f20676f3bc05528f9d" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_7b6b8c1ba9ff4939aa0bf30558177f8f" level="file">
+        <did>
+          <unittitle><emph render="italic">Korean Affairs</emph> : General Association of Korean Residents in Japan, Pyongyang, Democratic People's Republic of Korea</unittitle>
+          <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_a3c6ebb7d45da9499d322378287be7e2" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_46a8731c4664271fee059d1397239414" parent="aspace_a3c6ebb7d45da9499d322378287be7e2" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_d9426207ce0bb536a21998e081f513e2" level="file">
+        <did>
+          <unittitle><emph render="italic">Kuguk Chonson : The National Salvation Front</emph> : The Mission of the National Democratic Front of South Korean in Japan, Tokyo, Japan</unittitle>
+          <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_99c657122f003d838ee7357bb997c69f" label="Mixed Materials [31142063008356]" type="Box">21</container>
+          <container id="aspace_7b210c202859ec3feca56a7b829904dc" parent="aspace_99c657122f003d838ee7357bb997c69f" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_388a69a4c76d2cd8ba5828eeceed032f" level="file">
+        <did>
+          <unittitle><emph render="italic">Letters from China</emph> : Letters from China, Peking, China</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_ebd59754f298dfb1cab771bf727a5401" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_62ea55acfd3349f319f194d80bfa5878" parent="aspace_ebd59754f298dfb1cab771bf727a5401" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_095eead4f57a3c3d094ae06f347d1be9" level="file">
+        <did>
+          <unittitle><emph render="italic">Lettre de Chine</emph> : Lettre de Chine, Peking, China</unittitle>
+          <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_9090cdad6dcd7a8a3762df27954181d2" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_b032588274633c2c570540a552cd1add" parent="aspace_9090cdad6dcd7a8a3762df27954181d2" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_e38ae089f6149032757bc3aba3b9c534" level="file">
+        <did>
+          <unittitle><emph render="italic">Libero International</emph> : Libero International Editorial Collective, Osaka, Japan</unittitle>
+          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_51be5ed7d1034b4f7f76db3e3e3e8c96" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_54989103e12f2dc8028a3078ab84f26d" parent="aspace_51be5ed7d1034b4f7f76db3e3e3e8c96" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_9c3f2827cc4611b192f4e109cd336c1b" level="file">
+        <did>
+          <unittitle><emph render="italic">Movement</emph> : Asian Students Association, Kowloon, Hong Kong</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_f465b9077a264078ef0e6685542a25f0" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_fb62d681076acb7b5ca31ffa351f2d3d" parent="aspace_f465b9077a264078ef0e6685542a25f0" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_974bf43271abef8ca11865cf2848344e" level="file">
+        <did>
+          <unittitle><emph render="italic">Nan Bei Ji</emph> : Long Men Wen Hua Shi Ye You Xian Gong Si, Juilong, China</unittitle>
+          <unitdate datechar="creation" normal="1971/1971">1971</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_512acbbf740698234517633d906ec1c9" label="Mixed Materials [31142062673911]" type="Box">Shared Tamiment 062</container>
+          <container id="aspace_c8953fb7566943f888b61c6effd8cad7" parent="aspace_512acbbf740698234517633d906ec1c9" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_75421d79a2538327a8205fd8efcb7fc1" level="file">
+        <did>
+          <unittitle><emph render="italic">New Asian Standard</emph> : The New Asian Standard, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_05f18333ce105d03e427dd7189d531b9" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_52596b7551014bb7e4a0cceccb85b39f" parent="aspace_05f18333ce105d03e427dd7189d531b9" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_8f9cac154a539369795671ad55248f95" level="file">
+        <did>
+          <unittitle><emph render="italic">New Asian Times</emph> : The New Asian Times Co., Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_db17538cc06145dfce73c964b1322aff" label="Mixed Materials [31142063008356]" type="Box">21</container>
+          <container id="aspace_8e235a22f0ce215b18f0b4506289afe9" parent="aspace_db17538cc06145dfce73c964b1322aff" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_c10b5be1a499ef6a5b008e8c098e1c2c" level="file">
+        <did>
+          <unittitle><emph render="italic">New Dawn</emph> : J-Town Collective, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1973/1975" type="inclusive">1973-1975</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_a40b212f8aabeff042acfb7d5267a7bd" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_818a00405710f8f991c5d38bf35f968a" parent="aspace_a40b212f8aabeff042acfb7d5267a7bd" type="Folder">10</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_e7f7fef9b3818f4ae7880b160dd07388" label="Mixed Materials [31142063008356]" type="Box">21</container>
+          <container id="aspace_1515e7d602d3d7afd3ed82fc550b13fb" parent="aspace_e7f7fef9b3818f4ae7880b160dd07388" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_c4443a3994b64e1954819585f05d9e11" level="file">
+        <did>
+          <unittitle><emph render="italic">New Hopes and New Challenges of the 90s</emph> : Asian Americans For Equality, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_2ea361cbe48d67cb45128615ea0fcdc9" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_0cd336debe7ca4bbd37bfd6da21a21a5" parent="aspace_2ea361cbe48d67cb45128615ea0fcdc9" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_2b52ab1ba977ea86f9ee9eb8e7bbcd89" level="file">
+        <did>
+          <unittitle><emph render="italic">New India Bulletin</emph> : Indian People's Association in North America, Montreal, Quebec</unittitle>
+          <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_bed16736858b7eb9f3dd49b95c9c3649" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_22b1c24202028062e2506d1bd93f05a9" parent="aspace_bed16736858b7eb9f3dd49b95c9c3649" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_594f21bc32a4c1bda133abb6758ddc3d" level="file">
+        <did>
+          <unittitle><emph render="italic">New Korea</emph> : Librairie "Min Chu", Canton, China</unittitle>
+          <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_6e323317e6e56836f48f1af13dd1f610" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_7a8b3ae1cb2dad3a140d945d34f699d6" parent="aspace_6e323317e6e56836f48f1af13dd1f610" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_4d0c10c42be9ebbbc62758a59a4f2c55" level="file">
+        <did>
+          <unittitle><emph render="italic">New York Nichibei</emph> : Japanese American News Corp., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_0df4d96bec418d6967c36f9b38417a98" label="Mixed Materials [31142063008356]" type="Box">21</container>
+          <container id="aspace_6eb11a4d19a39f0b78f186038de4a170" parent="aspace_0df4d96bec418d6967c36f9b38417a98" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_7550f001f2e3cebd58cebb52025c8026" level="file">
+        <did>
+          <unittitle><emph render="italic">News - OCA New York Chapter</emph> : Organization of Chinese Americans, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f420087c0bfffbc3e2c39dd1f15b2aa1" label="Mixed Materials [31142063008265]" type="Box">12</container>
+          <container id="aspace_222efb2b15a540263e05e1329b6266fa" parent="aspace_f420087c0bfffbc3e2c39dd1f15b2aa1" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_54fb1962073b1e9c87f533b01a215071" level="file">
+        <did>
+          <unittitle><emph render="italic">News China</emph> : China Newsweek Corporation, Beijing, China</unittitle>
+          <unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_d2b734b3cf3e1eac5e42e3a574a6b806" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_24792ce3aec59948d00027a2ff213d02" parent="aspace_d2b734b3cf3e1eac5e42e3a574a6b806" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_98d4d7fbd611020426d799d9e5f997d0" level="file">
+        <did>
+          <unittitle><emph render="italic">News from Asia Watch</emph> : Asia Watch, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_846c8caf5e16d8b86abae1b320380c35" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_4718eef34e1d690592f3b124b46f626b" parent="aspace_846c8caf5e16d8b86abae1b320380c35" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_8418f049b68996609376c3aebeb661d6" level="file">
+        <did>
+          <unittitle><emph render="italic">News From Japanese Press</emph> : PTTI Tokyo Office, Tokyo, Japan</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_162559157233d70d43944ae6deefc6b5" label="Mixed Materials [31142063008356]" type="Box">21</container>
+          <container id="aspace_50fd8f20a4a36017e225b8e4d3392afa" parent="aspace_162559157233d70d43944ae6deefc6b5" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_bdb0ad63667c1527df8edecd69aca3bf" level="file">
+        <did>
+          <unittitle><emph render="italic">News Letter</emph> : Japanese American Committee for Democracy, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_64f792fdba8f74264f4155e0365ad445" label="Mixed Materials [31142063008356]" type="Box">21</container>
+          <container id="aspace_5d4b7890abc9655cb54aa4d486b63d8c" parent="aspace_64f792fdba8f74264f4155e0365ad445" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_cd470c8abb5e12b63bc01ff3f597e31f" level="file">
+        <did>
+          <unittitle><emph render="italic">Newsletter</emph> : Asian American Legal Defense and Education Fund (AALDEF, Inc.), Oakland, CA</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_bd10b93886e00b71d1c799c37acc555c" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_47bfee62cb236ad7f1ccad5134edbc90" parent="aspace_bd10b93886e00b71d1c799c37acc555c" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_0828ecf53c1531e2c7f473d655db53b3" level="file">
+        <did>
+          <unittitle><emph render="italic">Newsletter</emph> : Association for Asian American Studies, unkown</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_d68513cc67d60b2c3011c5214e479399" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_869873540b51b61a1d13ec5244302239" parent="aspace_d68513cc67d60b2c3011c5214e479399" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_7003accd6412cb7520d001e481d225aa" level="file">
+        <did>
+          <unittitle><emph render="italic">Newsletter</emph> : Embassy of the People's Republic of China, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_4e4c873950d2ce716a4d496a71a67f2d" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_1a7d79d6493d4295bc541cb07cfc9183" parent="aspace_4e4c873950d2ce716a4d496a71a67f2d" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_f1769ac38e7596539e798adc1171b196" level="file">
+        <did>
+          <unittitle><emph render="italic">Newsletter</emph> : Movement for a Free Philippines, Briarwood, NY</unittitle>
+          <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_1ac34be1545ef94e702aa959f436b5c6" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_dcd40b558e8c87c614b8e5cbe72af982" parent="aspace_1ac34be1545ef94e702aa959f436b5c6" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_500b1f228e220e3d0e57fa906146a588" level="file">
+        <did>
+          <unittitle><emph render="italic">Nexus</emph> : China BRIDGE Magazine Co., Beijing, China</unittitle>
+          <unitdate datechar="creation" normal="1989/1990" type="inclusive">1989-1990</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_e98bb1c191088e7255d1d8df90218ca2" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_dc5535e56feb616528f7149eb7f61c71" parent="aspace_e98bb1c191088e7255d1d8df90218ca2" type="Folder">20-21</container>
+        </did>
+      </c>
+      <c id="aspace_73ab9c2904a116329a70064d48ed00a4" level="file">
+        <did>
+          <unittitle><emph render="italic">Ningas</emph> : Ningas Corporation, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_bbd1156677af83106e2dc29c7c1c940b" label="Mixed Materials [31142063008257]" type="Box">11</container>
+          <container id="aspace_0f6a4abd22a3e5724d13f188fa8b5632" parent="aspace_bbd1156677af83106e2dc29c7c1c940b" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_5826885c0d5aa6ef4d576862954577fa" level="file">
+        <did>
+          <unittitle><emph render="italic">October Review</emph> : October Review, Kowloon, Hong Kong</unittitle>
+          <unitdate datechar="creation" normal="1984/1990" type="inclusive">1984-1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ea0516e9f3fa1deb9683515d076f98de" label="Mixed Materials [31142063008265]" type="Box">12</container>
+          <container id="aspace_8b652981f5d97a0212252058eff36ffb" parent="aspace_ea0516e9f3fa1deb9683515d076f98de" type="Folder">2</container>
+          <container altrender="Manuscript box - Legal" id="aspace_85844c3bdfd0f3f354c9007852483489" label="Mixed Materials [31142062673911]" type="Box">Shared Tamiment 062</container>
+          <container id="aspace_1792b2fe4992653d191a04aaad2aa898" parent="aspace_85844c3bdfd0f3f354c9007852483489" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_b8fad71b87d253e4079ce911c05a5c39" level="file">
+        <did>
+          <unittitle><emph render="italic">Orcamento Ordinario da Receita e Despesa: Da Provedoria da Assistencia Publica de Macau para o Ano Economico de 1963</emph> : Imprensa Nacional de Macau, Macau</unittitle>
+          <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_24349af888329003fbc3616203b73340" label="Mixed Materials [31142063008265]" type="Box">12</container>
+          <container id="aspace_4e8c04c7d66bd0ca649e6fac975d4554" parent="aspace_24349af888329003fbc3616203b73340" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_81b9b478b052595ea679839928bf1833" level="file">
+        <did>
+          <unittitle><emph render="italic">Outlook</emph> : Asian American Legal Defense and Education Fund, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1989/1992" type="inclusive">1989-1992</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e0057c1ea836fe5881fb1602804f1123" label="Mixed Materials [31142063008265]" type="Box">12</container>
+          <container id="aspace_3b9ac5178e2616c36be00375f3d8858b" parent="aspace_e0057c1ea836fe5881fb1602804f1123" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_bd96e9d03586608858be12672b501105" level="file">
+        <did>
+          <unittitle><emph render="italic">Overseas Times</emph> : Overseas Times Corp., Jersey City, NJ</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_b09d655dc8938b43090237fda577fa8a" label="Mixed Materials [31142063008356]" type="Box">21</container>
+          <container id="aspace_85c10710ed23e1bd29ce1ad12a2e13c6" parent="aspace_b09d655dc8938b43090237fda577fa8a" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_38ea1cb6f80f1b0ab1bb06c750e92b6e" level="file">
+        <did>
+          <unittitle><emph render="italic">Pacific Citizen</emph> : Japanese American Citizens League, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_1abf74d45e59df8a89a2b756fb8f1a5d" label="Mixed Materials [31142063008356]" type="Box">21</container>
+          <container id="aspace_01c2a63db7ee9c8323576256e79ca621" parent="aspace_1abf74d45e59df8a89a2b756fb8f1a5d" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_66addbe62631c81db833bfda0908383e" level="file">
+        <did>
+          <unittitle><emph render="italic">Pacific Imperialism Notebook</emph> : Pacific Rim Project, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1972/1973" type="inclusive">1972-1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ca2678552cde75a4081dcbd6c083169d" label="Mixed Materials [31142063008265]" type="Box">12</container>
+          <container id="aspace_3d0ead6ec806f51d793c6006c2814386" parent="aspace_ca2678552cde75a4081dcbd6c083169d" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_8e4b4a188d8848de295ec6e47a23ec01" level="file">
+        <did>
+          <unittitle><emph render="italic">Pacific: Revue des Asiatiques</emph> : Pacific, Paris, France</unittitle>
+          <unitdate datechar="creation" normal="1954/1956" type="inclusive">1954-1956</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f4024656e57fee874a0be79824b1488e" label="Mixed Materials [31142063008265]" type="Box">12</container>
+          <container id="aspace_5429a450378ba90ec66e016e31430373" parent="aspace_f4024656e57fee874a0be79824b1488e" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_b34a8813da9e39fea5c1da80ff7c7336" level="file">
+        <did>
+          <unittitle><emph render="italic">PAG-ASA Newsletter</emph> : Philippine American Group-Advocates for Social Action, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d9c1fd3e0a241df2647d4d7df52c4050" label="Mixed Materials [31142063008265]" type="Box">12</container>
+          <container id="aspace_fe817383fcef9ab551381dd51a4e9076" parent="aspace_d9c1fd3e0a241df2647d4d7df52c4050" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_0a6c7f20fdd889c52c7d517edf54b800" level="file">
+        <did>
+          <unittitle><emph render="italic">People's War</emph> : The People's War, London, UK</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_6b6743ab7cbdebaebe437b9c102db63b" label="Mixed Materials [31142063008356]" type="Box">21</container>
+          <container id="aspace_4724bb1390ed3e068dd5c62470227dda" parent="aspace_6b6743ab7cbdebaebe437b9c102db63b" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_d780aa894eba96ddc0994cc2ee44a4b4" level="file">
+        <did>
+          <unittitle><emph render="italic">Philippines Mail</emph> : Filipino-American Media of California, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_cf1be2ee52e95d6a482079d474c1d95b" label="Mixed Materials [31142063008356]" type="Box">21</container>
+          <container id="aspace_229ed673e9b10aa35d529c8f5003a6b7" parent="aspace_cf1be2ee52e95d6a482079d474c1d95b" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_2ef2cf933a4d641dd3ca9ee5f79003a9" level="file">
+        <did>
+          <unittitle><emph render="italic">Qi Shi Nian Dai = The Seventies</emph> : Qi Shi Nian Dai Za Zhi She, Hong Kong</unittitle>
+          <unitdate datechar="creation" normal="1977/1977">1977</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_df20f1732c7a99e2fceaca4fc16a680a" label="Mixed Materials [31142062673911]" type="Box">Shared Tamiment 062</container>
+          <container id="aspace_ad3a3385ee9416cfc67379f5c1044b65" parent="aspace_df20f1732c7a99e2fceaca4fc16a680a" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_8c7eaaa7b046997cdba6bd0762666178" level="file">
+        <did>
+          <unittitle><emph render="italic">Quan Cha Jia (The Observers Monthly)</emph> : Quan Cha Jia Chu Ban She, Hong Kong</unittitle>
+          <unitdate datechar="creation" normal="1977/1979" type="inclusive">circa 1978</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_68f234653206b7ceb7a1a42cbadefe8a" label="Mixed Materials [31142062673911]" type="Box">Shared Tamiment 062</container>
+          <container id="aspace_ca207192a758094521d85a3956c25668" parent="aspace_68f234653206b7ceb7a1a42cbadefe8a" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_4a4c87631db5212132ecff82862b0f09" level="file">
+        <did>
+          <unittitle><emph render="italic">Regulamento do Imposto do Selo </emph> : Imprensa Nacional de Macau, Macau</unittitle>
+          <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c47023f7ae588096580f033ae7c56ba7" label="Mixed Materials [31142063008265]" type="Box">12</container>
+          <container id="aspace_c070c5d2795cd724738423e26b2c0cfa" parent="aspace_c47023f7ae588096580f033ae7c56ba7" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_8e7204defe4f46b1cf533d79b01510a0" level="file">
+        <did>
+          <unittitle><emph render="italic">Remodelacao dos Vencimentos dos Funcionarios Civis e Militares da Colonia de Macau</emph> : Imprensa Nacional de Macau, Macau</unittitle>
+          <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8f55918e99e151f35475366cea0b7bd1" label="Mixed Materials [31142063008265]" type="Box">12</container>
+          <container id="aspace_95a21ffcfb37b66749c5e0bd3b62b173" parent="aspace_8f55918e99e151f35475366cea0b7bd1" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_d3e96e538af3339313e6de9335133770" level="file">
+        <did>
+          <unittitle><emph render="italic">RICE</emph> : Rice Magazine Enterprises, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a508248916d7864c04e29f4c2a1c1fa5" label="Mixed Materials [31142063008265]" type="Box">12</container>
+          <container id="aspace_51f1af7eebc68a7d0499a84c9141c52d" parent="aspace_a508248916d7864c04e29f4c2a1c1fa5" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_f8115da4d7f84fe8c6950a6555e7860c" level="file">
+        <did>
+          <unittitle><emph render="italic">Rodan</emph> : Northern California Asian American Community, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_07452e07e5938e0a2d98f6d8f4fbf166" label="Mixed Materials [31142063008356]" type="Box">21</container>
+          <container id="aspace_1d63789b4e17779367dd2e69233415e7" parent="aspace_07452e07e5938e0a2d98f6d8f4fbf166" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_6b20ef88850ed961123c42352ef26e74" level="file">
+        <did>
+          <unittitle><emph render="italic">Rungh</emph> : Rungh Cultural Society, Vancouver, BC</unittitle>
+          <unitdate datechar="creation" normal="1940/1999" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a02ecf757311c7112021c1b5bb24931a" label="Mixed Materials [31142063008265]" type="Box">12</container>
+          <container id="aspace_8e6ee0a0c1c033af8774dd8b7c091fdc" parent="aspace_a02ecf757311c7112021c1b5bb24931a" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ac1a77c1782ddb528dd84af6da807b4a" level="file">
+        <did>
+          <unittitle><emph render="italic">SAMAR </emph> : SAMAR, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1994/2001" type="inclusive">1994-2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_eda0b5dee15635217273a0e18054e33b" label="Mixed Materials [31142063008265]" type="Box">12</container>
+          <container id="aspace_bf968b3abfac6d7baa1c576c694b2e13" parent="aspace_eda0b5dee15635217273a0e18054e33b" type="Folder">13-14</container>
+          <container altrender="Manuscript box - Letter" id="aspace_06d989c98ff6770ef4f0c71fdb54f58f" label="Mixed Materials [31142063008406]" type="Box">13</container>
+          <container id="aspace_ef54ed5c1f269e36456b634d6347635b" parent="aspace_06d989c98ff6770ef4f0c71fdb54f58f" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_e6c9577ad46767b531cde38c6852aad7" level="file">
+        <did>
+          <unittitle><emph render="italic">Sambayanan Newsletter</emph> : Sambayanan, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_64d5cf51fe9dcd4c1d3e831b2afa1f49" label="Mixed Materials [31142063008406]" type="Box">13</container>
+          <container id="aspace_9f0c086be193689c1c1ae40cc393c69b" parent="aspace_64d5cf51fe9dcd4c1d3e831b2afa1f49" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_1a534c4a560fc1ceac9d3fd0c062e9ff" level="file">
+        <did>
+          <unittitle><emph render="italic">Sampan</emph> : Chinese American Civic Association, Boston, MA</unittitle>
+          <unitdate datechar="creation" normal="1987/1995" type="inclusive">1987-1995</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_f8c18dff47b2a31f6ec7a0847c679b86" label="Mixed Materials [31142063008364]" type="Box">22</container>
+          <container id="aspace_810cc2a3f6b6c63281738bc1320353d8" parent="aspace_f8c18dff47b2a31f6ec7a0847c679b86" type="Folder">1-6</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_b9d37ba8c56a2d5b0cb6449607d699a6" label="Mixed Materials [31142063008372]" type="Box">23</container>
+          <container id="aspace_5e7a57ab5dc5535003fdd4b5bec8acdb" parent="aspace_b9d37ba8c56a2d5b0cb6449607d699a6" type="Folder">1-6</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_84f49bd466ebebbb9c4260b6ca51ec82" label="Mixed Materials [31142063008380]" type="Box">24</container>
+          <container id="aspace_a5d7348d4accd3798157ca51b850999e" parent="aspace_84f49bd466ebebbb9c4260b6ca51ec82" type="Folder">1-4</container>
+        </did>
+      </c>
+      <c id="aspace_2142d02c9dad239ee48a8da1951e5ee4" level="file">
+        <did>
+          <unittitle><emph render="italic">Seoro Seoro</emph> : Seoro Korean Cultural Network, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_4d2fb9c7a3399d49bc5f3ee6e5453122" label="Mixed Materials [31142063008406]" type="Box">13</container>
+          <container id="aspace_a1b21e475ff71e4377afd2b5e89b3c8e" parent="aspace_4d2fb9c7a3399d49bc5f3ee6e5453122" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_e2adc7338777c3fa9128141a64630b09" level="file">
+        <did>
+          <unittitle><emph render="italic">South-North Dialogue in Korea</emph> : Public Relations Association of Korea, Seoul, South Korea</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_9b4783b8f75e54efe0ed91e612643ff4" label="Mixed Materials [31142063008406]" type="Box">13</container>
+          <container id="aspace_517ca5ec1b6188034f8b053c1c1a7f46" parent="aspace_9b4783b8f75e54efe0ed91e612643ff4" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ba67429fd10894e8e8eb7f237e655398" level="file">
+        <did>
+          <unittitle><emph render="italic">Southwest Chinese Journal</emph> : Southwest Chinese Journal, Houston, TX</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_052b864971fce949d7d3bb35e6aaa625" label="Mixed Materials [31142063008380]" type="Box">24</container>
+          <container id="aspace_f0b7302541bd982604086826cc312c37" parent="aspace_052b864971fce949d7d3bb35e6aaa625" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_31333e75eaec7e1671ff8843a50efaa0" level="file">
+        <did>
+          <unittitle><emph render="italic">Spark</emph> : South Asia Students Association, UC-Berkeley, Berkeley, CA</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_54782a5b9889d4e28ff6b170caa77ae3" label="Mixed Materials [31142063008380]" type="Box">24</container>
+          <container id="aspace_311d18db96a7145d9fcee258ce63e931" parent="aspace_54782a5b9889d4e28ff6b170caa77ae3" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_a8cb29c092c2580b60b073d2c4b989a3" level="file">
+        <did>
+          <unittitle><emph render="italic">Sphulinga</emph> : Bangladesh Association, Quebec</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_6a38d5cb5ca72eab49397e970cd0cac3" label="Mixed Materials [31142063008380]" type="Box">24</container>
+          <container id="aspace_36f899f78cca73ccca73467fbe699a0e" parent="aspace_6a38d5cb5ca72eab49397e970cd0cac3" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_6f2f422179bfb27a801b00e156b97280" level="file">
+        <did>
+          <unittitle><emph render="italic">Ta Kung Pao</emph> : Ta Kung Pao (Hongkong) Co., Hong Kong, China</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_64c0162b4570318447cc5d741fe950f5" label="Mixed Materials [31142063008380]" type="Box">24</container>
+          <container id="aspace_c68c7f37f1451e36addcfa2b9944c792" parent="aspace_64c0162b4570318447cc5d741fe950f5" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_91364a151fd448c95aa579c123cb66f8" level="file">
+        <did>
+          <unittitle><emph render="italic">Taishu</emph> : Taishu, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_369462488d45b586dc68228fe4fe6e0a" label="Mixed Materials [31142063008380]" type="Box">24</container>
+          <container id="aspace_dbc0c103711a81d71c3528b3f380783c" parent="aspace_369462488d45b586dc68228fe4fe6e0a" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_3eac8bc824a00960990985316ed9ef70" level="file">
+        <did>
+          <unittitle><emph render="italic">Taiwan Industrial Relations Bulletin</emph> : Chung Hua Institute for Industrial Relations, Taipei, Taiwan</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_7ed752e626e5fdbad99b9e5565a6870a" label="Mixed Materials [31142063008406]" type="Box">13</container>
+          <container id="aspace_8e64c6e8f9901d6acf7eeda05a60b6e8" parent="aspace_7ed752e626e5fdbad99b9e5565a6870a" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ec9cb39113b0fea1049d20ecef8f795f" level="file">
+        <did>
+          <unittitle><emph render="italic">Thai Bulletin</emph> : Union of Democratic Thais, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1940/1999" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_283e9ba892d696aaf135a90edb532b2e" label="Mixed Materials [31142063008406]" type="Box">13</container>
+          <container id="aspace_69f53031ec97eb69bc48515ad58a50a8" parent="aspace_283e9ba892d696aaf135a90edb532b2e" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_57d26fb1e820309091c405f5e311fc6a" level="file">
+        <did>
+          <unittitle><emph render="italic">Thai Review</emph> : American Friends Service Committee, Pasadena, CA</unittitle>
+          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_26e7c6045323f9362317b15e15f1b7fb" label="Mixed Materials [31142063008406]" type="Box">13</container>
+          <container id="aspace_a9797f425e1794ee8a5c710d1e0528e9" parent="aspace_26e7c6045323f9362317b15e15f1b7fb" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_421e2430ae15907f347dcb8167dc5b14" level="file">
+        <did>
+          <unittitle><emph render="italic">Thailand Update</emph> : Thailand Update, Langley Park, MD</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_c6d10ca3e6bc37af68104f76565298e7" label="Mixed Materials [31142063008406]" type="Box">13</container>
+          <container id="aspace_96bbbf3ff356865942c0d0602a9e08a5" parent="aspace_c6d10ca3e6bc37af68104f76565298e7" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_43905c98442047b9279a6c3e1a12eb7a" level="file">
+        <did>
+          <unittitle><emph render="italic">The 2nd Generation</emph> : New York Asian News, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_b1ded638b96b6ece5a3729fbf57faafd" label="Mixed Materials [31142063008380]" type="Box">24</container>
+          <container id="aspace_ffb47f45c2f38885a7189dff6b93fdd3" parent="aspace_b1ded638b96b6ece5a3729fbf57faafd" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_f192110e352988e338ada2f051848f82" level="file">
+        <did>
+          <unittitle><emph render="italic">U.S. China Friendship Newsletter</emph> : U.S. China Friendship Association, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_18ac64e5e62a92c06d73cf7f768f0cff" label="Mixed Materials [31142063008380]" type="Box">24</container>
+          <container id="aspace_5d1b6180095f3ed6a80bc23a866a6a5c" parent="aspace_18ac64e5e62a92c06d73cf7f768f0cff" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_c7aad901c3a5aa79051a65c122b77d05" level="file">
+        <did>
+          <unittitle><emph render="italic">U.S.-Korea Review</emph> : The U.S.-Korea Foundation, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_5e43658f401c8c0b9610ac96ff018dab" label="Mixed Materials [31142063008406]" type="Box">13</container>
+          <container id="aspace_110b9a45e7ef25656734040a81fe331b" parent="aspace_5e43658f401c8c0b9610ac96ff018dab" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_7d4e63df85f9c84295afbbd40f9279ca" level="file">
+        <did>
+          <unittitle><emph render="italic">UGAT</emph> : Philippine Center for Immigrant Rights, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_e409058dc6c56c014db107b83ea371a6" label="Mixed Materials [31142063008406]" type="Box">13</container>
+          <container id="aspace_8d217d1bbf34b499fc24fde5df014c7a" parent="aspace_e409058dc6c56c014db107b83ea371a6" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_3d595609750a4f260727d395eacb972b" level="file">
+        <did>
+          <unittitle><emph render="italic">Wei Min</emph> : Wei Min She, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1973/1974" type="inclusive">1973-1974</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_b9b2d9541e65837604a642a27207bc7f" label="Mixed Materials [31142063008380]" type="Box">24</container>
+          <container id="aspace_3fc7f71470180ce6a4072b86f37946ee" parent="aspace_b9b2d9541e65837604a642a27207bc7f" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_7bd8f4a4f5ca31feb8b4497c31dc7fc5" level="file">
+        <did>
+          <unittitle><emph render="italic">Wen Hua Xin Chao</emph> : Wen Hua Chao She, Hong Kong</unittitle>
+          <unitdate datechar="creation" normal="1978/1978">1978</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_17ce7a0df341ebae75582b6650650681" label="Mixed Materials [31142062673911]" type="Box">Shared Tamiment 062</container>
+          <container id="aspace_163ca58ae11b6be6ab80090c7c926e28" parent="aspace_17ce7a0df341ebae75582b6650650681" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_e35d07839d7ca2be3cd625dc52144f9a" level="file">
+        <did>
+          <unittitle><emph render="italic">Women of China</emph> : Women of China, Beijing, China</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_c235862bf410c890be046b7bd21ea10e" label="Mixed Materials [31142063008406]" type="Box">13</container>
+          <container id="aspace_0a14bbe847d42c04c1b73709feee999d" parent="aspace_c235862bf410c890be046b7bd21ea10e" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_b95947ac467c4eac2dab654b2dfdc046" level="file">
+        <did>
+          <unittitle><emph render="italic">Xiang Ya Ta Wai</emph> : Wen Ya You Xian Gong Si, Hong Kong
+</unittitle>
+          <unitdate datechar="creation" normal="1975/1978" type="inclusive">circa 1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1f5758b2b6aba0f23c43ded7ace8fccd" label="Mixed Materials [31142062673911]" type="Box">Shared Tamiment 062</container>
+          <container id="aspace_28f14ccdf0955da59e9218ef4f7c050a" parent="aspace_1f5758b2b6aba0f23c43ded7ace8fccd" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_6309f2957fe9d7a0728aa9e496daeb64" level="file">
+        <did>
+          <unittitle><emph render="italic">Xin Wen Zi Zhou Kan</emph> : Shanghai Xin Wen Zi Gong Zuo Zhe Xie Hui, Shanghai, China</unittitle>
+          <unitdate datechar="creation" normal="1949/1951" type="inclusive">1949-1951</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_489ac52da28349542b6ce9ef88ec6b42" label="Mixed Materials [31142062673911]" type="Box">Shared Tamiment 062</container>
+          <container id="aspace_0481f2fbec546073958f597098861a47" parent="aspace_489ac52da28349542b6ce9ef88ec6b42" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_6b15b123f9ffafc9c35ea2409483609a" level="file">
+        <did>
+          <unittitle>
+            <emph render="italic">Yao Bai Wen Yi</emph>
+          </unittitle>
+          <container altrender="Manuscript box - Legal" id="aspace_e39b3753a00f74b3a84dbba2b34c65d5" label="Mixed Materials [31142062673911]" type="Box">Shared Tamiment 062</container>
+          <container id="aspace_7a4d394acf78d47d8a35181362ae9050" parent="aspace_e39b3753a00f74b3a84dbba2b34c65d5" type="Folder">11</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

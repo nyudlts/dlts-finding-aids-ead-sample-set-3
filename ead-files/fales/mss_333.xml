@@ -1,0 +1,2222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_333">mss_333</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to The Parasite Archive <num>MSS.333</num></titleproper>
+        <author>Rachel Pedderson and Rhyannon J. Rodriguez, 2012. </author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>July 2012</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 22:12:18 -0400</date>.</creation>
+      <langusage>Finding aid written in English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Parasite Archive</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">Parasite</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="naf">Kinmont, Ben</persname>
+      </origination>
+      <unitid>MSS.333</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">5.5 Linear Feet</extent>
+        <extent altrender="carrier">in 4 record cartons, 2 oversize boxes, 1 manuscript box</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1966/1999" type="inclusive">1966-1999</unitdate>
+      <unitdate datechar="creation" normal="1991/1999" type="bulk">1991-1999</unitdate>
+      <abstract id="aspace_5c91c6a97fac4b59bc1b21846edcd35a">Parasite was an artist-run organization, primarily active between the years 1997 to 1998, that was committed to supporting, documenting, and presenting project-based artwork. The Archive includes administrative records, articles, books, correspondence, ephemera, photography, promotional materials, objects, and audiovisual elements.</abstract>
+      <physloc id="aspace_069057655489c00ff9dbbd677c1b1132">Some materials are stored offsite, and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <bioghist id="aspace_40ddbfddb4a500de99bcf04014977ee6">
+      <head>Historical Note</head>
+      <p>Parasite was an artist-run organization that was committed to supporting, documenting, and presenting project-based artwork. Primarily active between the years 1997 - 1998, Parasite aimed to establish a discursive context for project work and related issues. As a secondary (or para) site for projects undertaken at other locations, Parasite aspired to develop this discursive context by a variety of activities undertaken from within "host" organizations. Through these activities, Parasite sought to challenge existing modes of the presentation and distribution of art, and to develop new modes of individual and organizational participation in artists' projects.</p>
+      <p>Among Parasite's activities were the temporary occupation of existing organizations for the purpose of presenting projects in various stages of development. Presentations, symposia, discussion groups, and other public programs concentrated on issues taken up by particular artists as well as concerns relevant to the field, such as artistic autonomy, censorship, and sponsorship. In addition, Parasite continuously updated the "Parasite Document Collection," which developed into an aquisition of contemporary and historical documents relating to project-based activity, including records of completed projects and, where possible, proposals, contracts, and correspondence. </p>
+      <p>
+-- Adapted from The Parasite Mission Statement, 1997 (The Parasite Archive; MSS 333; Box 4; Folder 96; Fales Library and Special Collections, New York University Libraries).</p>
+    </bioghist>
+    <prefercite id="aspace_f511167b8e175825d763a62e2507a9b5">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the
+following form:<lb/><lb/>
+Identification of item,  date (if known); collection name; MSS number; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+    </prefercite>
+    <accessrestrict id="aspace_37faff6494ae0b2c47cb36e14cb7e80e">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open to researchers.</p>
+    </accessrestrict>
+    <arrangement id="aspace_c6a89b9a8fc82902f812e9161e28b64e">
+      <head>Arrangement</head>
+      <p>Within each series, materials are arranged alphabetically or chronologically where noted. </p>
+      <p><emph render="bold">Series I: Parasite Document Collection </emph> preserves a collection of contemporary and historical documents relating to project-based activity. Materials on particular artists and works include documentation of completed projects and, where possible, proposals, contracts, correspondence, and ephemera. These materials are arranged alphabetically by artist, item title, or subject. </p>
+      <p><emph render="bold">Series II: Services: A Working - Group Exhibition</emph> includes materials pertaining to Andrea Fraser's project of the same title. These materials are arranged alphabetically by artist, item title, or subject.</p>
+      <p><emph render="bold">Series III: Administrative</emph> contains Parasite management records. These materials are arranged alphabetically then chronologically. 
+ 
+Subseries A: Parasite Files preserves correspondence between artists and institutions, meeting minutes, and promotional material. These materials are arranged alphabetically, then chronologically.</p>
+      <p>Subseries B: Ben Kinmont Files consists of records preserved by Parasite treasurer Ben Kinmont. These materials are arranged chronologically. </p>
+      <p><emph render="bold">Series IV: Video recordings</emph> includes project recordings from the Parasite Document Collection in addition to Helmet Draxler and Andrea Fraser's "Services." These materials are arranged chronologically. Access Copies may not be available for consultation at this time, please ask a Fales archivist.</p>
+      <p><emph render="bold">Series V: Audio recordings</emph> contains recordings of Parasite presentations, symposia, discussion groups, and other public programs of interest. These materials are arranged chronologically. Access Copies may not be available for consultation at this time, please ask a Fales archivist. </p>
+      <p><emph render="bold">Subseries VI: Data Storage</emph> preserves computer files stored on disk. This element may not be available for consultation, please ask a Fales archivist. </p>
+    </arrangement>
+    <custodhist id="aspace_dd1f2747fd320ff133d1a827ea983afb">
+      <head>Provenance</head>
+      <p>The Parasite Archive was donated to the Fales Library in 2011 by members of the collective. The bulk of the collection (the Parasite Document Collection, as well as Services Files and some administrative files) had been stored in a filing cabinet created by Parasite as a public resource. The filing cabinet was transferred to Fales from the Shedhalle in Zurich, Switzerland, where it had been shipped as part of a project in the late 1990s. The remainder of the collection was donated directly from Ben Kinmont, who was the group's treasurer.</p>
+    </custodhist>
+    <scopecontent id="aspace_b9d47f94ca128c95267bf72ffa752e54">
+      <head>Scope and Content</head>
+      <p>The Parasite Archive includes administrative records, articles, correspondence, ephemera, photography, promotional materials, objects, and audiovisual elements. The bulk of the collection is from the Parasite Document Collection, which was a resource of contemporary and historical documents relating to project-based activity, created by the collective during their active years, and is supplemented by administrative records saved by the Collective, and by their treasurer Ben Kinmont.</p>
+    </scopecontent>
+    <userestrict id="aspace_08f0cdf64ed08a724ddab9ba4c26413d">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <phystech id="aspace_74c74235a1920b14865ccec8697149a7">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Access copies for some materials are available by appointment for reading room viewing and listening only. Please contact fales.library@nyu.edu, 212-998-2596.</p>
+    </phystech>
+    <controlaccess>
+      <subject source="lcsh">Public art spaces.</subject>
+      <subject source="lcsh">Art -- Exhibitions.</subject>
+      <subject source="lcsh">Art criticism.</subject>
+      <subject source="lcsh">Art -- Collectors and collecting.</subject>
+      <subject source="lcsh">Art patronage.</subject>
+      <subject source="lcsh">Alternative spaces (Arts facilities).</subject>
+      <subject source="lcsh">Art |x Management |z United States</subject>
+      <subject source="lcsh">Art -- Censorship -- United States.</subject>
+      <genreform source="aat">Art galleries (institutions)</genreform>
+      <subject source="lcsh">Art and society.</subject>
+      <subject source="lcsh">Art and state.</subject>
+      <subject source="lcsh">Politics in art.</subject>
+      <subject source="lcsh">Conceptual art.</subject>
+      <persname role="art" source="naf">Ault, Julie</persname>
+      <persname role="art" source="naf">Sholette, Gregory</persname>
+      <persname role="art" source="naf">Zeyfang, Florian</persname>
+      <persname role="art" source="naf">Müller, Christian Philipp</persname>
+      <persname role="art" source="local">Koenig, Janet</persname>
+      <persname role="art" source="naf">LeWitt, Sol, 1928-2007</persname>
+      <persname role="art" source="naf">Marclay, Christian</persname>
+      <persname role="art" source="local">Kafehsy, Sylvia</persname>
+      <persname role="art" source="naf">Karamustafa, Gülsün</persname>
+      <persname role="art" source="naf">Fraser, Andrea</persname>
+      <persname role="art" source="naf">Green,  Renée</persname>
+      <persname role="art" source="naf">Dion, Mark, 1961-</persname>
+      <persname role="art" source="naf">Fend, Peter</persname>
+      <persname role="art" source="naf">Cottingham, Laura</persname>
+      <persname role="art" source="naf">Biemann, Ursula</persname>
+      <persname role="art" source="naf">Bauer, Ute Meta</persname>
+      <persname role="art" source="naf">Beck, Martin</persname>
+      <persname role="art" source="naf">Barry, Judith</persname>
+      <persname role="art" source="naf">Kinmont, Ben</persname>
+      <persname role="dnr" source="naf">Kinmont, Ben</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref6" level="series">
+        <did>
+          <unittitle>Series I: Parasite Document Collection</unittitle>
+        </did>
+        <scopecontent id="aspace_67f42554e5a0ec63bc741cbfd29a4339">
+          <head>Scope and Content</head>
+          <p>Series I: Parasite Document Collection preserves a collection of contemporary and historical documents relating to project-based activity created by the collective as a public resource. Materials on particular artists and works include documentation of completed projects and, where possible, proposals, contracts, correspondence, and ephemera. These materials are arranged alphabetically by artist, item title, or subject.</p>
+        </scopecontent>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Ault, Julie</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container altrender="Record carton" id="aspace_cce4f74744d292745b71a3f5c18e0341" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_f36abbff5f27d1fbf4f706bb127669e8" parent="aspace_cce4f74744d292745b71a3f5c18e0341" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Barry, Judith</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container altrender="Record carton" id="aspace_b3ff6e5c03c96c37d35af5504fc8ae1e" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_808703be453f116f3b1e2f81fc94fbc1" parent="aspace_b3ff6e5c03c96c37d35af5504fc8ae1e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Bauer, Ute Meta</unittitle>
+            <unitdate datechar="creation">[c1993]</unitdate>
+            <container altrender="Record carton" id="aspace_213cab324061dfb34c884fd140e4b2fa" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_c32b12b5dec899bb80831358e3768e2b" parent="aspace_213cab324061dfb34c884fd140e4b2fa" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Beck, Martin</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_e3b0a375b636556aff07ed78903082a2" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_81a47d88da2585b3964314de03ba668c" parent="aspace_e3b0a375b636556aff07ed78903082a2" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Biemann, Ursula</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_09419fb4f3733c0885f7f795473aff16" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_007c26eb43fef30daacfade9ee287936" parent="aspace_09419fb4f3733c0885f7f795473aff16" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Botschaft / Berlin</unittitle>
+            <unitdate datechar="creation">1984, 1993</unitdate>
+            <container altrender="Record carton" id="aspace_9fc1aa9c106a015f79bcc6bc73141bae" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_b38ea1464ea2215f769930a35710a1ea" parent="aspace_9fc1aa9c106a015f79bcc6bc73141bae" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>[Catalogs, Flyers]</unittitle>
+            <unitdate datechar="creation">various</unitdate>
+            <container altrender="Record carton" id="aspace_a8274681af8945ebe675a55bb2c35248" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_7f5bb07eebb7a23e7295d0ef72dd0fb8" parent="aspace_a8274681af8945ebe675a55bb2c35248" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Cottingham, Laura</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_fab6bfec761c6eea4083269e43eca16c" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_12fd6d38b7b8a7dfb6994e6b865879bd" parent="aspace_fab6bfec761c6eea4083269e43eca16c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle><emph render="italic">Cultural Economies: Histories from the Alternative Arts Movement, NYC</emph> Organized by Julie Ault, The Drawing Center</unittitle>
+            <unitdate datechar="creation">February 24 - April 6, 1996</unitdate>
+            <container altrender="Record carton" id="aspace_743bfd6be43314964e71e39693bd0a1d" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_40292424c56bd1d4e41ea63a2889a517" parent="aspace_743bfd6be43314964e71e39693bd0a1d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle><emph render="italic">Culture in Action</emph> by Mary Jane Jacob, Michael Brenson, and Eva M. Olson </unittitle>
+            <unitdate datechar="creation">1995</unitdate>
+            <container altrender="Record carton" id="aspace_f5413478401ab3746de7ecd7c4710adb" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_082a17d501509a751d0c9f239ab39205" parent="aspace_f5413478401ab3746de7ecd7c4710adb" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Dion, Mark [1 of 2]</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container altrender="Record carton" id="aspace_8e79483c7a2ca6ffd50f878cee1583ac" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_ec7362b59fe7670e3cccceaf78699776" parent="aspace_8e79483c7a2ca6ffd50f878cee1583ac" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Dion, Mark [2 of 2]</unittitle>
+            <unitdate datechar="creation">1990 - 1998</unitdate>
+            <container altrender="Record carton" id="aspace_c8a618aec2f43c87a78befddb9af6ec8" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_fc521f2e966a789fc5b0e770164c3a94" parent="aspace_c8a618aec2f43c87a78befddb9af6ec8" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle><emph render="italic">Documents</emph>: Volume 1, Number 1/2</unittitle>
+            <unitdate datechar="creation">Fall / Winter 1992</unitdate>
+            <container altrender="Record carton" id="aspace_95eed6239393f4a5ec3edcc42c9bef58" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_6b189175add9779a16382d16b6302bec" parent="aspace_95eed6239393f4a5ec3edcc42c9bef58" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle><emph render="italic">Documents</emph>: Numbers 4/5 - 6</unittitle>
+            <unitdate datechar="creation">1994 - 1995</unitdate>
+            <container altrender="Record carton" id="aspace_3b2df1c120b3c1db9d63e25695e084e4" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_3898b3abfbf86a745cd97b1a5becdab1" parent="aspace_3b2df1c120b3c1db9d63e25695e084e4" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle><emph render="italic">Documents</emph>: Numbers 7 - 10</unittitle>
+            <unitdate datechar="creation">1996 - 1997</unitdate>
+            <container altrender="Record carton" id="aspace_79272b8278c5b005b1a4b295f51c5db7" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_5a7a1b6f53bc6e5e0fdf4caa604c8a7f" parent="aspace_79272b8278c5b005b1a4b295f51c5db7" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Eichhon, Maria: "What is the origin of a city?"</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_b0a1767b2b7f5d13b142a3a0369ad66d" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_3a31d90d9277b8bed8254ffc68896187" parent="aspace_b0a1767b2b7f5d13b142a3a0369ad66d" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle><emph render="italic">Electronic Arts Intermix: Video</emph> edited by Lori Zippay</unittitle>
+            <unitdate datechar="creation">1991</unitdate>
+            <container altrender="Record carton" id="aspace_0742631d54d7c89f8fd4a82b799ed5c5" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_5d41ebb824eb955cf82442d9b7d9a907" parent="aspace_0742631d54d7c89f8fd4a82b799ed5c5" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle><emph render="italic">environ 27 ans (peut-être un peu plus): pratiques artistiques et féminismes</emph> [2 copies]</unittitle>
+            <unitdate datechar="creation">February - March 1997</unitdate>
+            <container altrender="Record carton" id="aspace_2b39bc7d944138692542dc4a5bd42308" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_4797e547a01cd10dc78756439bd50330" parent="aspace_2b39bc7d944138692542dc4a5bd42308" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Fend, Peter</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container altrender="Record carton" id="aspace_20edcda7b93003af5bdb75d1ec1c24fd" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_e3845170ac3b29c7eab2ece26d2f6509" parent="aspace_20edcda7b93003af5bdb75d1ec1c24fd" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Fraser, Andrea: <emph render="italic">Eine Gesellschaft des Geschmacks</emph> </unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container altrender="Record carton" id="aspace_ae110c0a28604a22fab3daa83cc01ede" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_187cd6c817ef2a329a14192ae589964b" parent="aspace_ae110c0a28604a22fab3daa83cc01ede" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Fraser, Andrea [1 of 2]</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_770ce10a807217c515679bbdc35ae3bc" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_443f915d115b8b6ae17921391f66ade9" parent="aspace_770ce10a807217c515679bbdc35ae3bc" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Fraser, Andrea [2 of 2]</unittitle>
+            <unitdate datechar="creation">1991 - 1997</unitdate>
+            <container altrender="Record carton" id="aspace_405d9e5222794ffd462941aa99915454" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_5778a23f44c4e67f61b153871ba288f9" parent="aspace_405d9e5222794ffd462941aa99915454" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Games Fights Collaborations: Das Spiel con Grenze und Überschreitung</emph>
+            </unittitle>
+            <unitdate datechar="creation">1996</unitdate>
+            <container altrender="Record carton" id="aspace_7dbbc2ed50288bfb952a06a9d1edd3f0" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_1ab4a8ac08fed4f0bb6dca8f8b6aef50" parent="aspace_7dbbc2ed50288bfb952a06a9d1edd3f0" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Green, Renée</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_9bb414e6ab79d80fc82a22c247e8b93d" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_be7e000fbec1c7572e5a47d8b00dd407" parent="aspace_9bb414e6ab79d80fc82a22c247e8b93d" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Hors Sol: Reflexionen zur Ausstellungspraxis Réflexions sur la pratique de l'exposition - Sous-Sol Genève, Shedhalle Zurich</emph>
+            </unittitle>
+            <unitdate datechar="creation">October 1995</unitdate>
+            <container altrender="Record carton" id="aspace_b5aedba87d9984ab15d3d8e454801e13" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_a6083d933b533e671c4d5b16e3e72190" parent="aspace_b5aedba87d9984ab15d3d8e454801e13" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">In Public: Seattle 1991</emph>
+            </unittitle>
+            <unitdate datechar="creation">1991</unitdate>
+            <container altrender="Record carton" id="aspace_98b1679365bfca346a3b8639560de01c" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_dacb2e947b32a6c9e6299ff0e7c5f003" parent="aspace_98b1679365bfca346a3b8639560de01c" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle><emph render="italic">Inventory</emph>: Volume 2, Number 2</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_83cfdf5f232c85b6b4357365f9ba8813" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_43764a4582f381f2c77746c9b72e6b77" parent="aspace_83cfdf5f232c85b6b4357365f9ba8813" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Kafehsy, Sylvia</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_5429c29c82ae05eeb7e2e64550da0e7b" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_0ec6e750d7f0255100aa58389769ec01" parent="aspace_5429c29c82ae05eeb7e2e64550da0e7b" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Karamustafa, Gülsün </unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_751f3f67129c4438724024b710cc5397" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_7f2d754acf06f3ed09d8b125837ae1c2" parent="aspace_751f3f67129c4438724024b710cc5397" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Kinmont, Ben</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_bf17e52615e830bda44d66909862bd91" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_b0a3960c4f32a424f2d7af06d538066b" parent="aspace_bf17e52615e830bda44d66909862bd91" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref168" level="item">
+          <did>
+            <unittitle>Kinmont, Ben: Vietnam War Ads; or, <emph render="italic">your bibliography is our sculpture</emph> [Two T-Shirts]</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container altrender="OS Box - 7.75" id="aspace_2edf722e1eb29a7e7c6a89c43ddacc9f" label="Mixed Materials [31142063615283]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Kültür: ein Gender-Projekt aus Istanbul - Shedhalle Zürich</emph>
+            </unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_d6b3fe12d6fb42f518a5723f605d0910" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_1cddb4bc2d4597ae8ffdaf06dbef46fb" parent="aspace_d6b3fe12d6fb42f518a5723f605d0910" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Kunstraum der Univerität Lüneburg: Dokumentation 1994</emph>
+            </unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container altrender="Record carton" id="aspace_48cdf5bec49e1a6c9e66545a5f48cf49" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_1a2607c233179bad44e0fc8b415c4d12" parent="aspace_48cdf5bec49e1a6c9e66545a5f48cf49" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Kwon, Miwon: "One Place After Another: Notes on Site Specificity"</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_8df5f0f6ed478334e87ac008de806e80" label="Mixed Materials [31142063615275]" type="Box">1</container>
+            <container id="aspace_dc9d8f255edc1366e1f44f68e475d35f" parent="aspace_8df5f0f6ed478334e87ac008de806e80" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>LeWitt, Sol</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container altrender="Record carton" id="aspace_5a9f9a9aeb327bd649b0a7c9a632dd96" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_fb59a11e39f10a9daa137795581711c4" parent="aspace_5a9f9a9aeb327bd649b0a7c9a632dd96" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Marclay, Christian [1 of 2]</unittitle>
+            <unitdate datechar="creation">1993 - 1996</unitdate>
+            <container altrender="Record carton" id="aspace_dc1b506c70f9e2ff40b9bb3a0645768f" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_d1c1c62547c6fffe025700cb2dec39ae" parent="aspace_dc1b506c70f9e2ff40b9bb3a0645768f" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Marclay, Christian [2 of 2]</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_07dae5c571a81f777cef11067bbefc43" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_e88b96e0d911e0ea0ad333708ea2eba4" parent="aspace_07dae5c571a81f777cef11067bbefc43" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Mega-Shows</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_7203aba97e13d77eeb4b54e6c75b9443" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_f889dccaf904a7dfd0ac08fd2b31340f" parent="aspace_7203aba97e13d77eeb4b54e6c75b9443" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Müller, Christian Philipp</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_2d39bda80ea00df831c31eefb85258f0" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_0d1f132a6f0adb060ac2fd3eb6ef7da7" parent="aspace_2d39bda80ea00df831c31eefb85258f0" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">October 80</emph>
+            </unittitle>
+            <unitdate datechar="creation">Spring 1997</unitdate>
+            <container altrender="Record carton" id="aspace_a0ef271f2fa5b89d71045673cdfc522d" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_7b622e18bf2a78ad1e844163209d5cc5" parent="aspace_a0ef271f2fa5b89d71045673cdfc522d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref235" level="file">
+          <did>
+            <unittitle><emph render="italic">"On taking a normal situation and retranslating it into overlapping and multiple readings of conditions past and present"</emph> - Antwepen 93 </unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container altrender="Record carton" id="aspace_da534f76a84b66591bb010bb4a47150b" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_ff69b241570ae2dc57a47e90af4f86d7" parent="aspace_da534f76a84b66591bb010bb4a47150b" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle><emph render="italic">Platzwechsel: Ursula Biemann, Tom Burr, Mark Dion, Christian Philipp Müller - Kunsthalle Zürich</emph> [2 copies]</unittitle>
+            <unitdate datechar="creation">June - July 1995</unitdate>
+            <container altrender="Record carton" id="aspace_f57c78d307d31ffaea4bfff050af7a8e" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_26f08cd3d1b508799a9b5331d5e0f67c" parent="aspace_f57c78d307d31ffaea4bfff050af7a8e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>REPO History Collective [1 of 2]</unittitle>
+            <unitdate datechar="creation">1993 - 1998</unitdate>
+            <container altrender="Record carton" id="aspace_262cba7bec05dc7fbbc68d70db3498f8" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_b8eaf25b65b4bba718f0fee66f05d61d" parent="aspace_262cba7bec05dc7fbbc68d70db3498f8" type="Folder">9</container>
+          </did>
+          <odd id="aspace_554cc63844bfdee104869133a373bd98">
+            <head>General</head>
+            <p>These materials were originally housed with oversized materials that have been relocated. Please see OVERSIZE Series I: Parasite Document Collection to review the remainder of this file.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref236" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Skulptur Projekte in Münster 1997</emph>
+            </unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_aa238fddb6287773ca34b6c4cf12808b" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_1c83cc4554320d5d87cca2207b1d44ea" parent="aspace_aa238fddb6287773ca34b6c4cf12808b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Shedhalle: Programs </unittitle>
+            <unitdate datechar="creation">1994 - 1996</unitdate>
+            <container altrender="Record carton" id="aspace_be18b19936f93120d869824c525a6e82" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_03ca5ef875442d2272b3d95e9b88bde1" parent="aspace_be18b19936f93120d869824c525a6e82" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Shedhalle Zurich [1 of 3]</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_4c77a3a50a0534678060511ad6a67f96" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_7340c5cbdedd79b71808b18ad37ed048" parent="aspace_4c77a3a50a0534678060511ad6a67f96" type="Folder">12</container>
+          </did>
+          <odd id="aspace_46c02477e307ffd0ba703079a6376b73">
+            <head>General</head>
+            <p>These materials were originally housed with oversized materials that have been relocated. Please see OVERSIZE Series I: Parasite Document Collection to review the remainder of this file.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Sholette, Greg + Koenig, Janet</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container altrender="Record carton" id="aspace_b89e25307f92062bb713a262971bba69" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_63ca065eae286f58988cd7659f4f7132" parent="aspace_b89e25307f92062bb713a262971bba69" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Simon, Jason</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container altrender="Record carton" id="aspace_641b010de1a1866d9087194371050b43" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_8b44cbcaf1106b50b163122ab9c746f5" parent="aspace_641b010de1a1866d9087194371050b43" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle><emph render="italic">Springer</emph> - Band 3, Booklet 3</unittitle>
+            <unitdate datechar="creation">October - November 1997</unitdate>
+            <container altrender="Record carton" id="aspace_49fcbfa0220be033e0ad994db0ae4e43" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_47281c01539918d19d3b41fbc9cd30af" parent="aspace_49fcbfa0220be033e0ad994db0ae4e43" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>"Thames and Hudson Rivers Project"</unittitle>
+            <unitdate datechar="creation">1995</unitdate>
+            <container altrender="Record carton" id="aspace_52e06ee61b294dd9da99917cdbd78400" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_87826b6ca5addad46bf92c2a62b3918c" parent="aspace_52e06ee61b294dd9da99917cdbd78400" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Wiley, Daniel</unittitle>
+            <unitdate datechar="creation">[c1997]</unitdate>
+            <container altrender="Record carton" id="aspace_114ab8ed9e23649e10346cf30b546dc2" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_4ca9b784f14898e14b301cf662f6b2a0" parent="aspace_114ab8ed9e23649e10346cf30b546dc2" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Zeyfang, Florian</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container altrender="Record carton" id="aspace_fbd7aa4ae0fd5e2b6648423de916a411" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_6a787608e66b2d7f3c6a1bcae936dbc9" parent="aspace_fbd7aa4ae0fd5e2b6648423de916a411" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">zingmagazine: a curatorial crossing</emph>
+            </unittitle>
+            <unitdate datechar="creation">Winter 1998</unitdate>
+            <container altrender="Record carton" id="aspace_2c5cee8fe9795ccd631b189d8245d67b" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_02832117427b9df0dfcdc173ab35cf54" parent="aspace_2c5cee8fe9795ccd631b189d8245d67b" type="Folder">19</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref9" level="series">
+        <did>
+          <unittitle>Series II: Services: A Working-Group Exhibition</unittitle>
+        </did>
+        <scopecontent id="aspace_7aa354f5589b711da73bf276d29b5b37">
+          <head>Scope and Content</head>
+          <p>Series II: Services: A Working - Group Exhibition includes materials pertaining to Andrea Fraser's project of the same title. These materials are arranged alphabetically by artist, item title, or subject.</p>
+        </scopecontent>
+        <c id="aspace_ref169" level="file">
+          <did>
+            <unittitle>"112 Green Street"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_01266b356875f652b940f839d866bdaa" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_439cc572d7784b39f33be6595721e1d7" parent="aspace_01266b356875f652b940f839d866bdaa" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref174" level="file">
+          <did>
+            <unittitle>"Angry Arts Against the War in Vietnam"</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container altrender="Record carton" id="aspace_bfb46c3cf7a6a0cb9594437107d001d8" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_5f9c730430e3745d658d8033119c2f64" parent="aspace_bfb46c3cf7a6a0cb9594437107d001d8" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref176" level="file">
+          <did>
+            <unittitle>"Art Workers Coalition Documents, 1969"</unittitle>
+            <unitdate datechar="creation">1969</unitdate>
+            <container altrender="Record carton" id="aspace_d40099ddd428ff1c2cebdad61a5f7bd1" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_2f720c58a8695703232cb3dbfd2de2f9" parent="aspace_d40099ddd428ff1c2cebdad61a5f7bd1" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref177" level="file">
+          <did>
+            <unittitle>"Art Workers Coalition Documents, 1970 - 1971"</unittitle>
+            <unitdate datechar="creation">1970 - 1971</unitdate>
+            <container altrender="Record carton" id="aspace_556a493e637d59307be243dcaadcf56b" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_45b77e3aff236df61eea06f33260ddc8" parent="aspace_556a493e637d59307be243dcaadcf56b" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref173" level="file">
+          <did>
+            <unittitle>"Art Workers Coalition, 'New American Painting and Sculpture: The First Generation' " </unittitle>
+            <unitdate datechar="creation">June 13, 1969</unitdate>
+            <container altrender="Record carton" id="aspace_a9b26196c36714cdef5d6a4e21b8dfd3" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_304fe074013b4c0840eb99d9806944b5" parent="aspace_a9b26196c36714cdef5d6a4e21b8dfd3" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref175" level="file">
+          <did>
+            <unittitle>"Art Workers Coalition Opening Hearing" </unittitle>
+            <unitdate datechar="creation">1969</unitdate>
+            <container altrender="Record carton" id="aspace_678d2e112b4e94ee08bd905ea823f02a" label="Mixed Materials [31142063615291]" type="Box">3</container>
+            <container id="aspace_ab704d7b70ec8a2389e9ca314b3ca039" parent="aspace_678d2e112b4e94ee08bd905ea823f02a" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref171" level="file">
+          <did>
+            <unittitle>"Artists Meeting for Cultural Change"</unittitle>
+            <unitdate datechar="creation">1975 - 1976</unitdate>
+            <container altrender="Record carton" id="aspace_420e9259d7e2ccfcce10123616a1bef2" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_de685dbe4081fee6fe4c8139d298ea4e" parent="aspace_420e9259d7e2ccfcce10123616a1bef2" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref172" level="file">
+          <did>
+            <unittitle>"The Artist's Reserved Rights Transfer and Sale Agreement"</unittitle>
+            <unitdate datechar="creation">1971</unitdate>
+            <container altrender="Record carton" id="aspace_d9bd0782ca6a35fa5d15241435606488" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_55186c76d067bc54a5c59afc0b37aefd" parent="aspace_d9bd0782ca6a35fa5d15241435606488" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref178" level="file">
+          <did>
+            <unittitle>Asher, Michael</unittitle>
+            <unitdate datechar="creation">1970 - 1977</unitdate>
+            <container altrender="Record carton" id="aspace_47541230364d1eb8553909170e55084f" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_3985d75d95c4863cf4a4c9329f451e65" parent="aspace_47541230364d1eb8553909170e55084f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref179" level="file">
+          <did>
+            <unittitle>"Backstage: Kunstverein in Hamburg"</unittitle>
+            <unitdate datechar="creation">September - October 1993</unitdate>
+            <container altrender="Record carton" id="aspace_6debd06c3cb75f33e6bb67c62f968d67" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_eb3fe07f17ce50ff957da618e5559196" parent="aspace_6debd06c3cb75f33e6bb67c62f968d67" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref181" level="file">
+          <did>
+            <unittitle>Barry, Judith: "Designed Aesthetic: Exhibition Design and the Independent Group"</unittitle>
+            <unitdate datechar="creation">[c1988]</unitdate>
+            <container altrender="Record carton" id="aspace_1bdeac21baa94fbd24897f4b0a2bfa16" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_01a45f46fa363bd8a01b95cff1a063d4" parent="aspace_1bdeac21baa94fbd24897f4b0a2bfa16" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref182" level="file">
+          <did>
+            <unittitle>Barry, Judith: "FRAC du Corse"</unittitle>
+            <unitdate datechar="creation">1992</unitdate>
+            <container altrender="Record carton" id="aspace_75c65f4f6df004fcf9ac61478cfc1a9f" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_b3179bbad9fb36520fb2f56d0981ac6d" parent="aspace_75c65f4f6df004fcf9ac61478cfc1a9f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref183" level="file">
+          <did>
+            <unittitle>Barry, Judith: "Ken Saylor Architecture Contracts"</unittitle>
+            <unitdate datechar="creation">1988 - 1990</unitdate>
+            <container altrender="Record carton" id="aspace_8f53baa91833cdc64da8cd62cdf5c819" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_586bc5f4ba0c28b64935a98d149740b5" parent="aspace_8f53baa91833cdc64da8cd62cdf5c819" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref184" level="file">
+          <did>
+            <unittitle>Barry, Judith: "Ken Saylor Exhibition Design Materials"</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container altrender="Record carton" id="aspace_cecf414f371d39cc6c55673039710a0b" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_be406d0aef529df2c8544786acf7e0cf" parent="aspace_cecf414f371d39cc6c55673039710a0b" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref180" level="file">
+          <did>
+            <unittitle>Barry, Judith: "Typical Commercial Contract"</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container altrender="Record carton" id="aspace_47743930a2b81b7b9577756b364ebdfc" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_48594c6e44db75131d50d248a72dd812" parent="aspace_47743930a2b81b7b9577756b364ebdfc" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref185" level="file">
+          <did>
+            <unittitle>Bauer, Ute Meta: "Informationsdienst"</unittitle>
+            <unitdate datechar="creation">October 1995</unitdate>
+            <container altrender="Record carton" id="aspace_68e01c13edb17831d8a124ee93a73362" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_2673539d3cae6d472bd9b476f4ea62f2" parent="aspace_68e01c13edb17831d8a124ee93a73362" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref186" level="file">
+          <did>
+            <unittitle>Bauer, Ute Meta: "Künstlerhaus Stuttgart"</unittitle>
+            <unitdate datechar="creation">1990 - 1993</unitdate>
+            <container altrender="Record carton" id="aspace_58b7dfc2435bd22e8fdd19b4485e7c2d" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_2a87e2a5b9287ee0fff4698bc144f18b" parent="aspace_58b7dfc2435bd22e8fdd19b4485e7c2d" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref187" level="file">
+          <did>
+            <unittitle>Bauer, Ute Meta: "La Exposicion Ideal"</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container altrender="Record carton" id="aspace_e31d489b495443d01adfe9c7b994deea" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_63bb3445e0d43b9bd7f2e07e22d767ed" parent="aspace_e31d489b495443d01adfe9c7b994deea" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref188" level="file">
+          <did>
+            <unittitle>Bischoff, Ulrich</unittitle>
+            <unitdate datechar="creation">1995</unitdate>
+            <container altrender="Record carton" id="aspace_9efc48a834307718423ec82b9a8dad8e" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_91013dd0644267cb6d794942d34d2968" parent="aspace_9efc48a834307718423ec82b9a8dad8e" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref189" level="file">
+          <did>
+            <unittitle>Blazwick, Iwona: "Antwerp 93"</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container altrender="Record carton" id="aspace_fb61962fa7d22d45dda37534a9eebbfb" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_759a0e66f58cd4815aaceb4fd7ea6f0a" parent="aspace_fb61962fa7d22d45dda37534a9eebbfb" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref190" level="file">
+          <did>
+            <unittitle>Blazwick, Iwona: "Gordon Matta-Clark"</unittitle>
+            <unitdate datechar="creation">1974 -1977</unitdate>
+            <container altrender="Record carton" id="aspace_15c273138b57e27a52c67ffd9f74b849" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_66d28d3418cd2b081a7af067e18dd88d" parent="aspace_15c273138b57e27a52c67ffd9f74b849" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref191" level="file">
+          <did>
+            <unittitle>Bochner, Mel</unittitle>
+            <unitdate datechar="creation">1966</unitdate>
+            <container altrender="Record carton" id="aspace_186ddc37b63e44d7c91a64d1e187cfc8" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_de604a550b9a8ad02d947d7735effb58" parent="aspace_186ddc37b63e44d7c91a64d1e187cfc8" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref192" level="file">
+          <did>
+            <unittitle>Broodthaers, Marcel</unittitle>
+            <unitdate datechar="creation">1969 - 1972</unitdate>
+            <container altrender="Record carton" id="aspace_560d4b0ae7724a1d395d50ab769ce5a7" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_d38b49ca47472776600e84d99c3a88ba" parent="aspace_560d4b0ae7724a1d395d50ab769ce5a7" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref193" level="file">
+          <did>
+            <unittitle>Buren, Daniel</unittitle>
+            <unitdate datechar="creation">1967 - 1971</unitdate>
+            <container altrender="Record carton" id="aspace_0e78c92e640fc271523fe1be52f343ea" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_11f30c9324b51d722a6574618444a682" parent="aspace_0e78c92e640fc271523fe1be52f343ea" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref194" level="file">
+          <did>
+            <unittitle>Büro, Bert: "Asta und Studenten der Kunstacademie Düsseldorf"</unittitle>
+            <unitdate datechar="creation">[1993]</unitdate>
+            <container altrender="Record carton" id="aspace_056723e30dff7a8d58275ff412b2926c" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_b6aff6785a215df0d5e7a4720c05199b" parent="aspace_056723e30dff7a8d58275ff412b2926c" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref195" level="file">
+          <did>
+            <unittitle>Büro, Bert: "Wohlfahrtsausschuss Köln"</unittitle>
+            <unitdate datechar="creation">[1993]</unitdate>
+            <container altrender="Record carton" id="aspace_b736cc8065b1fe930df71ab497ffdb34" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_8c3e52e15d5e1aabdd595bf30d242962" parent="aspace_b736cc8065b1fe930df71ab497ffdb34" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref196" level="file">
+          <did>
+            <unittitle>Cahan, Susan: "Homemade TV, Branda Miller, The New Museum of Contemporary Art" </unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container altrender="Record carton" id="aspace_ff6d75e47661949a2880aac305469eb7" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_a599441ff418464c52ea46443c6272f7" parent="aspace_ff6d75e47661949a2880aac305469eb7" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref197" level="file">
+          <did>
+            <unittitle>Cahan, Susan: "Laurie Parsons Project for Spatial Drive, New Museum of Contemporary Art"</unittitle>
+            <unitdate datechar="creation">1992</unitdate>
+            <container altrender="Record carton" id="aspace_bf9e3be36c6c7c5e12b2c6963c720974" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_ed33ab16619b6a36e0c5ff99ace99247" parent="aspace_bf9e3be36c6c7c5e12b2c6963c720974" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref198" level="file">
+          <did>
+            <unittitle>Cahan, Susan: "Resource Room with Julie Ault, New Museum of Contemporary Art"</unittitle>
+            <unitdate datechar="creation">1991</unitdate>
+            <container altrender="Record carton" id="aspace_d06641ea647f178df263834262f7f4cc" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_22c5594175280aa7da04b64e7ba379c2" parent="aspace_d06641ea647f178df263834262f7f4cc" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref199" level="item">
+          <did>
+            <unittitle>Clegg &amp; Guttman: "Die offene Bibliothek (The Open Library), Hamburg"</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container altrender="Record carton" id="aspace_c0ce15278475fb6dbe50c15123d31a51" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_e064066064dfa17479b57c9fcaff53c8" parent="aspace_c0ce15278475fb6dbe50c15123d31a51" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref170" level="file">
+          <did>
+            <unittitle>"Commodity and Contradiction, or, Contradiction as Commodity" by Carl Andre and Jeremy Gilbert-Rolfe</unittitle>
+            <unitdate datechar="creation">Summer 1976</unitdate>
+            <container altrender="Record carton" id="aspace_5527a599cbc67f55a071a16fa387c806" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_57384b2b6f6419f2994f5b18c8323339" parent="aspace_5527a599cbc67f55a071a16fa387c806" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref200" level="file">
+          <did>
+            <unittitle>Conde &amp; Beveridge: "(Scan PAD/Lucy Lippard Archive, MOMA)"</unittitle>
+            <unitdate datechar="creation">1988</unitdate>
+            <container altrender="Record carton" id="aspace_64cd6e96fbf6823543bbc1c19aa02779" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_d7442c157dcd669a56085102b2eec7a6" parent="aspace_64cd6e96fbf6823543bbc1c19aa02779" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref202" level="item">
+          <did>
+            <unittitle>"The Desire of the Museum," Whitney Downtown</unittitle>
+            <unitdate datechar="creation">1989</unitdate>
+            <container altrender="Record carton" id="aspace_c8b721aeb3d73e2e599d5b2b0b4618d5" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_5ba55493ed594cd5d10e46572ef8f1d3" parent="aspace_c8b721aeb3d73e2e599d5b2b0b4618d5" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref203" level="file">
+          <did>
+            <unittitle>Dillemuth, Stephan: "Friesenwall 120"</unittitle>
+            <unitdate datechar="creation">1992</unitdate>
+            <container altrender="Record carton" id="aspace_6b55e7b2e3616265bcea403e8f56c9bf" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_03c3e1d3c760c03df8f5dfad1fcf77b4" parent="aspace_6b55e7b2e3616265bcea403e8f56c9bf" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref204" level="file">
+          <did>
+            <unittitle>Dillemuth, Stephan: "Internets 94"</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container altrender="Record carton" id="aspace_74e0019fbf77a2ca0b7e5b0ccee66fd5" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_2293a4e9b0408d3ef66effacc831b191" parent="aspace_74e0019fbf77a2ca0b7e5b0ccee66fd5" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref208" level="file">
+          <did>
+            <unittitle>Dion, Mark: "Chicago Urban Art Ecology Group"</unittitle>
+            <unitdate datechar="creation">1992</unitdate>
+            <container altrender="Record carton" id="aspace_240725aa647a21c5caabbb2c582b9ad6" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_752209243b6c71e7e6543216f2dccb30" parent="aspace_240725aa647a21c5caabbb2c582b9ad6" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref209" level="file">
+          <did>
+            <unittitle>Dion, Mark: "Sculpture Chicago" [1 of 2]</unittitle>
+            <unitdate datechar="creation">1992 - 1993</unitdate>
+            <container altrender="Record carton" id="aspace_d10d8ff7a924452dd696332fb9092308" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_8cd690677ce83850e8ef09c5e994c86a" parent="aspace_d10d8ff7a924452dd696332fb9092308" type="Folder">31</container>
+          </did>
+          <odd id="aspace_802c14c2d7570a492c7e862f71f586ed">
+            <head>General</head>
+            <p>These materials were originally housed with oversized materials that have been relocated. Please see OVERSIZE Series II: Services: A Working Group Exhibition to review the remainder of this file.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref213" level="file">
+          <did>
+            <unittitle>"Docklands Community Poster Project"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_c5acf99762e1abc0214c678f3aa103db" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_2b82d7c432212408478e2ac20652cfc2" parent="aspace_c5acf99762e1abc0214c678f3aa103db" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref211" level="file">
+          <did>
+            <unittitle>"Dokumentation" </unittitle>
+            <unitdate datechar="creation">October 1993</unitdate>
+            <container altrender="Record carton" id="aspace_e7c914bcfbaca7e4afeef31f22fda2e8" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_aaa2b92581aaa1838a223c8c3e665644" parent="aspace_e7c914bcfbaca7e4afeef31f22fda2e8" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref212" level="file">
+          <did>
+            <unittitle>Draxler, Helmut: "Working Group Presentation"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_ba1833e035cba02034122bd2eff204c7" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_158b7968b9640f681d7b238289a9a0c4" parent="aspace_ba1833e035cba02034122bd2eff204c7" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref214" level="file">
+          <did>
+            <unittitle>Fashion Moda: "Documenta 7"</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container altrender="Record carton" id="aspace_271f5c124fa4eae5252969e25f9c4772" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_ab20f388216f395dbf4a57d6adf1c533" parent="aspace_271f5c124fa4eae5252969e25f9c4772" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref215" level="file">
+          <did>
+            <unittitle>Fraser, Andrea: "Aren't They Lovely?" University Art Museum, Berkeley, CA</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container altrender="Record carton" id="aspace_cf2c76a55746c1b7464f154394784d20" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_46afe36ea70b09f2297436e84555fb49" parent="aspace_cf2c76a55746c1b7464f154394784d20" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref201" level="file">
+          <did>
+            <unittitle>Fraser, Andrea: "Damaged Goods: Desire and the Economy of the Object," New Museum of Contemporary Art</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container altrender="Record carton" id="aspace_c63e7241873a98c2198b3de786e7490f" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_2fb72267e96b1ad3ba4c769ef4ee3006" parent="aspace_c63e7241873a98c2198b3de786e7490f" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref216" level="file">
+          <did>
+            <unittitle>Fraser, Andrea: "Preliminary Prospectuses, Project Office Outline"</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container altrender="Record carton" id="aspace_af13bb86383438ae7fe3111df9d09575" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_97cd0972a4174547ad99428e09cdb1e8" parent="aspace_af13bb86383438ae7fe3111df9d09575" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref219" level="file">
+          <did>
+            <unittitle>Fraser, Andrea: "Recorded Tour," Whitney Biennial Exhibition</unittitle>
+            <unitdate datechar="creation">1992 - 1993</unitdate>
+            <container altrender="Record carton" id="aspace_2eec7b27e43791937a1cdcc8761f5393" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_bf749affe35f49d61b70748dd056db7a" parent="aspace_2eec7b27e43791937a1cdcc8761f5393" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref220" level="file">
+          <did>
+            <unittitle>Fraser, Andrea: "What's Intangible, Transitory, Mediating, Participatory, and Rendered in the Public Sphere?"</unittitle>
+            <unitdate datechar="creation">[c1993]</unitdate>
+            <container altrender="Record carton" id="aspace_784024a9b174731a6c9e59aaa85fc751" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_7bd5f958e18e61e2714d49dde09963d4" parent="aspace_784024a9b174731a6c9e59aaa85fc751" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref221" level="file">
+          <did>
+            <unittitle>Fraser, Andrea: "Wiener Secession Exhibition"</unittitle>
+            <unitdate datechar="creation">1993 - 1994</unitdate>
+            <container altrender="Record carton" id="aspace_ca8a90d6a5c3fdb08c3c2e89f4179d76" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_e1dfdf715498cb81bbd5715eb63d7331" parent="aspace_ca8a90d6a5c3fdb08c3c2e89f4179d76" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref237" level="file">
+          <did>
+            <unittitle>"Goods, Services and the Future of Work" by Jonathan I. Gershuny</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container altrender="Record carton" id="aspace_d5cfabd20e0312b5057e953da6db2990" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_9b07c1b5546a235dca1fb50700c9cd21" parent="aspace_d5cfabd20e0312b5057e953da6db2990" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref222" level="file">
+          <did>
+            <unittitle>Graham, Dan</unittitle>
+            <unitdate datechar="creation">1966 - 1967</unitdate>
+            <container altrender="Record carton" id="aspace_16c0c53dd12e38bc487856666294b86d" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_e50b3a8fbdfa5164caaf8fc28b658f26" parent="aspace_16c0c53dd12e38bc487856666294b86d" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref223" level="file">
+          <did>
+            <unittitle>Green, Renée: "Negotiations in the Contract Zone," The Drawing Center</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container altrender="Record carton" id="aspace_b908ffeb8b4668982bfa610fb49535e7" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_627dc8e39e5276632051550d0e9dc3bb" parent="aspace_b908ffeb8b4668982bfa610fb49535e7" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref224" level="file">
+          <did>
+            <unittitle>Group Material </unittitle>
+            <unitdate datechar="creation">1980 - 1984</unitdate>
+            <container altrender="Record carton" id="aspace_b3eb13ba43ff9541b0658a818020b57b" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_90df21fec139d03f0ca00d2b194c39b6" parent="aspace_b3eb13ba43ff9541b0658a818020b57b" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref225" level="file">
+          <did>
+            <unittitle>Guerilla Girls</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container altrender="Record carton" id="aspace_cd9d8f0db3dc652669e4c349efc34f57" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_6f59d2d3be8f688f0723cbd444123a71" parent="aspace_cd9d8f0db3dc652669e4c349efc34f57" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref226" level="file">
+          <did>
+            <unittitle>Haacke, Hans</unittitle>
+            <unitdate datechar="creation">various</unitdate>
+            <container altrender="Record carton" id="aspace_359779613c3799fdfab5e96990a5083c" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_76b8da56e30fa061015b8b2555c9743b" parent="aspace_359779613c3799fdfab5e96990a5083c" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref227" level="file">
+          <did>
+            <unittitle>"Herstory - A Documentary"</unittitle>
+            <unitdate datechar="creation">1970 -1971</unitdate>
+            <container altrender="Record carton" id="aspace_b351d141ad3c4960536a85b190de95fa" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_74372884e3e3f296718968957cf939b4" parent="aspace_b351d141ad3c4960536a85b190de95fa" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref228" level="file">
+          <did>
+            <unittitle>Huebler, Douglas</unittitle>
+            <unitdate datechar="creation">1968 - 1969</unitdate>
+            <container altrender="Record carton" id="aspace_117b1f5f9954bdc31c5a524381203fbe" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_14d276e0fbf6200c2a28e814a93dccc2" parent="aspace_117b1f5f9954bdc31c5a524381203fbe" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref229" level="file">
+          <did>
+            <unittitle>"Information," Museum of Modern Art</unittitle>
+            <unitdate datechar="creation">1970</unitdate>
+            <container altrender="Record carton" id="aspace_9f661b179bb95d21e8d506de5cf7b6db" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_2b9168b03dec89613e28eec3d2575a37" parent="aspace_9f661b179bb95d21e8d506de5cf7b6db" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref230" level="file">
+          <did>
+            <unittitle>"Installation Photographs," Kunstraum det Universität Lüneburg</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container altrender="Record carton" id="aspace_807241cc79133dc86c68899374f51fff" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_295054cb9546a64ca04e2fb5d803d939" parent="aspace_807241cc79133dc86c68899374f51fff" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref231" level="file">
+          <did>
+            <unittitle>"International Board of Artists" (PAD Archive / Lippard, MOMA)</unittitle>
+            <unitdate datechar="creation">1976</unitdate>
+            <container altrender="Record carton" id="aspace_401ded495fa5b429630d3904f877ad09" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_144bb746c9de213db04632b6dab1d347" parent="aspace_401ded495fa5b429630d3904f877ad09" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref238" level="file">
+          <did>
+            <unittitle>Judd, Donald: "Una stanza per Panza"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_f13c3fab54add3e010293b1411ee9190" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_9c95ae1bd41a84eee48b065505ed4400" parent="aspace_f13c3fab54add3e010293b1411ee9190" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref239" level="file">
+          <did>
+            <unittitle>Knight, John</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container altrender="Record carton" id="aspace_b31d376237946e04e4216620bcf58541" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_21346a2054624396355443f15922d04e" parent="aspace_b31d376237946e04e4216620bcf58541" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref240" level="file">
+          <did>
+            <unittitle>"Kontext Kunst," Neue Galerie, Graz, Austria</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container altrender="Record carton" id="aspace_5d42860eceb775f03e549c178b0c7d5f" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_c8289a725696edf218f861a6c95b1cc3" parent="aspace_5d42860eceb775f03e549c178b0c7d5f" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref241" level="file">
+          <did>
+            <unittitle>Kunstraum der Universität Lüneburg - Press</unittitle>
+            <unitdate datechar="creation">January 1994</unitdate>
+            <container altrender="Record carton" id="aspace_b43a573bdf12ba08644aeb544803bb0b" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_6a94a3cec0884395a4bd070fbe14991a" parent="aspace_b43a573bdf12ba08644aeb544803bb0b" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref242" level="file">
+          <did>
+            <unittitle>Lawler, Louise</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container altrender="Record carton" id="aspace_f8738e9417cdd41bed9333f696fc4819" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_b2f274154dfa1bf37fa3cf9a3efa99ea" parent="aspace_f8738e9417cdd41bed9333f696fc4819" type="Folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_ref243" level="file">
+          <did>
+            <unittitle>LeWitt, Sol</unittitle>
+            <unitdate datechar="creation">1967 - 1968</unitdate>
+            <container altrender="Record carton" id="aspace_b2546c64c1c3330702ceffee3d885fb1" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_4f3651ecf5924ffc884e1e44a5fad4dd" parent="aspace_b2546c64c1c3330702ceffee3d885fb1" type="Folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref244" level="file">
+          <did>
+            <unittitle>"Misc. Art Actions"</unittitle>
+            <unitdate datechar="creation">1968 - 1971</unitdate>
+            <container altrender="Record carton" id="aspace_3a7dac836822f6b2f862f201ab796c52" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_ed532c304a7ebb1daac05d9b3e253c1f" parent="aspace_3a7dac836822f6b2f862f201ab796c52" type="Folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_ref245" level="file">
+          <did>
+            <unittitle>"Misc. Artists Organizations"</unittitle>
+            <unitdate datechar="creation">1974 - 1982</unitdate>
+            <container altrender="Record carton" id="aspace_78c71b8734dfeb19ad1aaef12597a00e" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_a5cd1b6720bf7b4d0aeb6e049d4ae79e" parent="aspace_78c71b8734dfeb19ad1aaef12597a00e" type="Folder">60</container>
+          </did>
+        </c>
+        <c id="aspace_ref246" level="file">
+          <did>
+            <unittitle>"Misc. Letters of Invitation + Requests for Project Submission, Misc. Exhibitions"</unittitle>
+            <unitdate datechar="creation">1991 - 1994</unitdate>
+            <container altrender="Record carton" id="aspace_72cce1105f806130228a939558d04cdc" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_e0cb66c99d0c178736ab3916cd884479" parent="aspace_72cce1105f806130228a939558d04cdc" type="Folder">61</container>
+          </did>
+        </c>
+        <c id="aspace_ref247" level="file">
+          <did>
+            <unittitle>Müller, Christian Philipp</unittitle>
+            <unitdate datechar="creation">1988 - 1989</unitdate>
+            <container altrender="Record carton" id="aspace_d6b37eca0f562e9c68f4965406b891ea" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_67d45d5928dee8d1b7094406158c79b7" parent="aspace_d6b37eca0f562e9c68f4965406b891ea" type="Folder">62</container>
+          </did>
+        </c>
+        <c id="aspace_ref248" level="file">
+          <did>
+            <unittitle>Museum für Angewandte Kunst Installation Contract</unittitle>
+            <unitdate datechar="creation">1992</unitdate>
+            <container altrender="Record carton" id="aspace_ac5be1859c93d7d2e96f85606f3c126c" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_724384cbaea415ac4873875b79b7dcaf" parent="aspace_ac5be1859c93d7d2e96f85606f3c126c" type="Folder">63</container>
+          </did>
+        </c>
+        <c id="aspace_ref249" level="file">
+          <did>
+            <unittitle>Museum in Progress, Vienna</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container altrender="Record carton" id="aspace_a435c6fb29c49a75b243ee1163ef2503" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_47c824d03a34c3d008ff9b58cb74f463" parent="aspace_a435c6fb29c49a75b243ee1163ef2503" type="Folder">64</container>
+          </did>
+        </c>
+        <c id="aspace_ref250" level="file">
+          <did>
+            <unittitle>"Museum: A Project of Living Artists" (PAD Archive, MOMA)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_e263e500ce7224a9b92e6654e450575e" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_1e624e75866e3e5993c1af68034594a2" parent="aspace_e263e500ce7224a9b92e6654e450575e" type="Folder">65</container>
+          </did>
+        </c>
+        <c id="aspace_ref251" level="file">
+          <did>
+            <unittitle>"Pasta MOMA, Unionization Drive"</unittitle>
+            <unitdate datechar="creation">1971</unitdate>
+            <container altrender="Record carton" id="aspace_ef9be885fd0cc07a037ad09810af43b1" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_0673e196c503c80e36d8d9ee010d36ce" parent="aspace_ef9be885fd0cc07a037ad09810af43b1" type="Folder">66</container>
+          </did>
+        </c>
+        <c id="aspace_ref252" level="file">
+          <did>
+            <unittitle>"People's Art Gang Communique #7"</unittitle>
+            <unitdate datechar="creation">May Day, 1974</unitdate>
+            <container altrender="Record carton" id="aspace_d7b418acb0609544e4251acbedbc9fa5" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_8019407c108ef8e713210db44f4d9b76" parent="aspace_d7b418acb0609544e4251acbedbc9fa5" type="Folder">67</container>
+          </did>
+        </c>
+        <c id="aspace_ref254" level="file">
+          <did>
+            <unittitle>"The Professional - Managerial Class" by Barbara &amp; John Ehrenreich</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_a3039076b29150d66133df41caafa1fb" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_b046338dee1215ad73002cb576b7441f" parent="aspace_a3039076b29150d66133df41caafa1fb" type="Folder">68</container>
+          </did>
+        </c>
+        <c id="aspace_ref253" level="file">
+          <did>
+            <unittitle>Project Artist Questionnaires</unittitle>
+            <unitdate datechar="creation">January 2, 1994</unitdate>
+            <container altrender="Record carton" id="aspace_67f7c913c893e279918e7605859b1bea" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_d4e462f55ff81ca1115c8daa5a4079cd" parent="aspace_67f7c913c893e279918e7605859b1bea" type="Folder">69</container>
+          </did>
+        </c>
+        <c id="aspace_ref255" level="file">
+          <did>
+            <unittitle>Public Figure Disclosure Form, Artist Questionnaire of American Fine Arts Company</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container altrender="Record carton" id="aspace_6967ec0f97189d344e3d30b07dca0798" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_fb5fa0b49a1ee59c13b8b76bbe6a3cf4" parent="aspace_6967ec0f97189d344e3d30b07dca0798" type="Folder">70</container>
+          </did>
+        </c>
+        <c id="aspace_ref256" level="file">
+          <did>
+            <unittitle>Rahmann, Fritz</unittitle>
+            <unitdate datechar="creation">undated, 1980 - 1986</unitdate>
+            <container altrender="Record carton" id="aspace_18a16ae1f134bab59638c8919f98d2c4" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_a647b132efc47752092a60bca94837e8" parent="aspace_18a16ae1f134bab59638c8919f98d2c4" type="Folder">71</container>
+          </did>
+        </c>
+        <c id="aspace_ref257" level="file">
+          <did>
+            <unittitle>"RE: Placement," LACE (Los Angeles Contemporary Exhibitions)</unittitle>
+            <unitdate datechar="creation">1988</unitdate>
+            <container altrender="Record carton" id="aspace_3fa7e685d39ecca9132c579ca88f432e" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_4badb99a745b9d04274dc06182c9352e" parent="aspace_3fa7e685d39ecca9132c579ca88f432e" type="Folder">72</container>
+          </did>
+        </c>
+        <c id="aspace_ref258" level="file">
+          <did>
+            <unittitle>Research Records, Museum of Modern Art</unittitle>
+            <unitdate datechar="creation">January 7, 1994</unitdate>
+            <container altrender="Record carton" id="aspace_e6d07c2b6f7f80806bfd89891d1b4439" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_a67d1ad6b96c1ec53a6155999a892560" parent="aspace_e6d07c2b6f7f80806bfd89891d1b4439" type="Folder">73</container>
+          </did>
+        </c>
+        <c id="aspace_ref259" level="file">
+          <did>
+            <unittitle>Rosler, Martha</unittitle>
+            <unitdate datechar="creation">1978, 1989</unitdate>
+            <container altrender="Record carton" id="aspace_3386e5909692a56a1f7d9569712819e7" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_7437c263a7541e5fa2273b717396bc95" parent="aspace_3386e5909692a56a1f7d9569712819e7" type="Folder">74</container>
+          </did>
+        </c>
+        <c id="aspace_ref260" level="file">
+          <did>
+            <unittitle>Scher, Julia</unittitle>
+            <unitdate datechar="creation">1990, 1993</unitdate>
+            <container altrender="Record carton" id="aspace_a0584475f1660cd5b50b3e0537f5aee2" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_e8bf16715595e04168f33c86e3758bb6" parent="aspace_a0584475f1660cd5b50b3e0537f5aee2" type="Folder">75</container>
+          </did>
+        </c>
+        <c id="aspace_ref261" level="file">
+          <did>
+            <unittitle>Smithson, Robert: "Towards the Development of an Air Terminal Site" </unittitle>
+            <unitdate datechar="creation">1966 - 1967</unitdate>
+            <container altrender="Record carton" id="aspace_825d39968139abef49406af0fd01b713" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_e2007a5793be1129e6b49920f0614f12" parent="aspace_825d39968139abef49406af0fd01b713" type="Folder">76</container>
+          </did>
+        </c>
+        <c id="aspace_ref262" level="file">
+          <did>
+            <unittitle>The Times Square Summer Art Spectacular - Media Alert</unittitle>
+            <unitdate datechar="creation">June 1980</unitdate>
+            <container altrender="Record carton" id="aspace_378c6b0fdf312721e3dae99b98d0f82f" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_b949db0849efb3be9b4315e242477d74" parent="aspace_378c6b0fdf312721e3dae99b98d0f82f" type="Folder">77</container>
+          </did>
+        </c>
+        <c id="aspace_ref263" level="file">
+          <did>
+            <unittitle>[Titles for Installation]</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_f3fb98cd45afb232b5c2e7b60bc0540b" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_f789285b1fe2742e9f81962fb066fd14" parent="aspace_f3fb98cd45afb232b5c2e7b60bc0540b" type="Folder">78</container>
+          </did>
+        </c>
+        <c id="aspace_ref264" level="file">
+          <did>
+            <unittitle>Ukele, Mierle Laderman</unittitle>
+            <unitdate datechar="creation">1969, 1982, 1984</unitdate>
+            <container altrender="Record carton" id="aspace_a499a752f05fd89b5fc6067f61003a10" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_eabb5bde5cb42e10b89b03047dcde585" parent="aspace_a499a752f05fd89b5fc6067f61003a10" type="Folder">79</container>
+          </did>
+        </c>
+        <c id="aspace_ref265" level="file">
+          <did>
+            <unittitle>UNITE - Exhibition Art Architecture Design, Firminy, France</unittitle>
+            <unitdate datechar="creation">1991 - 1993</unitdate>
+            <container altrender="Record carton" id="aspace_66db5721e51cc20eccf3132a0f37b44a" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_b33d90bc7338b3058437139079cc9c2d" parent="aspace_66db5721e51cc20eccf3132a0f37b44a" type="Folder">80</container>
+          </did>
+        </c>
+        <c id="aspace_ref266" level="file">
+          <did>
+            <unittitle>The Waitresses</unittitle>
+            <unitdate datechar="creation">1978</unitdate>
+            <container altrender="Record carton" id="aspace_5cf0c363fe248722964f6d2390c34946" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_722e3200c1857eb1a360c97b883415d6" parent="aspace_5cf0c363fe248722964f6d2390c34946" type="Folder">81</container>
+          </did>
+        </c>
+        <c id="aspace_ref267" level="file">
+          <did>
+            <unittitle>Wilson, Ian: "That Which is Both Known and Unknown"</unittitle>
+            <unitdate datechar="creation">March 18 [no year]</unitdate>
+            <container altrender="Record carton" id="aspace_1aef90aba26221de7bd75ec87c9f152e" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_a7d1be0ff3fab3214a4530b9e59bb4d6" parent="aspace_1aef90aba26221de7bd75ec87c9f152e" type="Folder">82</container>
+          </did>
+        </c>
+        <c id="aspace_ref268" level="file">
+          <did>
+            <unittitle>Women Artists in Revolution</unittitle>
+            <unitdate datechar="creation">1970 - 1971</unitdate>
+            <container altrender="Record carton" id="aspace_de97a7e087a2272f5f687193191a7881" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_a598df37cc90b2fbd8b1559eadc80d6d" parent="aspace_de97a7e087a2272f5f687193191a7881" type="Folder">83</container>
+          </did>
+        </c>
+        <c id="aspace_ref269" level="file">
+          <did>
+            <unittitle>"Working - Group Discussions" Conference Document for <emph render="italic">October 80</emph></unittitle>
+            <unitdate datechar="creation">Spring 1997</unitdate>
+            <container altrender="Record carton" id="aspace_fe25c6ad0e46e417fb770000c706fad5" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_f746a749aa739cdb831b143899c6695e" parent="aspace_fe25c6ad0e46e417fb770000c706fad5" type="Folder">84</container>
+          </did>
+        </c>
+        <c id="aspace_ref270" level="file">
+          <did>
+            <unittitle>Working - Group Programs and Press</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container altrender="Record carton" id="aspace_c70421b8ecd891d4fc15f6628c2d9c01" label="Mixed Materials [31142063615309]" type="Box">4</container>
+            <container id="aspace_6c339e91b59ee79615cdb3ea636900a7" parent="aspace_c70421b8ecd891d4fc15f6628c2d9c01" type="Folder">85</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref233" level="series">
+        <did>
+          <unittitle>Series III: Administrative</unittitle>
+        </did>
+        <scopecontent id="aspace_1c1a8922bcc9f64b361ff039b0dc0979">
+          <head>Scope and Content</head>
+          <p>Series III: Administrative contains Parasite management records. These materials are arranged alphabetically then chronologically. </p>
+          <p>Subseries A: Parasite Files preserves correspondence between artists and institutions, meeting minutes, and promotional material. These materials are arranged alphabetically, then chronologically. </p>
+          <p>Subseries B: Ben Kinmont Files consists of records saved by Parasite treasurer Ben Kinmont. These materials are arranged chronologically. </p>
+        </scopecontent>
+        <c id="aspace_ref234" level="subseries">
+          <did>
+            <unittitle>Subseries A: Parasite Files</unittitle>
+          </did>
+          <c id="aspace_ref56" level="file">
+            <did>
+              <unittitle>[Correspondence 1]</unittitle>
+              <unitdate datechar="creation">November - December 1997</unitdate>
+              <container altrender="Record carton" id="aspace_b0ab346e03b7a73083dea195d58f6777" label="Mixed Materials [31142063615309]" type="Box">4</container>
+              <container id="aspace_5dad71d19f8e66c9b72585cc23367ac7" parent="aspace_b0ab346e03b7a73083dea195d58f6777" type="Folder">86</container>
+            </did>
+          </c>
+          <c id="aspace_ref57" level="file">
+            <did>
+              <unittitle>[Correspondence 2]</unittitle>
+              <unitdate datechar="creation">January - February 1998</unitdate>
+              <container altrender="Record carton" id="aspace_f884b02896a94ae137478e5d0c87237c" label="Mixed Materials [31142063615309]" type="Box">4</container>
+              <container id="aspace_5aec2855182f69e387f161af09b2ea11" parent="aspace_f884b02896a94ae137478e5d0c87237c" type="Folder">87</container>
+            </did>
+          </c>
+          <c id="aspace_ref58" level="file">
+            <did>
+              <unittitle>[Correspondence 3]</unittitle>
+              <unitdate datechar="creation">March - April 1998</unitdate>
+              <container altrender="Record carton" id="aspace_16e9667795c1838d882516cc20aa4c6a" label="Mixed Materials [31142063615309]" type="Box">4</container>
+              <container id="aspace_4657710cca3b2d58caef73f3ca9eeeab" parent="aspace_16e9667795c1838d882516cc20aa4c6a" type="Folder">88</container>
+            </did>
+          </c>
+          <c id="aspace_ref59" level="file">
+            <did>
+              <unittitle>[Correspondence 4]</unittitle>
+              <unitdate datechar="creation">May - September 1998</unitdate>
+              <container altrender="Record carton" id="aspace_d4f053d4654ecf0a6f5759af92310d06" label="Mixed Materials [31142063615309]" type="Box">4</container>
+              <container id="aspace_9e40103541cb53ff857b4306ae30f33c" parent="aspace_d4f053d4654ecf0a6f5759af92310d06" type="Folder">89</container>
+            </did>
+          </c>
+          <c id="aspace_ref64" level="file">
+            <did>
+              <unittitle>[Meeting Minutes]</unittitle>
+              <unitdate datechar="creation">1997 - 1998</unitdate>
+              <container altrender="Record carton" id="aspace_e75732245838d3162be5d070ac3dac0b" label="Mixed Materials [31142063615309]" type="Box">4</container>
+              <container id="aspace_56852ed7a326686d28c85845fe76809e" parent="aspace_e75732245838d3162be5d070ac3dac0b" type="Folder">90</container>
+            </did>
+          </c>
+          <c id="aspace_ref100" level="file">
+            <did>
+              <unittitle>Parasite at The Clocktower</unittitle>
+              <unitdate datechar="creation">1998</unitdate>
+              <container altrender="Record carton" id="aspace_b3cde4e7faecd5ace724e0210294d857" label="Mixed Materials [31142063615309]" type="Box">4</container>
+              <container id="aspace_e4f103134a51327fd6e6e6773adb82ae" parent="aspace_b3cde4e7faecd5ace724e0210294d857" type="Folder">91</container>
+            </did>
+          </c>
+          <c id="aspace_ref101" level="file">
+            <did>
+              <unittitle>Parasite at The Drawing Center</unittitle>
+              <unitdate datechar="creation">1998</unitdate>
+              <container altrender="Record carton" id="aspace_4799cc7836845eebb2510496836d3efd" label="Mixed Materials [31142063615309]" type="Box">4</container>
+              <container id="aspace_11a631009fa20341cb2a0d06eda763b2" parent="aspace_4799cc7836845eebb2510496836d3efd" type="Folder">92</container>
+            </did>
+          </c>
+          <c id="aspace_ref102" level="file">
+            <did>
+              <unittitle>Parasite at The Swiss Institute</unittitle>
+              <unitdate datechar="creation">November 18, 1999</unitdate>
+              <container altrender="Record carton" id="aspace_11934d39bb9861786b1ae62cf897ca5a" label="Mixed Materials [31142063615309]" type="Box">4</container>
+              <container id="aspace_7e422b3714cdcc7b7e29b23dc43c3ac5" parent="aspace_11934d39bb9861786b1ae62cf897ca5a" type="Folder">93</container>
+            </did>
+          </c>
+          <c id="aspace_ref103" level="file">
+            <did>
+              <unittitle>Parasite Funding Committee: Proposal for Parasite Subscription</unittitle>
+              <unitdate datechar="creation">1997</unitdate>
+              <container altrender="Record carton" id="aspace_24cb34374a0a21c93eaf3d775d19234e" label="Mixed Materials [31142063615309]" type="Box">4</container>
+              <container id="aspace_997e64780db7e81d1f0be480787769a7" parent="aspace_24cb34374a0a21c93eaf3d775d19234e" type="Folder">94</container>
+            </did>
+          </c>
+          <c id="aspace_ref104" level="file">
+            <did>
+              <unittitle>Parasite Mailing List</unittitle>
+              <unitdate datechar="creation">1/25/98</unitdate>
+              <container altrender="Record carton" id="aspace_30602eb005c09888aa6253b3cc67c303" label="Mixed Materials [31142063615309]" type="Box">4</container>
+              <container id="aspace_1e2415c9d4908fab81859f3b4cbc9816" parent="aspace_30602eb005c09888aa6253b3cc67c303" type="Folder">95</container>
+            </did>
+          </c>
+          <c id="aspace_ref105" level="file">
+            <did>
+              <unittitle>Parasite Mission Statement</unittitle>
+              <unitdate datechar="creation">1997</unitdate>
+              <container altrender="Record carton" id="aspace_784cc569e65876c986b466a69a816f5e" label="Mixed Materials [31142063615309]" type="Box">4</container>
+              <container id="aspace_b527aab73593106e6d716b28434fd9a0" parent="aspace_784cc569e65876c986b466a69a816f5e" type="Folder">96</container>
+            </did>
+          </c>
+          <c id="aspace_ref106" level="file">
+            <did>
+              <unittitle>Parasite Photographs</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_fc06c340dab1d4ddedd4ad3123945bc9" label="Mixed Materials [31142063615309]" type="Box">4</container>
+              <container id="aspace_8bedf26f4834e4fbbbb469c1b9b08700" parent="aspace_fc06c340dab1d4ddedd4ad3123945bc9" type="Folder">97</container>
+            </did>
+          </c>
+          <c id="aspace_ref65" level="file">
+            <did>
+              <unittitle>"Parasite - Swiss Inst. Swap" [Meeting Minutes]</unittitle>
+              <unitdate datechar="creation">1997 - 1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_e389c16ab173a733a788c3e7078a8336" label="Mixed Materials [31142063615317]" type="Box">5</container>
+              <container id="aspace_3f88236a3c8f6abfa0d2e2292a8e4511" parent="aspace_e389c16ab173a733a788c3e7078a8336" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref60" level="file">
+            <did>
+              <unittitle>"Parasite Web Site - May Update"</unittitle>
+              <unitdate datechar="creation">May 24, 1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_af2ab62531365710da1e254cd209ba80" label="Mixed Materials [31142063615317]" type="Box">5</container>
+              <container id="aspace_16c37e8d80227b57acd83be935d4fb07" parent="aspace_af2ab62531365710da1e254cd209ba80" type="Folder">2</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref70" level="subseries">
+          <did>
+            <unittitle>Subseries B: Ben Kinmont Files</unittitle>
+          </did>
+          <c id="aspace_ref276" level="file">
+            <did>
+              <unittitle>[July 1997]</unittitle>
+              <unitdate datechar="creation">July 1997</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7138221a98ab88e780edc4f5708a81be" label="Mixed Materials [31142063615317]" type="Box">5</container>
+              <container id="aspace_3d07fafb1e81aa26cccbf93bf491807c" parent="aspace_7138221a98ab88e780edc4f5708a81be" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref277" level="file">
+            <did>
+              <unittitle>[August 1997]</unittitle>
+              <unitdate datechar="creation">August 1997</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_6f19e5fd7678472c7bc16b29566abd97" label="Mixed Materials [31142063615317]" type="Box">5</container>
+              <container id="aspace_f5d9adc38d0daca26150c54313f8492f" parent="aspace_6f19e5fd7678472c7bc16b29566abd97" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref278" level="file">
+            <did>
+              <unittitle>[September 1997]</unittitle>
+              <unitdate datechar="creation">September 1997</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_6bc7d8fddc12f1ddb7f88f0e4c621c09" label="Mixed Materials [31142063615317]" type="Box">5</container>
+              <container id="aspace_5db5cbe10a0d6f948b416b780baf4120" parent="aspace_6bc7d8fddc12f1ddb7f88f0e4c621c09" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref279" level="file">
+            <did>
+              <unittitle>[September 1997: Receipts]</unittitle>
+              <unitdate datechar="creation">September 1997</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_864fce927b29a82ab735cfae4f6c3deb" label="Mixed Materials [31142063615317]" type="Box">5</container>
+              <container id="aspace_1e2cc25d1ae510dfb4cb21934c999c19" parent="aspace_864fce927b29a82ab735cfae4f6c3deb" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref280" level="file">
+            <did>
+              <unittitle>[October 1997]</unittitle>
+              <unitdate datechar="creation">Ocotber 1997</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_303ecb11b18ae622527ea06e1330e3a4" label="Mixed Materials [31142063615317]" type="Box">5</container>
+              <container id="aspace_525dc15aedf9ceac346026794aefff20" parent="aspace_303ecb11b18ae622527ea06e1330e3a4" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref281" level="file">
+            <did>
+              <unittitle>[November 1997]</unittitle>
+              <unitdate datechar="creation">November 1997</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_bb420583c4bf3eeef1f0aac5239ecb5f" label="Mixed Materials [31142063615317]" type="Box">5</container>
+              <container id="aspace_c41e8b41811b27dbcc1cced636a7d3ce" parent="aspace_bb420583c4bf3eeef1f0aac5239ecb5f" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref282" level="file">
+            <did>
+              <unittitle>[December 1997]</unittitle>
+              <unitdate datechar="creation">December 1997</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_5cdea7c0cc5f611762bc938287869506" label="Mixed Materials [31142063615317]" type="Box">5</container>
+              <container id="aspace_09bf2881f228a9c66b5bc49b87f0ad32" parent="aspace_5cdea7c0cc5f611762bc938287869506" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref283" level="file">
+            <did>
+              <unittitle>"Parasite '98 Invoices"</unittitle>
+              <unitdate datechar="creation">1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_d46d1f9ac9da4bb666ec9ad9a713278a" label="Mixed Materials [31142063615317]" type="Box">5</container>
+              <container id="aspace_8255ac035bf5299545109095045c2f93" parent="aspace_d46d1f9ac9da4bb666ec9ad9a713278a" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref284" level="file">
+            <did>
+              <unittitle>[January 1998]</unittitle>
+              <unitdate datechar="creation">January 1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_beb85d7d97e084a257bfcc1ed7168bae" label="Mixed Materials [31142063615317]" type="Box">5</container>
+              <container id="aspace_bcc98c03f4b1abb724b2645ec1f89486" parent="aspace_beb85d7d97e084a257bfcc1ed7168bae" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref285" level="file">
+            <did>
+              <unittitle>[February 1998]</unittitle>
+              <unitdate datechar="creation">February 1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7c530fcad8ae95640913c6ee438c5c3c" label="Mixed Materials [31142063615317]" type="Box">5</container>
+              <container id="aspace_e4f9726a317125bf923ebc75986f16e3" parent="aspace_7c530fcad8ae95640913c6ee438c5c3c" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref271" level="file">
+            <did>
+              <unittitle>[March 1998]</unittitle>
+              <unitdate datechar="creation">March 1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_72c8598f32e758016c4a2da26633a5eb" label="Mixed Materials [31142063615317]" type="Box">5</container>
+              <container id="aspace_83024188b01ea7cdedd858662856c065" parent="aspace_72c8598f32e758016c4a2da26633a5eb" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref272" level="file">
+            <did>
+              <unittitle>[April 1998]</unittitle>
+              <unitdate datechar="creation">April 1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_ce8b318391e73a029ba0f15644ba3356" label="Mixed Materials [31142063615317]" type="Box">5</container>
+              <container id="aspace_431e55a6a40ec8cb1405073a6a8ddb33" parent="aspace_ce8b318391e73a029ba0f15644ba3356" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref273" level="file">
+            <did>
+              <unittitle>[May 1998]</unittitle>
+              <unitdate datechar="creation">May 1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_fed708a2b29ce9450b5ccec3b2880ec0" label="Mixed Materials [31142063615317]" type="Box">5</container>
+              <container id="aspace_508eda57ea9dfb249d140ca3bdb2dbdf" parent="aspace_fed708a2b29ce9450b5ccec3b2880ec0" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref274" level="file">
+            <did>
+              <unittitle>[June 1998]</unittitle>
+              <unitdate datechar="creation">June 1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_62d75e608d279dc37249a722e12ca643" label="Mixed Materials [31142063615317]" type="Box">5</container>
+              <container id="aspace_f4df34002d435dfdfabaa324a6f93644" parent="aspace_62d75e608d279dc37249a722e12ca643" type="Folder">16</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref12" level="series">
+        <did>
+          <unittitle>Series IV: Video recordings</unittitle>
+        </did>
+        <scopecontent id="aspace_b8ab44c87238fc8b4544ac8ad7575ec3">
+          <head>Scope and Content</head>
+          <p>Series IV: Video includes project recordings from the Parasite Document Collection in addition to Helmet Draxler and Andrea Fraser's "Services." These materials are arranged chronologically.</p>
+        </scopecontent>
+        <accessrestrict id="aspace_b5cd870661392f99969d8551c7a5e268">
+          <head>Conditions Governing Access</head>
+          <p>Access copies for some materials are available by appointment for reading room viewing and listening only. Please contact fales.library@nyu.edu, 212-998-2596.</p>
+        </accessrestrict>
+        <c id="aspace_ref110" level="item">
+          <did>
+            <unittitle>"Some Installations" by Judith Barry</unittitle>
+            <unitid>ID: 333.0001</unitid>
+            <unitdate datechar="creation" normal="1985/1996" type="inclusive">1985 - 1996</unitdate>
+            <container altrender="Record carton" id="aspace_b3918e976ce07fc22193db2e3629e791" label="moving images [31142063513488]" type="Box">6</container>
+            <container id="aspace_cc7537b64d6b7c84b8d3a1cbae8ca881" parent="aspace_b3918e976ce07fc22193db2e3629e791" type="Media">ID: 333.0001</container>
+            <container altrender="Jewel Case - 5.75" id="aspace_d0097d611ba01983022702121334626d" label="access dvd [31142063420015]" type="case">333.0001</container>
+          </did>
+          <phystech id="aspace_881dd2e7777927087f3de15ce8434fa1">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: VHS</p>
+            <p>Duration: 39 minutes.</p>
+          </phystech>
+          <altformavail id="aspace_1d5225817b2e309ae0e359f68eb3af9a">
+            <head>Existence and Location of Copies</head>
+            <p>Access DVD available.</p>
+          </altformavail>
+        </c>
+        <c id="aspace_ref112" level="item">
+          <did>
+            <unittitle>"Moving a Border by Moving a River &amp; OECD Trailer" by Peter Fend / OECD</unittitle>
+            <unitid>ID: 333.0002</unitid>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container altrender="Record carton" id="aspace_10834566926ceee2f9cf7c39b4157396" label="moving images [31142063513488]" type="Box">6</container>
+            <container id="aspace_63ccdd4deab7182d93df4d3112e1f5ff" parent="aspace_10834566926ceee2f9cf7c39b4157396" type="Media">ID: 333.0002</container>
+            <container altrender="Jewel Case - 5.75" id="aspace_faca92d48fa61fdb0e5a4e41685d09bf" label="access dvd [31142063420023]" type="case">333.0002</container>
+          </did>
+          <altformavail id="aspace_79cdc0a5b73caf93b81b41c1793d9fe6">
+            <head>Existence and Location of Copies</head>
+            <p>Access DVD available.</p>
+          </altformavail>
+          <phystech id="aspace_7d8b17c152175700685c174fa173271a">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: VHS</p>
+            <p>Duration: 55 minutes.</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref114" level="item">
+          <did>
+            <unittitle>"Services: Sektion 1"</unittitle>
+            <unitid>ID: 333.0003</unitid>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">January 1994</unitdate>
+            <container altrender="Record carton" id="aspace_8ff21b3423f84e87367c89d3af6ef847" label="moving images [31142063513488]" type="Box">6</container>
+            <container id="aspace_405be257542740e0bde635266016457d" parent="aspace_8ff21b3423f84e87367c89d3af6ef847" type="Media">ID: 333.0003</container>
+            <container altrender="Jewel Case - 5.75" id="aspace_83da0283cbe085146e7c4d2d04b6771d" label="access dvd [31142063420031]" type="case">333.0003</container>
+          </did>
+          <altformavail id="aspace_894e70feb91f57391cc7a235ea2e7aa9">
+            <head>Existence and Location of Copies</head>
+            <p>Access DVD available.</p>
+          </altformavail>
+          <phystech id="aspace_16931edda0bbf26c33f9b29599d3a29a">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: VHS</p>
+            <p>Duration: 64 minutes. </p>
+          </phystech>
+        </c>
+        <c id="aspace_ref117" level="item">
+          <did>
+            <unittitle>"Services: Sektion 2"</unittitle>
+            <unitid>ID: 333.0004</unitid>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">January 1994</unitdate>
+            <container altrender="Record carton" id="aspace_7565f5ab6095abe286f7bb4bec12ae92" label="moving images [31142063513488]" type="Box">6</container>
+            <container id="aspace_124bd609c14244d2b84e98dd7e7f83bd" parent="aspace_7565f5ab6095abe286f7bb4bec12ae92" type="Media">ID: 333.0004</container>
+            <container altrender="Jewel Case - 5.75" id="aspace_220082d1f0c8b948584715d9ce1bbb89" label="access dvd [31142063420049]" type="case">333.0004</container>
+          </did>
+          <altformavail id="aspace_6dc85ca78cb723871df27274ea907f05">
+            <head>Existence and Location of Copies</head>
+            <p>Access DVD available.</p>
+          </altformavail>
+          <phystech id="aspace_b7a69db8f2d387a2c68c24e7abc4fc18">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: VHS</p>
+            <p>Duration: 179 minutes.</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref119" level="item">
+          <did>
+            <unittitle>"Services: Sektion 3"</unittitle>
+            <unitid>ID: 333.0005</unitid>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">January 1994</unitdate>
+            <container altrender="Record carton" id="aspace_c3756fcd8bfad363723abe690ed53670" label="moving images [31142063513488]" type="Box">6</container>
+            <container id="aspace_340b1b1f13902b64e97b82ec55437190" parent="aspace_c3756fcd8bfad363723abe690ed53670" type="Media">ID: 333.0005</container>
+            <container altrender="Jewel Case - 5.75" id="aspace_03ed32285200085c7ace3d9c12ca64be" label="access dvd [31142063420056]" type="case">333.0005</container>
+          </did>
+          <altformavail id="aspace_4c202cd8301b1f6fa7d06670c4589de3">
+            <head>Existence and Location of Copies</head>
+            <p>Access DVD available.</p>
+          </altformavail>
+          <phystech id="aspace_bbe2fc2bf2af94bcbeab55df01da9d85">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: VHS</p>
+            <p>Duration: 133 minutes.</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref121" level="item">
+          <did>
+            <unittitle>"Services: Sektion 4"</unittitle>
+            <unitid>ID: 333.0006</unitid>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">January 1994</unitdate>
+            <container altrender="Record carton" id="aspace_d4937d36ae1113a27a4089fce3764c71" label="moving images [31142063513488]" type="Box">6</container>
+            <container id="aspace_38429df1ba09257dea1db74428f178a0" parent="aspace_d4937d36ae1113a27a4089fce3764c71" type="Media">ID: 333.0006</container>
+            <container altrender="Jewel Case - 5.75" id="aspace_ad50df7715d20e488dc4d6dea9c20246" label="access dvd [31142063420064]" type="case">333.0006</container>
+          </did>
+          <altformavail id="aspace_b4a513ad9f7c726d0f33a0b867ed1b94">
+            <head>Existence and Location of Copies</head>
+            <p>Access DVD available.</p>
+          </altformavail>
+          <phystech id="aspace_4c0206f58055a9d1688dae1b588de195">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: VHS</p>
+            <p>Duration: 130 minutes.</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref123" level="item">
+          <did>
+            <unittitle>"Services: Sektion 5"</unittitle>
+            <unitid>ID: 333.0007</unitid>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">January 1994</unitdate>
+            <container altrender="Record carton" id="aspace_926c221e2c82598f6cf71e8c469a6693" label="moving images [31142063513488]" type="Box">6</container>
+            <container id="aspace_a6df1d32a9f4ee6f8d46b15fd041e527" parent="aspace_926c221e2c82598f6cf71e8c469a6693" type="Media">ID: 333.0007</container>
+            <container altrender="Jewel Case - 5.75" id="aspace_7a4fecd3d973803d760304c853f7b36b" label="access dvd [31142063420072]" type="case">333.0007</container>
+          </did>
+          <altformavail id="aspace_08ee88b8bf088198b1b56858872264f1">
+            <head>Existence and Location of Copies</head>
+            <p>Access DVD available.</p>
+          </altformavail>
+          <phystech id="aspace_dfc8d9d476328d6c6403d1b9dccc31f3">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: VHS</p>
+            <p>Duration: 164 minutes. </p>
+          </phystech>
+        </c>
+        <c id="aspace_ref125" level="item">
+          <did>
+            <unittitle>"Services: Sektion 6"</unittitle>
+            <unitid>ID: 333.0008</unitid>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">January 1994</unitdate>
+            <container altrender="Record carton" id="aspace_bc20bebf6ee231797402bf197c43c4e7" label="moving images [31142063513488]" type="Box">6</container>
+            <container id="aspace_02c9ff5ec56512145ee70d13df339cfc" parent="aspace_bc20bebf6ee231797402bf197c43c4e7" type="Media">ID: 333.0008</container>
+            <container altrender="Jewel Case - 5.75" id="aspace_000f1f6458b120e0cd849ed04768942e" label="access dvd [31142063420080]" type="case">333.0008</container>
+          </did>
+          <altformavail id="aspace_528c141464badb131f4e24b94cd5d36e">
+            <head>Existence and Location of Copies</head>
+            <p>Access DVD available.</p>
+          </altformavail>
+          <phystech id="aspace_1c07c22fd7672b5410edddd998cd21a0">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: VHS</p>
+            <p>Duration: 99 minutes.</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref127" level="item">
+          <did>
+            <unittitle>"Dissociation I" by Mike Ballou &amp; Adam Simon</unittitle>
+            <unitid>ID: 333.0009</unitid>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container altrender="Record carton" id="aspace_84b8c52508aaad30935e292dba4c7562" label="moving images [31142063513488]" type="Box">6</container>
+            <container id="aspace_8d5afa1ed5307823f62ac2b66b7db966" parent="aspace_84b8c52508aaad30935e292dba4c7562" type="Media">ID: 333.0009</container>
+            <container altrender="Jewel Case - 5.75" id="aspace_ec56184f5544d8832d7c90ae4092af60" label="access dvd [31142063420098]" type="case">333.0009</container>
+          </did>
+          <altformavail id="aspace_bd79e4c9149330f02ba1943068e539d3">
+            <head>Existence and Location of Copies</head>
+            <p>Access DVD available.</p>
+          </altformavail>
+          <phystech id="aspace_0e6ba38cc4980368ccc5ed8f529d8e26">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: VHS</p>
+            <p>Duration: 42 minutes.</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref129" level="item">
+          <did>
+            <unittitle>"Corita Kent On Teaching &amp; Celebration - Target City Hall"</unittitle>
+            <unitid>ID: 333.0010</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_7524d113659cd0730b6cf12c61ee1b2c" label="moving images [31142063513488]" type="Box">6</container>
+            <container id="aspace_b550328ec0cf731daeba4035cd3de3d1" parent="aspace_7524d113659cd0730b6cf12c61ee1b2c" type="Media">ID: 333.0010</container>
+            <container altrender="Jewel Case - 5.75" id="aspace_c74de491692b3caae8134886c806fabf" label="access dvd [31142063420106]" type="case">333.0010</container>
+          </did>
+          <altformavail id="aspace_7d5f5af686cfbe3beab2fe2268ad900b">
+            <head>Existence and Location of Copies</head>
+            <p>Access DVD available.</p>
+          </altformavail>
+          <phystech id="aspace_58ef9dd1e9500cd1915f235b243c8364">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: VHS</p>
+            <p>Duration: 63 minutes.</p>
+          </phystech>
+        </c>
+      </c>
+      <c id="aspace_ref13" level="series">
+        <did>
+          <unittitle>Series V: Audio recordings</unittitle>
+        </did>
+        <scopecontent id="aspace_fad6a96902d086c9f9f9a39202a9087e">
+          <head>Scope and Content</head>
+          <p>Series V: Audio contains recordings of Parasite presentations, symposia, discussion groups, and other public programs of interest. These materials are arranged chronologically.</p>
+        </scopecontent>
+        <c id="aspace_ref217" level="item">
+          <did>
+            <unittitle>"An Introduction to the 1993 Biennial Exhibition of the Whitney Museum of American Art" by Andrea Fraser</unittitle>
+            <unitid>ID: 333.0029</unitid>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Record carton" id="aspace_fa8a40a57f0e18fd0f0179e39c348ff7" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_1c294edc440399b9c44ff092aa5dbb49" parent="aspace_fa8a40a57f0e18fd0f0179e39c348ff7" type="Media">ID: 333.0029</container>
+          </did>
+          <accessrestrict id="aspace_7e6af861f473ac386d127151fa01a422">
+            <head>Conditions Governing Access</head>
+            <p>Currently unavailable until duplication occurs.</p>
+          </accessrestrict>
+          <phystech id="aspace_1825ecd934e49ec403982c2b5b6b063b">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Duration: 45 minutes</p>
+            <p>Original format: Audiocassette</p>
+            <p>This audio element was originally found with corresponding documentation preserved in Series II: Services - A Working - Group Exhibition: "Fraser, Andrea: Recorded Tour, Whitney Biennial Exhibition."</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref132" level="item">
+          <did>
+            <unittitle>"Services"</unittitle>
+            <unitid>ID: 333.0011</unitid>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container altrender="Record carton" id="aspace_7856528551835b958fd755a3392a244e" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_80e293641f1cbce6708d43e20dd56a46" parent="aspace_7856528551835b958fd755a3392a244e" type="Media">ID: 333.0011</container>
+          </did>
+          <accessrestrict id="aspace_2f48af9c28558ab1990a667172d5d160">
+            <head>Conditions Governing Access</head>
+            <p>Currently unavailable until duplication occurs.</p>
+          </accessrestrict>
+          <phystech id="aspace_d9b46d54871a9ccfbc4b3bb2997d8580">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref133" level="item">
+          <did>
+            <unittitle>"CPM Documenta X Tape 1"</unittitle>
+            <unitid>ID: 333.0012</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">January 7, 1998</unitdate>
+            <container altrender="Record carton" id="aspace_22ced023978c96d7dfeec06bb1c0ffa6" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_f0c2dac553ee0593afb208a7a8f44c45" parent="aspace_22ced023978c96d7dfeec06bb1c0ffa6" type="Media">ID: 333.0012</container>
+          </did>
+          <accessrestrict id="aspace_75ac67fb7925df06e0a90536203d4a1a">
+            <head>Conditions Governing Access</head>
+            <p>Currently unavailable until duplication occurs.</p>
+          </accessrestrict>
+          <phystech id="aspace_8cd8dd775dab7829e8bfeca40355f4b0">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref134" level="item">
+          <did>
+            <unittitle>"CPM Documenta X Tape 2"</unittitle>
+            <unitid>ID: 333.0013</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">January 7,1998</unitdate>
+            <container altrender="Record carton" id="aspace_58cddad568cb18761d6fb88e11d3b016" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_8dd9c842caf659723d220a927e414c30" parent="aspace_58cddad568cb18761d6fb88e11d3b016" type="Media">ID: 333.0013</container>
+          </did>
+          <accessrestrict id="aspace_8427dfcde6be284581591621acc6a222">
+            <head>Conditions Governing Access</head>
+            <p>Currently unavailable until duplication occurs.</p>
+          </accessrestrict>
+          <phystech id="aspace_37803ca6c1fa3c8be7dfa73864ede991">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref135" level="item">
+          <did>
+            <unittitle>"Parasite Discussion with Mel Bochner, Tape 1"</unittitle>
+            <unitid>ID: 333.0014</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">February 27, 1998</unitdate>
+            <container altrender="Record carton" id="aspace_7a1423de4c553cfa25e1fef0505743a9" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_5bf5966ffd643f8bb14f88ff910e5cf9" parent="aspace_7a1423de4c553cfa25e1fef0505743a9" type="Media">ID: 333.0014</container>
+            <container altrender="Audiocassette Case - 0.75 x 4.25" id="aspace_0f33844befac49cd4fbc6e53fd51bb5d" label="access cassette [31142063247327]" type="case">333.0014</container>
+          </did>
+          <accessrestrict id="aspace_61141bcdd0b4cd001c79b8a4404109aa">
+            <head>Conditions Governing Access</head>
+            <p>Currently available.</p>
+          </accessrestrict>
+          <altformavail id="aspace_1cdb56ab6f53b7bd707a511790f53146">
+            <head>Existence and Location of Copies</head>
+            <p>Audiocassette access copy available.</p>
+          </altformavail>
+          <phystech id="aspace_b805b02cfe04c463d7d1fc3091fed9b0">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: Audiocassette</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref136" level="item">
+          <did>
+            <unittitle>"Parasite Discussion with Mel Bochner, Tape 2"</unittitle>
+            <unitid>ID: 333.0015</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">February 27, 1998</unitdate>
+            <container altrender="Record carton" id="aspace_bb196e285d18b9284db18529ac3608a6" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_9719d80e40c24ccb57d5435605cde06d" parent="aspace_bb196e285d18b9284db18529ac3608a6" type="Media">ID: 333.0015</container>
+            <container altrender="Audiocassette Case - 0.75 x 4.25" id="aspace_7636759e123318919a4a44f6d0d8c729" label="access cassette [31142063247335]" type="case">333.0015</container>
+          </did>
+          <phystech id="aspace_41dc5936df092f6f6bfcef38a1f1d650">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+          <altformavail id="aspace_0da8a8c7c34df21630ed49cccceac0c8">
+            <head>Existence and Location of Copies</head>
+            <p>Audiocassette access copy available.</p>
+          </altformavail>
+          <accessrestrict id="aspace_f51732ff7e8865a380cca7395d10da05">
+            <head>Conditions Governing Access</head>
+            <p>Currently available.</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_ref137" level="item">
+          <did>
+            <unittitle>"REPO History at Parasite"</unittitle>
+            <unitid>ID: 333.0016</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">March 24, 1998</unitdate>
+            <container altrender="Record carton" id="aspace_3532287621f9f0f0973d4fd57412f60e" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_c9106bebb0f7ecc9f3c4845f033ce365" parent="aspace_3532287621f9f0f0973d4fd57412f60e" type="Media">ID: 333.0016</container>
+          </did>
+          <accessrestrict id="aspace_f14d2e9d7f5ddee1e989a5a6161dfb3b">
+            <head>Conditions Governing Access</head>
+            <p>Currently unavailable until duplication occurs.</p>
+          </accessrestrict>
+          <phystech id="aspace_711349b74ebdf9660a5cfe64b2a25f5a">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref138" level="item">
+          <did>
+            <unittitle>"Parasite Meeting on Site-Specificity, etc."</unittitle>
+            <unitid>ID: 333.0017</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">June 3, 1998</unitdate>
+            <container altrender="Record carton" id="aspace_b1bce401c576c4b369e8d0e74ebc66a7" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_7e1e4d6d87b7637c99eea96199efdded" parent="aspace_b1bce401c576c4b369e8d0e74ebc66a7" type="Media">ID: 333.0017</container>
+            <container altrender="Audiocassette Case - 0.75 x 4.25" id="aspace_cdd1fb4d3c04f794c780efb501139519" label="access cassette [31142063247343]" type="case">333.0017</container>
+          </did>
+          <accessrestrict id="aspace_b5e894c68199620ceeb4c995250045a7">
+            <head>Conditions Governing Access</head>
+            <p>Currently available.</p>
+          </accessrestrict>
+          <altformavail id="aspace_9f3c14b5e5bbdd2ad059e71533961129">
+            <head>Existence and Location of Copies</head>
+            <p>Audiocassette access copy available.</p>
+          </altformavail>
+          <phystech id="aspace_2a0b6b5cf5295e0ef03bfa31fbd4a9b5">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref139" level="item">
+          <did>
+            <unittitle>"Tape #1 - Parasite Sur L'Herbe or, Slippages"</unittitle>
+            <unitid>ID: 333.0018</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">July 4, 1998</unitdate>
+            <container altrender="Record carton" id="aspace_6372b315fa9fd15eab527fd98b98a5bf" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_ad2693fc342e5f944f604da387b1417e" parent="aspace_6372b315fa9fd15eab527fd98b98a5bf" type="Media">ID: 333.0018</container>
+          </did>
+          <phystech id="aspace_325b801bcf7135ce114d6ecc202c64c7">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+          <accessrestrict id="aspace_0a7248231414a816a1bf48d0dbeac6b5">
+            <head>Conditions Governing Access</head>
+            <p>Currently unavailable until duplication occurs.</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_ref140" level="item">
+          <did>
+            <unittitle>"#2 - Prin Tempe du Parasite"</unittitle>
+            <unitid>ID: 333.0019</unitid>
+            <unitdate datechar="creation">July 4, 1998</unitdate>
+            <container altrender="Record carton" id="aspace_e44f2cc7a5503823b03c1e5c2cf1bb93" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_c756f6b258add337154b4b13fa106df0" parent="aspace_e44f2cc7a5503823b03c1e5c2cf1bb93" type="Media">ID: 333.0019</container>
+          </did>
+          <accessrestrict id="aspace_4fd6abfdc25373859262c39f3de37547">
+            <head>Conditions Governing Access</head>
+            <p>Currently unavailable until duplication occurs.</p>
+          </accessrestrict>
+          <phystech id="aspace_bb6e3506658ec30dca56ae6a9054c0c9">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref141" level="item">
+          <did>
+            <unittitle>"#3 - Parasite (American Canvas con't)"</unittitle>
+            <unitid>ID: 333.0020</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">July 4, 1998</unitdate>
+            <container altrender="Record carton" id="aspace_65d9b41f54c5486330b72564f2593699" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_6ca61843aeefb4641c9872e17de9189a" parent="aspace_65d9b41f54c5486330b72564f2593699" type="Media">ID: 333.0020</container>
+          </did>
+          <accessrestrict id="aspace_da79ea818a3b123d06619a6e84e6c4d0">
+            <head>Conditions Governing Access</head>
+            <p>Currently unavailable until duplication occurs.</p>
+          </accessrestrict>
+          <phystech id="aspace_49ed5a18e3972400dc06b80834b74982">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref142" level="item">
+          <did>
+            <unittitle>"#4 - Parasite (American Canvas con't)"</unittitle>
+            <unitid>ID: 333.0021</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">July 4, 1998</unitdate>
+            <container altrender="Record carton" id="aspace_f6f587d5545a1f504769fda093c9edb4" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_964992df2d36a780fc1afd169e17eb8b" parent="aspace_f6f587d5545a1f504769fda093c9edb4" type="Media">ID: 333.0021</container>
+          </did>
+          <accessrestrict id="aspace_6b9f66db3920185a41932b5e0fcfaf41">
+            <head>Conditions Governing Access</head>
+            <p>Currently unavailable until duplication occurs.</p>
+          </accessrestrict>
+          <phystech id="aspace_7c58958f9795e74e139359ee97eaa86d">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref143" level="item">
+          <did>
+            <unittitle>"Parasite #5"</unittitle>
+            <unitid>ID: 333.0022</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">July 4, 1998</unitdate>
+            <container altrender="Record carton" id="aspace_cfd1dce6c73f43e911efe6f0e86b0854" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_4a4df4fa33c69d9e281de8b003269330" parent="aspace_cfd1dce6c73f43e911efe6f0e86b0854" type="Media">ID: 333.0022</container>
+          </did>
+          <accessrestrict id="aspace_a2be1da509fb7e827689d7c783f5b9bf">
+            <head>Conditions Governing Access</head>
+            <p>Currently unavailable until duplication occurs.</p>
+          </accessrestrict>
+          <phystech id="aspace_4a47303a532b30330b451100bf2fc788">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref144" level="item">
+          <did>
+            <unittitle>"PS, Day 2, Tape 3"</unittitle>
+            <unitid>ID: 333.0023</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container altrender="Record carton" id="aspace_733e87fdd1e053cbabf127bc1b893322" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_b68152bddaeae887d66a9210edd6842b" parent="aspace_733e87fdd1e053cbabf127bc1b893322" type="Media">ID: 333.0023</container>
+          </did>
+          <accessrestrict id="aspace_d0eca85a4894766be5745d92c0f02e79">
+            <head>Conditions Governing Access</head>
+            <p>Currently unavailable until duplication occurs.</p>
+          </accessrestrict>
+          <phystech id="aspace_8f24727bd113d41018c75e39c7fdb7c3">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref145" level="item">
+          <did>
+            <unittitle>"Parasite Day 2, Tape #1"</unittitle>
+            <unitid>ID: 333.0024</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">July 5, 1998</unitdate>
+            <container altrender="Record carton" id="aspace_bba8a5c9c7ccc3ec46c77013ede51dcf" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_1537d9477d1b79e7bf4292826996f893" parent="aspace_bba8a5c9c7ccc3ec46c77013ede51dcf" type="Media">ID: 333.0024</container>
+          </did>
+          <accessrestrict id="aspace_6207641b282724ccf72ea72b6c70c95d">
+            <head>Conditions Governing Access</head>
+            <p>Currently unavailable until duplication occurs.</p>
+          </accessrestrict>
+          <phystech id="aspace_4d64df68e1e33e32d0852d5713a111bd">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref146" level="item">
+          <did>
+            <unittitle>"Parasite, Tape 2, Day 2"</unittitle>
+            <unitid>ID: 333.0025</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container altrender="Record carton" id="aspace_4f94f06800b83e3161dc5e2d73dd3330" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_550ca72379cae58214e264ec6328a8c1" parent="aspace_4f94f06800b83e3161dc5e2d73dd3330" type="Media">ID: 333.0025</container>
+          </did>
+          <accessrestrict id="aspace_5bb7b6850b84add08c35352d511fc29d">
+            <head>Conditions Governing Access</head>
+            <p>Currently unavailable until duplication occurs.</p>
+          </accessrestrict>
+          <phystech id="aspace_63e38b4b7cb3bb0611f55fbd1b6246df">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref147" level="item">
+          <did>
+            <unittitle>"Le (Dernder) Tape"</unittitle>
+            <unitid>ID: 333.0026</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">July 4, 1998</unitdate>
+            <container altrender="Record carton" id="aspace_2189826b2630f959af713b4ca3ea0384" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_92aae1a0584ddc23eecd174f48cb6c97" parent="aspace_2189826b2630f959af713b4ca3ea0384" type="Media">ID: 333.0026</container>
+          </did>
+          <accessrestrict id="aspace_14edbb37d6478090be7bb79e4670bcb3">
+            <head>Conditions Governing Access</head>
+            <p>Currently unavailable until duplication occurs.</p>
+          </accessrestrict>
+          <phystech id="aspace_6d8feeff0982e5d4028105b4325c6842">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref148" level="item">
+          <did>
+            <unittitle>"Parasite Discussion Tape #1"</unittitle>
+            <unitid>ID: 333.0027</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">July 28, 1998</unitdate>
+            <container altrender="Record carton" id="aspace_52a1c84f706c1a6571f37f71a567d8e0" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_bfbbbf7d9a278bb327b3ab4ec0efe717" parent="aspace_52a1c84f706c1a6571f37f71a567d8e0" type="Media">ID: 333.0027</container>
+          </did>
+          <accessrestrict id="aspace_f0dfac49652da26eaf3015e40c3efaad">
+            <head>Conditions Governing Access</head>
+            <p>Currently unavailable until duplication occurs.</p>
+          </accessrestrict>
+          <phystech id="aspace_d9bc392eeac7da9ae71e0f05360bdc02">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+        </c>
+        <c id="aspace_ref149" level="item">
+          <did>
+            <unittitle>"Publication Meeting"</unittitle>
+            <unitid>ID: 333.0028</unitid>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">October 8, 1998</unitdate>
+            <container altrender="Record carton" id="aspace_4df29446df8d060ce6604f8bc0f95709" label="Audio [31142063513488]" type="Box">6</container>
+            <container id="aspace_5bd0394f365db492f2326823118fa7fa" parent="aspace_4df29446df8d060ce6604f8bc0f95709" type="Media">ID: 333.0028</container>
+            <container altrender="Audiocassette Case - 0.75 x 4.25" id="aspace_0f7e1d22d38a6c59f56afed7cc7f7d47" label="access cassette [31142063247350]" type="case">333.0028</container>
+          </did>
+          <altformavail id="aspace_afd09cef2b2f0ff53e80431bd56d1e72">
+            <head>Existence and Location of Copies</head>
+            <p>Audiocassette access copy available.</p>
+          </altformavail>
+          <accessrestrict id="aspace_51d77b685c4ab05941e72c58f3805af7">
+            <head>Conditions Governing Access</head>
+            <p>Currently available.</p>
+          </accessrestrict>
+          <phystech id="aspace_c264f27f973884be0021bf30a8e08dba">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original format: Audiocassette</p>
+          </phystech>
+        </c>
+      </c>
+      <c id="aspace_ref107" level="series">
+        <did>
+          <unittitle>Series VI: Data Storage</unittitle>
+        </did>
+        <scopecontent id="aspace_345c416e5ffd3a71767df8dafe5d58ec">
+          <head>Scope and Content</head>
+          <p>Subseries VI: Data Storage consists of computer files on disk.</p>
+        </scopecontent>
+        <accessrestrict id="aspace_3684ba0c8914a026b56e0565afe43e32">
+          <head>Conditions Governing Access</head>
+          <p>Born-digital materials have not been preserved and may not be available to researchers.</p>
+        </accessrestrict>
+        <c id="aspace_ref108" level="item">
+          <did>
+            <unittitle>"Parasite News Data"</unittitle>
+            <unitid>ID: 333.3.0001</unitid>
+            <unitdate datechar="creation">5/28/98</unitdate>
+            <container altrender="Record carton" id="aspace_b4ffef2d6039b7e08171b47d64e77bec" label="Computer Disks [31142063513488]" type="Box">6</container>
+            <container id="aspace_2f6adf08d0f580cb43fcecfac7537a80" parent="aspace_b4ffef2d6039b7e08171b47d64e77bec" type="Media">ID: 333.3.0001</container>
+          </did>
+          <odd id="aspace_b40d3392f06e044efa80be2646e67af4">
+            <head>General</head>
+            <p>Format: HD 3.5" Disk</p>
+            <p>Capacity: [unknown]</p>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref77" level="series">
+        <did>
+          <unittitle>OVERSIZE Series I: Parasite Document Collection</unittitle>
+        </did>
+        <scopecontent id="aspace_7e914b631b92cd354f2f93cb6f4bcb00">
+          <head>Scope and Content</head>
+          <p>Series I: Parasite Document Collection preserves a collection of contemporary and historical documents relating to project-based activity. Materials on particular artists and works include documentation of completed projects and, where possible, proposals, contracts, correspondence, and ephemera. These materials are arranged alphabetically by artist, item title, or subject.</p>
+        </scopecontent>
+        <c id="aspace_ref288" level="file">
+          <did>
+            <unittitle>REPO History Collective [2 of 2]</unittitle>
+            <unitdate datechar="creation">1993 - 1996</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_b68c83cd7a9e42cdc0adc33ab6f2b339" label="Mixed Materials [31142054896173]" type="Box">7</container>
+            <container id="aspace_ffeebccee21f302acdced7ff3853ee6f" parent="aspace_b68c83cd7a9e42cdc0adc33ab6f2b339" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref289" level="file">
+          <did>
+            <unittitle>Shedhalle Zurich [2 of 3]</unittitle>
+            <unitdate datechar="creation">1994 - 1997</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_25e6483763cc9ad7096972c4a57a96e2" label="Mixed Materials [31142054896173]" type="Box">7</container>
+            <container id="aspace_b5a354d50302dd5bcf9a61ccc332227d" parent="aspace_25e6483763cc9ad7096972c4a57a96e2" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref290" level="file">
+          <did>
+            <unittitle>Shedhalle Zurich [3 of 3]</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_b5acd777a76b5c832db17c90652e06cd" label="Mixed Materials [31142063428414]" type="Folder">21</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref287" level="series">
+        <did>
+          <unittitle>OVERSIZE Series II: Services: A Working-Group Exhibition</unittitle>
+        </did>
+        <scopecontent id="aspace_a2ac6008218912b68fb307a4ef3c7436">
+          <head>Scope and Content</head>
+          <p>Series II: Services: A Working - Group Exhibition includes materials pertaining to Andrea Fraser's project of the same title. These materials are arranged alphabetically by artist, item title, or subject.</p>
+        </scopecontent>
+        <c id="aspace_ref291" level="file">
+          <did>
+            <unittitle>Dion, Mark: "Sculpture Chicago" [2 of 2]</unittitle>
+            <unitdate datechar="creation">1992 - 1993</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_8411715d891820de143cb934cfbf1ad9" label="Mixed Materials [31142054896173]" type="Box">7</container>
+            <container id="aspace_b8daa4aba764534fb346e54e657349e0" parent="aspace_8411715d891820de143cb934cfbf1ad9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref286" level="file">
+          <did>
+            <unittitle>Group Material: Subculture [Flyer]</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_303dcf3c22cfe945c1fb3ef15e5ee4db" label="Mixed Materials [31142054896173]" type="Box">7</container>
+            <container id="aspace_e068c41933b386c34874e055e95d0dac" parent="aspace_303dcf3c22cfe945c1fb3ef15e5ee4db" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref292" level="file">
+          <did>
+            <unittitle>Sonsbeek '93: International Art Exhibition</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container altrender="Flat OS Box - 23.5" id="aspace_c128e62b54dd58b781d4e760778c4abe" label="Mixed Materials [31142054896173]" type="Box">7</container>
+            <container id="aspace_41e93a0b2f2cd5b8fdf2f575e3fdf1b1" parent="aspace_c128e62b54dd58b781d4e760778c4abe" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

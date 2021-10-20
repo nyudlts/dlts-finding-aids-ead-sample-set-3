@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_42">mc_42</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the George Rowland Collins Papers <num>MC.42</num></titleproper>
+        <author>Tom Frusciano in 1981. Electronic finding aid prepared by John Bence in 2010.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 20:50:00 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>February 2019</date>
+        <item>Edited by Jennifer E. Neal for compliance with DACS and ACM Required Elements for Archival Description</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>George Rowland Collins Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Collins, George Rowland , 1894-</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Collins, Gladys R.</persname>
+      </origination>
+      <unitid>MC.42</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+        <extent altrender="carrier">in one half manuscript box</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1927/1959" type="inclusive">1927-1959</unitdate>
+      <unitdate datechar="creation" normal="1944/1959" type="bulk">1944-1959</unitdate>
+      <abstract id="aspace_9969ffb135ea46da51913e07ff2c86d3">The collection contains speeches and published articles by George Rowland Collins, Dean of New York University's School of Commerce, Accounts, and Finance between 1948 and 1955.  In addition to his administrative role at the university, Collins was a 1922 alumnus of the NYU Graduate School of Business Administration and Professor of Marketing and Public Speaking.</abstract>
+      <langmaterial id="aspace_33e722406a2ec2959504c97e1486636e">Materials are primarily in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_4a3874560ebd3f69f485d2a25af9b351">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_9e9269b3c66fd8cd2266a0a5d8742c52">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Gladys R. Collins in July 1970. The accession number associated with this collection is 2019.013.</p>
+    </acqinfo>
+    <arrangement id="aspace_a269d91973d030b0397cafe9fe842739">
+      <head>Arrangement</head>
+      <p>Materials are arranged chronologically in four folders.</p>
+    </arrangement>
+    <bioghist id="aspace_34ba7522cf978fa2d1f49ed0ec634142">
+      <head>Biographical Note</head>
+      <p>A native of Hubbard, Ohio, George Rowland Collins was born on August 27, 1894. He graduated from Macalester College in St. Paul, Minnesota in 1916 and earned the Master of Arts degree from Harvard University four years later. In 1922 he was awarded an MBA from New York University (NYU).</p>
+      <p>Collins began his teaching and administrative career at NYU in 1920.  That year, he joined the faculty as an Instructor in public speaking in the English Department at University College. By 1923 he was Assistant Professor of Marketing and Public Speaking, rising to Associate Professor the following year, and to Professor of Marketing in 1926. One year later, Professor Collins was appointed Assistant Dean of the School of Commerce, Accounts, and Finance.  He became Associate Dean in 1931. Upon the retirement of A. Wellington Taylor in 1943, Collins was appointed Acting Dean of the Graduate School of Business Administration, as well as Acting Director of the Wall Street Division of the School of Commerce. The following year he was appointed to the deanship of GBA and the directorship of the Wall Street Division.</p>
+      <p>Dean Collins' dual administrative responsibilities in GBA and Commerce increased in 1948 when, upon the retirement of Dean John T. Madden, Chancellor Harry W. Chase selected Collins Acting Dean of the School of Commerce. In October 1948 he was appointed Dean and served in that capacity until 1955, when he relinquished the office in order to devote his energy to conducting a major fundraising campaign to gain new quarters for GBA. He was replaced at the School of Commerce by Thomas L. Norton. Collins continued as Dean of GBA until his retirement in June 1959. He died on October 10, 1968.</p>
+    </bioghist>
+    <prefercite id="aspace_b2acf9ca093abf3308cd7b2b93425e74">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; George Rowland Collins Papers; MC 42; folder number or item identifier; New York University Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_6aadbdb6874902a4a90ef0fd667b2ab5">
+      <head>Processing Information</head>
+      <p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2019 are unknown.</p>
+    </processinfo>
+    <scopecontent id="aspace_584a72e7f38bb06b3730baba04c60d4e">
+      <head>Scope and Contents</head>
+      <p>The majority of the speeches included in this collection are remarks presented by Dean Collins to faculty, students, and alumni groups between 1927 and 1959, and take the form of handwritten and typed manuscripts and cards. The collection also includes several published articles, among them "Role of the Collegiate School of Business in Higher Education" (1950) and the Beta Gamma Sigma Address for 1959.</p>
+    </scopecontent>
+    <separatedmaterial id="aspace_926a1b55b4ac82563bda88ca77f78a03">
+      <head>Separated Materials</head>
+      <p>These speeches and articles are part of a larger donation of material presented to the New York University Archives in July 1970 by Gladys R. Collins, the wife of George Rowland Collins. Included among this material and placed elsewhere in the Archives are Annual Reports to the Chancellor for the Graduate School of Business Administration, 1944/1945 and 1952/1953 through 1958/1959; Annual Reports for the School of Commerce, 1948/1949 and 1950/1951 through 1952/1953; four publications used for promotion in the GBA Building Fund Campaign; three scrapbooks, publications, and photographs from the Golden Anniversary of the School of Commerce, 1950 (RG 11); and photographs of University College English department, 1921/1922, School of Commerce Faculty Dinner, 1936, Commerce Gridiron Dinner, 1937, and a dinner honoring George Burton Hotchkiss, 1949 (see Photograph Collection).</p>
+    </separatedmaterial>
+    <userestrict id="aspace_b73fb5b43750279192a28a36cbfa4c60">
+      <head>Conditions Governing Use</head>
+      <p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Speeches (documents)</genreform>
+      <persname role="dnr" rules="dacs" source="local">Collins, Gladys R.</persname>
+      <persname rules="dacs" source="naf">Hotchkiss, George Burton, 1884-1953</persname>
+      <corpname source="naf">New York University. Graduate School of Business Administration</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref5" level="item">
+        <did>
+          <unittitle>Remarks at Annual Gridiron Dinner honoring Dean Edward J. Kilduff</unittitle>
+          <unitdate datechar="creation" normal="1927/1927">1927</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_680f2a0da1102d37305b399a6a41ee53" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_cdef2b2b4b439e1f5689074ef5d1ed31" parent="aspace_680f2a0da1102d37305b399a6a41ee53" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref6" level="item">
+        <did>
+          <unittitle>Remarks at the 18th Annual Dinner of Delta Mu Delta, School of Commerce Honor Society (preceding Beta Gamma Sigma), honorary membership presented to Thomas B. Watson, President of IBM</unittitle>
+          <unitdate datechar="creation" normal="1930-12-13/1930-12-13">1930-12-13</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_0853dd7c2c40b78492625c7b80395237" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_e2d196fe1628bd4958720955c78a228c" parent="aspace_0853dd7c2c40b78492625c7b80395237" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref7" level="item">
+        <did>
+          <unittitle>Remarks at the Annual Alumni Dinner in honor of the appointment of Herbert M. Schiffer as Assistant Dean of the School of Commerce</unittitle>
+          <unitdate datechar="creation" normal="1931/1931">1931</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_8635a19301347ddd60ec43a4f007222d" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_552df6f2f596ef6cb020f21f15ea5aef" parent="aspace_8635a19301347ddd60ec43a4f007222d" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref8" level="item">
+        <did>
+          <unittitle>Remarks at the Annual Dinner of Beta Gama Sigma, when presenting for honorary membership Edward R. Stettinius, Jr., Chairman of the Board of the United States Steel Corporation</unittitle>
+          <unitdate datechar="creation" normal="1937/1937">1937</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_3ae620198aaa8527ee40b000f3991507" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_e05bf3e5a9e21ed2918ee4cb80c1c2d0" parent="aspace_3ae620198aaa8527ee40b000f3991507" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref9" level="item">
+        <did>
+          <unittitle>Remarks of the Alumni Association Meeting marking for Dean Collins the close of one academic year of service as Acting Dean of the Graduate School of Business Administration</unittitle>
+          <unitdate datechar="creation" normal="1944-06/1944-06">1944-06</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_7119f7eaba87f9d594276ce7a4a7408e" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_cf406a63e6241221815fdca2bc1b13cc" parent="aspace_7119f7eaba87f9d594276ce7a4a7408e" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="item">
+        <did>
+          <unittitle>NYU Press Release: "Dr. G. Rowland Collins Named Dean of New York University Graduate School of Business Administration"</unittitle>
+          <unitdate datechar="creation" normal="1944-06-28/1944-06-28">1944-06-28</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_4180e99edbe549a9db30e73c106078cf" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_3566ba4253c9ec46b5e79a99560bf31d" parent="aspace_4180e99edbe549a9db30e73c106078cf" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref11" level="item">
+        <did>
+          <unittitle>Founders' Day, Alpha Kappa Psi, "Town and Gown"</unittitle>
+          <unitdate datechar="creation" normal="1945-12-14/1945-12-14">1945-12-14</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_961f02aed16cf14245cc26a89d998e0a" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_d540769a971d39294abe95d768a3c94a" parent="aspace_961f02aed16cf14245cc26a89d998e0a" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref12" level="item">
+        <did>
+          <unittitle>Remarks at a Testimonial Dinner honoring Dean Edward J. Kilduff on his promotion to Associate Dean at the School of Commerce</unittitle>
+          <unitdate datechar="creation" normal="1945/1945">1945</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_d1ceb935b6e44e50433f7a931ba14e64" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_f24ec538f287f1c840196a4640034341" parent="aspace_d1ceb935b6e44e50433f7a931ba14e64" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="item">
+        <did>
+          <unittitle>Remarks at Alpha Delta Sigma Dinner</unittitle>
+          <unitdate datechar="creation" normal="1947-12-19/1947-12-19">1947-12-19</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_2b7c825ff3029685b3003133f6d01dc8" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_4cefe6608d05771272f693d4024fd927" parent="aspace_2b7c825ff3029685b3003133f6d01dc8" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="item">
+        <did>
+          <unittitle>Remarks by Dean George Rowland Collins on the occasion of a Dinner in his honor given by the New York University School of Commerce Alumni Association</unittitle>
+          <unitdate datechar="creation" normal="1948-11-30/1948-11-30">1948-11-30</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_9f5db332210ad16ba9e2b21aba36e068" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_09222101f817f11fcbbad6931746fd2b" parent="aspace_9f5db332210ad16ba9e2b21aba36e068" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="item">
+        <did>
+          <unittitle>Remarks at Money Marketeers' Dinner, when accepting the Marcus Nadler Prize Key Award in the name of the Graduate School of Business Administration</unittitle>
+          <unitdate datechar="creation" normal="1948/1948">1948</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_3d565b05aca7affeff358215d0e42028" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_6eea47642977e7cb959c2d090faafeda" parent="aspace_3d565b05aca7affeff358215d0e42028" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="item">
+        <did>
+          <unittitle>"Role of the Collegiate School of Business in Higher Education." <emph render="underline">Intercom</emph> (Official magazine of the School of Commerce), Vol. 5, No. 1, p. 9</unittitle>
+          <unitdate datechar="creation" normal="1950-01/1950-01">1950-01</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_0f97599c10505120cfb1ae6205f59e53" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_75b67b7d20c0edae65445b884141c919" parent="aspace_0f97599c10505120cfb1ae6205f59e53" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="item">
+        <did>
+          <unittitle>"The Next Fifty Years," <emph render="underline">News Workshop</emph>, Vol. 1, No. 3, pp. 1-2</unittitle>
+          <unitdate datechar="creation" normal="1950-04-10/1950-04-10">1950 April 10</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_ea15afc46ef3e3baf5c20ac6b9a14887" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_64a773d50a24796191a440971de82485" parent="aspace_ea15afc46ef3e3baf5c20ac6b9a14887" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="item">
+        <did>
+          <unittitle>Remarks at the Pre-Commencement Ceremony of the Graduate School of Business Administration</unittitle>
+          <unitdate datechar="creation" normal="1951-06/1951-06">1951-06</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_2853de8d19b78f44bb314cbf73ed2918" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_fbcebbf1b1cbf8858cabfec7ec726f37" parent="aspace_2853de8d19b78f44bb314cbf73ed2918" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="item">
+        <did>
+          <unittitle>Remarks at Annual Alumni Association Dinner, School of Commerce, honoring the 25th service birthday of more than fifty faculty members</unittitle>
+          <unitdate datechar="creation" normal="1951-04-10/1951-04-10">1951-04-10</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_8e94576c0df61613ce1a12b3a31ce919" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_f11609c489ad27a8d6a31ebf4f06e3aa" parent="aspace_8e94576c0df61613ce1a12b3a31ce919" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="item">
+        <did>
+          <unittitle>"The True Scholar," <emph render="underline">Proceedings of the Nineteenth Annual Dinner of Beta Gamma Sigma</emph> (New York University Business Series No. 9), pp. 9-14</unittitle>
+          <unitdate datechar="creation" normal="1952-02-14/1952-02-14">1952-02-14</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_4bc70075a3c0178aa46436b225a6bcee" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_38375fea701582a73258b44ac45b32b7" parent="aspace_4bc70075a3c0178aa46436b225a6bcee" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="item">
+        <did>
+          <unittitle>Remarks by Dean G. Rowland Collins at the Dedication of the Dean Herbert M. Schiffer Conference Room, School of Commerce, Accounts, and Finance, New York University</unittitle>
+          <unitdate datechar="creation" normal="1954-02-04/1954-02-04">1954-02-04</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_958a4a8493de637f2c2aee7936e5b0c1" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_25d0c72b22242a0a5b55e45165df8a6b" parent="aspace_958a4a8493de637f2c2aee7936e5b0c1" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="item">
+        <did>
+          <unittitle>Remarks at First Alumni Homecoming Day, Graduate School of Business Administration</unittitle>
+          <unitdate datechar="creation" normal="1954-03-20/1954-03-20">1954-03-20</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_b7249a868f7eb343cb695e2893eab04e" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_cd1e65ca21abd94ac68c7f9d84ce4967" parent="aspace_b7249a868f7eb343cb695e2893eab04e" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="item">
+        <did>
+          <unittitle>Remarks at Dean's Day Homecoming Conference, Graduate School of Business Administration</unittitle>
+          <unitdate datechar="creation" normal="1957-02-16/1957-02-16">1957-02-16</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_afcdf46c17ad3344417e89f8cdd80943" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_6a36704e0209f32b02abf12678f3a1a0" parent="aspace_afcdf46c17ad3344417e89f8cdd80943" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="item">
+        <did>
+          <unittitle>Remarks at the Annual Alumni Dinner, Graduate School of Business Administration</unittitle>
+          <unitdate datechar="creation" normal="1958-06-02/1958-06-02">1958-06-02</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_2d14077695532a2d0872d690b641488a" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_7cc915f86cd324e021fed95326abdbfa" parent="aspace_2d14077695532a2d0872d690b641488a" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="item">
+        <did>
+          <unittitle>Article for <emph render="underline">Newsletter</emph> of the Graduate School of Business Administration</unittitle>
+          <unitdate datechar="creation" normal="1958-06-18/1958-06-18">1958-06-18</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_5d85b88eadf6c238231fd1c907e00aa1" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_16918b4f2143c351ecf054622e7dbbdc" parent="aspace_5d85b88eadf6c238231fd1c907e00aa1" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="item">
+        <did>
+          <unittitle>Remarks at Dean's Day Homecoming Conference, Graduate School of Business Administration</unittitle>
+          <unitdate datechar="creation" normal="1959-02-28/1959-02-28">1959 February 28</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_09c37d754a52d9c8646eb8bdba89bd18" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_fd53571247a714bbb4cbf982fc38f7cd" parent="aspace_09c37d754a52d9c8646eb8bdba89bd18" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="item">
+        <did>
+          <unittitle>Remarks by G. Rowland Collins, in honor of his being tendered by the Association of Past Presidents of the Student Councils of the School of Commerce, Accounts, and Finance of New York University</unittitle>
+          <unitdate datechar="creation" normal="1959-04-15/1959-04-15">1959-04-15</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_b1749179afbb321f50e38a8aff6fa582" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_d80991a03c214dd099c139f91fb1073d" parent="aspace_b1749179afbb321f50e38a8aff6fa582" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="item">
+        <did>
+          <unittitle>Remarks at Testimonial Dinner in honor of Dean Collins at the time of his retirement, Graduate School of Business Administration</unittitle>
+          <unitdate datechar="creation" normal="1959-04-28/1959-04-28">1959-04-28</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_e656cde88b8572f687d9ee09fc08f2e2" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_fb195b14aee17776899ec7cbedec80ce" parent="aspace_e656cde88b8572f687d9ee09fc08f2e2" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="item">
+        <did>
+          <unittitle>Remarks at the Board of Trustees Dinner</unittitle>
+          <unitdate datechar="creation" normal="1959-06-09/1959-06-09">1959-06-09</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_348667575338358730ecd522aeeecb49" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_54f7ae73957cd508f9b4f5a0aff83717" parent="aspace_348667575338358730ecd522aeeecb49" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="item">
+        <did>
+          <unittitle>"Beta Gamma Sigma Address," <emph render="underline">Beta Gamma Sigma Exchange</emph>, Vol. XLIII, No. 2, Serial No. 129, pp. 9-15</unittitle>
+          <unitdate datechar="creation" normal="1959/1959">1959 Summer</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_357839db2903954ba298613bf93b71b3" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_3b32254c95134b825409a946ac7301da" parent="aspace_357839db2903954ba298613bf93b71b3" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="item">
+        <did>
+          <unittitle>Remarks made when presenting Reuben Harold Bach, Executive Bank Vice President, for honorary degree of Doctor of Humane Letters (institution unidentified, but not NYU)</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_76d66734c5ec8fc7c06e612221934dbb" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_86cabe42b1dc348b8a351b1c353c0a22" parent="aspace_76d66734c5ec8fc7c06e612221934dbb" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="item">
+        <did>
+          <unittitle>Remarks by Dean G. Rowland Collins at the Unveiling of an Oil Portrait of Professor George Burton Hotchkiss - deceased, School of Commerce, Accounts, and Finance, New York University</unittitle>
+          <unitdate datechar="creation" normal="1950/1959" type="inclusive">circa 1950s</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_23add81efae101b83cf3a99ad2c43ba1" label="Mixed Materials [31142062673192]" type="Box">1</container>
+          <container id="aspace_ebd81dd79a6d306313dbdd7867a9532b" parent="aspace_23add81efae101b83cf3a99ad2c43ba1" type="Folder">4</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

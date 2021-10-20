@@ -1,0 +1,2449 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_054">tam_054</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the United Hatters, Cap, and Millinery Workers International Union Records <num>TAM.054</num></titleproper>
+        <author>Tamiment staff</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from United Hatters Guide.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 04:04:01 -0400</date>.</creation>
+      <langusage>Finding aid is written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>United Hatters, Cap, and Millinery Workers International Union Records</unittitle>
+      <origination label="Creator">
+        <corpname source="naf">United Hatters, Cap, and Millinery Workers International Union</corpname>
+      </origination>
+      <origination label="source">
+        <corpname role="dnr" source="naf">United Hatters, Cap, and Millinery Workers International Union</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Coleman, Gerald R.</persname>
+      </origination>
+      <unitid>TAM.054</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">42 Linear Feet</extent>
+        <extent altrender="carrier">in 72 boxes and 1 folder in a shared oversize box.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1827/1978" type="inclusive">1827-1978</unitdate>
+      <unitdate datechar="creation" normal="1896/1934" type="bulk">1896-1934</unitdate>
+      <abstract id="aspace_74d029561911b5a871b7311b5b103f2a">The United Hatters Cap and Millinery Workers International Union (UHCMW) was formed in 1934 by the amalgamation of United Hatters of North America (UHNA) and the Cloth Hat, Cap and Millinery Workers International Union (CHCMW). About two thirds of the collection consists of the separate records of these two unions prior to their merger, and of records of joint bodies established in the decade prior to the merger. The materials pertaining to the Danbury Hatters' Case comprise about one fifth of the collection. The remainder consists of records of earlier unionizing efforts among hatters, and of the UHCMW in the decades following the merger, and a set of of primary source research materials and notes compiled by Charles H. Green for his book <title render="italic">The Headgear Workers</title>. The collection contains minutes, scrapbooks (financial and membership records), clippings, ephemera, photographs, histories and biographies, and legal documents.</abstract>
+      <physloc id="aspace_561a6e4c7e8c7d8751e1bf8007b599e8">Materials stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to research visit.</physloc>
+      <langmaterial id="aspace_43fe7e76d330dea032e3b37ad4eb5f88">Materials are in English and Yiddish.</langmaterial>
+    </did>
+    <processinfo id="aspace_4fb342ac0d6a48d8abec268da7b5cc02">
+      <head>Processing Information</head>
+      <p>Photographs separated from this collection in 1997 were established as a separate collection, the United Hatters, Cap, and Millinery Workers International Union Photographs (PHOTOS 175). In 2014, the photograph collection was reincorporated into the United Hatters, Cap, and Millinery Workers International Union Records (TAM 054).</p>
+    </processinfo>
+    <acqinfo id="aspace_8f8da1ec25c5d2f30543109b79a53f43">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by the United Hatters, Cap and Millinery Workers International Union via the union's executive secretary Gerald R. Coleman, 1973. The accession numbers associated with this gift are 1954.001, 1954.003, and NPA 2000.076.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_587af02f8f5b8935e12844a9949c5ae5">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_e2a3ec549def8d99f42d5912f89813a0">
+      <head>Historical/Biographical Note</head>
+      <p>The United Hatters Cap and Millinery Workers International Union (UHCMW) was formed in 1934 by the amalgamation of United Hatters of North America (UHNA) and the Cloth Hat, Cap and Millinery Workers International Union (CHCMW). The United Hatters of North America (UHNA) was established in New York in 1896 as the result of the merger of two Knights of Labor-affiliated unions in the men's hat industry, the the Hat Makers and the Hat Finishers. The Cloth Hat, Cap and Millinery Workers International Union (CHCMW) was established in New York in 1901, as the United Cloth Hat and Cap Makers of North America (superceding the the Cloth Hat and Cap Operators Union), and took its final name (adding Millinery Workers) in 1918. In 1983 the UHCMW joined the Amalgamated Clothing and Textile Workers Union, which in turn merged in 1995 with the Internional Ladies Garment Workers Union to form UNITE (Union of Needletrades, Industrial and Textile Employees).</p>
+      <p>Sources:</p>
+      <p>
+        <list>
+          <item>For additional information, see <title render="italic">Labor Unions</title> (Westport, CT: Greenwood Press, 1977), pp. 139-144, for historical sketches of the various hatters unions.</item>
+        </list>
+      </p>
+    </bioghist>
+    <scopecontent id="aspace_791522d55efaacd09560878ed3729c91">
+      <head>Scope and Content Note</head>
+      <p>The records of the early hatters unions concentrate on the International Trade Association of Hat Finishers of America, and include the union's convention minutes, officers' reports (which include financial and membership records), and scattered presidential reports on major problems confronting union. (See Series IX: Scrapbooks for the Hat Finishers of North America Executive Board minutes.) There are also minute books for three locals: Brooklyn (1868-1893), Boston (1868-1882), and Newark (1853 1870), as well as list of apprentices in Bethel, Conn. (1860-1892). Other affiliated groups represented by various documents here are: Silk Hat and Fur Finishers' Union, Hat Makers National Union, Wool Hat Finishers Convention proceedings, and the Convention of Hatters to fight convict labor proceedings.</p>
+      <p>The extensive records of the United Hatters of North America include: convention proceedings, several constitutions of UHNA and locals, financial records (including some strike benefit records), records of union labels issued to employers, records taken from individual applications, and miscellaneous files on such issues as communist activities within the union and relations between United Hatters and Cloth Hatters.</p>
+      <p>The Cloth Hat, Cap and Millinery Workers International Union national office records include National Executive Board minutes, general Executive Board minutes, and correspondence on jurisdiction. Other files relate the union's stormy relationship with the International Workers of the World, and contain scrapbooks and pamphlets on factional, jurisdictional and racketeering issues. There is also a typescript of a biography of Max Zuckerman. Some of the correspondence here and in the United Hatters section also relates to jurisdictional disputes between the United Hatters and the Cloth flatters, and the latter and the American Federation of Labor. The disputes between the United Hatters and the Cloth Hatters were resolved through amalgamation following a series of conventions in 1933-1934, the records of which comprise one section of this collection. Two additional boxes contain the financial records of the Joint Union Label Board, a cooperative endeavor of the United Hatters and Cloth Hatters.</p>
+      <p>The large body of material on the Danbury Hatters' Case (Loewe v. Lawlor), in which the Supreme Court first declared secondary boycotts illegal, includes: court transcripts, records of negotiations between the unions and the hat manufacturers, local newspaper clippings, government and employer comment, and records of strike benefits, local unions, and the property holdings of the hatters attached by the court. There are also court transcripts of related cases involving hatters. After 1934 the United Hat, Cap, and Millinery Workers International Union (UHCMW) was the only hatters union in the U.S. Documents found here on the UHCMW include records of union labels issues, and arbitratration proceedings, as well as some records and proceedings relating to the millinery industry codes of the National Recovery Administration under the New Deal. There are also several pamphlets and reports, including "Business Mortality of the Millinery Industry" (1942) by Edward Wagenfeld.</p>
+      <p>This collection also includes material assembled by Charles H. Green for his 1944 authorized history of hatters' unionism, <title render="italic">The Headgear Workers</title>. Of particular interest is material not included in his study that covers technological developments in the industry, its economic history, and trade associations. Addresses and brief histories of the union by union officials, Max Zaritsky and others, are included. There are also documents relating to the conduct of locals, apprenticeship indentures, mortuary benefits, and a handwritten constitution, dated 1827, of a Cincinnati hatters local.</p>
+      <p>Approximately fifty photographs and seventeen scrapbooks are included in the collection. The first scrapbook contains International Association of Hat Finishers of North America minutes (1836-1893). The rest contain United Hatters of North America materials, including twelve membership books for the various trades, two petty cash registers, a strike benefits book, and a World War I clippings scrapbook.</p>
+    </scopecontent>
+    <relatedmaterial id="aspace_4349669ed49a81ade7aeeb69fc7805c4">
+      <head>Related Archival Materials</head>
+      <p>United Hatters, Cap, and Millinery Workers International Union, Millinery Workers Joint Board Records (WAG 041)</p>
+      <p>United Hatters, Cap, and Millinery Workers International Union Printed Ephemera Collection (PE 006)</p>
+    </relatedmaterial>
+    <arrangement id="aspace_181a0d6b3dea48ecb77cb259fece5e87">
+      <head>Arrangement</head>
+      <p>Folders are generally arranged chronologically. Series XI has not been arranged by an archivist. The collection is arranged into eleven series:</p>
+      <p>Series I: Hatters Unions,1853-1896</p>
+      <p>Series II: United Hatters of North America, 1886-1934</p>
+      <p>Series III: Cloth Hat, Cap and Millinery Workers International, 1901-1934</p>
+      <p>Series IV: Jurisdictional Disputes and Amalgamation, 1933-1934</p>
+      <p>Series V: Joint Union Labor Board, 1920-1932</p>
+      <p>Series VI: Danbury Hatters Case, 1906-1922</p>
+      <p>Series VII: United Hattes, Cap and Millinery Workers International, 1934-1954</p>
+      <p>Series VIII: Charles H. Green Headger Workers Research Collection, 1827-1944</p>
+      <p>Series IX: Scrapbooks, 1886-1932</p>
+      <p>Series X: Photographs, 1929-1953</p>
+      <p>Series XI: Addendum (Unprocessed), 1876-1978</p>
+      <p>Folders are generally arranged alphabetically.</p>
+      <p>The records are arranged in ten series:</p>
+      <list numeration="lowerroman" type="ordered">
+        <head>V. </head>
+        <item>I. Hatters Unions (1853-1896)</item>
+        <item>II. United Hatters of North America (1886-1934)</item>
+        <item>III. Cloth Hat, Cap and Millinery Workers International (1901-1934)</item>
+        <item>IV. Jurisdictional Disputes and Amalgamation (1933-1934)</item>
+        <item>V. Joint Union Labor Board (1920-1932)</item>
+        <item>VI. Danbury Hatters Case (1906-1922)</item>
+        <item>VII. United Hattes, Cap and Millinery Workers International (1934-1954)</item>
+        <item>VIII. Charles H. Green Headger Workers Research Collection (1827-1944)</item>
+        <item>IX. Scrapbooks.</item>
+        <item>X. Addendum.</item>
+      </list>
+    </arrangement>
+    <userestrict id="aspace_fa473fcab3aab90903c3a9efe729a796">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the United Hatters, Cap and Millinery Workers International Union, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <prefercite id="aspace_e0a279b92e5a7026961cb6f150ee7c7c">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; United Hatters, Cap, and Millinery Workers International Union Records; TAM 054; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <controlaccess>
+      <genreform source="aat">Oral histories (literary works)</genreform>
+      <genreform source="aat">Biographies.</genreform>
+      <genreform source="aat">Pamphlets.</genreform>
+      <genreform source="aat">Scrapbooks.</genreform>
+      <subject source="local">Loewe v. Lawlor.</subject>
+      <subject source="local">Danbury Hatters Case.</subject>
+      <subject source="lcsh">Millinery workers |z United States.</subject>
+      <subject source="lcsh">Labor unions -- United States.</subject>
+      <subject source="lcsh">Hat trade |z United States.</subject>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">Labor -- United States.</subject>
+      <genreform source="aat">Black-and-white photographs.</genreform>
+      <genreform source="aat">Artifacts (object genre)</genreform>
+      <genreform source="aat">Speeches.</genreform>
+      <persname rules="dacs" source="local">Green, Charles H.</persname>
+      <corpname source="naf">Cloth Hat, Cap, and Millinery Workers' International Union</corpname>
+      <corpname rules="dacs" source="naf">Industrial Workers of the World</corpname>
+      <persname source="local">Zuckerman, Max</persname>
+      <persname source="naf">Zaritsky, Max, 1885-1959</persname>
+      <corpname source="naf">United States. National Recovery Administration</corpname>
+      <corpname source="naf">United Hatters of North America</corpname>
+      <persname source="naf">Gompers, Samuel, 1850-1924.</persname>
+      <corpname source="local">Joint Union Label Board</corpname>
+      <corpname source="local">International Association of Hat Finishers of America</corpname>
+      <corpname role="dnr" source="naf">United Hatters, Cap, and Millinery Workers International Union</corpname>
+      <persname role="dnr" rules="dacs" source="local">Coleman, Gerald R.</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref15" level="series">
+        <did>
+          <unittitle>Series I: Hatters Unions</unittitle>
+          <unitdate datechar="creation" normal="1853/1896" type="inclusive">1853-1896</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Minutes of Convention Proceedings</unittitle>
+            <unitdate datechar="creation" normal="1854/1886" type="inclusive">1854-1886</unitdate>
+            <container id="aspace_6647ae7ff35b77df1547940554f89b6f" label="Mixed Materials [31142046542992]" type="Box">1</container>
+            <container id="aspace_0c9d46d6d7c3f4c77c3806de0f77af8f" parent="aspace_6647ae7ff35b77df1547940554f89b6f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Directory of Union, Fur Hat Manufacturers</unittitle>
+            <unitdate datechar="creation" normal="1891/1891" type="inclusive">1891</unitdate>
+            <container id="aspace_333101f17354b6f080cca6180ded11f5" label="Mixed Materials [31142046542992]" type="Box">1</container>
+            <container id="aspace_a12a8f5df3d19922eace1cc90bcf076d" parent="aspace_333101f17354b6f080cca6180ded11f5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Minutes, Brooklyn Local Meetings</unittitle>
+            <unitdate datechar="creation" normal="1871/1883" type="inclusive">1868-1883</unitdate>
+            <container id="aspace_0ec07ffb298fe53d31799da1cc8b70db" label="Mixed Materials [31142046543008]" type="Box">2</container>
+            <container id="aspace_c00559c212a48a653a6b93c12f116fde" parent="aspace_0ec07ffb298fe53d31799da1cc8b70db" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Scrapbook of Brooklyn Labor News Clippings</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_235db873bb9d0b2f617187a0119a1fd9" label="Mixed Materials [31142046543008]" type="Box">2</container>
+            <container id="aspace_c2f6800e19826fca8c4175b9f21226db" parent="aspace_235db873bb9d0b2f617187a0119a1fd9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Typescript of Legal Decision on Presidential Succession of D.J. Hagerty and John Bouton</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_e5a607db819a9c3f84d17af395e0927e" label="Mixed Materials [31142046543008]" type="Box">2</container>
+            <container id="aspace_54d237c7aff6554485ec8b2ec3996137" parent="aspace_e5a607db819a9c3f84d17af395e0927e" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Label of Hat Makers</unittitle>
+            <unitdate datechar="creation">May 28, 1895</unitdate>
+            <container id="aspace_5c3bb6ccd745a77f4edf1525bf4e1bbf" label="Mixed Materials [31142046543008]" type="Box">2</container>
+            <container id="aspace_ffe613803810f10246c3f2d56ae0a305" parent="aspace_5c3bb6ccd745a77f4edf1525bf4e1bbf" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Philip Thomas' Indenture</unittitle>
+            <unitdate datechar="creation" normal="1907/1912" type="inclusive">1907-1912</unitdate>
+            <container id="aspace_e17913be2818e1058b5510c3fae31bef" label="Mixed Materials [31142046543008]" type="Box">2</container>
+            <container id="aspace_e82294b780c9ee408844f3f9d735afd5" parent="aspace_e17913be2818e1058b5510c3fae31bef" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>List of Registered Apprentices-Bethel, CT</unittitle>
+            <unitdate datechar="creation" normal="1860/1892" type="inclusive">1860-1892</unitdate>
+            <container id="aspace_99fba0c86300bd55ae08fde1f3cf1769" label="Mixed Materials [31142046543016]" type="Box">3</container>
+            <container id="aspace_3cf2fe917f640675f17fb6149b134bef" parent="aspace_99fba0c86300bd55ae08fde1f3cf1769" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Minute Book, Newark Hat Finishers</unittitle>
+            <unitdate datechar="creation" normal="1853/1870" type="inclusive">1853-1870</unitdate>
+            <container id="aspace_338e66a2a71d6a639918dd8ea63b2070" label="Mixed Materials [31142046543016]" type="Box">3</container>
+            <container id="aspace_6848be392f471b30fe45aa52bf077456" parent="aspace_338e66a2a71d6a639918dd8ea63b2070" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Minute Book, Boston Fur Hat Finishers</unittitle>
+            <unitdate datechar="creation" normal="1868/1893" type="inclusive">1868-1893</unitdate>
+            <container id="aspace_ff51a534e5b8884a411ce1eeb4cce68e" label="Mixed Materials [31142046543016]" type="Box">3</container>
+            <container id="aspace_38c72448e937c37eeded5c5573d68350" parent="aspace_ff51a534e5b8884a411ce1eeb4cce68e" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Constitution-Orange, NJ Local</unittitle>
+            <unitdate datechar="creation" normal="1854/1854" type="inclusive">1854</unitdate>
+            <container id="aspace_d87c4cbeeb1cfbba61a23a2aaabd6a69" label="Mixed Materials [31142046543016]" type="Box">3</container>
+            <container id="aspace_6e1955e5f9c01bf3cd6b4d4c9a11c236" parent="aspace_d87c4cbeeb1cfbba61a23a2aaabd6a69" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Constitution-Norwalk, CT Local</unittitle>
+            <unitdate datechar="creation" normal="1873/1873" type="inclusive">1873</unitdate>
+            <container id="aspace_1e8ee2624c84c7af439d3ce161cc5170" label="Mixed Materials [31142046543016]" type="Box">3</container>
+            <container id="aspace_8723f1210d39643839f51a23591b74c3" parent="aspace_1e8ee2624c84c7af439d3ce161cc5170" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Records of Silk Hat Finishers Association</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_b0d55c9abd11e37475d3f2ff4256e8ba" label="Mixed Materials [31142046543016]" type="Box">3</container>
+            <container id="aspace_958b2b4838f33c1f9e4ff4eab3282187" parent="aspace_b0d55c9abd11e37475d3f2ff4256e8ba" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Card of Wool Hat Finishers</unittitle>
+            <unitdate datechar="creation">Jul 1, 1892</unitdate>
+            <container id="aspace_4c486b9abb1b4bfa90ea3e036ccca2f5" label="Mixed Materials [31142046543016]" type="Box">3</container>
+            <container id="aspace_b979cee1d606479ea1914a3bbfc5a4df" parent="aspace_4c486b9abb1b4bfa90ea3e036ccca2f5" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Hat Making a reprinted article from Brooklyn Daily Standard</unittitle>
+            <unitdate datechar="creation">Aug 27, 1894</unitdate>
+            <container id="aspace_44e30dda96ddb9a7074de8e25bf5bfb1" label="Mixed Materials [31142046543016]" type="Box">3</container>
+            <container id="aspace_23deba45f713d751b3c8b51f93cf6d09" parent="aspace_44e30dda96ddb9a7074de8e25bf5bfb1" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Mementos</unittitle>
+            <unitdate datechar="creation" normal="1864/1892" type="inclusive">1864,1892</unitdate>
+            <container id="aspace_a8babd6cb58f01cc93cd692d1d7070b9" label="Mixed Materials [31142046543016]" type="Box">3</container>
+            <container id="aspace_bb87817cf24ed88ead033274063a4a38" parent="aspace_a8babd6cb58f01cc93cd692d1d7070b9" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref33" level="series">
+        <did>
+          <unittitle>Series II: United Hatters of North America</unittitle>
+          <unitdate datechar="creation" normal="1886/1934" type="inclusive">1886-1934</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Convention Proceedings, typescript, verbatim</unittitle>
+            <unitdate datechar="creation" normal="1907/1907" type="inclusive">1907</unitdate>
+            <container id="aspace_e909c9121defbb8ae667200511ff786d" label="Mixed Materials [31142046543024]" type="Box">4</container>
+            <container id="aspace_a206e6d7477b0d6172a742e40d69a2cf" parent="aspace_e909c9121defbb8ae667200511ff786d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Convention Proceedings, typescript, verbatim</unittitle>
+            <unitdate datechar="creation" normal="1911/1911" type="inclusive">1911</unitdate>
+            <container id="aspace_3b2796c192b4dbec86f0190446c1b7f7" label="Mixed Materials [31142046543024]" type="Box">4</container>
+            <container id="aspace_7d09d0e8c0b973f1a7eee4fec9be5cdc" parent="aspace_3b2796c192b4dbec86f0190446c1b7f7" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>United Hatters Of North America: Convention Proceedings, typescript, verbatim</unittitle>
+            <unitdate datechar="creation" normal="1915/1915" type="inclusive">1915</unitdate>
+            <container id="aspace_520a9558eafb10acd4ce7dcda04ca7ae" label="Mixed Materials [31142046543032]" type="Box">5</container>
+            <container id="aspace_e4e477a5fe670ca7eae7268d423dd13c" parent="aspace_520a9558eafb10acd4ce7dcda04ca7ae" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>United Hatters Of North America: Convention Proceedings, typescript, verbatim (vol. 1)</unittitle>
+            <unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate>
+            <container id="aspace_6493e82934bab85b7fe6202f0e76b6b7" label="Mixed Materials [31142046543032]" type="Box">5</container>
+            <container id="aspace_75976b23e1242d956092efcc75487ef7" parent="aspace_6493e82934bab85b7fe6202f0e76b6b7" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>United Hatters Of North America: Convention Proceedings, typescript, verbatim (vol. 2)</unittitle>
+            <unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate>
+            <container id="aspace_b9b63cf2eddbb8e31d7e800b50729346" label="Mixed Materials [31142046543032]" type="Box">5</container>
+            <container id="aspace_92e9094a180a924d58554d54186d333a" parent="aspace_b9b63cf2eddbb8e31d7e800b50729346" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>United Hatters Of North America: Convention Proceedings, typescript, verbatim (vol. 1)</unittitle>
+            <unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate>
+            <container id="aspace_66e7bcfe132d3a20895f1bf2ff161521" label="Mixed Materials [31142046543040]" type="Box">6</container>
+            <container id="aspace_9f45287dbad5057917eaf99f29357c04" parent="aspace_66e7bcfe132d3a20895f1bf2ff161521" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>United Hatters Of North America: Convention Proceedings, typescript, verbatim (vol. 2)</unittitle>
+            <unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate>
+            <container id="aspace_aa146deb5bb9ea63d8aec39e82dd0442" label="Mixed Materials [31142046543040]" type="Box">6</container>
+            <container id="aspace_591c1b5b77cc57d05f6cac240be868fe" parent="aspace_aa146deb5bb9ea63d8aec39e82dd0442" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>United Hatters Of North America: Convention Proceedings, typescript, verbatim (vol. 1)</unittitle>
+            <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate>
+            <container id="aspace_43e6964ce3e03602e0c4250701788658" label="Mixed Materials [31142046543040]" type="Box">6</container>
+            <container id="aspace_b977091436a9206d0f3c77c7de890780" parent="aspace_43e6964ce3e03602e0c4250701788658" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>United Hatters Of North America: Convention Proceedings, typescript, verbatim (vol. 2)</unittitle>
+            <unitdate datechar="creation" normal="1927/1927" type="inclusive">1927</unitdate>
+            <container id="aspace_67c80ff92adf3667a785d3712395e7a7" label="Mixed Materials [31142046543040]" type="Box">6</container>
+            <container id="aspace_d9eaa0ffb3c5b81409dc4d5129136236" parent="aspace_67c80ff92adf3667a785d3712395e7a7" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Directory of the Union Fur Hat Manufacturers of the United States</unittitle>
+            <unitdate datechar="creation" normal="1898/1898" type="inclusive">1898</unitdate>
+            <container id="aspace_a4806dfdb636a130450813497a4bb88b" label="Mixed Materials [31142046543057]" type="Box">7</container>
+            <container id="aspace_33cc6af9a5580e16e79b7011b66dbf54" parent="aspace_a4806dfdb636a130450813497a4bb88b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Constitution and By-Laws:Local District 1, United Hatters Of North America-Bethel, CT</unittitle>
+            <unitdate datechar="creation" normal="1903/1903" type="inclusive">1903</unitdate>
+            <container id="aspace_f6d1961921e814f9f7ecc46bf3d5a1e4" label="Mixed Materials [31142046543057]" type="Box">7</container>
+            <container id="aspace_56e901e4ee8d564c3f001f83c5606284" parent="aspace_f6d1961921e814f9f7ecc46bf3d5a1e4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Constitution and By-Laws:United Hatters Of North America</unittitle>
+            <unitdate datechar="creation" normal="1907/1927" type="inclusive">1907-1927</unitdate>
+            <container id="aspace_5bd2ed80ce4c27c00544dbc17a4cc252" label="Mixed Materials [31142046543057]" type="Box">7</container>
+            <container id="aspace_93404c007867d529daabe292e82679f8" parent="aspace_5bd2ed80ce4c27c00544dbc17a4cc252" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Constitution and By-Laws: Local 3, United Hatters Of North America-New York, NY</unittitle>
+            <unitdate datechar="creation">May 5, 1919</unitdate>
+            <container id="aspace_1c4015ccb251766a4ca7c67df6c2a610" label="Mixed Materials [31142046543057]" type="Box">7</container>
+            <container id="aspace_e35dda3efe80587b3469e9c253773703" parent="aspace_1c4015ccb251766a4ca7c67df6c2a610" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Constitution and By-Laws:Union #11, United Hatters Of North America-Danbury, CT</unittitle>
+            <unitdate datechar="creation">Feb 3, 1932</unitdate>
+            <container id="aspace_8cf4831120a8b356c4a65cf4284e7011" label="Mixed Materials [31142046543057]" type="Box">7</container>
+            <container id="aspace_d48a0f1a1a01ab8d1c8ef4e0151384b2" parent="aspace_8cf4831120a8b356c4a65cf4284e7011" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>United Hatters Of North America: Pamphlet</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_07a153537820697dcb9e06fa8b3227ff" label="Mixed Materials [31142046543057]" type="Box">7</container>
+            <container id="aspace_bc59249fab3171f7b06037c145cbbdef" parent="aspace_07a153537820697dcb9e06fa8b3227ff" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Record of Reciepts</unittitle>
+            <unitdate datechar="creation" normal="1896/1918" type="inclusive">1896-1918</unitdate>
+            <container id="aspace_6ab5b27107a3c289773edbec52a34283" label="Mixed Materials [31142046543065]" type="Box">8</container>
+            <container id="aspace_16cc6b55f6ad835377365595c0652bed" parent="aspace_6ab5b27107a3c289773edbec52a34283" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Reciepts of Traveling Cards</unittitle>
+            <unitdate datechar="creation" normal="1899/1911" type="inclusive">1899-1911</unitdate>
+            <container id="aspace_7ade4c67c0ce8a868096c1227c164e77" label="Mixed Materials [31142046543065]" type="Box">8</container>
+            <container id="aspace_f68994a39f498b4695b7d82210d397df" parent="aspace_7ade4c67c0ce8a868096c1227c164e77" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Secretary's Expense Book 1</unittitle>
+            <unitdate datechar="creation" normal="1902/1907" type="inclusive">1902-1907</unitdate>
+            <container id="aspace_caf735f5b28812722be13cf882f2546d" label="Mixed Materials [31142046543065]" type="Box">8</container>
+            <container id="aspace_942157625b47c7465a9ab2b57b1e48db" parent="aspace_caf735f5b28812722be13cf882f2546d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Secretary's Expense Book 2</unittitle>
+            <unitdate datechar="creation" normal="1907/1911" type="inclusive">1907-1911</unitdate>
+            <container id="aspace_f17f1b73d733104f7efb9d1883c31fb7" label="Mixed Materials [31142046543065]" type="Box">8</container>
+            <container id="aspace_6e7a9e040eaf25087410475fea87c57d" parent="aspace_f17f1b73d733104f7efb9d1883c31fb7" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Record of Special Assessments</unittitle>
+            <unitdate datechar="creation" normal="1905/1917" type="inclusive">1905-1917</unitdate>
+            <container id="aspace_6a47f93f132b295e18343c7d4946cf24" label="Mixed Materials [31142046543073]" type="Box">9</container>
+            <container id="aspace_377e178b54b3599e9d8098b0be477216" parent="aspace_6a47f93f132b295e18343c7d4946cf24" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Record of Dues Paid by Districts-at-Large</unittitle>
+            <unitdate datechar="creation" normal="1914/1918" type="inclusive">1914-1918</unitdate>
+            <container id="aspace_b7de96b068af44fedbbe03bf41bfcd6f" label="Mixed Materials [31142046543073]" type="Box">9</container>
+            <container id="aspace_c9778a9870eda4d1fcaaaf476759523b" parent="aspace_b7de96b068af44fedbbe03bf41bfcd6f" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Secretary's Expense Book 3</unittitle>
+            <unitdate datechar="creation" normal="1911/1916" type="inclusive">1911-1916</unitdate>
+            <container id="aspace_0c48c033c15a29873505200126445e7e" label="Mixed Materials [31142046543073]" type="Box">9</container>
+            <container id="aspace_fa1cf61ff3bc681c308e0704d5d182ec" parent="aspace_0c48c033c15a29873505200126445e7e" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Traveling Card Dues Records</unittitle>
+            <unitdate datechar="creation" normal="1911/1918" type="inclusive">1911-1918</unitdate>
+            <container id="aspace_2e46883a8c82872a7b3a4a199733b237" label="Mixed Materials [31142046543073]" type="Box">9</container>
+            <container id="aspace_12a33910afba80f207fbd93725ad27b1" parent="aspace_2e46883a8c82872a7b3a4a199733b237" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Traveling Card Dues</unittitle>
+            <unitdate datechar="creation" normal="1917/1918" type="inclusive">1917-1918</unitdate>
+            <container id="aspace_b18030d6c96fbbce4b77ae8306a1dc63" label="Mixed Materials [31142046543081]" type="Box">10</container>
+            <container id="aspace_1a15c64e43c27105bd7e4fe3b963cb46" parent="aspace_b18030d6c96fbbce4b77ae8306a1dc63" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Secretary's Expense Book 4</unittitle>
+            <unitdate datechar="creation" normal="1917/1918" type="inclusive">1917-1918</unitdate>
+            <container id="aspace_3ed43caeb9f47d89835b04ed8d4e97d0" label="Mixed Materials [31142046543081]" type="Box">10</container>
+            <container id="aspace_0e25a178e13ed6b0d5916e869cebb211" parent="aspace_3ed43caeb9f47d89835b04ed8d4e97d0" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Record of Traveling Cards</unittitle>
+            <unitdate datechar="creation" normal="1917/1919" type="inclusive">1917-1919</unitdate>
+            <container id="aspace_690ce9d956e047cf52ba3018b6c5d2cd" label="Mixed Materials [31142046543081]" type="Box">10</container>
+            <container id="aspace_fe9008ca7dc21a0964b7b9d8e4376528" parent="aspace_690ce9d956e047cf52ba3018b6c5d2cd" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Ledger-Orange, NJ</unittitle>
+            <unitdate datechar="creation" normal="1911/1911" type="inclusive">1911</unitdate>
+            <container id="aspace_c1c270c4c58e8523af88dd3172c1e375" label="Mixed Materials [31142046543081]" type="Box">10</container>
+            <container id="aspace_214082cd4381fad245a96753cae7edd7" parent="aspace_c1c270c4c58e8523af88dd3172c1e375" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Application Fees and Dues Records from Straw Hatters</unittitle>
+            <unitdate datechar="creation" normal="1916/1918" type="inclusive">1916-1918</unitdate>
+            <container id="aspace_bc9262f03e9191f21fa4fe7475d6491e" label="Mixed Materials [31142046543099]" type="Box">11</container>
+            <container id="aspace_3ffad8958ecf8b09331dee9f1273189d" parent="aspace_bc9262f03e9191f21fa4fe7475d6491e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Traveling Cards</unittitle>
+            <unitdate datechar="creation" normal="1920/1929" type="inclusive">1920-1929</unitdate>
+            <container id="aspace_1e682fb583d54c2af785480a003325fa" label="Mixed Materials [31142046543099]" type="Box">11</container>
+            <container id="aspace_bd34d206d044396fba21eba754571d18" parent="aspace_1e682fb583d54c2af785480a003325fa" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Traveling Cards</unittitle>
+            <unitdate datechar="creation" normal="1929/1936" type="inclusive">1929-1936</unitdate>
+            <container id="aspace_7e70fc5cee3a4a8a63bb413389c3353c" label="Mixed Materials [31142046543099]" type="Box">11</container>
+            <container id="aspace_ca1fb92bc0479ed635c9fea37526f64e" parent="aspace_7e70fc5cee3a4a8a63bb413389c3353c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Strike Benefits Paid</unittitle>
+            <unitdate datechar="creation" normal="1909/1909" type="inclusive">1909</unitdate>
+            <container id="aspace_a92b4f2951d2a303a1b69dd5bfc26468" label="Mixed Materials [31142046543099]" type="Box">11</container>
+            <container id="aspace_b3e8f73c937fda03849e8bf6f85ac71a" parent="aspace_a92b4f2951d2a303a1b69dd5bfc26468" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Strike Benefits Paid</unittitle>
+            <unitdate datechar="creation" normal="1913/1921" type="inclusive">1913-1921</unitdate>
+            <container id="aspace_9b120e1396f3b8303806f2bf9a50c1f6" label="Mixed Materials [31142046543099]" type="Box">11</container>
+            <container id="aspace_5122c3397e1f8517d9153de06ebce93b" parent="aspace_9b120e1396f3b8303806f2bf9a50c1f6" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Ledger: Cash Received on Percentage from Locals</unittitle>
+            <unitdate datechar="creation" normal="1896/1918" type="inclusive">1896-1918</unitdate>
+            <container id="aspace_efde48654c506939d2d426a94a6f52ae" label="Mixed Materials [31142046543107]" type="Box">12</container>
+            <container id="aspace_3820768d99f8cb9933c66e5169bbae29" parent="aspace_efde48654c506939d2d426a94a6f52ae" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Ledger: Regular Expense Account</unittitle>
+            <unitdate datechar="creation" normal="1911/1918" type="inclusive">1911-1918</unitdate>
+            <container id="aspace_70b4c8f9d3a860470b5a1da57bcf0169" label="Mixed Materials [31142046543107]" type="Box">12</container>
+            <container id="aspace_40dd37b621ec4145ebec8e3731492863" parent="aspace_70b4c8f9d3a860470b5a1da57bcf0169" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Defense Fund Account</unittitle>
+            <unitdate datechar="creation">Jan 1, 1911-Jun 30, 1918</unitdate>
+            <container id="aspace_666c103cb3abc7963560a1a8fa1dad79" label="Mixed Materials [31142046543115]" type="Box">13</container>
+            <container id="aspace_371b16cd58384504373b2d04e85a02e0" parent="aspace_666c103cb3abc7963560a1a8fa1dad79" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Strike Benefits-Beacon, NY</unittitle>
+            <unitdate datechar="creation">Oct 7, 1921-Dec 31, 1921</unitdate>
+            <container id="aspace_a2da01c5f72e100ade9c5127a9a84dea" label="Mixed Materials [31142046543115]" type="Box">13</container>
+            <container id="aspace_56de310dd7176e2b8652062b9927ab19" parent="aspace_a2da01c5f72e100ade9c5127a9a84dea" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Members Who Owe Dues to International</unittitle>
+            <unitdate datechar="creation" normal="1932/1936" type="inclusive">1932-1936</unitdate>
+            <container id="aspace_aadff0fe1a4f5dceb3ec30af33bc1483" label="Mixed Materials [31142046543123]" type="Box">14</container>
+            <container id="aspace_b3baf68f8a247f75caaa7364d5f0863d" parent="aspace_aadff0fe1a4f5dceb3ec30af33bc1483" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Financial Statement to Secretary Gordon, Local 10-Danbury, CT</unittitle>
+            <unitdate datechar="creation" normal="1931/1933" type="inclusive">1931-1933</unitdate>
+            <container id="aspace_6fdb9a7aa79813fc8c7a686c41dc4b67" label="Mixed Materials [31142046543123]" type="Box">14</container>
+            <container id="aspace_5933eefb90ca93ced5d43db2ee5277e3" parent="aspace_6fdb9a7aa79813fc8c7a686c41dc4b67" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Reciepts of Local 42, for Money Refunded</unittitle>
+            <unitdate datechar="creation" normal="1931/1933" type="inclusive">1931-1933</unitdate>
+            <container id="aspace_7d21c5467a49bbca158465f080b8667f" label="Mixed Materials [31142046543123]" type="Box">14</container>
+            <container id="aspace_b54787b83785fcab3edf6335c712b13d" parent="aspace_7d21c5467a49bbca158465f080b8667f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Signed Statements of Hat Companies</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_4e53d0339f24f5a5ac7af175a0ed3231" label="Mixed Materials [31142046543123]" type="Box">14</container>
+            <container id="aspace_897661a04e0e315cb4865549407b090f" parent="aspace_4e53d0339f24f5a5ac7af175a0ed3231" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Wills of Members</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_e6317ccdacc4e97d1f1110069b061317" label="Mixed Materials [31142046543123]" type="Box">14</container>
+            <container id="aspace_dc26501399afa36e78433f0030726afd" parent="aspace_e6317ccdacc4e97d1f1110069b061317" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Miscellaneous Checks</unittitle>
+            <unitdate datechar="creation" normal="1909/1930" type="inclusive">1909-1930</unitdate>
+            <container id="aspace_a57c0453db372c5e14ed552da10deb47" label="Mixed Materials [31142046543123]" type="Box">14</container>
+            <container id="aspace_e9941bb224d1f2d787c0c8d796c4a71d" parent="aspace_a57c0453db372c5e14ed552da10deb47" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Bank Books of Martin Lawlor, Joint Union Label Board Relief Fund</unittitle>
+            <unitdate datechar="creation" normal="1904/1918" type="inclusive">1904-1918</unitdate>
+            <container id="aspace_a45b8799da13d66027a3a45582703efd" label="Mixed Materials [31142046543123]" type="Box">14</container>
+            <container id="aspace_9d4cd453d4cbefb99c8f5f861184f68d" parent="aspace_a45b8799da13d66027a3a45582703efd" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Information Taken From Applications to Union From Various Locals</unittitle>
+            <unitdate datechar="creation" normal="1919/1932" type="inclusive">1919-1932</unitdate>
+            <container id="aspace_545d739142c8b94110db9b9eb79bf921" label="Mixed Materials [31142046543123]" type="Box">14</container>
+            <container id="aspace_96eaa505bfcb1a50eff01d0160deb064" parent="aspace_545d739142c8b94110db9b9eb79bf921" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Records Taken From Individual Applications: Finishers A-G</unittitle>
+            <unitdate datechar="creation" normal="1919/1932" type="inclusive">1919-1932</unitdate>
+            <container id="aspace_70e8453f398a77d8a09d963eab88b853" label="Mixed Materials [31142046543131]" type="Box">15</container>
+            <container id="aspace_b7a70599ec50c888f97b070c33475334" parent="aspace_70e8453f398a77d8a09d963eab88b853" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Records Taken From Individual Applications: Finishers H-O</unittitle>
+            <unitdate datechar="creation" normal="1919/1932" type="inclusive">1919-1932</unitdate>
+            <container id="aspace_f126dc30220bd210615d48ae6d962766" label="Mixed Materials [31142046543131]" type="Box">15</container>
+            <container id="aspace_bc18813d614e1909cc5ead6d3c88f7c4" parent="aspace_f126dc30220bd210615d48ae6d962766" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Records Taken From Individual Applications: Finishers P-Z</unittitle>
+            <unitdate datechar="creation" normal="1919/1932" type="inclusive">1919-1932</unitdate>
+            <container id="aspace_5e7b4100dc8d50589833acf5367fa1d6" label="Mixed Materials [31142046543131]" type="Box">15</container>
+            <container id="aspace_cf95a287e1b7b9b49d8ad4560bfa9f53" parent="aspace_5e7b4100dc8d50589833acf5367fa1d6" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Records Taken From Individual Applications: Trimmers and Operators A-K</unittitle>
+            <unitdate datechar="creation" normal="1919/1932" type="inclusive">1919-1932</unitdate>
+            <container id="aspace_d916fd8c8895d58328c87c3877b07d01" label="Mixed Materials [31142046543131]" type="Box">15</container>
+            <container id="aspace_9bc49689ee78ff87d3ffc4643b94eef8" parent="aspace_d916fd8c8895d58328c87c3877b07d01" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Records Taken From Individual Applications: Trimmers and Operators L-Z</unittitle>
+            <unitdate datechar="creation" normal="1919/1932" type="inclusive">1919-1932</unitdate>
+            <container id="aspace_9d66efce19a96fa6b183a14432f25a25" label="Mixed Materials [31142046543131]" type="Box">15</container>
+            <container id="aspace_1469d16e0d44d12d2d9ee675853b99bc" parent="aspace_9d66efce19a96fa6b183a14432f25a25" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Records Taken From Individual Applications: Makers A-L</unittitle>
+            <unitdate datechar="creation" normal="1919/1932" type="inclusive">1919-1932</unitdate>
+            <container id="aspace_819670dbefbd8fc988d8ddf1e4fcc954" label="Mixed Materials [31142046543131]" type="Box">15</container>
+            <container id="aspace_4f5fbe00f85ee701f60f178b1e7a161e" parent="aspace_819670dbefbd8fc988d8ddf1e4fcc954" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Records Taken From Individual Applications: Makers M-Z</unittitle>
+            <unitdate datechar="creation" normal="1919/1932" type="inclusive">1919-1932</unitdate>
+            <container id="aspace_ab6771028418f19e40b55704ed904ce5" label="Mixed Materials [31142046543131]" type="Box">15</container>
+            <container id="aspace_460a587337ef3aad406e66c1c7659224" parent="aspace_ab6771028418f19e40b55704ed904ce5" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Communist Activities in United Hatters</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_1abaa8786ead84ef7c83e0acdb97f46b" label="Mixed Materials [31142046543149]" type="Box">16</container>
+            <container id="aspace_e92ad46178187196351a817e9586d2c9" parent="aspace_1abaa8786ead84ef7c83e0acdb97f46b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Adjourned Meeting of the Fur Felt Hat Manufacturing Association of Danbury, Bethel and the National Executive Advisory Board</unittitle>
+            <unitdate datechar="creation">Dec 7, 1909-Dec 16, 1909</unitdate>
+            <container id="aspace_727ad548516b6e20010cddce6a1a6caa" label="Mixed Materials [31142046543149]" type="Box">16</container>
+            <container id="aspace_875bd352885f71978c07e8448208f3b2" parent="aspace_727ad548516b6e20010cddce6a1a6caa" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Record of Union Labels Distributed by the Union</unittitle>
+            <unitdate datechar="creation" normal="1902/1911" type="inclusive">1902-1911</unitdate>
+            <container id="aspace_639d1dbd843ebaff030e46375e2abd15" label="Mixed Materials [31142046543149]" type="Box">16</container>
+            <container id="aspace_57204e2d6b3c5176abe13d7bcf9c6c28" parent="aspace_639d1dbd843ebaff030e46375e2abd15" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Miscellaneous Material on Union Labels</unittitle>
+            <unitdate datechar="creation" normal="1896/1921" type="inclusive">1896-1921</unitdate>
+            <container id="aspace_4a1153e5f257ca1cec7e0062672cf714" label="Mixed Materials [31142046543149]" type="Box">16</container>
+            <container id="aspace_4f6bdcb6b7015cd40b0517dd1e1c1bad" parent="aspace_4a1153e5f257ca1cec7e0062672cf714" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Labor Clippings on Newark, NJ</unittitle>
+            <unitdate datechar="creation" normal="1917/1935" type="inclusive">1917-1935</unitdate>
+            <container id="aspace_984d1f5618f85b68424ee340b4c66676" label="Mixed Materials [31142046543149]" type="Box">16</container>
+            <container id="aspace_9314d111fb6e85c7d5a1528a83866a11" parent="aspace_984d1f5618f85b68424ee340b4c66676" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Applications of Stetson Makers and Finishers, Schobel Makers and Finishers, and LaSalle Finishers (copied from Record Books)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_ccf7b4e428350e029b7d6d5941723aed" label="Mixed Materials [31142046543156]" type="Box">17</container>
+            <container id="aspace_75c22b4c62089b32f1590a1e8b37ac6d" parent="aspace_ccf7b4e428350e029b7d6d5941723aed" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Court of Common Pleas, Fairfield County-Writ, Summons and Complaint: A. Berg and Company v. United Hatters</unittitle>
+            <unitdate datechar="creation">Sep 1925</unitdate>
+            <container id="aspace_79ba3d1e9d5972219984adc2a5d2fc3c" label="Mixed Materials [31142046543164]" type="Box">18</container>
+            <container id="aspace_e36eda343f445cc87bdcd1c94665971e" parent="aspace_79ba3d1e9d5972219984adc2a5d2fc3c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Superior Court, Fairfield County-Complaint, Temporary Injunction, Order to Show Cause: R and W Hat Company v. Jeremiah Scully et al</unittitle>
+            <unitdate datechar="creation">Apr 1922</unitdate>
+            <container id="aspace_4d9f92717669a8c189d14386b5f48931" label="Mixed Materials [31142046543164]" type="Box">18</container>
+            <container id="aspace_7c3c9494f9914f9cf5edfebc7ecd10dd" parent="aspace_4d9f92717669a8c189d14386b5f48931" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Supreme Court, State of New York: Cortland Hat Company v. Michael Green, United Hatters</unittitle>
+            <unitdate datechar="creation">Jul 22, 1921</unitdate>
+            <container id="aspace_7209d1c2bdfa056d407a002220c4c572" label="Mixed Materials [31142046543164]" type="Box">18</container>
+            <container id="aspace_b764f65eca6bed4376de358800cd63e7" parent="aspace_7209d1c2bdfa056d407a002220c4c572" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Supreme Court of Errors, 3rd Judicial District, Fairfield County-Suit of Injunction: R and W Hat Company v. Jeremiah Scully et a.</unittitle>
+            <unitdate datechar="creation">Apr 1922</unitdate>
+            <container id="aspace_ad62d384674c89413406304b3f4f582b" label="Mixed Materials [31142046543164]" type="Box">18</container>
+            <container id="aspace_7985202c55f97ece92df58e4282491d5" parent="aspace_ad62d384674c89413406304b3f4f582b" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Superior Court, Fairfield County-Motion to Dissolve Temporary Injunction: R and W Hat Company v. Jeremiah Scully</unittitle>
+            <unitdate datechar="creation">Aug 1, 1919</unitdate>
+            <container id="aspace_cf1a6e62951326f1b3973f550647cf40" label="Mixed Materials [31142046543164]" type="Box">18</container>
+            <container id="aspace_1ce578d74ef0fdb0ac03d70da3052d4f" parent="aspace_cf1a6e62951326f1b3973f550647cf40" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Supreme Court of Errors, 3rd Judicial District-Defendants Appeal: Goralnik v. The Delhery Hat Company</unittitle>
+            <unitdate datechar="creation">Jan 1923</unitdate>
+            <container id="aspace_2e3a5dec18b3b885d15f69c23de2d1c2" label="Mixed Materials [31142046543164]" type="Box">18</container>
+            <container id="aspace_404149dfa61ef11c399f44dca9fce724" parent="aspace_2e3a5dec18b3b885d15f69c23de2d1c2" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Agreement of Affiliation: Local 12 and United Hatters</unittitle>
+            <unitdate datechar="creation">Oct 16, 1916</unitdate>
+            <container id="aspace_0a60e65e2a8487e7102e93746975fccb" label="Mixed Materials [31142046543164]" type="Box">18</container>
+            <container id="aspace_30900fa7bebb9f415b80564925265c10" parent="aspace_0a60e65e2a8487e7102e93746975fccb" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Supreme Court, New York County-Order to Show Cause: Jacob Elishewitz v. Michael Green et al</unittitle>
+            <unitdate datechar="creation">Sep 23, 1921</unitdate>
+            <container id="aspace_a4108dcbc65bc28676dbd9e2371f14e4" label="Mixed Materials [31142046543164]" type="Box">18</container>
+            <container id="aspace_15118b60820a83f282d0a27bbdcbf7e1" parent="aspace_a4108dcbc65bc28676dbd9e2371f14e4" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref99" level="series">
+        <did>
+          <unittitle>Series III: Cloth Hat, Cap, and Millinery Workers International</unittitle>
+          <unitdate datechar="creation" normal="1901/1934" type="inclusive">1901-1934</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>National Executive Board Minutes</unittitle>
+            <unitdate datechar="creation" normal="1904/1907" type="inclusive">1904-1907</unitdate>
+            <container id="aspace_193494d9f322effeb348270fe110ff88" label="Mixed Materials [31142046543172]" type="Box">19</container>
+            <container id="aspace_5803e4e0eb95333df9d11d25149ee0fb" parent="aspace_193494d9f322effeb348270fe110ff88" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>National Executive Board Minutes</unittitle>
+            <unitdate datechar="creation" normal="1907/1911" type="inclusive">1907-1911</unitdate>
+            <container id="aspace_a8b6dee3862631f31b60570135405417" label="Mixed Materials [31142046543172]" type="Box">19</container>
+            <container id="aspace_d6a85a205dc3f4fe3c5c0da00eadfc10" parent="aspace_a8b6dee3862631f31b60570135405417" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>National Executive Board Minutes</unittitle>
+            <unitdate datechar="creation" normal="1911/1913" type="inclusive">1911-1913</unitdate>
+            <container id="aspace_a8b8e4b285d92166a25ede959fb1f6ed" label="Mixed Materials [31142046543172]" type="Box">19</container>
+            <container id="aspace_017cb76bcef08f8bcc87ab35b33ce300" parent="aspace_a8b8e4b285d92166a25ede959fb1f6ed" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>National Executive Board Minutes</unittitle>
+            <unitdate datechar="creation" normal="1913/1917" type="inclusive">1913-1917</unitdate>
+            <container id="aspace_6573009433152c9fa0e75de838d3a497" label="Mixed Materials [31142046543172]" type="Box">19</container>
+            <container id="aspace_e974471e37ec40fe9b2a582ed2d11e65" parent="aspace_6573009433152c9fa0e75de838d3a497" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>General Executive Board Minutes</unittitle>
+            <unitdate datechar="creation" normal="1901/1904" type="inclusive">1901-1904</unitdate>
+            <container id="aspace_f4a37b1687e9051b537710b47f0fb9ee" label="Mixed Materials [31142046543180]" type="Box">20</container>
+            <container id="aspace_a2dd91d985d98c5d3529603b6b6c7629" parent="aspace_f4a37b1687e9051b537710b47f0fb9ee" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>General Executive Board Minutes</unittitle>
+            <unitdate datechar="creation" normal="1917/1920" type="inclusive">1917-1920</unitdate>
+            <container id="aspace_6e3776d599c36eb41e9246fecc1139a2" label="Mixed Materials [31142046543180]" type="Box">20</container>
+            <container id="aspace_7625f458c46fd70e371a0384f3d3fd5d" parent="aspace_6e3776d599c36eb41e9246fecc1139a2" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>General Executive Board Minutes</unittitle>
+            <unitdate datechar="creation" normal="1920/1923" type="inclusive">1920-1923</unitdate>
+            <container id="aspace_b8c0891427dc9ee8a3d96297c11677be" label="Mixed Materials [31142046543180]" type="Box">20</container>
+            <container id="aspace_99e55aec89890735998132fe12462501" parent="aspace_b8c0891427dc9ee8a3d96297c11677be" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Convention Proceedings, typescript</unittitle>
+            <unitdate datechar="creation" normal="1907/1907" type="inclusive">1907</unitdate>
+            <container id="aspace_e3b2d5b99991a093dd10e1c3197e7ebe" label="Mixed Materials [31142046543180]" type="Box">20</container>
+            <container id="aspace_917af2c8d077a78a9bd9b980b34bc56e" parent="aspace_e3b2d5b99991a093dd10e1c3197e7ebe" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>United Hatters-Executive Board Minutes</unittitle>
+            <unitdate datechar="creation">May 10, 1923-Nov 3, 1923</unitdate>
+            <container id="aspace_67f452e8a9e485cbc94be54efc4b526d" label="Mixed Materials [31142046543198]" type="Box">21</container>
+            <container id="aspace_2388d583978e0a76247fb6353cb0efe3" parent="aspace_67f452e8a9e485cbc94be54efc4b526d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>United Hatters-Executive Board Minutes</unittitle>
+            <unitdate datechar="creation">Feb 2, 1924-Jan 30, 1925</unitdate>
+            <container id="aspace_9832de981daa3e9bd275ecc611a0841e" label="Mixed Materials [31142046543198]" type="Box">21</container>
+            <container id="aspace_c6df6df86346af5ff3614b1fca475fbb" parent="aspace_9832de981daa3e9bd275ecc611a0841e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>United Hatters-Executive Board Minutes</unittitle>
+            <unitdate datechar="creation">Apr 27, 1925-Aug 17, 1925</unitdate>
+            <container id="aspace_f7e43593ec60e94a5e3529146434eaf7" label="Mixed Materials [31142046543198]" type="Box">21</container>
+            <container id="aspace_eda1f57e01e70efe2908913f8ab8992e" parent="aspace_f7e43593ec60e94a5e3529146434eaf7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>United Hatters-Executive Board Minutes</unittitle>
+            <unitdate datechar="creation">Oct 22, 1925-Feb 20, 1926</unitdate>
+            <container id="aspace_5a7ae9638b20563f4200b12e5b31e707" label="Mixed Materials [31142046543198]" type="Box">21</container>
+            <container id="aspace_6355d4cbf7e5155c704d21bf67fd117b" parent="aspace_5a7ae9638b20563f4200b12e5b31e707" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>United Hatters-Executive Board Minutes</unittitle>
+            <unitdate datechar="creation">May 20, 1926-Feb 27, 1927</unitdate>
+            <container id="aspace_aeee3f00c7945f109645e450dca1ab78" label="Mixed Materials [31142046543198]" type="Box">21</container>
+            <container id="aspace_51f159011bf31048b4fe8c4f993319ed" parent="aspace_aeee3f00c7945f109645e450dca1ab78" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>United Hatters-Executive Board Minutes</unittitle>
+            <unitdate datechar="creation">Apr 19, 1927-Mar 3, 1928</unitdate>
+            <container id="aspace_8cd38c86e7c2b119205b907b2a8221e8" label="Mixed Materials [31142046543198]" type="Box">21</container>
+            <container id="aspace_a4590586f7f9bb2cf80271857e1f646f" parent="aspace_8cd38c86e7c2b119205b907b2a8221e8" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>United Hatters-Executive Board Minutes</unittitle>
+            <unitdate datechar="creation">Mar 3, 1928-Mar 10, 1928</unitdate>
+            <container id="aspace_1b59b6b1604dc8b593ae71b47cf7d862" label="Mixed Materials [31142046543198]" type="Box">21</container>
+            <container id="aspace_167a973f7214c036c5d19ca4d11ac174" parent="aspace_1b59b6b1604dc8b593ae71b47cf7d862" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>United Hatters-Executive Board Minutes</unittitle>
+            <unitdate datechar="creation">Mar 10, 1928-Mar 23, 1928</unitdate>
+            <container id="aspace_6f835c265bd08e50576752f626eac806" label="Mixed Materials [31142046543198]" type="Box">21</container>
+            <container id="aspace_ee7fc3c99ee0608ee5a4a17c7ca6262d" parent="aspace_6f835c265bd08e50576752f626eac806" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>United Hatters-Executive Board Minutes</unittitle>
+            <unitdate datechar="creation">May 25, 1928-Jan 30, 1929</unitdate>
+            <container id="aspace_7a613de94ada0fe56b19941af6d7cd27" label="Mixed Materials [31142046543198]" type="Box">21</container>
+            <container id="aspace_effba907766bce6fd477ea9cd454a764" parent="aspace_7a613de94ada0fe56b19941af6d7cd27" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Correspondence on Jurisdiction</unittitle>
+            <unitdate datechar="creation" normal="1903/1916" type="inclusive">1903-1916</unitdate>
+            <container id="aspace_23c1e78b8c311a5b08e8cb5693ccb9d1" label="Mixed Materials [31142046543206]" type="Box">22</container>
+            <container id="aspace_0aadc179368cf376f7526026472e9711" parent="aspace_23c1e78b8c311a5b08e8cb5693ccb9d1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Correspondence on Jurisdiction</unittitle>
+            <unitdate datechar="creation" normal="1916/1918" type="inclusive">1916-1918</unitdate>
+            <container id="aspace_5c8eceb191bd7154e4e6dd56f553fa39" label="Mixed Materials [31142046543206]" type="Box">22</container>
+            <container id="aspace_f5495f5616b4cf9d3d090441b1d164c7" parent="aspace_5c8eceb191bd7154e4e6dd56f553fa39" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Correspondence on Jurisdiction</unittitle>
+            <unitdate datechar="creation" normal="1917/1921" type="inclusive">1917-1921</unitdate>
+            <container id="aspace_121bf110f3df03fb2988b83343abfec0" label="Mixed Materials [31142046543206]" type="Box">22</container>
+            <container id="aspace_83afae2a0744815a4aa0db594f318678" parent="aspace_121bf110f3df03fb2988b83343abfec0" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Correspondence on Jurisdiction</unittitle>
+            <unitdate datechar="creation" normal="1922/1926" type="inclusive">1922-1926</unitdate>
+            <container id="aspace_90d4367eeb14424e4d720f9ca09db07f" label="Mixed Materials [31142046543206]" type="Box">22</container>
+            <container id="aspace_fb2a12aa08a249491cfe1b4fe30580b3" parent="aspace_90d4367eeb14424e4d720f9ca09db07f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Correspondence on Jurisdiction</unittitle>
+            <unitdate datechar="creation" normal="1931/1933" type="inclusive">1931-1933</unitdate>
+            <container id="aspace_92e46fd4914a7026e83502d0983805de" label="Mixed Materials [31142046543206]" type="Box">22</container>
+            <container id="aspace_0652ccc6012b8094abe5fbdf030aa7da" parent="aspace_92e46fd4914a7026e83502d0983805de" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>Research Memorandum (from Braunthals files) on Racketeering</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_215d88f1114844083fdf57e9ae76e024" label="Mixed Materials [31142046543214]" type="Box">23</container>
+            <container id="aspace_7afc424cfe80943c72b822ce80e4ffa6" parent="aspace_215d88f1114844083fdf57e9ae76e024" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Clippings on Jurisdictional Problems and Racketeering (in Yiddish)</unittitle>
+            <unitdate datechar="creation" normal="1931/1933" type="inclusive">1931-1933</unitdate>
+            <container id="aspace_fff5cd47404116cc9beb3fa50ba30ed6" label="Mixed Materials [31142046543214]" type="Box">23</container>
+            <container id="aspace_8310825e6c0525d71d88025477bf28bc" parent="aspace_fff5cd47404116cc9beb3fa50ba30ed6" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Convention Documents (in Yiddish)</unittitle>
+            <unitdate datechar="creation" normal="1901/1901" type="inclusive">1901</unitdate>
+            <container id="aspace_a31416b2705118d6980ae912f2801bba" label="Mixed Materials [31142046543214]" type="Box">23</container>
+            <container id="aspace_d27d64deba63db1b3e1712aaa7c8673c" parent="aspace_a31416b2705118d6980ae912f2801bba" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>Correspondence on Jurisdiction (AFL)</unittitle>
+            <unitdate datechar="creation" normal="1919/1926" type="inclusive">1919-1926</unitdate>
+            <container id="aspace_c8baa6ac61cdbe58fdfe040cf44d5637" label="Mixed Materials [31142046543222]" type="Box">24</container>
+            <container id="aspace_1ba78694eec2d163bea60bd537618dd3" parent="aspace_c8baa6ac61cdbe58fdfe040cf44d5637" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>Correspondence on Jurisdiction (AFL)</unittitle>
+            <unitdate datechar="creation" normal="1930/1934" type="inclusive">1930-1934</unitdate>
+            <container id="aspace_1b6d4ec2950667f33d4edb02ac9e6a22" label="Mixed Materials [31142046543222]" type="Box">24</container>
+            <container id="aspace_4cb82bb7cbd8f6f596d281c32d26ba5e" parent="aspace_1b6d4ec2950667f33d4edb02ac9e6a22" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>I.W.W. Dues Books</unittitle>
+            <unitdate datechar="creation" normal="1896/1907" type="inclusive">1896-1907</unitdate>
+            <container id="aspace_883f641192c462891bb3795a7c62db37" label="Mixed Materials [31142046543230]" type="Box">25</container>
+            <container id="aspace_df892134916aaaaa359492e6773a29b6" parent="aspace_883f641192c462891bb3795a7c62db37" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>Minutes of Meetings of the Joint Education Committee</unittitle>
+            <unitdate datechar="creation" normal="1917/1917" type="inclusive">1917</unitdate>
+            <container id="aspace_458c52bf759700c653fec5ebcbb4326a" label="Mixed Materials [31142046543230]" type="Box">25</container>
+            <container id="aspace_ababe3b33fb0f93f75f14c9793e2557a" parent="aspace_458c52bf759700c653fec5ebcbb4326a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>Constitution of the Union</unittitle>
+            <unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate>
+            <container id="aspace_9edb7daafc31dcb8a610f83fb6ad0d61" label="Mixed Materials [31142046543230]" type="Box">25</container>
+            <container id="aspace_93c872fcf43eeb0eaa3da11a42830fbe" parent="aspace_9edb7daafc31dcb8a610f83fb6ad0d61" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="file">
+          <did>
+            <unittitle>Supreme Court of the State of New York, Appellate Division-2nd Department:People of the State of New York v. Raul Smith and Zolot</unittitle>
+            <unitdate datechar="creation" normal="1916/1916" type="inclusive">1916</unitdate>
+            <container id="aspace_1bbcb53ca0886880cbc45796a9c89ebd" label="Mixed Materials [31142046543230]" type="Box">25</container>
+            <container id="aspace_6b13c810d5a60df9d178b71e20a3d7cf" parent="aspace_1bbcb53ca0886880cbc45796a9c89ebd" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="file">
+          <did>
+            <unittitle>Supreme Court of the State of New York, Appellate Division-1st Department: Hersh Kovitz v. Good Value Hat Company</unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container id="aspace_328793576fb5a3e40eac49500f2aabf0" label="Mixed Materials [31142046543230]" type="Box">25</container>
+            <container id="aspace_2cb0dfe0bb15a9e39691404c7288e46b" parent="aspace_328793576fb5a3e40eac49500f2aabf0" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>Correspondence from J.B. Salsberg to the General Executive Board (5 pieces)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_037076b2dc3575f523d0db2371ef4625" label="Mixed Materials [31142046543230]" type="Box">25</container>
+            <container id="aspace_ef34844a6dcea9446d46d1b276a9c014" parent="aspace_037076b2dc3575f523d0db2371ef4625" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>Scrapbook (in Yiddish and English)</unittitle>
+            <unitdate datechar="creation" normal="1904/1916" type="inclusive">1904-1916</unitdate>
+            <container id="aspace_e0837a2524d61a42f89fe7510aae5ee7" label="Mixed Materials [31142046543248]" type="Box">26</container>
+            <container id="aspace_5e28aae26d1f599ffafd85e175c92b28" parent="aspace_e0837a2524d61a42f89fe7510aae5ee7" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>Stories from Daily Worker (on factional fights)</unittitle>
+            <unitdate datechar="creation" normal="1920/1929" type="inclusive">1920's</unitdate>
+            <container id="aspace_eaae77830d36f1185c0208933f056bce" label="Mixed Materials [31142046543248]" type="Box">26</container>
+            <container id="aspace_14971cc8bdf416285c921823c2b1a94c" parent="aspace_eaae77830d36f1185c0208933f056bce" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>Whither are we Going? (speech on resignation of Zaritsky)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_fff748e0d410c3985f9c109f6fc8477f" label="Mixed Materials [31142046543248]" type="Box">26</container>
+            <container id="aspace_7c91aa2627d1f2ab1a56ef1da9b3e327" parent="aspace_fff748e0d410c3985f9c109f6fc8477f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>Biography of Max Zuckerman, typescript</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_32656b49f9ef404f98ca86527d2aa7e9" label="Mixed Materials [31142046543248]" type="Box">26</container>
+            <container id="aspace_532aebd53d4d62c78c375e11e9f223b8" parent="aspace_32656b49f9ef404f98ca86527d2aa7e9" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>The Millinery Workers Turn the Tide Max Zuckerman (pamphlet)</unittitle>
+            <unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate>
+            <container id="aspace_95857b8f60eb8fc0e94b9e9f9556d4cf" label="Mixed Materials [31142046543248]" type="Box">26</container>
+            <container id="aspace_74471f3117ada8fba054f38825c529f5" parent="aspace_95857b8f60eb8fc0e94b9e9f9556d4cf" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>Articles on Agreement with Cap Manufacturers</unittitle>
+            <unitdate datechar="creation" normal="1902/1932" type="inclusive">1902-1932</unitdate>
+            <container id="aspace_65e149d0a7a2a3fdfc171855a5650a72" label="Mixed Materials [31142046543248]" type="Box">26</container>
+            <container id="aspace_d73e36c59c6e97d44df779e991d879c5" parent="aspace_65e149d0a7a2a3fdfc171855a5650a72" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>Credentials of Delegates to Convention</unittitle>
+            <unitdate datechar="creation" normal="1901/1901" type="inclusive">1901</unitdate>
+            <container id="aspace_5dc2d6650bb4bfd1bc43b10b2cb5e612" label="Mixed Materials [31142046543248]" type="Box">26</container>
+            <container id="aspace_d79e5e175ba00b082a37dd8971829443" parent="aspace_5dc2d6650bb4bfd1bc43b10b2cb5e612" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="file">
+          <did>
+            <unittitle>The Deceit of the I.W.W. (pamphlet)</unittitle>
+            <unitdate datechar="creation" normal="1906/1906" type="inclusive">1906</unitdate>
+            <container id="aspace_c37a3489c8016c869eac5f84505f0fbd" label="Mixed Materials [31142046543248]" type="Box">26</container>
+            <container id="aspace_35034c0676158e119cdf78e7f3e1217b" parent="aspace_c37a3489c8016c869eac5f84505f0fbd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>Constitution</unittitle>
+            <unitdate datechar="creation" normal="1901/1901" type="inclusive">1901</unitdate>
+            <container id="aspace_7afbe2fff2c789193adbac4c85a14969" label="Mixed Materials [31142046543248]" type="Box">26</container>
+            <container id="aspace_f63fd4d53813e4eb03fc8cac94deb989" parent="aspace_7afbe2fff2c789193adbac4c85a14969" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="file">
+          <did>
+            <unittitle>International Socialist and Labor Greetings</unittitle>
+            <unitdate datechar="creation" normal="1894/1923" type="inclusive">1894-1923</unitdate>
+            <container id="aspace_84a8cc2cd773801fb1d8c32af89221c5" label="Mixed Materials [31142046543248]" type="Box">26</container>
+            <container id="aspace_163d958b132614de4fb89bce0a1fccdf" parent="aspace_84a8cc2cd773801fb1d8c32af89221c5" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref143" level="file">
+          <did>
+            <unittitle>The Facts of the Case (pamphlets about jurisdictional fight)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_b0fbebbaff37ebde8c608c7c577e7e5c" label="Mixed Materials [31142046543248]" type="Box">26</container>
+            <container id="aspace_639e236a6ec35bfbd65cdfa3306891c8" parent="aspace_b0fbebbaff37ebde8c608c7c577e7e5c" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="file">
+          <did>
+            <unittitle>Millinery and Ladies' Straw Hat Workers Union: 24th Anniversary Dinner Souvenir</unittitle>
+            <unitdate datechar="creation">Mar 19, 1916</unitdate>
+            <container id="aspace_41d97730b7cf6a87ec9afd1a76bcf6b0" label="Mixed Materials [31142046543248]" type="Box">26</container>
+            <container id="aspace_9af22ba021fda56eeb38adab7533b46c" parent="aspace_41d97730b7cf6a87ec9afd1a76bcf6b0" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref145" level="file">
+          <did>
+            <unittitle>Millinery Workers Union: 20th Anniversary Concert and Banquet Program</unittitle>
+            <unitdate datechar="creation">May 29, 1930</unitdate>
+            <container id="aspace_df0c27739d4a486fc472974b74d624fd" label="Mixed Materials [31142046543248]" type="Box">26</container>
+            <container id="aspace_e79d44afa62b4794b59189afaec6823c" parent="aspace_df0c27739d4a486fc472974b74d624fd" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref146" level="file">
+          <did>
+            <unittitle>Charter of Kansas City Local</unittitle>
+            <unitdate datechar="creation">Oct 24, 1933</unitdate>
+            <container id="aspace_1528d34d3776bb1a775820ed36ccc3ba" label="Mixed Materials [31142046543248]" type="Box">26</container>
+            <container id="aspace_763e1523073a430f8f5a92bd684a0f37" parent="aspace_1528d34d3776bb1a775820ed36ccc3ba" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="file">
+          <did>
+            <unittitle>Untranslated Yiddish Handwritten Document</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_14c6938f58394d32d7f9b2089214ae1e" label="Mixed Materials [31142046543248]" type="Box">26</container>
+            <container id="aspace_f2263ca1bd176110d65b79f2f812e601" parent="aspace_14c6938f58394d32d7f9b2089214ae1e" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="file">
+          <did>
+            <unittitle>Correspondence: United Cloth Hatters and Cap Makers and AFL</unittitle>
+            <unitdate datechar="creation" normal="1917/1919" type="inclusive">1917-1919</unitdate>
+            <container id="aspace_8723a0a75e26f8a9de6a700805263533" label="Mixed Materials [31142046543255]" type="Box">27</container>
+            <container id="aspace_2729921630b2811f81fe38b0971e9ac9" parent="aspace_8723a0a75e26f8a9de6a700805263533" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="file">
+          <did>
+            <unittitle>Correspondence: United Cloth Hatters and Cap Makers and AFL</unittitle>
+            <unitdate datechar="creation" normal="1927/1929" type="inclusive">1927-1929</unitdate>
+            <container id="aspace_fba712f782999ff62cc1f13f8821abdf" label="Mixed Materials [31142046543255]" type="Box">27</container>
+            <container id="aspace_f6d36d8d5af3e47e3d616ff817d8cd6a" parent="aspace_fba712f782999ff62cc1f13f8821abdf" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref150" level="series">
+        <did>
+          <unittitle>Series IV: Jurisdictional Disputes and Amalgamation</unittitle>
+          <unitdate datechar="creation" normal="1933/1934" type="inclusive">1933-1934</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref151" level="file">
+          <did>
+            <unittitle>Proceedings: Special Amalgamation Convention of the United Hatters (vol. 1)</unittitle>
+            <unitdate datechar="creation">Oct 1933</unitdate>
+            <container id="aspace_52562acfa8e28e2ab66010dffcd80b97" label="Mixed Materials [31142046543263]" type="Box">28</container>
+            <container id="aspace_188613c2b097c14103521db0cb839613" parent="aspace_52562acfa8e28e2ab66010dffcd80b97" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="file">
+          <did>
+            <unittitle>Proceedings: Special Amalgamation Convention of the United Hatters (vol. 2)</unittitle>
+            <unitdate datechar="creation">Oct 1933</unitdate>
+            <container id="aspace_e041d70eb6fd5432b2c4921c70e2aaf4" label="Mixed Materials [31142046543263]" type="Box">28</container>
+            <container id="aspace_28bfe36174675236ce4b3c9aed77a116" parent="aspace_e041d70eb6fd5432b2c4921c70e2aaf4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="file">
+          <did>
+            <unittitle>Proceedings: Special Amalgamation Convention of the United Hatters (vol. 3)</unittitle>
+            <unitdate datechar="creation">Oct 1933</unitdate>
+            <container id="aspace_99a81bf712563f6f42678cb7a7f9a8be" label="Mixed Materials [31142046543263]" type="Box">28</container>
+            <container id="aspace_267681f516021d10565e6da6e01f96b6" parent="aspace_99a81bf712563f6f42678cb7a7f9a8be" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="file">
+          <did>
+            <unittitle>Proceedings: Adjourned Session of the Special Convention of the Men's Hat Department of the United Hatters (vol. 1)</unittitle>
+            <unitdate datechar="creation">Jan 1934</unitdate>
+            <container id="aspace_0f19d3e9402428c4ed1bd49e5ad630e0" label="Mixed Materials [31142046543263]" type="Box">28</container>
+            <container id="aspace_984dd73e7b801db253798cc44f49ad41" parent="aspace_0f19d3e9402428c4ed1bd49e5ad630e0" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref155" level="file">
+          <did>
+            <unittitle>Proceedings: Adjourned Session of the Special Convention of the Men's Hat Department of the United Hatters (vol. 2)</unittitle>
+            <unitdate datechar="creation">Jan 1934</unitdate>
+            <container id="aspace_d92a22288456cfe881e95a8be7528aff" label="Mixed Materials [31142046543263]" type="Box">28</container>
+            <container id="aspace_d3a86dec1495af00f338cc7e90e47320" parent="aspace_d92a22288456cfe881e95a8be7528aff" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="file">
+          <did>
+            <unittitle>Bills of Local 42, Cloth Hatters-Signed on Joining United Hatters</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_bbf3fb7c7b72bf283eafe353de0aa353" label="Mixed Materials [31142046543271]" type="Box">29</container>
+            <container id="aspace_f478e625c16e4b49c47777f5ced22d1e" parent="aspace_bbf3fb7c7b72bf283eafe353de0aa353" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref157" level="file">
+          <did>
+            <unittitle>List if Indebtedness of Local 42</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_897845554f04a16132b14e5117028a95" label="Mixed Materials [31142046543271]" type="Box">29</container>
+            <container id="aspace_8aa4d9d727611f462a4ef9f2a045c868" parent="aspace_897845554f04a16132b14e5117028a95" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref158" level="file">
+          <did>
+            <unittitle>Agreements: United Hatters and Cloth Hatters</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_c2faa2bf72376e27ab1f288a085b2d91" label="Mixed Materials [31142046543271]" type="Box">29</container>
+            <container id="aspace_a137241926a841be6d79f518ab940811" parent="aspace_c2faa2bf72376e27ab1f288a085b2d91" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref159" level="series">
+        <did>
+          <unittitle>Series V: Joint Union Label Board</unittitle>
+          <unitdate datechar="creation" normal="1920/1932" type="inclusive">1920-1932</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref160" level="file">
+          <did>
+            <unittitle>Record of Labels Distributed to Employers</unittitle>
+            <unitdate datechar="creation" normal="1920/1927" type="inclusive">1920-1927</unitdate>
+            <container id="aspace_7cb4a95ee706ede35ec861b0b2e67096" label="Mixed Materials [31142046543289]" type="Box">30</container>
+            <container id="aspace_3c393ee852fdb70e038b4b11e48fedd1" parent="aspace_7cb4a95ee706ede35ec861b0b2e67096" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref161" level="file">
+          <did>
+            <unittitle>Record of Labels Distributed to Employers</unittitle>
+            <unitdate datechar="creation" normal="1920/1932" type="inclusive">1920-1932</unitdate>
+            <container id="aspace_14118f4f8fb09f4512f88672fda013a4" label="Mixed Materials [31142046543289]" type="Box">30</container>
+            <container id="aspace_e4fac7bb31107a7f4802a8a573a737eb" parent="aspace_14118f4f8fb09f4512f88672fda013a4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="file">
+          <did>
+            <unittitle>Expense Account of Joint Union Label Board</unittitle>
+            <unitdate datechar="creation" normal="1925/1929" type="inclusive">1925-1929</unitdate>
+            <container id="aspace_592dc7cbd589024d71e47cf561b351cc" label="Mixed Materials [31142046543289]" type="Box">30</container>
+            <container id="aspace_42a91e05c85ef4eb74c760079d44dee8" parent="aspace_592dc7cbd589024d71e47cf561b351cc" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref294" level="file">
+          <did>
+            <unittitle>Expense Account of Joint Union Label Board</unittitle>
+            <unitdate datechar="creation" normal="1927/1929" type="inclusive">1927, 1929</unitdate>
+            <container id="aspace_793e08dc195e0501f308c5941765f9ed" label="Mixed Materials [31142046543289]" type="Box">30</container>
+            <container id="aspace_f3867b05f36279adb5d5cf8d3bfdbdfe" parent="aspace_793e08dc195e0501f308c5941765f9ed" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref163" level="file">
+          <did>
+            <unittitle>Joint Union Label Board: Checkbook</unittitle>
+            <unitdate datechar="creation" normal="1925/1928" type="inclusive">1925-1928</unitdate>
+            <container id="aspace_d2a6cca6e5045f268909506f92f8a377" label="Mixed Materials [31142046543297]" type="Box">31</container>
+            <container id="aspace_735e9ebdfeea8f2e6209a9975fb22d23" parent="aspace_d2a6cca6e5045f268909506f92f8a377" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref164" level="file">
+          <did>
+            <unittitle>Joint Union Label Board: Checkbook</unittitle>
+            <unitdate datechar="creation" normal="1928/1929" type="inclusive">1928-1929</unitdate>
+            <container id="aspace_cf4c215bdfc490a067039c04c7d346cf" label="Mixed Materials [31142046543297]" type="Box">31</container>
+            <container id="aspace_30ede4a7001eb7f098957e3724ea2776" parent="aspace_cf4c215bdfc490a067039c04c7d346cf" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref165" level="file">
+          <did>
+            <unittitle>Joint Union Label Board: Bank Book</unittitle>
+            <unitdate datechar="creation" normal="1925/1929" type="inclusive">1925-1929</unitdate>
+            <container id="aspace_50f37aadf9624dabd98f701eed07af54" label="Mixed Materials [31142046543297]" type="Box">31</container>
+            <container id="aspace_71f945e68e6370fb7985f2a5f46cd03d" parent="aspace_50f37aadf9624dabd98f701eed07af54" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref166" level="file">
+          <did>
+            <unittitle>Joint Union Label Board: Cancelled Checks</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_3d7db9da037877dd6d904346f85fe5ac" label="Mixed Materials [31142046543297]" type="Box">31</container>
+            <container id="aspace_61ae2b778e09017b92f340b3dd9b3237" parent="aspace_3d7db9da037877dd6d904346f85fe5ac" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref167" level="series">
+        <did>
+          <unittitle>Series VI: Danbury Hatters' Case</unittitle>
+          <unitdate datechar="creation" normal="1905/1922" type="inclusive">1905-1922</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref168" level="file">
+          <did>
+            <unittitle>Circuit Court of the United States, District of CT: Dietrich E. Loewe v. Martin Lawlor, No. 5381</unittitle>
+            <unitdate datechar="creation" normal="1908/1908" type="inclusive">Sep 1908</unitdate>
+            <container id="aspace_9f79dcb343c0f7d9f8ce869c94f05b27" label="Mixed Materials [31142046543305]" type="Box">32</container>
+            <container id="aspace_20e1b3e1717df3e973ecb3d34c38fc3b" parent="aspace_9f79dcb343c0f7d9f8ce869c94f05b27" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref169" level="file">
+          <did>
+            <unittitle>United States District Court, District of CT: Loewe v. Lawlor (transcript vol. 1)</unittitle>
+            <unitdate datechar="creation" normal="1912/1912" type="inclusive">1912</unitdate>
+            <container id="aspace_b63ebe923cf68a5b451d74e205c307f3" label="Mixed Materials [31142046543305]" type="Box">32</container>
+            <container id="aspace_e399e487d43de2b2c30cc420db8f1379" parent="aspace_b63ebe923cf68a5b451d74e205c307f3" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref170" level="file">
+          <did>
+            <unittitle>untitled printed volume (same material as Box 32 folder 2)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_f54a556b172d9a7bbfa540c1cea24229" label="Mixed Materials [31142046543305]" type="Box">32</container>
+            <container id="aspace_bde7c86223c3cd0b0463095f064db613" parent="aspace_f54a556b172d9a7bbfa540c1cea24229" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref171" level="file">
+          <did>
+            <unittitle>United States District Court, District of CT: Loewe v. Lawlor (transcript vol. 2)</unittitle>
+            <unitdate datechar="creation" normal="1912/1912" type="inclusive">1912</unitdate>
+            <container id="aspace_f33a0d24a4e82dd257a5d2b986eb7cd2" label="Mixed Materials [31142046543313]" type="Box">33</container>
+            <container id="aspace_dc1c008b71e2dfb141f50fd3e7a4c0ad" parent="aspace_f33a0d24a4e82dd257a5d2b986eb7cd2" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref172" level="file">
+          <did>
+            <unittitle>United States District Court, District of CT: Loewe v. Lawlor (transcript vol. 3)</unittitle>
+            <unitdate datechar="creation" normal="1912/1912" type="inclusive">1912</unitdate>
+            <container id="aspace_ab11242582c6577416fa9b9cb04dfcf9" label="Mixed Materials [31142046543313]" type="Box">33</container>
+            <container id="aspace_fb15f08866ddb3f026b9546872fa6fad" parent="aspace_ab11242582c6577416fa9b9cb04dfcf9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref173" level="file">
+          <did>
+            <unittitle>United States District Court, District of CT: Loewe v. Lawlor (transcript vol. 4)</unittitle>
+            <unitdate datechar="creation" normal="1912/1912" type="inclusive">1912</unitdate>
+            <container id="aspace_1d56054b9091c15c79db1c38eaeb7a4c" label="Mixed Materials [31142046543321]" type="Box">34</container>
+            <container id="aspace_eb785d7e33184ad523238a682d97d8e2" parent="aspace_1d56054b9091c15c79db1c38eaeb7a4c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref174" level="file">
+          <did>
+            <unittitle>United States District Court, District of CT: Loewe v. Lawlor (transcript vol. 5)</unittitle>
+            <unitdate datechar="creation" normal="1912/1912" type="inclusive">1912</unitdate>
+            <container id="aspace_99fa21606aa88379f568efbf3ce2d110" label="Mixed Materials [31142046543321]" type="Box">34</container>
+            <container id="aspace_72ec55e9ac51917f46885e9633894846" parent="aspace_99fa21606aa88379f568efbf3ce2d110" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref175" level="file">
+          <did>
+            <unittitle>United States Circuit Court of Appeals, 2nd Circuit: Lawlor v. Loewe-Transcript of Record (vol. 1)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_497138fd6d82b9aff1966f4c2dac76ac" label="Mixed Materials [31142046543339]" type="Box">35</container>
+            <container id="aspace_fcebba82d2544d1e819965c3872a6cbe" parent="aspace_497138fd6d82b9aff1966f4c2dac76ac" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref176" level="file">
+          <did>
+            <unittitle>United States Circuit Court of Appeals, 2nd Circuit: Lawlor v. Loewe-Transcript of Record (vol. 2)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_2afe8af777124a68e823575a1ec4baf7" label="Mixed Materials [31142046543339]" type="Box">35</container>
+            <container id="aspace_569b727f37be4e5e745aaa860a2ca3b8" parent="aspace_2afe8af777124a68e823575a1ec4baf7" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref177" level="file">
+          <did>
+            <unittitle>United States Circuit Court of Appeals, 2nd Circuit: Lawlor v. Loewe-Transcript of Record (vol. 3)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_9fb298bca0cc72cb2e259545f9abf3a0" label="Mixed Materials [31142046543339]" type="Box">35</container>
+            <container id="aspace_11fb132fc5140fa7ffbc814258bd8d63" parent="aspace_9fb298bca0cc72cb2e259545f9abf3a0" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref178" level="file">
+          <did>
+            <unittitle>United States Circuit Court of Appeals, 2nd Circuit: Lawlor v. Loewe-Transcript of Record (vol. 4)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_1e5d1b9ce2d73754d432ed4ef1ba7441" label="Mixed Materials [31142046543347]" type="Box">36</container>
+            <container id="aspace_ed9e7c6f1a5464513cd2df1c138db2d6" parent="aspace_1e5d1b9ce2d73754d432ed4ef1ba7441" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref179" level="file">
+          <did>
+            <unittitle>United States Circuit Court of Appeals, 2nd Circuit: Lawlor v. Loewe-Transcript of Record (vol. 5)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_e21999d822da0c3d2a5c5ef5b13f9149" label="Mixed Materials [31142046543347]" type="Box">36</container>
+            <container id="aspace_c8c5afde223b5f1bd200de4ab60a4acf" parent="aspace_e21999d822da0c3d2a5c5ef5b13f9149" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref180" level="file">
+          <did>
+            <unittitle>United States Circuit Court of Appeals, 2nd Circuit: Lawlor v. Loewe, Classified Index</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_2c601d3015c93cee38d221e94bb98d26" label="Mixed Materials [31142046543347]" type="Box">36</container>
+            <container id="aspace_bdb18942db59ea481df84486d53754e6" parent="aspace_2c601d3015c93cee38d221e94bb98d26" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref181" level="file">
+          <did>
+            <unittitle>United States Circuit Court of Appeals, 2nd Circuit: Lawlor v. Loewe, Brief for Plaintiff in Error</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_07dfe276340dbd0c921b7905ef9d3ec9" label="Mixed Materials [31142046543347]" type="Box">36</container>
+            <container id="aspace_f2df28b6451729e51c046e59a3e42470" parent="aspace_07dfe276340dbd0c921b7905ef9d3ec9" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref182" level="file">
+          <did>
+            <unittitle>United States Circuit Court of Appeals, 2nd Circuit: Lawlor v. Loewe, Brief for Plaintiff in Error</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_01ff069ad90d2dd5cec018ba05d8f2fd" label="Mixed Materials [31142046543347]" type="Box">36</container>
+            <container id="aspace_3b312f3c6466ee5274d6ca1b4e07bfb7" parent="aspace_01ff069ad90d2dd5cec018ba05d8f2fd" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref183" level="file">
+          <did>
+            <unittitle>United States Circuit Court of Appeals, 2nd Circuit: Lawlor v. Loewe, Brief for Defendant in Support of the Demurrer</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_1faed0fd3202fddd1d2276f6629d9f47" label="Mixed Materials [31142046543347]" type="Box">36</container>
+            <container id="aspace_001fbd271018a20eb71492a3e21469ea" parent="aspace_1faed0fd3202fddd1d2276f6629d9f47" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref184" level="file">
+          <did>
+            <unittitle>United States Circuit Court of Appeals, 2nd Circuit: Lawlor v. Loewe-Brief for Defendant in Error</unittitle>
+            <unitdate datechar="creation" normal="1914/1914" type="inclusive">1914</unitdate>
+            <container id="aspace_e83c5ae05aa0cad85ad7b8bb7ef29252" label="Mixed Materials [31142046543354]" type="Box">37</container>
+            <container id="aspace_83a32afe2065a270f93e199250fa78c8" parent="aspace_e83c5ae05aa0cad85ad7b8bb7ef29252" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref185" level="file">
+          <did>
+            <unittitle>United States Supreme Court, no. 900: Lawlor v. Loewe (vol. 3)</unittitle>
+            <unitdate datechar="creation" normal="1913/1913" type="inclusive">1913</unitdate>
+            <container id="aspace_071604bc86daadd8a23eb7f142e6d275" label="Mixed Materials [31142046543354]" type="Box">37</container>
+            <container id="aspace_b0f639d23a694ed72c32876f63275d38" parent="aspace_071604bc86daadd8a23eb7f142e6d275" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref186" level="file">
+          <did>
+            <unittitle>United States Supreme Court, no. 900: Lawlor v. Loewe-Brief for Plaintiff in Error</unittitle>
+            <unitdate datechar="creation" normal="1914/1914" type="inclusive">1914</unitdate>
+            <container id="aspace_ec883f6a164230c566929322fc6309eb" label="Mixed Materials [31142046543354]" type="Box">37</container>
+            <container id="aspace_5986764eb57db9d9b394a14cb343b003" parent="aspace_ec883f6a164230c566929322fc6309eb" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref187" level="file">
+          <did>
+            <unittitle>United States Supreme Court, no. 900: Lawlor v. Loewe-Brief for Defendant in Error</unittitle>
+            <unitdate datechar="creation" normal="1914/1914" type="inclusive">1914</unitdate>
+            <container id="aspace_1ef4e0baf95de8c430b4f3e7a94a9d56" label="Mixed Materials [31142046543354]" type="Box">37</container>
+            <container id="aspace_508923420082f5f3969f7306d7a22a52" parent="aspace_1ef4e0baf95de8c430b4f3e7a94a9d56" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref188" level="file">
+          <did>
+            <unittitle>Court of Appeals, District of Columbia: Gompers, Mitchell and Morrison v. United States</unittitle>
+            <unitdate datechar="creation" normal="1913/1913" type="inclusive">1913</unitdate>
+            <container id="aspace_76acdf00aac130911d6f7425f36a1bc7" label="Mixed Materials [31142046543354]" type="Box">37</container>
+            <container id="aspace_325043ab6f5f567c7f1ddae4c4043f33" parent="aspace_76acdf00aac130911d6f7425f36a1bc7" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref189" level="file">
+          <did>
+            <unittitle>Supreme Court of Errors, 3rd District, New Haven County: Lawlor v. C.H. Merritt and Son</unittitle>
+            <unitdate datechar="creation" normal="1906/1906" type="inclusive">1906</unitdate>
+            <container id="aspace_d86551458f8bc362caa773c92957512e" label="Mixed Materials [31142046543354]" type="Box">37</container>
+            <container id="aspace_09360458227f7319732cbf014af47cf5" parent="aspace_d86551458f8bc362caa773c92957512e" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref190" level="file">
+          <did>
+            <unittitle>United States Circuit Court of Appeals, 2nd Circuit: Loewe v. Savings Bank of Danbury</unittitle>
+            <unitdate datechar="creation" normal="1903/1903" type="inclusive">1903</unitdate>
+            <container id="aspace_e893c4ccb91f1a1a26b1f0d9f3458269" label="Mixed Materials [31142046543354]" type="Box">37</container>
+            <container id="aspace_9d00ae3a0273cdda7bd0bc3d2fb3d3ec" parent="aspace_e893c4ccb91f1a1a26b1f0d9f3458269" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref191" level="file">
+          <did>
+            <unittitle>Appellate Court of IL, 1st District: Abstract of Record-Eiger v. United Hatters of North America, Locals 22 and 5</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_31f08fd704a3204f62e1587d0730502a" label="Mixed Materials [31142046543354]" type="Box">37</container>
+            <container id="aspace_060b0f57d114906c452560a97da58f20" parent="aspace_31f08fd704a3204f62e1587d0730502a" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref192" level="file">
+          <did>
+            <unittitle>Circuit Cort of the United States, NJ District:Rule to Show Cause, Bill of Complaint, etc.-Samuel Mundheim Company v. John A. Moffitt</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_bd3c49f8ed2b2cbed6c8a9c7cd86ac1c" label="Mixed Materials [31142046543354]" type="Box">37</container>
+            <container id="aspace_449904bf5529c81eae0089a6de42044d" parent="aspace_bd3c49f8ed2b2cbed6c8a9c7cd86ac1c" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref193" level="file">
+          <did>
+            <unittitle>Bills of Prices Signed by Various Hat Manufacturers</unittitle>
+            <unitdate datechar="creation" normal="1913/1918" type="inclusive">1913-1918</unitdate>
+            <container id="aspace_d4cf77a1a34337dfccd781c02cc42cf3" label="Mixed Materials [31142046543362]" type="Box">38</container>
+            <container id="aspace_152749055fe2823663007f04d10b9f8d" parent="aspace_d4cf77a1a34337dfccd781c02cc42cf3" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref194" level="file">
+          <did>
+            <unittitle>Miscellaneous Financial Records</unittitle>
+            <unitdate datechar="creation" normal="1917/1917" type="inclusive">1917</unitdate>
+            <container id="aspace_cf0e2bd32778c277d42ce01cbc6f8340" label="Mixed Materials [31142046543362]" type="Box">38</container>
+            <container id="aspace_d82d65fe2a495ca76de72515eb7d8481" parent="aspace_cf0e2bd32778c277d42ce01cbc6f8340" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref195" level="file">
+          <did>
+            <unittitle>Ledger and Reciepts (1915-1916), Special Assessment on Traveling Cards (1915-1920)</unittitle>
+            <unitdate datechar="creation" normal="1915/1920" type="inclusive">1915-1920</unitdate>
+            <container id="aspace_2cff68ef584fc56f0a349c7e55e7aca4" label="Mixed Materials [31142046543362]" type="Box">38</container>
+            <container id="aspace_53ffd4babadf1af71a6a55e35b38d29e" parent="aspace_2cff68ef584fc56f0a349c7e55e7aca4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref196" level="file">
+          <did>
+            <unittitle>Memorandum, War Labor Board: in Matter of Danbury Hat Strike</unittitle>
+            <unitdate datechar="creation" normal="1918/1918" type="inclusive">1918</unitdate>
+            <container id="aspace_f545837d34dd369eb58c7620ae1444bc" label="Mixed Materials [31142046543362]" type="Box">38</container>
+            <container id="aspace_5306311c34a5aa3500d54e83bee116a9" parent="aspace_f545837d34dd369eb58c7620ae1444bc" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref197" level="file">
+          <did>
+            <unittitle>Appendices to Memorandum for United States Hat Company</unittitle>
+            <unitdate datechar="creation" normal="1915/1916" type="inclusive">1915-1916</unitdate>
+            <container id="aspace_6ba32b7ef378a5cb241148376bf8d277" label="Mixed Materials [31142046543362]" type="Box">38</container>
+            <container id="aspace_7f4266e96b300fb57419ae731bdb3f63" parent="aspace_6ba32b7ef378a5cb241148376bf8d277" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref198" level="file">
+          <did>
+            <unittitle>Statement of Mr. Hanna, City Clerk of Danbury on position of Hat Manufacturers</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_1520c6c79298903b83b59fc0724337f7" label="Mixed Materials [31142046543362]" type="Box">38</container>
+            <container id="aspace_e7e58a695489ea5a0affbd528eb987c3" parent="aspace_1520c6c79298903b83b59fc0724337f7" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref199" level="file">
+          <did>
+            <unittitle>Report of Commissioner McWade of United States Department of Labor</unittitle>
+            <unitdate datechar="creation" normal="1917/1917" type="inclusive">Aug 8, 1917</unitdate>
+            <container id="aspace_f01516432e447efcbb65c08ec0ec0666" label="Mixed Materials [31142046543362]" type="Box">38</container>
+            <container id="aspace_cba459694c65f02d3cff4d44f861159d" parent="aspace_f01516432e447efcbb65c08ec0ec0666" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref200" level="file">
+          <did>
+            <unittitle>United States Department of Labor Commissioner E.E. Greenwalt's Report</unittitle>
+            <unitdate datechar="creation" normal="1918/1918" type="inclusive">Apr 27, 1918</unitdate>
+            <container id="aspace_4e7e654bf777b2c2b5c504dea24d0e3d" label="Mixed Materials [31142046543362]" type="Box">38</container>
+            <container id="aspace_bb5c16b574ab5ee3631e74f2333c8f4e" parent="aspace_4e7e654bf777b2c2b5c504dea24d0e3d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref201" level="file">
+          <did>
+            <unittitle>Report of United Hatters Position on Strike for National War Labor Board</unittitle>
+            <unitdate datechar="creation" normal="1918/1918" type="inclusive">1918</unitdate>
+            <container id="aspace_166adb6e4f1b564faadef9326d435542" label="Mixed Materials [31142046543362]" type="Box">38</container>
+            <container id="aspace_2df33731c7b913be980a06d289c782f8" parent="aspace_166adb6e4f1b564faadef9326d435542" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref202" level="file">
+          <did>
+            <unittitle>Clippings from Danbury News on Strike</unittitle>
+            <unitdate datechar="creation">Sep 13, 1917-Oct 23, 1917</unitdate>
+            <container id="aspace_085872e6a4acc93f6bc28af6dc574891" label="Mixed Materials [31142046543362]" type="Box">38</container>
+            <container id="aspace_2c9d4a1787714d633bc0aa4845d9602f" parent="aspace_085872e6a4acc93f6bc28af6dc574891" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref203" level="file">
+          <did>
+            <unittitle>Answers to Mr. Wells' Argument</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_72bffeb14cc9474de51f5efca508f3eb" label="Mixed Materials [31142046543362]" type="Box">38</container>
+            <container id="aspace_9e0e4309988c016820d22916c263ea79" parent="aspace_72bffeb14cc9474de51f5efca508f3eb" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref204" level="file">
+          <did>
+            <unittitle>Statement of Cuff Hat Company of Danbury</unittitle>
+            <unitdate datechar="creation" normal="1918/1918" type="inclusive">1918</unitdate>
+            <container id="aspace_fa3b5e725a481df51a4bdd55b2cdda54" label="Mixed Materials [31142046543362]" type="Box">38</container>
+            <container id="aspace_4d8f1bdfe7071adb5f923d69a374da95" parent="aspace_fa3b5e725a481df51a4bdd55b2cdda54" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref205" level="file">
+          <did>
+            <unittitle>Petition to Manufacturers of Danbury, Signed by Danbury Businessmen (published in Danbury News)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_675c1d52d5c4ce9dc294be1b9f4129ec" label="Mixed Materials [31142046543362]" type="Box">38</container>
+            <container id="aspace_80f6e97c110bf8a2a40cc2d0e86fb32d" parent="aspace_675c1d52d5c4ce9dc294be1b9f4129ec" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref206" level="file">
+          <did>
+            <unittitle>Exhibit on Arbitration Agreement of 1910</unittitle>
+            <unitdate datechar="creation" normal="1917/1917" type="inclusive">Jul 24, 1917</unitdate>
+            <container id="aspace_0672f800baeb3f0508b8c3509a2fcdca" label="Mixed Materials [31142046543362]" type="Box">38</container>
+            <container id="aspace_23d8d9668c45ec27babc7f067afb0ee0" parent="aspace_0672f800baeb3f0508b8c3509a2fcdca" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref207" level="file">
+          <did>
+            <unittitle>Historical Material on Danbury Case (collected by Charles H. Green)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_d058de15c454cae6e6220ee091a721e8" label="Mixed Materials [31142046543370]" type="Box">39</container>
+            <container id="aspace_875c7fd6461d6fbcdb43981e3f615bf7" parent="aspace_d058de15c454cae6e6220ee091a721e8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref208" level="file">
+          <did>
+            <unittitle>Historical Material on Danbury Case (collected by Charles H. Green)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_b99bfc44d2d276f1fe7c7f53ef261a95" label="Mixed Materials [31142046543370]" type="Box">39</container>
+            <container id="aspace_d0c3b4e7491aee5bdfb6a08deaf5e783" parent="aspace_b99bfc44d2d276f1fe7c7f53ef261a95" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref209" level="file">
+          <did>
+            <unittitle>Court Order to Attach Homes of Workers in Danbury Case</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_50c3b0bf6e2c7ed7a9df1daa0b632db5" label="Mixed Materials [31142046543370]" type="Box">39</container>
+            <container id="aspace_2577eccf47fe7ce824a88ce5409dd48b" parent="aspace_50c3b0bf6e2c7ed7a9df1daa0b632db5" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref210" level="file">
+          <did>
+            <unittitle>Minute Book, Bethel Hat Finishers Local</unittitle>
+            <unitdate datechar="creation" normal="1896/1920" type="inclusive">1896-1920</unitdate>
+            <container id="aspace_4f1b2a0e6f31132da10e0becb6d1a8a8" label="Mixed Materials [31142046543388]" type="Box">40</container>
+            <container id="aspace_e152999ce8105c5fca9f9920f8c7182b" parent="aspace_4f1b2a0e6f31132da10e0becb6d1a8a8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref211" level="file">
+          <did>
+            <unittitle>Minutes of Conference Between Hat Manufacturers and United Hatters</unittitle>
+            <unitdate datechar="creation">Dec 1909</unitdate>
+            <container id="aspace_a59d5b0e01d76bf6b6479a2b815ce304" label="Mixed Materials [31142046543388]" type="Box">40</container>
+            <container id="aspace_72473f0c361851df1d5db0d47a04d4a4" parent="aspace_a59d5b0e01d76bf6b6479a2b815ce304" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref212" level="file">
+          <did>
+            <unittitle>Checkbook, United Hatters</unittitle>
+            <unitdate datechar="creation" normal="1917/1917" type="inclusive">1917</unitdate>
+            <container id="aspace_b973c633048fe6513d94a7292b6ceb5d" label="Mixed Materials [31142046543388]" type="Box">40</container>
+            <container id="aspace_900e170bea854b1035cce6d844624fd2" parent="aspace_b973c633048fe6513d94a7292b6ceb5d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref213" level="file">
+          <did>
+            <unittitle>Releases of Union from Claims of it's Members</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_621632f59cb0279f6ff8c6a680c28f94" label="Mixed Materials [31142046543396]" type="Box">41</container>
+            <container id="aspace_499702532fdeef6dc4f411c79efea32c" parent="aspace_621632f59cb0279f6ff8c6a680c28f94" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref214" level="file">
+          <did>
+            <unittitle>Property Records of Danbury Hatters</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_d717a56a8c37b4027b4dbc91a41b6216" label="Mixed Materials [31142046543396]" type="Box">41</container>
+            <container id="aspace_6514503e11dcc315bc2b41df8e03b132" parent="aspace_d717a56a8c37b4027b4dbc91a41b6216" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref215" level="file">
+          <did>
+            <unittitle>Hat Manufacturers Employers Association: Fur Hat Manufacturers-Mutual Protection</unittitle>
+            <unitdate datechar="creation" normal="1903/1903" type="inclusive">1903</unitdate>
+            <container id="aspace_e37d6965209c7f30325685533d815496" label="Mixed Materials [31142046543404]" type="Box">42</container>
+            <container id="aspace_f62d90c335916cf122f88d17890f5130" parent="aspace_e37d6965209c7f30325685533d815496" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref216" level="file">
+          <did>
+            <unittitle>Hat Manufacturers Employers Association: Agreement Between Local 16 and Young Hat Company</unittitle>
+            <unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate>
+            <container id="aspace_423d0f8dcfd23b4f87fd1baade12e288" label="Mixed Materials [31142046543404]" type="Box">42</container>
+            <container id="aspace_db9927a9c9067ff14d6c390541de8ff7" parent="aspace_423d0f8dcfd23b4f87fd1baade12e288" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref217" level="file">
+          <did>
+            <unittitle>Hat Manufacturers Employers Association: Reply of United Hatters of North America to Association of Felt Hat Manufacturers</unittitle>
+            <unitdate datechar="creation" normal="1909/1909" type="inclusive">1909</unitdate>
+            <container id="aspace_5c3eb2d126d485afe2d73583d3953c3c" label="Mixed Materials [31142046543404]" type="Box">42</container>
+            <container id="aspace_e9739cfb3d52ac3d5658b125335645a0" parent="aspace_5c3eb2d126d485afe2d73583d3953c3c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref218" level="file">
+          <did>
+            <unittitle>Hat Manufacturers Employers Association: Association of Hat Manufacturers v. Baird Unteidt</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_8cb590fbe88a8e59afa4f5f7b9c3f6e8" label="Mixed Materials [31142046543404]" type="Box">42</container>
+            <container id="aspace_acb419199d09309a93bc207eab138119" parent="aspace_8cb590fbe88a8e59afa4f5f7b9c3f6e8" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref219" level="file">
+          <did>
+            <unittitle>Hat Manufacturers Employers Association: Charge of Judge Wheeler against Local 10, United Hatters</unittitle>
+            <unitdate datechar="creation" normal="1912/1912" type="inclusive">1912</unitdate>
+            <container id="aspace_ec13d5fb50ee3e9c487059b27d0c5ad3" label="Mixed Materials [31142046543404]" type="Box">42</container>
+            <container id="aspace_6c32cd317743c30f2b30b3b40a20651e" parent="aspace_ec13d5fb50ee3e9c487059b27d0c5ad3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref220" level="file">
+          <did>
+            <unittitle>Hat Manufacturers Employers Association: Constitution and By-Laws of Fur Hat Manufacturers Association of Danbury and Bethel</unittitle>
+            <unitdate datechar="creation" normal="1903/1903" type="inclusive">1903</unitdate>
+            <container id="aspace_91b3de40cfbdd80dd424d3ed70b5b096" label="Mixed Materials [31142046543404]" type="Box">42</container>
+            <container id="aspace_643ec8aea7bec0621c3584cf87f30d67" parent="aspace_91b3de40cfbdd80dd424d3ed70b5b096" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref221" level="file">
+          <did>
+            <unittitle>Financial Materials</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_5997c00c51b0e3bba212636906d2df57" label="Mixed Materials [31142046543412]" type="Box">43</container>
+            <container id="aspace_7bbd7acf5a2fc8333b950cd42a2a47e5" parent="aspace_5997c00c51b0e3bba212636906d2df57" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref222" level="series">
+        <did>
+          <unittitle>Series VII: United Hatters, Cap, and Millinery Workers International Union</unittitle>
+          <unitdate datechar="creation" normal="1934/1954" type="inclusive">1934-1954</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref223" level="file">
+          <did>
+            <unittitle>Proceedings of Convention of Men's Hat Department (vol. 1)</unittitle>
+            <unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate>
+            <container id="aspace_1d1c4417e84ac1f7d98afd170b0514ba" label="Mixed Materials [31142046543420]" type="Box">44</container>
+            <container id="aspace_9df8b2bc818ec9317b6921b732b23344" parent="aspace_1d1c4417e84ac1f7d98afd170b0514ba" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref224" level="file">
+          <did>
+            <unittitle>Proceedings of Convention of Men's Hat Department (vol. 2)</unittitle>
+            <unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate>
+            <container id="aspace_48e9e0358d0e67704301894535d96989" label="Mixed Materials [31142046543420]" type="Box">44</container>
+            <container id="aspace_9c04e645deca55b60347b584094fab16" parent="aspace_48e9e0358d0e67704301894535d96989" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref225" level="file">
+          <did>
+            <unittitle>Constitution on Men's Hat Department</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container id="aspace_88609fbe57d77b31301cf3925876bfe9" label="Mixed Materials [31142046543420]" type="Box">44</container>
+            <container id="aspace_5c9d2c117d54979b7bf4e2f8f06451da" parent="aspace_88609fbe57d77b31301cf3925876bfe9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref226" level="file">
+          <did>
+            <unittitle>Record of Factories Using Union Label</unittitle>
+            <unitdate datechar="creation" normal="1936/1941" type="inclusive">1936-1941</unitdate>
+            <container id="aspace_be795c9a676957c413281e856fc762a7" label="Mixed Materials [31142046543420]" type="Box">44</container>
+            <container id="aspace_f14c6f4bd19389ae6cfd90791c98604f" parent="aspace_be795c9a676957c413281e856fc762a7" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref227" level="file">
+          <did>
+            <unittitle>Record of Labels Issued</unittitle>
+            <unitdate datechar="creation" normal="1939/1951" type="inclusive">1939-1951</unitdate>
+            <container id="aspace_b233e095beb7fb03c496b60952569e4c" label="Mixed Materials [31142046543438]" type="Box">45</container>
+            <container id="aspace_5994876566aecdc7dc9061146585ca7a" parent="aspace_b233e095beb7fb03c496b60952569e4c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref228" level="file">
+          <did>
+            <unittitle>Report of Edward Wagenfeld: "Business Mortality of the Millinery Industry"</unittitle>
+            <unitdate datechar="creation" normal="1942/1942" type="inclusive">1942</unitdate>
+            <container id="aspace_910d10af2b5649d443be00326c6b10cd" label="Mixed Materials [31142046543438]" type="Box">45</container>
+            <container id="aspace_3d82d8ae004cc6609c8268134a3a6e1f" parent="aspace_910d10af2b5649d443be00326c6b10cd" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref229" level="file">
+          <did>
+            <unittitle>Beethoven Hall Property (Headgear Lyceum)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_b0e7a887d506bbf53e04b153dd059a62" label="Mixed Materials [31142046543438]" type="Box">45</container>
+            <container id="aspace_f6055d29a3e2aca19fc98492fc275ef5" parent="aspace_b0e7a887d506bbf53e04b153dd059a62" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref230" level="file">
+          <did>
+            <unittitle>True Facts About the Injunction Case Against the Men's Hat Department (pamphlet)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_a4b4e3af18e6f21470ab451c265b18b0" label="Mixed Materials [31142046543438]" type="Box">45</container>
+            <container id="aspace_eca994834d5dd4a036e73f2ad0038a36" parent="aspace_a4b4e3af18e6f21470ab451c265b18b0" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref231" level="file">
+          <did>
+            <unittitle>Record of Hat Makers' Traveling Cards</unittitle>
+            <unitdate datechar="creation" normal="1936/1937" type="inclusive">1936-1937</unitdate>
+            <container id="aspace_8e3e6ed8f165308c083dfe6b6e32d1fe" label="Mixed Materials [31142046543446]" type="Box">46</container>
+            <container id="aspace_9e4a6e8f4959fdaad05f4b23afccfb15" parent="aspace_8e3e6ed8f165308c083dfe6b6e32d1fe" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref232" level="file">
+          <did>
+            <unittitle><title render="italic">The Norwalk Case</title>proposed by Hat Corporation of America (booklet) <title render="italic"/></unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_36c0b91a8a071921eff21b4424a61204" label="Mixed Materials [31142046543446]" type="Box">46</container>
+            <container id="aspace_5fd3b1e324a8183719835963b7e11578" parent="aspace_36c0b91a8a071921eff21b4424a61204" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref233" level="file">
+          <did>
+            <unittitle>Arbitration Proceedings: Mallory Hat Company v. Locals 10, 11 and 12</unittitle>
+            <unitdate datechar="creation">Oct 1939-Nov 1940</unitdate>
+            <container id="aspace_f1ce0a33907415bb291393777ca90450" label="Mixed Materials [31142046543446]" type="Box">46</container>
+            <container id="aspace_172a8f1c90f2fd3a0f2ba6c78186d985" parent="aspace_f1ce0a33907415bb291393777ca90450" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref234" level="file">
+          <did>
+            <unittitle><title render="italic">Code Authority of the Millinery Industry</title>(booklet) <title render="italic"/></unittitle>
+            <unitdate datechar="creation">Jan 1935</unitdate>
+            <container id="aspace_d196a04b293ca67c3910836a708f7546" label="Mixed Materials [31142046543446]" type="Box">46</container>
+            <container id="aspace_11ed8361546619701af92fd6d3260f87" parent="aspace_d196a04b293ca67c3910836a708f7546" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref235" level="file">
+          <did>
+            <unittitle>Meetings of Special Commission for the Cap and Hat Industry, transcript</unittitle>
+            <unitdate datechar="creation">Oct 10, 1934-Oct 11, 1934</unitdate>
+            <container id="aspace_a6eec5a8c2b0396dc3bea18a64b97d18" label="Mixed Materials [31142046543446]" type="Box">46</container>
+            <container id="aspace_8bf7de420a4ea0de2db2160ab0b43d8b" parent="aspace_a6eec5a8c2b0396dc3bea18a64b97d18" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref236" level="file">
+          <did>
+            <unittitle>Minutes: Proceedings of Chicago Meeting of the Special Commission</unittitle>
+            <unitdate datechar="creation">Oct 13, 1934</unitdate>
+            <container id="aspace_1dcbccb0a74a17ee2b110f62bcbb9e35" label="Mixed Materials [31142046543446]" type="Box">46</container>
+            <container id="aspace_cd126d4c52b2c1449be8d5e9d9cda0af" parent="aspace_1dcbccb0a74a17ee2b110f62bcbb9e35" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref237" level="file">
+          <did>
+            <unittitle>Audit of Books and Records of the Code Authority of the Millinery Industry</unittitle>
+            <unitdate datechar="creation">Apr 17, 1934</unitdate>
+            <container id="aspace_5109a660632a86a838e74740ee9ca5bb" label="Mixed Materials [31142046543446]" type="Box">46</container>
+            <container id="aspace_004b2522becadea3732e4baf9e084763" parent="aspace_5109a660632a86a838e74740ee9ca5bb" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref238" level="file">
+          <did>
+            <unittitle>Proposed Budget for Code Authority of the Millinery Industry</unittitle>
+            <unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate>
+            <container id="aspace_faa588808a49286173dfb3fbf57a145c" label="Mixed Materials [31142046543446]" type="Box">46</container>
+            <container id="aspace_7123ec0574dd7aa56c94aa042ecbc0cc" parent="aspace_faa588808a49286173dfb3fbf57a145c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref292" level="file">
+          <did>
+            <unittitle>Minutes: General Executive Board and Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1934/1947" type="inclusive">1934-1947</unitdate>
+            <container id="aspace_510d370f0ef1d09c98a6ca656ec047f7" label="Microform" type="Film">R-7436</container>
+            <container id="aspace_6f40cd679e9da5d0ebf003e794dd8c46" parent="aspace_510d370f0ef1d09c98a6ca656ec047f7" type="reel">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref293" level="file">
+          <did>
+            <unittitle>Minutes: General Executive Board and Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1948/1976" type="inclusive">1948-1976</unitdate>
+            <container id="aspace_e45b1a4e9371446eafabc858b49c52db" label="Microform" type="Film">R-7436</container>
+            <container id="aspace_294dfe6d092a12e83244e18dd16c878d" parent="aspace_e45b1a4e9371446eafabc858b49c52db" type="reel">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref239" level="series">
+        <did>
+          <unittitle>Series VIII: Charles H. Green Collection</unittitle>
+          <unitdate datechar="creation" normal="1827/1944" type="inclusive">1827-1944</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref241" level="file">
+          <did>
+            <unittitle><title render="italic">The Headwear Workers, a century of trade unionism</title>: notes, documents and printed materials (part 1) <title render="italic"/></unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_72018fcc2285d9ac2d7efb59e7d4ab4f" label="Mixed Materials [31142046543453]" type="Box">47</container>
+            <container id="aspace_647825f15a75d9f7c0a8df176d606cd8" parent="aspace_72018fcc2285d9ac2d7efb59e7d4ab4f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref242" level="file">
+          <did>
+            <unittitle>The Headwear Workers, a century of trade unionism: notes, documents and printed materials (part 2)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_b0432ddfb9566fc228b0a1f5e789e71b" label="Mixed Materials [31142046543453]" type="Box">47</container>
+            <container id="aspace_f1720e0a717816ee756271521fa0f293" parent="aspace_b0432ddfb9566fc228b0a1f5e789e71b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref243" level="file">
+          <did>
+            <unittitle>Indenture and Contribution (Dues) Book of Harry Evans, English Hatter</unittitle>
+            <unitdate datechar="creation" normal="1908/1924" type="inclusive">1908, 1924</unitdate>
+            <container id="aspace_037935404b78028ef3b51997d82e451d" label="Mixed Materials [31142046543453]" type="Box">47</container>
+            <container id="aspace_5949650f8009209826486bb4c52ab388" parent="aspace_037935404b78028ef3b51997d82e451d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref244" level="file">
+          <did>
+            <unittitle>History-Historical Studies (unfinished)</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_227fcc6386182a8a73a2f30c0fb8099c" label="Mixed Materials [31142046543453]" type="Box">47</container>
+            <container id="aspace_b688ecf379fa8badd5d49b802900fea4" parent="aspace_227fcc6386182a8a73a2f30c0fb8099c" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref245" level="series">
+        <did>
+          <unittitle>Series IX: Scrapbooks</unittitle>
+          <unitdate datechar="creation" normal="1886/1932" type="inclusive">1886-1932</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref246" level="file">
+          <did>
+            <unittitle>Hatters Unions Scrapbook: Minutes, Executive Board Meetings, International Association of Hat Finishers of North America</unittitle>
+            <unitdate datechar="creation" normal="1886/1893" type="inclusive">1886-1893</unitdate>
+            <container id="aspace_1787f084531518ce14f7a7ff27cb1fae" label="Mixed Materials [31142046917301]" type="Box">48</container>
+            <container id="aspace_5391648a5fd5c1601e8aaa08c2f83337" parent="aspace_1787f084531518ce14f7a7ff27cb1fae" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref247" level="file">
+          <did>
+            <unittitle>UHNA Scrapbook: Petty Cash Register</unittitle>
+            <unitdate datechar="creation" normal="1920/1927" type="inclusive">1920-1927</unitdate>
+            <container id="aspace_3e92226ef9950855257079e498a327a4" label="Mixed Materials [31142046917319]" type="Box">49</container>
+            <container id="aspace_c39e64413f1c572d66d890263dff5bdf" parent="aspace_3e92226ef9950855257079e498a327a4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref248" level="file">
+          <did>
+            <unittitle>UHNA Scrapbook: Petty Cash Register</unittitle>
+            <unitdate datechar="creation" normal="1927/1936" type="inclusive">1927-1936</unitdate>
+            <container id="aspace_710bcc23703b2169aa7073f9a8f9783b" label="Mixed Materials [31142046917319]" type="Box">49</container>
+            <container id="aspace_64af55f8d51b3743d0d8ee9db9a86a3d" parent="aspace_710bcc23703b2169aa7073f9a8f9783b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref249" level="file">
+          <did>
+            <unittitle>UHNA Scrapbook: Register of Apprentices</unittitle>
+            <unitdate datechar="creation" normal="1903/1914" type="inclusive">1903-1914</unitdate>
+            <container id="aspace_8b2d47a0a8ebd9d98d6785786cf46eeb" label="Mixed Materials [31142046917327]" type="Box">50</container>
+            <container id="aspace_18db07a0578787cec82b30e06b23f49b" parent="aspace_8b2d47a0a8ebd9d98d6785786cf46eeb" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref250" level="file">
+          <did>
+            <unittitle>UHNA Scrapbook: Roll book: Finishers and Makers, A-M</unittitle>
+            <unitdate datechar="creation" normal="1907/1916" type="inclusive">1907-1916</unitdate>
+            <container id="aspace_14abebbffd37d2f0da8315e1b8230989" label="Mixed Materials [31142046917335]" type="Box">51</container>
+            <container id="aspace_3744b18009d446365dad9299821ff72c" parent="aspace_14abebbffd37d2f0da8315e1b8230989" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref251" level="file">
+          <did>
+            <unittitle>UHNA Scrapbook: Roll book: Finishers and makers, N-Z</unittitle>
+            <unitdate datechar="creation" normal="1907/1916" type="inclusive">1907-1916</unitdate>
+            <container id="aspace_d82fed44d40ef4099d098f877ff08c55" label="Mixed Materials [31142046918002]" type="Box">52</container>
+            <container id="aspace_da125597312596bd7a146570af352e1e" parent="aspace_d82fed44d40ef4099d098f877ff08c55" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref252" level="file">
+          <did>
+            <unittitle>UHNA Scrapbook: Roll book: Finishers</unittitle>
+            <unitdate datechar="creation" normal="1916/1932" type="inclusive">1916-1932</unitdate>
+            <container id="aspace_190e549b3513825a73043a1239103fb0" label="Mixed Materials [31142046918010]" type="Box">53</container>
+            <container id="aspace_0bac3db8639204f1fcb89374729714a6" parent="aspace_190e549b3513825a73043a1239103fb0" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref253" level="file">
+          <did>
+            <unittitle>UHNA Scrapbook: Roll book: Makers</unittitle>
+            <unitdate datechar="creation" normal="1916/1930" type="inclusive">1916-1930</unitdate>
+            <container id="aspace_2e76381dceb7a986c9d507d500740b36" label="Mixed Materials [31142046918010]" type="Box">53</container>
+            <container id="aspace_b0de26406404fa910191a40c525b0eec" parent="aspace_2e76381dceb7a986c9d507d500740b36" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref254" level="file">
+          <did>
+            <unittitle>UHNA Scrapbook: Roll book: Makers</unittitle>
+            <unitdate datechar="creation" normal="1923/1936" type="inclusive">1923-1936</unitdate>
+            <container id="aspace_23c60560e8b43c407a598a6fbe335889" label="Mixed Materials [31142046918028]" type="Box">54</container>
+            <container id="aspace_93d087690c4f550f8a50c7dd9ebf02ad" parent="aspace_23c60560e8b43c407a598a6fbe335889" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref255" level="file">
+          <did>
+            <unittitle>UHNA Scrapbook: Roll book: Makers and Finishers</unittitle>
+            <unitdate datechar="creation" normal="1896/1908" type="inclusive">1896-1908</unitdate>
+            <container id="aspace_187b31d55a6d6ca5368fef25003edceb" label="Mixed Materials [31142046918036]" type="Box">55</container>
+            <container id="aspace_bc8c597648d5249c9c2ae38ca3a0aa95" parent="aspace_187b31d55a6d6ca5368fef25003edceb" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref256" level="file">
+          <did>
+            <unittitle>UHNA Scrapbook: Register of Apprentices</unittitle>
+            <unitdate datechar="creation" normal="1914/1939" type="inclusive">1914-1939</unitdate>
+            <container id="aspace_4049fb9f41b9c10e7be0472959759a0c" label="Mixed Materials [31142046918044]" type="Box">56</container>
+            <container id="aspace_79de763831311c984cde8a069eb93eee" parent="aspace_4049fb9f41b9c10e7be0472959759a0c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref257" level="file">
+          <did>
+            <unittitle>UHNA Scrapbook: Roll book: Operators and Trimmers</unittitle>
+            <unitdate datechar="creation" normal="1914/1939" type="inclusive">1914-1939</unitdate>
+            <container id="aspace_7eb70fa2762d12d0feaa6a02956f5fdf" label="Mixed Materials [31142046918051]" type="Box">57</container>
+            <container id="aspace_624eed29f4c4e7eec9ec8ed6d775b809" parent="aspace_7eb70fa2762d12d0feaa6a02956f5fdf" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref258" level="file">
+          <did>
+            <unittitle>UHNA Scrapbook: Roll book: Wool Hatters</unittitle>
+            <unitdate datechar="creation" normal="1918/1936" type="inclusive">1918-1936</unitdate>
+            <container id="aspace_2f28624e335dac89ac6ec6ccee341f3c" label="Mixed Materials [31142046918069]" type="Box">58</container>
+            <container id="aspace_317e1aa789a2b2ef947efb114fba1308" parent="aspace_2f28624e335dac89ac6ec6ccee341f3c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref259" level="file">
+          <did>
+            <unittitle>UHNA Scrapbook: Straw Hatters</unittitle>
+            <unitdate datechar="creation" normal="1917/1935" type="inclusive">1917-1935</unitdate>
+            <container id="aspace_a67abc8580ae68f98bc5bfe350f54719" label="Mixed Materials [31142046918069]" type="Box">58</container>
+            <container id="aspace_e1c8c35de1be88f7ea7caa1c04ad9802" parent="aspace_a67abc8580ae68f98bc5bfe350f54719" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref260" level="file">
+          <did>
+            <unittitle>UHNA Scrapbook: Hat Finishers</unittitle>
+            <unitdate datechar="creation" normal="1917/1937" type="inclusive">1917-1937</unitdate>
+            <container id="aspace_6d2830740ac4bb4cfaf7db16ee33bf5f" label="Mixed Materials [31142046918077]" type="Box">59</container>
+            <container id="aspace_64464f9457b2e64c97a6d1c7d732f3ec" parent="aspace_6d2830740ac4bb4cfaf7db16ee33bf5f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref261" level="file">
+          <did>
+            <unittitle>UHNA Scrapbook: Record of Strike Benefits</unittitle>
+            <unitdate datechar="creation" normal="1913/1932" type="inclusive">1913-1932</unitdate>
+            <container id="aspace_63257ad86ba5a87e87455fa6ef5acd9c" label="Mixed Materials [31142046918085]" type="Box">60</container>
+            <container id="aspace_e097db5a6ca87d5a2adca37a1941c087" parent="aspace_63257ad86ba5a87e87455fa6ef5acd9c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref262" level="file">
+          <did>
+            <unittitle>UHNA Scrapbook: World War I: Labor News</unittitle>
+            <unitdate datechar="creation" normal="1827/1954" type="inclusive">undated</unitdate>
+            <container id="aspace_d996cf543426e702d8bea76128ad8e36" label="Mixed Materials [31142046918093]" type="Box">61</container>
+            <container id="aspace_6a7369f8d46c82215f3b1751f28f96a1" parent="aspace_d996cf543426e702d8bea76128ad8e36" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref298" level="series">
+        <did>
+          <unittitle>Series X: Photographs</unittitle>
+          <unitdate datechar="creation" normal="1929/1953" type="inclusive">1929-1953</unitdate>
+        </did>
+        <c id="aspace_ref299" level="file">
+          <did>
+            <unittitle>Group Portraits</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dfed8aed1686a93f0a2ec081fd093c93" label="Mixed Materials [31142062718252]" type="Box">72</container>
+            <container id="aspace_ef80ef2e2b0e2adedc93c35d326161b7" parent="aspace_dfed8aed1686a93f0a2ec081fd093c93" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref308" level="file">
+          <did>
+            <unittitle>Group Portraits (Oversize)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_e73f8d5d4fc4763c533591f0cd6bada3" label="Mixed Materials [31142062759132]" type="Box">Tamiment Shared OS008</container>
+            <container id="aspace_3787e5aa5d0167837811070e55021c28" parent="aspace_e73f8d5d4fc4763c533591f0cd6bada3" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref301" level="file">
+          <did>
+            <unittitle>McDonald, Jonn: Testimonial (Letters)</unittitle>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cc5a85af84abee45ff1cfff4c459e317" label="Mixed Materials [31142062718252]" type="Box">72</container>
+            <container id="aspace_58bc0c10b857df5da5bd6491eaae9dcc" parent="aspace_cc5a85af84abee45ff1cfff4c459e317" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref302" level="file">
+          <did>
+            <unittitle>McDonald, Jonn: Testimonial (Photocopy)</unittitle>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_07252b780c22ab0c0db1c1ef057badc5" label="Mixed Materials [31142062718252]" type="Box">72</container>
+            <container id="aspace_9c0f6fec27f8881e9907f9f52a20f746" parent="aspace_07252b780c22ab0c0db1c1ef057badc5" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref303" level="file">
+          <did>
+            <unittitle>McDonald, Jonn: Testimonial (Photographs)</unittitle>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f9e9da76e1e91792c3cc7404650dc140" label="Mixed Materials [31142062718252]" type="Box">72</container>
+            <container id="aspace_be20cb81d4cb991306c6c167a07a3ef8" parent="aspace_f9e9da76e1e91792c3cc7404650dc140" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref307" level="file">
+          <did>
+            <unittitle>Mil-Kut Social Club Seal (Artifact)</unittitle>
+            <unitdate datechar="creation" normal="1929/1929" type="inclusive">1929</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3d766d9d7de4b2c73fe76004cc829fa0" label="Mixed Materials [31142062718252]" type="Box">72</container>
+            <container id="aspace_4688377cf6ff53796d6ee144bbff64e3" parent="aspace_3d766d9d7de4b2c73fe76004cc829fa0" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref300" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_14588910d3a7538399a7dbcf8c5250fe" label="Mixed Materials [31142062718252]" type="Box">72</container>
+            <container id="aspace_595a27acfd119b2b796f0a6ddb2c4b36" parent="aspace_14588910d3a7538399a7dbcf8c5250fe" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref304" level="file">
+          <did>
+            <unittitle>Portraits</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_12693de5f60c937f598f6f701c396060" label="Mixed Materials [31142062718252]" type="Box">72</container>
+            <container id="aspace_cd36539c404b9aa6c6e97df691a1320e" parent="aspace_12693de5f60c937f598f6f701c396060" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref305" level="file">
+          <did>
+            <unittitle>Souvenir Album</unittitle>
+            <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7f057e422f4fe7c8cf5a70e51fc586cd" label="Mixed Materials [31142062718252]" type="Box">72</container>
+            <container id="aspace_2416f720a26fd29898d50ac61e2dcd18" parent="aspace_7f057e422f4fe7c8cf5a70e51fc586cd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref306" level="file">
+          <did>
+            <unittitle>Union Label Placard</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0a8f8abfd18321352659ba266a1d2d12" label="Mixed Materials [31142062718252]" type="Box">72</container>
+            <container id="aspace_b2c9038a90fec206e5fb82e0f9baca70" parent="aspace_0a8f8abfd18321352659ba266a1d2d12" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref263" level="series">
+        <did>
+          <unittitle>Series XI: Addendum (Unprocessed)</unittitle>
+          <unitdate datechar="creation" normal="1876/1978" type="inclusive">1876-1978</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref264" level="file">
+          <did>
+            <unittitle>Proceedings and Reports of Board of Directors, Convention of Working Men and Capmakers Journal in Hebrew</unittitle>
+            <unitdate datechar="creation" normal="1876/1930" type="inclusive">1876-1930</unitdate>
+            <container id="aspace_9a19d1edebc01700773fb7d7ba82e768" label="Mixed Materials [31142046543461]" type="Box">62</container>
+            <container id="aspace_594f80e12ae24289468cbfcf17a9e451" parent="aspace_9a19d1edebc01700773fb7d7ba82e768" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref265" level="file">
+          <did>
+            <unittitle>Proceedings of Special Amalgamation Convention of UHNA</unittitle>
+            <unitdate datechar="creation" normal="1919/1978" type="inclusive">1919-1978</unitdate>
+            <container id="aspace_af346381ccae7af13a00312ce51a28de" label="Mixed Materials [31142046543479]" type="Box">63</container>
+            <container id="aspace_5df07c773799a0eb0ee035616da912eb" parent="aspace_af346381ccae7af13a00312ce51a28de" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref266" level="file">
+          <did>
+            <unittitle>UHNA Management Committee's Folder (minutes, reports, correspondence)</unittitle>
+            <unitdate datechar="creation" normal="1926/1926" type="inclusive">1926</unitdate>
+            <container id="aspace_c5e939ea111b6ae5c5b8053df8c201ac" label="Mixed Materials [31142046543487]" type="Box">64</container>
+            <container id="aspace_27e06649c89813856b4dcda9a3db896c" parent="aspace_c5e939ea111b6ae5c5b8053df8c201ac" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref267" level="file">
+          <did>
+            <unittitle>Board Meetings Minutes</unittitle>
+            <unitdate datechar="creation" normal="1953/1964" type="inclusive">1953-1964</unitdate>
+            <container id="aspace_acd045cd612454eec3b2ad73e263de4d" label="Mixed Materials [31142046543487]" type="Box">64</container>
+            <container id="aspace_f80747cd8a9a017805160cc693a2e676" parent="aspace_acd045cd612454eec3b2ad73e263de4d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref268" level="file">
+          <did>
+            <unittitle>Clippings, Financial Statements</unittitle>
+            <unitdate datechar="creation" normal="1959/1969" type="inclusive">1959-1969</unitdate>
+            <container id="aspace_4784e01a075aa0079d86c0f228f384a8" label="Mixed Materials [31142046543487]" type="Box">64</container>
+            <container id="aspace_d1319292e64766501c98fdd87930a489" parent="aspace_4784e01a075aa0079d86c0f228f384a8" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref269" level="file">
+          <did>
+            <unittitle>UHNA annual convention addresses, Books and Publications (directories, glossaries, How to Make Hat?, etc.), Financial Documents</unittitle>
+            <unitdate datechar="creation" normal="1905/1970" type="inclusive">1905-1970</unitdate>
+            <container id="aspace_b32fe30f35b71916afb69de7c0c67ef1" label="Mixed Materials [31142046543495]" type="Box">65</container>
+            <container id="aspace_16abdcea8544de8733b44efd383b074b" parent="aspace_b32fe30f35b71916afb69de7c0c67ef1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref270" level="file">
+          <did>
+            <unittitle>UHNA amalgamation files</unittitle>
+            <unitdate datechar="creation" normal="1933/1934" type="inclusive">1933-1934</unitdate>
+            <container id="aspace_7d671638c8ea72aea737d703bcebf3ca" label="Mixed Materials [31142046543495]" type="Box">65</container>
+            <container id="aspace_80989b1b817dd048f940f062099765e2" parent="aspace_7d671638c8ea72aea737d703bcebf3ca" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref271" level="file">
+          <did>
+            <unittitle>Notebooks of UHNA Biennale Conventions, Minutes of Meetings</unittitle>
+            <unitdate datechar="creation" normal="1906/1953" type="inclusive">1906-1913, 1953</unitdate>
+            <container id="aspace_732dac13d088703283e70753a3e1ebc6" label="Mixed Materials [31142046543503]" type="Box">66</container>
+            <container id="aspace_690d2456e0768af71c84a5d0d7c36415" parent="aspace_732dac13d088703283e70753a3e1ebc6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref272" level="file">
+          <did>
+            <unittitle>Merrimac Hat Company, Inc.: Annual Reports, Clippings, Accounting Reports</unittitle>
+            <unitdate datechar="creation" normal="1959/1969" type="inclusive">1959-1969</unitdate>
+            <container id="aspace_c3640d3537f83d58e89081242657cdb2" label="Mixed Materials [31142046543511]" type="Box">67</container>
+            <container id="aspace_6a3e972a1902f2aa5404914dcd60bb22" parent="aspace_c3640d3537f83d58e89081242657cdb2" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref273" level="file">
+          <did>
+            <unittitle>Merrimac Hat Company, Inc.: Correspondence, Cash Receipts</unittitle>
+            <unitdate datechar="creation" normal="1959/1960" type="inclusive">1959-1960</unitdate>
+            <container id="aspace_c26629bf0b29572085c346683a61b44e" label="Mixed Materials [31142046543529]" type="Box">68</container>
+            <container id="aspace_628c861986e4ddf2ffdab242424d61f4" parent="aspace_c26629bf0b29572085c346683a61b44e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref274" level="file">
+          <did>
+            <unittitle>Merrimac Hat Company, Inc.: Accounting and Business Operations</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_a6f56e869458917c52b3582521561409" label="Mixed Materials [31142046543529]" type="Box">68</container>
+            <container id="aspace_974876a808ad1967005df3975869314b" parent="aspace_a6f56e869458917c52b3582521561409" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref275" level="file">
+          <did>
+            <unittitle>Merrimac Hat Company, Inc.: Clippings, Miscellaneous</unittitle>
+            <unitdate datechar="creation" normal="1959/1963" type="inclusive">1959-1963</unitdate>
+            <container id="aspace_70523b13c142f60065c8dde6d19ed840" label="Mixed Materials [31142046543529]" type="Box">68</container>
+            <container id="aspace_3316273428bbfcee2cd24bdb7ce5fbfd" parent="aspace_70523b13c142f60065c8dde6d19ed840" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref276" level="file">
+          <did>
+            <unittitle>Merrimac Hat Company, Inc.: Legal, Minutes</unittitle>
+            <unitdate datechar="creation" normal="1959/1962" type="inclusive">1959-1962</unitdate>
+            <container id="aspace_c5b24147a7ee248d074fbb680310a69f" label="Mixed Materials [31142046543529]" type="Box">68</container>
+            <container id="aspace_8ecdf654fce2ff89f0d8ab60ab1a2664" parent="aspace_c5b24147a7ee248d074fbb680310a69f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref277" level="file">
+          <did>
+            <unittitle>Merrimac Hat Company, Inc.: Miscellaneous Correspondence (memos, etc.)</unittitle>
+            <unitdate datechar="creation" normal="1959/1962" type="inclusive">1959-1962</unitdate>
+            <container id="aspace_9ee2b540d364894b1052ab4912a3f9e4" label="Mixed Materials [31142046543529]" type="Box">68</container>
+            <container id="aspace_3e38e966ff818547157d2cddaedf688e" parent="aspace_9ee2b540d364894b1052ab4912a3f9e4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref278" level="file">
+          <did>
+            <unittitle>Merrimac Hat Company, Inc.: Closing Statement, Financial and Legal Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1959/1960" type="inclusive">1959-1960</unitdate>
+            <container id="aspace_00db01571c9c47e7744508542f3cd9be" label="Mixed Materials [31142046543529]" type="Box">68</container>
+            <container id="aspace_24342a0e8d5ac3438581940e963eb2c6" parent="aspace_00db01571c9c47e7744508542f3cd9be" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref279" level="file">
+          <did>
+            <unittitle>Merrimac Hat Company, Inc.: Clippings, Annual Reports, a survey Manuscript</unittitle>
+            <unitdate datechar="creation" normal="1960/1972" type="inclusive">1960-1972</unitdate>
+            <container id="aspace_28e35fa562739c38dddbdee430b3615e" label="Mixed Materials [31142046543537]" type="Box">69</container>
+            <container id="aspace_832f6c057d04473b5d941e8cb59fc93c" parent="aspace_28e35fa562739c38dddbdee430b3615e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref280" level="file">
+          <did>
+            <unittitle>Merrimac Hat Company, Inc.: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1969/1973" type="inclusive">1969-1973</unitdate>
+            <container id="aspace_173a673e761923effe6f1be92f699822" label="Mixed Materials [31142046543537]" type="Box">69</container>
+            <container id="aspace_00c8a600ecd3fbebad644cb26b70c0f2" parent="aspace_173a673e761923effe6f1be92f699822" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref281" level="file">
+          <did>
+            <unittitle>Merrimac Hat Company, Inc.: Important Legal and Financial Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1963/1965" type="inclusive">1963-1965</unitdate>
+            <container id="aspace_3fce885473d198e05888d1c557ff9a65" label="Mixed Materials [31142046543537]" type="Box">69</container>
+            <container id="aspace_680211517d259ba8529498c8f1b2fb41" parent="aspace_3fce885473d198e05888d1c557ff9a65" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref282" level="file">
+          <did>
+            <unittitle>Merrimac Hat Company, Inc.: Important Legal and Financial Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_a6275567dd5ca0d85916fa4b7478d012" label="Mixed Materials [31142046543537]" type="Box">69</container>
+            <container id="aspace_ba18cec2101c165d7181f1b1ca71ca92" parent="aspace_a6275567dd5ca0d85916fa4b7478d012" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref283" level="file">
+          <did>
+            <unittitle>Merrimac Hat Company, Inc.: Important Legal and Financial Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate>
+            <container id="aspace_0443f933df39ff7aa8267cbae7edc69e" label="Mixed Materials [31142046543537]" type="Box">69</container>
+            <container id="aspace_f0ee25ec803f7e469d1ecc92eda1dc52" parent="aspace_0443f933df39ff7aa8267cbae7edc69e" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref284" level="file">
+          <did>
+            <unittitle>Merrimac Price List</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container id="aspace_0db0b93dca50b2177935b309b19ede2f" label="Mixed Materials [31142046543537]" type="Box">69</container>
+            <container id="aspace_2ad6a1d11619954d1ab793f0f04864da" parent="aspace_0db0b93dca50b2177935b309b19ede2f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref285" level="file">
+          <did>
+            <unittitle>Merrimac: Import Statistics</unittitle>
+            <unitdate datechar="creation" normal="1961/1968" type="inclusive">1961-1968</unitdate>
+            <container id="aspace_1573349ea51592300d73b7d627d11f2a" label="Mixed Materials [31142046543545]" type="Box">70</container>
+            <container id="aspace_7b7c9f8104e83d90ec127ebb8ffe3183" parent="aspace_1573349ea51592300d73b7d627d11f2a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref286" level="file">
+          <did>
+            <unittitle>Merrimac Hat Company, Inc.: Important Legal and Financial Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_a3da57ad536c27485b8b070af4e7e25c" label="Mixed Materials [31142046543545]" type="Box">70</container>
+            <container id="aspace_66cb64efddf6f2cd29922a4d77233488" parent="aspace_a3da57ad536c27485b8b070af4e7e25c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref287" level="file">
+          <did>
+            <unittitle>Merrimac Hat Company, Inc.: Important Legal and Financial Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1962/1963" type="inclusive">1962-1963</unitdate>
+            <container id="aspace_df85e4e512de1671bbe16eb60327500c" label="Mixed Materials [31142046543545]" type="Box">70</container>
+            <container id="aspace_49e06302b7d4a888ba3b836cbe14983f" parent="aspace_df85e4e512de1671bbe16eb60327500c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref288" level="file">
+          <did>
+            <unittitle>Merrimack: Import Statistics</unittitle>
+            <unitdate datechar="creation" normal="1960/1961" type="inclusive">1960-1961</unitdate>
+            <container id="aspace_8dbc51e674e57d87c85dad6ca6ef02c7" label="Mixed Materials [31142046543545]" type="Box">70</container>
+            <container id="aspace_bb5f2409ded22fef82a081fc70e429d7" parent="aspace_8dbc51e674e57d87c85dad6ca6ef02c7" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref289" level="file">
+          <did>
+            <unittitle>Merrimac Hat Company, Inc.: Accounting Reports, Financial Reports</unittitle>
+            <unitdate datechar="creation" normal="1965/1969" type="inclusive">1965-1969</unitdate>
+            <container id="aspace_4ab3a28807b07c416bd705d2520c5ab1" label="Mixed Materials [31142046543552]" type="Box">71</container>
+            <container id="aspace_1ab9e21803ca59834b8a81c8bae3df59" parent="aspace_4ab3a28807b07c416bd705d2520c5ab1" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

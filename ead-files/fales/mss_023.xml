@@ -1,0 +1,1718 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_023">mss_023</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Second Aeon Archive <num>MSS.023</num></titleproper>
+        <author>Amber Creger, March 1999</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Second Aeon FINDAID01CG.xml</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 21:31:48 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Second Aeon Archive</unittitle>
+      <origination label="Creator">
+        <corpname source="local">Second Aeon Publications</corpname>
+      </origination>
+      <unitid>MSS.023</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">6.75 Linear Feet</extent>
+        <extent altrender="carrier">(14 boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1967/1974" type="inclusive">1967-1974</unitdate>
+      <abstract id="aspace_834f73e21ef0b16c4aebe9d9cc28011e">The Second Aeon Archive is comprised of all the correspondence and manuscript material that created Second Aeon's issues, such as: magazine layouts, page proofs, letters to the editor, illustration layouts, and original manuscripts.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <custodhist id="aspace_3d715545cc5105274270c4ce29d72083">
+      <head>Provenance</head>
+      <p>The Second Aeon Archive was acquired via purchase from Richard Aaron of Am Here Books, in 1974. The Second Aeon Archive is part of the Avant Garde Collection, collected at Fales Library during the 1960's and 70's by Mel Edelstein and Theodore Grieder.</p>
+    </custodhist>
+    <accessrestrict id="aspace_615a211b7e4bfab12b9ff16094487e92">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <userestrict id="aspace_34e0f64031a3335ba53975557ecf2db1">
+      <head>Use Restrictions</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <prefercite id="aspace_5437b91859f6d6bd85659ab6b34ff0f8">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date (if known); Second Aeon Archive; MSS 023; box number; folder number; <address><addressline>Fales Library and Special Collections</addressline></address>, New York University Libraries.</p>
+    </prefercite>
+    <bioghist id="aspace_4261744a6ecb3ad9d9f9beb4f5559594">
+      <head>Historical Note</head>
+      <p>Twenty-one issues of the magazine Second Aeon appeared between 1967 and 1974. It was published in Cardiff, Wales, with the support of the Welsh Arts Council and edited by Peter Finch. Containing poetry, short stories, cartoons, and illustrations, Second Aeon for it's period, was a comprehensive round up of the UK's small press activity. Noted contributors to the magazine included: Robert Bly, Gary Snyder, Allen Ginsberg, LeRoi Jones, Pablo Neruda, Charles Bukowski, Lorca, Octavio Paz, and countless others. In conjunction with the magazine, Second Aeon was also a small press that published poetry anthologies and books.</p>
+    </bioghist>
+    <scopecontent id="aspace_008e45d5203ae944bc858e2ce04db942">
+      <head>Scope and Content Note</head>
+      <p>The Second Aeon Archive is comprised of all the correspondence and manuscript material that created Second Aeon's issues, such as: magazine layouts, page proofs, letters to the editor, illustration layouts, and original manuscripts. Noted correspondents include Paul Auster, Carol Berg, Robert Bly, Charles Bukowski, William Burroughs, John Cage, Cyril Hodges, Alison Knowles, Jim Morrison, Jeff Nuttall, and Peter Redgrove. Also included in this collection are manuscripts used by Second Aeon's small press to publish various poetry books and anthologies.</p>
+    </scopecontent>
+    <arrangement id="aspace_58b08c03350d8e182eeb21acd762e7b3">
+      <head>Arrangement</head>
+      <p>Series I and III are arranged alphabetically and series 2 is arranged chronologically.</p>
+      <p>The collection is divided into three series: I) Correspondence to Peter Finch, editor II) Editorial Correspondence, 1967-1974, and III) Manuscripts.</p>
+      <list numeration="arabic" type="ordered">
+        <head>Missing Title</head>
+        <item>Series I: Correspondence to Peter Finch, editor</item>
+        <item>Series II: Editorial Correspondence, 1967-1974</item>
+        <item>Series III, Subseries A: Manuscripts for Magazine Second Aeon</item>
+        <item>Series III, Subseries B: Manuscripts for Second Aeon's Small Press</item>
+      </list>
+    </arrangement>
+    <controlaccess>
+      <subject source="lcsh">Literature, Experimental.</subject>
+      <subject source="lcsh">English fiction |y 20th century.</subject>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <subject source="lcsh">American fiction -- 20th century.</subject>
+      <subject source="lcsh">American poetry -- 20th century -- Periodicals</subject>
+      <subject source="lcsh">Avant-garde (Aesthetics)</subject>
+      <subject source="lcsh">English poetry |y 20th century |v Periodicals.</subject>
+      <subject source="lcsh">English poetry |x Welsh authors |y 20th century |v Periodicals.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Galley proofs.</genreform>
+      <genreform source="aat">Magazines (Periodicals)</genreform>
+      <genreform source="aat">Scripts (documents)</genreform>
+      <persname source="naf">Aaron, Richard Emmet</persname>
+      <persname source="local">Abse, Diane</persname>
+      <persname source="naf">Armstrong, Keith, 1946-</persname>
+      <persname source="local">Aott, Keith, 1944-</persname>
+      <persname source="naf">Adler, Jeremy D.</persname>
+      <persname source="local">Adlard, Peter</persname>
+      <persname source="naf">Andre, Michael</persname>
+      <persname source="local">Ames, Terrence</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref11" level="series">
+        <did>
+          <unittitle>Series I: Correspondence to Peter Finch, editor</unittitle>
+        </did>
+        <scopecontent id="aspace_1d4463c3523f487eadbab48e0fa9fce0">
+          <head>Scope and Contents note</head>
+          <p>Series I contains six boxes of correspondence to Peter Finch concerning the magazine Second Aeon. Noted correspondents include Paul Auster, Carol Berg, Robert Bly, Charles Bukowski, William Burroughs, John Cage, Cyril Hodges, Alison Knowles, Jim Morrison, Jeff Nuttall, and Peter Redgrove.</p>
+        </scopecontent>
+        <c id="aspace_ref12" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Aaron, Richard; Abbott, Keith; Abse, Diane</unittitle>
+            <container id="aspace_febd5a2d8a845c1278c117397d37e4a5" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_c3f442223492b42771ad4cc1e7005bc0" parent="aspace_febd5a2d8a845c1278c117397d37e4a5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Adlard, Peter; Adler, Jeremy; Ames,Terence</unittitle>
+            <container id="aspace_9b75e44bdf0d58de0383b832c7d9eba9" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_0b7f666ffd6b5bdcdf66cb40d24b2fd6" parent="aspace_9b75e44bdf0d58de0383b832c7d9eba9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Anderson, Paul; Andre, Michael; Armstrong, Keith</unittitle>
+            <container id="aspace_096c84d7d17b8dedbf80045d3acf0685" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_173b0be73796d89461e0a580e4d8e8dd" parent="aspace_096c84d7d17b8dedbf80045d3acf0685" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Armstrong, Michael; Ashbery, John; Atkinson-Jowett, George</unittitle>
+            <container id="aspace_81ef829b428401939a9c0bc9c1c74120" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_d27642310aa7e7d6342ae3876495b9c8" parent="aspace_81ef829b428401939a9c0bc9c1c74120" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Auster, Paul; Baller, S.T.; Bantock, Gavin</unittitle>
+            <container id="aspace_7fd092d284f7cda08e28a76a6b5c076f" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_3c9fc0a33a845d03b83280b98407dade" parent="aspace_7fd092d284f7cda08e28a76a6b5c076f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Barker, George; Barnett, Anthony; Bay, Martin</unittitle>
+            <container id="aspace_748a2f20c9457360293bf0bc04df4a24" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_f8c640614f9765f9549caa063b164cf5" parent="aspace_748a2f20c9457360293bf0bc04df4a24" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Beake, Fred; Bennett, John; Bennett, Roy</unittitle>
+            <container id="aspace_837127f78aeb6c44038c0769dc274455" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_fb08aaa3bd8877563697566d0e8f144e" parent="aspace_837127f78aeb6c44038c0769dc274455" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Benveniste, Asa; Beresford, Anne; Berge, Carol</unittitle>
+            <container id="aspace_f7328db4267e1636d6e25f57195d5812" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_b20c83a467a36f5dbd505a0a9643f689" parent="aspace_f7328db4267e1636d6e25f57195d5812" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Berman, Ed; Berne, Stanley; Bielski, Alison</unittitle>
+            <container id="aspace_46ee173eb2f89e1edac3e7954a3de79f" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_64b6397f8dc32b653b6f5624ddb3a1d3" parent="aspace_46ee173eb2f89e1edac3e7954a3de79f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Birney, Earle; Black, David M.; Blazek, Douglas</unittitle>
+            <container id="aspace_dcc1041da36b6da389ad577bce059b7b" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_423acda125ec5f6eec1f4c612da0775c" parent="aspace_dcc1041da36b6da389ad577bce059b7b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Blish, James; Bly, Robert; Bockris, Victor</unittitle>
+            <container id="aspace_66e067fbb4a00c312af4ce972792c257" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_1dd3d9e45b7ae414aeddba994ba950fe" parent="aspace_66e067fbb4a00c312af4ce972792c257" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Bold, Alan; Bonard, Mary; Bontos, James</unittitle>
+            <container id="aspace_f0f96cd301fae9be0efd66cf3fc6354b" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_0bf1b3f2686591b52136db83b1c5e549" parent="aspace_f0f96cd301fae9be0efd66cf3fc6354b" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Booth, Felicity; Booth, Martin</unittitle>
+            <container id="aspace_6d625b88386c3946cac7369f831ec4ae" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_30f97a273d27b084a04730c8f334c4d5" parent="aspace_6d625b88386c3946cac7369f831ec4ae" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Bosch, Manfred W., Bowles, Jerry G.; Branco, Joaquim</unittitle>
+            <container id="aspace_35d537749c70a6c011af129a751c41d3" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_d5aeeacea601286c6394feb775984142" parent="aspace_35d537749c70a6c011af129a751c41d3" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Breakwell, Ian; Brewer, Christine; Briers, David</unittitle>
+            <container id="aspace_3a79e6e91fe56ac25e4ef7b7fcabe24e" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_e86dd66ffbe4f4db181c6a14a93fb161" parent="aspace_3a79e6e91fe56ac25e4ef7b7fcabe24e" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Britt, Alan; Brown, Chris; Brown, Paul</unittitle>
+            <container id="aspace_961afbeb363696ab0c85d7a504cd6d83" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_5c24ce335b3687282668c38b936e9fdf" parent="aspace_961afbeb363696ab0c85d7a504cd6d83" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Brown, Stew; Brownjohn, Alan; Buck, Paul</unittitle>
+            <container id="aspace_d438ddc9d20def62e947100ae5ec9d3a" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_755b280b923dba32581fc18a0da69429" parent="aspace_d438ddc9d20def62e947100ae5ec9d3a" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Bukowski, Charles; Burgis, Allan; Burns, Jim</unittitle>
+            <container id="aspace_40757ca8de303afcaf99338822fd2cbc" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_ff0167957b6ce683143e111714587bfd" parent="aspace_40757ca8de303afcaf99338822fd2cbc" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Burns, Richard; Burroughs, William; Burrows, Miles</unittitle>
+            <container id="aspace_5d947013f78d0c1589f288769cb32f20" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_b41eb45c1c2f95c341a75066ad702b64" parent="aspace_5d947013f78d0c1589f288769cb32f20" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Bulter, Bill; Butles, Robert; Butterworth, Michael</unittitle>
+            <container id="aspace_e038c242c5305963e5455808d3fad8a4" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_3e4940d4af3e379231413d373fcfe934" parent="aspace_e038c242c5305963e5455808d3fad8a4" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Buttress, Derrick; Buzan, Tony; Cage, John</unittitle>
+            <container id="aspace_31cefd4058db1656f01b1ce4c94ccd64" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_77067b13ea19cb499a2d31d33d066a0b" parent="aspace_31cefd4058db1656f01b1ce4c94ccd64" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Cairncross, George; Calder, Dave; Callard, David</unittitle>
+            <container id="aspace_f84818c9a0e98f55f5ad717f0112d346" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_231a20fa4ee86ca0c34da1f2e6e2fb9d" parent="aspace_f84818c9a0e98f55f5ad717f0112d346" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Cartland, Jeremy; Carvalno, Claudio Antonio; Casey, Gerard</unittitle>
+            <container id="aspace_330a8b7f298f6877c7a3e5556034ec0b" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_0851f8734f3269f390deffc249601d65" parent="aspace_330a8b7f298f6877c7a3e5556034ec0b" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Cash, Peter; Cassady, Carolyn; Cauble, Don</unittitle>
+            <container id="aspace_0bd73c12209be796576a8f7bc9aa0be8" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_caad83d534fc9c22801bc4340469de83" parent="aspace_0bd73c12209be796576a8f7bc9aa0be8" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Chaloner, David; Charlton, Geoff; Chitlik, Paul</unittitle>
+            <container id="aspace_1fd238f4321d893b6d27ecfb64c79b48" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_db9d241de0cb84ab702c75385b1fbc45" parent="aspace_1fd238f4321d893b6d27ecfb64c79b48" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Chopin, Henri; Claire, Paula; Clark, Thomas A.</unittitle>
+            <container id="aspace_0c67c100d0345871ee689fc17e722edf" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_eda04775f2c0a604cdfdb6a1acdb2770" parent="aspace_0c67c100d0345871ee689fc17e722edf" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondencefrom:Clavin,Hans;Cloves,Jeff;Cobbing,Bob</unittitle>
+            <container id="aspace_26a41e94bb97f66d076eafb6cc54b713" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_70c1aa3661fababdc410d2cc4d1eb38a" parent="aspace_26a41e94bb97f66d076eafb6cc54b713" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Conkie, Tommy; Cook, Geoffrey; Corman, Cid</unittitle>
+            <container id="aspace_0350dbb65e0f9f7696c717e2927064ee" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_a1e5bc4328ba564ee9af7cf4c315c043" parent="aspace_0350dbb65e0f9f7696c717e2927064ee" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Cope, Paul; Cotterell, Laurence; Cotton, John</unittitle>
+            <container id="aspace_3eef1f1f4e9171113078615a2e510ba0" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_ff774d242822a7a2185aa65df2e7198d" parent="aspace_3eef1f1f4e9171113078615a2e510ba0" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Cox,William; Cozens, Andrew; Crab Grass Productions</unittitle>
+            <container id="aspace_5c3683cff1048baea0657ae5416e1c96" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_5f97be36340be5f43f15a1123ad8d119" parent="aspace_5c3683cff1048baea0657ae5416e1c96" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Crowe, Kevin; Cunliffe, Dave; Curtis, Tony</unittitle>
+            <container id="aspace_8924b33a41041676d7ca69ce537ecb74" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_eb209494e2c32ec32ee9f5c91aba4220" parent="aspace_8924b33a41041676d7ca69ce537ecb74" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Daly, Les; Damen; Herman; Dashi, Tony</unittitle>
+            <container id="aspace_f5b11e1835488745906b55f75d9be5be" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_9712d6b04f47d2e00ca64544f3a656d2" parent="aspace_f5b11e1835488745906b55f75d9be5be" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Davies; Jeff; Davies, Wyn Islwyn; Davis, Norman H.</unittitle>
+            <container id="aspace_bf1af91b5be91a9bdc6bc670e16bdf67" label="Mixed Materials [31142054871275]" type="Box">1</container>
+            <container id="aspace_96343d839923bd616cefb260a6921d63" parent="aspace_bf1af91b5be91a9bdc6bc670e16bdf67" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Davis, Owen; DeFrance, Stephen; de Rook, G.J.</unittitle>
+            <container id="aspace_b4743b00c9d5c6ad3d717086c7e1378e" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_1247b5244dfc961d3f461edd9024c88c" parent="aspace_b4743b00c9d5c6ad3d717086c7e1378e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Dersley, Keith; Dewey, A.A.; DeWit, Andre</unittitle>
+            <container id="aspace_7700e7b0910678e7367735e702f9a1ad" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_d68005429c7a4efb0a0abcbf41a392b6" parent="aspace_7700e7b0910678e7367735e702f9a1ad" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Dixon, Steve; Dobbie, Mike; Donahue, Jack</unittitle>
+            <container id="aspace_5a3c28a4f67dbc279e20de0c6f9a1830" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_826e67d4d44795ddd7a67a5f9bec01c7" parent="aspace_5a3c28a4f67dbc279e20de0c6f9a1830" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Dowden, George</unittitle>
+            <container id="aspace_9da2599796c7b17df29069fc30ebb2ce" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_5e7b8960d57227e63b92acd086f9cf48" parent="aspace_9da2599796c7b17df29069fc30ebb2ce" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Doyle, Mike; Drury, George D.; Dutton, Martin</unittitle>
+            <container id="aspace_8e92c783f104389f99d87bed8f5c2dd5" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_31c28332ee7a12c51a96f07532156260" parent="aspace_8e92c783f104389f99d87bed8f5c2dd5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Early, Tom; Edmonds, Marguerite; Ehrenberg, Felipe</unittitle>
+            <container id="aspace_92dc8b68ddcb6490e897447df35f6b14" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_55e7f3810bca8fe441ae0a1c752733e6" parent="aspace_92dc8b68ddcb6490e897447df35f6b14" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Eisenstein, Samuel A.</unittitle>
+            <container id="aspace_7eb6ce6b0a86447e9c9b326d9dc96acb" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_b67e6558c3a60861c13bc7abef99363d" parent="aspace_7eb6ce6b0a86447e9c9b326d9dc96acb" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: England, Gerald; Enslin, Theodore; Eshleman, Clayton</unittitle>
+            <container id="aspace_1f97a98c4589bdab5452d3d00470c661" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_174d15202391dae7f70dbc0aced826ea" parent="aspace_1f97a98c4589bdab5452d3d00470c661" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Evans, Paul; Everette, Oliver; Fallon, Peter</unittitle>
+            <container id="aspace_b240f07d65856ad2294c78a86d6dcea2" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_98f33bcc384aabdc5378115834c354c8" parent="aspace_b240f07d65856ad2294c78a86d6dcea2" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Farrell, Deirdre; Faulkner, Peter; Fay, Kenneth</unittitle>
+            <container id="aspace_36af4506a8f58d6225a780406479e796" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_9d2595b0e497828d0be6970bba9fdd4f" parent="aspace_36af4506a8f58d6225a780406479e796" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Feldman, Ruth; Finch, Peter; Finch, Vivienne; Finn, Andrea</unittitle>
+            <container id="aspace_173a17decfdaf890371220d496c6aa4d" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_ff1971fffa22a4d44a599a6dea124564" parent="aspace_173a17decfdaf890371220d496c6aa4d" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Fisher, Allen; Fisher, Roy; Fleming, John</unittitle>
+            <container id="aspace_990cdd1fcb447dce589787557885db0d" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_8c736ce582590448d0d96d8233c593c5" parent="aspace_990cdd1fcb447dce589787557885db0d" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Fowler, Gene; Fox, Hugh; Fry, Colin</unittitle>
+            <container id="aspace_3d6bb814a587c5b54cce60d89929c73b" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_569e55cee94f1081743281e3c6fbd371" parent="aspace_3d6bb814a587c5b54cce60d89929c73b" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Fugard, Sheila; Fuller, Jean Overton; Fuller, Roy</unittitle>
+            <container id="aspace_e3aa2efd9048c9fe3ab0d16ef51c77aa" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_79b5724c514c12468c4a77a32f8141d2" parent="aspace_e3aa2efd9048c9fe3ab0d16ef51c77aa" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Fulton, Len; Fulton, Robin; Furvinal, John</unittitle>
+            <container id="aspace_4e2d83c9458a8e17859a7f37cc64625b" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_ee3417ffd9f8a06189d725720ec7a7b7" parent="aspace_4e2d83c9458a8e17859a7f37cc64625b" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Galvin, Patrick N.</unittitle>
+            <container id="aspace_9a7371e7e60ed6c12aefa3853bebae6b" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_2e48cf74cf60d7c051c255bdf6954703" parent="aspace_9a7371e7e60ed6c12aefa3853bebae6b" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Garlick, Raymond; Geller; Istvdn; Gerz, Jochen</unittitle>
+            <container id="aspace_66ab906c719dae949aa1f30591030040" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_69a7b20959d0a8c9c7f7f4b829cfd002" parent="aspace_66ab906c719dae949aa1f30591030040" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Ghose, Amal; Gibbs, Michael; Ginsburg, Louis</unittitle>
+            <container id="aspace_a733e50c9c266ef87314c5c84d8c1343" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_786863aeaa7e1c9fd3aabfe4dfd30f7a" parent="aspace_a733e50c9c266ef87314c5c84d8c1343" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Glen, Duncan; Gnazzo, Anthony J.; Gogady, Paul</unittitle>
+            <container id="aspace_15e6afb8c26d7a780fce93030f4fbc5e" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_8dc911390e2f6b9221dded0a8b6c63d0" parent="aspace_15e6afb8c26d7a780fce93030f4fbc5e" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Gogarty, Paul; Goldberg, Jeff; Golightly, Alan</unittitle>
+            <container id="aspace_2152843fa3761c0d1a1363fc8e67488a" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_0909af0453651c306ec4ba760c9c7fbc" parent="aspace_2152843fa3761c0d1a1363fc8e67488a" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Gordon, Giles; Gordon, James; Gotteman, Irving</unittitle>
+            <container id="aspace_deaba12dda66835bc73dbcb21b0bb80a" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_757c7f6d808fae2b6016cbb4557e55fb" parent="aspace_deaba12dda66835bc73dbcb21b0bb80a" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Green, Jim</unittitle>
+            <container id="aspace_3e22cd0f1bd1c02f58c278938ddc4a3a" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_6ea82b4318e6fc005a4bc9cf82031b32" parent="aspace_3e22cd0f1bd1c02f58c278938ddc4a3a" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Green, Paul; Grieder, Theodore; Griffiths, Bryn</unittitle>
+            <container id="aspace_0bffe92d995c27551e79883501381476" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_a479710f22bdf12c9c3066e1ee1d315b" parent="aspace_0bffe92d995c27551e79883501381476" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Groh, Klaus; Grubb, David; Gruffudd, Peter</unittitle>
+            <container id="aspace_48a07116cba2ae51ad71289c70b3eb6e" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_1dcd1924eee7577af3348c26db6cc216" parent="aspace_48a07116cba2ae51ad71289c70b3eb6e" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Guest, Harry; Hacker, Marilyn; Hall, Donald</unittitle>
+            <container id="aspace_db23c5d1152950dd0fb80075b6974951" label="Mixed Materials [31142054871283]" type="Box">2</container>
+            <container id="aspace_f1cb680e57b9397dbc7f1d466c232564" parent="aspace_db23c5d1152950dd0fb80075b6974951" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Hall, John; Hand, Alex; Harrison, Paul</unittitle>
+            <container id="aspace_3e9c71151939d8d37bf05e61e3a7ccbc" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_18a9a84d14b71cc3a5334e7316d1f2b2" parent="aspace_3e9c71151939d8d37bf05e61e3a7ccbc" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Harvey, Jon; Harwood, Lee; Hebron, Chris</unittitle>
+            <container id="aspace_57248a43932d389eeb3acc3d71ea3e99" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_ea31cbac0264d8f831d8a6b3c04a008c" parent="aspace_57248a43932d389eeb3acc3d71ea3e99" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Hemensley, Kris; Herni, Adrian; Hepplewhite, Charles</unittitle>
+            <container id="aspace_ff66d63c99adc71c274fb9196dbc7a49" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_de8d805e873b19e7c204dc12d7fcd7b3" parent="aspace_ff66d63c99adc71c274fb9196dbc7a49" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Hidden, Norman; Higgins, Dick; Hill, A.G.</unittitle>
+            <container id="aspace_b94e2bdd29b6f98a5d30194861f5ac2f" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_743a0eefe3a8bba3d6ef41fab3098885" parent="aspace_b94e2bdd29b6f98a5d30194861f5ac2f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Hilton, Jeremy; Hirschman, Jack</unittitle>
+            <container id="aspace_522ab18faf031ddc8c3cd01f9d7ec97f" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_4ffc5902321e6b442748cf7a4ff016df" parent="aspace_522ab18faf031ddc8c3cd01f9d7ec97f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Hodges, Cyril</unittitle>
+            <container id="aspace_f25c1521d18772bdc4795108582b24a6" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_35cdccb9a2edcb1d48c567ac509fe18a" parent="aspace_f25c1521d18772bdc4795108582b24a6" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Hodges, Cyril</unittitle>
+            <container id="aspace_48ee6ee3e57051c726784e702c0216a2" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_ea3e529259ffe0b7e256485f3a55de93" parent="aspace_48ee6ee3e57051c726784e702c0216a2" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Hodges, Cyril</unittitle>
+            <container id="aspace_a81e6ae3f10fb779c9bf0d6b8924e1d1" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_4a812ca9160d5663606c6eb43c52977a" parent="aspace_a81e6ae3f10fb779c9bf0d6b8924e1d1" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Hoida, Peter; Holbrook, David; Holland, Geoff</unittitle>
+            <container id="aspace_1116dbadf76aa41a52a1563dd29872b7" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_37cf780719d78c60aecffcefaa85783c" parent="aspace_1116dbadf76aa41a52a1563dd29872b7" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Hollis, Ena; Holmes, Philip; Horder, John</unittitle>
+            <container id="aspace_4a21fa01b43b115da1a69fef95c62b81" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_cf99aba375e90c76b5482583d565ece9" parent="aspace_4a21fa01b43b115da1a69fef95c62b81" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Horovitz, Frances; Horoviytz, Michael; Houeclard, Dom Sylvester</unittitle>
+            <container id="aspace_4565a40a5dd322fa847bcbd113586564" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_f90c872823b70ffcd8019f1fdaa03c70" parent="aspace_4565a40a5dd322fa847bcbd113586564" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Hughes, D.; Hughes, Vaughan; Ireland, Alan</unittitle>
+            <container id="aspace_688f8a845aff59e8528ad4551c6b5894" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_b5cd3f51bb026a1487043f4654bfcf27" parent="aspace_688f8a845aff59e8528ad4551c6b5894" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Jackowska, Nicki; Jackson, Alan; Jackson, N.S.</unittitle>
+            <container id="aspace_4745620f0af98773580bf1d4172d876d" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_3601f63c81460ed7fbce7b6ccc4f830d" parent="aspace_4745620f0af98773580bf1d4172d876d" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Jaffin, David; James, John; Jarman, Geraint</unittitle>
+            <container id="aspace_1969cf5ae28a0cd2b967fb1edcf37c6a" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_041234af9b47797bf4e27c84928e7b32" parent="aspace_1969cf5ae28a0cd2b967fb1edcf37c6a" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Jay, Peter; Jenkins, Nigel; Jenkins, Philip</unittitle>
+            <container id="aspace_fb122fad949d75cc46cb22a72494b559" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_9cf93791440d347f1135670f5315c2a5" parent="aspace_fb122fad949d75cc46cb22a72494b559" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Jenkins, Tom; Johnson, B.S., Johnson, John</unittitle>
+            <container id="aspace_c60a0770f2d4e259626bde9c2aeb86c2" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_e65f27add04f3595896f1015229feaa0" parent="aspace_c60a0770f2d4e259626bde9c2aeb86c2" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Jones, John Idris; Jones, Rae Desmond; Jones, Tomma</unittitle>
+            <container id="aspace_e6abdf384dc0c8f8a4ecd5ce6b47bfa3" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_8ffa42f0df53fd851231c794c117b249" parent="aspace_e6abdf384dc0c8f8a4ecd5ce6b47bfa3" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Joris, Pierre; Karoly, Halasz; Kelly, Bernard</unittitle>
+            <container id="aspace_191fd1af86e1193fd577c4234eba2109" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_9b8e741421146598782b8ea21841dc2d" parent="aspace_191fd1af86e1193fd577c4234eba2109" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Kernagham, Alex; Kingham, Terry C., Klimo, Jan</unittitle>
+            <container id="aspace_6209571afbf2b3a8a9d7b29f02b1c7e9" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_660aa696104b74b348747dc5f30597aa" parent="aspace_6209571afbf2b3a8a9d7b29f02b1c7e9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Knowles, Alison Kostelanetz, Richard; Kruss, Tom</unittitle>
+            <container id="aspace_b91fa2cdcc4ed1577230c34de7a336e9" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_ea098e98b86d7481e2803d04ab74b398" parent="aspace_b91fa2cdcc4ed1577230c34de7a336e9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Land, Thomas; Lange; Gerald; LaSalle, Richard</unittitle>
+            <container id="aspace_9ca2b6848693ec9977069148f5680dc1" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_296650c6f90035cb77113bd470fc1e6a" parent="aspace_9ca2b6848693ec9977069148f5680dc1" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Laughlin, James; Lee, Joan; Legman, G.</unittitle>
+            <container id="aspace_2b7b77e5ae6ea5c999a75770fac324d2" label="Mixed Materials [31142054871291]" type="Box">3</container>
+            <container id="aspace_94a0f5857023a9df7e67e36446a33ee0" parent="aspace_2b7b77e5ae6ea5c999a75770fac324d2" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Leighton, Bob; Levi, Peter; Lewis-Smith, Anne</unittitle>
+            <container id="aspace_0e878b8d7096c5467a46c731397a160b" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_599a45a7edff8ac4291ec697bdc2683a" parent="aspace_0e878b8d7096c5467a46c731397a160b" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Lloyd, Andrew; Lloyd, Robin; Locke, Duane</unittitle>
+            <container id="aspace_24c40b79e2c9f681d5327b2e44acc783" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_9d95594decb5d02e3d3cb0375349dd3e" parent="aspace_24c40b79e2c9f681d5327b2e44acc783" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Long, Don; Longville, Tim; Loose, Gerry</unittitle>
+            <container id="aspace_2023751a2f00d50271ed855c907c8014" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_66939ff37f1bf33fbacc5df09b68a8ee" parent="aspace_2023751a2f00d50271ed855c907c8014" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Lopez, Tony; Lowe, Derek; Lucie-Smith, Edward</unittitle>
+            <container id="aspace_233702c1d03fbf6b88cebe3fbfc22ede" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_826bb94f08b53a019dbbc0646ea77ffe" parent="aspace_233702c1d03fbf6b88cebe3fbfc22ede" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Lykiard, Alexis, MacBeth, George, McBride, Dick</unittitle>
+            <container id="aspace_21e852eaa0179e96e7de0745bc9eade4" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_acda1eccb5a89ad9e9684b53f05e662d" parent="aspace_21e852eaa0179e96e7de0745bc9eade4" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: McBride, John; McCarthy, Cavan; McCarthy, Ulli</unittitle>
+            <container id="aspace_44db652e0e0d9c6548120cd07c4b75fb" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_54373fd8f3770a47032c3b4caf4d0a9f" parent="aspace_44db652e0e0d9c6548120cd07c4b75fb" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Machado, Antonio; McManus, Peter; MacSweeney, Barry</unittitle>
+            <container id="aspace_c352395cefaedf718f3264efa20f8350" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_3785c0d66a827b63c85b7c9ecdf2d385" parent="aspace_c352395cefaedf718f3264efa20f8350" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Magee, Nes; Mammatt, D.R.; Mangelsdorff, Rich</unittitle>
+            <container id="aspace_b18f3c8482cf963aefd45f36758db538" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_07577249b0d4b2f9318ea439fd6da304" parent="aspace_b18f3c8482cf963aefd45f36758db538" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Mariah, Paul; Markham, K.A.; Marshfield, Alan</unittitle>
+            <container id="aspace_4aaa95b88c48e48a8d35a59495f93f01" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_f07260d402a0645c62640fd92845a4d1" parent="aspace_4aaa95b88c48e48a8d35a59495f93f01" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Mathews, Paul; Mathews, Richard; Mathias, Roland</unittitle>
+            <container id="aspace_9438f56e2cfb8f5f32c764301f4359ce" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_f4b54ad43e1bf6fbbed8ccfe58bec840" parent="aspace_9438f56e2cfb8f5f32c764301f4359ce" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Matthias, John; Mayer, Peter; Mercer, David</unittitle>
+            <container id="aspace_6b9ec7a485806875b8988f76782778e4" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_3775c45e1c7cc46fb8278a859255f972" parent="aspace_6b9ec7a485806875b8988f76782778e4" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Michel, Julian G.; Miller, Brown, Miller, Richard</unittitle>
+            <container id="aspace_2b38fa5c664373bed58898de73a094a1" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_51ebf2e6e886add337a8bc87f9c9cd12" parent="aspace_2b38fa5c664373bed58898de73a094a1" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Mills, Stuart; Mitchell, Adrian; Mitchell, Roger</unittitle>
+            <container id="aspace_6ea9124533fe57007d0fdf5b92ea3240" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_1a1d3ae07205cf54c1957059f21c37fc" parent="aspace_6ea9124533fe57007d0fdf5b92ea3240" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Montag, Tom; Montgomery, John; Morgan, Christopher</unittitle>
+            <container id="aspace_0d65d9dbd887c65de2eb141e2b80bc8f" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_0bda89284d01fab958165be932ceabb7" parent="aspace_0d65d9dbd887c65de2eb141e2b80bc8f" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Morgan, Edwin; Morgan, Peter</unittitle>
+            <container id="aspace_af5778577842d0dde405838777ce3113" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_8b4e5ffc3ba0e766348733fbb64599a3" parent="aspace_af5778577842d0dde405838777ce3113" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Morris, Stephen</unittitle>
+            <container id="aspace_f47f35a5f49f291334b8204ac299d95a" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_d05e38ef97d8871627f831e0cc6f04d2" parent="aspace_f47f35a5f49f291334b8204ac299d95a" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Morrison, Jim; Moser, Norm; Mottram, Eric</unittitle>
+            <container id="aspace_94f108be9e6d8a89a7e5deb8b62dd8ae" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_7ca0e55170112abde66fe5960a3c0100" parent="aspace_94f108be9e6d8a89a7e5deb8b62dd8ae" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Musgrave, Susan; Nannucci, Maurizio; Nations, Opal</unittitle>
+            <container id="aspace_f5b4e30e298ea7e13b1e6557d61f9429" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_e0fd3c6293328c6b4d6f969d5a73408f" parent="aspace_f5b4e30e298ea7e13b1e6557d61f9429" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: niikuni, Seiichi; Nijmeijer, Peter; Noyce, John</unittitle>
+            <container id="aspace_3d85a532847aa949cf95a69976bee8a8" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_559e55dbc36fea7decb8f9dcc8fbb5e6" parent="aspace_3d85a532847aa949cf95a69976bee8a8" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Nuttall, Jeff; Oppenheimer, Joel; Orridge, Genesis P.</unittitle>
+            <container id="aspace_089f2c92bab2cf1ce30a767b187cef20" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_fe2b542e8ab664919eeeec798a7a2871" parent="aspace_089f2c92bab2cf1ce30a767b187cef20" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Osborne, John; Osinski, Franklin W.W.; Ourini, Victor</unittitle>
+            <container id="aspace_c51d4d9bee4f7fe78ca9372068fd959b" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_338a2526d682cffb6c78a75e50f596c9" parent="aspace_c51d4d9bee4f7fe78ca9372068fd959b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Oxley, William; Pacey, Phillip</unittitle>
+            <container id="aspace_a64ec455a9d0fe1836a6b4119bf2fd25" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_0dde4c78e094484dc28778ec712b06ea" parent="aspace_a64ec455a9d0fe1836a6b4119bf2fd25" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Parfitt, Will</unittitle>
+            <container id="aspace_8549929a854fa51fb75c1c8d5bf8585c" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_02efbeaeceda66d8648c97e6cb9ed9a9" parent="aspace_8549929a854fa51fb75c1c8d5bf8585c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Parr, Malcolm; Patten, Brian; Paul, Jay S.</unittitle>
+            <container id="aspace_e31f20e56bcfa9c58fbfcf720a25cc87" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_5f8f54abde061dd1a4fda711894cf537" parent="aspace_e31f20e56bcfa9c58fbfcf720a25cc87" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Pedersen, L.D.; Perrie, Walter; Perry, Alan</unittitle>
+            <container id="aspace_11080ddcd74b23304e1e8769b94fc0a2" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_612c9a339f44868a62bea03e4d69a5eb" parent="aspace_11080ddcd74b23304e1e8769b94fc0a2" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Petarel, Martin, Phillips, L.C.; Phillips, Tom</unittitle>
+            <container id="aspace_2065a76692b3c02c7c389cf8d1097f4a" label="Mixed Materials [31142054871309]" type="Box">4</container>
+            <container id="aspace_c2d53373e172e6b9deb7beddd4bcc59f" parent="aspace_2065a76692b3c02c7c389cf8d1097f4a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Pickard, Bill; Pilcher, Barry Edgar</unittitle>
+            <container id="aspace_494438177b79ad4a0686b2aba1df5b7d" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_cdc1b3e0abfee8e3b0ff4e9387045b51" parent="aspace_494438177b79ad4a0686b2aba1df5b7d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Plymell, Charlie; Porter, Peter; Price, David Watkin</unittitle>
+            <container id="aspace_cc9e5c7bba9284b22d96a7dcae5af2cd" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_7cd34651217dbc599e7cf5a3c9b8efb6" parent="aspace_cc9e5c7bba9284b22d96a7dcae5af2cd" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Price, Ken; Radd, David; Radin, Betty</unittitle>
+            <container id="aspace_11ba6b390812662c17a0c48cc8a79fe1" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_64d0dd6db7b282fb338f93d46e78a9d9" parent="aspace_11ba6b390812662c17a0c48cc8a79fe1" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Randall, Elaine; Ratcliffe, Eric; Raworth, Tom</unittitle>
+            <container id="aspace_19ae5169c071e8fa000bb52219b1fa67" label="Mixed Materials [31142054871317]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Regrove, Peter; Reeves, Trevor</unittitle>
+            <container id="aspace_d8c43d74be9bba4e6e612d8cc3f22993" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_1ee3c4e7f009d59e80b68103c6196f1a" parent="aspace_d8c43d74be9bba4e6e612d8cc3f22993" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Rice, John; Rickaby, Tony; Riddell, Alan</unittitle>
+            <container id="aspace_e67a23393718dc7a4a02658036ec0fd7" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_a190df3f9e28316ba3c91a527db59fad" parent="aspace_e67a23393718dc7a4a02658036ec0fd7" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Riley, John; Riley, Peter; Ritchies, Malcolm</unittitle>
+            <container id="aspace_12515b27cda87d39f45aeb07869368bd" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_ff12fc486356ebe73402806d0b091c28" parent="aspace_12515b27cda87d39f45aeb07869368bd" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Robinson, Ian; Robinson, John; Robson, Andy</unittitle>
+            <container id="aspace_c824c593c0e65400ebdde01db83fba6e" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_2cbadce17e58d0429e1ee26d09383e8f" parent="aspace_c824c593c0e65400ebdde01db83fba6e" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Roche, Paul; Rowan, J.; Rudolf, Anthony</unittitle>
+            <container id="aspace_5298d45fb31fec1cf2b877e9505fea5f" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_856ec0971ca9334a2ce3a440e782e4eb" parent="aspace_5298d45fb31fec1cf2b877e9505fea5f" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Russell, Dick; Russell, Ray; Schmitz, Jacques L.</unittitle>
+            <container id="aspace_ac2d5fded4b5ae6b9fe591e4968932c7" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_78a33a7299243e59ef124358e32ea8cd" parent="aspace_ac2d5fded4b5ae6b9fe591e4968932c7" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Schwenk, Norman; Sergeant, Howard; Sharkey, John</unittitle>
+            <container id="aspace_4de49c2fa606e70bc5b2d3e20797e914" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_34cb7f1acbac7703988eee772d5896ff" parent="aspace_4de49c2fa606e70bc5b2d3e20797e914" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Shields, Mike; Shingleton, Peter; Shuttle, Peter</unittitle>
+            <container id="aspace_b132b5bcf1a4eb4fa7b44fddbed94189" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_aa32a211d7f533a42f0ffe9ecd6d8b3f" parent="aspace_b132b5bcf1a4eb4fa7b44fddbed94189" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Simpson, Matt; Sinchair, Jain; Sneyd, Steve</unittitle>
+            <container id="aspace_2491df4fa665704ed15d95f1eddae935" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_fec71f8899665793fbb26069758486eb" parent="aspace_2491df4fa665704ed15d95f1eddae935" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Sobin, A.G.; Sorcic, Jim Orvino; Sowerby, J.K.</unittitle>
+            <container id="aspace_c7b5330ba23068fd1f112917dc57425b" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_29ee27339fdcec195b25562d8220020c" parent="aspace_c7b5330ba23068fd1f112917dc57425b" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Spiro, Leon; Spratling, Neil; Srinivas, Krishna</unittitle>
+            <container id="aspace_9f8562b4258bf1d07e2bf57e1a2c8a90" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_71aab0b6d2661a0d7e728ab05594d7c5" parent="aspace_9f8562b4258bf1d07e2bf57e1a2c8a90" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Stayner, Scott; Steane, Nina; Swann, Brian</unittitle>
+            <container id="aspace_7724ff9b4e80e99644b3978a2402e9d8" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_a9829e9957948a5e36bdd4ec17c4a079" parent="aspace_7724ff9b4e80e99644b3978a2402e9d8" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Swiss, Thom; Szostek, J.H.; Taylor, Kent</unittitle>
+            <container id="aspace_978c8ee031a7e4b801350afe32f407e9" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_19768cd42f7816159e8e490412a2c95c" parent="aspace_978c8ee031a7e4b801350afe32f407e9" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Taylor, Sam; Teague, Andrew; Telling, Derek</unittitle>
+            <container id="aspace_b7d8da157fe1854b047c57fbb12f76de" label="Mixed Materials [31142054871317]" type="Box">5</container>
+            <container id="aspace_77174a2a9f5331ac5c47d01742ef113a" parent="aspace_b7d8da157fe1854b047c57fbb12f76de" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Thenior, Ralf; Thomas, Don; Thomas, D.M.</unittitle>
+            <container id="aspace_e68e31a477f92ec24ea9978488685e0f" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_7b845eae7078222c377d8a5d28978f81" parent="aspace_e68e31a477f92ec24ea9978488685e0f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Thomas, G.; Thomas, Ronald Stuart; Tidler, Charles</unittitle>
+            <container id="aspace_af5beb161b4735276e0f854f43afce98" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_48e742e0039a455ef8b9b195a6b16544" parent="aspace_af5beb161b4735276e0f854f43afce98" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Tipton, David; Toczek, Nick; Torrance, Chris</unittitle>
+            <container id="aspace_82c29b091b294453588203657f45c5fb" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_319f7946d77585eac3e3684420a6d9a1" parent="aspace_82c29b091b294453588203657f45c5fb" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Tremallen, Dave</unittitle>
+            <container id="aspace_ec2d335089ca85f3b47358af167fe9a0" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_d937b9ea76470e3a544fa196d7f1282a" parent="aspace_ec2d335089ca85f3b47358af167fe9a0" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Tripp, John; Turnbull, Gael; Upton, Lawrence</unittitle>
+            <container id="aspace_a8bf74f4aa410c2ca48dc5d40d53cc93" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_c4101fdea0c10bc5133ad00b8aaf34e8" parent="aspace_a8bf74f4aa410c2ca48dc5d40d53cc93" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Urin, Victor; Valoch, Jiri; Verey, Charles</unittitle>
+            <container id="aspace_7ddfa110feb82fe532b0925f1c1eed7f" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_dc56d955669a4933338e7b2ed0187a5d" parent="aspace_7ddfa110feb82fe532b0925f1c1eed7f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Viewpoint Magazine; Vimal, G.P.; Von Tersch, Gary</unittitle>
+            <container id="aspace_3d25a0098e6bfbbc449f9b9085ac5caa" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_52392e553691070b5e670f2bd94b53e3" parent="aspace_3d25a0098e6bfbbc449f9b9085ac5caa" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref143" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Wade, David; Wade, John Stevens; Wagner, D.; Wain, John</unittitle>
+            <container id="aspace_5cc1ef3e0a8aade8de39b126e6324f57" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_bbe937abb60273436509ca88ab531e10" parent="aspace_5cc1ef3e0a8aade8de39b126e6324f57" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Wake, Brian</unittitle>
+            <container id="aspace_da338525bb93c01a495385f76200d749" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_55a6c784253e53f45eb69295cf286b08" parent="aspace_da338525bb93c01a495385f76200d749" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref145" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Walsh, J.A.</unittitle>
+            <container id="aspace_75153e7699e4166d84183fd8b3486f7d" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_a0aa3cbf601f8eb35d86790af26d3cc7" parent="aspace_75153e7699e4166d84183fd8b3486f7d" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref146" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Waintiling, William</unittitle>
+            <container id="aspace_498d76d7648a91a44e8e1c3def4aa1b1" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_4545aad2d98ace74009960bb57f210c7" parent="aspace_498d76d7648a91a44e8e1c3def4aa1b1" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Ward, J.P.; Ward, Philip; Watts, Richard</unittitle>
+            <container id="aspace_2ff5bb96f180e355146bb60eccfc7fee" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_c90f30702a22bd157e6c987d307e6f0f" parent="aspace_2ff5bb96f180e355146bb60eccfc7fee" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Weaver, Roger; Webb, Harri; Weinstein, Norman</unittitle>
+            <container id="aspace_3d40b3c41b7547621b5596d960f59703" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_1d76402e68b8f29d4337b7f4b074e8db" parent="aspace_3d40b3c41b7547621b5596d960f59703" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Welsh Arts Council</unittitle>
+            <container id="aspace_f6cae17b9985ea2d559d79353b24fe17" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_60c80424affcdeb4ed2f5161ef6db77b" parent="aspace_f6cae17b9985ea2d559d79353b24fe17" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Whalen, Philip; Williams, Brian; Williams, Clive</unittitle>
+            <container id="aspace_b249b65f4a732eafbc7742f9c3f0424d" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_fc2a1ca4c58356b0dfc39ff5168b7b7b" parent="aspace_b249b65f4a732eafbc7742f9c3f0424d" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref151" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Williams, Jonathan; Winans, Al; Wisker, Alistair</unittitle>
+            <container id="aspace_c97965e9944abcb98ab5280d722b7a9b" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_24b30093905fc62b67748c0e135ac686" parent="aspace_c97965e9944abcb98ab5280d722b7a9b" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Wright, Meg; Wyatt, Bill; Yates, Rowdy</unittitle>
+            <container id="aspace_ddd4afca9601cf87a88e4653ed7386b3" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_c9b2e14656b41b578b12f52b398357f5" parent="aspace_ddd4afca9601cf87a88e4653ed7386b3" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Zugbrugg, Nicholas</unittitle>
+            <container id="aspace_3d75d0b9564fceb0ecfcbbe7cdc7128c" label="Mixed Materials [31142054871325]" type="Box">6</container>
+            <container id="aspace_e5b619ffb3ed73ded3c8bf520e289163" parent="aspace_3d75d0b9564fceb0ecfcbbe7cdc7128c" type="Folder">18</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref155" level="series">
+        <did>
+          <unittitle>Series II: Editorial Correspondence, 1967-1974</unittitle>
+        </did>
+        <scopecontent id="aspace_59860238437894a1d0e4c7039ae98475">
+          <head>Scope and Contents note</head>
+          <p>Series II contains four boxes of correspondence to Peter Finch pertaining to editorial concerns of the magazines uch as: subscription requests, poetry admissions, thank you/congratulatory notes, and other such solicitations. This series also includes Peter Finch's personal correspondence comprising a copybook and letters dealing with his career as a poet.</p>
+        </scopecontent>
+        <c id="aspace_ref156" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: A-Z</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_c08223bb94e21a6c194813eb3fbfa6c5" label="Mixed Materials [31142054871333]" type="Box">7</container>
+            <container id="aspace_25e414a0bae9a5793fbee59a5ec72d80" parent="aspace_c08223bb94e21a6c194813eb3fbfa6c5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref157" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: A-Z</unittitle>
+            <unitdate datechar="creation">1968</unitdate>
+            <container id="aspace_5405341fb9b66274be99da050dd322e4" label="Mixed Materials [31142054871333]" type="Box">7</container>
+            <container id="aspace_bf1880307295a967dae4f58a3feefccf" parent="aspace_5405341fb9b66274be99da050dd322e4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref158" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from:A-K</unittitle>
+            <unitdate datechar="creation">1969</unitdate>
+            <container id="aspace_5ab2c98d57343901ddc59a63588708d8" label="Mixed Materials [31142054871333]" type="Box">7</container>
+            <container id="aspace_26aa9ca9b7cb348d101126a1e8b17cb5" parent="aspace_5ab2c98d57343901ddc59a63588708d8" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref159" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence L-Z</unittitle>
+            <unitdate datechar="creation">1969</unitdate>
+            <container id="aspace_9a9a8dd7f53ec03518a94b889f194637" label="Mixed Materials [31142054871333]" type="Box">7</container>
+            <container id="aspace_6eabd993af21d9c448eb5107bd8ae070" parent="aspace_9a9a8dd7f53ec03518a94b889f194637" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref160" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: A-L</unittitle>
+            <unitdate datechar="creation">1970</unitdate>
+            <container id="aspace_5de97d29067e8a7392067cbaebbda03f" label="Mixed Materials [31142054871333]" type="Box">7</container>
+            <container id="aspace_b6684aa40d5a4a754d7add0d0cf25515" parent="aspace_5de97d29067e8a7392067cbaebbda03f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref161" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: M-Z</unittitle>
+            <unitdate datechar="creation">1970</unitdate>
+            <container id="aspace_8fab9b95567f89847b827c0a4bb00957" label="Mixed Materials [31142054871333]" type="Box">7</container>
+            <container id="aspace_6d72ffb1dc94756587b1fc7a31ccb704" parent="aspace_8fab9b95567f89847b827c0a4bb00957" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: A-L</unittitle>
+            <unitdate datechar="creation">1971</unitdate>
+            <container id="aspace_6f9f13d159245e57d42cfd1cbeaa2228" label="Mixed Materials [31142054871341]" type="Box">8</container>
+            <container id="aspace_72e959cd2ee3d2109a801b04f748b16d" parent="aspace_6f9f13d159245e57d42cfd1cbeaa2228" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref163" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: M-Z</unittitle>
+            <unitdate datechar="creation">1971</unitdate>
+            <container id="aspace_0482bd537e11ee32cae063c7420bd46c" label="Mixed Materials [31142054871341]" type="Box">8</container>
+            <container id="aspace_f531aac6006e867186cce734f1f86267" parent="aspace_0482bd537e11ee32cae063c7420bd46c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref164" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: A-C</unittitle>
+            <unitdate datechar="creation">1972</unitdate>
+            <container id="aspace_ea37e289afab434dbfc3da5b7b4402be" label="Mixed Materials [31142054871341]" type="Box">8</container>
+            <container id="aspace_7956f85eb84c81ba9e3eb8f984ce802b" parent="aspace_ea37e289afab434dbfc3da5b7b4402be" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref165" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence D-G:</unittitle>
+            <unitdate datechar="creation">1972</unitdate>
+            <container id="aspace_d3c382369fb0a7a42f8c1137089c2e6b" label="Mixed Materials [31142054871341]" type="Box">8</container>
+            <container id="aspace_dd0a9b58a14af0904d45ec0925bffc52" parent="aspace_d3c382369fb0a7a42f8c1137089c2e6b" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref166" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence H-M:</unittitle>
+            <unitdate datechar="creation">1972</unitdate>
+            <container id="aspace_8281ca72ff16fca4f9cb490f24dd44d5" label="Mixed Materials [31142054871341]" type="Box">8</container>
+            <container id="aspace_7f116fb310ed7e1a28d4e49808b317cf" parent="aspace_8281ca72ff16fca4f9cb490f24dd44d5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref167" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence N-Z:</unittitle>
+            <unitdate datechar="creation">1972</unitdate>
+            <container id="aspace_53f12401b63547b36b059a400fece924" label="Mixed Materials [31142054871358]" type="Box">9</container>
+            <container id="aspace_63909c7d4391bda7293abc7a8e84e62c" parent="aspace_53f12401b63547b36b059a400fece924" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref168" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence A-C:</unittitle>
+            <unitdate datechar="creation">1973</unitdate>
+            <container id="aspace_f176af8dc518ac5776ae2ea0635cc884" label="Mixed Materials [31142054871358]" type="Box">9</container>
+            <container id="aspace_0e4ffdbaee4f8f91a738625bc9ceaabe" parent="aspace_f176af8dc518ac5776ae2ea0635cc884" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref169" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence D-N:</unittitle>
+            <unitdate datechar="creation">1973</unitdate>
+            <container id="aspace_251eeea836ad77d2c4622e4d0ef89e3c" label="Mixed Materials [31142054871358]" type="Box">9</container>
+            <container id="aspace_43379de9f1ddb0e3c2e9eb5c18679eec" parent="aspace_251eeea836ad77d2c4622e4d0ef89e3c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref170" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence O-Z:</unittitle>
+            <unitdate datechar="creation">1973</unitdate>
+            <container id="aspace_352e66157db028fbe994cac523af0cb1" label="Mixed Materials [31142054871358]" type="Box">9</container>
+            <container id="aspace_b74d2fddcb6362e11b5075ee7b375cd6" parent="aspace_352e66157db028fbe994cac523af0cb1" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref171" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence A-M:</unittitle>
+            <unitdate datechar="creation">1974</unitdate>
+            <container id="aspace_ea44e8f90689d821aff92854681958ee" label="Mixed Materials [31142054871358]" type="Box">9</container>
+            <container id="aspace_7770366926ccaeb281567ddb888fe139" parent="aspace_ea44e8f90689d821aff92854681958ee" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref172" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence N-Z:</unittitle>
+            <unitdate datechar="creation">1974</unitdate>
+            <container id="aspace_738cdd59e00b6ff4073646104fae04eb" label="Mixed Materials [31142054871358]" type="Box">9</container>
+            <container id="aspace_a1cafa46d0b24322777936b038c086fa" parent="aspace_738cdd59e00b6ff4073646104fae04eb" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref173" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence : Undated, A-G</unittitle>
+            <unitdate datechar="creation" normal="1972/1974" type="inclusive">1972-1974</unitdate>
+            <container id="aspace_67d43f1834af76e4df46f0a9930959cd" label="Mixed Materials [31142054871366]" type="Box">10</container>
+            <container id="aspace_226813ee4fee066e5edf1fa5d90d634d" parent="aspace_67d43f1834af76e4df46f0a9930959cd" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref174" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence : Undated, H-R</unittitle>
+            <unitdate datechar="creation" normal="1972/1974" type="inclusive">1972-1974</unitdate>
+            <container id="aspace_0f4cfcd7a7f808fc05c2227282e22cb5" label="Mixed Materials [31142054871366]" type="Box">10</container>
+            <container id="aspace_5cf73bebd580e38073a1bca712bdcbc8" parent="aspace_0f4cfcd7a7f808fc05c2227282e22cb5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref175" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence : Undated, S-Z</unittitle>
+            <unitdate datechar="creation" normal="1972/1974" type="inclusive">1972-1974</unitdate>
+            <container id="aspace_7ad84852bf4f77da69299462c2f4891c" label="Mixed Materials [31142054871366]" type="Box">10</container>
+            <container id="aspace_039aad082f07b567569baff75abbd32f" parent="aspace_7ad84852bf4f77da69299462c2f4891c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref176" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence from: Finch, Peter</unittitle>
+            <unitdate datechar="creation">1967</unitdate>
+            <container id="aspace_5c1994853a5b1da261d6b5e06db5ed89" label="Mixed Materials [31142054871366]" type="Box">10</container>
+            <container id="aspace_768fd01c0b412c5dea24eca5c5ee6dab" parent="aspace_5c1994853a5b1da261d6b5e06db5ed89" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref177" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence : Personal: A-D</unittitle>
+            <container id="aspace_addd217710cc0ec1fca4b97094962ddf" label="Mixed Materials [31142054871366]" type="Box">10</container>
+            <container id="aspace_72f3d9a6e69e33a599e24cb53a61add4" parent="aspace_addd217710cc0ec1fca4b97094962ddf" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref178" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence : Personal, E-S</unittitle>
+            <container id="aspace_5203567d1206e2b079fc078b32ff31d4" label="Mixed Materials [31142054871366]" type="Box">10</container>
+            <container id="aspace_1c75da5f956b22db3a84ca35bf878fbd" parent="aspace_5203567d1206e2b079fc078b32ff31d4" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref179" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence : Personal, T-Z</unittitle>
+            <container id="aspace_8f84ebcb92f45066ae8be23597085745" label="Mixed Materials [31142054871366]" type="Box">10</container>
+            <container id="aspace_e56234a2efa3eadd5e71bdf8cfb56b16" parent="aspace_8f84ebcb92f45066ae8be23597085745" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref180" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence : Personal, Unidentified</unittitle>
+            <container id="aspace_5d3d054920513a5dc30ef8b6677c034f" label="Mixed Materials [31142054871366]" type="Box">10</container>
+            <container id="aspace_cf14c856ac5825e6bf2b150d59fe4112" parent="aspace_5d3d054920513a5dc30ef8b6677c034f" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref181" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence : Pink Peace</unittitle>
+            <container id="aspace_e178876dc5e307b9e645ef91ee90277e" label="Mixed Materials [31142054871366]" type="Box">10</container>
+            <container id="aspace_458267f18a9875a586f7fe8992d5f75e" parent="aspace_e178876dc5e307b9e645ef91ee90277e" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref183" level="series">
+        <did>
+          <unittitle>Series III: Subseries A: Manuscripts for magazine Second Aeon</unittitle>
+        </did>
+        <c id="aspace_ref184" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Archive lists and inventory</unittitle>
+            <container id="aspace_32e5a8b52a12bead97cb7d89314a2057" label="Mixed Materials [31142054871374]" type="Box">11</container>
+            <container id="aspace_d2fe7ab4bc8d5b8fe254753ffcccfe25" parent="aspace_32e5a8b52a12bead97cb7d89314a2057" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref185" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Advertising brochures</unittitle>
+            <container id="aspace_6fded42b6463d79c0c3cf9779c40a350" label="Mixed Materials [31142054871374]" type="Box">11</container>
+            <container id="aspace_53d0fd2762d367db65fb2644272c389e" parent="aspace_6fded42b6463d79c0c3cf9779c40a350" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref186" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Issue no. 1</unittitle>
+            <container id="aspace_79f985fe74b7a8aa4c6dd5aa8eb616b4" label="Mixed Materials [31142054871374]" type="Box">11</container>
+            <container id="aspace_f4e73f5f52c073bf31b72a487cebec2d" parent="aspace_79f985fe74b7a8aa4c6dd5aa8eb616b4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref187" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript materials: Issues No. 8 and 9</unittitle>
+            <container id="aspace_50238f184f49247ab3c551e8b95497ea" label="Mixed Materials [31142054871374]" type="Box">11</container>
+            <container id="aspace_2e6201ea03c802e5b8cf653433f79f4a" parent="aspace_50238f184f49247ab3c551e8b95497ea" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref188" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript materials: Issue No. 11</unittitle>
+            <container id="aspace_8f2e446576e908a5ebf07226d11ec18a" label="Mixed Materials [31142054871374]" type="Box">11</container>
+            <container id="aspace_ef20c7a9dd6642e1ee80f05fff2d95dc" parent="aspace_8f2e446576e908a5ebf07226d11ec18a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref189" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript materials: Issue No. 12</unittitle>
+            <container id="aspace_568e9c47602dabaa34a8cf4f3b9fdb0f" label="Mixed Materials [31142054871374]" type="Box">11</container>
+            <container id="aspace_a6eb9e99388295eb972c26cc8458b2dc" parent="aspace_568e9c47602dabaa34a8cf4f3b9fdb0f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref190" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript materials: Isue No. 13</unittitle>
+            <container id="aspace_31788b0cc922d0b29929f55c36edcfa0" label="Mixed Materials [31142054871374]" type="Box">11</container>
+            <container id="aspace_bd34c3df54b1f66d31b25567b9461b2a" parent="aspace_31788b0cc922d0b29929f55c36edcfa0" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref191" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manucript materials: Issue No. 14</unittitle>
+            <container id="aspace_51e6cdfa03b3475f51a745dd39920655" label="Mixed Materials [31142054871374]" type="Box">11</container>
+            <container id="aspace_e70cf8bff4f512f8e8bf3599fdf6a770" parent="aspace_51e6cdfa03b3475f51a745dd39920655" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref192" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript materials: Issue No. 15</unittitle>
+            <container id="aspace_d5647a884d4219bfe05ea9699173fd5d" label="Mixed Materials [31142054871374]" type="Box">11</container>
+            <container id="aspace_f69bd56974d14483beee86ffbf6d1ccb" parent="aspace_d5647a884d4219bfe05ea9699173fd5d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref193" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Page proofs: Issue No. 15</unittitle>
+            <container id="aspace_bd7679d71a8df654ea2d5b407d293c4d" label="Mixed Materials [31142054871374]" type="Box">11</container>
+            <container id="aspace_57b3c536a9f43f11303d48f2328b1dad" parent="aspace_bd7679d71a8df654ea2d5b407d293c4d" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref194" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript materials: Issues No. 16 and 17</unittitle>
+            <container id="aspace_99ee05d3d592ff2ee2c0b169fadcec6f" label="Mixed Materials [31142054871374]" type="Box">11</container>
+            <container id="aspace_4ea786be40c3eb926b677cecf1617fbc" parent="aspace_99ee05d3d592ff2ee2c0b169fadcec6f" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref195" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Page proofs: Issues No. 16 and 17</unittitle>
+            <container id="aspace_8c1b9fe6fb1e3d0f88a0ee88e3ff0368" label="Mixed Materials [31142054871374]" type="Box">11</container>
+            <container id="aspace_3633f7aaef3ef2b34847b917b3f7da4f" parent="aspace_8c1b9fe6fb1e3d0f88a0ee88e3ff0368" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref196" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Illustration Mockups: Issue No. 16?</unittitle>
+            <container id="aspace_81da0d11645046b8db4e4ec0ae847439" label="Mixed Materials [31142054871374]" type="Box">11</container>
+            <container id="aspace_77702f931f01b50a2bb0a37075cf6a44" parent="aspace_81da0d11645046b8db4e4ec0ae847439" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref197" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Cover Mockup: Issue No. 18</unittitle>
+            <container id="aspace_6424764164530eb5bc783e55ff9a0b3e" label="Mixed Materials [31142054871382]" type="Box">12</container>
+            <container id="aspace_998a1b42df41de148fed3af809ab1fa8" parent="aspace_6424764164530eb5bc783e55ff9a0b3e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref198" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript materials: Issue No. 18</unittitle>
+            <container id="aspace_a86d99a7206844061969dc2cb13fa73c" label="Mixed Materials [31142054871382]" type="Box">12</container>
+            <container id="aspace_d7ef412cb6338baead93bd2df6090503" parent="aspace_a86d99a7206844061969dc2cb13fa73c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref199" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Page proofs: Issue No. 18</unittitle>
+            <container id="aspace_8e978a216ba87811f324320997bc5ad5" label="Mixed Materials [31142054871382]" type="Box">12</container>
+            <container id="aspace_524c838f259ab321ea55abb93611891d" parent="aspace_8e978a216ba87811f324320997bc5ad5" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref200" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mockup: Issue No. 18</unittitle>
+            <container id="aspace_62c2263318891ea0ae6570b0b84f8406" label="Mixed Materials [31142054871382]" type="Box">12</container>
+            <container id="aspace_3ebe1d4c7c9168d6f90229dce3dcd8af" parent="aspace_62c2263318891ea0ae6570b0b84f8406" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref201" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript: Issues Nos. 19-21</unittitle>
+            <container id="aspace_e864980a6b99e99667cf62e8966d40af" label="Mixed Materials [31142054871382]" type="Box">12</container>
+            <container id="aspace_3a242579790a49e019185e7e73ee8e0c" parent="aspace_e864980a6b99e99667cf62e8966d40af" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref202" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript: Issues Nos. 19-21</unittitle>
+            <container id="aspace_47d0b5f3bacf81cb776bd43cf68a2412" label="Mixed Materials [31142054871382]" type="Box">12</container>
+            <container id="aspace_6a44f73cbd6cb0413fdbda985aaa1a34" parent="aspace_47d0b5f3bacf81cb776bd43cf68a2412" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref203" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Visuals: Issues Nos. 19-21</unittitle>
+            <container id="aspace_fc6c4dba2675cf171acf8d9b69250505" label="Mixed Materials [31142054871382]" type="Box">12</container>
+            <container id="aspace_fea5a018661cd661b02595dd5a37f394" parent="aspace_fc6c4dba2675cf171acf8d9b69250505" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref204" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Unpublished manuscripts</unittitle>
+            <container id="aspace_76432797c070af6c625116c3adaf3843" label="Mixed Materials [31142054871382]" type="Box">12</container>
+            <container id="aspace_db46e71b84e128c237111b1246e3dac5" parent="aspace_76432797c070af6c625116c3adaf3843" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref205" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Unpublished unsigned manuscripts</unittitle>
+            <container id="aspace_b73d2cb9fa5c28294b3a135fbfc84fca" label="Mixed Materials [31142054871382]" type="Box">12</container>
+            <container id="aspace_400e00d427bb07b0d89a1a59f043c866" parent="aspace_b73d2cb9fa5c28294b3a135fbfc84fca" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref207" level="series">
+        <did>
+          <unittitle>Series III: Subseries B: Manuscripts for Second Aeon's small press</unittitle>
+        </did>
+        <c id="aspace_ref208" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Bantock, Gavin</unittitle>
+            <container id="aspace_dd211b80b7b7e466700e81eb548ee5d6" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_ad80a08686736e8d0569a9ad6f67ab61" parent="aspace_dd211b80b7b7e466700e81eb548ee5d6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref209" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Blazek, Douglas; Booth, Martin; Brown, Paul</unittitle>
+            <container id="aspace_fc189e4267ad56eca8064b71ae3faab3" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_65bb9e435f54c7b5469791df6b720109" parent="aspace_fc189e4267ad56eca8064b71ae3faab3" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref210" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Burns, Jim; Callard, David</unittitle>
+            <container id="aspace_5e459149edd2ddaf83fed92ff077fbfb" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_eb2c4543c3abc4c75915bf94570df939" parent="aspace_5e459149edd2ddaf83fed92ff077fbfb" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref211" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Clark, Tom; Dowden, George; Finch, Peter</unittitle>
+            <container id="aspace_a3f4307fbf7f86a91a2f5a35b94b3bbc" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_68b9dd84e0e7c484ed4735af73126171" parent="aspace_a3f4307fbf7f86a91a2f5a35b94b3bbc" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref212" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Finch, Peter</unittitle>
+            <container id="aspace_e5121ac6f7d3b504a05b713c20f22915" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_e3bfcb3dc22e31ca212220b7d1b432bc" parent="aspace_e5121ac6f7d3b504a05b713c20f22915" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref213" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Hodges, Cyril</unittitle>
+            <container id="aspace_07f8d2dd8bd33ee3e1c175e4fab1e65a" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_46c5b2a0e6493bb37536078a5d144d65" parent="aspace_07f8d2dd8bd33ee3e1c175e4fab1e65a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref214" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Jenkins, Philip; Kryss, Tom</unittitle>
+            <container id="aspace_26d5e534f04bffb809c07f9297ffa708" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_07af759eff8144560734f5f39dff25f2" parent="aspace_26d5e534f04bffb809c07f9297ffa708" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref215" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Lloyd, Andrew</unittitle>
+            <container id="aspace_ba5fa2fc583ec836dd6389272467a78c" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_b795117c8ab1e0a17bc9a31457235651" parent="aspace_ba5fa2fc583ec836dd6389272467a78c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref216" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Lykiard, Alexis</unittitle>
+            <container id="aspace_e39edf357f05481f6a879d9d93e37aff" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_962bf070e370c9228ad59000aa4ef1e6" parent="aspace_e39edf357f05481f6a879d9d93e37aff" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref217" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Morgan, Christopher</unittitle>
+            <container id="aspace_7b7d520163bf61e1015ee9636d9eb573" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_952c2d2055e5d282b5b6ba82e52baa7b" parent="aspace_7b7d520163bf61e1015ee9636d9eb573" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref218" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Morgan, Huw</unittitle>
+            <container id="aspace_2f752788c3df9414da4228da04c93dc3" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_7e2af45e90d8220d6df4c77b6ac72c30" parent="aspace_2f752788c3df9414da4228da04c93dc3" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref219" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Morris, Stephen</unittitle>
+            <container id="aspace_acd4a71c1fca5fa8c955dde6fce27f1a" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_d3366620e70c5b1b229deb5391577750" parent="aspace_acd4a71c1fca5fa8c955dde6fce27f1a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref220" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Parfitt, Will</unittitle>
+            <container id="aspace_24ca3e62481267a4116aa35c527b6a28" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_e2a9e273d03272e6efa1406910fb629d" parent="aspace_24ca3e62481267a4116aa35c527b6a28" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref221" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section:Redgrove, Peter; Sharkey, John</unittitle>
+            <container id="aspace_d78783833df0ae94da383146c68f3f4d" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_cfe14af59eb518961555b6552f4ba9c9" parent="aspace_d78783833df0ae94da383146c68f3f4d" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref222" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Taylor, Kent; Tipton, David</unittitle>
+            <container id="aspace_de223121ef27c6ed06a59e6e22eac3e0" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_3d6994567eb985b6881ab25b7ffa799a" parent="aspace_de223121ef27c6ed06a59e6e22eac3e0" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref223" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Thomas, D.M.</unittitle>
+            <container id="aspace_0278ac1605767e381eb6164659b085ae" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_226c4fa38d9fe8e32a01bfc34fd9231d" parent="aspace_0278ac1605767e381eb6164659b085ae" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref224" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Tripp, John</unittitle>
+            <container id="aspace_44dd8f61ca692516333e4092fcd86b5a" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_72a5ef36097bf0b9ee9c3f551636c88b" parent="aspace_44dd8f61ca692516333e4092fcd86b5a" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref225" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Tripp, John</unittitle>
+            <container id="aspace_14a16e397f884103201b59cab036157c" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_ca4100c3631aff470b38e8459b97712e" parent="aspace_14a16e397f884103201b59cab036157c" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref226" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Tripp, John</unittitle>
+            <container id="aspace_38fce2511f6c1b5fb22fefdfc87867ac" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_0c0fa220a8734f5266b6f1733d093050" parent="aspace_38fce2511f6c1b5fb22fefdfc87867ac" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref227" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Von Tersch, Gary</unittitle>
+            <container id="aspace_9c67c917bf959588aa7a04b6126a7a0b" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_cd0f646b5f49a8bb8636a60979721b5d" parent="aspace_9c67c917bf959588aa7a04b6126a7a0b" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref228" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Wake, Brian</unittitle>
+            <container id="aspace_bf8a13c352b9e4d45bc9736324ae67a1" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_1d552379db6e54342483d38ffc3b06cc" parent="aspace_bf8a13c352b9e4d45bc9736324ae67a1" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref229" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Wantling, William</unittitle>
+            <container id="aspace_fc9cf479de941f248df884f89491bd3c" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_29adc25cbd7c92b9b6d2b1255661a5c2" parent="aspace_fc9cf479de941f248df884f89491bd3c" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref230" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Wantling, William</unittitle>
+            <container id="aspace_60f09c9073d112bba8597fe0eeb99e87" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_1dae2cb2c23e21b9cda853ce32d753da" parent="aspace_60f09c9073d112bba8597fe0eeb99e87" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref231" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Manuscript and correspondence, book section: Ward, John P.</unittitle>
+            <container id="aspace_841ce8ed0f2e78c1fcbc16fb57fce945" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_581dbc193d67e8531e9cf79579b2c0df" parent="aspace_841ce8ed0f2e78c1fcbc16fb57fce945" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref232" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>No Walls Broadsheet: Nos. 1, 4-9, 12-18Manuscript and correspondence, book section:</unittitle>
+            <container id="aspace_7c7960fd16be46fe9d2477ad650bea91" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_ebe798094810983b12a96a7d26591e99" parent="aspace_7c7960fd16be46fe9d2477ad650bea91" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref233" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>No Walls Broadsheet: manuscripts</unittitle>
+            <container id="aspace_ce626e75322239cb0fbd0c6b50a43600" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_dcb0ea2836979211c32791ac14a9bc40" parent="aspace_ce626e75322239cb0fbd0c6b50a43600" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref234" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>No Walls Broadsheet: mockups</unittitle>
+            <container id="aspace_7ee7ac02e51653e76b503af90f0e07b0" label="Mixed Materials [31142054871390]" type="Box">13</container>
+            <container id="aspace_3984e3f2e869ecc6b1510291851d9bd0" parent="aspace_7ee7ac02e51653e76b503af90f0e07b0" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref235" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Anthology Book Section: <title render="italic">Diamonds in the Dust: The Cardiff Poets, </title>ed. Peter Finch</unittitle>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_79afc22961ea9efbdd00ed1864ab5d0c" label="Mixed Materials [31142054900298]" type="Box">14</container>
+            <container id="aspace_295d2d2c291d7514a7b5bf2686b75308" parent="aspace_79afc22961ea9efbdd00ed1864ab5d0c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref236" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Anthology Book Section: <title render="italic">For Jack Kerouac Poems on Death, </title> ed. Peter Finch</unittitle>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_9ce0257d548244546d37ff0d16c00215" label="Mixed Materials [31142054900298]" type="Box">14</container>
+            <container id="aspace_04250678ffe1a66fd884154b734096d8" parent="aspace_9ce0257d548244546d37ff0d16c00215" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref237" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Anthology Book Section: <title render="italic">Found Poems</title>, ed. Malcolm Parr</unittitle>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_ae9dd9737dfb9f94b10fd11a28f87eb7" label="Mixed Materials [31142054900298]" type="Box">14</container>
+            <container id="aspace_36d8f1430909d47e8eff0ce3c4de09da" parent="aspace_ae9dd9737dfb9f94b10fd11a28f87eb7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref238" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Anthology Book Section: <title render="italic">Rumpus,</title> ed. Christopher Morgan</unittitle>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_06e1774ad280ab471cc961c27ccd87e6" label="Mixed Materials [31142054900298]" type="Box">14</container>
+            <container id="aspace_8174f3c6b17a35fce47b509ea995ca87" parent="aspace_06e1774ad280ab471cc961c27ccd87e6" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref239" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Anthology Book Section: <title render="italic"> A Storm of Blood, </title>ed. Peter Finch</unittitle>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_6468556811f476ac6d87da252e1a5fab" label="Mixed Materials [31142054900298]" type="Box">14</container>
+            <container id="aspace_d748ac978dc2851cdf33920bd961ea81" parent="aspace_6468556811f476ac6d87da252e1a5fab" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref240" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Anthology Book Section: <title render="italic">Traveling Circus Sampler, </title>ed. Peter Finch</unittitle>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_f46bd5819df7d2f20140781149980fd3" label="Mixed Materials [31142054900298]" type="Box">14</container>
+            <container id="aspace_2bf487e6ed9156072d97928ba15c98aa" parent="aspace_f46bd5819df7d2f20140781149980fd3" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref241" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Anthology Book Section: <title render="italic">Typewriter Poems,</title>ed. Peter Finch</unittitle>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_8005a560976fb6bb3dba7d1ff93712de" label="Mixed Materials [31142054900298]" type="Box">14</container>
+            <container id="aspace_8faa40b2ec0239bf70e3fad3975dbc06" parent="aspace_8005a560976fb6bb3dba7d1ff93712de" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

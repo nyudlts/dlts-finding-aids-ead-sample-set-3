@@ -1,0 +1,1540 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_726">tam_726</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Robert Bernstein Papers <num>TAM.726</num></titleproper>
+        <author>Megan O'Shea</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>October 2017</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 03:54:08 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Robert Bernstein Papers</unittitle>
+      <origination label="Creator">
+        <persname role="dnr" source="naf">Bernstein, Robert L., 1923-</persname>
+      </origination>
+      <unitid>TAM.726</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">13.9 Linear Feet</extent>
+        <extent altrender="carrier">in 12 record cartons, one oversize flat box, and one half manuscript box</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">2 audiocassettes</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">60 Gigabytes</extent>
+        <extent altrender="carrier">in one hard drive</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">8 sound discs (cd)</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">1 videodisc (dvd)</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">2.61 Megabytes</extent>
+        <extent altrender="carrier">in one document</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1925/2016" type="inclusive">1925-1936, 1956-2016</unitdate>
+      <unitdate datechar="creation" normal="1995/2009" type="bulk">1995-2009</unitdate>
+      <abstract id="aspace_2d5e92fe148723d170994884b4602a1d">Robert Bernstein (born 1923) is an American publisher and human rights advocate.  He worked in publishing for over 45 years and was the president of Random House between 1966 and 1991.  He is the founder of Human Rights Watch and served as the chair of the organization from its founding as Helsinki Watch in 1978  to 1998, and has served as Founding Chair Emeritus since 1998.  The Robert Bernstein Papers document Bernstein's work in human rights and publishing; his autobiography, <emph render="italic">Speaking Freely: My Life in Publishing and Human Rights</emph> (2016); and other charitable organizations with which he is associated.  Material in the collection documents both Bernstein's work in publishing and human rights, as well as the work of the organizations themselves.  The collection dates between 1957 and 2016, with the bulk of the material dating between 1995 and 2010.  Materials include correspondence, meeting agendas and minutes, clippings, speeches, pamphlets, article and book drafts, oral history interviews, podcast episodes, print and born-digital photographs, a digital video recording, and scrapbooks.</abstract>
+      <physloc id="aspace_096283b17de6e4907a658a67801b9f9b">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_7c2b12eed441a723998a0e8c214929f9">Materials primarily in English, with some material in Arabic and Chinese.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_c87f24f96717887146a67ddb97953571">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_d6c7a7e12f7ef0c03983dcbd0ac7b87f">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Robert Bernstein in 2017. The accession number associated with this gift is 2017.050.</p>
+    </acqinfo>
+    <appraisal id="aspace_48c7f979b105ea3c50af75cbf685c214">
+      <head>Appraisal</head>
+      <p>Duplicate clippings and publications were deaccessioned.</p>
+    </appraisal>
+    <arrangement id="aspace_6de947c4527fd81eb46bda10546191d8">
+      <head>Arrangement</head>
+      <p>The collection is arranged in four series with each arranged in alphabetical order by name, topic, or format.  The series are as follows:</p>
+      <p>Series I. Human Rights Watch Files, 1986-2016</p>
+      <p>Series II. Random House Files, 1925-1936, 1963-2001</p>
+      <p>Series III. Human Rights and Charitable Work Files, 1980-2014</p>
+      <p>Series IV. Biographical Material, 1956-2016</p>
+    </arrangement>
+    <bioghist id="aspace_52310b7f2365453d64a47b39fd94bb32">
+      <head>Biographical Note</head>
+      <p>Robert Bernstein (born 1923) is an American publisher and human rights advocate.  He worked at Simon &amp; Schuster from 1946 to 1956 and at Random House from 1956 to 1991, serving as the president of Random House between 1966 and 1991.  He worked closely with Theodor Seuss Geisel (Dr. Seuss) on the Beginner Books division of Random House between 1959 and 1991.</p>
+      <p>After traveling to the Soviet Union a number of times between 1970 and 1973, and meeting with dissident authors Andrei Sakharov and Elena Bonner, he established the Fund for Free Expression in 1973 in order to promote the works of Sakharov, Bonner, and other dissident authors.  He founded 
+Helsinki Watch in 1978, which focused on the human rights section of the Helsinki Accords.  Helsinki Watch led to other watch groups, which were all brought together under Human Rights Watch in 1988.  Bernstein served as the chair between 1978 and 1998, and has served as Founding Chair Emeritus since 1998.  He has been involved with several human rights organizations, including Advancing Human Rights and Human Rights in China.  He served on the boards of several charitable organizations, including Legal Services for Children (later Partnership for Children's Rights), the Sigrid Rausing Trust, and Bard College's Institute for International Liberal Education and the Bard Prison Initiative.  In 2016 he published his autobiography, <emph render="italic">Speaking Freely: My Life in Publishing and Human Rights</emph>.</p>
+    </bioghist>
+    <prefercite id="aspace_04e96188b9caf39ad6d31097381afd3f">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Robert Bernstein Papers; TAM 726; box number; folder number, or electronic record identifier; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_e4710322542c12aace3f58e0446f6a36">
+      <head>Processing Information</head>
+      <p>Series were created from topical categories in which the collection was received.  Material for each series was brought together physically, and within each series material was organized in alphabetical order by organization or personal name, topic, or format.  Material housed in binders was removed and rehoused in folders.  Paper materials were rehoused in archival folders and boxes and optical media was housed in archival cases.</p>
+      <p>Two CD-Rs were forensically imaged and mounted to local storage. Directories were created for one collection of graphics files and one word processing document, and the files were moved to the correct folder.  One Firewire hard drive could not be accessed.</p>
+      <p>New York University Libraries follows professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity of the content.</p>
+    </processinfo>
+    <scopecontent id="aspace_a70c830444910eb038761f6de03efe6e">
+      <head>Scope and Contents</head>
+      <p>The Robert Bernstein Papers document Bernstein's work in human rights and publishing; his autobiography, <emph render="italic">Speaking Freely: My Life in Publishing and Human Rights</emph> (2016); and other charitable organizations with which he was associated. The collection dates between 1925 and 2016, with the bulk of the material dating between 1995 and 2009.  Materials include correspondence, meeting agendas and minutes, clippings, speeches, pamphlets, article and book drafts, photographs, a digital video recording, oral history interviews, podcast episodes, and scrapbooks. Bernstein's work at Random House is documented through correspondence, contracts, interoffice memoranda, and oral history interviews with Bernstein.  This material includes correspondence, contracts, and memoranda with and about Theodor Seuss Geisel's work for Random House as the head of Beginner Books.  Bernstein's work with Human Rights Watch (HRW) is documented through correspondence, clippings, meeting agendas and minutes.  Topics in these materials include human rights issues in Israel, Palestine, and China, with the bulk of the correspondence pertaining to HRW's and Bernstein's responses to events in the Middle East in particular.  The collection contains material documenting Bernstein's relationship with other human rights and charitable organizations, including the Sigrid Rausing Trust, the Bard Prison Initiative, Legal Services for Children, Human Rights in China, and his relationships with Chinese dissidents Xu Wenli and Wei Jinsheng.  His relationships with these organizations and people are documented through correspondence, meeting agenda, and print and born-digital photographs.  Other material documenting the work of these people and organizations includes podcast episodes and a digital video recording.  The collection also contains notes and background material for <emph render="italic">Speaking Freely</emph> and drafts of op-eds by Bernstein.  </p>
+      <p>The collection contains overlap across the four series, with material pertaining to Bernstein's work with Random House, HRW, and other human rights organizations existing in Series IV.  The materials filed under Series IV are a mix of material both unique and duplicative of that which exists in Series I through III.</p>
+    </scopecontent>
+    <phystech id="aspace_519d06f3b2b3acd960146151dc802b02">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Advance notice is required for the use of computer records.  Original physical digital media is restricted.  Born-digital materials have not been transferred and may not be available to researchers. Researchers may request access copies.  To request that material be transferred, or if you are unsure if material has been transferred, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <phystech id="aspace_20fa291f160d5b55bce11fb73b315417">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <userestrict id="aspace_9d3c15cae02574fcc8f9baa16613f958">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by Robert Bernstein, the creator of this collection, were relinquished and transferred to the public domain in July 2017 by Robert Bernstein. These materials are governed by a Creative Commons CC0 license, which permits publication and reproduction of materials accompanied by full attribution. See, https://creativecommons.org/licenses/.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Human rights monitoring.</subject>
+      <subject source="lcsh">Human rights -- Middle East.</subject>
+      <subject source="lcsh">Human rights -- China.</subject>
+      <subject source="lcsh">Human rights workers</subject>
+      <genreform source="aat">Autobiographies.</genreform>
+      <genreform source="aat">Memorandums.</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Publishers and publishing</subject>
+      <corpname source="naf">Human Rights Watch (Organization)</corpname>
+      <corpname source="naf">Human Rights Watch (Organization). Middle East and North Africa Division</corpname>
+      <corpname source="naf">Human Rights in China (Organization)</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_82fd042cbb4073c19af5905d5493b4aa" level="series">
+        <did>
+          <unittitle>Series I. Human Rights Watch Files</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3.5 Linear Feet</extent>
+            <extent altrender="carrier">in four record cartons</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1986/2016" type="inclusive">1986-2016</unitdate>
+          <unitdate datechar="creation" normal="2000/2009" type="bulk">2000-2009</unitdate>
+        </did>
+        <scopecontent id="aspace_303d04c4b66638559d5ffb5c1e75a189">
+          <head>Scope and Contents</head>
+          <p>This series documents Bernstein's work with Human Rights Watch (HRW) through correspondence, clippings, meeting agendas and minutes, and publications of HRW and Human Rights Watch Middle East and North Africa. Material in this series dates between 1986 and 2016, with the bulk between 2000 and 2009.  The bulk of the material focuses on HRW's coverage of Israel and Palestine, with correspondence between Bernstein, HRW staff, and people outside the organization analysing events in the region; op-eds by Bernstein on events in the region and relations within HRW; clippings; and publications by HRW.</p>
+        </scopecontent>
+        <arrangement id="aspace_53a68919d855a8d8e2d602db39639120">
+          <head>Arrangement</head>
+          <p>This series is arranged in alphabetical order by name, topic, or format.</p>
+        </arrangement>
+        <c id="aspace_f751b4f646e976e34753aef8612283c2" level="file">
+          <did>
+            <unittitle>Ackerman, Matthew</unittitle>
+            <unitdate datechar="creation" normal="2009/2010" type="inclusive">2009-2010</unitdate>
+            <container altrender="Record carton" id="aspace_fd4dc989ad716689f860d7d679762797" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_d5b0aab7a455f3e4714f8f8b0385194a" parent="aspace_fd4dc989ad716689f860d7d679762797" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_9a65ae61288be30a8c1fb5f5ede1555b" level="file">
+          <did>
+            <unittitle>Al-Aqsa</unittitle>
+            <unitdate datechar="creation" normal="2007/2012" type="inclusive">2007-2012</unitdate>
+            <container altrender="Record carton" id="aspace_4f0b6548383958a37f6114c830114831" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_8a6983dc503a9d52b203bf64dcc363e5" parent="aspace_4f0b6548383958a37f6114c830114831" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_6a3f6d595b3e942c90af2334b4dabd5a" level="file">
+          <did>
+            <unittitle>Al Quds</unittitle>
+            <unitdate datechar="creation" normal="2011/2012" type="inclusive">2011-2012</unitdate>
+            <container altrender="Record carton" id="aspace_0d3cbfbc4b8ba599174dcfc08229b2a9" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_10b01bbd076c00a6bb9a883375e5c3fc" parent="aspace_0d3cbfbc4b8ba599174dcfc08229b2a9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_5c879b2d04478a4652cae450339f162f" level="file">
+          <did>
+            <unittitle>Amnesty International</unittitle>
+            <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+            <container altrender="Record carton" id="aspace_45a0710476be23ba3ac7fac2dd8562aa" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_0b33ff6b7fd9883db56f20c194b51f8e" parent="aspace_45a0710476be23ba3ac7fac2dd8562aa" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_13990cbd5e338513a5c10e7c377fe6d0" level="file">
+          <did>
+            <unittitle>Anti-Semitism</unittitle>
+            <unitdate datechar="creation" normal="2000/2004" type="inclusive">2000-2004</unitdate>
+            <container altrender="Record carton" id="aspace_661a20658dafd274ca57c81a0d6954d6" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_0f43e9860e0a78f74036a23472b1f151" parent="aspace_661a20658dafd274ca57c81a0d6954d6" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_d0118f6c7068368095331f9828c16ae3" level="file">
+          <did>
+            <unittitle>Apkon, Steve</unittitle>
+            <unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate>
+            <container altrender="Record carton" id="aspace_b29d338bb83ab84c2f29602a2a10e180" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_fa51c2c7de1e66c88607448f2caaf389" parent="aspace_b29d338bb83ab84c2f29602a2a10e180" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_9b780148d033f74bf147883231337669" level="file">
+          <did>
+            <unittitle>Arab school books</unittitle>
+            <unitdate datechar="creation" normal="2008/2010" type="inclusive">2008-2010</unitdate>
+            <container altrender="Record carton" id="aspace_592ce04998907b102217ceec2ae9f11c" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_1d19754984ec472543f6118341f4d884" parent="aspace_592ce04998907b102217ceec2ae9f11c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_b1afad990969de2dc784e4ac2495c726" level="file">
+          <did>
+            <unittitle>Arafat, Suha</unittitle>
+            <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+            <container altrender="Record carton" id="aspace_ea186ac9918c9d95cfaf1fd1a0f832ab" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_c32255b2ce6ada39e8b80b0e9929467c" parent="aspace_ea186ac9918c9d95cfaf1fd1a0f832ab" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_5430195720ebf27fed37d39ad48eec4f" level="file">
+          <did>
+            <unittitle>Background and miscellany on Palestine-Israel relations</unittitle>
+            <unitdate datechar="creation" normal="2003/2005" type="inclusive">2003-2005</unitdate>
+            <container altrender="Record carton" id="aspace_07027903fb0ccc68b71e65eb73757a9f" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_097167c573236e458abe7a4413eee9ec" parent="aspace_07027903fb0ccc68b71e65eb73757a9f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_4b1c82251e09b544fbfd41c9adf84f1d" level="file">
+          <did>
+            <unittitle>Bayefsky, Anne</unittitle>
+            <unitdate datechar="creation" normal="2008/2010" type="inclusive">2008-2010</unitdate>
+            <container altrender="Record carton" id="aspace_81dd7cca460d06df8086d82d59b78e66" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_8904d2861c21fa7ddfbe105797d76791" parent="aspace_81dd7cca460d06df8086d82d59b78e66" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_536fca7687443b0ee456347369b47845" level="file">
+          <did>
+            <unittitle>Blum, Gabriella</unittitle>
+            <unitdate datechar="creation" normal="2011/2011">2011</unitdate>
+            <container altrender="Record carton" id="aspace_60251953d787a0ce3e27cba0b55f3cff" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_8126c9133e65ca18b4fe351b1d0172e7" parent="aspace_60251953d787a0ce3e27cba0b55f3cff" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_05f988589ad079c0c4eba9cc77543629" level="file">
+          <did>
+            <unittitle>Center for Near East Policy</unittitle>
+            <unitdate datechar="creation" normal="2008/2008">2008</unitdate>
+            <container altrender="Record carton" id="aspace_148bf63a228fec02e4d877f611f87cfc" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_23a02748a750ea2a24feb62944a5da34" parent="aspace_148bf63a228fec02e4d877f611f87cfc" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_8004227a71cbfd41e058cc2dfa4f49fe" level="file">
+          <did>
+            <unittitle>Collaborators</unittitle>
+            <unitdate datechar="creation" normal="2003/2005" type="inclusive">2003-2005</unitdate>
+            <container altrender="Record carton" id="aspace_50c7ded32d71c6499d1a1856a2588026" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_b4d45c9017c48507d17a20515c247c38" parent="aspace_50c7ded32d71c6499d1a1856a2588026" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_833e4ae09ded9007cff14aca0482288a" level="file">
+          <did>
+            <unittitle>The Court at the Hague</unittitle>
+            <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+            <container altrender="Record carton" id="aspace_7ec5243605c3db0258e8c2af2f3bbd3e" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_8035bc4e66a4ded119a37156896f9910" parent="aspace_7ec5243605c3db0258e8c2af2f3bbd3e" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_798d05bebd4d4988cf4c6b4c85206fa9" level="file">
+          <did>
+            <unittitle>David Remnick on Egypt</unittitle>
+            <unitdate datechar="creation" normal="2011/2011">2011</unitdate>
+            <container altrender="Record carton" id="aspace_7645434eff0b9bc212fafd1325f5724f" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_a241ee87aea59642c4eae65155b1e305" parent="aspace_7645434eff0b9bc212fafd1325f5724f" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_b9520278d927824494b98ce2d4b4d60a" level="file">
+          <did>
+            <unittitle>European Union funding of terrorism</unittitle>
+            <unitdate datechar="creation" normal="2003/2004" type="inclusive">2003-2004</unitdate>
+            <container altrender="Record carton" id="aspace_f1f15bb4e756984723a128eaa0ad1ede" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_fcaa375af2b9b9c00f0e121464a8b485" parent="aspace_f1f15bb4e756984723a128eaa0ad1ede" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_aa9d4b78dfb0ea699a042a4ae6ac5901" level="file">
+          <did>
+            <unittitle>Fayyad, Salam</unittitle>
+            <unitdate datechar="creation" normal="2010/2010">2010</unitdate>
+            <container altrender="Record carton" id="aspace_62d235ce0f24dcb3791ae577c64e91d4" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_4b916a51ac8e2fc56a0eccf82d750943" parent="aspace_62d235ce0f24dcb3791ae577c64e91d4" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_c4744e12287e00868702a00109ae156f" level="file">
+          <did>
+            <unittitle>The fence</unittitle>
+            <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+            <container altrender="Record carton" id="aspace_a8ae249a814a2387de522b76df21591c" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_49003450ff99d4be252c88c378dcf556" parent="aspace_a8ae249a814a2387de522b76df21591c" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_d8ee4add463cbaeb183568de2c31eeff" level="file">
+          <did>
+            <unittitle>Gaza/West Bank research</unittitle>
+            <unitdate datechar="creation" normal="2002/2014" type="inclusive">2002-2014</unitdate>
+            <container altrender="Record carton" id="aspace_0b704be1cd27a6367d97b21e581fc161" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_ddfaf3ecce11df545ab2ca4286771a19" parent="aspace_0b704be1cd27a6367d97b21e581fc161" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_d29f922753f314b045e2ac971541906a" level="file">
+          <did>
+            <unittitle>Goldstone, Richard</unittitle>
+            <unitdate datechar="creation" normal="2008/2011" type="inclusive">2008-2011</unitdate>
+            <container altrender="Record carton" id="aspace_ebbfe05624305296e0353bcf450fdad7" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_1806bc6450643b9e78607f400cdb970e" parent="aspace_ebbfe05624305296e0353bcf450fdad7" type="Folder">23-24</container>
+          </did>
+        </c>
+        <c id="aspace_247055c36fd148f6618e816617d6af02" level="file">
+          <did>
+            <unittitle>Genocide op-ed</unittitle>
+            <unitdate datechar="creation" normal="2012/2012">2012</unitdate>
+            <container altrender="Record carton" id="aspace_b715f1f52a65b05604be7056666a775c" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_c17e9f3a7712954fca6ec7945a693dc1" parent="aspace_b715f1f52a65b05604be7056666a775c" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_c23ab1a10970636266ac6932ab9dae8f" level="file">
+          <did>
+            <unittitle>Habibi, Don</unittitle>
+            <unitdate datechar="creation" normal="2007/2007">2007</unitdate>
+            <container altrender="Record carton" id="aspace_880ffa8305acd50b6a7652404ca33553" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_7566dfb41b4842b95d8d8ed06421c67d" parent="aspace_880ffa8305acd50b6a7652404ca33553" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_588585be81824a21387420dde70e7557" level="file">
+          <did>
+            <unittitle>Halbertal, Moshe</unittitle>
+            <unitdate datechar="creation" normal="2015/2015">2015</unitdate>
+            <container altrender="Record carton" id="aspace_7293332fa2e98211cb68803d9e7dd5fe" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_aeb2e0e587aa2cc04521e81bf96595a3" parent="aspace_7293332fa2e98211cb68803d9e7dd5fe" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_c4968a993376b2543f1e5103c95933cc" level="file">
+          <did>
+            <unittitle>Hate speech</unittitle>
+            <unitdate datechar="creation" normal="2004/2015" type="inclusive">2004-2015</unitdate>
+            <container altrender="Record carton" id="aspace_0efecd179d7f32bc3606e6ec3742df97" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_4b0c75676a84885f278442ea13fc62c2" parent="aspace_0efecd179d7f32bc3606e6ec3742df97" type="Folder">28-37</container>
+          </did>
+        </c>
+        <c id="aspace_fa2fff9f7df8454861db4dc5fef21455" level="file">
+          <did>
+            <unittitle>Herzog, Mike</unittitle>
+            <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+            <container altrender="Record carton" id="aspace_dc588138bb263a79f0cd282176ca9841" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_4edf325423d62c1784c37f26cbe53642" parent="aspace_dc588138bb263a79f0cd282176ca9841" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_4f285d5487034a1e2a2efba581a1ba2c" level="file">
+          <did>
+            <unittitle>Hessel, Stephane</unittitle>
+            <unitdate datechar="creation" normal="2010/2010">2010</unitdate>
+            <container altrender="Record carton" id="aspace_f03ad1c252ec36a74eb07feb655b48fa" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_bb8b58dc822a60ff9a3a4ada35e7c307" parent="aspace_f03ad1c252ec36a74eb07feb655b48fa" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_88e10cc644515bb6c078fd8a09fa15d9" level="file">
+          <did>
+            <unittitle>Holocaust Memorial Museum</unittitle>
+            <unitdate datechar="creation" normal="2011/2011">2011</unitdate>
+            <container altrender="Record carton" id="aspace_a1c5056dc98fbf21cbdde12db440c96f" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_65203957bf129ddfd701248317f6c133" parent="aspace_a1c5056dc98fbf21cbdde12db440c96f" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_47b469c745392bb820c5c7960a311544" level="file">
+          <did>
+            <unittitle>Human rights and laws of war</unittitle>
+            <unitdate datechar="creation" normal="2010/2010">2010</unitdate>
+            <container altrender="Record carton" id="aspace_99c4812bb92c8097c47ebe3a5bd57028" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_942156a9191671b059f5ae19aca60672" parent="aspace_99c4812bb92c8097c47ebe3a5bd57028" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_6b478859a1bca8f1d6548eff42eb32e8" level="file">
+          <did>
+            <unittitle>Human rights research</unittitle>
+            <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+            <container altrender="Record carton" id="aspace_b37834843c6f5e496bb191e036e13bd0" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_c1669d9e51993c419be86fc96b0ede9a" parent="aspace_b37834843c6f5e496bb191e036e13bd0" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_19690f988b5f1d03c2225b12505e396f" level="file">
+          <did>
+            <unittitle>Human Rights Watch -- Bernstein, Robert - Joint Committee</unittitle>
+            <unitdate datechar="creation" normal="1993/2016" type="inclusive">1993-2016</unitdate>
+            <container altrender="Record carton" id="aspace_375690cac387e8e5274e6fdefe02251a" label="Mixed Materials [31142063141785]" type="Box">2</container>
+            <container id="aspace_beb33e2ebaf919ed11b841e7953327cd" parent="aspace_375690cac387e8e5274e6fdefe02251a" type="Folder">1-16</container>
+          </did>
+        </c>
+        <c id="aspace_8a7af0d55ca5643b759109372ce22bc6" level="file">
+          <did>
+            <unittitle>Human Rights Watch -- Middle East/North Africa</unittitle>
+            <unitdate datechar="creation" normal="2004/2014" type="inclusive">2004-2014</unitdate>
+            <container altrender="Record carton" id="aspace_de80e4173d008c3335d2df0bcb8663c3" label="Mixed Materials [31142063141785]" type="Box">2</container>
+            <container id="aspace_67f7541e2e5bac53ca551a3687332638" parent="aspace_de80e4173d008c3335d2df0bcb8663c3" type="Folder">17-39</container>
+            <container altrender="Record carton" id="aspace_8c626e618ab335064902ca9b7b40c55e" label="Mixed Materials [31142063141793]" type="Box">3</container>
+            <container id="aspace_b2cc43884fff6f43f4a4b304114454c9" parent="aspace_8c626e618ab335064902ca9b7b40c55e" type="Folder">1-4</container>
+          </did>
+        </c>
+        <c id="aspace_1a6ee8cf3da69b6c04650539a8528d67" level="file">
+          <did>
+            <unittitle>Human Rights Watch -- Objectivity - World Bank</unittitle>
+            <unitdate datechar="creation" normal="1995/2012" type="inclusive">1995-2012</unitdate>
+            <container altrender="Record carton" id="aspace_6c33599ca9a7c2eff2be35c8727546ff" label="Mixed Materials [31142063141793]" type="Box">3</container>
+            <container id="aspace_974dcad20f14db612ed959f012937f51" parent="aspace_6c33599ca9a7c2eff2be35c8727546ff" type="Folder">5-13</container>
+          </did>
+        </c>
+        <c id="aspace_582188a04015348256cf08d6f1f5d4bd" level="file">
+          <did>
+            <unittitle>International Criminal Court</unittitle>
+            <unitdate datechar="creation" normal="2002/2014" type="inclusive">2002-2014</unitdate>
+            <container altrender="Record carton" id="aspace_b214f77a74d7888279d20006124d1ff5" label="Mixed Materials [31142063141793]" type="Box">3</container>
+            <container id="aspace_23384f5e4f2b4e4204ec4cfef395f6c1" parent="aspace_b214f77a74d7888279d20006124d1ff5" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_7f5e145e10a92f1d12e5529defa93eaf" level="file">
+          <did>
+            <unittitle>Israel</unittitle>
+            <unitdate datechar="creation" normal="1986/2013" type="inclusive">1986-2013</unitdate>
+            <container altrender="Record carton" id="aspace_eb5b33719c8d6babe5094f81ef1236d1" label="Mixed Materials [31142063141793]" type="Box">3</container>
+            <container id="aspace_9646939f4f8bf676498a50bcd3e0404c" parent="aspace_eb5b33719c8d6babe5094f81ef1236d1" type="Folder">16-29</container>
+          </did>
+        </c>
+        <c id="aspace_b6e73c71d03af44dfd6e123a7c86477c" level="file">
+          <did>
+            <unittitle>J Street</unittitle>
+            <unitdate datechar="creation" normal="2011/2011">2011</unitdate>
+            <container altrender="Record carton" id="aspace_51aa6e65bd45695aad37a909d9c0e764" label="Mixed Materials [31142063141793]" type="Box">3</container>
+            <container id="aspace_40965aa22820548edd4fdca16ad5bbcb" parent="aspace_51aa6e65bd45695aad37a909d9c0e764" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_4bacac2f19d3b1460dbff4dc0215bc1a" level="file">
+          <did>
+            <unittitle>Jenin</unittitle>
+            <unitdate datechar="creation" normal="2002/2002">2002</unitdate>
+            <container altrender="Record carton" id="aspace_1efb84ba4d0d5580e17ce89aafaf91e5" label="Mixed Materials [31142063141793]" type="Box">3</container>
+            <container id="aspace_91f322811e9de31395e3bb2529e89507" parent="aspace_1efb84ba4d0d5580e17ce89aafaf91e5" type="Folder">31-32</container>
+          </did>
+        </c>
+        <c id="aspace_e43ab5d3e88950143c7d3b10bb566bc2" level="file">
+          <did>
+            <unittitle>Kahn, Joe</unittitle>
+            <unitdate datechar="creation" normal="2013/2013">2013</unitdate>
+            <container altrender="Record carton" id="aspace_c320b18990a3339e850a877a94e16dbc" label="Mixed Materials [31142063141793]" type="Box">3</container>
+            <container id="aspace_ef8b940830b404031f8dd8001590168f" parent="aspace_c320b18990a3339e850a877a94e16dbc" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_b5d9a2b147726cceb2d71b556086678d" level="file">
+          <did>
+            <unittitle>Lindsay, James G.</unittitle>
+            <unitdate datechar="creation" normal="2009/2009">2009</unitdate>
+            <container altrender="Record carton" id="aspace_9fd84be2bcd256e57403edc3508dd0c0" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_a22ff707f69e4c9224f6a90e57261afc" parent="aspace_9fd84be2bcd256e57403edc3508dd0c0" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_57eea0b7bdaa8dd18cbe1470432f3982" level="file">
+          <did>
+            <unittitle>Middle East</unittitle>
+            <unitdate datechar="creation" normal="2006/2012" type="inclusive">2006-2012</unitdate>
+            <container altrender="Record carton" id="aspace_03c1ac4431fc68cec43dcaabdbcceb0a" label="Mixed Materials [31142063141793]" type="Box">3</container>
+            <container id="aspace_e635d21216522c7dab97f975f3f84236" parent="aspace_03c1ac4431fc68cec43dcaabdbcceb0a" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_0549f790f5040b7a0996ff29cb738591" level="file">
+          <did>
+            <unittitle>Moynihan, Daniel Patrick</unittitle>
+            <unitdate datechar="creation" normal="2002/2013" type="inclusive">2002-2013</unitdate>
+            <container altrender="Record carton" id="aspace_bdd4a2e204026f2b0897941c6efdff0f" label="Mixed Materials [31142063141793]" type="Box">3</container>
+            <container id="aspace_e81485ecf8fe4d42a860c518015971d5" parent="aspace_bdd4a2e204026f2b0897941c6efdff0f" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_679c81d7f296af6fd67d9fbcc2fd6d8f" level="file">
+          <did>
+            <unittitle>New Israel Fund</unittitle>
+            <unitdate datechar="creation" normal="2004/2005" type="inclusive">2004-2005</unitdate>
+            <container altrender="Record carton" id="aspace_90312bf97180c95e72c6e33efc050d87" label="Mixed Materials [31142063141793]" type="Box">3</container>
+            <container id="aspace_12f4a6fb9fb2a0f3174ccc13a7681988" parent="aspace_90312bf97180c95e72c6e33efc050d87" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_9dcc1f72ae783d3752edeb2733db4a96" level="file">
+          <did>
+            <unittitle>Olson, Sheinberg, Peratis</unittitle>
+            <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+            <container altrender="Record carton" id="aspace_a05a6b17327f939cb63ce638ad82f7e1" label="Mixed Materials [31142063141793]" type="Box">3</container>
+            <container id="aspace_0740e93bed574a89a3980b4c70447a9d" parent="aspace_a05a6b17327f939cb63ce638ad82f7e1" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_64eb7c749e0c45fd268a9d3b48348698" level="file">
+          <did>
+            <unittitle>Op-eds</unittitle>
+            <unitdate datechar="creation" normal="2006/2013" type="inclusive">2006-2013</unitdate>
+            <container altrender="Record carton" id="aspace_6dbd4508ca6b6386a0ad0d99ebfaf428" label="Mixed Materials [31142063141777]" type="Box">1</container>
+            <container id="aspace_3de1ace9e95c48e0267b4ec30e730c89" parent="aspace_6dbd4508ca6b6386a0ad0d99ebfaf428" type="Folder">11-12</container>
+          </did>
+        </c>
+        <c id="aspace_085c82d21f8bc16b50f5e3be6cf2c8bb" level="file">
+          <did>
+            <unittitle>Palestinian Authority financial corruption</unittitle>
+            <unitdate datechar="creation" normal="2002/2005" type="inclusive">2002-2005</unitdate>
+            <container altrender="Record carton" id="aspace_68c9627db8f23f9c74b46e4e0da1b30d" label="Mixed Materials [31142063141793]" type="Box">3</container>
+            <container id="aspace_d78f75afe14c26cb3bfadbc4278a1edc" parent="aspace_68c9627db8f23f9c74b46e4e0da1b30d" type="Folder">38-39</container>
+          </did>
+        </c>
+        <c id="aspace_56fea97e9c213bd04c584cbf4e90c604" level="file">
+          <did>
+            <unittitle>Palestinian organizations</unittitle>
+            <unitdate datechar="creation" normal="2000/2005" type="inclusive">2000-2005</unitdate>
+            <container altrender="Record carton" id="aspace_efd9a1dde8e97e417bd20fc496cf1c96" label="Mixed Materials [31142063141793]" type="Box">3</container>
+            <container id="aspace_2c218608c0ef221d7ac62b34ae823de3" parent="aspace_efd9a1dde8e97e417bd20fc496cf1c96" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_e9312fa754ff6fc4fb1f509fd912dee2" level="file">
+          <did>
+            <unittitle>Robinowitz, Stuart</unittitle>
+            <unitdate datechar="creation" normal="2008/2012" type="inclusive">2008-2012</unitdate>
+            <container altrender="Record carton" id="aspace_573c2b460b045b9437f16abef1fcf987" label="Mixed Materials [31142063141793]" type="Box">3</container>
+            <container id="aspace_c0babd509af930ed6cd956b2f99a5882" parent="aspace_573c2b460b045b9437f16abef1fcf987" type="Folder">41-42</container>
+          </did>
+        </c>
+        <c id="aspace_699e755d2ac43195089d46a373cff2d6" level="file">
+          <did>
+            <unittitle>Roth, Ken</unittitle>
+            <unitdate datechar="creation" normal="2001/2005" type="inclusive">2001-2005</unitdate>
+            <container altrender="Record carton" id="aspace_7fee7753c5d2c8341003237140dbcc61" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_29fd866a24891e1b228f29f74aca6252" parent="aspace_7fee7753c5d2c8341003237140dbcc61" type="Folder">3-6</container>
+          </did>
+        </c>
+        <c id="aspace_f55c9e068e4fb264319d2991f9ecf08d" level="file">
+          <did>
+            <unittitle>Sharansky's definition of anti-Semitism</unittitle>
+            <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+            <container altrender="Record carton" id="aspace_22daa181aa9c312c71337c92972bf538" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_6fe485395087bd97121e3d401a7086b8" parent="aspace_22daa181aa9c312c71337c92972bf538" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_90e467cb0140f7d2407f76075c6a5187" level="file">
+          <did>
+            <unittitle>Sheinberg, Sid</unittitle>
+            <unitdate datechar="creation" normal="2006/2011" type="inclusive">2006-2011</unitdate>
+            <container altrender="Record carton" id="aspace_7a34f6031e317731f089fa7506431378" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_9e8fc298e91e2a5b98ce101aca10554b" parent="aspace_7a34f6031e317731f089fa7506431378" type="Folder">8-10</container>
+          </did>
+        </c>
+        <c id="aspace_077bb9f8428173f084605093c87592ba" level="file">
+          <did>
+            <unittitle>Telhami, Shibley</unittitle>
+            <unitdate datechar="creation" normal="2004/2005" type="inclusive">2004-2005</unitdate>
+            <container altrender="Record carton" id="aspace_bbbb6612d984eb20d3fda7be85dd82db" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_47c77bda4752b0dd7b225e04b1cc1aa6" parent="aspace_bbbb6612d984eb20d3fda7be85dd82db" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_14e35254de9a4b0279a78b436c05b2a0" level="file">
+          <did>
+            <unittitle>Steinberg, Gerald</unittitle>
+            <unitdate datechar="creation" normal="2003/2010" type="inclusive">2003-2010</unitdate>
+            <container altrender="Record carton" id="aspace_d72d35ef0d66f17f360850654306e4f1" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_1c580309acb5e7eec537e9a76451bdba" parent="aspace_d72d35ef0d66f17f360850654306e4f1" type="Folder">12-13</container>
+          </did>
+        </c>
+        <c id="aspace_6953ef0d75042f316b6bc23c497fd8a5" level="file">
+          <did>
+            <unittitle>Stork, Joe</unittitle>
+            <unitdate datechar="creation" normal="2009/2009">2009</unitdate>
+            <container altrender="Record carton" id="aspace_789bf8a3a216ff3714c2cf97c822cf55" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_bc345c77e789d4be49ea0480a243107d" parent="aspace_789bf8a3a216ff3714c2cf97c822cf55" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_6929c24adafe6628f9a26ebfda2c552d" level="file">
+          <did>
+            <unittitle>Toameh, Khaled Abu</unittitle>
+            <unitdate datechar="creation" normal="2012/2015" type="inclusive">2012-2015</unitdate>
+            <container altrender="Record carton" id="aspace_69d59dceeacf26dc4cf97ee0a32ca605" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_d13ea4c5a07633ada3835082648260a8" parent="aspace_69d59dceeacf26dc4cf97ee0a32ca605" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_125a7d4d7a704c83a5d7ea723efec469" level="file">
+          <did>
+            <unittitle>United Nations on Israel</unittitle>
+            <unitdate datechar="creation" normal="2003/2004" type="inclusive">2003-2004</unitdate>
+            <container altrender="Record carton" id="aspace_c83a12bcc71334095db7bb5c702cca95" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_ee40044948bbec5d1bbb76b246ee3f9f" parent="aspace_c83a12bcc71334095db7bb5c702cca95" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_74572cda7b5f3e8518a1c0a7c4e2eeb4" level="file">
+          <did>
+            <unittitle>vanden Heuvel, William</unittitle>
+            <unitdate datechar="creation" normal="2009/2011" type="inclusive">2009-2011</unitdate>
+            <container altrender="Record carton" id="aspace_fcb2abae7935bcdb6bc66142ef7b3dd5" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_4da93ded6d6d8feb88e3669654db340d" parent="aspace_fcb2abae7935bcdb6bc66142ef7b3dd5" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_c0c84b6a866de2f541c07ff9bf451e34" level="file">
+          <did>
+            <unittitle>War</unittitle>
+            <unitdate datechar="creation" normal="1999/2010" type="inclusive">1999-2010</unitdate>
+            <container altrender="Record carton" id="aspace_0d881c40c8a73de542eabb95f3efd527" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_d1a48bc592c3abb8bd50bdfe09027b49" parent="aspace_0d881c40c8a73de542eabb95f3efd527" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_d235a86852d6c01eb0a00600fd936888" level="file">
+          <did>
+            <unittitle>White, Jeffrey</unittitle>
+            <unitdate datechar="creation" normal="2010/2010">2010</unitdate>
+            <container altrender="Record carton" id="aspace_46d3538d08061b251fd6e49781547d25" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_893cfa3149e3d1612b796cffb753a3ab" parent="aspace_46d3538d08061b251fd6e49781547d25" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_40ec0e2f08b7994c92077f71d0642507" level="file">
+          <did>
+            <unittitle>Whitson, Sarah Leah</unittitle>
+            <unitdate datechar="creation" normal="2004/2011" type="inclusive">2004-2011</unitdate>
+            <container altrender="Record carton" id="aspace_0706e9bbb2eec5fc9f451db5eedde06f" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_87599461983ce0bfc4e1725fd008cb61" parent="aspace_0706e9bbb2eec5fc9f451db5eedde06f" type="Folder">20</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_d65eec7fb4ff24e05eb8978ac892f7fe" level="series">
+        <did>
+          <unittitle>Series II. Random House Files</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2.3 Linear Feet</extent>
+            <extent altrender="carrier">in one record carton, one oversize flat box, and one half manuscript box</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">2 sound discs (cd)</extent>
+          </physdesc>
+          <unitdate datechar="other" normal="1925/2013" type="inclusive">1925-1936, 1963-2001</unitdate>
+          <unitdate datechar="creation" normal="1963/1991" type="bulk">1963-1991</unitdate>
+        </did>
+        <scopecontent id="aspace_364709a04fc333ddbc8d810c00057515">
+          <head>Scope and Contents</head>
+          <p>This series documents Bernstein's career at Random House, with a focus on his relationship with Theodor Seuss Geisel (Dr. Seuss).  Material in this series dates between 1925 and 2001 and includes correspondence, contracts, interoffice memoranda, a scrapbook of Dr. Seuss material, artwork, clippings, and oral history interviews with Bernstein regarding his time at Random House.  The bulk of this material dates between 1963 and 1991 and pertains to Geisel's relationship with Random House, both as a writer and the president of the Beginners Books division.  This material includes correspondence, interoffice memoranda, contracts, photographs, artwork by Geisel, and a scrapbook of material documenting his relationship with Random House.  Correspondence and interoffice memoranda between Bernstein, Geisel, Helen Geisel, and Phyllis Jackson concerns renegotiations of Geisel's contract with Random House and his financial compensation from the company.  Other material in this series includes transcripts and sound recordings of Bernstein's interviews as part of an oral history of Random House conducted in 2001 and letters from Alfred A. Knopf.</p>
+        </scopecontent>
+        <arrangement id="aspace_24a28d73f8c527a78cea51491c4260d6">
+          <head>Arrangement</head>
+          <p>This series is arranged in alphabetical order by name, topic, or format.</p>
+        </arrangement>
+        <c id="aspace_3f1e60ec4277d5900c7dd0d0de16501f" level="file">
+          <did>
+            <unittitle>Beginner Books</unittitle>
+            <unitdate datechar="creation" normal="1971/1976" type="inclusive">1971-1976</unitdate>
+            <container altrender="Record carton" id="aspace_7644319903b41f2a4c04077803737fc0" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_dfa7fa446a9afc579da54e819ab2947e" parent="aspace_7644319903b41f2a4c04077803737fc0" type="Folder">21-23</container>
+          </did>
+        </c>
+        <c id="aspace_32bbce0e587809f487b01fe1b013a140" level="file">
+          <did>
+            <unittitle>Dr. Seuss Foundation</unittitle>
+            <unitdate datechar="creation" normal="1969/1972" type="inclusive">1969-1972</unitdate>
+            <container altrender="Record carton" id="aspace_57cb052966b34272698f64f8318536b9" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_e05b7a67014906a8295b8828004016dd" parent="aspace_57cb052966b34272698f64f8318536b9" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_68ba905a246c8f0c8b360ba2f2abb98b" level="file">
+          <did>
+            <unittitle>Geisel, Theodor Seuss</unittitle>
+            <unitdate datechar="creation" normal="1959/2003" type="inclusive">1959-2003</unitdate>
+            <container altrender="Record carton" id="aspace_5bfb8a5bf05945a2e3a470352b80b8e3" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_b9857cadfa2ec26354648bb83d8cf1f3" parent="aspace_5bfb8a5bf05945a2e3a470352b80b8e3" type="Folder">25-45</container>
+            <container altrender="Flat OS Box 17" id="aspace_453744553b1cd7831f137a1fd4c89fb6" label="Mixed Materials [31142063141892]" type="Box">13</container>
+            <container id="aspace_97b5933e33b845dd24986b6b0b8e65cb" parent="aspace_453744553b1cd7831f137a1fd4c89fb6" type="volume">1</container>
+          </did>
+        </c>
+        <c id="aspace_0d072c1a9d15c72e3740475cee013ce2" level="file">
+          <did>
+            <unittitle>Knopf, Alfred A.</unittitle>
+            <unitdate datechar="creation" normal="1963/1969" type="inclusive">1963-1969</unitdate>
+            <container altrender="Record carton" id="aspace_9e12189e477433bae9982e3fa4df6f60" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_e5311584819b365fd0b3f0f5ae030bbc" parent="aspace_9e12189e477433bae9982e3fa4df6f60" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_bd2309171a1709abb343c92f9bed5d3e" level="file">
+          <did>
+            <unittitle>Modern Library and Random House 25th anniversary</unittitle>
+            <unitdate datechar="creation" normal="1925/1986" type="inclusive">1925-1936, 1986</unitdate>
+            <container altrender="Record carton" id="aspace_2a55e4d1fa60da9661c130f4a287680f" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_a064bb05be50056215931d53e4bda29e" parent="aspace_2a55e4d1fa60da9661c130f4a287680f" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_173a7eacf0e0cb2786e7ec6c8284eefe" level="file">
+          <did>
+            <unittitle>Moscow Book Fair</unittitle>
+            <unitdate datechar="creation" normal="1979/1979">1979</unitdate>
+            <container altrender="Record carton" id="aspace_211d65af4e95d8d10c04bdf2d8735bfb" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_335204db23889e6555a24fafdf4cd712" parent="aspace_211d65af4e95d8d10c04bdf2d8735bfb" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_1a9745768254a80ce90b253840f87c46" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Organization Study of Random House, Inc.</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1967/1967">1967</unitdate>
+            <container altrender="Record carton" id="aspace_b0ddd116ea42ad7aa831cfdd9ecb6d0c" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_39e1dd80a08bb597ef2b215b6723e9f6" parent="aspace_b0ddd116ea42ad7aa831cfdd9ecb6d0c" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_d3f805d6a49c481c3497fcbc61b3a4d6" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The Political Dr. Seuss</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+            <container altrender="Record carton" id="aspace_c7fcb8b6adabb1ad6ec42fb770765c19" label="Mixed Materials [31142063141801]" type="Box">4</container>
+            <container id="aspace_763f6802b7d37556167eb83bdfdbbda3" parent="aspace_c7fcb8b6adabb1ad6ec42fb770765c19" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_136e68647cb81d7309d444a39c8d08bd" level="file">
+          <did>
+            <unittitle>Random House oral history project</unittitle>
+            <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+            <container altrender="Record carton" id="aspace_8a3cbc32fcc8f22a0c700635b31ff4ef" label="Mixed Materials [31142063141819]" type="Box">5</container>
+            <container id="aspace_4723e4deeac6444ebdb0675614c80920" parent="aspace_8a3cbc32fcc8f22a0c700635b31ff4ef" type="Folder">1</container>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_67ea14363fab607b6ad20f3a762cc494" label="Audio [31142063141900]" type="Box">14</container>
+            <container id="aspace_64605c3e6ea8e3f64d41ed617ea00c9f" parent="aspace_67ea14363fab607b6ad20f3a762cc494" type="CD">7-8</container>
+          </did>
+        </c>
+        <c id="aspace_da090e6919be030ce614860dd7baec65" level="file">
+          <did>
+            <unittitle>RCA agreements</unittitle>
+            <unitdate datechar="creation" normal="1966/1966">1966</unitdate>
+            <container altrender="Record carton" id="aspace_7aea55dfd6ba0a2ee4675260ae7ce746" label="Mixed Materials [31142063141819]" type="Box">5</container>
+            <container id="aspace_f11f13ab118e535dcadfecef27903bb8" parent="aspace_7aea55dfd6ba0a2ee4675260ae7ce746" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ac8552dd108257f4eb1073d58cf15866" level="file">
+          <did>
+            <unittitle>Stock purchases</unittitle>
+            <unitdate datechar="creation" normal="1964/1966" type="inclusive">1964-1966</unitdate>
+            <container altrender="Record carton" id="aspace_6a3f808eae15a165198ec1f5553a2aed" label="Mixed Materials [31142063141819]" type="Box">5</container>
+            <container id="aspace_95ea67e724275f6cb29bd6152ad00c3a" parent="aspace_6a3f808eae15a165198ec1f5553a2aed" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_0e0693b34945128cd6c7c161d19b2d4e" level="series">
+        <did>
+          <unittitle>Series III.  Human Rights and Charitable Work Files</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">5.7 Linear Feet</extent>
+            <extent altrender="carrier">in six record cartons and one half manuscript box</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">6 sound discs (cd)</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">2.61 Megabytes</extent>
+            <extent altrender="carrier">in one document</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">2 audiocassettes</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">1 videodisc (dvd)</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1980/2014" type="inclusive">1980-2014</unitdate>
+          <unitdate datechar="creation" normal="1993/2008" type="bulk">1993-2008</unitdate>
+        </did>
+        <scopecontent id="aspace_3aab66abc7c1dcad88f9264fb241ebfa">
+          <head>Scope and Contents</head>
+          <p>This series documents Bernstein's human rights work outside of Human Rights Watch and his relationships with other charitable organizations.  Material in this series dates between 1980 and 2014, with the bulk dating between 1993 and 2008.  Bernstein's work with Human Rights in China (HRIC), the Sigrid Rausing Trust, Bard College's Institute for International Liberal Education and Bard Prison Initiative, and Legal Services for Children (later Partnership for Children's Rights), is documented by correspondence, meeting agenda and minutes, publications, clippings, podcast episodes, and a digital video recording.  Included in this series is material related to Bernstein's work and personal relationships with Chinese dissidents Xu Wenli and Wei Jingsheng and his efforts to support their work in the United States.  Filed under their names, drafts and published versions of print and born-digital writings by Xu and Wei may be found as well as digital photographs of Bernstein and Xu.  Other material includes podcast episodes recorded by HRIC featuring interviews with participants of the 1989 Democracy Movement, a digital video recording produced by the Bard Prison Initiative about their program, subject files compiled by Bernstein on topics of interest to him, and speeches and op-eds written by Bernstein on human rights issues in general and in the Middle East in particular.</p>
+        </scopecontent>
+        <arrangement id="aspace_df3da68896f79e34ac14cb813c316cff">
+          <head>Arrangement</head>
+          <p>This series is arranged in alphabetical order by name, topic, or format.</p>
+        </arrangement>
+        <c id="aspace_0309e20465d9f5001e50892c198028ff" level="file">
+          <did>
+            <unittitle>Advancing Human Rights</unittitle>
+            <unitdate datechar="creation" normal="2009/2011" type="inclusive">2009-2011</unitdate>
+            <container altrender="Record carton" id="aspace_de9bc31103abaabb30bef01333766f6d" label="Mixed Materials [31142063141819]" type="Box">5</container>
+            <container id="aspace_f5ea41da1faa9ac42775db6d71d94be5" parent="aspace_de9bc31103abaabb30bef01333766f6d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_34da077923b497b4dfa3b4d2bb920170" level="file">
+          <did>
+            <unittitle>Army codes</unittitle>
+            <unitdate datechar="creation" normal="1988/2011" type="inclusive">1988-2011</unitdate>
+            <container altrender="Record carton" id="aspace_f784d484693cf0c581a000e210da3267" label="Mixed Materials [31142063141819]" type="Box">5</container>
+            <container id="aspace_dbac17f64c4d027de24595bf6e6a2bec" parent="aspace_f784d484693cf0c581a000e210da3267" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_9990f56b8964cd48d39522bea6f737f3" level="file">
+          <did>
+            <unittitle>Asymmetric warfare</unittitle>
+            <unitdate datechar="creation" normal="2011/2011">2011</unitdate>
+            <container altrender="Record carton" id="aspace_a3e9c627ae52e638cd4917145d76580c" label="Mixed Materials [31142063141819]" type="Box">5</container>
+            <container id="aspace_242f98fcc05db6dd71d476205f597890" parent="aspace_a3e9c627ae52e638cd4917145d76580c" type="Folder">6-7</container>
+          </did>
+        </c>
+        <c id="aspace_e6e9433b926580b45acb35a882ebc553" level="file">
+          <did>
+            <unittitle>Bard College -- Helen Walter Bernstein Fund</unittitle>
+            <unitdate datechar="creation" normal="2002/2007" type="inclusive">2002-2007</unitdate>
+            <container altrender="Record carton" id="aspace_d8aaa52142937a6d54fdece5c2461948" label="Mixed Materials [31142063141819]" type="Box">5</container>
+            <container id="aspace_9a4f5e732b67748ee12c775e02e23d11" parent="aspace_d8aaa52142937a6d54fdece5c2461948" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ad30109b68edde495d8c47fbf139f889" level="file">
+          <did>
+            <unittitle>Bard College -- Institute for International Liberal Education</unittitle>
+            <unitdate datechar="creation" normal="1999/2011" type="inclusive">1999-2011</unitdate>
+            <container altrender="Record carton" id="aspace_38b7bccca259211c4530e779fd395593" label="Mixed Materials [31142063141819]" type="Box">5</container>
+            <container id="aspace_d1b0cef78d2edf20524e8bd93c20c016" parent="aspace_38b7bccca259211c4530e779fd395593" type="Folder">9-22</container>
+          </did>
+        </c>
+        <c id="aspace_06209e4602fd08cc1095ed8311505e12" level="file">
+          <did>
+            <unittitle>Bard College -- Bard Prison Initiative</unittitle>
+            <unitdate datechar="creation" normal="2002/2009" type="inclusive">2002-2009</unitdate>
+            <container altrender="Record carton" id="aspace_00380900413d70cdac1caa507bc628af" label="Mixed Materials [31142063141819]" type="Box">5</container>
+            <container id="aspace_71245f9c099bcab1c406e3a85ce780d2" parent="aspace_00380900413d70cdac1caa507bc628af" type="Folder">23-27</container>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_01fda64439d5829bf426cccc810c45d4" label="videos [31142063141900]" type="Box">14</container>
+            <container id="aspace_3f4815072c1eec87500376b73058ef25" parent="aspace_01fda64439d5829bf426cccc810c45d4" type="DVD">1</container>
+          </did>
+        </c>
+        <c id="aspace_c15bc407f3c32cc32ebf2d32bce00f53" level="file">
+          <did>
+            <unittitle>Benshoof, Janet</unittitle>
+            <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+            <container altrender="Record carton" id="aspace_0aa8ea6cdbed5b29239076dae22f0b40" label="Mixed Materials [31142063141819]" type="Box">5</container>
+            <container id="aspace_24439c8ddff8997adaa04b76ac0c9c8f" parent="aspace_0aa8ea6cdbed5b29239076dae22f0b40" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_932229398a7d676160123976cd0fda35" level="file">
+          <did>
+            <unittitle>Blair, Dennis</unittitle>
+            <unitdate datechar="creation" normal="2011/2011">2011</unitdate>
+            <container altrender="Record carton" id="aspace_6955a38b50588a507a5eea2980b51e1f" label="Mixed Materials [31142063141819]" type="Box">5</container>
+            <container id="aspace_cb19a1720e9d83f95028fc0dea3957a6" parent="aspace_6955a38b50588a507a5eea2980b51e1f" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_e5fbd07b68263d61e33b5640dc0d9a94" level="file">
+          <did>
+            <unittitle>Brown University -- Watson Institute for International Studies</unittitle>
+            <unitdate datechar="creation" normal="2001/2008" type="inclusive">2001-2008</unitdate>
+            <container altrender="Record carton" id="aspace_7254e40714b7b4628c3eed6da53a91b9" label="Mixed Materials [31142063141819]" type="Box">5</container>
+            <container id="aspace_90dcb9b13ec433e41c1e19957b01fea7" parent="aspace_7254e40714b7b4628c3eed6da53a91b9" type="Folder">30-31</container>
+          </did>
+        </c>
+        <c id="aspace_61dc3e283df42b5bb450dc8dd107ef72" level="file">
+          <did>
+            <unittitle>Brown University -- Xu, Wenli</unittitle>
+            <unitdate datechar="creation" normal="2005/2007" type="inclusive">2005-2007</unitdate>
+            <container altrender="Record carton" id="aspace_a29dceb9a2a1192ae96abca30216065b" label="Mixed Materials [31142063141819]" type="Box">5</container>
+            <container id="aspace_59db813d5d12bbdc9362dd58e7e792f9" parent="aspace_a29dceb9a2a1192ae96abca30216065b" type="Folder">32-33</container>
+          </did>
+        </c>
+        <c id="aspace_71600d5e8fad73a074de53ffa98f16aa" level="file">
+          <did>
+            <unittitle>Carlisle, Michael</unittitle>
+            <unitdate datechar="creation" normal="2002/2004" type="inclusive">2002-2004</unitdate>
+            <container altrender="Record carton" id="aspace_32587dcd32a8523b2d76cdf10998d671" label="Mixed Materials [31142063141819]" type="Box">5</container>
+            <container id="aspace_07f963fff0c02b8e4189de0ae56b80d4" parent="aspace_32587dcd32a8523b2d76cdf10998d671" type="Folder">34</container>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_346499aa91ed2f99c4aab8d3e86ba00c" label="Audio [31142063141900]" type="Box">14</container>
+            <container id="aspace_6116f92bbf66f0f923054a11cc1ecb47" parent="aspace_346499aa91ed2f99c4aab8d3e86ba00c" type="Cassette">1-2</container>
+          </did>
+        </c>
+        <c id="aspace_9352f875b029187d4594db3a714371d1" level="file">
+          <did>
+            <unittitle>Carr, Greg</unittitle>
+            <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+            <container altrender="Record carton" id="aspace_6d1679bf47fd9ce99b91dde2cfa47140" label="Mixed Materials [31142063141827]" type="Box">6</container>
+            <container id="aspace_3e3f36d0565947e4f3daa117e8aa9094" parent="aspace_6d1679bf47fd9ce99b91dde2cfa47140" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_3f02b2ac1c8134d88a0d30dbe2e66a64" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate datechar="creation" normal="2009/2011" type="inclusive">2009-2011</unitdate>
+            <container altrender="Record carton" id="aspace_652635d7e12c5369405f204f0b140f3d" label="Mixed Materials [31142063141827]" type="Box">6</container>
+            <container id="aspace_3335295041ea8f60f22c5f9c1e0b9449" parent="aspace_652635d7e12c5369405f204f0b140f3d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_6006936f6ca8279c3dc44b5900ac677e" level="file">
+          <did>
+            <unittitle>Committee for Economic Development</unittitle>
+            <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+            <container altrender="Record carton" id="aspace_f88c2ac9f73386bd0b6117e9426a8cbe" label="Mixed Materials [31142063141827]" type="Box">6</container>
+            <container id="aspace_fa45e1b08d992466f895eee2bfd504bc" parent="aspace_f88c2ac9f73386bd0b6117e9426a8cbe" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_5e21ec0d64e13af52e37a55e6833e665" level="file">
+          <did>
+            <unittitle>Cotler, Irwin</unittitle>
+            <unitdate datechar="creation" normal="2002/2010" type="inclusive">2002-2010</unitdate>
+            <container altrender="Record carton" id="aspace_7a4a7fc78986709a404bfa5d3c5b7174" label="Mixed Materials [31142063141827]" type="Box">6</container>
+            <container id="aspace_e8f77338e97a1586d6114b6717a61a92" parent="aspace_7a4a7fc78986709a404bfa5d3c5b7174" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_9b74a72aa5b337866cc10ee3f472a974" level="file">
+          <did>
+            <unittitle>Demers, Michele</unittitle>
+            <unitdate datechar="creation" normal="2003/2005" type="inclusive">2003-2005</unitdate>
+            <container altrender="Record carton" id="aspace_2d78cef595eaebb7a16986d879b80f9d" label="Mixed Materials [31142063141827]" type="Box">6</container>
+            <container id="aspace_2a01c0059561cff8b5715ae02a1b737c" parent="aspace_2d78cef595eaebb7a16986d879b80f9d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_5b3bf344d14f096ff5ea7808059c8352" level="file">
+          <did>
+            <unittitle>Equality Now</unittitle>
+            <unitdate datechar="creation" normal="2005/2009" type="inclusive">2005-2009</unitdate>
+            <container altrender="Record carton" id="aspace_1fe026177721e93656e31c054821e772" label="Mixed Materials [31142063141827]" type="Box">6</container>
+            <container id="aspace_1a85032c438fde7a82798e5be1e9dfe2" parent="aspace_1fe026177721e93656e31c054821e772" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_3782433457102af54ffe4a2b4843f776" level="file">
+          <did>
+            <unittitle>Fuller, Bonnie</unittitle>
+            <unitdate datechar="creation" normal="2001/2003" type="inclusive">2001-2003</unitdate>
+            <container altrender="Record carton" id="aspace_fa56c384aa68fe22b6dce852d116a7ca" label="Mixed Materials [31142063141827]" type="Box">6</container>
+            <container id="aspace_d2c542ce898c6d6d9389842b32ff09ae" parent="aspace_fa56c384aa68fe22b6dce852d116a7ca" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_8e11ee94a7378b1723907f737779c676" level="file">
+          <did>
+            <unittitle>Gold, Dore</unittitle>
+            <unitdate datechar="creation" normal="2009/2014" type="inclusive">2009-2014</unitdate>
+            <container altrender="Record carton" id="aspace_348d0dc63705f13a87b1e8c2f591af19" label="Mixed Materials [31142063141827]" type="Box">6</container>
+            <container id="aspace_3ab7dd9818bebe162c42a34dcc0f8160" parent="aspace_348d0dc63705f13a87b1e8c2f591af19" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ca13205a56fba50d3ab49096205e0b23" level="file">
+          <did>
+            <unittitle>Gregorian, Vartan</unittitle>
+            <unitdate datechar="creation" normal="2001/2004" type="inclusive">2001-2004</unitdate>
+            <container altrender="Record carton" id="aspace_e3f636210a54cc4246f6f1505620e20a" label="Mixed Materials [31142063141827]" type="Box">6</container>
+            <container id="aspace_3654af4a5092b1d56082d14fd4c5a1f5" parent="aspace_e3f636210a54cc4246f6f1505620e20a" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_2f9d4fdf6224d0ceec256fa64181ca0f" level="file">
+          <did>
+            <unittitle>Haitian Education &amp; Leadership Program</unittitle>
+            <unitdate datechar="creation" normal="2003/2010" type="inclusive">2003-2010</unitdate>
+            <container altrender="Record carton" id="aspace_7bb4c4ee295f18711cfde2525bccc9b0" label="Mixed Materials [31142063141827]" type="Box">6</container>
+            <container id="aspace_915a05f1eefadb6340fb340ce455f216" parent="aspace_7bb4c4ee295f18711cfde2525bccc9b0" type="Folder">10-12</container>
+          </did>
+        </c>
+        <c id="aspace_240a24d366113c314b825d6e0483205b" level="file">
+          <did>
+            <unittitle>Havel, Václav</unittitle>
+            <unitdate datechar="creation" normal="2002/2002">2002</unitdate>
+            <container altrender="Record carton" id="aspace_bafc2f3df206903862c27bbe8d3e37a7" label="Mixed Materials [31142063141827]" type="Box">6</container>
+            <container id="aspace_f61a92cd8418690abf60fa8dcc78aae4" parent="aspace_bafc2f3df206903862c27bbe8d3e37a7" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_d1a641dbf52a0defbef6c81f1bb69a31" level="file">
+          <did>
+            <unittitle>Hellman-Hammet grants</unittitle>
+            <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+            <container altrender="Record carton" id="aspace_50ce12f81aecfd2b4149cf818854a1ca" label="Mixed Materials [31142063141827]" type="Box">6</container>
+            <container id="aspace_5a822e26f3c7093cdf9437de3ddf8204" parent="aspace_50ce12f81aecfd2b4149cf818854a1ca" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_0ca5b378ffd3cbc4d4d75ac7fa405020" level="file">
+          <did>
+            <unittitle>Hom, Sharon</unittitle>
+            <unitdate datechar="creation" normal="2005/2009" type="inclusive">2005-2009</unitdate>
+            <container altrender="Record carton" id="aspace_fb07a9f36d89870eb3382808b8d7337e" label="Mixed Materials [31142063141827]" type="Box">6</container>
+            <container id="aspace_a2c28b7276296c46618f01f85cd7a550" parent="aspace_fb07a9f36d89870eb3382808b8d7337e" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_810158fd0224d388f6a59f8c9caf5956" level="file">
+          <did>
+            <unittitle>Human Rights First</unittitle>
+            <unitdate datechar="creation" normal="2002/2007" type="inclusive">2002-2007</unitdate>
+            <container altrender="Record carton" id="aspace_c9b2bec7b89f85e418463986ddfaf276" label="Mixed Materials [31142063141827]" type="Box">6</container>
+            <container id="aspace_5e4999bdefbac97d0d54eaf798c9e932" parent="aspace_c9b2bec7b89f85e418463986ddfaf276" type="Folder">16-19</container>
+          </did>
+        </c>
+        <c id="aspace_1cc081711fb9191efdf078471840fac6" level="file">
+          <did>
+            <unittitle>Human Rights in China</unittitle>
+            <unitdate datechar="creation" normal="1995/2013" type="inclusive">1995-2013</unitdate>
+            <container altrender="Record carton" id="aspace_f31fbba26a0eb3069cb912fc8fd62394" label="Mixed Materials [31142063141827]" type="Box">6</container>
+            <container id="aspace_aa3dde0a5c31de847aad8e6094388b48" parent="aspace_f31fbba26a0eb3069cb912fc8fd62394" type="Folder">20-34</container>
+            <container altrender="Record carton" id="aspace_cee9da1b2f0db079beb7c824bb395f2d" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_559e3f3dc649566f2926c2b23d2273e7" parent="aspace_cee9da1b2f0db079beb7c824bb395f2d" type="Folder">1-7</container>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_4c174e193f315991530952d5bf3e12fc" label="Audio [31142063141900]" type="Box">14</container>
+            <container id="aspace_2ff146dc0094d5a1ea43ba123868cc46" parent="aspace_4c174e193f315991530952d5bf3e12fc" type="CD">1-6</container>
+          </did>
+        </c>
+        <c id="aspace_86975dfc790574554a33dbd9e09bb15f" level="file">
+          <did>
+            <unittitle>Interdisciplinary Center Herzliya</unittitle>
+            <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+            <container altrender="Record carton" id="aspace_429ba93afdb441bcf633fced0d4e22ac" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_6378d61d01b103bdc829a2b836ffdaa5" parent="aspace_429ba93afdb441bcf633fced0d4e22ac" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_c65cf42430c118e7b0172e47ca287f19" level="file">
+          <did>
+            <unittitle>International Center for Transitional Justice</unittitle>
+            <unitdate datechar="creation" normal="2003/2004" type="inclusive">2003-2004</unitdate>
+            <container altrender="Record carton" id="aspace_2f6a0c511ce862abb848d231bd6fbfbc" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_aa4d6c06591d5fd9f91614a73a28fcaf" parent="aspace_2f6a0c511ce862abb848d231bd6fbfbc" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_37c2b1e7cf97b8e6c89ca4acd1a40a43" level="file">
+          <did>
+            <unittitle>Julius, Anthony</unittitle>
+            <unitdate datechar="creation" normal="2011/2011">2011</unitdate>
+            <container altrender="Record carton" id="aspace_665dc2cee102ec9ba4b26cd0f5d8a8c3" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_738122ab5a833cf6a42a4a6fc947516d" parent="aspace_665dc2cee102ec9ba4b26cd0f5d8a8c3" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_c948bbc045651c42c35b6613d741e912" level="file">
+          <did>
+            <unittitle>Kemp, Bruce</unittitle>
+            <unitdate datechar="creation" normal="2009/2011" type="inclusive">2009-2011</unitdate>
+            <container altrender="Record carton" id="aspace_e28bf1dcf3563908c0f19e4eb196d8b2" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_1dfa4f6ef5fca85c1610675b0bc4c549" parent="aspace_e28bf1dcf3563908c0f19e4eb196d8b2" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ce27266ce835d8cec00852060edf39d4" level="file">
+          <did>
+            <unittitle>Kemp, Richard</unittitle>
+            <unitdate datechar="creation" normal="2014/2014">2014</unitdate>
+            <container altrender="Record carton" id="aspace_1d1d7f4103725e8304454b43d0deb40b" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_5a24fb599a2549e14642587a09a297ad" parent="aspace_1d1d7f4103725e8304454b43d0deb40b" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_6118c77c1d207785c9feddb366cd3b0d" level="file">
+          <did>
+            <unittitle>Kind, Friederike</unittitle>
+            <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+            <container altrender="Record carton" id="aspace_be9ee82910898583268f802e12a0b514" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_877a37828d16237f257682efaf8dbe06" parent="aspace_be9ee82910898583268f802e12a0b514" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_227a4f11f6cbcfe14ffecf73e25f89d7" level="file">
+          <did>
+            <unittitle>Legal Services for Children</unittitle>
+            <unitdate datechar="creation" normal="1998/2006" type="inclusive">1998-2006</unitdate>
+            <container altrender="Record carton" id="aspace_e126c174b2c212ec4d7a997f3fb78ea8" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_b2a0867c7620e1081510b982daf0a0b0" parent="aspace_e126c174b2c212ec4d7a997f3fb78ea8" type="Folder">14-19</container>
+          </did>
+        </c>
+        <c id="aspace_318f0871c844d96c1e33262110f04213" level="file">
+          <did>
+            <unittitle>Lewis, Bernard</unittitle>
+            <unitdate datechar="creation" normal="2002/2002">2002</unitdate>
+            <container altrender="Record carton" id="aspace_71a21452ae341d22ce5a11f154bb0460" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_751c10096f9cc870e8e089de880ddb11" parent="aspace_71a21452ae341d22ce5a11f154bb0460" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ce7e35297815c9ef66e860d08c721aa4" level="file">
+          <did>
+            <unittitle>MacArthur Foundation</unittitle>
+            <unitdate datechar="creation" normal="2007/2007">2007</unitdate>
+            <container altrender="Record carton" id="aspace_ebe968d73d0c97d023514e9ce0fd8c75" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_43650f220f1203e6d2eb87136ee6f644" parent="aspace_ebe968d73d0c97d023514e9ce0fd8c75" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_b0937228b555008f836d5aba656f9ad7" level="file">
+          <did>
+            <unittitle>Moreno-Ocampo, Luis</unittitle>
+            <unitdate datechar="creation" normal="2003/2005" type="inclusive">2003-2005</unitdate>
+            <container altrender="Record carton" id="aspace_62cd709f8ffdd23761bbe8406f8c5c2c" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_69c4939ca39c8c9e6b2619b1a9f818a8" parent="aspace_62cd709f8ffdd23761bbe8406f8c5c2c" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_293ec4a34886e3fe6f4280b8f5b4dab4" level="file">
+          <did>
+            <unittitle>The New Press</unittitle>
+            <unitdate datechar="creation" normal="2003/2005" type="inclusive">2003-2005</unitdate>
+            <container altrender="Record carton" id="aspace_6192f68a02f3b727d2d582f3daafe4c7" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_5728122c9d26d0f499ddd0aef452a4a2" parent="aspace_6192f68a02f3b727d2d582f3daafe4c7" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_5335ed3dcba5110b3e83f1a4287d4ea6" level="file">
+          <did>
+            <unittitle>News of the Silenced</unittitle>
+            <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+            <container altrender="Record carton" id="aspace_178a3ddb5b53d9269a3f73135369eb07" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_5eced7cdb7008414cd11b8a88ac0c148" parent="aspace_178a3ddb5b53d9269a3f73135369eb07" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_07a91a2e05b848f3334be7c64f7f42a5" level="file">
+          <did>
+            <unittitle>NGO Monitor</unittitle>
+            <unitdate datechar="creation" normal="2011/2013" type="inclusive">2011-2013</unitdate>
+            <container altrender="Record carton" id="aspace_926310b58fa88ac0e9bccfe4bd1ddb86" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_db67e99e275d29584005610e5a3079ca" parent="aspace_926310b58fa88ac0e9bccfe4bd1ddb86" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_1dcbd216ae48ca126cabd1fe8045772b" level="file">
+          <did>
+            <unittitle>Nobel Prize winners</unittitle>
+            <unitdate datechar="creation" normal="2000/2000">2000</unitdate>
+            <container altrender="Record carton" id="aspace_140b7402f59f6e13f8b0ce6eeae15c53" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_04fbd2d5ecbedf70a1498a80f56e105e" parent="aspace_140b7402f59f6e13f8b0ce6eeae15c53" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_5481b2d9262431abd14d816e34bc68a4" level="file">
+          <did>
+            <unittitle>Offit, Morris W.</unittitle>
+            <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+            <container altrender="Record carton" id="aspace_ed351e217c6d367ea0c14c0d93eb6778" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_39ff25dbe0d1249116797de455eff9ca" parent="aspace_ed351e217c6d367ea0c14c0d93eb6778" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_065f88bc6e8818a5fa851a149bec8bc5" level="file">
+          <did>
+            <unittitle>Op-eds</unittitle>
+            <unitdate datechar="creation" normal="1990/2013" type="inclusive">1990-2013</unitdate>
+            <container altrender="Record carton" id="aspace_b14091e3b863e83dad504ee303a157af" label="Mixed Materials [31142063141835]" type="Box">7</container>
+            <container id="aspace_aae1629726cc93a852e909b4d4d591f1" parent="aspace_b14091e3b863e83dad504ee303a157af" type="Folder">28-40</container>
+            <container altrender="Record carton" id="aspace_d2037e7e8037670d04d2d81a5328e2f6" label="Mixed Materials [31142063141843]" type="Box">8</container>
+            <container id="aspace_c184499672f4715e2426c9951e8e5072" parent="aspace_d2037e7e8037670d04d2d81a5328e2f6" type="Folder">1-4</container>
+          </did>
+        </c>
+        <c id="aspace_0368af0a357f862fbf7b8e9c71c5a0a9" level="file">
+          <did>
+            <unittitle>Open Society Institute</unittitle>
+            <unitdate datechar="creation" normal="2003/2005" type="inclusive">2003-2005</unitdate>
+            <container altrender="Record carton" id="aspace_b3ab2dbf68ef009688445df94796e8de" label="Mixed Materials [31142063141843]" type="Box">8</container>
+            <container id="aspace_079813169fa6b82b045dc9565d2897a1" parent="aspace_b3ab2dbf68ef009688445df94796e8de" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_9788f7c3653e51bfc7a898f4c145d8c0" level="file">
+          <did>
+            <unittitle>Ovidiu Foundation</unittitle>
+            <unitdate datechar="creation" normal="2004/2005" type="inclusive">2004-2005</unitdate>
+            <container altrender="Record carton" id="aspace_e612a0733c76cf41731fc962d93d42a3" label="Mixed Materials [31142063141843]" type="Box">8</container>
+            <container id="aspace_9034eee3739f09d397350933ebea9639" parent="aspace_e612a0733c76cf41731fc962d93d42a3" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_38c26d632bc314e97e095187caa881d7" level="file">
+          <did>
+            <unittitle>Palestinian Media Watch</unittitle>
+            <unitdate datechar="creation" normal="2007/2007">2007</unitdate>
+            <container altrender="Record carton" id="aspace_acedcf57acf0c94acea77bf335a5f123" label="Mixed Materials [31142063141843]" type="Box">8</container>
+            <container id="aspace_9f11ca45532ede94d9290ce4ec877a55" parent="aspace_acedcf57acf0c94acea77bf335a5f123" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_2099916eb87eda852c56ef62bf15ff50" level="file">
+          <did>
+            <unittitle>Partnership for Children's Rights</unittitle>
+            <unitdate datechar="creation" normal="2006/2010" type="inclusive">2006-2010</unitdate>
+            <container altrender="Record carton" id="aspace_69bbacb873158a9c57ce65a862a76a85" label="Mixed Materials [31142063141843]" type="Box">8</container>
+            <container id="aspace_6dcb0a2d87abe334ea10e1119141cff2" parent="aspace_69bbacb873158a9c57ce65a862a76a85" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_5b0e13461a56a4f1b4851719325c5d79" level="file">
+          <did>
+            <unittitle>Pincher, Chapman</unittitle>
+            <unitdate datechar="creation" normal="2004/2005" type="inclusive">2004-2005</unitdate>
+            <container altrender="Record carton" id="aspace_db0f2be5a6261052f951b426ebb9e765" label="Mixed Materials [31142063141843]" type="Box">8</container>
+            <container id="aspace_3246409b82806fc32ebe1269ae2981cf" parent="aspace_db0f2be5a6261052f951b426ebb9e765" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_c5ad0750a0e499bc04786c00c3bee64c" level="file">
+          <did>
+            <unittitle>The Pollock-Krasner Foundation</unittitle>
+            <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+            <container altrender="Record carton" id="aspace_2787ca6f3cab5469231ba764b245dbcc" label="Mixed Materials [31142063141843]" type="Box">8</container>
+            <container id="aspace_768703d02cc66ab3cb13887c5988c788" parent="aspace_2787ca6f3cab5469231ba764b245dbcc" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_aed5dba560c661a0ac888d6439fdf609" level="file">
+          <did>
+            <unittitle>Prague Conference on Human Rights</unittitle>
+            <unitdate datechar="creation" normal="2004/2006" type="inclusive">2004-2006</unitdate>
+            <container altrender="Record carton" id="aspace_ad2be4b30b15810ab231611182423202" label="Mixed Materials [31142063141843]" type="Box">8</container>
+            <container id="aspace_50f42454dbaa682b7bcf2c42fd0380b2" parent="aspace_ad2be4b30b15810ab231611182423202" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_71cc37abfd2d2e708fddeaa3cb4261d9" level="file">
+          <did>
+            <unittitle>Presidential Medal of Freedom</unittitle>
+            <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+            <container altrender="Record carton" id="aspace_d9ebd6fb10d395a1e10bf21dd90a1a39" label="Mixed Materials [31142063141843]" type="Box">8</container>
+            <container id="aspace_3a3ea242ca53b587ab5a60d89f140845" parent="aspace_d9ebd6fb10d395a1e10bf21dd90a1a39" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_4a4633feb807036bfedcc5829d419211" level="file">
+          <did>
+            <unittitle>Refugees</unittitle>
+            <unitdate datechar="creation" normal="2006/2010" type="inclusive">2006-2010</unitdate>
+            <container altrender="Record carton" id="aspace_6165e1976a52a80df77d4d58e48f2430" label="Mixed Materials [31142063141843]" type="Box">8</container>
+            <container id="aspace_ddbeae31de44d183913fe29807809668" parent="aspace_6165e1976a52a80df77d4d58e48f2430" type="Folder">13-14</container>
+          </did>
+        </c>
+        <c id="aspace_6f7a472e98fefd057c77ff228b5e888c" level="file">
+          <did>
+            <unittitle>Sakharov, Andrei Dmitrivich and Elena Bonner</unittitle>
+            <unitdate datechar="creation" normal="1986/1986">1986</unitdate>
+            <container altrender="Record carton" id="aspace_108103afd26241e0a7aaf2da543a48f0" label="Mixed Materials [31142063141843]" type="Box">8</container>
+            <container id="aspace_d67f685aeddc038eb6469bbcdcee42bf" parent="aspace_108103afd26241e0a7aaf2da543a48f0" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_1a1a7f478fa576cbc06cad8e5a60e6e8" level="file">
+          <did>
+            <unittitle>Schiffrin, Andre</unittitle>
+            <unitdate datechar="creation" normal="2000/2002" type="inclusive">2000-2002</unitdate>
+            <container altrender="Record carton" id="aspace_2f1764d08b06d00ad04627dd9f2b1963" label="Mixed Materials [31142063141843]" type="Box">8</container>
+            <container id="aspace_23d2a16d5cc9b5172a1332a525688bff" parent="aspace_2f1764d08b06d00ad04627dd9f2b1963" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_2fe5b66ea8536855738f2ea5bb09e0f5" level="file">
+          <did>
+            <unittitle>Settlements</unittitle>
+            <unitdate datechar="creation" normal="2011/2011">2011</unitdate>
+            <container altrender="Record carton" id="aspace_ea118ba9e625518687b940dbbc86b81b" label="Mixed Materials [31142063141843]" type="Box">8</container>
+            <container id="aspace_3d50cadbfda4ffb18017fea090bbe52c" parent="aspace_ea118ba9e625518687b940dbbc86b81b" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_abb855feddd5c0e533f641ac0296bdba" level="file">
+          <did>
+            <unittitle>Sharansky, Natan</unittitle>
+            <unitdate datechar="creation" normal="2004/2011" type="inclusive">2004-2011</unitdate>
+            <container altrender="Record carton" id="aspace_9e99b2242039621e1fd0bdfb08429529" label="Mixed Materials [31142063141843]" type="Box">8</container>
+            <container id="aspace_73296aab713b94941abd1cc38c4ab415" parent="aspace_9e99b2242039621e1fd0bdfb08429529" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_2d07ed9c616690f9cb238c0da721b44d" level="file">
+          <did>
+            <unittitle>Sigrid Rausing Trust</unittitle>
+            <unitdate datechar="creation" normal="2001/2006" type="inclusive">2001-2006</unitdate>
+            <container altrender="Record carton" id="aspace_b8f3abc8abaeadb00b164f678dfd205b" label="Mixed Materials [31142063141843]" type="Box">8</container>
+            <container id="aspace_cd830360c929f284df64b632d4257b2e" parent="aspace_b8f3abc8abaeadb00b164f678dfd205b" type="Folder">19-34</container>
+            <container altrender="Record carton" id="aspace_32ac650a5e93c93ca48d02b9d36bcf1e" label="Mixed Materials [31142063141850]" type="Box">9</container>
+            <container id="aspace_a214578db7bd7a93cc1acc1f8c294f2b" parent="aspace_32ac650a5e93c93ca48d02b9d36bcf1e" type="Folder">1-8</container>
+          </did>
+        </c>
+        <c id="aspace_7c94b64076642e968c849872c5fcd20c" level="file">
+          <did>
+            <unittitle>Sinsheimer, Warren</unittitle>
+            <unitdate datechar="creation" normal="2001/2006" type="inclusive">2001-2006</unitdate>
+            <container altrender="Record carton" id="aspace_4d934f4fb78ddb146bc2f289f97097a1" label="Mixed Materials [31142063141850]" type="Box">9</container>
+            <container id="aspace_c3930f2357802b431bc2ea33ac875544" parent="aspace_4d934f4fb78ddb146bc2f289f97097a1" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ac4cb5a7c5548ff55513c6d2865ab1a0" level="file">
+          <did>
+            <unittitle>Snepp, Frank W.</unittitle>
+            <unitdate datechar="creation" normal="1980/1980">1980</unitdate>
+            <container altrender="Record carton" id="aspace_3ecdcae6d59ef89ac034a5de6740e9c2" label="Mixed Materials [31142063141850]" type="Box">9</container>
+            <container id="aspace_fc933a597d35d1c2c6794cc888560323" parent="aspace_3ecdcae6d59ef89ac034a5de6740e9c2" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_723685c76896f029106a5f2657f1f0aa" level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+            <unitdate datechar="creation" normal="1986/2011" type="inclusive">1986-2011</unitdate>
+            <container altrender="Record carton" id="aspace_a02cebd082ee2271db3371910038607a" label="Mixed Materials [31142063141850]" type="Box">9</container>
+            <container id="aspace_11bd27c536ccb491926ec3d1e32f1850" parent="aspace_a02cebd082ee2271db3371910038607a" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_c80a97a23a031d1e96cb640e99c39190" level="file">
+          <did>
+            <unittitle>Steiner, Nancy</unittitle>
+            <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+            <container altrender="Record carton" id="aspace_2dbbb9a35c2db748dcbd30683a2b964a" label="Mixed Materials [31142063141850]" type="Box">9</container>
+            <container id="aspace_103d16f29155a4042d682f026c2bd28b" parent="aspace_2dbbb9a35c2db748dcbd30683a2b964a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_83687210129cafd9285f5b89c3ccb28c" level="file">
+          <did>
+            <unittitle>Tougaloo College</unittitle>
+            <unitdate datechar="creation" normal="2000/2000">2000</unitdate>
+            <container altrender="Record carton" id="aspace_5d9b52d4722654c187708393ef55f604" label="Mixed Materials [31142063141850]" type="Box">9</container>
+            <container id="aspace_247c2306832b33ea7a9b664a5b7742f2" parent="aspace_5d9b52d4722654c187708393ef55f604" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_4c0007d9c48ddda0f7e58568fc7faf5a" level="file">
+          <did>
+            <unittitle>UN Watch</unittitle>
+            <unitdate datechar="creation" normal="2012/2012">2012</unitdate>
+            <container altrender="Record carton" id="aspace_191e522267050b22c7217fb8f62e8169" label="Mixed Materials [31142063141850]" type="Box">9</container>
+            <container id="aspace_89673e129699d32fde683e1a2174516f" parent="aspace_191e522267050b22c7217fb8f62e8169" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_d55c27722f0fab58a4e97832492a4eb1" level="file">
+          <did>
+            <unittitle>United States Holocaust Memorial Museum</unittitle>
+            <unitdate datechar="creation" normal="2003/2010" type="inclusive">2003-2010</unitdate>
+            <container altrender="Record carton" id="aspace_09581f3c8aef05ccb90dd3d70f0024cf" label="Mixed Materials [31142063141850]" type="Box">9</container>
+            <container id="aspace_c92d4856d3c312d60e526d8a87ab58e4" parent="aspace_09581f3c8aef05ccb90dd3d70f0024cf" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_470567a47945e037fabc1c2e21e71b63" level="file">
+          <did>
+            <unittitle>Various correspondence</unittitle>
+            <unitdate datechar="creation" normal="2001/2005" type="inclusive">2001-2005</unitdate>
+            <container altrender="Record carton" id="aspace_f2ddd2e9fcca50ca83c998d14d191b68" label="Mixed Materials [31142063141850]" type="Box">9</container>
+            <container id="aspace_e700bd888c88eec93af0555caa5233a1" parent="aspace_f2ddd2e9fcca50ca83c998d14d191b68" type="Folder">16-18</container>
+          </did>
+        </c>
+        <c id="aspace_625b120a9ef0a0051eeb6a9ddc51531a" level="file">
+          <did>
+            <unittitle>Wang, Dan</unittitle>
+            <unitdate datechar="creation" normal="1999/1999">1999</unitdate>
+            <container altrender="Record carton" id="aspace_1938b984c7aa7bae82a1717c44c73227" label="Mixed Materials [31142063141850]" type="Box">9</container>
+            <container id="aspace_2568a0c63b110f1d7152944da6090a9b" parent="aspace_1938b984c7aa7bae82a1717c44c73227" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_95a89ca23bcd4391057d4488aadf1a9c" level="file">
+          <did>
+            <unittitle>Wei, Jingsheng</unittitle>
+            <unitdate datechar="creation" normal="1994/2005" type="inclusive">1994-2005</unitdate>
+            <container altrender="Record carton" id="aspace_814066fc4d73c25b69ed91c7b4d6451a" label="Mixed Materials [31142063141850]" type="Box">9</container>
+            <container id="aspace_8bcde302065d1942d603d3625692c8e6" parent="aspace_814066fc4d73c25b69ed91c7b4d6451a" type="Folder">20-29</container>
+            <container altrender="Record carton" id="aspace_5b98c79530e5b55c3a094fd7f8652ca6" label="Mixed Materials [31142063141868]" type="Box">10</container>
+            <container id="aspace_f4c9a65a4718dffa6b7d3dbb2443e49f" parent="aspace_5b98c79530e5b55c3a094fd7f8652ca6" type="Folder">1-4</container>
+          </did>
+        </c>
+        <c id="aspace_4f431e8cb67677e06121dcf4c7812d63" level="file">
+          <did>
+            <unittitle>Women for Women International</unittitle>
+            <unitdate datechar="creation" normal="2004/2004">2004</unitdate>
+            <container altrender="Record carton" id="aspace_e998a00ba2423dd225192d127709c02c" label="Mixed Materials [31142063141868]" type="Box">10</container>
+            <container id="aspace_c20c5bb3649aeb24888aa2168d8c9b17" parent="aspace_e998a00ba2423dd225192d127709c02c" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_0b9d1d45eb5bd7822cf395ab6a1ae8b2" level="file">
+          <did>
+            <unittitle>Workman Publishing</unittitle>
+            <unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate>
+            <container altrender="Record carton" id="aspace_64276a09febaaf8beb1c80b9bbfd94c2" label="Mixed Materials [31142063141868]" type="Box">10</container>
+            <container id="aspace_cc40262b191e7d3e904f466d5787e7ae" parent="aspace_64276a09febaaf8beb1c80b9bbfd94c2" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_eb1178e9ebefdf910d439bc9353116ed" level="file">
+          <did>
+            <unittitle>World Education</unittitle>
+            <unitdate datechar="creation" normal="2004/2005" type="inclusive">2004-2005</unitdate>
+            <container altrender="Record carton" id="aspace_4f0c5c00d24dac70637d42294aa61690" label="Mixed Materials [31142063141868]" type="Box">10</container>
+            <container id="aspace_22e4782c600639b5c6ab7aabf292f3a6" parent="aspace_4f0c5c00d24dac70637d42294aa61690" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_0c63d9e7e11f1899d92efafc5e3769ce" level="file">
+          <did>
+            <unittitle>World Press Freedom Committee</unittitle>
+            <unitdate datechar="creation" normal="2003/2004" type="inclusive">2003-2004</unitdate>
+            <container altrender="Record carton" id="aspace_6a108f4e1b28e9816a0714425701a16d" label="Mixed Materials [31142063141868]" type="Box">10</container>
+            <container id="aspace_23fdd3fc503abe7ff37901c16c9dc1ab" parent="aspace_6a108f4e1b28e9816a0714425701a16d" type="Folder">8-9</container>
+          </did>
+        </c>
+        <c id="aspace_70154ca8c453270f05abae3238764daf" level="file">
+          <did>
+            <unittitle>Wu, Harry</unittitle>
+            <unitdate datechar="creation" normal="2000/2004" type="inclusive">2000-2004</unitdate>
+            <container altrender="Record carton" id="aspace_d1c8a3d9cc2d4d7d4871ba2becb315af" label="Mixed Materials [31142063141868]" type="Box">10</container>
+            <container id="aspace_41026cd5a112d5a120a415e28fdfc832" parent="aspace_d1c8a3d9cc2d4d7d4871ba2becb315af" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_f7b54ed9c44f40d3d238581ddafe1301" level="file">
+          <did>
+            <unittitle>Xu, Jin</unittitle>
+            <unitdate datechar="creation" normal="1999/2001" type="inclusive">1999-2001</unitdate>
+            <container altrender="Record carton" id="aspace_9647c505a1f2a5edaf3492388c1604d3" label="Mixed Materials [31142063141868]" type="Box">10</container>
+            <container id="aspace_b0ab5999a2964bf512fe89a1e9b55447" parent="aspace_9647c505a1f2a5edaf3492388c1604d3" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_f8d2a468531cde1f3d69b373b56715bb" level="file">
+          <did>
+            <unittitle>Xu, Wenli</unittitle>
+            <unitdate datechar="creation" normal="1993/2009" type="inclusive">1993-2009</unitdate>
+            <container altrender="Record carton" id="aspace_0abe6eed0db094ce546c5623519e1abe" label="Mixed Materials [31142063141868]" type="Box">10</container>
+            <container id="aspace_879dce274fb470e9f628666f49cacc85" parent="aspace_0abe6eed0db094ce546c5623519e1abe" type="Folder">12-23</container>
+            <container id="aspace_6010da7f1e1ed62c3567a3da7b7414f2" label="electronic records" type="E-records">Electronic records</container>
+            <container id="aspace_e51a3cd9b5333e14e3d04113d328a053" parent="aspace_6010da7f1e1ed62c3567a3da7b7414f2" type="object">TA_WAM_726_2</container>
+            <dao xlink:actuate="onRequest" xlink:href="TW_TAM_726_2" xlink:show="new" xlink:title="&lt;emph render=&quot;italic&quot;&gt;The Red Rising:  Evidence of the Chinese Communist Party in the World in 2004-2008&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p><emph render="italic">The Red Rising:  Evidence of the Chinese Communist Party in the World in 2004-2008</emph>: 2008-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_3658e972d99f594c58cec623e36fc246" level="file">
+          <did>
+            <unittitle>Yemini, Ben Dror</unittitle>
+            <unitdate datechar="creation" normal="2006/2006">2006</unitdate>
+            <container altrender="Record carton" id="aspace_3ae38b173c4a16c51add89715ecf6507" label="Mixed Materials [31142063141868]" type="Box">10</container>
+            <container id="aspace_2f88a9c306724251da0a638a6e886298" parent="aspace_3ae38b173c4a16c51add89715ecf6507" type="Folder">24</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_cdb5578493765531727aa411ac1125ea" level="series">
+        <did>
+          <unittitle>Series IV.  Biographical Material</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+            <extent altrender="carrier">in two record cartons and one oversize flat box</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1956/2016" type="inclusive">1956-2016</unitdate>
+          <unitdate datechar="creation" normal="1994/2007" type="bulk">1994-2007</unitdate>
+        </did>
+        <scopecontent id="aspace_d2b60e2d4665a3805bdd00dcbe20172f">
+          <head>Scope and Contents</head>
+          <p>This series contains materials collected by Bernstein throughout his career and while writing his autobiography, <emph render="italic">Speaking Freely: My Life in Publishing and Human Rights</emph>.  Material in this series dates between 1956 and 2016, with the bulk between 1994 and 2007.  Material includes clippings about Bernstein regarding his work in publishing and human rights, correspondence, notes and drafts of op-eds written by Bernstein, drafts and reviews of <emph render="italic">Speaking Freely</emph>, speeches given by and about Bernstein, and awards conferred upon Bernstein.  There is some duplication of material that can be found in Series I, II, and III.  This series contains biographies of Bernstein for organizational publications and event programs, different versions of Bernstein's curriculum vitae, and scrapbooks compiled by Bernstein.  The scrapbooks document Bernstein's career in publishing and human rights, and include compilations of material listed above, including clippings, speeches, and awards.</p>
+        </scopecontent>
+        <arrangement id="aspace_8bd980a416e3ff7a42db11e889e1223c">
+          <head>Arrangement</head>
+          <p>This series is arranged in alphabetical order by name, topic, or format.</p>
+        </arrangement>
+        <c id="aspace_367ae8cebfe4dc300d09b6a290b47ef2" level="file">
+          <did>
+            <unittitle>Awards and speeches</unittitle>
+            <unitdate datechar="creation" normal="1976/2003" type="inclusive">1976-2003</unitdate>
+            <container altrender="Record carton" id="aspace_62c028ce7ba740939e7698727986bc1d" label="Mixed Materials [31142063141868]" type="Box">10</container>
+            <container id="aspace_efdebf9a5d6d96af56e4313c3170b9bb" parent="aspace_62c028ce7ba740939e7698727986bc1d" type="Folder">25-31</container>
+          </did>
+        </c>
+        <c id="aspace_9f6134f6c6c910e72425771ca2461c34" level="file">
+          <did>
+            <unittitle>Biographies</unittitle>
+            <unitdate datechar="creation" normal="1976/2001" type="inclusive">1976-2001</unitdate>
+            <container altrender="Record carton" id="aspace_3e59e834903c1d203c357a493e3232b5" label="Mixed Materials [31142063141868]" type="Box">10</container>
+            <container id="aspace_3c305381436e368712c90d6c7c7c3dd3" parent="aspace_3e59e834903c1d203c357a493e3232b5" type="Folder">32-33</container>
+          </did>
+        </c>
+        <c id="aspace_f1298fd46e90f5d7160bef20d0ae1df7" level="file">
+          <did>
+            <unittitle>Bonner, Elena</unittitle>
+            <unitdate datechar="creation" normal="2011/2011">2011</unitdate>
+            <container altrender="Record carton" id="aspace_3f77e438fdf310fc6378a9a2c89ff95d" label="Mixed Materials [31142063141868]" type="Box">10</container>
+            <container id="aspace_414e5d4875850547e9fb16fdbd864700" parent="aspace_3f77e438fdf310fc6378a9a2c89ff95d" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_609a280658bda21657dabbaa46fe4b9e" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate datechar="creation" normal="1962/2007" type="inclusive">1962-2007</unitdate>
+            <container altrender="Record carton" id="aspace_dbec2c380ca64d50bb9f62a62f331e08" label="Mixed Materials [31142063141868]" type="Box">10</container>
+            <container id="aspace_6a935c0ea4e467d8aa7a043994644020" parent="aspace_dbec2c380ca64d50bb9f62a62f331e08" type="Folder">35</container>
+            <container altrender="Record carton" id="aspace_480f0e4f7a763b53db945935be187b07" label="Mixed Materials [31142063141876]" type="Box">11</container>
+            <container id="aspace_34d691435fe8d84f7465274de97b2bfb" parent="aspace_480f0e4f7a763b53db945935be187b07" type="Folder">1-10</container>
+            <container altrender="Flat OS Box 17" id="aspace_a4b70a8597d4850f72410906f465ee55" label="Mixed Materials [31142063141892]" type="Box">13</container>
+            <container id="aspace_635eb13e58862fc250a98b21233d4751" parent="aspace_a4b70a8597d4850f72410906f465ee55" type="Folder">1-4</container>
+          </did>
+        </c>
+        <c id="aspace_7943c8a6d93f2bc69fa9f793aa8a02b1" level="file">
+          <did>
+            <unittitle>Colbert, Claudette</unittitle>
+            <unitdate datechar="creation" normal="1973/1996" type="inclusive">1973-1996</unitdate>
+            <container altrender="Record carton" id="aspace_be853ec5003ac256ad3eba6d8b532cd0" label="Mixed Materials [31142063141876]" type="Box">11</container>
+            <container id="aspace_9d5f9bd8724c950f44a4e8cf1fe27d5e" parent="aspace_be853ec5003ac256ad3eba6d8b532cd0" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_118db5f0dad58f7dbb7a76492da6283d" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1956/2013" type="inclusive">1956-2013</unitdate>
+            <container altrender="Record carton" id="aspace_f6477fd46bf51a8045ce4de7055e0870" label="Mixed Materials [31142063141876]" type="Box">11</container>
+            <container id="aspace_53e09a293e8bdec9ef66ff32d64ec856" parent="aspace_f6477fd46bf51a8045ce4de7055e0870" type="Folder">12-19</container>
+          </did>
+        </c>
+        <c id="aspace_800f52132e3929ac2d9148f9e0964858" level="file">
+          <did>
+            <unittitle>Curricula vitae</unittitle>
+            <unitdate datechar="creation" normal="1989/1998" type="inclusive">1989-1998</unitdate>
+            <container altrender="Record carton" id="aspace_e065e5d0aac90d85656cd39a85547327" label="Mixed Materials [31142063141876]" type="Box">11</container>
+            <container id="aspace_525d1b5f1346e802fde2b604c0af09a9" parent="aspace_e065e5d0aac90d85656cd39a85547327" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_416364ce38332439b49de14aa7720d98" level="file">
+          <did>
+            <unittitle>Everett, Edith</unittitle>
+            <unitdate datechar="creation" normal="2008/2008">2008</unitdate>
+            <container altrender="Record carton" id="aspace_a2224a0e1249003837a34cb009b319d4" label="Mixed Materials [31142063141876]" type="Box">11</container>
+            <container id="aspace_928d72b0c824011b8aa6db9b99947792" parent="aspace_a2224a0e1249003837a34cb009b319d4" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_263f559b04c8c4a3e8161781de77776d" level="file">
+          <did>
+            <unittitle>Interview</unittitle>
+            <unitdate datechar="creation" normal="2005/2005">2005</unitdate>
+            <container altrender="Record carton" id="aspace_d0661d12786cd3be350a6df78a4b16f9" label="Mixed Materials [31142063141876]" type="Box">11</container>
+            <container id="aspace_f923802f5c35891e10770f482a0d8216" parent="aspace_d0661d12786cd3be350a6df78a4b16f9" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_6364138c820e22fb174a914795402198" level="file">
+          <did>
+            <unittitle>Johnson, Anne</unittitle>
+            <unitdate datechar="creation" normal="1993/1993">1993</unitdate>
+            <container altrender="Record carton" id="aspace_48509df7f8d6775430b459ab44d30570" label="Mixed Materials [31142063141876]" type="Box">11</container>
+            <container id="aspace_6a729df6d25788f4a2f1846a97d2bb9a" parent="aspace_48509df7f8d6775430b459ab44d30570" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_cc14dbba220ddce0a702047122cea33e" level="file">
+          <did>
+            <unittitle>Klopfer, Donald S.</unittitle>
+            <unitdate datechar="creation" normal="1987/1987">1987</unitdate>
+            <container altrender="Record carton" id="aspace_347aa495bfa47b959eb394ea8b73c4ac" label="Mixed Materials [31142063141876]" type="Box">11</container>
+            <container id="aspace_d7ca3980efa6c7b473d462d09035af87" parent="aspace_347aa495bfa47b959eb394ea8b73c4ac" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_91f603a58589954147aa52864f50cd29" level="file">
+          <did>
+            <unittitle>Op-eds</unittitle>
+            <unitdate datechar="creation" normal="2008/2012" type="inclusive">2008-2012</unitdate>
+            <container altrender="Record carton" id="aspace_f21b55176d6f312533471844e43182f3" label="Mixed Materials [31142063141876]" type="Box">11</container>
+            <container id="aspace_6d0e67e4b780bee489b550797f29976f" parent="aspace_f21b55176d6f312533471844e43182f3" type="Folder">25-26</container>
+          </did>
+        </c>
+        <c id="aspace_0df9e6f29378f683a59f2aa686f84111" level="file">
+          <did>
+            <unittitle>Photograph</unittitle>
+            <unitdate datechar="creation" normal="1999/1999">1999</unitdate>
+            <container altrender="Record carton" id="aspace_c93e9fec68c0a4c767887caafdf7c314" label="Mixed Materials [31142063141876]" type="Box">11</container>
+            <container id="aspace_4aab54788a75db7b306c0d29b7795c95" parent="aspace_c93e9fec68c0a4c767887caafdf7c314" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_b843d7dc74bf7718bf2b1aefb2c1ea77" level="file">
+          <did>
+            <unittitle>Scrapbooks</unittitle>
+            <unitdate datechar="creation" normal="1950/2003" type="inclusive">1950-2003</unitdate>
+            <container altrender="Record carton" id="aspace_394dbf9af62db371234ab78375654546" label="Mixed Materials [31142063141876]" type="Box">11</container>
+            <container id="aspace_6aa6a325eab6ea3b5758e06249df2f1e" parent="aspace_394dbf9af62db371234ab78375654546" type="Folder">28-34</container>
+          </did>
+        </c>
+        <c id="aspace_c435e564f275d5cd573e8d2beff943d9" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Speaking Freely: My Life in Publishing and Human Rights</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1997/2016" type="inclusive">1997-2016</unitdate>
+            <container altrender="Record carton" id="aspace_83fb684d9f637670ad21380758a8477c" label="Mixed Materials [31142063141876]" type="Box">11</container>
+            <container id="aspace_e1ff3f0fa84ffc8980f3a8f99c2a5351" parent="aspace_83fb684d9f637670ad21380758a8477c" type="Folder">35-42</container>
+            <container altrender="Record carton" id="aspace_d5c77ab9f7c37a73647560013d283bf8" label="Mixed Materials [31142063141884]" type="Box">12</container>
+            <container id="aspace_2488feefc283d15a12dd8ec1e91288a8" parent="aspace_d5c77ab9f7c37a73647560013d283bf8" type="Folder">1-14</container>
+          </did>
+        </c>
+        <c id="aspace_afb576eabf58ed444dbb493e97003858" level="file">
+          <did>
+            <unittitle>Yale Law inaugural</unittitle>
+            <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+            <container altrender="Record carton" id="aspace_4f1d633ebdc2de9f9ab88b6c9c9adb64" label="Mixed Materials [31142063141884]" type="Box">12</container>
+            <container id="aspace_fc64f3bcc81ddd4c4082f5d67d8753da" parent="aspace_4f1d633ebdc2de9f9ab88b6c9c9adb64" type="Folder">15</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

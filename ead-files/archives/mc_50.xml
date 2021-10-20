@@ -1,0 +1,944 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_50">mc_50</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Henry Heald Speeches <num>MC.50</num></titleproper>
+        <author>Claire Wolford.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 20:54:10 -0400</date>.</creation>
+      <langusage>Finding aid written in English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>November 2018</date>
+        <item>Edited by Jacqueline Rider for compliance with DACS and ACM Required Elements for Archival Description</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Henry Heald Speeches</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Heald, Henry T. (Henry Townley), 1904-1975</persname>
+      </origination>
+      <unitid>MC.50</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+        <extent altrender="carrier">in three half manuscript boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1952/1956" type="inclusive">1952-1956</unitdate>
+      <abstract id="aspace_a01ba7cac2f17335b32dd92f762051e6">The Henry Heald Speeches contain numerous addresses, interviews, and commencement speeches made by Henry T. Heald between 1952 and 1956, while he was Chancellor of New York University.</abstract>
+      <physloc id="aspace_5ad9b3882a6439a81551f2d2a2b3f414">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_baf6032a880ff14e7e261904a956eb20">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_56bf63eb69673e47fd4a4f059a96e7c7">
+      <head>Access Restrictions</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <userestrict id="aspace_a13f2c9bd308602cddfef80c1ce8686c">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the creator are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from the repository. Please contact New York University Archives, (212) 998-2646, university-archives@nyu.edu.</p>
+    </userestrict>
+    <arrangement id="aspace_97f0c8fc7bc7ca3b9f6e57fed727bf25">
+      <head>Arrangment</head>
+      <p>This collection is arranged chronologically.</p>
+    </arrangement>
+    <bioghist id="aspace_3883fc313b276edb79337b2a602ea400">
+      <head>Biographical Note</head>
+      <p>Henry Townley Heald was born on November 8, 1904, in Lincoln, Nebraska. He obtained his bachelor's degree in 1923 from Washington State University and went on to get his master's degree in civil engineering from the University of Illinois. He went on to work at the Illinois Institute of Technology, eventually becoming President in 1938. Following his tenure there he became the Chancellor of New York University in 1950, where he helped strengthen the institution. He was an outspoken proponent for evaluating and restructuring higher education with an outlook toward accessibility for all. In 1956, Heald became President of the Ford Foundation. During his ten years as foundation president, the Ford Foundation gave $1.75 billion towards philanthropic purposes and established programs for the arts, the physical sciences, and engineering. Henry T. Heald died on November 23, 1975 in Winter Park, Florida.</p>
+    </bioghist>
+    <prefercite id="aspace_ecb6b2aea623764db783f339d7b2620a">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date (if known); Henry Heald Speeches; MC 50; box number; folder number; New York University Archives, New York University Libraries.</p>
+    </prefercite>
+    <scopecontent id="aspace_e2be0f5a81f6dc266c88b7a764887a03">
+      <head>Scope and Contents</head>
+      <p>The Henry Heald Speeches contain more than 100 speeches and addresses made by Henry T. Heald between 1952 and 1956, when he was Chancellor at New York University (NYU). Included are addresses on the importance of higher education, the future of NYU, engineering, and the connection between education and freedom.</p>
+    </scopecontent>
+    <processinfo id="aspace_eeba55619113bca45b9f861c3410f8e1">
+      <head>Processing Information</head>
+      <p>Original archival boxes, folders, and folder labels were retained. Folders were renumbered in November 2018 to conform to current arrangement and description standards.</p>
+    </processinfo>
+    <acqinfo id="aspace_30e0299be0ebd7885122d56a5479d536">
+      <head>Immediate Source of Acquisition</head>
+      <p>Provenance is undocumented.</p>
+    </acqinfo>
+    <controlaccess>
+      <subject source="lcsh">Engineering</subject>
+      <subject source="lcsh">Radio addresses, debates, etc.</subject>
+      <genreform source="aat">Speeches.</genreform>
+      <genreform source="aat">Interviews.</genreform>
+      <corpname source="naf">New York University -- Chancellors</corpname>
+      <corpname source="naf">Ford Foundation</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_58f27b2f1d57e7562b6608381cd83204" level="file">
+        <did>
+          <unittitle>Suggestions for the HTH Remarks at Catholic Dedication</unittitle>
+          <unitdate datechar="creation" normal="1952-02-06/1952-02-06">1952-02-06</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_9d01b1ba3a1542b9dfa7bc968cadfac8" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_b2a9e5f344ebf059bc0b402a953dc13f" parent="aspace_9d01b1ba3a1542b9dfa7bc968cadfac8" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_b6992ee5782e8084ed33e0c42e3d884c" level="file">
+        <did>
+          <unittitle>HTH Remarks, 64th Annual Dinner, NYU Law Alumni Assoc., Inc., Waldorf Astoria Grand Ballroom</unittitle>
+          <unitdate datechar="creation" normal="1952-02-19/1952-02-19">1952-02-19</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_5dc37beaa1018b1c5d10bd5fd4241b72" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_651e9c30874dde0af291266b796672be" parent="aspace_5dc37beaa1018b1c5d10bd5fd4241b72" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_7245e9554a64e3965c9e078550324abb" level="file">
+        <did>
+          <unittitle>HTH Remarks, Medical Center Dinner</unittitle>
+          <unitdate datechar="creation" normal="1952-02-28/1952-02-28">1952-02-28</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_389375b9904fb95252b7e48d8a1abac3" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_714390dcea0cf3512c6708db679818dc" parent="aspace_389375b9904fb95252b7e48d8a1abac3" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ccfaf2d3805c754b062e28d19261bc6a" level="file">
+        <did>
+          <unittitle>HTH Address at NYU Alumni Dinner</unittitle>
+          <unitdate datechar="creation" normal="1952-03-27/1952-03-27">1952-03-27</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_2c57285b8cf35d67f7a77f939409d35f" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_512db81a25bb3a472572b49848a1a166" parent="aspace_2c57285b8cf35d67f7a77f939409d35f" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_0bd91622d185afa3066ed6137ff31bf0" level="file">
+        <did>
+          <unittitle>HTH, "Education's Challenge," Speech at Washington Award Dinner, Chicago</unittitle>
+          <unitdate datechar="creation" normal="1952-04-21/1952-04-21">1952-04-21</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_ad8b78b7866570f484554832e7cefdb7" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_514745dcecdceec4121bba71b7647365" parent="aspace_ad8b78b7866570f484554832e7cefdb7" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_52f5a5e9ce46d1a720938977bb914f1e" level="file">
+        <did>
+          <unittitle>HTH Address, American Foundation for Pharmaceutical Education, New York City</unittitle>
+          <unitdate datechar="creation" normal="1952-04-24/1952-04-24">1952-04-24</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_5bdc10833ddf8a23a7b43990a3fb0d53" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_d9a2215c9eaa9685abae79bebe5950e5" parent="aspace_5bdc10833ddf8a23a7b43990a3fb0d53" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_51b0341e77c9ee921f8eaa16de737739" level="file">
+        <did>
+          <unittitle>Address before Educational Alumni Association</unittitle>
+          <unitdate datechar="creation" normal="1952-04-25/1952-04-25">1952-04-25</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_dde5c8837ee5f2031e04982259e41f8e" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_041925450b42b81b99d8f28c08dd4e46" parent="aspace_dde5c8837ee5f2031e04982259e41f8e" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_d7dfac15745538d565f35083ffe2825b" level="file">
+        <did>
+          <unittitle>HTH Remarks, National Conference of Christians and Jews Dinner, Brotherhood Awards to John Foster Dulles and Samuel Daniel Leidesdorf</unittitle>
+          <unitdate datechar="creation" normal="1952-05-12/1952-05-12">1952-05-12</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_2c6808991c32dda22bfed58fd40c4e74" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_e8a194569aa0d5d1f2acfa28818e9866" parent="aspace_2c6808991c32dda22bfed58fd40c4e74" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_b6fa755b9bc48e60b2f89822fdf6cbaf" level="file">
+        <did>
+          <unittitle>HTH Remarks of Welcome, Hall of Fame Ceremony -- Susan B. Anthony and Thomas Paine</unittitle>
+          <unitdate datechar="creation" normal="1952-05-18/1952-05-18">1952-05-18</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_432cb14afef99f9b18c2454fe09b4535" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_b113f0c5b327ca004a229207215e377c" parent="aspace_432cb14afef99f9b18c2454fe09b4535" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_4a5f0c36effe2cc28338a18bcb655338" level="file">
+        <did>
+          <unittitle>Excerpts from HTH's Address to the Medallion Group</unittitle>
+          <unitdate datechar="creation" normal="1952-05-22/1952-05-22">1952-05-22</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_90f014d91dcbd244bc8187d0f3951e23" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_5825e29327cf35de8d915542615bb92c" parent="aspace_90f014d91dcbd244bc8187d0f3951e23" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_7e23d2b080fc38f6ee6eee6118afc526" level="file">
+        <did>
+          <unittitle>HTH Installation Address, 120th Commencement</unittitle>
+          <unitdate datechar="creation" normal="1952-06-11/1952-06-11">1952-06-11</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_0b9ce7273b00abac8d2d5523b384f518" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_3775b2f94da66570872c83f4fb30680e" parent="aspace_0b9ce7273b00abac8d2d5523b384f518" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_b0a25d3e91037eb0f1b4a6a955f379db" level="file">
+        <did>
+          <unittitle>HTH, Interview on WOR Radio. Recorded June 9, 1952 for Broadcast 6 p.m., June 11, 1952</unittitle>
+          <unitdate datechar="creation" normal="1952/1952">1952</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_93269730b60f1450a5b3c6a122d007b1" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_e0ff8f6a53f85d8786327918906557fd" parent="aspace_93269730b60f1450a5b3c6a122d007b1" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_aaea53d89cee9a93dd270a29ea24e415" level="file">
+        <did>
+          <unittitle>HTH Remarks, SMPTE Meeting, NYU, School of Education Auditorium</unittitle>
+          <unitdate datechar="creation" normal="1952-06-25/1952-06-25">1952-06-25</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_9647c355ddd972f1561e5031297c7963" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_fd2ba9978d4f38a8148f8594de30d84e" parent="aspace_9647c355ddd972f1561e5031297c7963" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_571f852bfe926305760deabe4a55ba39" level="file">
+        <did>
+          <unittitle>HTH Remarks, Summer Session Assembly, School of Education, Education Auditorium</unittitle>
+          <unitdate datechar="creation" normal="1952-07-03/1952-07-03">1952-07-03</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_1ada264eaf59012d4516eb2c80407e6b" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_fcdd114ffcd5035171b2c97f0c7edc00" parent="aspace_1ada264eaf59012d4516eb2c80407e6b" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_88f54b38163962b648c2958aec234c06" level="file">
+        <did>
+          <unittitle>HTH, "Science Looks Ahead," Remarks at Evening Engineering Graduation, Gould Library Auditorium, University Heights</unittitle>
+          <unitdate datechar="creation" normal="1952-07-15/1952-07-15">1952-07-15</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_457527a832f78f2498fd4e86fd387e64" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_5f2fb743382ec413f14751d38735fcf5" parent="aspace_457527a832f78f2498fd4e86fd387e64" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_3a5735ef34c58d714495659ecd7ed70c" level="file">
+        <did>
+          <unittitle>HTH, Talk at the first meeting of the Metropolitan Section, ASCE, for the 1952-1953 year. "The Engineer Becomes a University President"</unittitle>
+          <unitdate datechar="creation" normal="1952-10-15/1952-10-15">1952</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_7c10d656fe17f09ac053f478cb6de463" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_97279095d2ed8274b6817810437f10a9" parent="aspace_7c10d656fe17f09ac053f478cb6de463" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_74bcc41b637b495c6524d9fea55b4f8c" level="file">
+        <did>
+          <unittitle>HTH, "New York University Looks Ahead," Radio Broadcast No. 1, WYNC.</unittitle>
+          <unitdate datechar="creation" normal="1952/1952">1952</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_136a0b991116d1353731dd3bf1d7b2f0" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_c247634d6d2d5d5a950cd63764b64917" parent="aspace_136a0b991116d1353731dd3bf1d7b2f0" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_72b88f7d3b420a53b66a089aaca2e205" level="file">
+        <did>
+          <unittitle>HTH, "Private Colleges and Universities Need Money," Article in Challenge Magazine</unittitle>
+          <unitdate datechar="creation" normal="1952/1952">1952</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_783fe80878687e464d80d447ae32671e" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_613dfe9b7b5002564239a9597f7a1479" parent="aspace_783fe80878687e464d80d447ae32671e" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_3d44af9bb0e212026cadcfd01187e919" level="file">
+        <did>
+          <unittitle>HTH, "A Chance to Serve," Speech before New York Chamber of Commerce of the State of New York</unittitle>
+          <unitdate datechar="creation" normal="1952-11-06/1952-11-06">1952-11-06</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_5cb3c9e899ec4a9fe5956b9bf6ce162d" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_d4d2cf5e4054b7aba40f463dad4aa940" parent="aspace_5cb3c9e899ec4a9fe5956b9bf6ce162d" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_aeef3bd1906e0d8ec2ff4ab8e33b0369" level="file">
+        <did>
+          <unittitle>HTH Remarks, Cornerstone Ceremony -- Medical Center</unittitle>
+          <unitdate datechar="creation" normal="1952-11-07/1952-11-07">1952-11-07</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_dff08246c909f9ffc47b9aff08039e88" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_409064f2ec16949358f187734fdb3d70" parent="aspace_dff08246c909f9ffc47b9aff08039e88" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_3e5f7f3eba1cb4bef49286b716e4c07a" level="file">
+        <did>
+          <unittitle>HTH Remarks, RESA Initiation (Scientific Research Society of America), George Washington Hotel (Washington Room), New York</unittitle>
+          <unitdate datechar="creation" normal="1952-11-13/1952-11-13">1952-11-13</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_cecb97d0e89a90e0378d59ba8f97a19a" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_9e7d86709ef3d780ace34a3b96aeefcd" parent="aspace_cecb97d0e89a90e0378d59ba8f97a19a" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_d5cb2c9e8805d906827f2ad0aa55d800" level="file">
+        <did>
+          <unittitle>HTH, "The Volunteer in Education," Speech at Lane Bryant Award Luncheon</unittitle>
+          <unitdate datechar="creation" normal="1952-11-17/1952-11-17">1952-11-17</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_1edd8497fb5fa663f6e3baaf92a5aa7f" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_b08fc7caf813d1fc4d5a494bac10fd21" parent="aspace_1edd8497fb5fa663f6e3baaf92a5aa7f" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_1a783d556c3ab011bf7db166cb075444" level="file">
+        <did>
+          <unittitle>HTH Remarks at Dedication of the Wallace Clark Center for International Management. Lassman Hall, Commerce Building</unittitle>
+          <unitdate datechar="creation" normal="1952-12-04/1952-12-04">1952-12-04</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_8a5440769ce974be82d09aa1d294e943" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_a8632114f567db7ddc0f77bc553c64a2" parent="aspace_8a5440769ce974be82d09aa1d294e943" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_87a65e7e112182921c2313ce22a30c82" level="file">
+        <did>
+          <unittitle>HTH Radio Address, "NYU Serves the Community," Broadcast No. 2 -- WYNC</unittitle>
+          <unitdate datechar="creation" normal="1953-01-09/1953-01-09">1953-01-09</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_67214e81e1270e57c6e4831e351be908" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_0f51e51bdf2a6e2f48520855c883e8ca" parent="aspace_67214e81e1270e57c6e4831e351be908" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_b0a727ad4fdb9eb0d954e238419b5aa9" level="file">
+        <did>
+          <unittitle>HTH Talk, Clarkson College Alumni, Philadelphia, PA.</unittitle>
+          <unitdate datechar="creation" normal="1953-01-10/1953-01-10">1953-01-10</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_4d2a93e42115c49a487f04c93644c11c" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_c691e7dc470ab21bd9887644c684df1b" parent="aspace_4d2a93e42115c49a487f04c93644c11c" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_f3ff904139d5695dbb1e5f4c684bdc96" level="file">
+        <did>
+          <unittitle>HTH Address, "Education and Public Policy," Annual Meeting of the American Institute of Electrical Engineers, Hotel Statler, New York City (Press release sent out January 16, 1953)</unittitle>
+          <unitdate datechar="creation" normal="1953-01-19/1953-01-19">1953-01-19</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_3cefb7dea17d610e1322eb0e8e806817" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_548c4ef42f4178a342baf8d1dbdb7ca3" parent="aspace_3cefb7dea17d610e1322eb0e8e806817" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_07596596e97b71c3895234a820d57d11" level="file">
+        <did>
+          <unittitle>HTH Speech, "The Faculty Role in University Administration," School of Education Faculty -- NYU</unittitle>
+          <unitdate datechar="creation" normal="1953-01-19/1953-01-19">1953-01-19</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_f4860cb96c3f03b7518c3a3768fea76a" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_7eff1d2be2d5c61858d08c00474340a7" parent="aspace_f4860cb96c3f03b7518c3a3768fea76a" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_fa9977718776f84ae2f6e409f9288315" level="file">
+        <did>
+          <unittitle>HTH Address, "Our Community Responsibility," before Protestant Council of Churches, New York City.</unittitle>
+          <unitdate datechar="creation" normal="1953-01-26/1953-01-26">1953-01-26</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_d79ed3b4dc689c108dffb0e0a891a299" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_867892310e2c15ff8dca443766975de9" parent="aspace_d79ed3b4dc689c108dffb0e0a891a299" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_0f00507aa8c8e0ffa641ccf2f20a7fc6" level="file">
+        <did>
+          <unittitle>HTH Address, "The Challenge of the 1960's: Today's Children Reach College Age," Barnard Forum, Waldorf Astoria Hotel</unittitle>
+          <unitdate datechar="creation" normal="1953-02-14/1953-02-14">1953-02-14</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_890d7ea5b29fad885f322420a4b41f7f" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_c0662c6f354c0b05fa6beaa40d2bf68b" parent="aspace_890d7ea5b29fad885f322420a4b41f7f" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_99e3b25818ff960e95ebb9400c31244e" level="file">
+        <did>
+          <unittitle>HTH Address, "Education and Freedom," Rollins College</unittitle>
+          <unitdate datechar="creation" normal="1953-02-22/1953-02-22">1953-02-22</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_d3cc7c05aa009cc1c00d8b37ef314ab0" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_a99166324f94de492d5ea40c8623443f" parent="aspace_d3cc7c05aa009cc1c00d8b37ef314ab0" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_0522f22e4a0e4280712656a7cc7b9659" level="file">
+        <did>
+          <unittitle>HTH Talk, University Club Luncheon</unittitle>
+          <unitdate datechar="creation" normal="1953-03-21/1953-03-21">1953-03-21</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_409adb5d70e1043da828484bad00028d" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_66f72b46e32b0f8e8194aa1bf232c2e2" parent="aspace_409adb5d70e1043da828484bad00028d" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_f34df337e5ee1fd660ed047431d22830" level="file">
+        <did>
+          <unittitle>HTH Address, "The University in an Urban Community," East Side Forum, New York City.</unittitle>
+          <unitdate datechar="creation" normal="1953-04-14/1953-04-14">1953-04-14</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_3873d84e68f39ef5ebbbaa5987fccdaf" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_90394035aef4bb4e8059daca2d4296f7" parent="aspace_3873d84e68f39ef5ebbbaa5987fccdaf" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_92dc98c7a0ebc7de8ede9bb0ee22f580" level="file">
+        <did>
+          <unittitle>HTH Remarks, Dental Alumni Dinner, Waldorf Astoria Hotel</unittitle>
+          <unitdate datechar="creation" normal="1953-04-24/1953-04-24">1953-04-24</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_12b973b8c1d20c6c4b5a3ccb40af1725" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_c46f9cf5497ef72f7f4f3890fa740e3f" parent="aspace_12b973b8c1d20c6c4b5a3ccb40af1725" type="Folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_53adb9ca75fbde4255d4a33fc7bb5885" level="file">
+        <did>
+          <unittitle>HTH Remarks, "Report on the University," Medical Alumni Dinner, Waldorf Astoria Hotel</unittitle>
+          <unitdate datechar="creation" normal="1953-06-04/1953-06-04">1953-06-04</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_3113f8ee37014304b6f2c0bc2aa27718" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_918575925a1d846c151a663459115963" parent="aspace_3113f8ee37014304b6f2c0bc2aa27718" type="Folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_a6e1575366020eceee6db2c7baa7569d" level="file">
+        <did>
+          <unittitle>HTH Remarks, COUNCIL Dinner, Hotel Pierre</unittitle>
+          <unitdate datechar="creation" normal="1953-06-09/1953-06-09">1953-06-09</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_f01c067711c43b1de31bba4784478ac7" label="Mixed Materials [31142062741650]" type="Box">1</container>
+          <container id="aspace_b7b6676454af68fb27ecc6f04b46654b" parent="aspace_f01c067711c43b1de31bba4784478ac7" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_45550a0743be7052bc422f3b1723044e" level="file">
+        <did>
+          <unittitle>HTH, "Commencement Welcome," New York University, University Heights.</unittitle>
+          <unitdate datechar="creation" normal="1953-06-10/1953-06-10">1953-06-10</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_6fe5f7b2e355b3dd5aa3026750c4ee5a" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_a0c1bcd5e1543074ec81bda182995a28" parent="aspace_6fe5f7b2e355b3dd5aa3026750c4ee5a" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_1d5e49fbfed1f128360d98e69f75339e" level="file">
+        <did>
+          <unittitle>HTH, Commencement Address at Northwestern University</unittitle>
+          <unitdate datechar="creation" normal="1953-06-15/1953-06-15">1953-06-15</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_e57a825d0e043146cbc73bfc5c1cd478" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_0029cbe3e04c276cbbe867ede0929cb1" parent="aspace_e57a825d0e043146cbc73bfc5c1cd478" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_81c11e30df71322ca91965eb73c721ec" level="file">
+        <did>
+          <unittitle>HTH Address, "Slum Prevention: A Public Necessity," before the Metropolitan Housing and Planning Council of Chicago</unittitle>
+          <unitdate datechar="creation" normal="1953-06-16/1953-06-16">1953-06-16</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_fe3c40cfab4d55efb9dc97bc940fb904" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_8fdbfbf2556ac039e354c5c60742f21e" parent="aspace_fe3c40cfab4d55efb9dc97bc940fb904" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_1748404f5451d42ac33cc2858e761eed" level="file">
+        <did>
+          <unittitle>HTH Remarks, "You and the University," School of Education Convocation (for New Students and Parents), Education Auditorium.</unittitle>
+          <unitdate datechar="creation" normal="1953-09-29/1953-09-29">1953-09-29</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_978719cd5ee9716732bcea3313603713" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_64e37ff815985c788ab722fc7340a58a" parent="aspace_978719cd5ee9716732bcea3313603713" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_d1232ee2c79d197ba6858ff587088ad9" level="file">
+        <did>
+          <unittitle>HTH Remarks, United Nations Dinner, Delegates Dining Room, United Nations</unittitle>
+          <unitdate datechar="creation" normal="1953-10-06/1953-10-06">1953-10-06</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_bdf27325cd4347efd55e4b8e4f1c46ad" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_1df7cccdc429c125d696f11570681792" parent="aspace_bdf27325cd4347efd55e4b8e4f1c46ad" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_6dd4f762f8be31a95cf4cbf232b7e1a2" level="file">
+        <did>
+          <unittitle>HTH Talk, "A Task for Volunteers," Annual YWCA Lunchon, Plaza Hotel.</unittitle>
+          <unitdate datechar="creation" normal="1953-10-14/1953-10-14">1953-10-14</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_c29b50ee6ab08c482d474248dfbf4fcd" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_7efbbde3afbb4e8aab9ba3c332e02bea" parent="aspace_c29b50ee6ab08c482d474248dfbf4fcd" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_8abe679c0ec54a8609e04f14fc7a571d" level="file">
+        <did>
+          <unittitle>HTH Remarks, Annual Engineers Dinner -- ECPD</unittitle>
+          <unitdate datechar="creation" normal="1953-10-16/1953-10-16">1953-10-16</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_6f3dceade7791e82feb642ec691e89bc" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_cd8ef6276abe360d54135ef965095bec" parent="aspace_6f3dceade7791e82feb642ec691e89bc" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_1c6309de7d5039452957a07fa22fe6d9" level="file">
+        <did>
+          <unittitle>HTH Remarks, Military Science Building Cornerstone Ceremony, University Heights Campus.</unittitle>
+          <unitdate datechar="creation" normal="1953-11-04/1953-11-04">1953-11-04</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_eb751813adc09544686d43a3c34ca5ac" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_4a654b59711906b15fbb3a169ec6b2d3" parent="aspace_eb751813adc09544686d43a3c34ca5ac" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_4822b4575cdca7088b564d5caccac143" level="file">
+        <did>
+          <unittitle>HTH Talk, "The Citizen's Part," New York Tuberculosis and Health Association Annual Conference, New York</unittitle>
+          <unitdate datechar="creation" normal="1953-11-05/1953-11-05">1953-11-05</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_61989c63e4ab767afbc7b8b94fb0b3a9" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_90950dca62735b9a109c870fd7d56a2f" parent="aspace_61989c63e4ab767afbc7b8b94fb0b3a9" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_2ab96a5e38b5267847f34e18eab79cbc" level="file">
+        <did>
+          <unittitle>HTH Address, "Purposes of the Conference -- As Seen By the Educator," Industry - College Conference, White Sulphur Springs, W. VA.</unittitle>
+          <unitdate datechar="creation" normal="1953-11-12/1953-11-12">1953-11-12</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_edd4ee1c7c1efddfb40b86291541c065" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_68581245074ac05a97b4942674b9467b" parent="aspace_edd4ee1c7c1efddfb40b86291541c065" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_c27f4ef6e938776df36101bd212e9361" level="file">
+        <did>
+          <unittitle>HTH Talk, "Unity in Diversity," Annual Meeting of the Middle States Association, Atlantic City, New Jersey</unittitle>
+          <unitdate datechar="creation" normal="1953-11-27/1953-11-27">1953-11-27</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_046fa9010bfa67e2089cc5652ea4f435" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_34a37350ab3bf5f7a6425ef3376d28a8" parent="aspace_046fa9010bfa67e2089cc5652ea4f435" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_e8bee0cf83bb4ad55fb1cdb323913c0a" level="file">
+        <did>
+          <unittitle>HTH Talk, "The Volunteer Layman", YMCA Report Luncheon, Hotel Commodore, New York.</unittitle>
+          <unitdate datechar="creation" normal="1954-01-08/1954-01-08">1954-01-08</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_55bc807248fc557be13d263df86a47b5" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_16264f7a9e49b70663a2aee7ff1e0cc0" parent="aspace_55bc807248fc557be13d263df86a47b5" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_4df106583c8e245ce1702c69a704bc0a" level="file">
+        <did>
+          <unittitle>HTH Statement, on the Proposed Washington Square Southeast Redevelopment Project, Board of Estimate Hearing</unittitle>
+          <unitdate datechar="creation" normal="1954-01-26/1954-01-26">1954-01-26</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_090dff2660c50337729d3ea4f7c49be5" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_a354437064caaf2f261c42a0790fa3fa" parent="aspace_090dff2660c50337729d3ea4f7c49be5" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_f0878806cdee5e96ca7c4808e390960f" level="file">
+        <did>
+          <unittitle>HTH Remarks, Freshman Orientation</unittitle>
+          <unitdate datechar="creation" normal="1954-02-03/1954-02-03">1954-02-03</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_69f99d500b8f9dc8853e29f5eefa0604" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_72a4eb23ea0bb9660e436f338b9e1311" parent="aspace_69f99d500b8f9dc8853e29f5eefa0604" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_19c4dc4d00c5ca6883f476dba6c3ad17" level="file">
+        <did>
+          <unittitle>HTH Remarks (for recording), Nothern California Alumni Club</unittitle>
+          <unitdate datechar="creation" normal="1954-04-06/1954-04-06">1954-04-06</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_b2e4bbd2d27eaaeb41bd17c62a9dce5c" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_e81d8b89518ddba0cc719f8aa09d3c45" parent="aspace_b2e4bbd2d27eaaeb41bd17c62a9dce5c" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_12532677b4725a29f1862aa59979551f" level="file">
+        <did>
+          <unittitle>HTH Remarks, WSC Faculty Meeting, (On Liberal Arts, University, Etc.).</unittitle>
+          <unitdate datechar="creation" normal="1954-04-06/1954-04-06">1954-04-06</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_c308cea5c5da05e3a5b6570a492c66f8" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_d65a813bfe6aa075b9125cdbe7ceb425" parent="aspace_c308cea5c5da05e3a5b6570a492c66f8" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_daca73cd05ca58cdc0e4a841ef95b28a" level="file">
+        <did>
+          <unittitle>HTH Address, " The Responsibility of the Professions to the Future Society," Albany, New York, 170th Anniversary Convocation of the Board of Regents of the University of the State of New York</unittitle>
+          <unitdate datechar="creation" normal="1954-04-09/1954-04-09">1954-04-09</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_88cfef86dfaf07067f37577517b108a0" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_91b2916fd78c359cbfbd66c3108cecb7" parent="aspace_88cfef86dfaf07067f37577517b108a0" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_02df9674700553357e93879b137b7dfa" level="file">
+        <did>
+          <unittitle>HTH Address, "Pattern of Progress," American Society of Tool Engineers, Philadelphia. (Speech not delivered due to death of HTH's father)</unittitle>
+          <unitdate datechar="creation" normal="1954-04-29/1954-04-29">1954-04-29</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_57e37645eecb1a390daa33e348ff07e2" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_7cfed0cb2426de6cc4025dfc47b6f4d7" parent="aspace_57e37645eecb1a390daa33e348ff07e2" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_1eecb8c58a31c77dced769cd36c6d800" level="file">
+        <did>
+          <unittitle>HTH Address, "The Urban Institution in Higher Education," inauguration of Dr. Francis H. Horn as President of Pratt Institute, Brooklyn, New York.</unittitle>
+          <unitdate datechar="creation" normal="1954-05-15/1954-05-15">1954-05-15</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_4ca7da7bde7cfa0fd8999a1f8f027326" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_7ae3cc65a0ed35bd319ade6bc4fb32fe" parent="aspace_4ca7da7bde7cfa0fd8999a1f8f027326" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_97b79acfdeaf8919fa9ddd8004adfd7f" level="file">
+        <did>
+          <unittitle>HTH Remarks, WATV, on higher education</unittitle>
+          <unitdate datechar="creation" normal="1954-06-07/1954-06-07">1954-06-07</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_e0976e8350af2dc1d60380d5dbf6f5e4" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_10b0e94a8570b251ca761629a0380402" parent="aspace_e0976e8350af2dc1d60380d5dbf6f5e4" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_4e342cc7775b1645982d42ff5bfa1361" level="file">
+        <did>
+          <unittitle>HTH Remarks, NYU Commencement</unittitle>
+          <unitdate datechar="creation" normal="1954-06-09/1954-06-09">1954-06-09</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_7c4c8b6d7bf0d7ac653dddc2bf6c64c6" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_f89463e58515282bf1d78a76953d860a" parent="aspace_7c4c8b6d7bf0d7ac653dddc2bf6c64c6" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_a3cd1c0d051c92c5b27adb3864f8e527" level="file">
+        <did>
+          <unittitle>HTH Commencement Address, "Means and Ends," at Newark, College of Engineering </unittitle>
+          <unitdate datechar="creation" normal="1954-06-10/1954-06-10">1954-06-10</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_ecf6fef3b6b05687983bcd809c6483da" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_f3146bc0fc6c781e1fe5f53d5f3fc9e7" parent="aspace_ecf6fef3b6b05687983bcd809c6483da" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_aca777b7bf4f38493776bc429185bd5b" level="file">
+        <did>
+          <unittitle>HTH Remarks, Dedication of Riverdale Temple, New York City</unittitle>
+          <unitdate datechar="creation" normal="1954-09-19/1954-09-19">1954-09-19</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_d424370d60a4c6f8c803ea8bc1e2e4fd" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_bca274806f3cfa4a85f52e0de02583a9" parent="aspace_d424370d60a4c6f8c803ea8bc1e2e4fd" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_b33ca2d3ba7c43408d312b7a0377911d" level="file">
+        <did>
+          <unittitle>HTH Address, "The Next 25 Years in the New York Metropolitan Region," before New York University Regional Plan Association</unittitle>
+          <unitdate datechar="creation" normal="1954-10-06/1954-10-06">1954-10-06</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_16a7978eea61971f4a268b517186bdcb" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_9f53178566ad26469a553f80d84761c0" parent="aspace_16a7978eea61971f4a268b517186bdcb" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_8559bcaebefc5484952150a1e8944732" level="file">
+        <did>
+          <unittitle>HTH Remarks, University Heights, Chapel Exercises, not used</unittitle>
+          <unitdate datechar="creation" normal="1954-10-07/1954-10-07">1954-10-07</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_71ca5f804a74b1fa9413322834a059b4" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_93ad281455af8484dcaa63cea56ce37e" parent="aspace_71ca5f804a74b1fa9413322834a059b4" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_d460e06c75fe77c603e71b9af9f2c6ed" level="file">
+        <did>
+          <unittitle>HTH Remarks, Opening Centiennial Convocation of NYU's College of Engineering at the University Heights Campus</unittitle>
+          <unitdate datechar="creation" normal="1954-10-12/1954-10-12">1954-10-12</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_3a6153fe4b54335421e723f22eb85a05" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_09df40225d25aa1caa1db7dd31a4d5e0" parent="aspace_3a6153fe4b54335421e723f22eb85a05" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_39d2dc683148238347a5b0b3b1940e7f" level="file">
+        <did>
+          <unittitle>HTH Remarks, Annual dinner -- American Council on Education</unittitle>
+          <unitdate datechar="creation" normal="1954-10-14/1954-10-14">1954-10-14</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_3d16997064c9b3db686a00cd2f140cdf" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_9dd2cc59dc6381e15c77205a8c2aa81b" parent="aspace_3d16997064c9b3db686a00cd2f140cdf" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ab147408614926750966184c10383aa6" level="file">
+        <did>
+          <unittitle>HTH Address, "Education for Safe Living," National Safety Council, Chicago</unittitle>
+          <unitdate datechar="creation" normal="1954-10-18/1954-10-18">1954-10-18</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_9ef4d92da59650e9549c7f93fd284f14" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_680652ae772798d01ae12c6ff78aaf5a" parent="aspace_9ef4d92da59650e9549c7f93fd284f14" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_cdfc0094d76ab82350bdc43dfe09cd34" level="file">
+        <did>
+          <unittitle>HTH Address, Association of American Medical Colleges, French Lick, Indiana.</unittitle>
+          <unitdate datechar="creation" normal="1954-10-19/1954-10-19">1954-10-19</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_b88f8a0f0985047ca0aed92b75b486e4" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_6336cde1f9fab77d8957112da4d907a4" parent="aspace_b88f8a0f0985047ca0aed92b75b486e4" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_9559fc51644d6d227c9394c427896f6b" level="file">
+        <did>
+          <unittitle>HTH Remarks, Gould Center Dedication (Student Center)</unittitle>
+          <unitdate datechar="creation" normal="1954-10-30/1954-10-30">1954-10-30</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_05ec16e76cd04dc9bd8052b8a2ef0153" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_508c674e8d8372488eb9cf1eec6a5e88" parent="aspace_05ec16e76cd04dc9bd8052b8a2ef0153" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_687ae78c29b5e6ed7d4fdb1aca73a869" level="file">
+        <did>
+          <unittitle>HTH Speech, "A Trustee's Responsiblity," Association of Governing Boards of State Universities and Allied Institutions.</unittitle>
+          <unitdate datechar="creation" normal="1954-11-16/1954-11-16">1954-11-16</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_0e6ba5b263edf411a0452cf725904705" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_b5f749314bf79b8fd97a41a3686a74b5" parent="aspace_0e6ba5b263edf411a0452cf725904705" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_990234c1b804f7ce662ed7c047a81236" level="file">
+        <did>
+          <unittitle>HTH Remarks, Institution of Mathematical Sciences, NYU,</unittitle>
+          <unitdate datechar="creation" normal="1954-11-29/1954-11-29">1954-11-29</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_e2f64aa8271a211ab76b7aab4db9ef65" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_32ecd94be40f9a367ae982545a6b6443" parent="aspace_e2f64aa8271a211ab76b7aab4db9ef65" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_ee8c21706c5e9eec6791467a00179515" level="file">
+        <did>
+          <unittitle>HTH Remarks, Jewish Culture Foundation Dinner for Moss and Hornstein, Waldorf, Starlight Room, New York City.</unittitle>
+          <unitdate datechar="creation" normal="1954-12-09/1954-12-09">1954-12-09</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_8b85978f8673fbe172a460acb2245913" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_afca6ae2b57c25964508cdcbb6769370" parent="aspace_8b85978f8673fbe172a460acb2245913" type="Folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_5a2d5a2cb7477f7a19a609a0aa1f57ac" level="file">
+        <did>
+          <unittitle>HTH Welcoming Remarks, Modern Language Association, Hotel Statler, New York City.</unittitle>
+          <unitdate datechar="creation" normal="1954-12-28/1954-12-28">1954-12-28</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_d03f6c1990d52a8e7d95cc7f9d09b071" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_53d070a88785f9b9ed52a3b3cdcdfa7d" parent="aspace_d03f6c1990d52a8e7d95cc7f9d09b071" type="Folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_f2bcf8a3cc7d635ed3aa6c84d43d5f37" level="file">
+        <did>
+          <unittitle>HTH Remarks, "An Appreciation of Franklin," Biltmore Hotel, New York.</unittitle>
+          <unitdate datechar="creation" normal="1955-01-17/1955-01-17">1955-01-17</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_71499563737eada2a77031b03f9536b4" label="Mixed Materials [31142062741668]" type="Box">2</container>
+          <container id="aspace_96a459cb7d87eb112a856d467d9e00c8" parent="aspace_71499563737eada2a77031b03f9536b4" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_995e16944aeac004161bc411ebd0ea0f" level="file">
+        <did>
+          <unittitle>HTH Remarks, Midwinter Convocation -- College of Engineering, University Heights.</unittitle>
+          <unitdate datechar="creation" normal="1955-01-29/1955-01-29">1955-01-29</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_29c85a990e1c898a9bdb8ff7490da9df" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_fb9c3bbe9d56ba5117c8fc7ebd7b6616" parent="aspace_29c85a990e1c898a9bdb8ff7490da9df" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_4e6a739d9ab60437562cfcb4b99e4529" level="file">
+        <did>
+          <unittitle>HTH Address, "Every Age is an Age of Crisis," North Central Association, Chicago, Illinois</unittitle>
+          <unitdate datechar="creation" normal="1955-03-25/1955-03-25">1955-03-25</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_4d976d588fd32aeecda333253c77e2e0" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_fac4550e78818e02568fcd34c8590190" parent="aspace_4d976d588fd32aeecda333253c77e2e0" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_494792ec7a410a86a31535c1eda55c37" level="file">
+        <did>
+          <unittitle>HTH Remarks, Foreign Language Conference, Hotel New Yorker, New York City.</unittitle>
+          <unitdate datechar="creation" normal="1955-04-01/1955-04-01">1955-04-01</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_5a0f66f8d046146e7d3268be36c278d7" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_eca259d1c609512bf7783032416c0a19" parent="aspace_5a0f66f8d046146e7d3268be36c278d7" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_9b1b6712e04def340df7dc64645860b7" level="file">
+        <did>
+          <unittitle>HTH Address, "The Second Mile," Greater New York Fund.</unittitle>
+          <unitdate datechar="creation" normal="1955-04-25/1955-04-25">1955-04-25</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_f2b4a2c6641426d26f152735532bef87" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_3a64e380f652b4d75a7e947c47741257" parent="aspace_f2b4a2c6641426d26f152735532bef87" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_281ad8bed68c53c62139191678d8342c" level="file">
+        <did>
+          <unittitle>HTH Remarks, National Association of Education Buyers -- New York</unittitle>
+          <unitdate datechar="creation" normal="1955-05-02/1955-05-02">1955-05-02</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_1c036d23abeac50ddeb3edccdbc247dd" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_8b44bdb44d77b3cd1323e55d900f2aa7" parent="aspace_1c036d23abeac50ddeb3edccdbc247dd" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_134595852de7300eafe4b60df135db3a" level="file">
+        <did>
+          <unittitle>HTH Remarks, Overseas Information Conference at NYU</unittitle>
+          <unitdate datechar="creation" normal="1955-05-06/1955-05-06">1955-05-06</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_93035a317e233572afc84741331273ab" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_533571d5b3e48f6ef025c84fe8f26216" parent="aspace_93035a317e233572afc84741331273ab" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_e39752e5763e1f93df76d15cb96005da" level="file">
+        <did>
+          <unittitle>HTH Remarks, Alumni Federation Farewell dinner for DD Henry, Ambassador Hotel, New York</unittitle>
+          <unitdate datechar="creation" normal="1955-05-10/1955-05-10">1955-05-10</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_a6d3990171d7e2e022998851de83b688" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_bedfe853a3f24d867c63c74b4d935b58" parent="aspace_a6d3990171d7e2e022998851de83b688" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_f4862e075bffab63f9be05a87e68b695" level="file">
+        <did>
+          <unittitle>HTH Remarks, Commencement -- Nursing Graduates of St. Luke's Hospital, New York City</unittitle>
+          <unitdate datechar="creation" normal="1955-05-18/1955-05-18">1955-05-18</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_c41b927ad09c5b64641f40eed083898c" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_ad6a35f323d1567a6c312d0567d4f0b3" parent="aspace_c41b927ad09c5b64641f40eed083898c" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_8ace514cf7cde7be04c906faa4eaec8c" level="file">
+        <did>
+          <unittitle>HTH, "Pathways to Progress," Commencement Address, University of Wichita</unittitle>
+          <unitdate datechar="creation" normal="1955-05-29/1955-05-29">1955-05-29</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_0f2d7104dcf00951fb9d38a531c096a4" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_40be3adecbbcd280eeb6197799b5f8b6" parent="aspace_0f2d7104dcf00951fb9d38a531c096a4" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_77d085afde9b421f4e02741096beb342" level="file">
+        <did>
+          <unittitle>HTh Statement, at Dedication of Loew Dormitory, University Heights Center</unittitle>
+          <unitdate datechar="creation" normal="1955-10-08/1955-10-08">1955-10-08</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_9ec646432f868dd0db9f2a04c6eb2122" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_996ff383683452cfafb5969f43bfa77a" parent="aspace_9ec646432f868dd0db9f2a04c6eb2122" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_757d3d7d6c16bb42b746b9afcaee37e3" level="file">
+        <did>
+          <unittitle>HTH Remarks, Christ Church Annual Dinner</unittitle>
+          <unitdate datechar="creation" normal="1955-11-07/1955-11-07">1955-11-07</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_e3d3778205d4861ec07d2ab1d960c5de" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_d36799368225a86e3ebc03b1b964aa5f" parent="aspace_e3d3778205d4861ec07d2ab1d960c5de" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ae5aef2f9025f574a323ba18ea23d5fa" level="file">
+        <did>
+          <unittitle>HTH Remarks as Chairman, First General Session -- Building for Brotherhood Dedication Program, Waldorf Astoria, West Ballroom, New York</unittitle>
+          <unitdate datechar="creation" normal="1955-11-09/1955-11-09">1955-11-09</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_858c8e3f0a8d4bd86cd5aedb4e5a3c69" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_958ab1231d414fae1d41fc46a15234e6" parent="aspace_858c8e3f0a8d4bd86cd5aedb4e5a3c69" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_2e3f6f35e8a7048ea53b615e07874424" level="file">
+        <did>
+          <unittitle>HTH Remarks, "Why New York?," Wayfarer's Club, Chicago</unittitle>
+          <unitdate datechar="creation" normal="1955-11-22/1955-11-22">1955-11-22</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_e6f0ddf9b90f722b83b499a14fa9defd" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_0ad1e409b5aa07a568359f8fc300f73e" parent="aspace_e6f0ddf9b90f722b83b499a14fa9defd" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_23dd671d7c3e1fe558a5c17edc2ac7db" level="file">
+        <did>
+          <unittitle>HTH, Welcoming Remarks, Commerce Dean's Day</unittitle>
+          <unitdate datechar="creation" normal="1955-12-02/1955-12-02">1955-12-02</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_ef4e3976a709545af90022fff3a5beaf" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_0cd30b2de46436e467072e1295413111" parent="aspace_ef4e3976a709545af90022fff3a5beaf" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_9e6f35b17b441bd1be97a36e01103f95" level="file">
+        <did>
+          <unittitle>HTH Remarks, National Conference of Christians and Jews, Waldorf Dinner</unittitle>
+          <unitdate datechar="creation" normal="1955-12-07/1955-12-07">1955-12-07</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_47cdbf7b848b77fcfcaa6016fe416dfe" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_b6221e12d254aed4a94a3cf5b3b64dd3" parent="aspace_47cdbf7b848b77fcfcaa6016fe416dfe" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_8d8f2e5835de0ceb520cab82a603d1c1" level="file">
+        <did>
+          <unittitle>HTH Remarks, Luncheon Meeting of the Municipal Forum of New York</unittitle>
+          <unitdate datechar="creation" normal="1956-02-09/1956-02-09">1956-02-09</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_cc0a6fb9199ebc956c28ad946b341a26" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_04d841d07775da093e99c5fc916e4f01" parent="aspace_cc0a6fb9199ebc956c28ad946b341a26" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ca07bc57d2d9ca62d3f7bf40c28cc46f" level="file">
+        <did>
+          <unittitle>HTH Remarks, New School for Social Research, New York City, cornerstone laying</unittitle>
+          <unitdate datechar="creation" normal="1956-02-11/1956-02-11">1956-02-11</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_3016f0d8562c7968ffb21ae4a01f6664" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_a7e20202d32553b62b0c893d0a2a35f0" parent="aspace_3016f0d8562c7968ffb21ae4a01f6664" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ed99c14214752c9082823de1689e7ab2" level="file">
+        <did>
+          <unittitle>HTH Remarks, Congregation of B'Nai Jeshurun, New York City</unittitle>
+          <unitdate datechar="creation" normal="1956-02-19/1956-02-19">1956-02-19</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_fc0230534d896fcea34ca15c5a083890" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_56bc1bde11d457cf9d96214a94af52f8" parent="aspace_fc0230534d896fcea34ca15c5a083890" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_aebde63b3b4cf11eecd1b0760097baa5" level="file">
+        <did>
+          <unittitle>HTH Remarks, "Role of a Law Center in a University," Law Alumni Dinner</unittitle>
+          <unitdate datechar="creation" normal="1956-03-12/1956-03-12">1956-03-12</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_54ce285ab8b8eff825dae00cc0469236" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_68574aad9033407cb5f06df0160f20be" parent="aspace_54ce285ab8b8eff825dae00cc0469236" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_a04e36f8afff9618ba6fea26bc54fd9e" level="file">
+        <did>
+          <unittitle>HTH Remarks, Arts and Engineering Alumni Meeting, University Heights</unittitle>
+          <unitdate datechar="creation" normal="1956-03-15/1956-03-15">1956-03-15</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_5d35a9d303580fb3ecd9941781a303f8" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_68f7c45e94f16fbd3678a675943c4252" parent="aspace_5d35a9d303580fb3ecd9941781a303f8" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ff15ddaff53a8a787b957e65ed1a214f" level="file">
+        <did>
+          <unittitle>HTH Remarks, Beth Israel Hospital School of Nursing Graduation, New York City</unittitle>
+          <unitdate datechar="creation" normal="1956-03-20/1956-03-20">1956-03-20</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_054cbd018375b04b230f1f9316767293" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_a6d39984e2d1f4d46cb660bc0effc431" parent="aspace_054cbd018375b04b230f1f9316767293" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_4f326d787e398052942afdd65ddfb290" level="file">
+        <did>
+          <unittitle>HTH Remarks, "Youth: America's Most Vital Asset," Jewish Welfare Board Biennial Convention, New York City</unittitle>
+          <unitdate datechar="creation" normal="1956-04-05/1956-04-05">1956-04-05</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_57e16c700132d3c11849cf01447dc933" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_9e7ead2397347ec0ad06c2b5c3d71164" parent="aspace_57e16c700132d3c11849cf01447dc933" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_186aee602d85560f8797b3ee720b1f58" level="file">
+        <did>
+          <unittitle>HTH Introduction of French Ambassador, Waldorf Astoria Hotel, New York</unittitle>
+          <unitdate datechar="creation" normal="1956-04-06/1956-04-06">1956-04-06</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_7ff13fe0733a66171f4592103198724a" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_f9e3f4901fbd9f5082e1ab254e740355" parent="aspace_7ff13fe0733a66171f4592103198724a" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_a1deff31fd93ba2d4a73bed1fe067879" level="file">
+        <did>
+          <unittitle>HTH, "An Educator Looks at Industry," Industry-Education Conference, Hofstra College</unittitle>
+          <unitdate datechar="creation" normal="1956-04-17/1956-04-17">1956-04-17</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_8e7d4c2e8f54e0ccc0f4184f05273a62" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_87fe98eb7fb4690d2613226463579678" parent="aspace_8e7d4c2e8f54e0ccc0f4184f05273a62" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_5bcb8da554417719d60c2f629b067442" level="file">
+        <did>
+          <unittitle>HTH Remarks, Westchester Science Fair</unittitle>
+          <unitdate datechar="creation" normal="1956-04-20/1956-04-20">1956-04-20</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_289b5f4810da192673b4a00768277a61" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_afe98fc95c6d52533942e18291595ef2" parent="aspace_289b5f4810da192673b4a00768277a61" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_f3e7143cb1969fbdf460fb57daa1b6b4" level="file">
+        <did>
+          <unittitle>HTH Remarks, for Tau Beta Pi</unittitle>
+          <unitdate datechar="creation" normal="1956-04-21/1956-04-21">1956-04-21</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_1a3569a2c6fdcd436ba175e8258c0fec" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_7dec7e6e82f937ad40bb77f2632a3a09" parent="aspace_1a3569a2c6fdcd436ba175e8258c0fec" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_74eb9071b87195b7289d5c5d1ede6426" level="file">
+        <did>
+          <unittitle>HTH Remarks, Times Square Club Honoring Roy E. Larsen</unittitle>
+          <unitdate datechar="creation" normal="1956-04-29/1956-04-29">1956-04-29</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_021758e08bbe3df2080b186aa3ddf922" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_27fe9b025ab4409a8bbe623f3858d64b" parent="aspace_021758e08bbe3df2080b186aa3ddf922" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_6f94bda844dffea9ad284612054b5369" level="file">
+        <did>
+          <unittitle>HTH Outline, Management Club Talk, NYU</unittitle>
+          <unitdate datechar="creation" normal="1956-05-04/1956-05-04">1956-05-04</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_bc958e935b19d5128cde9b0b711e64e2" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_b3ddb121bc43479b9799cdf7a0b24a02" parent="aspace_bc958e935b19d5128cde9b0b711e64e2" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_399ba96bff8d6f2e1b1eecd302ce843a" level="file">
+        <did>
+          <unittitle>HTH Remarks, Alumni Medallion Dinner, NYU Faculty Club</unittitle>
+          <unitdate datechar="creation" normal="1956-05-17/1956-05-17">1956-05-17</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_2300efa92b08bad237e474eda191f056" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_56db709a05d53b09de356dd375449990" parent="aspace_2300efa92b08bad237e474eda191f056" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_cb312104f3881f2cc2fed560366c6be2" level="file">
+        <did>
+          <unittitle>HTH Remarks, Hall of Fame Ceremonies -- Woodrow Wilson Bust, University Heights</unittitle>
+          <unitdate datechar="creation" normal="1956-05-20/1956-05-20">1956-05-20</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_d7d5ac168a6055cdab5941f1b772e055" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_e46c3bc43ca80c43f167133f08f1a7eb" parent="aspace_d7d5ac168a6055cdab5941f1b772e055" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_5db179ef482153b7f6cc2ed73fc10c29" level="file">
+        <did>
+          <unittitle>HTH Remarks, "Kimball the Kollector," Kimball Dinner</unittitle>
+          <unitdate datechar="creation" normal="1956-05-22/1956-05-22">1956-05-22</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_198df0930f86b78ad9b8e5efb48b0e8e" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_b1e387d1c2969dcbd68bb9e246a9b033" parent="aspace_198df0930f86b78ad9b8e5efb48b0e8e" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_f70cf50ce9928d244b043f3d35c4335d" level="file">
+        <did>
+          <unittitle>HTH, "You Win By Losing," Commencement Address, Duke University, Durham, North Carolina</unittitle>
+          <unitdate datechar="creation" normal="1956-06-04/1956-06-04">1956-06-04</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_0ea94acf9e59ebc404b62a23cac9e16e" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_461422f81cb81488b3c54da35f2cdf00" parent="aspace_0ea94acf9e59ebc404b62a23cac9e16e" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_2e05d1552df9db59c2c851c5d5770848" level="file">
+        <did>
+          <unittitle>HTH, NYU Commencement</unittitle>
+          <unitdate datechar="creation" normal="1956-06-06/1956-06-06">1956-06-06</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_96de672f4c8e986dc7f6d90a09b2bf9d" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_27224c9b9e1179df5fdb6ea75605f6f7" parent="aspace_96de672f4c8e986dc7f6d90a09b2bf9d" type="Folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_25921509289c6c49ff4f578b60d19978" level="file">
+        <did>
+          <unittitle>HTH Remarks, "Can We Meet the Challenge of Universal Education?" Western Michigan College, Kalamazoo, Michigan</unittitle>
+          <unitdate datechar="creation" normal="1956-06-09/1956-06-09">1956-06-09</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_e4ffe6714dbad7fad5cba5a50f25629e" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_95417226ab26e6fd863af525dc26ad88" parent="aspace_e4ffe6714dbad7fad5cba5a50f25629e" type="Folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_efcad1a5bdf635a11c4353e1aa6cabf6" level="file">
+        <did>
+          <unittitle>HTH Remarks, "Who Is Responsible for Education?" Commencement -- University of Pittsburgh, Pittsburgh, PA</unittitle>
+          <unitdate datechar="creation" normal="1956-06-13/1956-06-13">1956-06-13</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_5db977573911de60de00becc75c30977" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_64388e3900af2ef4573ecc9acf6a6aaf" parent="aspace_5db977573911de60de00becc75c30977" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_25a89dde1a2cbe010479d1702884fdad" level="file">
+        <did>
+          <unittitle>HTH Remarks, "Can We Meet the Challenge of Universal Education?" Commencement - New Jersey State Teachers College, Newark, New Jersey</unittitle>
+          <unitdate datechar="creation" normal="1956-06-14/1956-06-14">1956-06-14</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_962d53ceae3d50a4eb416d157ebd9c93" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_8a4da58272f53da2159b1152c9dc844f" parent="aspace_962d53ceae3d50a4eb416d157ebd9c93" type="Folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_6ec95b5d06949b2a008360ce98566cc0" level="file">
+        <did>
+          <unittitle>HTH Talk at Harvard, "Satisfactions of a College Presidency -- If Any"</unittitle>
+          <unitdate datechar="creation" normal="1956-06-20/1956-06-20">1956-06-20</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_dcc9297dc5ef962ed55eacc656f77e45" label="Mixed Materials [31142062741643]" type="Box">3</container>
+          <container id="aspace_a96fd66f0e21b6785fbf25a3b3811012" parent="aspace_dcc9297dc5ef962ed55eacc656f77e45" type="Folder">37</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

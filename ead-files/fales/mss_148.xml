@@ -1,0 +1,2323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_148">mss_148</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Lewis Carroll Society of North America Archive, 1974-2015 <num>MSS.148</num></titleproper>
+        <author>Melanie Meyers Cushman in 2003 with edits by Nicholas Martin in 2012 and additions by Andrea Kutsenkow in 2016.</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from lcsna.xml</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>March 2003</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 22:19:38 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>November 2012</date>
+        <item>Revisions made by Nicholas Martin to reflect the 2012 accretion.</item>
+      </change>
+      <change>
+        <date>December 2016</date>
+        <item>Revisions made by Andrea Kutsenkow to reflect the 2016 accretion.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Lewis Carroll Society of North America Archives</unittitle>
+      <origination label="Creator">
+        <corpname source="naf">Lewis Carroll Society of North America</corpname>
+      </origination>
+      <unitid>MSS.148</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.75 Linear Feet</extent>
+        <extent altrender="carrier">in 7 boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1972/2015" type="inclusive">circa 1972-2015</unitdate>
+      <abstract id="aspace_f89dff1db23c2949fc9245dd9f723bda">The Lewis Carroll Society of North America (LCSNA) is an organization dedicated to celebrating the works of Lewis Carroll. The collection is composed of documents and correspondence related to the activities of the Society, including publications and meetings.</abstract>
+      <physloc id="aspace_32783c9fc3ccf2a41efa7031cdf7c5f8">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <accessrestrict id="aspace_73114738f7788b246dbbcf6cc23343bd">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <userestrict id="aspace_96d8d3bf3e967a2392d8dce1fded8351">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <prefercite id="aspace_d5510c307a08c2caaaf56f7205548647">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Lewis Carroll Society of North America Archives; MSS 148; box number; folder number; Fales Library and Special Collections, New York University.</p>
+    </prefercite>
+    <bioghist id="aspace_373e75e8ad102e1ac8930a0eaed97ac3">
+      <head>Biographical / Historical</head>
+      <p>The Lewis Carroll Society of North America (LCSNA) was established in by Stan Marx in 1974. LCSNA is a not-for-profit organization dedicated to "furthering Carroll studies, increasing accessibility of research materials, and maintaining public awareness of Carroll's contribution to society." The organization meets twice a year, and has an active publications program.</p>
+    </bioghist>
+    <scopecontent id="aspace_bf0c1c096f169eae687e1252bfac9016">
+      <head>Scope and Contents</head>
+      <p>The Lewis Carroll Society of North America (LCSNA) Archive contains documents that date between 1972 through 2015 and are related to all aspects of LCSNA's activities. Materials includes a copy of LCSNA's Constitution, legal documents, financial statements, meeting minutes, correspondence among Society members (both letters and cards), publication contracts, membership lists, a copy of the Members' Opinion and Interest survey from 2007, a few <emph render="italic">Alice's Adventures in Wonderland</emph> pins, and copies of the Society newsletter "The Knight Letter."</p>
+    </scopecontent>
+    <arrangement id="aspace_9af2ca8b4ecb11a6c5d98ab73b13dbbd">
+      <head>Arrangement</head>
+      <p>The materials are arranged at the collection-level by material type, project, and publication, and each series is either organized alphabetically or chronologically. Pre-processing of the collection was done by the Lewis Carroll Society of North America (LCSNA). Materials from the 2012 remained in the order in which they were received from the donor and added, using the previously-established arrangement scheme, to Series I: Constitution and Organic Documents, Series II: Publications, Series III: Membership Records, and Series VII: Miscellaneous. </p>
+      <p>Materials from the 2016 accretion remained in the order in which they were received from the donor and were added to the collection as a separate series.</p>
+    </arrangement>
+    <relatedmaterial id="aspace_7a2541a8279d44c1a4299d0fda2491a2">
+      <head>Related Material at Fales Library and Special Collections</head>
+      <p>Alfred C. Berol Collection of Lewis Carroll (MSS 057)</p>
+    </relatedmaterial>
+    <separatedmaterial id="aspace_a6fc56eb27f67f4f3c5adae9e646f030">
+      <head>Separated Materials</head>
+      <p>Printed books were separated from the archive and individually catalogued. They are accessible through BobCat and include the following:</p>
+      <p><emph render="italic"> Feeding the Mind: A Centenary Celebration of Lewis Carroll's Visit to Alfreton in 1884.</emph> Edited by Selwyn Goodacre. Carroll Studies No. 7, 1984.</p>
+      <p><emph render="italic">The Hunting of the Snark, </emph> illustrated by Barry Moser. Carroll Studies no.7, 1983 </p>
+      <p><emph render="italic">The Hunting of the Snark, </emph> illustrated by Jonathon Dixon. Deluxe Edition, 1992.</p>
+      <p><emph render="italic">The Hunting of the Snark, </emph> illustrated by Jonathon Dixon. Regular Edition, 1992.</p>
+      <p><emph render="italic"> In Memoriam-- Charles Lutwidge Dodgson, 1832-1898, </emph> edited by August Imholtz Jr. and Charlie Lovett, 1998. </p>
+      <p><emph render="italic"> Lewis Carroll: an Annotated Bibliography 1960-1977, </emph> edited by Edward Guiliano, 1977.</p>
+      <p><emph render="italic"> Lewis Carroll: an Annotated Bibliography for 1974, </emph> edited by Edward Guiliano. Carroll Studies no.1, 1974. </p>
+      <p><emph render="italic"> Lewis Carroll and the Kitchins, </emph> edited by Morton M. Cohen. Carroll Studies no.4, 1980. </p>
+      <p><emph render="italic"> Lewis Carroll at Texas, </emph> Carroll Studies no. 8, 1985 </p>
+      <p><emph render="italic"> Lewis Carroll in the Popular Culture, </emph> edited by Byron Sewell, 1976. </p>
+      <p><emph render="italic"> Lewis Carroll's Library, </emph> edited by Jeffrey Stern. Carroll Studies no.5, 1981. </p>
+      <p><emph render="italic"> The Mathematical Pamphlets of Charles Lutwidge Dodgson and Related Pieces, </emph> edited by Francine Ables, 1994. </p>
+      <p><emph render="italic">The Political Pamphlets of Charles Lutwidge Dodgson and Related Pieces: A Mathematical Approach,</emph> edited by Francine Ables, 2001. </p>
+      <p><emph render="italic">Proceedings of the 2nd International Lewis Carroll Conference,</emph> edited by Charles Lovett, 1994.</p>
+      <p><emph render="italic">Soaring with the Dodo, </emph>edited by Edward Guiliano, 1982.</p>
+      <p><emph render="italic">Thimbles and Hope,</emph> edited by August A. Imholtz, Jr, 1999.</p>
+      <p><emph render="italic">The Wasp in a Wig, </emph>limited deluxe edition, red cloth boards, 1977.</p>
+      <p><emph render="italic">The Wasp in a Wig. </emph>Carroll Studies no. 2, 1977.</p>
+    </separatedmaterial>
+    <acqinfo id="aspace_cccb4cfa567ed8ca1ffd82ee7c5c1f00">
+      <head>Immediate Source of Acquisition</head>
+      <p>The Lewis Carroll Society of North America (LCSNA) Archive was initially donated to the Fales Library in March 2003. An accretion was received from LCSNA in November of 2012, and a second accretion was donated by LCSNA member August Imholtz in 2014. In July 2016, an accretion of material was once again received by August Imholtz; the accession number associated with this gift is 2016.052.</p>
+    </acqinfo>
+    <processinfo id="aspace_02836a35c99a5c22e2e1f1fd8ffb63e8">
+      <head>Processing Information</head>
+      <p>Decisions concerning arrangement, description, and physical intervention prior to 2016 have not yet been recorded. The 2016 accretion materials were transferred to acid-free folders, and the Alice in Wonderland pins were placed in a protective, paper sleeve before all materials were placed in a half manuscript box. Materials for this accretion were added to the collection as a separate series in keeping with the existing arrangement scheme.</p>
+      <p>On February 2019, box 8 was rehoused in preparation for offsite storage.</p>
+    </processinfo>
+    <phystech id="aspace_72c9a639b2bca9befdfbb69a88e79b2c">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Audio materials have not been preserved and may not be available to researchers.</p>
+    </phystech>
+    <controlaccess>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Photographs.</genreform>
+      <genreform source="aat">Printed ephemera.</genreform>
+      <genreform source="aat">Contracts</genreform>
+      <genreform source="aat">Financial records</genreform>
+      <genreform source="aat">Audiocassettes.</genreform>
+      <genreform source="aat">Magazines (Periodicals)</genreform>
+      <persname source="naf">Lovett, Charles C.</persname>
+      <persname source="naf">Guiliano, Edward</persname>
+      <persname source="naf">Imholtz, Clare</persname>
+      <persname source="naf">Carroll, Lewis, 1832-1898</persname>
+      <persname source="naf">Carroll, Lewis, 1832-1898 -- Criticism and interpretation</persname>
+      <persname source="naf">Carroll, Lewis, 1832-1898 -- Congresses</persname>
+      <corpname source="naf">Lewis Carroll Society of North America -- Periodicals</corpname>
+      <corpname source="naf">Lewis Carroll Society of North America -- Anniversaries</corpname>
+      <corpname source="naf">Lewis Carroll Society of North America -- History</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref12" level="series">
+        <did>
+          <unittitle>Series I: Constitution and Organic Documents</unittitle>
+        </did>
+        <scopecontent id="aspace_c7c2aadbeff37ad4d9b33e5eb53686e8">
+          <head>Scope and Contents note</head>
+          <p>Documents relating to the formal establishment of the LCSNA</p>
+        </scopecontent>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Constitution Draft, President's correspondence regarding drafts</unittitle>
+            <unitdate datechar="creation">1974</unitdate>
+            <container id="aspace_14386e90e0a9ed318c163bd7d172707a" label="Mixed Materials [31142042233018]" type="Box">1</container>
+            <container id="aspace_1243b7b2b9d7b2ed478412bc66a4d5ff" parent="aspace_14386e90e0a9ed318c163bd7d172707a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Constitution revisions, drafts and correspondence</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e3634c2a3ddf136ab3b56882bbc33604" label="Mixed Materials [31142042233018]" type="Box">1</container>
+            <container id="aspace_00491dfadd5dc3ab2766b4f8ecdda095" parent="aspace_e3634c2a3ddf136ab3b56882bbc33604" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Circular letters and correspondence regarding the establishment of the LCSNA</unittitle>
+            <unitdate datechar="creation">1973</unitdate>
+            <container id="aspace_3a1273d1c383f22c65931a955b401502" label="Mixed Materials [31142042233018]" type="Box">1</container>
+            <container id="aspace_77d8628359eebba82db23ac4a92cd987" parent="aspace_3a1273d1c383f22c65931a955b401502" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Legal incorporation papers and related correspondence</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5eb36c05f83787091e7d8fa65507546d" label="Mixed Materials [31142042233018]" type="Box">1</container>
+            <container id="aspace_35f1965ef567070f1f0b7a99a6824228" parent="aspace_5eb36c05f83787091e7d8fa65507546d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Financial correspondence- includes tax exemption information and application for a Library of Congress number</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c205a46dbed5839a6ebbbe60b3cc92b8" label="Mixed Materials [31142042233018]" type="Box">1</container>
+            <container id="aspace_8f85e034b5c44c7178e7342462bb08bc" parent="aspace_c205a46dbed5839a6ebbbe60b3cc92b8" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref19" level="series">
+        <did>
+          <unittitle>Series II: Publications</unittitle>
+        </did>
+        <scopecontent id="aspace_fc07d799f7c4640d5521c0b5ee0b7c5f">
+          <head>Scope and Contents note</head>
+          <p>Books and other printed works produced by the LCSNA. Includes galley proofs, newsletters, and "keepsakes", pamphlets and bookmarks distributed to members at LCSNA meetings.</p>
+        </scopecontent>
+        <c id="aspace_ref20" level="subseries">
+          <did>
+            <unittitle>Subseries A: Books</unittitle>
+          </did>
+          <separatedmaterial id="aspace_f6179ba858d61d4ce0a88e963bc872c9">
+            <head>Separated Materials</head>
+            <p>See separated materials note for the complete listing of books contained in this collection.</p>
+          </separatedmaterial>
+          <c id="aspace_ref21" level="file">
+            <did>
+              <unittitle>Gathered signatures for "The Pamphlets of Lewis Carroll"</unittitle>
+              <unitdate datechar="creation">2001</unitdate>
+              <container id="aspace_2e0f06220b14317307fabb1b85109dc1" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_4afde9a82c7f9ad8196936b02cbeba6c" parent="aspace_2e0f06220b14317307fabb1b85109dc1" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref22" level="file">
+            <did>
+              <unittitle>Proofs of "Russian Journal, Vol.2", includes photographs</unittitle>
+              <unitdate datechar="creation">1979</unitdate>
+              <container id="aspace_3bb36dda7ed51f5988dbed5fa372fc89" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_44d2cd4a040d485ddf21029a70e22743" parent="aspace_3bb36dda7ed51f5988dbed5fa372fc89" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref23" level="file">
+            <did>
+              <unittitle>"Lewis Carroll's Library", galley proof</unittitle>
+              <unitdate datechar="creation">1981</unitdate>
+              <container id="aspace_e83eafbc58b63dbf8ca31fa164b84a76" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_af1e341d1e9e2300af1bd342d6fcdd77" parent="aspace_e83eafbc58b63dbf8ca31fa164b84a76" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref24" level="file">
+            <did>
+              <unittitle>"Lewis Carroll Observed", galley proof</unittitle>
+              <unitdate datechar="creation">1976</unitdate>
+              <container id="aspace_4e9ad7ce6eca6f5c84cbe83b213d8fe1" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_601b12d0f32024664ddf89706a6ede0c" parent="aspace_4e9ad7ce6eca6f5c84cbe83b213d8fe1" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref25" level="file">
+            <did>
+              <unittitle>"The Hunting of the Snark", galley proof</unittitle>
+              <unitdate datechar="creation">1992</unitdate>
+              <container id="aspace_f55839e62941f4c963b84b512432c69a" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_f50818f77eeafd9a1be39340cbe6c352" parent="aspace_f55839e62941f4c963b84b512432c69a" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref26" level="file">
+            <did>
+              <unittitle>"Lewis Carroll, and Annotated Bibliography for 1974", galley proof</unittitle>
+              <unitdate datechar="creation">1974</unitdate>
+              <container id="aspace_5a12814fbc654707f8f1716fc88f6b40" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_0c3d0244be7a8a2b8cb4224e51afdbd8" parent="aspace_5a12814fbc654707f8f1716fc88f6b40" type="Folder">6</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref28" level="subseries">
+          <did>
+            <unittitle>Subseries B: "The Knight Letter"</unittitle>
+          </did>
+          <c id="aspace_ref29" level="file">
+            <did>
+              <unittitle>The Knight Letter, n. 1-5</unittitle>
+              <unitdate datechar="creation">1974-1976</unitdate>
+              <container id="aspace_326e2de2819b6531ff820763e2832213" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_387cb6a4b2bb8a9a8fb9d2531e228d72" parent="aspace_326e2de2819b6531ff820763e2832213" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref30" level="file">
+            <did>
+              <unittitle>The Knight Letter, n. 6-13</unittitle>
+              <unitdate datechar="creation">1977-1979</unitdate>
+              <container id="aspace_5b8862fb29b07e4eef6a876ddac0c7f0" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_8814ede05d3e98bebb4615f805cdbee6" parent="aspace_5b8862fb29b07e4eef6a876ddac0c7f0" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref31" level="file">
+            <did>
+              <unittitle>The Knight Letter, n. 14-17</unittitle>
+              <unitdate datechar="creation">1980-1982</unitdate>
+              <container id="aspace_c869ac69047094e3fb4d268f74b0a30e" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_70d42d9174a1ca37a716afb28ec3ebb4" parent="aspace_c869ac69047094e3fb4d268f74b0a30e" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref32" level="file">
+            <did>
+              <unittitle>The Knight Letter, n. 18-23</unittitle>
+              <unitdate datechar="creation">1983-1985</unitdate>
+              <container id="aspace_2b3e219bb3228c49ca615b0738eee6c3" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_8b133796efb91d65f2c4ab6418c654e3" parent="aspace_2b3e219bb3228c49ca615b0738eee6c3" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref33" level="file">
+            <did>
+              <unittitle>The Knight Letter, n. 24-30</unittitle>
+              <unitdate datechar="creation">1986-1988</unitdate>
+              <container id="aspace_206695de9a8c0414e5128c8ba5518495" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_edaa32d453968f91edcc96c21b5fc1f9" parent="aspace_206695de9a8c0414e5128c8ba5518495" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref34" level="file">
+            <did>
+              <unittitle>The Knight Letter, n. 31-39</unittitle>
+              <unitdate datechar="creation">1989-1991</unitdate>
+              <container id="aspace_da7077587bac126b030adaaaeae021e8" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_a086b15c0829b4b2b1bc5a8265deab83" parent="aspace_da7077587bac126b030adaaaeae021e8" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref35" level="file">
+            <did>
+              <unittitle>The Knight Letter, n. 40-48</unittitle>
+              <unitdate datechar="creation">1992-1994</unitdate>
+              <container id="aspace_4001818470129b915f69ed77906198f1" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_be7400dde7bb465b240c4d2427412f4d" parent="aspace_4001818470129b915f69ed77906198f1" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref36" level="file">
+            <did>
+              <unittitle>The Knight Letter, n. 49-53</unittitle>
+              <unitdate datechar="creation">1995-1996</unitdate>
+              <container id="aspace_3d5a8b90b27824af0ee3dd09b2208db5" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_5440970a99b9486a3c7a24b8d03445ea" parent="aspace_3d5a8b90b27824af0ee3dd09b2208db5" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref37" level="file">
+            <did>
+              <unittitle>The Knight Letter, n. 54-58</unittitle>
+              <unitdate datechar="creation">1997-1998</unitdate>
+              <container id="aspace_162823df28ee4ddb71ce195d7f2a9307" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_be23dce4ea06ce267ff16f2e61968cd0" parent="aspace_162823df28ee4ddb71ce195d7f2a9307" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref38" level="file">
+            <did>
+              <unittitle>The Knight Letter, n. 59-65</unittitle>
+              <unitdate datechar="creation">1999-2000</unitdate>
+              <container id="aspace_e8b4ac6138a4fe357ac9bbe231f648d2" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_874c57769838ed6b8fd3b867ed3db57e" parent="aspace_e8b4ac6138a4fe357ac9bbe231f648d2" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref39" level="file">
+            <did>
+              <unittitle>The Knight Letter, n. 66-70</unittitle>
+              <unitdate datechar="creation">2001-2002</unitdate>
+              <container id="aspace_64dab10a9c1bccb80d6865078f161dfb" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_61c4cd4b50b8f6d1aa035678909b417a" parent="aspace_64dab10a9c1bccb80d6865078f161dfb" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref40" level="file">
+            <did>
+              <unittitle>The Knight Letter, n. 71</unittitle>
+              <unitdate datechar="creation">2003</unitdate>
+              <container id="aspace_ef29d584bbb2c85bd1a197624beac8e8" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_5bad0a9ffe272e8c779a9bf6a1c6d365" parent="aspace_ef29d584bbb2c85bd1a197624beac8e8" type="Folder">12</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref41" level="subseries">
+          <did>
+            <unittitle>Subseries C: Keepsakes</unittitle>
+          </did>
+          <c id="aspace_ref42" level="file">
+            <did>
+              <unittitle>Princeton, NJ- bookmarks</unittitle>
+              <unitdate datechar="creation">1974</unitdate>
+              <container id="aspace_e2f116cb4280a62153605d36f3c66585" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_5707b60d6c0e982cd12f934fc000c77d" parent="aspace_e2f116cb4280a62153605d36f3c66585" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref43" level="file">
+            <did>
+              <unittitle>Morgan Library, NY NY- invitations and programs</unittitle>
+              <unitdate datechar="creation">1982</unitdate>
+              <container id="aspace_8c872e8c94c2a017a88acb8ecc83011e" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_17548cc1fd2865ad131b423b770d18b0" parent="aspace_8c872e8c94c2a017a88acb8ecc83011e" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref44" level="file">
+            <did>
+              <unittitle>Princeton, NJ- invitations to 10th Anniversary celebration</unittitle>
+              <unitdate datechar="creation">1983</unitdate>
+              <container id="aspace_9427925d13b039b25dfaf425c3bfae87" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_641e34896c7d6b545d7895cdcb8df2db" parent="aspace_9427925d13b039b25dfaf425c3bfae87" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref45" level="file">
+            <did>
+              <unittitle>Winston-Salem, NC- "Alice in North Carroll-ina", schedule and exhibition notes</unittitle>
+              <unitdate datechar="creation">1989</unitdate>
+              <container id="aspace_dff932938ca11e2212568eddaaff4ccf" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_068d343a377d4cc3d0baab4d22fcb76b" parent="aspace_dff932938ca11e2212568eddaaff4ccf" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref46" level="file">
+            <did>
+              <unittitle>Morgan Library, NY NY- bookmarks</unittitle>
+              <unitdate datechar="creation">1989</unitdate>
+              <container id="aspace_e6c0865245630a44829d7673bf920cc4" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_13da8f0c53c2dcf1edb6ef5478ac9c7b" parent="aspace_e6c0865245630a44829d7673bf920cc4" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref47" level="file">
+            <did>
+              <unittitle>Toronto, Canada- Wood engraving on hand-made paper of "The Garden of Live Flowers"</unittitle>
+              <unitdate datechar="creation">1990</unitdate>
+              <container id="aspace_dec1f5459518c47e56187e0ecdb6812e" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_2728e8ab1ef114973fbdc3a8a90ede64" parent="aspace_dec1f5459518c47e56187e0ecdb6812e" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref48" level="file">
+            <did>
+              <unittitle>Beltsville, MD- Microfiche- "The Hunting of the Snark".</unittitle>
+              <unitdate datechar="creation">1991</unitdate>
+              <container id="aspace_e44387d335023ff7b3a819a8a24948b6" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_39d4676fa4f12377f5ed214b28935b43" parent="aspace_e44387d335023ff7b3a819a8a24948b6" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref49" level="file">
+            <did>
+              <unittitle>Princeton, NJ- "Stan Marx Memorial"- oversize pamphlet.</unittitle>
+              <unitdate datechar="creation">1994</unitdate>
+              <container id="aspace_4374c6a5e7c43c2a2f88e11522094221" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_08f53aefd87433bb706359250d8b69ea" parent="aspace_4374c6a5e7c43c2a2f88e11522094221" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref50" level="file">
+            <did>
+              <unittitle>Austin, TX- 'Enough of a Muchness" and "Warren Weaver"- pamphlets.</unittitle>
+              <unitdate datechar="creation">1991</unitdate>
+              <container id="aspace_936035bfef33df2aa87f175d1331bbe6" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_deb986fb0a1ea7bea76c276974829a22" parent="aspace_936035bfef33df2aa87f175d1331bbe6" type="Folder">9</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref51" level="subseries">
+          <did>
+            <unittitle>Subseries D: "The Herald"- LCSNA West Coast Chapter Newsletter</unittitle>
+          </did>
+          <scopecontent id="aspace_84a92f4c8d227ded8e577033d8119429">
+            <head>Scope and Contents note</head>
+            <p>Irregular newsletter of the West Coast Chapter- includes mailing list for CA branch and related correspondence</p>
+          </scopecontent>
+          <c id="aspace_ref52" level="file">
+            <did>
+              <unittitle>The Herald- LCSNA West Coast Chapter newsletter</unittitle>
+              <unitdate datechar="creation">1978-1986</unitdate>
+              <container id="aspace_6dc9be2b5c482e700babd27f59727352" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_eff9c303e124ee8b2275569e7e74a2f2" parent="aspace_6dc9be2b5c482e700babd27f59727352" type="Folder">1</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref54" level="subseries">
+          <did>
+            <unittitle>Subseries E: Morton N. Cohen Publication Trust</unittitle>
+          </did>
+          <scopecontent id="aspace_836534fbf1b1a0383df2ac3a0da37e12">
+            <head>Scope and Contents note</head>
+            <p>Documents relating to establishment of the Trust.</p>
+          </scopecontent>
+          <c id="aspace_ref55" level="file">
+            <did>
+              <unittitle>Morton N. Cohen Publication Trust</unittitle>
+              <unitdate datechar="creation">1984</unitdate>
+              <container id="aspace_939fedef1d1f276759255c797a854a61" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_afc92dc11c9e9de5a195ec07a25733b3" parent="aspace_939fedef1d1f276759255c797a854a61" type="Folder">1</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref57" level="subseries">
+          <did>
+            <unittitle>Subseries F: Publication Contracts and Documents</unittitle>
+          </did>
+          <scopecontent id="aspace_176f9218399758262cec5a3bd1354a0a">
+            <head>Scope and Contents note</head>
+            <p>Includes publication contracts for LCSNA books and pamphlets, and correspondence with the Carroll estate</p>
+          </scopecontent>
+          <c id="aspace_ref58" level="file">
+            <did>
+              <unittitle>Publication contracts and documents</unittitle>
+              <unitdate datechar="creation">1976-1995</unitdate>
+              <container id="aspace_9704fc1316fa4026736b28f4fc074b83" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_f1019c12b9b1b9138c7d8c0de215f397" parent="aspace_9704fc1316fa4026736b28f4fc074b83" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref59" level="file">
+            <did>
+              <unittitle>Publication contracts and documents</unittitle>
+              <unitdate datechar="creation">1976-1995</unitdate>
+              <container id="aspace_08b61976647c82d415a2becee83f8613" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_5392c66cba997fca30d4ffa6cbe60f60" parent="aspace_08b61976647c82d415a2becee83f8613" type="Folder">2</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref61" level="subseries">
+          <did>
+            <unittitle>Subseries G: LCSNA 25th Anniversary Publication</unittitle>
+          </did>
+          <scopecontent id="aspace_8fa206b1016a09cbbd11d3782d2b790b">
+            <head>Scope and Contents note</head>
+            <p>Includes proof pages of "Thimbles and Hope", plus correspondence from members and officers regarding their involvement with LCSNA</p>
+          </scopecontent>
+          <c id="aspace_ref62" level="file">
+            <did>
+              <unittitle>LCSNA 25th Anniversary Publication</unittitle>
+              <unitdate datechar="creation">1974-1999</unitdate>
+              <container id="aspace_7faa1ef3b8e3fcd7d0c61e0a038fe46c" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_96f09992bd11c5f7960575cf456d8028" parent="aspace_7faa1ef3b8e3fcd7d0c61e0a038fe46c" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref63" level="file">
+            <did>
+              <unittitle>LCSNA 25th Anniversary Publication</unittitle>
+              <unitdate datechar="creation">1974-1999</unitdate>
+              <container id="aspace_5a2ebb0c6cce485086d105699a86c383" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_0b6763ce0853e36e2b28a90cee4140e0" parent="aspace_5a2ebb0c6cce485086d105699a86c383" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref64" level="file">
+            <did>
+              <unittitle>LCSNA 25th Anniversary Publication</unittitle>
+              <unitdate datechar="creation">1974-1999</unitdate>
+              <container id="aspace_98ac4c7699256c62a3b8319765d8ee9a" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_6b44a58212f024860c153b4acb8bfa43" parent="aspace_98ac4c7699256c62a3b8319765d8ee9a" type="Folder">3</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref67" level="series">
+        <did>
+          <unittitle>Series III: Membership Records</unittitle>
+        </did>
+        <scopecontent id="aspace_583e306076e86f3f351dfd3ab4c43a41">
+          <head>Scope and Contents note</head>
+          <p>Documentation of LCSNA membership, from 1974-2000, and correspondence between LCSNA officers, LCSNA members, prospective members, and the public.</p>
+        </scopecontent>
+        <c id="aspace_ref68" level="subseries">
+          <did>
+            <unittitle>Subseries A: Membership Lists</unittitle>
+          </did>
+          <scopecontent id="aspace_02e53c4a230a754062344716b0a4f1bf">
+            <head>Scope and Contents note</head>
+            <p>Official membership lists prepared by the Secretaries of LCSNA</p>
+          </scopecontent>
+          <c id="aspace_ref69" level="file">
+            <did>
+              <unittitle>Membership Lists, 1974-1980</unittitle>
+              <unitdate datechar="creation">1974-1980</unitdate>
+              <container id="aspace_6e01b7ae684c1fb187c4e0ea8bd0edd5" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_f28e37b0450d2b6462783cc19d1fc423" parent="aspace_6e01b7ae684c1fb187c4e0ea8bd0edd5" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref70" level="file">
+            <did>
+              <unittitle>Membership Lists, 1973-1989</unittitle>
+              <unitdate datechar="creation">1983-1989</unitdate>
+              <container id="aspace_d9d8b241613859cd7a2e916f8e5e001e" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_d0a580ca25a5939e2fd16cbb5412cfab" parent="aspace_d9d8b241613859cd7a2e916f8e5e001e" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref71" level="file">
+            <did>
+              <unittitle>Membership Lists, 1991-1995</unittitle>
+              <unitdate datechar="creation">1991-1995</unitdate>
+              <container id="aspace_c77d47cb9327f21b2d3ad1e9b6d0c8bd" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_251aab9190a42b4c990f9a23de22f156" parent="aspace_c77d47cb9327f21b2d3ad1e9b6d0c8bd" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref72" level="file">
+            <did>
+              <unittitle>Membership Lists, 1996-2000</unittitle>
+              <unitdate datechar="creation">1996-2000</unitdate>
+              <container id="aspace_fc2588794e1f2728a9b44cda7090627c" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_eac9046b1c3baf8b14d20c70f50444d8" parent="aspace_fc2588794e1f2728a9b44cda7090627c" type="Folder">4</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref74" level="subseries">
+          <did>
+            <unittitle>Subseries B: Membership Cards</unittitle>
+          </did>
+          <scopecontent id="aspace_0112af88ebcda87d4f053c3ecc4ea7e1">
+            <head>Scope and Contents note</head>
+            <p>Membership roster on index cards, used by Secretaries to prepare membership lists in the early years of LCSNA. First 7 folders are in random order, and the last 5 are arranged alphabetically.</p>
+          </scopecontent>
+          <c id="aspace_ref75" level="file">
+            <did>
+              <unittitle>Membership Cards</unittitle>
+              <unitdate datechar="creation">1974-1980</unitdate>
+              <container id="aspace_ab7f44ee72f7c651becd144a72bfd2ff" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_f1e0d1dfd982cd8988b82e8099dc9541" parent="aspace_ab7f44ee72f7c651becd144a72bfd2ff" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref76" level="file">
+            <did>
+              <unittitle>Membership Cards</unittitle>
+              <unitdate datechar="creation">1974-1980</unitdate>
+              <container id="aspace_1db85292d41aea048d551f52d5b56e1e" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_ecffcbdddb6f0f08ca156648e8edfd24" parent="aspace_1db85292d41aea048d551f52d5b56e1e" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref77" level="file">
+            <did>
+              <unittitle>Membership Cards</unittitle>
+              <unitdate datechar="creation">1974-1980</unitdate>
+              <container id="aspace_0699b2124431c72ae3f7519b9676c5a0" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_161a3ad899ca4f29a129de8b9b5e1445" parent="aspace_0699b2124431c72ae3f7519b9676c5a0" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref78" level="file">
+            <did>
+              <unittitle>Membership Cards</unittitle>
+              <unitdate datechar="creation">1974-1980</unitdate>
+              <container id="aspace_89d266ad80f1284eee411ea05e2cf4f9" label="Mixed Materials [31142042233018]" type="Box">1</container>
+              <container id="aspace_2ea4b7f1ee5aba905cb96a8fa619be61" parent="aspace_89d266ad80f1284eee411ea05e2cf4f9" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref79" level="file">
+            <did>
+              <unittitle>Membership Cards</unittitle>
+              <unitdate datechar="creation">1974-1980</unitdate>
+              <container id="aspace_cb9d8c85e6d0bcbdb06d01a2ff75303a" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_eb68e449c9994050b9986ad423017232" parent="aspace_cb9d8c85e6d0bcbdb06d01a2ff75303a" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref80" level="file">
+            <did>
+              <unittitle>Membership Cards</unittitle>
+              <unitdate datechar="creation">1974-1980</unitdate>
+              <container id="aspace_77d669f723a672a475fdbc1f5dab9942" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_15ccc05909f72b2ad7c53fc4bcca556f" parent="aspace_77d669f723a672a475fdbc1f5dab9942" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref81" level="file">
+            <did>
+              <unittitle>Membership Cards</unittitle>
+              <unitdate datechar="creation">1974-1980</unitdate>
+              <container id="aspace_5007bb8da874c364a9b629eafcf59d94" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_5e25cff70b9fedb8ec626e639b7a8301" parent="aspace_5007bb8da874c364a9b629eafcf59d94" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref82" level="file">
+            <did>
+              <unittitle>Membership Cards A-D</unittitle>
+              <unitdate datechar="creation">1974-1980</unitdate>
+              <container id="aspace_69e20db5d0045f2fa728198ca0a8fced" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_f0fb5a481e8e9bc666d4cbe7e4fa4d14" parent="aspace_69e20db5d0045f2fa728198ca0a8fced" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref83" level="file">
+            <did>
+              <unittitle>Membership Cards E-H</unittitle>
+              <unitdate datechar="creation">1974-1980</unitdate>
+              <container id="aspace_0f82840896db24e90c8e4927f96c771f" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_0146e0be2a49816a5d00b1d5d361bd73" parent="aspace_0f82840896db24e90c8e4927f96c771f" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref84" level="file">
+            <did>
+              <unittitle>Membership Cards I-M</unittitle>
+              <unitdate datechar="creation">1974-1980</unitdate>
+              <container id="aspace_2b7965e67cb9586755abae0910e4b800" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_4998e5b9a95cd0fc425fda037e83942e" parent="aspace_2b7965e67cb9586755abae0910e4b800" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref85" level="file">
+            <did>
+              <unittitle>Membership Cards N-S</unittitle>
+              <unitdate datechar="creation">1974-1980</unitdate>
+              <container id="aspace_9b5c8688459417f05cef69bed716d5b5" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_e4e652bdadd305dc4a161a89bab4ebb1" parent="aspace_9b5c8688459417f05cef69bed716d5b5" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref86" level="file">
+            <did>
+              <unittitle>Membership Cards T-Z</unittitle>
+              <unitdate datechar="creation">1974-1980</unitdate>
+              <container id="aspace_8a1882108e91a52d3509280b4dd6cc14" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_679f5749b4650f8928a4472e399b3b44" parent="aspace_8a1882108e91a52d3509280b4dd6cc14" type="Folder">12</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref88" level="subseries">
+          <did>
+            <unittitle>Subseries C: Samples of Secretary-Membership Correspondence</unittitle>
+          </did>
+          <scopecontent id="aspace_3e49ed9119eb9847aa7b6f69ea485a30">
+            <head>Scope and Contents note</head>
+            <p>Examples of LCSNA interaction with members and non-members, 1976-1985.</p>
+          </scopecontent>
+          <c id="aspace_ref89" level="file">
+            <did>
+              <unittitle>Members-Secretary Correspondence, 1977-1982</unittitle>
+              <unitdate datechar="creation">1977-1982</unitdate>
+              <container id="aspace_7505a5d44ade8354303ac86d1aab0dd3" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_ef0c95f06de5a364cfd7be57f831b62e" parent="aspace_7505a5d44ade8354303ac86d1aab0dd3" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref90" level="file">
+            <did>
+              <unittitle>Members-Secretary Correspondence, 1977-1982</unittitle>
+              <unitdate datechar="creation" normal="1977/1982" type="inclusive">1977-1982</unitdate>
+              <container id="aspace_5257a6fe098307716d7a43eff419dd6c" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_4c869d397b14295ad93ecdf3bbd8191b" parent="aspace_5257a6fe098307716d7a43eff419dd6c" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref91" level="file">
+            <did>
+              <unittitle>Members-Secretary Correspondence, 1984-1985</unittitle>
+              <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
+              <container id="aspace_a1dd234ed491dc62e2f143dcedbd6f2a" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_5efe58f26ce5ca0a67c020a16bee36ba" parent="aspace_a1dd234ed491dc62e2f143dcedbd6f2a" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref92" level="file">
+            <did>
+              <unittitle>Members-Secretary Correspondence, 1984-1985</unittitle>
+              <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
+              <container id="aspace_6957bf7bb8443aea57b19a56329ff574" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_c2a41234ab52ab2be1e5ace9fb28293c" parent="aspace_6957bf7bb8443aea57b19a56329ff574" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref93" level="file">
+            <did>
+              <unittitle>Members-Secretary Correspondence, 1984-1985</unittitle>
+              <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
+              <container id="aspace_8f9c450d065e3ec03cb2fda189bebec1" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_ebdf1c5d90c41c11fd8545bb01e64822" parent="aspace_8f9c450d065e3ec03cb2fda189bebec1" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref94" level="file">
+            <did>
+              <unittitle>Members-Secretary Correspondence, 1984-1985</unittitle>
+              <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
+              <container id="aspace_39dbfdaab707b3c5d08908fbe76e3766" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_19706fa02a0e6f2eac9bb64c1b6d39a9" parent="aspace_39dbfdaab707b3c5d08908fbe76e3766" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref95" level="file">
+            <did>
+              <unittitle>Members-Secretary Correspondence, 1984-1985</unittitle>
+              <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
+              <container id="aspace_28fea3af8998c9cf3a544fc3b992296e" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_cb62ee2872f15aaf615efd90d175fa5b" parent="aspace_28fea3af8998c9cf3a544fc3b992296e" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref96" level="file">
+            <did>
+              <unittitle>Members-Secretary Correspondence, 1984-1985</unittitle>
+              <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
+              <container id="aspace_07e6c7cb97f781cdcbdaf4ec85ed7cc2" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_135cedcae9b2c102a77b765df80388c5" parent="aspace_07e6c7cb97f781cdcbdaf4ec85ed7cc2" type="Folder">8</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref98" level="subseries">
+          <did>
+            <unittitle>Subseries D: Membership Opinion and Interests Survey Forms</unittitle>
+          </did>
+          <scopecontent id="aspace_3f5650f2e7c72cc4a147239126894558">
+            <head>Scope and Contents note</head>
+            <p>Circulated in 1991, this was a general survey regarding LCSNA membership interests. Results were summarized in the 1992 issues of "The Knight Letter".</p>
+          </scopecontent>
+          <c id="aspace_ref99" level="file">
+            <did>
+              <unittitle>Membership Survey Responses</unittitle>
+              <unitdate datechar="creation" normal="1991/1991">1991</unitdate>
+              <container id="aspace_861f6c9cd47bad92665c7e333abacadb" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_d82fa55b7dc9f83c7541fcd531d4607b" parent="aspace_861f6c9cd47bad92665c7e333abacadb" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref100" level="file">
+            <did>
+              <unittitle>Membership Survey Responses</unittitle>
+              <unitdate datechar="creation" normal="1991/1991">1991</unitdate>
+              <container id="aspace_c9ae76c97a54c9f56e8fc416537bcc23" label="Mixed Materials [31142042233026]" type="Box">2</container>
+              <container id="aspace_9584a29995e2599602fa0bb7f4ce30c4" parent="aspace_c9ae76c97a54c9f56e8fc416537bcc23" type="Folder">2</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref103" level="series">
+        <did>
+          <unittitle>Series IV: General Meeting Records</unittitle>
+        </did>
+        <scopecontent id="aspace_3973df0645eea513c074486566b78ff0">
+          <head>Scope and Contents note</head>
+          <p>Files contain copies of official meeting notices and programs, correspondence with speakers and host sites, and all other correspondence relating to general meeting organization and preparation. Some folders in the series are in the Oversize box, please see Oversize container list for details.</p>
+        </scopecontent>
+        <c id="aspace_ref104" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>December 7, 1974- Gotham Book Mart, New York NY</unittitle>
+            <unitdate datechar="creation">1974</unitdate>
+            <container id="aspace_1a8aaa122a9b1bdcebb873036bc43aec" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_ca1372c0334a441057d80664a52fc0d3" parent="aspace_1a8aaa122a9b1bdcebb873036bc43aec" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>May 3, 1975- Wye Plantation, MD, and Exhibit at Library of Congress, Washington, DC</unittitle>
+            <unitdate datechar="creation">1975</unitdate>
+            <container id="aspace_0d83e5512acc9c4fea1387796a642163" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_b0ec4ac31eab54476f002230a3ea5064" parent="aspace_0d83e5512acc9c4fea1387796a642163" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>November 1, 1975- Elmer Holmes Bobst Library, New York University, New York, NY</unittitle>
+            <unitdate datechar="creation">1975</unitdate>
+            <container id="aspace_28738dc1a29a2431e58ab475085b4d83" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_379483a983f6705ab49b7cd0af20accf" parent="aspace_28738dc1a29a2431e58ab475085b4d83" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>November 6, 1976- Graduate Center, City University of New York, New York, NY</unittitle>
+            <unitdate datechar="creation">1976</unitdate>
+            <container id="aspace_7b6d31feb88505293a814a34fe146ea9" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_39ca09a571cd03fac17e4b21fd82c428" parent="aspace_7b6d31feb88505293a814a34fe146ea9" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>November 5, 1977- University of Maryland, Baltimore County, MD</unittitle>
+            <unitdate datechar="creation">1977</unitdate>
+            <container id="aspace_e7614f46f83f7466fcddebacb5094399" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_2482d1fa960d2e90a2a37b4db41fbb57" parent="aspace_e7614f46f83f7466fcddebacb5094399" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>May 13, 1978- Rosenbach Foundation and Library, Philadelphia, PA</unittitle>
+            <unitdate datechar="creation">1978</unitdate>
+            <container id="aspace_1d9cc9e7e27362087850969474ff7fc3" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_aa8299b5abbf6a4056900c048f438bca" parent="aspace_1d9cc9e7e27362087850969474ff7fc3" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>May 19, 1979- Elmer Holmes Bobst Library, New York University, New York, NY</unittitle>
+            <unitdate datechar="creation">1979</unitdate>
+            <container id="aspace_c0f14152d097a2e1b5900f5f4c0fcecc" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_26339df4cc090361a779beb94a204ca8" parent="aspace_c0f14152d097a2e1b5900f5f4c0fcecc" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>October 20, 1979- Canady Library, Bryn Mawr College, Bryn Mawr, PA</unittitle>
+            <unitdate datechar="creation">1979</unitdate>
+            <container id="aspace_15ffd6fda47924852c4fa602180864bc" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_dd973556bc7bc379f22b00cc07851bac" parent="aspace_15ffd6fda47924852c4fa602180864bc" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>May 17, 1980- Joseph I. Lubin House, New York, NY</unittitle>
+            <unitdate datechar="creation">1980</unitdate>
+            <container id="aspace_486ca9f05ad75be7a2fc55207668cb7f" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_9ec94275968cf7b04abb58c708d184c6" parent="aspace_486ca9f05ad75be7a2fc55207668cb7f" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>May 8, 1981- Houghton Library, Harvard University, Cambridge, MA</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container id="aspace_2d99500a02fe072034599d1952e9d3d9" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_5c779eea346b824f2b1ee7aa1740a2d8" parent="aspace_2d99500a02fe072034599d1952e9d3d9" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>January 30, 1982- Pierpont Morgan Library New York, NY</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_ca6ab42310869669d760806346fb63ec" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_16db64442451fa1111fe83cd6fe9959a" parent="aspace_ca6ab42310869669d760806346fb63ec" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>July 26-31,1982- Christ Church, Oxford, England</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_c904d347da2ab9e90fccba9f6283df99" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_8ad85d60f0064664d370d7960eddc65c" parent="aspace_c904d347da2ab9e90fccba9f6283df99" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>December 11,1982- New York Public Library, New York, NY</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_142ce4f670178ac13085736253ab5b0d" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_84062ce5f2f3677f6c1afe9991130a47" parent="aspace_142ce4f670178ac13085736253ab5b0d" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Sesquicentennial Materials and Meetings</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_3351930894b0b3132fc4620a284edbb1" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_33c83a1f074ebe5d5709fc8ef5cfb654" parent="aspace_3351930894b0b3132fc4620a284edbb1" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>May 28, 1983- Folger Shakespeare Library, Washington, DC</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_0e566fdf5220e2a7ffa68c8439d1c95e" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_204469b379918bd9be15422ea9cab223" parent="aspace_0e566fdf5220e2a7ffa68c8439d1c95e" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>October 29, 1983- Firestone Library, Princeton University, Princeton, NJ</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_ae85aceee0c676b62f175650aa32d83d" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_9d93375e837d6006599b0f26917f45d4" parent="aspace_ae85aceee0c676b62f175650aa32d83d" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>April 7, 1984- Gleason Library, University of San Francisco, San Francisco, CA</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_fc1d6f8b4e2dda2c917d39ba9c2a9f35" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_9c401c6e0938920bf32598d67f2031ee" parent="aspace_fc1d6f8b4e2dda2c917d39ba9c2a9f35" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>November 17, 1984- Elmer Holmes Bobst Library, New York University, New York, NY</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_b6388bc414019cd424214d21130f5387" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_8679118b912c44f4210de02ee5cec4f3" parent="aspace_b6388bc414019cd424214d21130f5387" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>April 20, 1985- Newberry Library, Chicago, IL</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_0f3620c3d5f2490ddc947648fee9aed7" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_90fda102f2ff9088aced931c99bb85d1" parent="aspace_0f3620c3d5f2490ddc947648fee9aed7" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>November 9, 1985- Harry Ransom Humanities Research Center, University of Texas at Austin, TX</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_f595499f4b1d65bb0da2c00e00764eab" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_bb34e4dc6368ac1deb73a1248556fbbc" parent="aspace_f595499f4b1d65bb0da2c00e00764eab" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>April 26, 1986- Donnell Library, New York Public Library, New York, NY</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_c96f8c1453b7a9c2b365c10874430467" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_e62c6ad3a76f63666e53e9a17dac82db" parent="aspace_c96f8c1453b7a9c2b365c10874430467" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>November 15, 1986- Boston Public Library, Boston, MA</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_07751154a5ce6ae96e3e1ba8d52103c3" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_a3a1a78bdbb6ccad09c88e2f1265e4fd" parent="aspace_07751154a5ce6ae96e3e1ba8d52103c3" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>April 25, 1987- Enoch Pratt Library, Baltimore, MD</unittitle>
+            <unitdate datechar="creation">1987</unitdate>
+            <container id="aspace_0c6aacf8ca72249b407e88a6f84d38f7" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_dd80b06424700bc51a9274a04ea9fd2d" parent="aspace_0c6aacf8ca72249b407e88a6f84d38f7" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>October 24, 1987- Century Club, New York, NY</unittitle>
+            <unitdate datechar="creation">1987</unitdate>
+            <container id="aspace_45888b3a427a510811d421a272698d56" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_f6c69484b17e274749163a1a6c635207" parent="aspace_45888b3a427a510811d421a272698d56" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>May 15, 1988- Huntington Library, San Marino, CA</unittitle>
+            <unitdate datechar="creation">1988</unitdate>
+            <container id="aspace_11a0834a68ff2509cd09a2630a23d6b5" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_784812ebabfee896865e050f3e139a57" parent="aspace_11a0834a68ff2509cd09a2630a23d6b5" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>October 15, 1988- Free Library of Philadelphia, Philadelphia, PA</unittitle>
+            <unitdate datechar="creation">1988</unitdate>
+            <container id="aspace_c8aa85b88397ff205677e2c1a748d7a2" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_3eb352001177177ee16de60807537367" parent="aspace_c8aa85b88397ff205677e2c1a748d7a2" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>May 5-7, 1989- Forsythe County Library and home of Charles and Stephanie Lovett, Winston-Salem, NC</unittitle>
+            <unitdate datechar="creation">1989</unitdate>
+            <container id="aspace_7953ff15180182fd1b9a23fff3a9b689" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_549f93e8106624ae16428330652939f4" parent="aspace_7953ff15180182fd1b9a23fff3a9b689" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>October 21, 1989- Pierpont Morgan Library, New York, NY</unittitle>
+            <unitdate datechar="creation">1989</unitdate>
+            <container id="aspace_e93fcd6f44dc10163e66bd9ce2b240c6" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_af8f2de79ea01d067e73a243afb5e1b3" parent="aspace_e93fcd6f44dc10163e66bd9ce2b240c6" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>May 12, 1990- Toronto Public Library, Toronto, Canada</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_320f9ea8d2d54471bb337edcd279f2cb" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_e8fc33622e937319a4ef1f37958d10a9" parent="aspace_320f9ea8d2d54471bb337edcd279f2cb" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>October 20, 1990- Enoch Pratt Library, Baltimore, MD</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_041d74c7f265af80bc69274b5ae70d51" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_e8a764f722e49a611ff0f75990abc24d" parent="aspace_041d74c7f265af80bc69274b5ae70d51" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>April 20, 1991- Grolier Club, New York, NY</unittitle>
+            <unitdate datechar="creation">1991</unitdate>
+            <container id="aspace_5e53dc477bf4f22243c37703a628848c" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_cb4ab42b35c85d79e9f3aafc01e208c0" parent="aspace_5e53dc477bf4f22243c37703a628848c" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>October 5, 1991- Wheaton Regional Library, Silver Spring, MD, and the homes of David and Maxine Shaefer, August and Clare Imholtz, and Alan and Alison Tannenbaum, Silver Spring, Beltsville, and Washington Grove, MD</unittitle>
+            <unitdate datechar="creation">1991</unitdate>
+            <container id="aspace_876fdfc9890620acd66a33921e925770" label="Mixed Materials [31142042233026]" type="Box">2</container>
+            <container id="aspace_4a46f0d583cfd2078dd503973acf12a1" parent="aspace_876fdfc9890620acd66a33921e925770" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>May 2, 1992- Fales Library, Elmer Holmes Bobst Library, New York University, New York, NY</unittitle>
+            <unitdate datechar="creation">1992</unitdate>
+            <container id="aspace_1668629d0ba573d71fc5598a303a935d" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_1494d636bab29e16a43a251a267f4b78" parent="aspace_1668629d0ba573d71fc5598a303a935d" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>October 17, 1992- Gleason Library, University of San Francisco, San Francisco, CA</unittitle>
+            <unitdate datechar="creation">1992</unitdate>
+            <container id="aspace_cec391f76684179e0660c37bb9d195dd" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_c16c828e96a5bf707059aed30c594e7e" parent="aspace_cec391f76684179e0660c37bb9d195dd" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>May 15, 1993- New York Public Library, New York, NY</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container id="aspace_10c86de74d2c34134bdb57a1c96732d6" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_9cf577bba608e0ee2775b967ff11082f" parent="aspace_10c86de74d2c34134bdb57a1c96732d6" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>November 20, 1993- Houghton Library, Harvard University, Cambridge, MA</unittitle>
+            <unitdate datechar="creation">1993</unitdate>
+            <container id="aspace_2553e2411c5a1309cf6d53c9d3f3f91f" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_efa91d72e03f4d094e19b55d5d49b10c" parent="aspace_2553e2411c5a1309cf6d53c9d3f3f91f" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>June 9-12, 1994- Graylyn Conference Center, Wake Forest University, Winston-Salem, NC</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container id="aspace_7fd0dd7ba374cf1e978bf31a29d7828e" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_d6586e0b54f24052aebb1136e23ed0f1" parent="aspace_7fd0dd7ba374cf1e978bf31a29d7828e" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>November 12, 1994- Princeton University, Princeton, NJ</unittitle>
+            <unitdate datechar="creation">1994</unitdate>
+            <container id="aspace_94bc036e6ac332b2de03bdcc6ab9f9bf" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_385777ba9146faa6b1f91d025787acca" parent="aspace_94bc036e6ac332b2de03bdcc6ab9f9bf" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>October 28, 1995- Home of Jon and Ginny Lindseth, Hunting Valley, OH, and The Rowfant Club, Cleveland, OH</unittitle>
+            <unitdate datechar="creation">1995</unitdate>
+            <container id="aspace_ca8bd596306743f3f4f95c24f77acd59" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_5cfe27813ada5b24b7abd67375dea494" parent="aspace_ca8bd596306743f3f4f95c24f77acd59" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref143" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>April 27, 1996- Rosenbach Museum and Library, Philadelphia, PA, and Germantown Theatre and Kitty Minehart's Home, Germantown, PA</unittitle>
+            <unitdate datechar="creation">1996</unitdate>
+            <container id="aspace_0d0c0007ce7b4dcd2420f9f7ec4679ca" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_670e2cc7e8b9cdc37f5db3ed542721b1" parent="aspace_0d0c0007ce7b4dcd2420f9f7ec4679ca" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>November 9, 1996- Brown University, Providence, RI</unittitle>
+            <unitdate datechar="creation">1996</unitdate>
+            <container id="aspace_77e49ecdf5409e547a5ee6d5f14bdc22" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_b6dee2e7bf2502ec4425b5ccc56391f6" parent="aspace_77e49ecdf5409e547a5ee6d5f14bdc22" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref145" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>April 19, 1997- Fales Library, Elmer Holmes Bobst Library, New York University, New York, NY</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container id="aspace_887177b6b6dc484fcd18645e55373000" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_71f99bba24338848a75202bef3b63f4b" parent="aspace_887177b6b6dc484fcd18645e55373000" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref146" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>October 7, 1997- St. John's University, Collegeville, MN</unittitle>
+            <unitdate datechar="creation">1997</unitdate>
+            <container id="aspace_a24d32549be2f0c153c4343236a814ca" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_e542c665e8d591a56ffb2576746ba879" parent="aspace_a24d32549be2f0c153c4343236a814ca" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>March 27-30, 1998- Fales Library, Elmer Holmes Bobst Library, New York University, New York, NY, Home of Janet Jurist, New York, NY, The Cornell Club, New York, NY, The Pierpont Morgan Library, New York, NY and The Rosenbach Museum and Library, Philadelphia, PA</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container id="aspace_aa83726587b4bf86a85d6814079363de" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_5181186bb904b8a422def4544765cc53" parent="aspace_aa83726587b4bf86a85d6814079363de" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>March 27-30, 1998- Fales Library, Elmer Holmes Bobst Library, New York University, New York, NY, Home of Janet Jurist, New York, NY, The Cornell Club, New York, NY, The Pierpont Morgan Library, New York, NY and The Rosenbach Museum and Library, Philadelphia, PA</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container id="aspace_173db371c90ecb5700e1acdd6e776e39" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_9820e9f28b5a5c62ecc3ff6a9b8c859a" parent="aspace_173db371c90ecb5700e1acdd6e776e39" type="Folder">46 B</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>November 7-8, 1998- Young Research Library, UCLA, Huntington Library, San Marino, CA, Home of Daniel Singer, Pasadena, CA</unittitle>
+            <unitdate datechar="creation">1998</unitdate>
+            <container id="aspace_db152c88a98ac7dc73aba698bab5bdac" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_f5c126e1f98a043875c37dd6f0153771" parent="aspace_db152c88a98ac7dc73aba698bab5bdac" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>May 8, 1999 -National Cathedral, Washington, DC, Home of August and Clare Imholtz, Beltsville, MD, and home of Barbara Mall, Columbia, MD.</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_90920cf88fb8370c89009d6289211ccc" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_54a178b050968908f6897dc0d7f54c4a" parent="aspace_90920cf88fb8370c89009d6289211ccc" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref151" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>October 23-24, 1999 - Fisher Library, University of Toronto, Art Gallery of Toronto, Toronto, Canada</unittitle>
+            <unitdate datechar="creation">1999</unitdate>
+            <container id="aspace_b1f42363dc7af37b8d3aaa7fa4775800" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_e20f82d9c579993c0592c2ecbaf55776" parent="aspace_b1f42363dc7af37b8d3aaa7fa4775800" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>April 15, 2000 - Cornell Club, New York, NY.</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_85ad0f71adbc1be9856ca45431e72702" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_d771856034e89b12db347c733ccb5372" parent="aspace_85ad0f71adbc1be9856ca45431e72702" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>October 28, 2000- Harry Ransom Humanities Research Center, University of Texas at Austin, TX.</unittitle>
+            <unitdate datechar="creation">2000</unitdate>
+            <container id="aspace_99187205f609c38e41f43a6734f7edbb" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_6f8c149ce5e0da5abe3c063c618a5f6c" parent="aspace_99187205f609c38e41f43a6734f7edbb" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>April 21, 2001- Fales Library, Elmer Holmes Bobst Library, New York University, New York, NY.</unittitle>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_18b60f6cf4639f43ae7adb2809e6f084" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_26f1c15017823cd91379cf25bf7256b8" parent="aspace_18b60f6cf4639f43ae7adb2809e6f084" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref155" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>October 27, 2001- Walt Disney Studios, Burbank, CA and the home of Daniel Singer, Pasadena, CA.</unittitle>
+            <unitdate datechar="creation">2001</unitdate>
+            <container id="aspace_7c9535d8ebb666eca116b6336ae579c0" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_fa485908fdb266850f6917297d4fedda" parent="aspace_7c9535d8ebb666eca116b6336ae579c0" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>April 13, 2002- Princeton University, Princeton, NJ.</unittitle>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_5fd793f84b2ad2786773343f7bc9be34" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_c1ea337a71c02e1fc5ae43f633f96041" parent="aspace_5fd793f84b2ad2786773343f7bc9be34" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref157" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>November 2, 2002- San Francisco Museum of Art, Cartoon Art Museum, San Francisco, CA, and home of Mark and Lisa Burstein, Mill Valley, CA</unittitle>
+            <unitdate datechar="creation">2002</unitdate>
+            <container id="aspace_1fd9eea47d1f3722a894e5bcd2bd40b8" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_3ebd21cf5ff4f5a28795b2e3ff81e6f6" parent="aspace_1fd9eea47d1f3722a894e5bcd2bd40b8" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref158" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>April 12, 2003- Newberry Library, Chicago, IL, and home of Joeland Deborah Birenbaum, Lisle, IL</unittitle>
+            <unitdate datechar="creation">2003</unitdate>
+            <container id="aspace_2241f9cda4dedf563d1c49d2ed346f0f" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_71b962028e4af81f3ec5daaa1ddf540c" parent="aspace_2241f9cda4dedf563d1c49d2ed346f0f" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref159" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Miscellaneous Meeting Correspondence</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_88cfd039f5e9f380a6efac42f2c225e6" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_6a6b7b172a8e789235a9e850fc3fb00a" parent="aspace_88cfd039f5e9f380a6efac42f2c225e6" type="Folder">57</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref161" level="series">
+        <did>
+          <unittitle>Series V: Executive and Publications Committee Meetings</unittitle>
+        </did>
+        <scopecontent id="aspace_98e567f8ff928a7f1b16929373434927">
+          <head>Scope and Contents note</head>
+          <p>Files generally consist of notes taken by the Secretary, President, the Publications Director, or August Imholtz, Jr. acting as Recording Secretary. Some files also contain a treasurer's report as well.</p>
+        </scopecontent>
+        <c id="aspace_ref162" level="file">
+          <did>
+            <unittitle>March 7, 1974- Publications Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1974/1974">1974</unitdate>
+            <container id="aspace_dfdc53ed3d0d53798bf7320bada38fbf" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_2052ed91c7cbcb86070417932afc31d4" parent="aspace_dfdc53ed3d0d53798bf7320bada38fbf" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref163" level="file">
+          <did>
+            <unittitle>May 11, 1974- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1974/1974">1974</unitdate>
+            <container id="aspace_9d15bc2fcc278581cc41de75e91a6b76" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_64271e017017dcde94687de9261b7cc2" parent="aspace_9d15bc2fcc278581cc41de75e91a6b76" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref164" level="file">
+          <did>
+            <unittitle>December 7, 1974- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1974/1974">1974</unitdate>
+            <container id="aspace_5ead8c8243a4a146688eb7b661266800" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_1b29d6051cd1ca72846a2fe273e95912" parent="aspace_5ead8c8243a4a146688eb7b661266800" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref165" level="file">
+          <did>
+            <unittitle>May 3, 1975- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1975/1975">1975</unitdate>
+            <container id="aspace_ff6536f100b5239e51c06a36eadc1898" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_8c9ca346edce25cf3be8aa6c78f282ee" parent="aspace_ff6536f100b5239e51c06a36eadc1898" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref166" level="file">
+          <did>
+            <unittitle>November 1, 1975- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1975/1975">1975</unitdate>
+            <container id="aspace_e5d63502187f02f9169762d67c96b6d2" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_5fe774aaa2959a873786d86c3c5dea6e" parent="aspace_e5d63502187f02f9169762d67c96b6d2" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref167" level="file">
+          <did>
+            <unittitle>May 15, 1975- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1975/1975">1975</unitdate>
+            <container id="aspace_23847d44b696026b30fd3c7542595a28" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_edc083d9f1c668fdd617e5a6678b86c4" parent="aspace_23847d44b696026b30fd3c7542595a28" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref168" level="file">
+          <did>
+            <unittitle>November 6, 1976- Publications and Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1976/1976">1976</unitdate>
+            <container id="aspace_7b9f63768b58e6191bb87e2a869355dd" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_c83a266ff60b515df9150d4ad8560db5" parent="aspace_7b9f63768b58e6191bb87e2a869355dd" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref169" level="file">
+          <did>
+            <unittitle>May 7, 1977- Publications Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1977/1977">1977</unitdate>
+            <container id="aspace_7a3c2e206d35106e737531e3d8bec07d" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_826f9d613ad2d469e87ae6e45d5674b9" parent="aspace_7a3c2e206d35106e737531e3d8bec07d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref170" level="file">
+          <did>
+            <unittitle>November 5, 1977- Publications and Executive Committee Meeting, plus Treasurer's Report</unittitle>
+            <unitdate datechar="creation" normal="1977/1977">1977</unitdate>
+            <container id="aspace_c6017ccb21ae043515f43725703e51d4" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_08095e457cfc0bf1904453bbcd7c41e4" parent="aspace_c6017ccb21ae043515f43725703e51d4" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref171" level="file">
+          <did>
+            <unittitle>May 13, 1978- Publications Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1978/1978">1978</unitdate>
+            <container id="aspace_ab1d48b47f1b184c80710ae920d078d1" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_39e81c1b630ad7b129030b52518647ba" parent="aspace_ab1d48b47f1b184c80710ae920d078d1" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref172" level="file">
+          <did>
+            <unittitle>October 29, 1983- Executive Committee Meeting, plus Treasurer's Report</unittitle>
+            <unitdate datechar="creation" normal="1983/1983">1983</unitdate>
+            <container id="aspace_981435781ce6671eca1a45c5383a7393" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_85b2dae279a50e67c451bcae6500b751" parent="aspace_981435781ce6671eca1a45c5383a7393" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref173" level="file">
+          <did>
+            <unittitle>April 8, 1984- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1984/1984">1984</unitdate>
+            <container id="aspace_f771d054003a5578ccf4256ccd205fc5" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_90a2fc68563988506a0663d4144cf645" parent="aspace_f771d054003a5578ccf4256ccd205fc5" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref174" level="file">
+          <did>
+            <unittitle>April 20, 1985- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+            <container id="aspace_4e5f162b448aaa2ebdc3c3307fbcf8de" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_27132f9fb748693aececce831ca4ce45" parent="aspace_4e5f162b448aaa2ebdc3c3307fbcf8de" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref175" level="file">
+          <did>
+            <unittitle>October 15, 1988- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1988/1988">1988</unitdate>
+            <container id="aspace_dabf15fc9795ff9b81e69318f4438ca4" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_ebb0045bd5a3d1e546c46251a48b8d25" parent="aspace_dabf15fc9795ff9b81e69318f4438ca4" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref176" level="file">
+          <did>
+            <unittitle>October 5, 1991- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1991/1991">1991</unitdate>
+            <container id="aspace_cfc3b4635115d7cc6371f2318edeb2d9" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_a95ca6fdcca6e5fef90655caf1b3142c" parent="aspace_cfc3b4635115d7cc6371f2318edeb2d9" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref177" level="file">
+          <did>
+            <unittitle>May 2, 1991- Publications and Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1976/1976">1976</unitdate>
+            <container id="aspace_01ffaac442640b1bab2abafb6b28d2df" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_67b380b374cadf11633baa8cff24cc75" parent="aspace_01ffaac442640b1bab2abafb6b28d2df" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref178" level="file">
+          <did>
+            <unittitle>October 17, 1992-Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1992/1992">1992</unitdate>
+            <container id="aspace_c38cb65a3d2441a43c7b7092b62e5955" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_9224211db5adaf50d5cc31e595a1c3cf" parent="aspace_c38cb65a3d2441a43c7b7092b62e5955" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref179" level="file">
+          <did>
+            <unittitle>May 15, 1993-Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1993/1993">1993</unitdate>
+            <container id="aspace_ebf4c22b31357838258b9efa4a33bb60" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_ead9ad2253765f7b2f6b5159616ee5cd" parent="aspace_ebf4c22b31357838258b9efa4a33bb60" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref180" level="file">
+          <did>
+            <unittitle>November 20, 1993- Publications and Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1993/1993">1993</unitdate>
+            <container id="aspace_fd7a2f8d785926d5f0d227c89e56c6e1" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_e3982ff96f51681a1b3b1422689b964a" parent="aspace_fd7a2f8d785926d5f0d227c89e56c6e1" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref181" level="file">
+          <did>
+            <unittitle>June 11, 1994- Publications and Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1994/1994">1994</unitdate>
+            <container id="aspace_15dde78e6b82c43b34438dd678161ddd" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_e7630bebc94278454e2db01b6a39746c" parent="aspace_15dde78e6b82c43b34438dd678161ddd" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref182" level="file">
+          <did>
+            <unittitle>November 12, 1994- Publications and Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1994/1994">1994</unitdate>
+            <container id="aspace_e7bed8f8ffe77edc90da5986a1fe17d0" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_9ccf111405b3ef4d1ad797751d0927f1" parent="aspace_e7bed8f8ffe77edc90da5986a1fe17d0" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref183" level="file">
+          <did>
+            <unittitle>April 22, 1995-Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1995/1995">1995</unitdate>
+            <container id="aspace_8803fb5974f0d73e4f56c90b462f8ca2" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_bbbb4aa9ca99e6ca592bf5aa368ca236" parent="aspace_8803fb5974f0d73e4f56c90b462f8ca2" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref184" level="file">
+          <did>
+            <unittitle>October 28, 1995-Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1995/1995">1995</unitdate>
+            <container id="aspace_899706d4af94f9c6323b78fd1f6407f6" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_f64342e94b67dd1bdcb0df717c55e18b" parent="aspace_899706d4af94f9c6323b78fd1f6407f6" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref185" level="file">
+          <did>
+            <unittitle>April 27, 1996 -Executive Committee Meeting, plus Treasurer's Report</unittitle>
+            <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+            <container id="aspace_db327f8d747698805b6e9c93d9f8fa5e" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_3f807c371fe9772f1f7f681b4a9eee50" parent="aspace_db327f8d747698805b6e9c93d9f8fa5e" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref186" level="file">
+          <did>
+            <unittitle>November 9, 1996-Executive Committee Meeting, plus Treasurer's Report</unittitle>
+            <unitdate datechar="creation" normal="1996/1996">1996</unitdate>
+            <container id="aspace_1bc17ea0ea921002c3f9d506e6436dde" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_b73b0c577510e7335e2c908e17b5f583" parent="aspace_1bc17ea0ea921002c3f9d506e6436dde" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref187" level="file">
+          <did>
+            <unittitle>April 27, 1997- Publications and Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+            <container id="aspace_9766c52f7b57a2758fbc0c5d8eb8e832" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_f6d8698c7d82b183d99c0f19b9afb70b" parent="aspace_9766c52f7b57a2758fbc0c5d8eb8e832" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref188" level="file">
+          <did>
+            <unittitle>October 17, 1997-Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+            <container id="aspace_0e7886ff9f783e7b04ec382cff43ecce" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_dacae0618b2d9d8595faabe86f32b00b" parent="aspace_0e7886ff9f783e7b04ec382cff43ecce" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref189" level="file">
+          <did>
+            <unittitle>March 28, 1998-Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1998/1998">1998</unitdate>
+            <container id="aspace_3ee76f659b28a605cffb79af4785dd9a" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_e9da415ce7dda1760d17e6b939a349d9" parent="aspace_3ee76f659b28a605cffb79af4785dd9a" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref190" level="file">
+          <did>
+            <unittitle>November 8, 1998-Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1998/1998">1998</unitdate>
+            <container id="aspace_3be587386e1edcb36fffdac8ce0653b0" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_0094ef7db4bd1c0f31ed81860bd952b8" parent="aspace_3be587386e1edcb36fffdac8ce0653b0" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref191" level="file">
+          <did>
+            <unittitle>May 9, 1999- Publications and Executive Committee Meeting, plus Treasurer's Report</unittitle>
+            <unitdate datechar="creation" normal="1999/1999">1999</unitdate>
+            <container id="aspace_8f009f8f15597222989d9221451e03e9" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_d97b4d04e3e8b757bf2ae0f9a9b74f5f" parent="aspace_8f009f8f15597222989d9221451e03e9" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref192" level="file">
+          <did>
+            <unittitle>October 23, 1999- Publications and Executive Committee Meeting, plus Treasurer's Report</unittitle>
+            <unitdate datechar="creation" normal="1999/1999">1999</unitdate>
+            <container id="aspace_0aafe8d8f761ee06539ce09082347d6b" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_5d80ebdbfe3d034c332b339dab3837c3" parent="aspace_0aafe8d8f761ee06539ce09082347d6b" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref193" level="file">
+          <did>
+            <unittitle>April 15, 2000- Publications and Executive Committee Meeting, plus Treasurer's Report</unittitle>
+            <unitdate datechar="creation" normal="2000/2000">2000</unitdate>
+            <container id="aspace_8acd4138e7fc11edd346c47ba6f3d64d" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_59519854a7ea30b6bc364e67945e4c3c" parent="aspace_8acd4138e7fc11edd346c47ba6f3d64d" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref194" level="file">
+          <did>
+            <unittitle>October 27, 2000- Executive Committee Meeting, plus Treasurer's Report</unittitle>
+            <unitdate datechar="creation" normal="2000/2000">2000</unitdate>
+            <container id="aspace_210754fc61ee7b1fdf7a20397e6efdf1" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_40b8b3a71da248133bd77536b85899b8" parent="aspace_210754fc61ee7b1fdf7a20397e6efdf1" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref195" level="file">
+          <did>
+            <unittitle>April 21, 2001- Publications and Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+            <container id="aspace_fabb046c5d7fcdbba7be44d0fcfbb43c" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_a648d69fea6838aad01a65c9134c6c1e" parent="aspace_fabb046c5d7fcdbba7be44d0fcfbb43c" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref196" level="file">
+          <did>
+            <unittitle>October 26, 2001- Executive Committee Meeting, plus Treasurer's Report</unittitle>
+            <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+            <container id="aspace_dfa7943d94149215a793bf5fc10ca9dc" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_9691a2c1465a68eb01c6703a2474e797" parent="aspace_dfa7943d94149215a793bf5fc10ca9dc" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref197" level="file">
+          <did>
+            <unittitle>April 13, 2002- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="2002/2002">2002</unitdate>
+            <container id="aspace_c9953c88b79231466c2c5e87ad810b32" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_35e3eed1409ed107f9202169337c2937" parent="aspace_c9953c88b79231466c2c5e87ad810b32" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref198" level="file">
+          <did>
+            <unittitle>February 27, 2002- Publications Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="2002/2002">2002</unitdate>
+            <container id="aspace_ff802a0fdbc04bc643e1f67fa3774b2c" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_ff2865a12b2a042b5522d1c522a327de" parent="aspace_ff802a0fdbc04bc643e1f67fa3774b2c" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref199" level="file">
+          <did>
+            <unittitle>November 1, 2002- Executive Committee Meeting, plus Treasurer's Report</unittitle>
+            <unitdate datechar="creation" normal="2002/2002">2002</unitdate>
+            <container id="aspace_e30fc021fde38bf3db9ee0a2099cea55" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_f4969105f0bb4acda33d140affd00d14" parent="aspace_e30fc021fde38bf3db9ee0a2099cea55" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref200" level="file">
+          <did>
+            <unittitle>April 12, 2003- Publications and Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="2003/2003">2003</unitdate>
+            <container id="aspace_f9149598d7bf9217ae0ae12db805be14" label="Mixed Materials [31142042233034]" type="Box">3</container>
+            <container id="aspace_2717cf9298b790180cba170aa16068b6" parent="aspace_f9149598d7bf9217ae0ae12db805be14" type="Folder">52</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref202" level="series">
+        <did>
+          <unittitle>Series VI: Financial Records</unittitle>
+        </did>
+        <scopecontent id="aspace_f3f52d8d20d7b85fb4385045b45fe84d">
+          <head>Scope and Contents note</head>
+          <p>Financial records and correspondence- some duplicate information noted in Treasurer's Reports</p>
+        </scopecontent>
+        <c id="aspace_ref203" level="subseries">
+          <did>
+            <unittitle>Subseries A: Financial Records 1980-1991</unittitle>
+          </did>
+          <c id="aspace_ref204" level="file">
+            <did>
+              <unittitle>Financial Records 1980-1991</unittitle>
+              <unitdate datechar="creation" normal="1980/1991" type="inclusive">1980-1991</unitdate>
+              <container id="aspace_064f4c04433a6c602bef2b60741f0666" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_a3806f83217392d09bbcc3903dfe7ec7" parent="aspace_064f4c04433a6c602bef2b60741f0666" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref205" level="file">
+            <did>
+              <unittitle>Financial Records 1980-1991</unittitle>
+              <unitdate datechar="creation" normal="1980/1991" type="inclusive">1980-1991</unitdate>
+              <container id="aspace_e0a837f54beb9bb77e6c6e0bb5911f58" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_0de91ae13744dbaba1359d570081b772" parent="aspace_e0a837f54beb9bb77e6c6e0bb5911f58" type="Folder">2</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref206" level="subseries">
+          <did>
+            <unittitle>Subseries B: Financial Records 1991-1999</unittitle>
+          </did>
+          <c id="aspace_ref207" level="file">
+            <did>
+              <unittitle>Financial Records 1991-1999</unittitle>
+              <unitdate datechar="creation" normal="1991/1999" type="inclusive">1991-1999</unitdate>
+              <container id="aspace_a8087776675de1dac8cf66f7596df9b7" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_1dcd420633b33610d7b93f81eb84bcad" parent="aspace_a8087776675de1dac8cf66f7596df9b7" type="Folder">1</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref208" level="subseries">
+          <did>
+            <unittitle>Subseries C: Miscellaneous Financial Correspondence 1991-1992</unittitle>
+          </did>
+          <c id="aspace_ref209" level="file">
+            <did>
+              <unittitle>Financial Correspondence 1991-1992</unittitle>
+              <unitdate datechar="creation" normal="1991/1992" type="inclusive">1991-1992</unitdate>
+              <container id="aspace_cda26a78e5ce848d66a85fd4bbfc82ab" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_24fa845bc5d7ea7296f96ecc41974721" parent="aspace_cda26a78e5ce848d66a85fd4bbfc82ab" type="Folder">1-9</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref219" level="series">
+        <did>
+          <unittitle>Series VII: Miscellanous Records</unittitle>
+        </did>
+        <scopecontent id="aspace_3e3f756c4f14bd9f5556ac3ce5b7f49b">
+          <head>Scope and Contents note</head>
+          <p>Contains photographs, offprints, donations, and other items.</p>
+        </scopecontent>
+        <c id="aspace_ref220" level="subseries">
+          <did>
+            <unittitle>Subseries A: Photographs from Selected Meetings and Events</unittitle>
+          </did>
+          <c id="aspace_ref221" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Photographs, Christ Church, Oxford, July 1982</unittitle>
+              <unitdate datechar="creation">1982</unitdate>
+              <container id="aspace_1426c2f917c7b1bac9ca5f1a916614f9" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_e0bb66d80d51f10e1b58f8c7919415d0" parent="aspace_1426c2f917c7b1bac9ca5f1a916614f9" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref222" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Photographs, Christ Church, Oxford, July 1982</unittitle>
+              <unitdate datechar="creation">1982</unitdate>
+              <container id="aspace_028ba8a593816003857d32f0633b0b1d" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_f780bf08563bdc14cf0256cdc1b129f0" parent="aspace_028ba8a593816003857d32f0633b0b1d" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref223" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Photographs, Christ Church, Oxford, July 1982</unittitle>
+              <unitdate datechar="creation">1982</unitdate>
+              <container id="aspace_e76e2e47748e374af05b73f846dafe58" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_db361fba4bb742458d065e1f79ceddf2" parent="aspace_e76e2e47748e374af05b73f846dafe58" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref224" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Photographs, Christ Church, Oxford, July 1982- Janet Jurist copies</unittitle>
+              <unitdate datechar="creation">1982</unitdate>
+              <container id="aspace_d1bc59403006ac3d5caae9cae0ef9be6" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_7e7b24076d8b0781de9df799845047ad" parent="aspace_d1bc59403006ac3d5caae9cae0ef9be6" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref225" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Photographs, Westminster Abbey, December 17, 1982</unittitle>
+              <unitdate datechar="creation">1982</unitdate>
+              <container id="aspace_327f5540e6f39cc3b0e78433c48d97d6" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_067c7e872a0144ad7fd7282a6823304e" parent="aspace_327f5540e6f39cc3b0e78433c48d97d6" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref226" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Photographs, Winston-Salem, June, 1994</unittitle>
+              <unitdate datechar="creation">1994</unitdate>
+              <container id="aspace_dac9fe3900a9b1ef242798b3b6de1613" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_eda5037a66f3912ce59a0fed03398742" parent="aspace_dac9fe3900a9b1ef242798b3b6de1613" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref227" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Photographs, Home of Alan and Alison Tannenbaum, October 2000.</unittitle>
+              <unitdate datechar="creation">2000</unitdate>
+              <container id="aspace_20d357e85ea9b73268dcd07540bb5bf2" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_f1da7e8a2a62ba80d691cdc8ca6ef4f7" parent="aspace_20d357e85ea9b73268dcd07540bb5bf2" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref228" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Photographs, Princeton, 2002</unittitle>
+              <unitdate datechar="creation">2002</unitdate>
+              <container id="aspace_233b2f353cfa47613a4c7a88ab53d7cb" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_df5b610982ca0f0eb1d919a13c6b4916" parent="aspace_233b2f353cfa47613a4c7a88ab53d7cb" type="Folder">8</container>
+            </did>
+            <phystech id="aspace_feebaee7af4e50b2799a29ec16166e3e">
+              <head>Physical Characteristics and Technical Requirements note</head>
+              <p>1 compact disc- 12x compatible, CD recordable-Brand name "Mr. Data", 80 minute 700MB capacity. Title: LCSNA Princeton Note: 2002 Photos(both notations written with marker). CD encased in a paper sleeve with plastic viewing window.</p>
+            </phystech>
+          </c>
+        </c>
+        <c id="aspace_ref230" level="subseries">
+          <did>
+            <unittitle>Subseries B: Audio Tapes of Early Meetings</unittitle>
+          </did>
+          <accessrestrict id="aspace_7ec25d22b0599deb9855a5883e5b1a32">
+            <head>Conditions Governing Access</head>
+            <p>Audio tapes have not been preserved and may not be available to researchers.</p>
+          </accessrestrict>
+          <c id="aspace_ref231" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Audiocassette of Early Meeting, "Meeting of LC Society, December 7, 1974" - writing on label in pen.</unittitle>
+              <unitdate datechar="creation">1974</unitdate>
+              <container id="aspace_b01d73498de9ca072b6c3a5d029335eb" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_77a6bbbb7a74b1fb0cfe00c94046f16c" parent="aspace_b01d73498de9ca072b6c3a5d029335eb" type="Folder">1</container>
+            </did>
+            <phystech id="aspace_b3214d1b363b500fe3977ee8b58d2d07">
+              <head>Physical Characteristics and Technical Requirements note</head>
+              <p>148.0001, Audiocassette, C-120, Concertape.</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref233" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Audiocassette of Early Meeting, "LC Meeting, May 15, 1976" - writing on label in pen.</unittitle>
+              <unitdate datechar="creation">1976</unitdate>
+              <container id="aspace_bff1a1b6cbc4493d03c16cd0af9fc3b3" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_da604e07d1e75ff965fcb3d2ebd9f42c" parent="aspace_bff1a1b6cbc4493d03c16cd0af9fc3b3" type="Folder">1</container>
+            </did>
+            <phystech id="aspace_1113de7fec026d76c34a325e4246382e">
+              <head>Physical Characteristics and Technical Requirements note</head>
+              <p>148.0002, Audiocassette, C-120, Concertape.</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref235" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Audiocassette of Early Meeting, "LC Society, November 1976" - writing on label in pen.</unittitle>
+              <unitdate datechar="creation">1976</unitdate>
+              <container id="aspace_df0a71287e2a027cb913b44d69c1ae02" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_51f89bf33b24430afe64ab232c7ad91a" parent="aspace_df0a71287e2a027cb913b44d69c1ae02" type="Folder">3</container>
+            </did>
+            <phystech id="aspace_3d2f36086cb582f393a2da1419500925">
+              <head>Physical Characteristics and Technical Requirements note</head>
+              <p>148.0003, Audiocassette, C-90, Concertape.</p>
+            </phystech>
+          </c>
+        </c>
+        <c id="aspace_ref237" level="subseries">
+          <did>
+            <unittitle>Subseries C: LCSNA Auction Records</unittitle>
+          </did>
+          <c id="aspace_ref238" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>LCSNA Auction Records, October 15, 1998- Philadelphia</unittitle>
+              <unitdate datechar="creation">1998</unitdate>
+              <container id="aspace_9617212438ef0aa94fb1ca15bdc7aba5" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_8681281b15cd4b5820b9dcc185a90f88" parent="aspace_9617212438ef0aa94fb1ca15bdc7aba5" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref239" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>LCSNA Auction Records, October 17, 1990- Baltimore, MD</unittitle>
+              <unitdate datechar="creation">1990</unitdate>
+              <container id="aspace_d16f9ca4fde9a07e79b3c162000e251e" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_259f43521bd82d224cb1fddd8220714a" parent="aspace_d16f9ca4fde9a07e79b3c162000e251e" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref240" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>LCSNA Auction Records, June 11, 1994- Winston-Salem, NC</unittitle>
+              <unitdate datechar="creation">1994</unitdate>
+              <container id="aspace_e6da0d945739b0455d3912baffeeb0f4" label="Mixed Materials [31142042233034]" type="Box">3</container>
+              <container id="aspace_81dadc466cdbe28809dda9bd4c71cc2d" parent="aspace_e6da0d945739b0455d3912baffeeb0f4" type="Folder">3</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref241" level="subseries">
+          <did>
+            <unittitle>Subseries D: Stan Marx Memorial Program</unittitle>
+          </did>
+          <c id="aspace_ref242" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Stan Marx Memorial Program</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_33ca0d714b25d8c52fbfce4fe8d3e64c" label="Mixed Materials [31142042233042]" type="Box">4</container>
+              <container id="aspace_b3eaaea6a0b18c1972d14319539104d7" parent="aspace_33ca0d714b25d8c52fbfce4fe8d3e64c" type="Folder">1</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref243" level="subseries">
+          <did>
+            <unittitle>Subseries E: Maxine G. Schaefer Children's Outreach Program</unittitle>
+          </did>
+          <c id="aspace_ref244" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Maxine G. Schaefer Children's Outreach Program</unittitle>
+              <unitdate datechar="creation">1998</unitdate>
+              <container id="aspace_b925c90a447bdd3e49af099d5538e7ce" label="Mixed Materials [31142042233042]" type="Box">4</container>
+              <container id="aspace_649ea24a007e8fac26f19cf2d0da8215" parent="aspace_b925c90a447bdd3e49af099d5538e7ce" type="Folder">1</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref245" level="subseries">
+          <did>
+            <unittitle>Subseries F: LCSNA Brochures</unittitle>
+          </did>
+          <c id="aspace_ref246" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>LCSNA Brochures</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_54ab4095361418b1beeaef95a69cdd0e" label="Mixed Materials [31142042233042]" type="Box">4</container>
+              <container id="aspace_d41267a04e2975f24a4487b2deac09a8" parent="aspace_54ab4095361418b1beeaef95a69cdd0e" type="Folder">1</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref247" level="subseries">
+          <did>
+            <unittitle>Subseries G: Donations to the LCSNA Archives</unittitle>
+          </did>
+          <c id="aspace_ref248" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Dr. Hugues Debailly's Dissertation</unittitle>
+              <unitdate datechar="creation">1997</unitdate>
+              <physdesc id="aspace_e214451bb118d647fd47486a073ef83c" label="General Physical Description note">4 sheets of microfiche in paper sleeve</physdesc>
+              <container id="aspace_20492be48d7c5a4156b54a3cb35bc7fe" label="Mixed Materials [31142042233042]" type="Box">4</container>
+              <container id="aspace_978b739f3618aeb04c98ba369a66df42" parent="aspace_20492be48d7c5a4156b54a3cb35bc7fe" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref250" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Memoria Technica" by Lorraine Levender Whittlesey, sound recording, with liner notes and paper program.</unittitle>
+              <unitdate datechar="creation">2001</unitdate>
+              <container id="aspace_a3c29d7e2ed787790fe44eccd9121d2b" label="Mixed Materials [31142042233042]" type="Box">4</container>
+              <container id="aspace_47b76f228b53a6cebcdf86e53763bd68" parent="aspace_a3c29d7e2ed787790fe44eccd9121d2b" type="Folder">2</container>
+            </did>
+            <phystech id="aspace_a0f488fc8e10df97821dae5d2536cb22">
+              <head>Physical Characteristics and Technical Requirements note</head>
+              <p>148.0004. Compact Disc, in plastic jewel case.</p>
+            </phystech>
+          </c>
+        </c>
+        <c id="aspace_ref252" level="subseries">
+          <did>
+            <unittitle>Subseries H: Miscellaneous offprints and other assorted materials</unittitle>
+          </did>
+          <c id="aspace_ref253" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Miscellaneous offprints and other assorted materials</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_c2f270da4f2fc0c59c9a88f2fe8619a5" label="Mixed Materials [31142042233042]" type="Box">4</container>
+              <container id="aspace_ec7d01d3384c323e9c3e75e3b237062e" parent="aspace_c2f270da4f2fc0c59c9a88f2fe8619a5" type="Folder">1</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref254" level="subseries">
+          <did>
+            <unittitle>Subseries I: Contributions to and draft versions of "The Knight Letter"</unittitle>
+          </did>
+          <c id="aspace_ref255" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Contributions to and draft versions of "The Knight Letter"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_1010810a822e733800711d32562d0900" label="Mixed Materials [31142042233042]" type="Box">4</container>
+              <container id="aspace_3a9c5aa893ef709b17e2922bed9e1d4a" parent="aspace_1010810a822e733800711d32562d0900" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref256" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Contributions to and draft versions of "The Knight Letter"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_de71aedc055f2395c7704af02ade96a1" label="Mixed Materials [31142042233042]" type="Box">4</container>
+              <container id="aspace_6e40c22286602af124db94f7f7fb5588" parent="aspace_de71aedc055f2395c7704af02ade96a1" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref257" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Contributions to and draft versions of "The Knight Letter"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_0f590f893bbe0baaaf1e755963c4ddd5" label="Mixed Materials [31142042233042]" type="Box">4</container>
+              <container id="aspace_841bb9c9be59731cefb9c771c3c30299" parent="aspace_0f590f893bbe0baaaf1e755963c4ddd5" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref258" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Contributions to and draft versions of "The Knight Letter"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_a75c4adf581dccd1ac0fceee6de10abc" label="Mixed Materials [31142042233042]" type="Box">4</container>
+              <container id="aspace_52a54af4f6270be874cc20a7c6ffb4dc" parent="aspace_a75c4adf581dccd1ac0fceee6de10abc" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref259" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Contributions to and draft versions of "The Knight Letter"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_98573af0a8d28c3e4b95188ef608b07c" label="Mixed Materials [31142042233042]" type="Box">4</container>
+              <container id="aspace_d1f1195c84b35b7c2ef7741e1d62cec7" parent="aspace_98573af0a8d28c3e4b95188ef608b07c" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref260" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Contributions to and draft versions of "The Knight Letter"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_a19be503c92c6c8f2c349de0669a7f25" label="Mixed Materials [31142042233042]" type="Box">4</container>
+              <container id="aspace_ffe10884f3337313912b071e1a94ba62" parent="aspace_a19be503c92c6c8f2c349de0669a7f25" type="Folder">7</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref261" level="subseries">
+          <did>
+            <unittitle>Subseries J: LCSNA Archives Assemblage Records</unittitle>
+          </did>
+          <c id="aspace_ref262" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>LCSNA Archives Assemblage Records</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_c3d65e7e0a4355a69bb548bbda6e562d" label="Mixed Materials [31142042233042]" type="Box">4</container>
+              <container id="aspace_e6bea24d0afe21525570b9e4813c5234" parent="aspace_c3d65e7e0a4355a69bb548bbda6e562d" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref263" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>LCSNA Archives Assemblage Records</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_2af1a034a5abd10f10666b1ff308ea11" label="Mixed Materials [31142042233042]" type="Box">4</container>
+              <container id="aspace_5e76aeaeffc8595a8f12d462742e4b5b" parent="aspace_2af1a034a5abd10f10666b1ff308ea11" type="Folder">2</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref305" level="series">
+        <did>
+          <unittitle>Accretion 2012 - Series I: Constitution and Organic Documents</unittitle>
+        </did>
+        <c id="aspace_ref306" level="file">
+          <did>
+            <unittitle>Early letters and bulletins from Stan Marx on formation of a American Lewis Carroll Society, including letter officially announcing the establishment of the Society</unittitle>
+            <unitdate datechar="creation" normal="1972/1974" type="inclusive">1972-1974</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ae003a9cdd7b64403bd057315c54ad4f" label="Mixed Materials [31142063605318]" type="Box">6</container>
+            <container id="aspace_7558bb3abdc6f03f7ef09287869bd58b" parent="aspace_ae003a9cdd7b64403bd057315c54ad4f" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref307" level="series">
+        <did>
+          <unittitle>Accretion 2012 - Series II: Publications</unittitle>
+        </did>
+        <c id="aspace_ref308" level="subseries">
+          <did>
+            <unittitle>Subseries A: Books</unittitle>
+          </did>
+          <c id="aspace_ref310" level="file">
+            <did>
+              <unittitle>Elizabeth Sewell's <emph render="italic">Lewis Carroll: Voices from France</emph>. Transcription from the original typescript by Alan and Alison Tannenbaum.</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_79e14f16782862f487aeecb212b0baaa" label="Mixed Materials [31142063605318]" type="Box">6</container>
+              <container id="aspace_33b2a8dbd2252fe1a92fd53b6538e7a3" parent="aspace_79e14f16782862f487aeecb212b0baaa" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref311" level="file">
+            <did>
+              <unittitle>Elizabeth Sewell's <emph render="italic">Lewis Carroll: Voices from France</emph>. Original material returned from the printer, Sheridan Books, Inc.</unittitle>
+              <unitdate datechar="creation" normal="2008/2009" type="inclusive">2008-2009</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_2719370beb214281bd525c9e14772ceb" label="Mixed Materials [31142063605318]" type="Box">6</container>
+              <container id="aspace_6dfb33498202a438e2e296dd1b1f0aa7" parent="aspace_2719370beb214281bd525c9e14772ceb" type="Folder">3</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref312" level="file">
+          <did>
+            <unittitle>Subseries F: Publication Contracts &amp; Documents</unittitle>
+          </did>
+          <c id="aspace_ref313" level="file">
+            <did>
+              <unittitle>Documents on transfer of copyright of <emph render="italic">In Memoriam Charles Lutwidge Dodgson, 1832-1898</emph> from Charlie Lovett and August A. Imholtz, Jr. to LCSNA</unittitle>
+              <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_665b51336606996d24370a75cc883911" label="Mixed Materials [31142063605318]" type="Box">6</container>
+              <container id="aspace_b5cf9db31bb64e3a2bec22d6114df36d" parent="aspace_665b51336606996d24370a75cc883911" type="Folder">4</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref314" level="series">
+        <did>
+          <unittitle>Accretion 2012 - Series III: Membership Records</unittitle>
+        </did>
+        <c id="aspace_ref316" level="subseries">
+          <did>
+            <unittitle>Subseries C: Samples of Secretary-Member Correspondence</unittitle>
+          </did>
+          <c id="aspace_ref315" level="file">
+            <did>
+              <unittitle>Ellie Luchinsky's LCSNA secretary's files</unittitle>
+              <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_621ff0d6f4c795600d09e08996829b1a" label="Mixed Materials [31142063605318]" type="Box">6</container>
+              <container id="aspace_f9d759e55c1fb4c1c29689455f41345b" parent="aspace_621ff0d6f4c795600d09e08996829b1a" type="Folder">5-6</container>
+            </did>
+          </c>
+          <c id="aspace_ref317" level="file">
+            <did>
+              <unittitle>Correspondence from Martin Gardner to Jason Duran</unittitle>
+              <unitdate datechar="creation" normal="2006/2007" type="inclusive">2006-2007</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_1b2890bdbfdb8ad34fcea073b7697a69" label="Mixed Materials [31142063605318]" type="Box">6</container>
+              <container id="aspace_a317d3801baab7863d0aad2c39a1ba5e" parent="aspace_1b2890bdbfdb8ad34fcea073b7697a69" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref318" level="file">
+            <did>
+              <unittitle>Correspondence from August Imholz to David Smith, Andy Malcolm, Professor Gully, Pat Carroll, Harriet Lynn, Dorrit Billman, and Agnes Barbier</unittitle>
+              <unitdate datechar="creation" normal="1993/1997" type="inclusive">1993-1997</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_b5152c65a36ed6f91a73f3e582eb8715" label="Mixed Materials [31142063605318]" type="Box">6</container>
+              <container id="aspace_a2509c1449a20fb1c702cec1c4587b1c" parent="aspace_b5152c65a36ed6f91a73f3e582eb8715" type="Folder">8</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref319" level="series">
+        <did>
+          <unittitle>Accretion 2012 - Series VII: Miscellaneous Records</unittitle>
+        </did>
+        <c id="aspace_ref320" level="subseries">
+          <did>
+            <unittitle>Subseries A: Photographs from Selected Meetings and Events</unittitle>
+          </did>
+          <c id="aspace_ref321" level="file">
+            <did>
+              <unittitle>CD-ROM scans of Alice's visit to Columbia, the centenary program, photographs of Carroll, photographs of Alice, etc.</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_1a25c3a62f26093c63aea8ed9b073a3a" label="media [31142063605318]" type="Box">6</container>
+              <container id="aspace_56414b0be747465a1e6f8f19ae16d9c7" parent="aspace_1a25c3a62f26093c63aea8ed9b073a3a" type="Folder">9</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref322" level="subseries">
+          <did>
+            <unittitle>Subseries C: LCSNA Auction Records</unittitle>
+          </did>
+          <c id="aspace_ref323" level="file">
+            <did>
+              <unittitle>Ellie Luchinsky's auction planning notebook</unittitle>
+              <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_f98295c8572b727dfcb43d18573bc70f" label="Mixed Materials [31142063605318]" type="Box">6</container>
+              <container id="aspace_9897a31871134650563a87271ac651d6" parent="aspace_f98295c8572b727dfcb43d18573bc70f" type="Folder">10</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref324" level="subseries">
+          <did>
+            <unittitle>Subseries G: Donations to the LCSNA</unittitle>
+          </did>
+          <c id="aspace_ref325" level="file">
+            <did>
+              <unittitle>Helen Weaver's letter to Ellie Luchinsky on the files of her father, Warren Weaver</unittitle>
+              <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_915be14d144d38b97c9e4e49bb1fa6ff" label="Mixed Materials [31142063605318]" type="Box">6</container>
+              <container id="aspace_b918b95522683af1b2d2f3e06e07f3b2" parent="aspace_915be14d144d38b97c9e4e49bb1fa6ff" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref326" level="file">
+            <did>
+              <unittitle>Catalog of Joe Christopher's Lewis Carroll Collection</unittitle>
+              <unitdate datechar="creation" normal="2009/2009" type="inclusive">2009</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_2e26aa135658cca7be18aef7b98220e0" label="Mixed Materials [31142063605318]" type="Box">6</container>
+              <container id="aspace_9200b387d9660b58c2e29a482b17614c" parent="aspace_2e26aa135658cca7be18aef7b98220e0" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref327" level="file">
+            <did>
+              <unittitle>Printed facsimile of Lewis Carroll Centenary Celebration, May 4, 1932, Columbia University</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_e21aa675c5a198e873d7f900865ae53a" label="Mixed Materials [31142063605318]" type="Box">6</container>
+              <container id="aspace_36e3f6bc4646ff7dbcf5f1bc3ce9a918" parent="aspace_e21aa675c5a198e873d7f900865ae53a" type="Folder">13</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_c5a7ec461833def0387eb897cf9231ba" level="series">
+        <did>
+          <unittitle>Accretion 2016</unittitle>
+        </did>
+        <scopecontent id="aspace_32dd4c5a7c4a8b5e14b150d0e77ebf6d">
+          <head>Scope and Contents</head>
+          <p>This accretion contains documents that date between 2007 and 2015, including correspondence, receipts, and a few <emph render="italic">Alice's Adventures in Wonderland </emph> pins, one of which is from the 150th Anniversary. The correspondence within the accretion consists of both cards and letters, many of which are addressed to Clare Imholtz.</p>
+        </scopecontent>
+        <arrangement id="aspace_3256db0013c1632b29b1089451f77312">
+          <head>Arrangement</head>
+          <p>This accretion has not been arranged by an archivist; materials are arranged in the order in which they were received.</p>
+        </arrangement>
+        <c id="aspace_7c0446793a684c18f7eafa265dbdf97a" level="file">
+          <did>
+            <unittitle>Members-Secretary Correspondence</unittitle>
+            <unitdate datechar="creation" normal="2007/2012" type="inclusive">2007-2012</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_b1b36fd8124a33fa64d6ddf8c19702e9" label="Mixed Materials [31142054856128]" type="Box">7</container>
+            <container id="aspace_ea63c515d1f763fb3bfc1b539f7063c8" parent="aspace_b1b36fd8124a33fa64d6ddf8c19702e9" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_95e7d3b1238aa09d7dd2f7c8e4c27da7" level="file">
+          <did>
+            <unittitle>Membership Survey Responses</unittitle>
+            <unitdate datechar="creation" normal="2007/2007">2007</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_35c8c4ad29604272b169025819d4b259" label="Mixed Materials [31142054856128]" type="Box">7</container>
+            <container id="aspace_9794acf897c8916fdc8909e9864f34db" parent="aspace_35c8c4ad29604272b169025819d4b259" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_15e2701b96c1a87d5fb05f7d67c0151a" level="file">
+          <did>
+            <unittitle>Alice in Wonderland Pins</unittitle>
+            <unitdate datechar="creation" normal="2015/2015">circa 2015</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_9b76587cf1fda5758eb84be1dfd26393" label="Mixed Materials [31142054856128]" type="Box">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref265" level="series">
+        <did>
+          <unittitle>Oversize: Series IV, General Meeting Notes</unittitle>
+        </did>
+        <c id="aspace_ref266" level="file">
+          <did>
+            <unittitle>General Meeting Notes, October 28, 1974. University of Virginia, Charlottesville, VA</unittitle>
+            <unitdate datechar="creation" normal="1974/1974">1974</unitdate>
+            <container id="aspace_202c33be86ba7dfe3531bdee0c3f3f54" label="Mixed Materials [31142042240187]" type="Box">5</container>
+            <container id="aspace_a9c8c2833475cbdb40777ddf9f51f0a0" parent="aspace_202c33be86ba7dfe3531bdee0c3f3f54" type="Folder">7</container>
+          </did>
+          <odd id="aspace_d43dbbc4561d0a7e9d5348918a8ba23a">
+            <head>General</head>
+            <p>Offsite barcode: 31142042240187</p>
+          </odd>
+        </c>
+        <c id="aspace_ref267" level="file">
+          <did>
+            <unittitle>General Meeting Notes, April 22, 1995. Butler Library, Columbia University , New York, NY</unittitle>
+            <unitdate datechar="creation" normal="1995/1995">1995</unitdate>
+            <container id="aspace_9624579d467c537685436091f63f6f58" label="Mixed Materials [31142042240187]" type="Box">5</container>
+            <container id="aspace_0ee77719bb01ee012cc8c61565102df8" parent="aspace_9624579d467c537685436091f63f6f58" type="Folder">40</container>
+          </did>
+          <odd id="aspace_7396861148dd58b4220bbdf247754f22">
+            <head>General</head>
+            <p>Offsite barcode: 31142042240187</p>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref268" level="series">
+        <did>
+          <unittitle>Oversize: Series V, Executive and Publications Committee Records</unittitle>
+        </did>
+        <c id="aspace_ref269" level="file">
+          <did>
+            <unittitle>December 11, 1982- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1982/1982">1982</unitdate>
+            <container id="aspace_76d851d8139cb5c8a0a0a07705d1b609" label="Mixed Materials [31142042240187]" type="Box">5</container>
+            <container id="aspace_d5096cdf46667bc5755611b6494a7383" parent="aspace_76d851d8139cb5c8a0a0a07705d1b609" type="Folder">11</container>
+          </did>
+          <odd id="aspace_1a35ba7375250b9bfe046109c93faa2c">
+            <head>General</head>
+            <p>Offsite barcode: 31142042240187</p>
+          </odd>
+        </c>
+        <c id="aspace_ref270" level="file">
+          <did>
+            <unittitle>November 17, 1984- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1984/1984">1984</unitdate>
+            <container id="aspace_2a1cacdf51881c7b40e919089282bbd4" label="Mixed Materials [31142042240187]" type="Box">5</container>
+            <container id="aspace_496c974fa351788a6b4947056e77be5e" parent="aspace_2a1cacdf51881c7b40e919089282bbd4" type="Folder">14</container>
+          </did>
+          <odd id="aspace_8806fe873255f0393a57b0435149273d">
+            <head>General</head>
+            <p>Offsite barcode: 31142042240187</p>
+          </odd>
+        </c>
+        <c id="aspace_ref271" level="file">
+          <did>
+            <unittitle>November 9, 1985- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+            <container id="aspace_d9263d2b7b74b841faec9140987184c3" label="Mixed Materials [31142042240187]" type="Box">5</container>
+            <container id="aspace_eb933a786239ede42baef454a703c788" parent="aspace_d9263d2b7b74b841faec9140987184c3" type="Folder">16</container>
+          </did>
+          <odd id="aspace_819814a3cf6f507e8b571bbef560d497">
+            <head>General</head>
+            <p>Offsite barcode: 31142042240187</p>
+          </odd>
+        </c>
+        <c id="aspace_ref272" level="file">
+          <did>
+            <unittitle>April 26, 1986- Executive Committee Meeting, plus Treasurer's Report</unittitle>
+            <unitdate datechar="creation" normal="1986/1986">1986</unitdate>
+            <container id="aspace_33419a0326bcc8bd010869f4eb0eee60" label="Mixed Materials [31142042240187]" type="Box">5</container>
+            <container id="aspace_72d7f2f78c8dd7ea9eb7d93ed3b466b9" parent="aspace_33419a0326bcc8bd010869f4eb0eee60" type="Folder">17</container>
+          </did>
+          <odd id="aspace_3a47697d012ad5b23a788c66dbd015b8">
+            <head>General</head>
+            <p>Offsite barcode: 31142042240187</p>
+          </odd>
+        </c>
+        <c id="aspace_ref273" level="file">
+          <did>
+            <unittitle>December 15, 1986- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1986/1986">1986</unitdate>
+            <container id="aspace_310c740182469a69cc32cce122319e08" label="Mixed Materials [31142042240187]" type="Box">5</container>
+            <container id="aspace_284d3fa64b3ed54f47d03e3a72c09af4" parent="aspace_310c740182469a69cc32cce122319e08" type="Folder">18</container>
+          </did>
+          <odd id="aspace_4e1cf0fb43664d03daf508acf5a57fa9">
+            <head>General</head>
+            <p>Offsite barcode: 31142042240187</p>
+          </odd>
+        </c>
+        <c id="aspace_ref274" level="file">
+          <did>
+            <unittitle>April 25, 1987- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1987/1987">1987</unitdate>
+            <container id="aspace_718d32590ebf84dc5a5fb83075e3fcb9" label="Mixed Materials [31142042240187]" type="Box">5</container>
+            <container id="aspace_7b17d434b3dfe3980dc9624cd6dd42b0" parent="aspace_718d32590ebf84dc5a5fb83075e3fcb9" type="Folder">19</container>
+          </did>
+          <odd id="aspace_e2dc65804bb9faa3e3d885b357cea8ad">
+            <head>General</head>
+            <p>Offsite barcode: 31142042240187</p>
+          </odd>
+        </c>
+        <c id="aspace_ref275" level="file">
+          <did>
+            <unittitle>October 24, 1897- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1987/1987">1987</unitdate>
+            <container id="aspace_9600df555a29fcfe21f133ce72418598" label="Mixed Materials [31142042240187]" type="Box">5</container>
+            <container id="aspace_37426b073935fd84436199d87253a00f" parent="aspace_9600df555a29fcfe21f133ce72418598" type="Folder">20</container>
+          </did>
+          <odd id="aspace_4c61084d62e48e1314c65fb20e07dc3b">
+            <head>General</head>
+            <p>Offsite barcode: 31142042240187</p>
+          </odd>
+        </c>
+        <c id="aspace_ref276" level="file">
+          <did>
+            <unittitle>May 14, 1988- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1988/1988">1988</unitdate>
+            <container id="aspace_b45c8a02fd9985d46d94f8408b37ddce" label="Mixed Materials [31142042240187]" type="Box">5</container>
+            <container id="aspace_e15ef8ecdd472d3a72bea405a2dd12ff" parent="aspace_b45c8a02fd9985d46d94f8408b37ddce" type="Folder">21</container>
+          </did>
+          <odd id="aspace_b07a592fbe1e352500675fe9a296921b">
+            <head>General</head>
+            <p>Offsite barcode: 31142042240187</p>
+          </odd>
+        </c>
+        <c id="aspace_ref277" level="file">
+          <did>
+            <unittitle>May 6, 1989- Executive Committee Meeting, plus Treasurer's Report</unittitle>
+            <unitdate datechar="creation" normal="1989/1989">1989</unitdate>
+            <container id="aspace_6f6029b6ac0b0530a2fa5fe5a9f7cebd" label="Mixed Materials [31142042240187]" type="Box">5</container>
+            <container id="aspace_570506b6e8df607e651357e3345ee2cb" parent="aspace_6f6029b6ac0b0530a2fa5fe5a9f7cebd" type="Folder">23</container>
+          </did>
+          <odd id="aspace_37d7340da8cf0e254d5de3b90e04f8da">
+            <head>General</head>
+            <p>Offsite barcode: 31142042240187</p>
+          </odd>
+        </c>
+        <c id="aspace_ref278" level="file">
+          <did>
+            <unittitle>October 21, 1989- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1989/1989">1989</unitdate>
+            <container id="aspace_8918259bdb6aa65b91a067563b1afe96" label="Mixed Materials [31142042240187]" type="Box">5</container>
+            <container id="aspace_ef4b49779b96c94f24b970128a756ede" parent="aspace_8918259bdb6aa65b91a067563b1afe96" type="Folder">24</container>
+          </did>
+          <odd id="aspace_6c75fe5372da503e102fca6438976a09">
+            <head>General</head>
+            <p>Offsite barcode: 31142042240187</p>
+          </odd>
+        </c>
+        <c id="aspace_ref279" level="file">
+          <did>
+            <unittitle>May 12, 1990- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1990/1990">1990</unitdate>
+            <container id="aspace_fe0b9309d2419c90e4a1528fa88c532e" label="Mixed Materials [31142042240187]" type="Box">5</container>
+            <container id="aspace_1216ad50741cb6182621f1e230dd795e" parent="aspace_fe0b9309d2419c90e4a1528fa88c532e" type="Folder">25</container>
+          </did>
+          <odd id="aspace_9fe54095dca64b568b03e43d0779ba83">
+            <head>General</head>
+            <p>Offsite barcode: 31142042240187</p>
+          </odd>
+        </c>
+        <c id="aspace_ref280" level="file">
+          <did>
+            <unittitle>October 20, 1990- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1990/1990">1990</unitdate>
+            <container id="aspace_e189658179c61ce2ac0171c5c6ce4975" label="Mixed Materials [31142042240187]" type="Box">5</container>
+            <container id="aspace_a6c8248ed6f1eb3aabf908de847ce8d6" parent="aspace_e189658179c61ce2ac0171c5c6ce4975" type="Folder">26</container>
+          </did>
+          <odd id="aspace_d83592266dd0cb4b74e9459f686f851d">
+            <head>General</head>
+            <p>Offsite barcode: 31142042240187</p>
+          </odd>
+        </c>
+        <c id="aspace_ref281" level="file">
+          <did>
+            <unittitle>April 20, 1991- Executive Committee Meeting</unittitle>
+            <unitdate datechar="creation" normal="1991/1991">1991</unitdate>
+            <container id="aspace_b6bc84b2f0eef68e88d92143278a46ca" label="Mixed Materials [31142042240187]" type="Box">5</container>
+            <container id="aspace_680def4124a477756a2401c6649efd84" parent="aspace_b6bc84b2f0eef68e88d92143278a46ca" type="Folder">27</container>
+          </did>
+          <odd id="aspace_f81743bbc0f6653b2eb5291de813526f">
+            <head>General</head>
+            <p>Offsite barcode: 31142042240187</p>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref282" level="series">
+        <did>
+          <unittitle>Oversize: Series VII, Miscellaneous Records</unittitle>
+        </did>
+        <c id="aspace_ref283" level="subseries">
+          <did>
+            <unittitle>Subseries I: Contributions to and draft versions of "The Knight Letter"</unittitle>
+          </did>
+          <c id="aspace_ref284" level="file">
+            <did>
+              <unittitle>Contributions to and draft versions of "The Knight Letter"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_d8c3e5027d4864cac2e41027c361a03a" label="Mixed Materials [31142042240187]" type="Box">5</container>
+              <container id="aspace_67d342464364178da89456c3413918f0" parent="aspace_d8c3e5027d4864cac2e41027c361a03a" type="Folder">1</container>
+            </did>
+            <odd id="aspace_6891a4d4a47874f4964e16e787ebd091">
+              <head>General</head>
+              <p>Offsite barcode: 31142042240187</p>
+            </odd>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_be3657cf62c06306bda884b70a5aaa65" level="file">
+        <did>
+          <unittitle>Unprocessed Ephemera and Correspondence</unittitle>
+          <unitdate datechar="creation" normal="1989/1999" type="inclusive">1989-1999</unitdate>
+          <container altrender="Record carton" id="aspace_d47da6629b09cd70974b2602fd5eb032" label="Mixed Materials [31142063604964]" type="Box">8</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

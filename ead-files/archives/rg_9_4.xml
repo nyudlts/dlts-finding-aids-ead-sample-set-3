@@ -1,0 +1,2464 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/rg_9_4">rg_9_4</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Records of the Office of Research Services/Office of Sponsored Programs <num>RG.9.4</num></titleproper>
+        <author>Nancy Greenberg. Additional rehousing completed by Elizabeth Alleva in 2014.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+        <p>
+          <date>September 2010</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 20:57:24 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Records of the Office of Research Services/Office of Sponsored Programs</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">New York University. Office of Research Services</corpname>
+      </origination>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">New York University. Office of Sponsored Programs</corpname>
+      </origination>
+      <unitid>RG.9.4</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">11.50 Linear Feet</extent>
+        <extent altrender="carrier">in 11 record cartons and 1 manuscript box</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1940/2005" type="inclusive">1940-2005</unitdate>
+      <unitdate datechar="creation" normal="1949/1997" type="bulk">1949-1997</unitdate>
+      <abstract id="aspace_bb598ca5cffea40fa21048022c0299a3">These Research Administration Papers incorporate materials generated during the years 1940-2005, including selected and duplicated material created 1940-1946 in the Office of Chancellor Harry Woodburn Chase, within other university units, and within the Office of Research Services 1952-1971, and its renamed successor Office of Sponsored Programs 1971-2005. The Papers have been divided into six series.</abstract>
+      <physloc id="aspace_c5f852e86133885c7ea96782f9cf5230">Some materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_d1016560a534e8580aa2f06f70329f2f">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_1700b1a8c9fd578b65e16813b989ebe5">
+      <head>Conditions Governing Access note</head>
+      <p>Administrative records and unpublished reports of New York University are closed for a period of 20 years from the date of their creation. Access to files spanning multiple years will be opened to researchers based on the date of the most recent materials. Board of Trustees records are closed for 35 years from the date of creation.  Materials related to personnel, grievances, job and fellowship searches and applications, and all files that fall under the federal Family Educational Rights and Privacy Act (FERPA) are permanently restricted.  Additional restrictions may apply to other materials in this collection.  For questions regarding specific restrictions, please contact the University Archives.</p>
+    </accessrestrict>
+    <arrangement id="aspace_b8d7d9bda306ae14a046aec3c9b61f23">
+      <head>Arrangement note</head>
+      <p>The collection has been organized topically into six series:</p>
+      <list numeration="upperroman" type="ordered">
+        <head>List:ordered </head>
+        <item> Administration</item>
+        <item>University Administration</item>
+        <item>Research Administration</item>
+        <item>Research Administration, Related Units</item>
+        <item>Schools/Units</item>
+        <item>Sponsor Matters</item>
+      </list>
+    </arrangement>
+    <bioghist id="aspace_b321ba5bf49f29954049bc5da339a5bd">
+      <head>Historical Note</head>
+      <p>With the passage in 1862 by the U.S. Congress of the Morrill Act an its subsequent approval, in 1887, of the Hatch Act, federal funds began to flow to higher education in this country, first to states for the establishment of land-grant colleges of agriculture and of the mechanic arts (1), and then to those newly established schools for the institution of agricultural experiment stations and the conduct of agricultural research (2).</p>
+      <p>From those distant beginnings evolved the role of universities as the primary home for basic research in the United States and the training ground for succeeding generations of scientists. An important stimulus in this process arose in the international sector, in pre-World War II days. Rearmament was under way in Germany. Planners and designers were drawing upon weapons technology advances from World War I, adapting them for strategic purposes and incorporating them into new military equipment and material. </p>
+      <p>In this country, groups of scientists concerned with German remilitarization, many viewing it as preparatory to a second world war began communicating to the highest levels of the U.S. government their awareness of these events. One outcome was the establishment of a White House-based Office of Scientific Research and Development (OSRD), its purpose to collaborate with military scientists and, with the realization that "the greatest practicable source of otherwise untapped scientific expertise lay in colleges and universities," (3) to identify and contract with campus-based scientists capable of meeting defense related technical needs as well as preparing cadres of scientifically and technically competent manpower.</p>
+      <p>A consequence of this new relationship was the realization that while numerous U.S. faculties included academics with the desired of adaptable skills and knowledge, often their institutions' business operations were not structured to handle the particular administrative demands in play. It has been said that "one of the most significant contributions of OSRD was the writing and administration of a form of contract which reconciled the requirements" of accountability for the use of federal funds with the need of scientists for freedom to address the problems before them. (4) However, on the business side of many involved universities new assignments and often a considerable degree of improvisation were called for in order both to provide research faculty with the requisite support services contract fulfillment called for and address previously unfamiliar matters such as the identification of associated direct and indirect costs of these projects, space allocations, and secrecy issues.</p>
+      <p>Moving into the post-war years, university reputations became increasingly tied to levels of funded research as those universities identified as research universities gained prominence. A specialized bureaucracy in the universities and in federal agencies developed to manage these programs, which over time became increasingly complex, both in the nature of much research and in the demands of its administration and management. On campuses, the administrative function(s) supporting the programs of research became known as research administration; such offices often reported to the financial side of the house. Some others evolved with an academic orientation and reported to an academic officer.</p>
+      <p>Scientists active in the programs OSRD put together during the war years often later became advocates for continuing federal funding of campus-based research, positing the notion of a special partnership. At the federal level the National Science Foundation was created in 1950 to provide academic scientists with funding for investigator-initiated research. That era also saw the emergence of funders such as the Office of Naval Research, Air Force Office of Sponsored Research, Army Research Office, etc., agencies spun off from defense mission sponsors with a new orientation to academic initiated research ideas. (5)</p>
+      <p>Events in the 1960s and 1970s brought changes in this atmosphere. "Qualitative aspects of higher education were being more closely examined by politicians, by the citizenry, and by educators themselves." (6) U.S. involvement in Vietnam, the ensuing student anti-war demonstrations and campus uprisings, along with emotions and political residue from the Cold War had given rise to widespread anti-academic sentiment. The collaborative university-government relationship increasingly came under attack in Congress, the White House, and by some interest groups. Expensive, mission-driven research not feasible on campuses gained support. The government-university relationship as a vehicle for implementation of social change (consent for the use of human subject, oversight of the use of animals in experimentation, maintenance of a drug-free work environment, property alteration to facilitate hiring of disabled workers, etc.) became significant.</p>
+      <p>The nature of the relationship often became more adversarial than collegial. One perhaps unintended consequence of the foregoing new initiatives was that they required the employment of campus-based compliance officers at almost the same time as federal Office of Management and Budget imposed new limitations on university expenditures associated with research. Tellingly lobbying for funding, including "earmarks," a political process, often substituted for prior selection processes usually based on technical competitiveness.</p>
+      <p>Much related to these matters is reflected in this modest collection. Again in consultation with the University Archivist it was deemed unnecessary to provide detailed guidance by series to users of this collection. A few topics have been highlighted below. The Box and Folder List, following, is designed to guide interested researchers to particular matters reflected within the collection.</p>
+      <p>New York University (NYU) was not a first tier institution at the time of the outset of this collection. It was, nevertheless, a significant player in the new environment of 1940-1946, providing contracted-for research and training services to the military, especially at the then College of Engineering at the University Heights campus, research at the University Medical Center, and the work of the Mathematics Institute emerging at Washington Square under the direction of Dr. Richard Courant. The excerpts from the Chase Papers mentioned above are incorporated into this collection as the first entry in Series III, Research Administration and titled here "The World War II Era." They reflect some of those early, and sometimes temporary, institutional assignments. A few years later, postwar faculty interested in advancing their programs of research and seeking new institutional administrative and financial support to facilitate their work can be seen in the 1949 report by a committee of Graduate Arts and Science faculty which follows the Chase section. Notably, in that same year NYU was invited to Association of American Universities (AAU) membership, the national association of premier research universities in North America. Also in Series III, new appointments and offices emerge, charged with generally stated responsibility for various management and administrative activity deemed pertinent to the increasing availability of external funding for research and growing faculty interest in obtaining it. For a sense of the functional interconnectedness among offices reporting to various officers/deans at he time of this collection, see Series III, Series IV, Research Administration, Other Units, and Series V, Schools/Units.</p>
+      <p>NYU undertook an ambitious development plan in 1964 under the leadership of President James M. Hester (1962-1975), (R.G. 3.0.7). Records pertinent to the research administration function, covering developments related to the university's proposal to the National Science Foundation's Science Development Program, funded at NYU 1969, are found in both the Hester collection and, more completely, including the university's management of the multi-million dollar grant, in the Papers Chancellor/Executive Vice President Sidney Borowitz (1972-1977) (R.G. 6.0.7), some of the latter of which as described above were transferred from Office of Sponsored Programs records into that collection at the time of the Borowitz Papers' processing.</p>
+      <p>Intellectual property considerations arose in connection with some projected university-industry research relationships; in some instances like concerns were also generated by contractual terms and conditions proposed by publically funded sponsors. Among them were matters of freedom to publish, patent and copyright ownership, and rights in data. Institutional responses of ten took the route of empanelment of faculty or joint recommending policy to the university administration. Detail about these matters can be found in Series I, Administration, and Series VI, Sponsor Matters. Series I and Series II, University Administration, include documentation of the process of institutional consideration and response to government compliance initiatives of the period. Representatives of school research administration offices also participated in these discussion and development activities. See Compliance and Policy committee membership lists, etc., Series I.</p>
+      <p>At no time during the period of this collection did NYU centralize the research administration function. While from 1952 onward the office initially named Office of Research Services, which reported to the Chancellor, served as "Authorizing Official" for the submission of proposals from most university units to external funding sources-a form of signature authority which committed the institution to the proposal and specified acceptance of its obligation to accept funding awarded and manage it under terms previously agreed to or to be negotiated in advance of acceptance of any such funding-Medicine and the Mathematics Institute (renamed the Courant Institute of Mathematical Sciences in 1958 in Dr. Courant's honor) retained that authority for those units as did Engineering until its transfer to Brooklyn's Polytechnic University in 1972.</p>
+      <p>At this writing in 2008, there has been some movement toward centralization of authority. Electronic transmission of proposals has become a reality, and unitis with local research administration offices, including the previously independent Courant Institute, submit proposals directly once cleared by the central office. The Medical Center operation, however, remains completely independent. </p>
+      <p>Sources:</p>
+      <p>(1) Axt, Richard G. The Federal Government and Financing Higher Education. New York: Columbia University Press, 1952.</p>
+      <p>(2)True, Alfred Charles. A History of Agricultural Experimentation and Research in the U.S.  U.S. Department of Agriculture: Miscellaneous Publication No. 251, 1937.</p>
+      <p>(3)Stewart, Irvin. Organizing Scientific Research for War—An Administrative History of the Office of Scientific Research and Development. Boston: Little Brown and Company, 1948.</p>
+      <p>(4)Ibid.</p>
+      <p>(5)Dupree, A. Hunter. Science in the Federal Government. Cambridge: The Belknap Press of Harvard University Press, 1957.</p>
+      <p>(6)Wilson, John T. Academic Science Higher Education and the Federal Government 1950-1983. Chicago and London: The University of Chicago Press, 1983.</p>
+    </bioghist>
+    <custodhist id="aspace_cf397489222229467da639130552cd1f">
+      <head>Provenance</head>
+      <p>This collection was transferred to the University Archives in two accessions. In 1997 the Office of Sponsored Programs transferred the contents of two Paige boxes. The bulk of the collection was then transferred to the archives in early in 2008.</p>
+    </custodhist>
+    <prefercite id="aspace_e8be43d7de43f705e15203f662961eee">
+      <head>Preferred Citation note</head>
+      <p>Identification of item, date (if known); Records of the Office of Research Services/Office of Sponsored Programs; RG 9.4; box number; folder number; New York University Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_232097fd57776887b8fe19264d4c2f91">
+      <head>Processing Information</head>
+      <p>Decisions regarding arrangement, description, and physical interventions for these records prior to 2019 are unknown.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_0847349e12fe86374fc0c2177db753be">
+      <head>Related Archival Materials note</head>
+      <p>The contents of one of the Paige boxes deposited by the Office of Sponsored Programs in the University Archives in 1997 was entered in to the collection of the Papers of Sidney Borowitz, Chancellor/Executive Vice President of the University 1972-1977 (RG 6.0.7)in 2003. This addition expanded the Borowitz collection's materials covering the University Science Development Program.</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_6097c3e56d528a8f5023ef582f8c1c49">
+      <head>Scope and Content Note</head>
+      <p>These papers reflect the origins and evolution of New York University's research administration function, formed variously at the university in the Office of the Chancellor, the Finance Office, the Office of Research Services, successor Office of Sponsored Programs and in some schools. Included among them is a set of duplicated copies of letters and memoranda from the Papers of Chancellor Harry Woodburn Chase (RG 3.0.5), found in Series III and identified here as "The World War II Era," 1940-1946.</p>
+      <p>This collection was transferred to the University Archives in two accessions. The bulk of it, consisting of nine transfiles, was transferred early in 2008 from the Office of Sponsored Programs (OSP). Additionally, the contents of two Paige boxes, transferred from OSP to the Archives in 1997, were entered into this collection, namely Annual Reports 1972-1975, 1978-1979, 1981-1988, 1989-2004, and Monthly reports of Award Received at the University, 1953-1988; successive editions of the "Sponsored Research and Training Programs Manual," 1956-1997; and materials documenting aspects of the early development of what is today the Faculty of Arts and Science Neural Science Department. Finally, the contents of a third Paige box deposited by OSP in the University Archives in 1997 were entered into he collection of the Papers of Sidney Borowitz, chancellor/Executive Vice President of the University 1972-1977, (RG 6.0.7) when it was processed in 2003, expanding the collection's materials covering the University Science Development Program first funded at the University by the National Science Foundation in 1969.</p>
+      <p>The collection is composed essentially of correspondence, memoranda, documentation of the inception of university policies associated with its relationships with federal, state and local funding agencies, along with copies of sponsor grant and contract terms and (ORS/OSP) staffing plans and proposals.</p>
+      <p>In consultation with the University Archivist, and in recognition that by virtue of the charge of this Office, it functioned of necessity in on-going working association with a variety of other university units, the collection has been structured, perhaps arbitrarily, in an effort to permit an appreciation of that scope and institutional interconnectedness. The papers have thus been grouped into six series: Administration; University Administration; Research Administration; Research Administration, Related Units; Schools/Units; and Sponsor Matters.</p>
+      <p>Folders and in some instances individual documents were shifted in the interest of consistency and clarity. Some content overlap exists; an occasional Separation Sheet calls attention to several of significance. The collection is in good physical condition. Aging tissue copies and some extant duplicated materials were photocopied and/or recopied, and originals discarded, as were duplicates when found. Material is for the most part organized chronologically in folders. Folder titles generally reflect date and broad content subject matter.</p>
+    </scopecontent>
+    <userestrict id="aspace_390450c77864fa8268cc639e4a12d5be">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the creator are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, (212) 998-2646, university-archives@nyu.edu.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Project manuals.</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Grants.</genreform>
+      <genreform source="aat">Contracts</genreform>
+      <genreform source="aat">Memorandums.</genreform>
+      <genreform source="aat">Annual reports.</genreform>
+      <persname rules="aacr" source="naf">Borowitz, Sidney, 1918-</persname>
+      <corpname rules="dacs" source="local">New York University. Office of the Chancellor</corpname>
+      <corpname rules="dacs" source="local">New York University. Finance Office</corpname>
+      <corpname source="naf">New York University. Faculty of Arts and Science</corpname>
+      <corpname source="naf">New York University. College of Dentistry</corpname>
+      <corpname source="naf">New York University. College of Medicine</corpname>
+      <persname source="naf">Chase, Harry Woodburn, 1883-1955</persname>
+      <corpname source="naf">United States. Department of the Army</corpname>
+      <corpname source="naf">United States. Navy</corpname>
+      <corpname rules="dacs" source="local">United States. Department of the Air Force</corpname>
+      <corpname source="naf">Courant Institute of Mathematical Sciences</corpname>
+      <corpname rules="dacs" source="local">New York University. Office of Academic Affairs</corpname>
+      <corpname source="naf">New York University. School of Education</corpname>
+      <persname source="naf">Heald, Henry T. (Henry Townley), 1904-1975</persname>
+      <corpname source="naf">New York University. Graduate School of Arts and Science</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref1" level="series">
+        <did>
+          <unittitle>Administration</unittitle>
+          <unitdate datechar="creation" normal="1987/1996" type="inclusive">1987-1996</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref2" level="file">
+          <did>
+            <unittitle>Compliance Committees, Task force on Animal Programs Management</unittitle>
+            <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_b297bdcca8584c01bf94353e24f384db" label="Mixed Materials [31142063155868]" type="Box">1</container>
+            <container id="aspace_c56338cca5ca3721beac71eef43d280d" parent="aspace_b297bdcca8584c01bf94353e24f384db" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref3" level="file">
+          <did>
+            <unittitle>Compliance Committees, Task force on Animal Programs Management, Animal Oversight</unittitle>
+            <unitdate datechar="creation" normal="1991/1992" type="inclusive">1991-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_efc5124149835ce40ef0eacf7fa8f61d" label="Mixed Materials [31142063155868]" type="Box">1</container>
+            <container id="aspace_f4d7cd7fb29d38856653c85fc3723f97" parent="aspace_efc5124149835ce40ef0eacf7fa8f61d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref4" level="file">
+          <did>
+            <unittitle>Compliance Committees, Task Force on Animal Programs Management, Animal Oversight</unittitle>
+            <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_fdfb10952f6ec4207e910dac800f64fb" label="Mixed Materials [31142063155868]" type="Box">1</container>
+            <container id="aspace_22b9ce98892dfb61ea3d515ceb8cbdf7" parent="aspace_fdfb10952f6ec4207e910dac800f64fb" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Compliance Committees, Task Force on Animal Programs Management, Related Matters</unittitle>
+            <unitdate datechar="creation" normal="1985/1988" type="inclusive">1985-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_977e9da5aba853d00c2ceac9352b48cf" label="Mixed Materials [31142063155868]" type="Box">1</container>
+            <container id="aspace_7f99779de5c0e7dd5e65710068d767c4" parent="aspace_977e9da5aba853d00c2ceac9352b48cf" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Compliance Committees, Task Force on Animal Programs Management, Related Matters</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_f41b4756ce02cb9c6714d49c65f433a9" label="Mixed Materials [31142063155868]" type="Box">1</container>
+            <container id="aspace_ea80c0a850cbf1dc9184e787cd22688d" parent="aspace_f41b4756ce02cb9c6714d49c65f433a9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Compliance Committees, Task Force on Animal Programs Management, Related Matters</unittitle>
+            <unitdate datechar="creation" normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d27996742fbf1afa7d7c9a99981903b4" label="Mixed Materials [31142063155868]" type="Box">1</container>
+            <container id="aspace_2cfc4b56a699d78bb6f582405b58b473" parent="aspace_d27996742fbf1afa7d7c9a99981903b4" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Compliance Committees, Task Force on Animal Programs Management, Related Matters</unittitle>
+            <unitdate datechar="creation" normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_5135917c4b4a5be55bed8e638da13054" label="Mixed Materials [31142063155868]" type="Box">1</container>
+            <container id="aspace_f1f62068104e366b9df297e928499498" parent="aspace_5135917c4b4a5be55bed8e638da13054" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Compliance Committees, Task Force on Animal Programs Management, Related Matters</unittitle>
+            <unitdate datechar="creation" normal="1991/1992" type="inclusive">1991-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_24674bbe4411f2e2e76519cacbf0d078" label="Mixed Materials [31142063155868]" type="Box">1</container>
+            <container id="aspace_186fa83be680d7c13da63d7a016cd04a" parent="aspace_24674bbe4411f2e2e76519cacbf0d078" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Compliance Committees, Task Force on Animal Programs Management, Related Matters</unittitle>
+            <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_bcb26579614bc52f7fd21a9411edc7a2" label="Mixed Materials [31142063155868]" type="Box">1</container>
+            <container id="aspace_a6f3c5e31528c0987015871f1ecdd327" parent="aspace_bcb26579614bc52f7fd21a9411edc7a2" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Compliance Committees, Task Force on Animal Programs Management, Related Matters</unittitle>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_285b43c4fd654f082accea0aefd1c47b" label="Mixed Materials [31142063155868]" type="Box">1</container>
+            <container id="aspace_a6fa53cee135b871c85d42b03d0e1604" parent="aspace_285b43c4fd654f082accea0aefd1c47b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Compliance Committees, Task Force on Animal Programs Management, Realted Matters</unittitle>
+            <unitdate datechar="creation" normal="1994/1996" type="inclusive">1994-1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_87ee5b606046f89d1b67af0fb93371da" label="Mixed Materials [31142063155868]" type="Box">1</container>
+            <container id="aspace_3b939503a83ebfbabd09cc5051538dbf" parent="aspace_87ee5b606046f89d1b67af0fb93371da" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Compliance Committees, Task Force on Animal Programs Management, Drug Free Schools and Campuses</unittitle>
+            <unitdate datechar="creation" normal="1988/1994" type="inclusive">1988-1994</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_9e1fa50216c960c3ed636669f4e1a387" label="Mixed Materials [31142063155868]" type="Box">1</container>
+            <container id="aspace_3674e841884aefac8329fed53e628e7d" parent="aspace_9e1fa50216c960c3ed636669f4e1a387" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Compliance Committees, Task Force on Animal Programs Management, Environmental Services, Safety</unittitle>
+            <unitdate datechar="creation" normal="1986/1996" type="inclusive">1986-1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_641305b5001e1917517404b898bfa624" label="Mixed Materials [31142063155868]" type="Box">1</container>
+            <container id="aspace_b60451904b16fdf6a358fbbddcd6bc39" parent="aspace_641305b5001e1917517404b898bfa624" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Compliance Committees, Integrity in Research</unittitle>
+            <unitdate datechar="creation" normal="1990/1997" type="inclusive">1990-1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_3eb603149619aa968eed56022d7efed4" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_d5adff2f7ec0ebc5e5a1d09a505de5e8" parent="aspace_3eb603149619aa968eed56022d7efed4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Compliance Committees, Misconduct in Science</unittitle>
+            <unitdate datechar="creation" normal="1985/1989" type="inclusive">1985-1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_bb9d5a04621c4e3500b160508e53976b" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_30257b89e9a08135e090cd8bc89d6d46" parent="aspace_bb9d5a04621c4e3500b160508e53976b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Compliance Committees, Misconduct in Science</unittitle>
+            <unitdate datechar="creation" normal="1990/1997" type="inclusive">1990-1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_8cabeb7caa658ed23ac0f3dbcf2f7c06" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_cb02a10721cecb3a4b21443761566596" parent="aspace_8cabeb7caa658ed23ac0f3dbcf2f7c06" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Compliance Committees, Radiation Safety</unittitle>
+            <unitdate datechar="creation" normal="1979/1983" type="inclusive">1979-1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_673d1d095e02340a7c28cac72a1b2735" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_5bf379501be0927252241abd6a4cc0d6" parent="aspace_673d1d095e02340a7c28cac72a1b2735" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Compliance Committees, Radiation Safety</unittitle>
+            <unitdate datechar="creation" normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1101b75a29e4b883a22c8e4a1e09a765" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_848cccc9794de0ba8de613f17c6b87b8" parent="aspace_1101b75a29e4b883a22c8e4a1e09a765" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Compliance Committees, Radiation Safety</unittitle>
+            <unitdate datechar="creation" normal="1986/1988" type="inclusive">1986-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_797f10cee55b3b937ebeaa429cb3dd50" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_031966d87283f4132304b49a0c5d544f" parent="aspace_797f10cee55b3b937ebeaa429cb3dd50" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Compliance Committees, Radiation Safety</unittitle>
+            <unitdate datechar="creation" normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_645f8525431dce97f293a2f3ac5f2b0f" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_a762f440ee8ab110a9e7c746718ce2c5" parent="aspace_645f8525431dce97f293a2f3ac5f2b0f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Compliance Committees, Radiation Safety</unittitle>
+            <unitdate datechar="creation" normal="1990/1992" type="inclusive">1990-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_b3a8c1663483df38e8a580f13e1c844c" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_5686a39a342bbcfddd03b47b4f2fc589" parent="aspace_b3a8c1663483df38e8a580f13e1c844c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Compliance Committees, Radiation Safety</unittitle>
+            <unitdate datechar="creation" normal="1992/1994" type="inclusive">1992-1994</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1b0df726c851054399505da836a579f3" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_6c93e31ed2ca0e8de37546959ffe032c" parent="aspace_1b0df726c851054399505da836a579f3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Policy Committees, Research Advisory Council</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_f62b9ad61c7be08efe8d1156545e8673" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_63efe3eda119b9fbcf4f0ec72e546de3" parent="aspace_f62b9ad61c7be08efe8d1156545e8673" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Policy Committees, Sponsored Research Committee</unittitle>
+            <unitdate datechar="creation" normal="1979/1982" type="inclusive">1979-1982</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_481d0e6d26f68fd645bbb5a67ff7d780" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_557122f190e5d6f4a1b0394ab708972d" parent="aspace_481d0e6d26f68fd645bbb5a67ff7d780" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Policy Committees, Sponsored Research Committee</unittitle>
+            <unitdate datechar="creation" normal="1979/1982" type="inclusive">1979-1982</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_02e5600933fb088b415dc8096124c737" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_b0697febfbe6cb3b3563e2b6d1ebbb90" parent="aspace_02e5600933fb088b415dc8096124c737" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Policy Committees, Sponsored Research Committee</unittitle>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_e20843ec46b7f9b91df6851abb7a6e7b" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_972215e725520ee92a7522c3ae79acb2" parent="aspace_e20843ec46b7f9b91df6851abb7a6e7b" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Policy Committees, Sponsored Research Committee</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_b500d61262bae0af34c8a552afca7def" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_be158d027283a651eb0957394b3e6caa" parent="aspace_b500d61262bae0af34c8a552afca7def" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Policy Committees, Sponsored Research Working Group</unittitle>
+            <unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_3f00a3a6396c82605145fd2c653d2ae8" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_295b6e043c030f4da657b4c5ebd09c7a" parent="aspace_3f00a3a6396c82605145fd2c653d2ae8" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Policy Committees, Sponsored Research Working Group</unittitle>
+            <unitdate datechar="creation" normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_36d4df8100d2c607a66a73c1357e923a" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_9c46451e841efdd596a104b081d82c05" parent="aspace_36d4df8100d2c607a66a73c1357e923a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Policy Committees, Sponsored Research Working Group</unittitle>
+            <unitdate datechar="creation" normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_86e20442a1482ced48324d2497754b6b" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_01a9ed1ff5feba41e4d294180499fc69" parent="aspace_86e20442a1482ced48324d2497754b6b" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Policy Committees, Sponsored Research Working Group</unittitle>
+            <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_11dcd99202b388e18fcacf4294e5a4b2" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_8f3ce065c865faffb1eea418fa9c3e60" parent="aspace_11dcd99202b388e18fcacf4294e5a4b2" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Policy Committees, Sponsored Research Working Group</unittitle>
+            <unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_0fff1a7652e4f7dd4a8e4dfcfc006337" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_7a9dd0db961b2729ae684b2a0c0c8465" parent="aspace_0fff1a7652e4f7dd4a8e4dfcfc006337" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Policy Committees, Sponsored Research Committee</unittitle>
+            <unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_bd203f84e3dc0a12f7ea3aa8ea78de92" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_e858f3bf4f064bf98f27843fd3196a8f" parent="aspace_bd203f84e3dc0a12f7ea3aa8ea78de92" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Policy Committees, Sponsored Research Working Group</unittitle>
+            <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_7316324d685be0b65743c50bb5c13f1c" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_525275a4791421910b2741a4e2f1d338" parent="aspace_7316324d685be0b65743c50bb5c13f1c" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Policy Committees, Sponsored Research Working Groups</unittitle>
+            <unitdate datechar="creation" normal="1988/1990" type="inclusive">1988-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_27e4e756bf1792d3803d5689aba3af6d" label="Mixed Materials [31142063155876]" type="Box">2</container>
+            <container id="aspace_049467fd9f329ecd29a368cfee342ea7" parent="aspace_27e4e756bf1792d3803d5689aba3af6d" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Intellectual Property, AAU Survey and Reports</unittitle>
+            <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_640805f875eff26d325f43efb28df66a" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_16c702a9194a47bf29ea9e91cd2e6547" parent="aspace_640805f875eff26d325f43efb28df66a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Intellectual Property, AAU Surveys and Reports</unittitle>
+            <unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_35a76b83d1aebbf69b64d683ee65eb6c" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_4c6fa2766846de04f662cdee08d631f1" parent="aspace_35a76b83d1aebbf69b64d683ee65eb6c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Intellectual Property, Clinical Trials</unittitle>
+            <unitdate datechar="creation" normal="1983/1986" type="inclusive">1983-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_6845895766c740f0ab44455ddb69ae77" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_8211ca096ab7c9b74c7226a5f561485f" parent="aspace_6845895766c740f0ab44455ddb69ae77" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Intellectual Property, COGR Issues</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_811f5fa4c03c5fd1249af378c759d301" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_6a2e00c8175ad60cc660ad46db82325d" parent="aspace_811f5fa4c03c5fd1249af378c759d301" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Intellectual Property, Confidentiality Issues</unittitle>
+            <unitdate datechar="creation" normal="1983/1985" type="inclusive">1983-1985</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1ee3d00a53c4943449f0eec61b9ff021" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_47a9724188d4f5f204c36d72e02baccb" parent="aspace_1ee3d00a53c4943449f0eec61b9ff021" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Intellectual Property, Confidentiality Issues</unittitle>
+            <unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_6ce8e44de996b1dad8d62bf4f047e388" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_ca765d5df13c235eac17bf44a9dfb2b4" parent="aspace_6ce8e44de996b1dad8d62bf4f047e388" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Intellectual Property, Confidentiality Issues</unittitle>
+            <unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_51c30cf7a509ee2bbf15c3ef2270ccb1" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_3b49772ee185c0b891a8f794baf22e5f" parent="aspace_51c30cf7a509ee2bbf15c3ef2270ccb1" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Intellectual Property, Confidentiality Issues</unittitle>
+            <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_ee3faabdbeebe21e02b1b8131639bbe6" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_46f8077148f30fc8231724a83a0afe7d" parent="aspace_ee3faabdbeebe21e02b1b8131639bbe6" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Intellectual Property, Confidentiality Issues</unittitle>
+            <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1da8c9a7867995151ced91484feb012f" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_dd402dc9dc269d52403fda73ec68e9e1" parent="aspace_1da8c9a7867995151ced91484feb012f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Intellectual Property, Copyright</unittitle>
+            <unitdate datechar="creation" normal="1984/1986" type="inclusive">1984-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_bee40c8366e20ccf5070d589c2767f7d" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_cc7b21fbceea1e9adfa2ed7660035b0e" parent="aspace_bee40c8366e20ccf5070d589c2767f7d" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Intellectual Property, Copyright</unittitle>
+            <unitdate datechar="creation" normal="1986/1988" type="inclusive">1986-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_bc79160ead9237d5cead91ab4f5f5918" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_6158be10357dab3dd8aee1bd43ff4c5f" parent="aspace_bc79160ead9237d5cead91ab4f5f5918" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Intellectual Property, Copyright</unittitle>
+            <unitdate datechar="creation" normal="1989/1991" type="inclusive">1989-1991</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d397e3b5d94345b59ca33cdd5250369b" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_a9ed098125e0e05f49c969ab81c8dc7d" parent="aspace_d397e3b5d94345b59ca33cdd5250369b" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Intellectual Property, NIH Commercialization Inquiry</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_5e63ff3633b76edfbb313875ead74cfb" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_08d58345d7e4da8ca912558f04c18be5" parent="aspace_5e63ff3633b76edfbb313875ead74cfb" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Intellectual Property, Univ-Industry Relations</unittitle>
+            <unitdate datechar="creation" normal="1981/1983" type="inclusive">1981-1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_e7496c18f8cc89c67db2fd8b9a61db3b" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_2af633852ace550cd92c6a6981a873ef" parent="aspace_e7496c18f8cc89c67db2fd8b9a61db3b" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Intellectual Property, Univ-Industry Relations</unittitle>
+            <unitdate datechar="creation" normal="1984/1986" type="inclusive">1984-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1c0e79dfa08e3e661a179652772cbfb0" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_4f9bf0789187166b9ededcfbabd76aef" parent="aspace_1c0e79dfa08e3e661a179652772cbfb0" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Intellectual Property, Univ-Industry Relations</unittitle>
+            <unitdate datechar="creation" normal="1986/1990" type="inclusive">1986-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_2b11b595ddc815c52d9855cf57576527" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_be6213c3b3f5878657fef0a3d7dd4ea8" parent="aspace_2b11b595ddc815c52d9855cf57576527" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Intellectual Property, University Patents, Inc</unittitle>
+            <unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_179a126c02c4792a4cb22f468badcffd" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_bef3ff3fe3eb1559952eb026e9db2911" parent="aspace_179a126c02c4792a4cb22f468badcffd" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Intellectual Property, University Patents, Inc</unittitle>
+            <unitdate datechar="creation" normal="1982/1984" type="inclusive">1982-1984</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d1a763f8ebc28d5d3650436378d054e8" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_beefb6839c874b202c96280b32a8a459" parent="aspace_d1a763f8ebc28d5d3650436378d054e8" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Intellectual Property, University Patents, Inc</unittitle>
+            <unitdate datechar="creation" normal="1985/1988" type="inclusive">1985-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_ed7c0cd5c962c7a7c356031d0893cde5" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_2425a64e14fce32a55cf8caf5a3145cf" parent="aspace_ed7c0cd5c962c7a7c356031d0893cde5" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Intellectual Property, Science and Engineering Technology, Inc (Successor to University Patents, Inc)</unittitle>
+            <unitdate datechar="creation" normal="1988/1990" type="inclusive">1988-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_7fdd549d29be56e957171c2fb7eae679" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_efa22f204d05bb921a12341e30933452" parent="aspace_7fdd549d29be56e957171c2fb7eae679" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Intellectual Property, Office of Industrial Liason</unittitle>
+            <unitdate datechar="creation" normal="1989/1995" type="inclusive">1989-1995</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_9e9176c61f35044cd4e01993f4a869fa" label="Mixed Materials [31142063155884]" type="Box">3</container>
+            <container id="aspace_ac984d220c9cee094fefbe5563142971" parent="aspace_9e9176c61f35044cd4e01993f4a869fa" type="Folder">21</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref58" level="series">
+        <did>
+          <unittitle>University Administration</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Academic Affairs, Office of, Assistant Vice President</unittitle>
+            <unitdate datechar="creation" normal="1977/1981" type="inclusive">1977-1981</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_0a8e4ef994afe2e4a62457ff36b44c8e" label="Mixed Materials [31142063155892]" type="Box">4</container>
+            <container id="aspace_ec5fc20b9e014946d95a9fd73b863302" parent="aspace_0a8e4ef994afe2e4a62457ff36b44c8e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Assistant Provost, Office of</unittitle>
+            <unitdate datechar="creation" normal="1980/1983" type="inclusive">1980-1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_207b539d40029021b0b69864a45d6386" label="Mixed Materials [31142063155892]" type="Box">4</container>
+            <container id="aspace_9079d4afce3d82218eec2d241bdf688c" parent="aspace_207b539d40029021b0b69864a45d6386" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Assistant Provost/Vice Provost, Office of</unittitle>
+            <unitdate datechar="creation" normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_ec23d207a2d17f73ab657e0eb1b1930f" label="Mixed Materials [31142063155892]" type="Box">4</container>
+            <container id="aspace_9fde7869547f0a11a91b3e8cf2f2375f" parent="aspace_ec23d207a2d17f73ab657e0eb1b1930f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Vice Chancellor, Office of</unittitle>
+            <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_e7efb620bd549e57d8eb7620a78fda19" label="Mixed Materials [31142063155892]" type="Box">4</container>
+            <container id="aspace_c201b4aa4451dcee668c24ff49bc21ad" parent="aspace_e7efb620bd549e57d8eb7620a78fda19" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Vice Chancellor, Office of</unittitle>
+            <unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_b0398cce7fa5b458c526bd674fef1c69" label="Mixed Materials [31142063155892]" type="Box">4</container>
+            <container id="aspace_3099f972b49a925dc6a2974fbab92a85" parent="aspace_b0398cce7fa5b458c526bd674fef1c69" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Vice Chancellor, Office of</unittitle>
+            <unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d5400bf4ad33fbeb464b2f316b58eb62" label="Mixed Materials [31142063155892]" type="Box">4</container>
+            <container id="aspace_41e6ee08b7ef752a28d9fa296114de15" parent="aspace_d5400bf4ad33fbeb464b2f316b58eb62" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Vice Chancellor, Office of</unittitle>
+            <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_ba06ca1b6e5080a328bb8cad4dfb865c" label="Mixed Materials [31142063155892]" type="Box">4</container>
+            <container id="aspace_987ee3bb23670942c8ddeb9816b6de9c" parent="aspace_ba06ca1b6e5080a328bb8cad4dfb865c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Vice Chancellor/ Deputy Chancellor, Office of</unittitle>
+            <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_9352a6bf541607cdc01deb9b5603aa9b" label="Mixed Materials [31142063155892]" type="Box">4</container>
+            <container id="aspace_cc775ef2b0e4b6fce6c570149f1851e4" parent="aspace_9352a6bf541607cdc01deb9b5603aa9b" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Deputy Chancellor, Office of</unittitle>
+            <unitdate datechar="creation" normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_3cf82955c54a2d7cd18e548ec2c39cbf" label="Mixed Materials [31142063155892]" type="Box">4</container>
+            <container id="aspace_7dd70aa22c9135d2f8d48d642b8b609f" parent="aspace_3cf82955c54a2d7cd18e548ec2c39cbf" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Deputy Chancellor, Office of</unittitle>
+            <unitdate datechar="creation" normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_4b008a50bae037db2f3cd560f798cd08" label="Mixed Materials [31142063155892]" type="Box">4</container>
+            <container id="aspace_8a8551d099e286d3bcc8fc3ba238d478" parent="aspace_4b008a50bae037db2f3cd560f798cd08" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Deputy Chancellor, Office of</unittitle>
+            <unitdate datechar="creation" normal="1991/1992" type="inclusive">1991-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_c795243723fb85b260f0e414c1e7e80b" label="Mixed Materials [31142063155892]" type="Box">4</container>
+            <container id="aspace_b205aefca756c4dd8b57fd4e0a479660" parent="aspace_c795243723fb85b260f0e414c1e7e80b" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Deputy Chancellor, Office of</unittitle>
+            <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d10e26038fa8f9ead6425850832040cb" label="Mixed Materials [31142063155892]" type="Box">4</container>
+            <container id="aspace_69c82e7a9ea140853d94ecd766ee59e5" parent="aspace_d10e26038fa8f9ead6425850832040cb" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Deputy Chancellor, Office of</unittitle>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_3f72cc504dac87b3fecdd73de6f414ac" label="Mixed Materials [31142063155892]" type="Box">4</container>
+            <container id="aspace_af489b5d82f5a5173b32d22f99c4af16" parent="aspace_3f72cc504dac87b3fecdd73de6f414ac" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Deputy Chancellor, Office of</unittitle>
+            <unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_03db5a15434a4fae58ec2dbe08a32dee" label="Mixed Materials [31142063155892]" type="Box">4</container>
+            <container id="aspace_f9c39acfe75f675e68cb6078fac2af15" parent="aspace_03db5a15434a4fae58ec2dbe08a32dee" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Deputy Chancellor, Office of</unittitle>
+            <unitdate datechar="creation" normal="1995/1996" type="inclusive">1995-1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_ae14b234b636fa04ff1c545d7805e2b8" label="Mixed Materials [31142063155892]" type="Box">4</container>
+            <container id="aspace_9c963fa6a867afdc1d3ba31d2812e8f1" parent="aspace_ae14b234b636fa04ff1c545d7805e2b8" type="Folder">15</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref75" level="series">
+        <did>
+          <unittitle>Research Administration</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>The World War II Era</unittitle>
+            <unitdate datechar="creation" normal="1940/1946" type="inclusive">1940-1946</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_6074df0ba4ab362e6f971560eedbc960" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_5334f6ef03c9bfa1c17163bf1622f82d" parent="aspace_6074df0ba4ab362e6f971560eedbc960" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Organized Research</unittitle>
+            <unitdate datechar="creation" normal="1949/1952" type="inclusive">1949-1952</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_c85b05dc3df0abf261f720aa945b5ca8" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_f751f460806d94b15991c3c551451317" parent="aspace_c85b05dc3df0abf261f720aa945b5ca8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Research Services, Office of</unittitle>
+            <unitdate datechar="creation" normal="1952/1959" type="inclusive">1952-1959</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_0fb156e0d689814f79ac6d2aee60eeac" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_74c3a12cbd6565ea9b60368ce3e72afb" parent="aspace_0fb156e0d689814f79ac6d2aee60eeac" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Research Services, Office of</unittitle>
+            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_b28cf5d962e76cc312a329db03aa3271" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_ee811c78e0a9a8e6039ca9e43a7d8a78" parent="aspace_b28cf5d962e76cc312a329db03aa3271" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Research Services/Sponsored Programs, Office of (name change 1971)</unittitle>
+            <unitdate datechar="creation" normal="1970/1977" type="inclusive">1970-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_8b611addcd1d1bdc43c4cbe67222bcb5" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_57bdcccb781f80cee3fa8958e6bcf6cd" parent="aspace_8b611addcd1d1bdc43c4cbe67222bcb5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Sponsored Programs, Office of</unittitle>
+            <unitdate datechar="creation" normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_666e6bf793e64370ff47ae3c9bd7148d" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_49f5e4735666cda659ceebdb07484b1e" parent="aspace_666e6bf793e64370ff47ae3c9bd7148d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Sponsored Programs, Office of</unittitle>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_a8cc2c75762465c93116837ea0135fc8" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_b3fa220ae1b93e6d00db307c870dc3dc" parent="aspace_a8cc2c75762465c93116837ea0135fc8" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Sponsored Programs, Office of</unittitle>
+            <unitdate datechar="creation" normal="1981/1985" type="inclusive">1981-1985</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_e13d2190bef860befe5f4ae3fbc1ee2d" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_57fb726eaaec2d6c7facd802e948c30c" parent="aspace_e13d2190bef860befe5f4ae3fbc1ee2d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Sponsored Programs, Office of</unittitle>
+            <unitdate datechar="creation" normal="1985/1991" type="inclusive">1985-1991</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_dc5347e51429c351a62123e8e589b39f" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_78d2a7a3e97876d6e1aa3dd05c839dab" parent="aspace_dc5347e51429c351a62123e8e589b39f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Sponsored Programs, Office of</unittitle>
+            <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_bb1658578261a5319b5adc826a5a128b" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_0d77e029330f8858bb01152644ada0c5" parent="aspace_bb1658578261a5319b5adc826a5a128b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Sponsored Programs, Office of</unittitle>
+            <unitdate datechar="creation" normal="1994/1997" type="inclusive">1994-1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_5ef7ef8b2f1946660a1cb31fa3576cfb" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_98285a66c5f9d1adcf3fc29f47f3ae8c" parent="aspace_5ef7ef8b2f1946660a1cb31fa3576cfb" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Sponsored Progarms, Office of, Research Management Improvement (National Science Foundation Grant nm44242)</unittitle>
+            <unitdate datechar="creation" normal="1974/1977" type="inclusive">1974-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_a2f834458a1ab8dc0dd32d4cd5e2ee07" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_86a478181452b86157169a2f1b857cc5" parent="aspace_a2f834458a1ab8dc0dd32d4cd5e2ee07" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Sponsored Programs, Office of, Research Management Improvment (National Science Foundation Grant nm44242)</unittitle>
+            <unitdate datechar="creation" normal="1974/1977" type="inclusive">1974-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_a2e62900d433891585b9ade4836790dc" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_cc985c22ca243f50f6cfe66167182dc5" parent="aspace_a2e62900d433891585b9ade4836790dc" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Sponsored Programs, Office of, Research Management Imporvement (National Science Foundation Grant nm44242)</unittitle>
+            <unitdate datechar="creation" normal="1974/1977" type="inclusive">1974-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1aa91e9c1661447c952e305372fea2ba" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_53519f9b434840ebc9c810453dcb6943" parent="aspace_1aa91e9c1661447c952e305372fea2ba" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Sponsored Programs, Office of, Intramural memoranda and minutes</unittitle>
+            <unitdate datechar="creation" normal="1974/1977" type="inclusive">1974-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_78e1401e52d49a566a7bc1550521ee98" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_3867fdee8dc57c4fb7c5951faa06799c" parent="aspace_78e1401e52d49a566a7bc1550521ee98" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Sponsored Programs, Office of, Intramural memoranda and minutes</unittitle>
+            <unitdate datechar="creation" normal="1974/1977" type="inclusive">1974-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_70a808c5e1c4e6d7a93711359c32928a" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_7414b8c258fd8be927bdcdf8258513ee" parent="aspace_70a808c5e1c4e6d7a93711359c32928a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Sponsored Programs, Office of, Intramural memoranda and minutes</unittitle>
+            <unitdate datechar="creation" normal="1974/1977" type="inclusive">1974-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_137335e349d51f5f810ed47584f32758" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_d633f77a8c5f20bb99cb67032da2b800" parent="aspace_137335e349d51f5f810ed47584f32758" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Sponsored Programs, Office of, Extramural Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1974/1983" type="inclusive">1974-1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_39be374ff6ad28b810d9967695c83161" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_a56877d3559ec6feddb2284f7cd85ab7" parent="aspace_39be374ff6ad28b810d9967695c83161" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Budget, Estimates, misc</unittitle>
+            <unitdate datechar="creation" normal="1975/1980" type="inclusive">1975-1980</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_de474673d860d0eb3a3a79d2e364668e" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_8e0eb72d8ec61289c61b90116db00fdc" parent="aspace_de474673d860d0eb3a3a79d2e364668e" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Compliments</unittitle>
+            <unitdate datechar="creation" normal="1978/1996" type="inclusive">1978-1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_fb7254b5338600b967c5da3f5e241b9a" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_f0dd96b2867d86405c95a13dbf0b5be1" parent="aspace_fb7254b5338600b967c5da3f5e241b9a" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Cooper &amp; Lybrand Study</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_41e12ce9da3187f5fd29c0802fd49f94" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_9fd68174278a55859e8bee7b2946e290" parent="aspace_41e12ce9da3187f5fd29c0802fd49f94" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Cornell/NSF Town Meeting</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_58f45942cd6a2d0dd048167eac05e1be" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_f386bd3765fb4deca50fcab05d2b30ac" parent="aspace_58f45942cd6a2d0dd048167eac05e1be" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Development of Data Analysis</unittitle>
+            <unitdate datechar="creation" normal="1983/1985" type="inclusive">1983-1985</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_b3596c79ccd7eadbf345546dc968ea9d" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_7a9bbef9370516b6d1993a75513762d9" parent="aspace_b3596c79ccd7eadbf345546dc968ea9d" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Freedom of Information Requests</unittitle>
+            <unitdate datechar="creation" normal="1981/1990" type="inclusive">1981-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_8add9977b1ae28b9781078a1cd7a3d8e" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_533b69a00b543853b2f8f7351288fb92" parent="aspace_8add9977b1ae28b9781078a1cd7a3d8e" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Sponsored Programs and Operations, General University Certifications</unittitle>
+            <unitdate datechar="creation" normal="1990/1997" type="inclusive">1990-1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_488a778df91ae36b88558d0134c9d047" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_ac5cdff3f158067587b7d7ab58beca5c" parent="aspace_488a778df91ae36b88558d0134c9d047" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Guide to Service</unittitle>
+            <unitdate datechar="creation">n.d.</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_9eb98b5a0546d50fdfc3f30d9d1f48c5" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_b6c43c25cbb285f2d29389d17c191cb2" parent="aspace_9eb98b5a0546d50fdfc3f30d9d1f48c5" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Log</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_68d7f847a593c2286bd2d54640300cf8" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_43a1f3e8a33e5b7a1325d9f7519d7600" parent="aspace_68d7f847a593c2286bd2d54640300cf8" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Log</unittitle>
+            <unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_aad2b5582dbb71c60237ebc2ade414c9" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_6e897f429900354f312bfb76160c71b1" parent="aspace_aad2b5582dbb71c60237ebc2ade414c9" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Log</unittitle>
+            <unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_fd3898640b5362b8e3561344b7864453" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_99ecdb784a9c1afa8623b4c95d17c720" parent="aspace_fd3898640b5362b8e3561344b7864453" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Log</unittitle>
+            <unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_7a75b1eeea2bb47f6f60a1b863731866" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_231f5c9893ebff042475dc45af870358" parent="aspace_7a75b1eeea2bb47f6f60a1b863731866" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations Manuals, misc</unittitle>
+            <unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_fb723f6e72d62df9e3d3b81cf84041d0" label="Mixed Materials [31142063155900]" type="Box">5</container>
+            <container id="aspace_8aabb25872fa7a512926ac6345afac5a" parent="aspace_fb723f6e72d62df9e3d3b81cf84041d0" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Memoranda &amp; Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1959/1960" type="inclusive">1959-1960</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_c9810be22754d3bc19a23ebbe275651b" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_33b9ed558d473f72f1e77c8191b3852b" parent="aspace_c9810be22754d3bc19a23ebbe275651b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Memoranda, &amp; Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_da8a588f410c62842a62768e9e6dffbf" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_37945034e11bf39238e6b965320493d6" parent="aspace_da8a588f410c62842a62768e9e6dffbf" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Memoranda &amp; Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_f6072dad1f170a2137ef3ee435c104df" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_dffc44cd346a2f57a8bc779f06eeb9dc" parent="aspace_f6072dad1f170a2137ef3ee435c104df" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Memoranda &amp; Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1962/1965" type="inclusive">1962-1965</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_23c71001e4b0f1bcd50ec7ce60bb3236" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_81e460594abacb877333554c06f211dd" parent="aspace_23c71001e4b0f1bcd50ec7ce60bb3236" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Sponsored Programs, Operations, Memoranda, &amp; Operations</unittitle>
+            <unitdate datechar="creation" normal="1968/1971" type="inclusive">1968-1971</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_6d447a69257fe6d928ff25800a54f7b4" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_1bff32e644d74746cb5ec6a5126ea9cf" parent="aspace_6d447a69257fe6d928ff25800a54f7b4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Memoranda, &amp; Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_f2583ec16cbee7fec7bbc43d508360ef" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_1bc09402557cdab7f1bfd426320c742e" parent="aspace_f2583ec16cbee7fec7bbc43d508360ef" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Memoranda, &amp; Correspondences</unittitle>
+            <unitdate datechar="creation" normal="1972/1974" type="inclusive">1972-1974</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_94326c20d4cf7ea9b8ece86c180799f0" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_b9b7e68d51226ae960b2025fd354bc3d" parent="aspace_94326c20d4cf7ea9b8ece86c180799f0" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Memoranda, &amp; Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1974/1976" type="inclusive">1974-1976</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_dc5f738fdfcea3eaa5069e5fd5575b8c" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_123afc29c57c52baa74b6c897bd3218a" parent="aspace_dc5f738fdfcea3eaa5069e5fd5575b8c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, newsletters</unittitle>
+            <unitdate datechar="creation" normal="1979/1984" type="inclusive">1979-1984</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_f9784212b40baf0be2cc129eacef7f73" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_c01a72607f64cd5207e2808a52c448e4" parent="aspace_f9784212b40baf0be2cc129eacef7f73" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, NYU Annual Report (Five year Retrospective)</unittitle>
+            <unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_7a5e604243dc541840da0e8a136758cd" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_0bcf01841ffc892dba276b2a4433271f" parent="aspace_7a5e604243dc541840da0e8a136758cd" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Program Announcements</unittitle>
+            <unitdate datechar="creation" normal="1972/1997" type="inclusive">1972-1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d4384420180196407245acc5e1bbdb19" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_9cd8deb4da0bf16a8953454d71f976a8" parent="aspace_d4384420180196407245acc5e1bbdb19" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Research Recognition Award Proposal</unittitle>
+            <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_bbb8457915d47320978b58bfd21a0562" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_49d433670b83b956accfa721732b00ac" parent="aspace_bbb8457915d47320978b58bfd21a0562" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Signature Authority</unittitle>
+            <unitdate datechar="creation" normal="1971/2005" type="inclusive">1971-2005</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_fef1822f8ccaab0e1736eb4b006da54a" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_31a364436181c45ba769a001238c0b51" parent="aspace_fef1822f8ccaab0e1736eb4b006da54a" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Staffing and Budgets</unittitle>
+            <unitdate datechar="creation" normal="1973/1989" type="inclusive">1973-1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_f943d3582502c9f530d9654dcb0612ad" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_b1b9c30992f2b15b41d1b88f6f416740" parent="aspace_f943d3582502c9f530d9654dcb0612ad" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Senior Staff Activates</unittitle>
+            <unitdate datechar="creation" normal="1986/1997" type="inclusive">1986-1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_db0d8eec2fa988b3f7cb53dba2b7b840" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_402cbe988217f18ad0fc47dd262bc61a" parent="aspace_db0d8eec2fa988b3f7cb53dba2b7b840" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Senior Staff Activates meeting agendas and minutes</unittitle>
+            <unitdate datechar="creation" normal="1993/1997" type="inclusive">1993-1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_5dcc2d4e7150d2c796abc416c9121829" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_e8cadb7d754267cdcfda3e53813deb28" parent="aspace_5dcc2d4e7150d2c796abc416c9121829" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Sponsored Research and Training Programs Manual</unittitle>
+            <unitdate datechar="creation" normal="1956/1967" type="inclusive">1956-1967</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_85a0738b716836731e814c3f7956f922" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_e1521284eb79b8f2827a724de10298b7" parent="aspace_85a0738b716836731e814c3f7956f922" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Sponsored Research and Traning Programs Manual</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_3af4230f95eb4011919865c264be5c8b" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_cff1a29408ea6584a3f810310bc2678f" parent="aspace_3af4230f95eb4011919865c264be5c8b" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Sponsored Research and Training Programs Manual</unittitle>
+            <unitdate datechar="creation" normal="1974/1977" type="inclusive">1974-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_516e54c572f0284c4f1504f820e78c78" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_399064375d37d6b4ff78dbfe5ca6b2a5" parent="aspace_516e54c572f0284c4f1504f820e78c78" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Sponsored Research and Training Program Manual</unittitle>
+            <unitdate datechar="creation" normal="1978/1986" type="inclusive">1978-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_39bd622de01c906b89da2a827160d34e" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_1367090a89bfb48cfe5f934bf1ff64b2" parent="aspace_39bd622de01c906b89da2a827160d34e" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>Sponsored Programs Operations, Sponsored Research and Training Program Manual</unittitle>
+            <unitdate datechar="creation" normal="1991/1997" type="inclusive">1991-1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_4c5c1d10f8030d6e3085b36b1664d0b6" label="Mixed Materials [31142063155918]" type="Box">6</container>
+            <container id="aspace_745d0e72f5c18e54c1d1255406a125c9" parent="aspace_4c5c1d10f8030d6e3085b36b1664d0b6" type="Folder">21</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref132" level="series">
+        <did>
+          <unittitle>Research Administration, Related University Units</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>Academic Affairs, Office of</unittitle>
+            <unitdate datechar="creation" normal="1982/1990" type="inclusive">1982-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_e0090e54ef3e4bf1a98307a9522595e8" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_b8c0deda215bd0a4271e59001103bc72" parent="aspace_e0090e54ef3e4bf1a98307a9522595e8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>Academic Affairs, Office of, Ethics and Moral Value</unittitle>
+            <unitdate datechar="creation" normal="1978/1982" type="inclusive">1978-1982</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_5ad997e581555d5fbd0af5b7f19332ce" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_cffe5653c4e7d286d1773b4eb174a989" parent="aspace_5ad997e581555d5fbd0af5b7f19332ce" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>Administrative Services, Equipment and Policy and Property Management</unittitle>
+            <unitdate datechar="creation" normal="1979/1998" type="inclusive">1979-1998</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_ab7813d26fa337e5f362fdfeb762d545" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_ff30ac7f0b055b17c67a11898af8dc1b" parent="aspace_ab7813d26fa337e5f362fdfeb762d545" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>Development Office</unittitle>
+            <unitdate datechar="creation" normal="1958/1968" type="inclusive">1958-1968</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_eb194b6d9ba265eed54f0f4ef142eed9" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_91add6e5ee4f5416d2dbd02753c1353c" parent="aspace_eb194b6d9ba265eed54f0f4ef142eed9" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>Development Office</unittitle>
+            <unitdate datechar="creation" normal="1975/1982" type="inclusive">1975-1982</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_b306f69363658694c681f3d6d9ca90d4" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_4aa03194e156f9cc12fc7c676db01431" parent="aspace_b306f69363658694c681f3d6d9ca90d4" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>Development Office</unittitle>
+            <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_9231538a549b8b6909bd7a9784727d44" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_7435eec18dc1ebcc4c245bc4716319be" parent="aspace_9231538a549b8b6909bd7a9784727d44" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>Development Office</unittitle>
+            <unitdate datechar="creation" normal="1983/1985" type="inclusive">1983-1985</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_aa4961031ba5f104f3b86e833c615faa" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_8a7ec24f5152bf78359d62939d7aa2fc" parent="aspace_aa4961031ba5f104f3b86e833c615faa" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="file">
+          <did>
+            <unittitle>Development Office</unittitle>
+            <unitdate datechar="creation" normal="1985/1991" type="inclusive">1985-1991</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_a3d2968ef394930a785697e4785f3317" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_c0cf7836a90a05945b9853dcbad0c6fd" parent="aspace_a3d2968ef394930a785697e4785f3317" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>Development Office</unittitle>
+            <unitdate datechar="creation" normal="1991/1993" type="inclusive">1991-1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_60e56d0408fe942ec5e213da33905e7b" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_e4438eb8de2aaf5ddafcdc7de8666d4e" parent="aspace_60e56d0408fe942ec5e213da33905e7b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="file">
+          <did>
+            <unittitle>Development Office</unittitle>
+            <unitdate datechar="creation" normal="1994/1996" type="inclusive">1994-1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_a7aef853a6a7c30484626b5ba72c9b0d" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_27639dbd03f4ab1e0f0a02a5e1a30684" parent="aspace_a7aef853a6a7c30484626b5ba72c9b0d" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref143" level="file">
+          <did>
+            <unittitle>Finance Office, Contract Officer</unittitle>
+            <unitdate datechar="creation" normal="1966/1981" type="inclusive">1966-1981</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_96429848303ccce9ec50aa3b401790e3" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_e6093ce496f5a247badd05d8130aafda" parent="aspace_96429848303ccce9ec50aa3b401790e3" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="file">
+          <did>
+            <unittitle>Finance Office, Contract Officer</unittitle>
+            <unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_79f655649bf1c4e0fa80d1f03e3468ad" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_b57f7e9d78440fd49e22ae3b49906a4a" parent="aspace_79f655649bf1c4e0fa80d1f03e3468ad" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref145" level="file">
+          <did>
+            <unittitle>Finance Office, Contract Officer</unittitle>
+            <unitdate datechar="creation" normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_eeca58fe9512ea73ea174d7095164230" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_3c12eaebbd2091d8ca07e6e1d4248e71" parent="aspace_eeca58fe9512ea73ea174d7095164230" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref146" level="file">
+          <did>
+            <unittitle>Finance Office, Contract Officer</unittitle>
+            <unitdate datechar="creation" normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_ff990adb23189f30aa4a6a6bef4bff4a" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_94706b20246f7f4a2420b5bf35ae2aec" parent="aspace_ff990adb23189f30aa4a6a6bef4bff4a" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="file">
+          <did>
+            <unittitle>Finance Office, Contract Officer</unittitle>
+            <unitdate datechar="creation" normal="1984/1986" type="inclusive">1984-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_66744fa8de8465ebae96868cd9f0c7f5" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_76169887122db9cc6eb56b602355c479" parent="aspace_66744fa8de8465ebae96868cd9f0c7f5" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="file">
+          <did>
+            <unittitle>Finance Office, Contract Officer</unittitle>
+            <unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_bebe29a901957f839eb44749cde66a64" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_a91e719b3a05589809dafb23f5d3a668" parent="aspace_bebe29a901957f839eb44749cde66a64" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="file">
+          <did>
+            <unittitle>Finance Office, Contract Officer</unittitle>
+            <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_a33a5d2f98f8803fa9189493ca0a56d6" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_f87c7c0ab0524f1968a98eca4007390a" parent="aspace_a33a5d2f98f8803fa9189493ca0a56d6" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="file">
+          <did>
+            <unittitle>Finance Office, Contract Officer</unittitle>
+            <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_5b25431d0056b689a3059a71c78ea97b" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_116f25f574fd5c7ff723fb32ebf27905" parent="aspace_5b25431d0056b689a3059a71c78ea97b" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref151" level="file">
+          <did>
+            <unittitle>Finance Office, Contract Officer</unittitle>
+            <unitdate datechar="creation" normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_563094ce56ead0785f54e581f2a914c4" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_fc2cf914e6bc7941bf6d6c6a042f5545" parent="aspace_563094ce56ead0785f54e581f2a914c4" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="file">
+          <did>
+            <unittitle>Finance Office, Contract Officer</unittitle>
+            <unitdate datechar="creation" normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_4575bf73140c437f477e0f207176acd7" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_8b537c3260ea2a957914eb2675a83513" parent="aspace_4575bf73140c437f477e0f207176acd7" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="file">
+          <did>
+            <unittitle>Finance Office, Contract Officer</unittitle>
+            <unitdate datechar="creation" normal="1991/1992" type="inclusive">1991-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d9187d98bb99396d14d1ad3c630f3766" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_35bd20c09c18fd1a63af724a22dce106" parent="aspace_d9187d98bb99396d14d1ad3c630f3766" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="file">
+          <did>
+            <unittitle>Finance Office, Contract Officer</unittitle>
+            <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_5f1b7dc2deb99f0206f760056541cd85" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_c9042914e48d07524a50ead25aa68e4c" parent="aspace_5f1b7dc2deb99f0206f760056541cd85" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref155" level="file">
+          <did>
+            <unittitle>Finance Office, Contract Officer</unittitle>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_29d404a565897a393c516600275aff7c" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_413925dfa25c63a22ab7b54e02817cc1" parent="aspace_29d404a565897a393c516600275aff7c" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="file">
+          <did>
+            <unittitle>Finance Office, Contract Officer</unittitle>
+            <unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_ea236e15df237b0e01327b46c216ab92" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_a2045eaf3b5d33f6fdab9ab5a0711778" parent="aspace_ea236e15df237b0e01327b46c216ab92" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref157" level="file">
+          <did>
+            <unittitle>Finance Office, Contract Officer</unittitle>
+            <unitdate datechar="creation" normal="1995/1996" type="inclusive">1995-1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d262fe3f750f829a75cde68479f313b8" label="Mixed Materials [31142063155926]" type="Box">7</container>
+            <container id="aspace_4eb16765656de6f3cfb692b10eed7912" parent="aspace_d262fe3f750f829a75cde68479f313b8" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref159" level="file">
+          <did>
+            <unittitle>Finance Office, Indirect Cost Agreements</unittitle>
+            <unitdate datechar="creation" normal="1963/1995" type="inclusive">1963-1995</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_afb4142f4f65035f22c0b3fc8305a1c5" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_f211b58b06c4b85487f029d84b5e3704" parent="aspace_afb4142f4f65035f22c0b3fc8305a1c5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref160" level="file">
+          <did>
+            <unittitle>Finance Office, Indirect Cost Policy, Privately Sponsored Programs</unittitle>
+            <unitdate datechar="creation" normal="1985/1993" type="inclusive">1985-1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_79d5700fda37935f8d8d99a84c8f00a9" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_90a0c9a1acfd155c3d4a5d6456798110" parent="aspace_79d5700fda37935f8d8d99a84c8f00a9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref161" level="file">
+          <did>
+            <unittitle>Finance Office, Sponsored Research Accounting</unittitle>
+            <unitdate datechar="creation" normal="1974/1985" type="inclusive">1974-1985</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_7a188007ca62f21eeed006bc1015c7a9" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_a1c66390d9703404aa5cd9275913bbcd" parent="aspace_7a188007ca62f21eeed006bc1015c7a9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="file">
+          <did>
+            <unittitle>Finance Office, Sponsored Research Accounting</unittitle>
+            <unitdate datechar="creation" normal="1986/1989" type="inclusive">1986-1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_7bae4c58fc44d591501fd96f51c65cb5" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_ff7d36ee1133c8525e264bc08fd6a863" parent="aspace_7bae4c58fc44d591501fd96f51c65cb5" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref163" level="file">
+          <did>
+            <unittitle>Finance Office, Sponsored Research Accounting</unittitle>
+            <unitdate datechar="creation" normal="1989/1991" type="inclusive">1989-1991</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_8ee9a92a6c9d2bb3d50d475f6c7337b2" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_d2b2bd3d98f854f1bb245a29bb2e81fc" parent="aspace_8ee9a92a6c9d2bb3d50d475f6c7337b2" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref164" level="file">
+          <did>
+            <unittitle>Finance Office, Sponsored Research Accounting</unittitle>
+            <unitdate datechar="creation" normal="1991/1993" type="inclusive">1991-1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_0a812dcd04105a1f4d90d0b37346d431" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_439b898f37a05ee6eb307e9875b1a4bc" parent="aspace_0a812dcd04105a1f4d90d0b37346d431" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref165" level="file">
+          <did>
+            <unittitle>Finance Office, Sponsored Research Accounting</unittitle>
+            <unitdate datechar="creation" normal="1993/1996" type="inclusive">1993-1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_c19035a323693c1ccaa1033fe4bae8ae" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_395d54f25be808fbef8bf114feb6b22c" parent="aspace_c19035a323693c1ccaa1033fe4bae8ae" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref166" level="file">
+          <did>
+            <unittitle>Personnel Matters, Code 103</unittitle>
+            <unitdate datechar="creation" normal="1981/1996" type="inclusive">1981-1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_abd1ca8a7b2c97ce5201334eb528c943" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_7ea5dde5affc1c72319cba5ff5a7a440" parent="aspace_abd1ca8a7b2c97ce5201334eb528c943" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref167" level="file">
+          <did>
+            <unittitle>Personnel Matters, Tax Cases</unittitle>
+            <unitdate datechar="creation" normal="1958/1983" type="inclusive">1958-1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_add91f22844bc5fbc3cc59f362d7b7de" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_5831003c1de9ab82a632ff204202272e" parent="aspace_add91f22844bc5fbc3cc59f362d7b7de" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref168" level="file">
+          <did>
+            <unittitle>Personnel Matters, Tax Cases</unittitle>
+            <unitdate datechar="creation" normal="1986/1988" type="inclusive">1986-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_b083cf50c23900eda4215097ba0bd843" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_5ef56b7079193c813d8e47c51b16f043" parent="aspace_b083cf50c23900eda4215097ba0bd843" type="Folder">10</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref170" level="series">
+        <did>
+          <unittitle>Schools/Units</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref171" level="file">
+          <did>
+            <unittitle>Graduate School Arts and Science</unittitle>
+            <unitdate datechar="creation" normal="1957/1966" type="inclusive">1957-1966</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_a2b33fe09fdc5be95771006a90719a0a" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_e627f004599cbf8199adf3ea9a1123dd" parent="aspace_a2b33fe09fdc5be95771006a90719a0a" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref172" level="file">
+          <did>
+            <unittitle>Graduate School Arts and Science</unittitle>
+            <unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_58f5d62a1bacba278e6ffbcd75045d18" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_d62493c30547eae67db323c7e2bb6c4c" parent="aspace_58f5d62a1bacba278e6ffbcd75045d18" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref173" level="file">
+          <did>
+            <unittitle>Graduate School Arts and Science</unittitle>
+            <unitdate datechar="creation" normal="1968/1972" type="inclusive">1968-1972</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_4d89ea1bcbadfe244b0bb37dffd90dff" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_9d71c9f7284e6c1d1d4d930755eb170e" parent="aspace_4d89ea1bcbadfe244b0bb37dffd90dff" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref174" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science</unittitle>
+            <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_e50f64b213528bf543c085d638658765" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_ce484b2864e4e9b99156cf9b3943b6ab" parent="aspace_e50f64b213528bf543c085d638658765" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref175" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science</unittitle>
+            <unitdate datechar="creation" normal="1983/1986" type="inclusive">1983-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1a59d297b94d581af1bd041f95830faa" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_6b7170943151485251cade0ec4281f9a" parent="aspace_1a59d297b94d581af1bd041f95830faa" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref176" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_248cfafd235e070f837d43303a85273f" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_26cf21889208cd036a471f4aae255c1c" parent="aspace_248cfafd235e070f837d43303a85273f" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref177" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science</unittitle>
+            <unitdate datechar="creation" normal="1986/1989" type="inclusive">1986-1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_7232f08386acae1d56cfe68a62fa5b11" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_ce3eeeafdac00b297c721ab7bf6c3d56" parent="aspace_7232f08386acae1d56cfe68a62fa5b11" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref178" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science</unittitle>
+            <unitdate datechar="creation" normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_16c100171d0f3dde60125e2f54919b38" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_0fd4840d23f4ffcc41ac03a14a188d80" parent="aspace_16c100171d0f3dde60125e2f54919b38" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref179" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science</unittitle>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_a2932fdcbd44054db04de1597b710028" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_51ac2107c8ea85ef2cd085b45c29b7df" parent="aspace_a2932fdcbd44054db04de1597b710028" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref180" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science</unittitle>
+            <unitdate datechar="creation" normal="1994/1998" type="inclusive">1994-1998</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_221a2accd7f2bda03f279db860309c24" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_39a963a5d59aa808c59c2cf8a5fc6426" parent="aspace_221a2accd7f2bda03f279db860309c24" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref181" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Deans' Correspondence and Memoranda</unittitle>
+            <unitdate datechar="creation" normal="1978/1991" type="inclusive">1978-1991</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_027560461b237e06042e5a5bee81d3ee" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_8d5a39bf771ffc0a8825ef7b7c5d143e" parent="aspace_027560461b237e06042e5a5bee81d3ee" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref182" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Dean of Science</unittitle>
+            <unitdate datechar="creation" normal="1989/1992" type="inclusive">1989-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_5ab1e090adc33625bcf16273dc7f9176" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_88ff88baf3387d06bcd2162afd4e28f8" parent="aspace_5ab1e090adc33625bcf16273dc7f9176" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref183" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Dean of Science</unittitle>
+            <unitdate datechar="creation" normal="1992/1995" type="inclusive">1992-1995</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_b2d8c2150564b26b00151e279e0daedd" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_5f2b1902c5ec663aa09c222754664ad9" parent="aspace_b2d8c2150564b26b00151e279e0daedd" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref184" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Neural Science, Center for</unittitle>
+            <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_cede6345dd3d7af15aa1c38d84873ae7" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_fba16308b0d191bab4d18c8a2a645ad4" parent="aspace_cede6345dd3d7af15aa1c38d84873ae7" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref185" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Neural Science, Center for</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1e52632a7d53a80e065d814cb93a53fd" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_b6475f98f28f6c8150d6003081ef1c8f" parent="aspace_1e52632a7d53a80e065d814cb93a53fd" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref186" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, New York State Center for Neural Science at New York University</unittitle>
+            <unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_c5703423cad6b1a0c15af204913eb761" label="Mixed Materials [31142063155934]" type="Box">8</container>
+            <container id="aspace_ebd8b09a6b1fd2789e21eb2528ac16f0" parent="aspace_c5703423cad6b1a0c15af204913eb761" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref288" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, New York State Center for Neural Science at New York University (1 of 2)</unittitle>
+            <unitdate datechar="creation">1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_9ed45e0156c99632e6c84b656ae2600b" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_841c16b596a447d01856832b31c904ea" parent="aspace_9ed45e0156c99632e6c84b656ae2600b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref187" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, New York State Center for Neural Science at New York University (2 of 2)</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_dd86e6c69ba3e3dd65034a2ae25dbe26" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_9c04665f37f4b12e4d288084a6291280" parent="aspace_dd86e6c69ba3e3dd65034a2ae25dbe26" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref188" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, New York State Center for Neural Science at New York University</unittitle>
+            <unitdate datechar="creation" normal="1989/1990" type="inclusive">1989-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_7fb82263641a147fed6088a0726db8aa" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_5b4cee0ffa93426a35df829503a36ee1" parent="aspace_7fb82263641a147fed6088a0726db8aa" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref189" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Research Awards and Gifts</unittitle>
+            <unitdate datechar="creation" normal="1981/1983" type="inclusive">1981-1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_0346a226188581d0da6f573195344fb7" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_7d051bbc95e847ff03f8e056c813a9b0" parent="aspace_0346a226188581d0da6f573195344fb7" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref190" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Technology Transfer Fund</unittitle>
+            <unitdate datechar="creation" normal="1990/1995" type="inclusive">1990-1995</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_65f436bf820985d7bc2a395fac6cc5cc" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_aa2b9db93162ee5cbc13f9678fa00849" parent="aspace_65f436bf820985d7bc2a395fac6cc5cc" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref191" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Anthropology Department</unittitle>
+            <unitdate datechar="creation" normal="1968/1996" type="inclusive">1968-1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_25ff3b2b933274069ae00f31abb80d29" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_9a5769c8c6347d64bc8c66976e1b8658" parent="aspace_25ff3b2b933274069ae00f31abb80d29" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref192" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Biology Department</unittitle>
+            <unitdate datechar="creation" normal="1959/1983" type="inclusive">1959-1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_e6fff2c2113d781421ec74fc86835eaf" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_2633c2ac25993694b6aaeade6e1085a5" parent="aspace_e6fff2c2113d781421ec74fc86835eaf" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref193" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Biology Department, Goldfeder Laboratory</unittitle>
+            <unitdate datechar="creation" normal="1973/1993" type="inclusive">1973-1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_7e900a5d2b9aadecd15b8bf4c5e67d10" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_bf273ba6dc0e2021fa4ea430ec60c3d3" parent="aspace_7e900a5d2b9aadecd15b8bf4c5e67d10" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref194" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Economics Department</unittitle>
+            <unitdate datechar="creation" normal="1969/1980" type="inclusive">1969-1980</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_482ace5e474a7c30b76e275b2199aced" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_6af32fa3bf684500bfb70c65e143ec43" parent="aspace_482ace5e474a7c30b76e275b2199aced" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref195" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Linguistics Department</unittitle>
+            <unitdate datechar="creation" normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_731a7b2c6e48e2ac5a283c23e19dc987" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_cf09233a9aa12d56cd63bf19ce9c35d2" parent="aspace_731a7b2c6e48e2ac5a283c23e19dc987" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref196" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Politics Department</unittitle>
+            <unitdate datechar="creation" normal="1983/1993" type="inclusive">1983-1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_09e1e5a8aeb81d0d754259d982ff51f4" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_ea0b63709329600ac7e4501eff9971d8" parent="aspace_09e1e5a8aeb81d0d754259d982ff51f4" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref197" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Psychology Department (including Neural Science Center)</unittitle>
+            <unitdate datechar="creation" normal="1980/1988" type="inclusive">1980-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_0bdc9cac41d968691a5f4ab50f8e0e35" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_5de9b004dcd87507d14225ffabb54671" parent="aspace_0bdc9cac41d968691a5f4ab50f8e0e35" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref198" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Sociology Department</unittitle>
+            <unitdate datechar="creation" normal="1970/1993" type="inclusive">1970-1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_31b8e85cb78717195eb470a7f4e271cb" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_78c4d0ad3b23fc4193bdfeb3918935be" parent="aspace_31b8e85cb78717195eb470a7f4e271cb" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref199" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Applied Science</unittitle>
+            <unitdate datechar="creation" normal="1974/1989" type="inclusive">1974-1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_cba4483f74c52f135cc5ea54248a850c" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_3e5514aeece996affac062b829b628e8" parent="aspace_cba4483f74c52f135cc5ea54248a850c" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref200" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Applied Science, Kinetic Hydro Engergy Conversion Study</unittitle>
+            <unitdate datechar="creation" normal="1984/1988" type="inclusive">1984-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_6c7ce41421304f3f18d60dd55d9bfd38" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_1452174668c35f93ebe5637347b26aa9" parent="aspace_6c7ce41421304f3f18d60dd55d9bfd38" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref201" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Westbury Facility</unittitle>
+            <unitdate datechar="creation" normal="1984/1989" type="inclusive">1984-1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1a822b9b2ecaafa3da9bab9a448cf459" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_cfe058aa79d9a9729dabb478ce33c169" parent="aspace_1a822b9b2ecaafa3da9bab9a448cf459" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref202" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Courant Institute of Mathematical Sciences</unittitle>
+            <unitdate datechar="creation" normal="1961/1983" type="inclusive">1961-1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_9f0f06e12fbea81e72017559918191a1" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_2a661720b5bd8435860ac81d1b66d58c" parent="aspace_9f0f06e12fbea81e72017559918191a1" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref203" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Courant Insitute of Mathematical Sciences</unittitle>
+            <unitdate datechar="creation" normal="1983/1986" type="inclusive">1983-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_023a6072e02dbc7fe951404e459d2a60" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_1140d1b552176e50cb6d4c38f0a5831e" parent="aspace_023a6072e02dbc7fe951404e459d2a60" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref204" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Courant Institute of Mathematical Sciences</unittitle>
+            <unitdate datechar="creation" normal="1986/1997" type="inclusive">1986-1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_5a06d44bbc2e24839b9afc2a162faf48" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_f7c9b870b49a1ff258ca0b6e2bba198a" parent="aspace_5a06d44bbc2e24839b9afc2a162faf48" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref205" level="file">
+          <did>
+            <unittitle>Faculty of Arts and Science, Courant Institute of Mathematical Sciences, Center for Advanced Technology</unittitle>
+            <unitdate datechar="creation" normal="1982/1983" type="inclusive">1982-1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_9206a695d960cb08433383ae3aaf0ebd" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_eaf38a2b16a713bdfa7f01cf1cfe5a4d" parent="aspace_9206a695d960cb08433383ae3aaf0ebd" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref206" level="file">
+          <did>
+            <unittitle>Graduate School of Business Administration</unittitle>
+            <unitdate datechar="creation" normal="1979/1997" type="inclusive">1979-1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_331eaf75f4dbbffee61022d7303ec16f" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_f76d91589c527117be49a327b2164810" parent="aspace_331eaf75f4dbbffee61022d7303ec16f" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref207" level="file">
+          <did>
+            <unittitle>Continuing Education, School of </unittitle>
+            <unitdate datechar="creation" normal="1966/1968" type="inclusive">1966-1968</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_86c401614cce65acb853a8b8755016f3" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_bbea9ac47f0e3b876b44c7130f7eabfe" parent="aspace_86c401614cce65acb853a8b8755016f3" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref208" level="file">
+          <did>
+            <unittitle>College of Dentistry</unittitle>
+            <unitdate datechar="creation" normal="1968/1997" type="inclusive">1968-1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_adce55feaf38e6aaa09206f9971cf16e" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_4195ae33961dd03f4e1c91fdfad1f019" parent="aspace_adce55feaf38e6aaa09206f9971cf16e" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref209" level="file">
+          <did>
+            <unittitle>School of Education</unittitle>
+            <unitdate datechar="creation" normal="1959/1965" type="inclusive">1959-1965</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_0aeda3ad67124e0b36f1214b2e662ff7" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_f62caa06190dd5713581554f1847b572" parent="aspace_0aeda3ad67124e0b36f1214b2e662ff7" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref210" level="file">
+          <did>
+            <unittitle>School of Education</unittitle>
+            <unitdate datechar="creation" normal="1965/1968" type="inclusive">1965-1968</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_e19825da95f394afdbbf04f870e90c31" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_585fb01b62718988edf0b51636f5566f" parent="aspace_e19825da95f394afdbbf04f870e90c31" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref211" level="file">
+          <did>
+            <unittitle>School of Education</unittitle>
+            <unitdate datechar="creation" normal="1968/1971" type="inclusive">1968-1971</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_a14e31f04fc8585b2214976c8a864970" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_0c778b32fc19f01398b54bddd3dbc422" parent="aspace_a14e31f04fc8585b2214976c8a864970" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref212" level="file">
+          <did>
+            <unittitle>School of Education</unittitle>
+            <unitdate datechar="creation" normal="1979/1985" type="inclusive">1979-1985</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_6d2e9b64f5c7d4f4ced12ab2b9922f4f" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_cf4121bf4d5b0b8335833e87b715e225" parent="aspace_6d2e9b64f5c7d4f4ced12ab2b9922f4f" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref213" level="file">
+          <did>
+            <unittitle>School of Education</unittitle>
+            <unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_142492967ff70595c00a4b75b619fefb" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_355543496433d2243d1ce0b786b8fd2b" parent="aspace_142492967ff70595c00a4b75b619fefb" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref214" level="file">
+          <did>
+            <unittitle>School of Education</unittitle>
+            <unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_20d2a38aeb7d31b81c8f4d8933b91030" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_42b2a85509329e126fde85a9240297df" parent="aspace_20d2a38aeb7d31b81c8f4d8933b91030" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref215" level="file">
+          <did>
+            <unittitle>School of Education</unittitle>
+            <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_8e55b06631338d59c56f7f419b36293d" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_00c057b136093f154b292c1ed1412948" parent="aspace_8e55b06631338d59c56f7f419b36293d" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref216" level="file">
+          <did>
+            <unittitle>School of Education</unittitle>
+            <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_2dd93af1763757ff2381c4a3a0e5f666" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_a05e0ed2e942bcc217b432dc83d5eef2" parent="aspace_2dd93af1763757ff2381c4a3a0e5f666" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref217" level="file">
+          <did>
+            <unittitle>School of Education</unittitle>
+            <unitdate datechar="creation" normal="1989/1992" type="inclusive">1989-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_cb10fd28379eaf2b5fc2ac7893bd41ff" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_da5e7105f8974da2750928107f294d48" parent="aspace_cb10fd28379eaf2b5fc2ac7893bd41ff" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref218" level="file">
+          <did>
+            <unittitle>School of Education</unittitle>
+            <unitdate datechar="creation" normal="1992/1997" type="inclusive">1992-1997</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_bad2cc0f4b1bd06fe12f35ac0a811f50" label="Mixed Materials [31142063155942]" type="Box">9</container>
+            <container id="aspace_53e9601b1561c744e7d821f318b11133" parent="aspace_bad2cc0f4b1bd06fe12f35ac0a811f50" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref227" level="file">
+          <did>
+            <unittitle>School of Engineering</unittitle>
+            <unitdate datechar="creation" normal="1965/1968" type="inclusive">1965-1968</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_b16bb6143b462a875643fb4003742842" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_ec262cb0cb89eb310a85cef10268111b" parent="aspace_b16bb6143b462a875643fb4003742842" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref228" level="file">
+          <did>
+            <unittitle>School of Engineering</unittitle>
+            <unitdate datechar="creation" normal="1969/1974" type="inclusive">1969-1974</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_f2812eeaac58b62018c847bd2abd898b" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_e133fa050393aa715f22cd57b085ab18" parent="aspace_f2812eeaac58b62018c847bd2abd898b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref229" level="file">
+          <did>
+            <unittitle>School of Law</unittitle>
+            <unitdate datechar="creation" normal="1988/1992" type="inclusive">1988-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_2c5ea16ae25ccdc8ba9fa8fe39207162" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_e8ed2e93c9d388a8c134ba083e1ad041" parent="aspace_2c5ea16ae25ccdc8ba9fa8fe39207162" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref230" level="file">
+          <did>
+            <unittitle>School of Medicine, Medical Center</unittitle>
+            <unitdate datechar="creation" normal="1962/1967" type="inclusive">1962-1967</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d7959afd1ec7a6efd9964c8d35123814" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_c4d5e6b35849f46ee2ed5b0c8da69548" parent="aspace_d7959afd1ec7a6efd9964c8d35123814" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref231" level="file">
+          <did>
+            <unittitle>School of Medicine, Medical Center</unittitle>
+            <unitdate datechar="creation" normal="1968/1977" type="inclusive">1968-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_0672b258f405d721c1f696f399c4d410" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_c5ce69712de9e533ab60777281a50633" parent="aspace_0672b258f405d721c1f696f399c4d410" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref232" level="file">
+          <did>
+            <unittitle>School of Medicine, Medical Center</unittitle>
+            <unitdate datechar="creation" normal="1982/1987" type="inclusive">1982-1987</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_46ffaa111435e8452104209f64b500f6" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_4ee7a612cbca6b08cc7da78bf8ac5c72" parent="aspace_46ffaa111435e8452104209f64b500f6" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref233" level="file">
+          <did>
+            <unittitle>School of Medicine, Medical Center</unittitle>
+            <unitdate datechar="creation" normal="1987/1992" type="inclusive">1987-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_a50161e6bb97ed1d47010b7672ee91a3" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_94ba04ba1ba14f88606d07d432960499" parent="aspace_a50161e6bb97ed1d47010b7672ee91a3" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref234" level="file">
+          <did>
+            <unittitle>School of Medicine, Medical Center</unittitle>
+            <unitdate datechar="creation" normal="1992/1994" type="inclusive">1992-1994</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_7b4d01f5a85cec81b72c450ff4f745c0" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_13e98e3219aed369a8a4372cefc99d21" parent="aspace_7b4d01f5a85cec81b72c450ff4f745c0" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref235" level="file">
+          <did>
+            <unittitle>School of Medicine, Medical Center</unittitle>
+            <unitdate datechar="creation" normal="1994/1996" type="inclusive">1994-1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1f3f3e826257abdbf9b4e7c14cbb9988" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_8f51c13ff47dfa918baa6a6fa1a7cf14" parent="aspace_1f3f3e826257abdbf9b4e7c14cbb9988" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref236" level="file">
+          <did>
+            <unittitle>Graduate School of Public Administration</unittitle>
+            <unitdate datechar="creation" normal="1971/1992" type="inclusive">1971-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_f73e1277a200e35359b733490b37bb1a" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_cdabe74bf082c0bb57b35ae727953a7e" parent="aspace_f73e1277a200e35359b733490b37bb1a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref237" level="file">
+          <did>
+            <unittitle>Graduate School of Social Work</unittitle>
+            <unitdate datechar="creation" normal="1967/1988" type="inclusive">1967-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_5036f72b7367936e4906f2b4eeceb92a" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_e4b752241bd2474f2e7acacd7bcb52cc" parent="aspace_5036f72b7367936e4906f2b4eeceb92a" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref238" level="file">
+          <did>
+            <unittitle>Tisch School of the Arts</unittitle>
+            <unitdate datechar="creation" normal="1967/1982" type="inclusive">1967-1982</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_45a8c13c0f7abf971fa439ebe02c3f73" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_c12f1cb9757c1136e2ae6000f392f707" parent="aspace_45a8c13c0f7abf971fa439ebe02c3f73" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref239" level="file">
+          <did>
+            <unittitle>Center for International Studies</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_bfd9f9b2fce1936ae4d666e7525f5a74" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_dad490d3871ac46b5a095a518a0d0db3" parent="aspace_bfd9f9b2fce1936ae4d666e7525f5a74" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref240" level="file">
+          <did>
+            <unittitle>Center for International Studies</unittitle>
+            <unitdate datechar="creation" normal="1966/1973" type="inclusive">1966-1973</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_f8d2892d85aec18134622b5d52372d8d" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_a36d1cc5aafa0011e0445a77d363584c" parent="aspace_f8d2892d85aec18134622b5d52372d8d" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref241" level="file">
+          <did>
+            <unittitle>Creative Arts Team</unittitle>
+            <unitdate datechar="creation" normal="1981/1985" type="inclusive">1981-1985</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_60de4cc77c2582511f91b5f79aabd2ae" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_d18babacf1f198c5b35dfd434787fb97" parent="aspace_60de4cc77c2582511f91b5f79aabd2ae" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref242" level="file">
+          <did>
+            <unittitle>Creative Arts Team</unittitle>
+            <unitdate datechar="creation" normal="1986/1993" type="inclusive">1986-1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_76c87a8e8119cd065df81ec52e2240ff" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_e1a82cd9aa540252d174ac06a9d83f80" parent="aspace_76c87a8e8119cd065df81ec52e2240ff" type="Folder">16</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref243" level="series">
+        <did>
+          <unittitle>Sponsor Matters</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref244" level="file">
+          <did>
+            <unittitle>Classified/Confidential Work at Universities</unittitle>
+            <unitdate datechar="creation" normal="1966/1970" type="inclusive">1966-1970</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_adc8c1486d60a11af62be9a29ea05531" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_69ef466ad01c3feca859539bbc921ef1" parent="aspace_adc8c1486d60a11af62be9a29ea05531" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref245" level="file">
+          <did>
+            <unittitle>Classified/Confidential Work at Universities</unittitle>
+            <unitdate datechar="creation" normal="1978/1980" type="inclusive">1978-1980</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1731d0a18c22adbb58320eb1d049a366" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_84c35eb817cad8a7672eb86fa92f55f9" parent="aspace_1731d0a18c22adbb58320eb1d049a366" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref246" level="file">
+          <did>
+            <unittitle>Classified/Confidential Work at Universities</unittitle>
+            <unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_17283be0533c1ca5814ffe3cbea4f08e" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_147813d268f5630ed67a676a62454f7b" parent="aspace_17283be0533c1ca5814ffe3cbea4f08e" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref247" level="file">
+          <did>
+            <unittitle>Federal, Air Force Basic Agreement</unittitle>
+            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_acc6a980c3995cf5a1eef88e664a51d6" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_2b6e8a5ba693056a920d85c9fa294683" parent="aspace_acc6a980c3995cf5a1eef88e664a51d6" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref248" level="file">
+          <did>
+            <unittitle>Federal, Air Force Basic Agreement</unittitle>
+            <unitdate datechar="creation" normal="1970/1975" type="inclusive">1970-1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_de74c704dfaf9bb8334b8c0ef9b2799d" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_0017d1246f8cc9a3e1d03c5d4ef29a23" parent="aspace_de74c704dfaf9bb8334b8c0ef9b2799d" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref249" level="file">
+          <did>
+            <unittitle>Federal, Air Force Faculties Contract, Property Contract</unittitle>
+            <unitdate datechar="creation" normal="1961/1989" type="inclusive">1961-1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_cfee10d5a58d0b032391509e509e5faf" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_ddcc37636e2508ccfdab855b376d8db2" parent="aspace_cfee10d5a58d0b032391509e509e5faf" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref250" level="file">
+          <did>
+            <unittitle>Federal, Department of the Army</unittitle>
+            <unitdate datechar="creation" normal="1958/1967" type="inclusive">1958-1967</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_c5b3419af9d994a214cba991aaa31c1c" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_761f706cb9682b6c9595c4651eadb009" parent="aspace_c5b3419af9d994a214cba991aaa31c1c" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref251" level="file">
+          <did>
+            <unittitle>Federal, Department of the Navy Basic Agreement</unittitle>
+            <unitdate datechar="creation" normal="1969/1973" type="inclusive">1969-1973</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_a1cabf26a4d1fd5c0b6f0b136898735d" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_8dc0f72dc669d37503bff43a6fe8820a" parent="aspace_a1cabf26a4d1fd5c0b6f0b136898735d" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref252" level="file">
+          <did>
+            <unittitle>Federal, Department of the Navy Basic Agreement</unittitle>
+            <unitdate datechar="creation" normal="1974/1986" type="inclusive">1974-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_5bc58b01457dd5fe724b987613ad7659" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_2995d0638fb4ffb78502d3cfa8a261e5" parent="aspace_5bc58b01457dd5fe724b987613ad7659" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref253" level="file">
+          <did>
+            <unittitle>Federal, Department of the Navy Master Contract</unittitle>
+            <unitdate datechar="creation" normal="1961/1969" type="inclusive">1961-1969</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_b4437026c505133558431ad0f5e51c73" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_f1cd7881c7f6b490cf5d866313371538" parent="aspace_b4437026c505133558431ad0f5e51c73" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref254" level="file">
+          <did>
+            <unittitle>Federal, DOD Critical Technologies Plan, Questionnaire</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_4833a11fff4905eb66b48941cdd3056a" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_0f143df28da69ab12398e6ede08e14dc" parent="aspace_4833a11fff4905eb66b48941cdd3056a" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref255" level="file">
+          <did>
+            <unittitle>Federal, DOD Strategic Defense Initiative</unittitle>
+            <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_e4c785b2ac9605e54ffb3709d2d9f83b" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_794804f23179747d56e1906c317835e9" parent="aspace_e4c785b2ac9605e54ffb3709d2d9f83b" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref256" level="file">
+          <did>
+            <unittitle>Federal, Atomic Energy Commission Basic Agreement</unittitle>
+            <unitdate datechar="creation" normal="1960/1966" type="inclusive">1960-1966</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d66259e2bf53e486244bf35b58b0b624" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_441855f8a5480ce30426a1ef9c6677c2" parent="aspace_d66259e2bf53e486244bf35b58b0b624" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref257" level="file">
+          <did>
+            <unittitle>Federal, Atomic Energy Commission Basic Agreement</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_18affd092bd9cf64031d08d746b897ab" label="Mixed Materials [31142063155959]" type="Box">10</container>
+            <container id="aspace_f987ff40ded6cf7fa417feace59e9811" parent="aspace_18affd092bd9cf64031d08d746b897ab" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref258" level="file">
+          <did>
+            <unittitle>Federal, Atomic Energy Commission Basic Agreement</unittitle>
+            <unitdate datechar="creation" normal="1969/1972" type="inclusive">1969-1972</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_aee16737e93b9feabb2e0363c7a105cc" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_5218a0feba32a87fa43a97472a8e5cb0" parent="aspace_aee16737e93b9feabb2e0363c7a105cc" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref259" level="file">
+          <did>
+            <unittitle>Federal, Atomic Energy Commission, Misc</unittitle>
+            <unitdate datechar="creation" normal="1970/1972" type="inclusive">1970-1972</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_9891ef871b752298cdfa393edca3a989" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_05aa6fd804d82c247c24af1b24161361" parent="aspace_9891ef871b752298cdfa393edca3a989" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref260" level="file">
+          <did>
+            <unittitle>Federal, Department of Energy Basic Agreement</unittitle>
+            <unitdate datechar="creation" normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_65c28d47292389e7fad22c013db15642" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_e664933f0e3b54df4d6ed32d83895ba3" parent="aspace_65c28d47292389e7fad22c013db15642" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref261" level="file">
+          <did>
+            <unittitle>Federal, Department of Energy Basic Agreement</unittitle>
+            <unitdate datechar="creation" normal="1980/1987" type="inclusive">1980-1987</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_3b21b57bad6faf55872aaf79aa31739d" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_213dea0ef2bbb21a89c5ed326c6c34a8" parent="aspace_3b21b57bad6faf55872aaf79aa31739d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref262" level="file">
+          <did>
+            <unittitle>Federal, National Aeronautics and Space Administration</unittitle>
+            <unitdate datechar="creation" normal="1994/2000" type="inclusive">1994-2000</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_6481f3b4bd978b50db2818fba6238d2b" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_0355828c9d710208780b7a2079749de2" parent="aspace_6481f3b4bd978b50db2818fba6238d2b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref263" level="file">
+          <did>
+            <unittitle>Federal, National Aeronautics and Space Administration, Renovation and Extension of Guggenheim School of Aeronautics</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_44c3a8f975c7c20d531974549228746c" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_16e9a7c309825272cf7e66bd5ebccc4a" parent="aspace_44c3a8f975c7c20d531974549228746c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref264" level="file">
+          <did>
+            <unittitle>State/City, AdHoc Committee on Relations with New York City</unittitle>
+            <unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_40171a23782e2c732b48cdc64b9b5121" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_b29d657a36ba3ad4c70ad041e78258ac" parent="aspace_40171a23782e2c732b48cdc64b9b5121" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref265" level="file">
+          <did>
+            <unittitle>State/City, Contracting with New York City</unittitle>
+            <unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_ee83079a6e8efdd26df04a1c88b01dcd" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_72557e1d117d5bcba665deb194dc7db2" parent="aspace_ee83079a6e8efdd26df04a1c88b01dcd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref266" level="file">
+          <did>
+            <unittitle>State/City, Contracting with New York City, Board of Education</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d3b182905a4f7284eb1e91cf5a2eb32c" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_09cf800237808bd99175c9ac6e80f544" parent="aspace_d3b182905a4f7284eb1e91cf5a2eb32c" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref267" level="file">
+          <did>
+            <unittitle>State/City, Contracting with New York City, Board of Education</unittitle>
+            <unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_7a082592ad8c094b20f9523e0aa72f2a" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_c7d198e1566504c1b9515192392532e5" parent="aspace_7a082592ad8c094b20f9523e0aa72f2a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref268" level="file">
+          <did>
+            <unittitle>State/City, Contracting with New York City, Board of Education</unittitle>
+            <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_486d8cc152603817d5c7da7768a74fd8" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_f22088a760484b51e26935aab7ab14e1" parent="aspace_486d8cc152603817d5c7da7768a74fd8" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref269" level="file">
+          <did>
+            <unittitle>State/City, Contracting with New York City, Board of Education</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_cf0f5e62a0c8875e97b83089140ead1c" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_0f3edbb8288b6dade1c21fa2c8317319" parent="aspace_cf0f5e62a0c8875e97b83089140ead1c" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref270" level="file">
+          <did>
+            <unittitle>State/City, Contracting with New York City, Board of Education</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_8f6871e41ce5c32a77ea4817c3e5f3c2" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_8b86378bbb5c980a890510f63b65a898" parent="aspace_8f6871e41ce5c32a77ea4817c3e5f3c2" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref271" level="file">
+          <did>
+            <unittitle>State/City, Contracting with New York City, Board of Education</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_a857c3fc373f085ac557668aea867f3e" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_545714f2ef5aaca4da37e42a12991dcf" parent="aspace_a857c3fc373f085ac557668aea867f3e" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref272" level="file">
+          <did>
+            <unittitle>State/City, Contracting with New York City, Board of Education</unittitle>
+            <unitdate datechar="creation" normal="1989/1994" type="inclusive">1989-1994</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_b6f1fea1e413891fcce90fca0ba50fb4" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_3f1d0a6058c46b7d78cb4a2a9d053f11" parent="aspace_b6f1fea1e413891fcce90fca0ba50fb4" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref273" level="file">
+          <did>
+            <unittitle>State/City, New York State/City Default Committee</unittitle>
+            <unitdate datechar="creation" normal="1995/1996" type="inclusive">1995-1996</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_298a41151be3b02551553ea29d5dbeab" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_8b68744f74d7db56337a98aa2cefabc0" parent="aspace_298a41151be3b02551553ea29d5dbeab" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref274" level="file">
+          <did>
+            <unittitle>State/City, New York State/City Funding</unittitle>
+            <unitdate datechar="creation" normal="1988/1991" type="inclusive">1988-1991</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_dd93b297edeb463f5673ea0c077a331b" label="Mixed Materials [31142063155967]" type="Box">11</container>
+            <container id="aspace_c3027527d2b139b9dce12bf6cb3977f0" parent="aspace_dd93b297edeb463f5673ea0c077a331b" type="Folder">17</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

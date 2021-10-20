@@ -1,0 +1,2137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/rism/rism_rg_5">rism_rg_5</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Records of the Study of the Aspirations of Youth in a Developing Society (The Trinidad Study) <num>RISM.RG.5</num></titleproper>
+        <author>Melissa Gasparotto (finding aid) and Laura Zeccardi and John Bence (inventory).</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from MS Excel and Word documents.</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 19:57:46 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>June 2017</date>
+        <item>Record edited by Rachel Searcy to reflect incorporation of 2017 accretion</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Records of the Study of the Aspirations of Youth in a Developing Society (The Trinidad Study)</unittitle>
+      <origination label="Creator">
+        <corpname source="naf">Research Institute for the Study of Man</corpname>
+      </origination>
+      <unitid>RISM.RG.5</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">11 Linear Feet</extent>
+        <extent altrender="carrier">in 27 boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1957/1976" type="inclusive">1957-1976</unitdate>
+      <abstract id="aspace_62598c23672fcf5c2380bd78f48ad37d">This collection represents materials relating to The Study of the Aspirations of Youth in a Developing Society (The Trinidad Study), which was undertaken by the Research Institute for the Study of Man with the participation of the Ministry of Culture and the Central Statistical Office of Trinidad and Tobago. The study was conducted in two parts in the years 1957 and 1961, with the aim of understanding how youth perceived the changing social, political, and economic issues facing Trinidad and Tobago as a developing nation in the Caribbean. The collection includes background research, surveys, and data collected by researchers and drafts of the final published report.</abstract>
+      <physloc id="aspace_25ca5cdff360f1ff4b769ac96df9156b">Materials are stored offsite and advance notice is required for use. Please contact university-archives@nyu.edu at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <custodhist id="aspace_03efba5d5a0c04ae46347dad0481f6a7">
+      <head>Provenance</head>
+      <p>The collection was donated to the New York University Archives by the Research Institute for the Study of Man in 2006. In 2017 a small accretion to the collection was transferred to the University Archives by the Reed Foundation; the accession number associated with this donation is 2017.021.</p>
+    </custodhist>
+    <accessrestrict id="aspace_a3a8d07cccb29419136876346f8ac8a1">
+      <head>Access Restrictions</head>
+      <p>Restrictions may apply to certain materials.  For further information regarding restrictions, please contact the University Archivist.</p>
+      <p>Additionally, please note that this collection is stored offsite&gt;, and you must contact the repository to schedule access.</p>
+    </accessrestrict>
+    <userestrict id="aspace_29fb0c05b3810d14281528377807f20a">
+      <head>Use Restrictions</head>
+      <p>Permission to publish materials must be obtained in writing from the:<lb/><address><addressline>New York University Archives<lb/> </addressline><addressline>Bobst Library<lb/> </addressline><addressline>70 Washington Square South<lb/> </addressline><addressline>New York, New York 10012<lb/> </addressline><addressline>Phone: 212.998.2641<lb/> </addressline><addressline>Fax: 212.995.4225<lb/> </addressline><addressline>E-mail: university-archives@nyu.edu<lb/> </addressline></address></p>
+    </userestrict>
+    <prefercite id="aspace_15b8772bd00b19c26452137ac6947d09">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: Identification of item, date (if known); Records of the Study of the Aspirations of Youth in a Developing Society (The Trinidad Study); RISM RG 5; box number; folder number; New York University Archives; New York University</p>
+    </prefercite>
+    <bioghist id="aspace_f9bbcbc38a83ad94609006117260ec0a">
+      <head>Historical/Biographical Note</head>
+      <p>Like much of the Caribbean, the island of Trinidad endured tremendous economic, social, and political transformations during the period in which this study was conducted. The years leading up to independence from the British Crown in 1962 saw rapid changes in the areas of race relations, family structure, social value systems, and the economic base of the islands as the plantation-based system was supplanted by rapid modernization. In the Trinidad Study, researchers were most interested in documenting youth perceptions of these changes.</p>
+      <p>The study was designed to capture these changes through a multi-disciplinary approach that included anthropological, sociological and psychological methodologies, and began as a one-time survey of over 800 upper-level secondary students of all social classes and races from over 30 schools across the island. Assisted by the Ministry of Culture and the Central Statistical Office of Trinidad and Tobago, RISM researchers were given access to schools for a two-part survey of randomly selected students. In the first portion of the survey, students were asked to write an autobiographical essay discussing their plans and desires for the future to the year 2000. In the second portion they were asked to complete a questionnaire in which they addressed inquiries into their ethnic identification, class, age, and sex. Self-identifying answers to these questions were cross-referenced by surveyors against government records in order to verify responses. In addition, the student questionnaire included free association, fill-in-the-blank statements intended to gauge youth opinion on a variety of social issues such as the place of women in public life, the likelihood of greater racial harmony within Trinidad, the future economic conditions of the island, education, and social mobility.</p>
+      <p>Given post-1957 political developments toward independence, RISM researchers decided to undertake a follow-up survey. The 1961 survey was substantially smaller in scope, including approximately 200 male students from two Catholic schools. Self-reported data such as ethnic identity were not verified by researchers. The survey was conducted by school administrators rather than RISM researchers. The results of both surveys appeared in two books and one article published between 1962 and 1969. These final reports are not part of the collection.</p>
+      <p> Sources: </p>
+      <p>
+        <list>
+          <item>Rubin, Vera. "Culture, Politics, and Race Relations." Social and Economic Studies 11:4 (1962).</item>
+          <item>Rubin, Vera, and Marisa Zavalloni. We Wish to Be Looked Upon: A Study of the Aspirations of Youth in a Developing Society. New York: Teachers College Press, 1969.</item>
+          <item>Zavalloni, Marisa. Adolescents' Values in a Changing Society: A Study of Trinidad Youth. The Hague and Paris: Mouton &amp; Co., 1968.</item>
+        </list>
+      </p>
+    </bioghist>
+    <scopecontent id="aspace_40f79392325c407d434a73d2c039a559">
+      <head>Scope and Content Note</head>
+      <p>The bulk of the collection is comprised of student responses to the autobiographical essay and questionnaire administered in the 1957 and 1961 surveys. The questionnaire responses were encoded, and the resulting code sheets are part of the collection as well. Also included are undated drafts of the study results.</p>
+    </scopecontent>
+    <arrangement id="aspace_6834b6fac37a233ed8cac38a6ee2d379">
+      <head>Arrangement</head>
+      <p>Folders are not arranged according to alphabetical or chronological order.</p>
+      <p> The files are grouped into six series:</p>
+      <list type="ordered">
+        <item>I: Code Materials</item>
+        <item>II: Miscellaneous Materials</item>
+        <item>III: Questionnaires</item>
+        <item>IV: Results</item>
+        <item>V: Statistical Data</item>
+        <item>VI. 2017 Accretion</item>
+      </list>
+    </arrangement>
+    <controlaccess>
+      <genreform source="aat">Records surveys.</genreform>
+      <genreform source="aat">Manuscripts</genreform>
+      <genreform source="aat">Typescripts</genreform>
+      <genreform source="aat">Articles.</genreform>
+      <geogname source="lcsh">Trinidad and Tobago.</geogname>
+      <subject source="lcsh">Youth.</subject>
+      <genreform source="aat">Charts (graphic documents)</genreform>
+      <genreform source="aat">Questionnaires.</genreform>
+      <geogname source="lcsh">Trinidad and Tobago -- Race relations.</geogname>
+      <subject source="lcsh">Student aspirations -- Trinidad and Tobago.</subject>
+      <corpname source="naf">Trinidad and Tobago. Ministry of Education &amp; Culture</corpname>
+      <persname source="naf">Zavalloni, Marisa</persname>
+      <corpname source="naf">Trinidad and Tobago. Central Statistical Office</corpname>
+      <persname rules="dacs" source="naf">Rubin, Vera D.</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13" level="series">
+        <did>
+          <unittitle>Series I: Code Materials</unittitle>
+          <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Code Book</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_f3729d632c64b4bcca450dce1face2ee" label="Mixed Materials [31142046885581]" type="Box">1</container>
+            <container id="aspace_9637830dad87bc83465c35580abee1fc" parent="aspace_f3729d632c64b4bcca450dce1face2ee" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Code sheet</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957</unitdate>
+            <container id="aspace_6e8485213a353dd1d978512f83484590" label="Mixed Materials [31142046885581]" type="Box">1</container>
+            <container id="aspace_2c2872d9939804e42b3aee878e5a8292" parent="aspace_6e8485213a353dd1d978512f83484590" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref16" level="series">
+        <did>
+          <unittitle>Series II: Miscellaneous Materials</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Haitian Neighborhood Service Center</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">undated</unitdate>
+            <container id="aspace_fb72004040ab83f9da8bec477368fac9" label="Mixed Materials [31142046885581]" type="Box">1</container>
+            <container id="aspace_14b8df76b76bddbd11cb529cda950e8d" parent="aspace_fb72004040ab83f9da8bec477368fac9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Career Aspirations</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">undated</unitdate>
+            <container id="aspace_8e57405c6d24268c4927812ed079daf5" label="Mixed Materials [31142046885581]" type="Box">1</container>
+            <container id="aspace_2c9618bd689014a97f608a859c77efb0" parent="aspace_8e57405c6d24268c4927812ed079daf5" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Social Mobility</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_499a25e40aea7bae1761fb8f7327c3e9" label="Mixed Materials [31142046885581]" type="Box">1</container>
+            <container id="aspace_04c0b8b0d2b8dfb8b38105fc09a03056" parent="aspace_499a25e40aea7bae1761fb8f7327c3e9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Culture, Politics, and Race Relations</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_fb76de8c17487f9ed3e0603ab0ab3dd3" label="Mixed Materials [31142046885581]" type="Box">1</container>
+            <container id="aspace_39d6bf1672c99404646ffdd3f61d0547" parent="aspace_fb76de8c17487f9ed3e0603ab0ab3dd3" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Psychology and Attitudes</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_719c77087beb435ac759dc8823fce5c1" label="Mixed Materials [31142046885581]" type="Box">1</container>
+            <container id="aspace_962b4bfb025494b536c3280c5d709621" parent="aspace_719c77087beb435ac759dc8823fce5c1" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Future Standard of Living</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_aa51972bdff5405ea2e212c7787a6e7e" label="Mixed Materials [31142046885581]" type="Box">1</container>
+            <container id="aspace_37b27d5914622f81b8d1860a1837dcda" parent="aspace_aa51972bdff5405ea2e212c7787a6e7e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaire and Data</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_3d0b34173e38b32dfe4a51e9c39bc1e8" label="Mixed Materials [31142046885581]" type="Box">1</container>
+            <container id="aspace_a2f1cca3777175031ae7029a601d9340" parent="aspace_3d0b34173e38b32dfe4a51e9c39bc1e8" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Gender and Marriage</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_89fe03a412bd335be899a697a06206e1" label="Mixed Materials [31142046885581]" type="Box">1</container>
+            <container id="aspace_420b636d8772c1b89d82ae7ae18b3231" parent="aspace_89fe03a412bd335be899a697a06206e1" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Preliminary Survey Questions</unittitle>
+            <unitdate datechar="creation">1960</unitdate>
+            <container id="aspace_2f12b9a17479a2125e857966679f3fdf" label="Mixed Materials [31142046885581]" type="Box">1</container>
+            <container id="aspace_56aeef2a674f0b5df682a8d8a3674aef" parent="aspace_2f12b9a17479a2125e857966679f3fdf" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Gender and Marriage</unittitle>
+            <unitdate datechar="creation" normal="1960/1961" type="inclusive">1960-1961</unitdate>
+            <container id="aspace_2b51f74b8426a4cf0fea01a59c87f8d6" label="Mixed Materials [31142046885581]" type="Box">1</container>
+            <container id="aspace_51410b4d655a42466d78710491e8bdff" parent="aspace_2b51f74b8426a4cf0fea01a59c87f8d6" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Indices of Ambition</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_30fbc80ae398b5b9be57cbf86578a214" label="Mixed Materials [31142046885581]" type="Box">1</container>
+            <container id="aspace_fac0051498d393d24ea0a240543d618f" parent="aspace_30fbc80ae398b5b9be57cbf86578a214" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Reaction to Situations</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_a270a1fbcb6738343b05e156b3738122" label="Mixed Materials [31142046885581]" type="Box">1</container>
+            <container id="aspace_3c0cd7770292361bd958ba9b57f2cec7" parent="aspace_a270a1fbcb6738343b05e156b3738122" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Blank Survey Forms</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_ce34559495229e1c7b14409cee72fc9d" label="Mixed Materials [31142046885581]" type="Box">1</container>
+            <container id="aspace_a9cee5f0101fe53164c824ba35dfaff6" parent="aspace_ce34559495229e1c7b14409cee72fc9d" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Miscellaneous Papers, [Group Orientation]</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_e58436e99fa4c516deb8c71ff2569a19" label="Mixed Materials [31142046885599]" type="Box">2</container>
+            <container id="aspace_55ba614a2601f26661c100c50aba8402" parent="aspace_e58436e99fa4c516deb8c71ff2569a19" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Miscellaneous Papers, H&amp;S [Hovland &amp; Sherif hypotheses], Judgements and Attitudes</unittitle>
+            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_98aa875030e7d269c74ddcdf66d97df2" label="Mixed Materials [31142046885599]" type="Box">2</container>
+            <container id="aspace_1f6385040dfa25260331abe77512defc" parent="aspace_98aa875030e7d269c74ddcdf66d97df2" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Data Comparison </unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_045040643538c28a20c3634253dfb5fc" label="Mixed Materials [31142046885599]" type="Box">2</container>
+            <container id="aspace_a319972ca27cad0e10c88dfb4f3038e2" parent="aspace_045040643538c28a20c3634253dfb5fc" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Miscellaneous Papers, Trinidad Guardian, Sept. 7, 1960</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">Sept. 7, 1960</unitdate>
+            <container id="aspace_93d6db54035e27f157942a064255f1d8" label="Mixed Materials [31142046885599]" type="Box">2</container>
+            <container id="aspace_4b7bac3b3e626164b84cb289c4272108" parent="aspace_93d6db54035e27f157942a064255f1d8" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref34" level="series">
+        <did>
+          <unittitle>Series III: Questionnaires</unittitle>
+          <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 301-334</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_9a40321e9c55fa502ec455aad92942bd" label="Mixed Materials [31142046885599]" type="Box">2</container>
+            <container id="aspace_dfb87b83330393702f505a6b10f1db72" parent="aspace_9a40321e9c55fa502ec455aad92942bd" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 300-380</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_1b4cd136b870c3d632477098e93a94bf" label="Mixed Materials [31142046885599]" type="Box">2</container>
+            <container id="aspace_172b245d63dd9ff6fa3180af8b74e1e6" parent="aspace_1b4cd136b870c3d632477098e93a94bf" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 232-240</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_321d0bfb0f9b41c22f280e6929e8564d" label="Mixed Materials [31142046885599]" type="Box">2</container>
+            <container id="aspace_7848ae200c0aaa7615ae39457d754824" parent="aspace_321d0bfb0f9b41c22f280e6929e8564d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 241-256</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_acea26d784a24966a208b6c4d102227f" label="Mixed Materials [31142046885599]" type="Box">2</container>
+            <container id="aspace_5aaf2ac80101bf205248f19efbc738a7" parent="aspace_acea26d784a24966a208b6c4d102227f" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 257-263</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_d70c9e80667b5e835dd38255b5dd2e53" label="Mixed Materials [31142046885599]" type="Box">2</container>
+            <container id="aspace_22b31d942fb312456df5545e2c95d39e" parent="aspace_d70c9e80667b5e835dd38255b5dd2e53" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 101-110</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_a46eb7fa9e62cd4fac9aaf05945909f0" label="Mixed Materials [31142046885599]" type="Box">2</container>
+            <container id="aspace_23a7d6c5b8438f8417b685266241ead0" parent="aspace_a46eb7fa9e62cd4fac9aaf05945909f0" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 093-099</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_827cbcef8b86803b9576fc9e1017dffd" label="Mixed Materials [31142046885607]" type="Box">3</container>
+            <container id="aspace_4704cd2a0c7d6a4602f4b9f35bc985b4" parent="aspace_827cbcef8b86803b9576fc9e1017dffd" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 103-110</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_ad4dd964a09c97a7cae427a68f1237ef" label="Mixed Materials [31142046885607]" type="Box">3</container>
+            <container id="aspace_3845d1a873b80f3e879621c58c8c789c" parent="aspace_ad4dd964a09c97a7cae427a68f1237ef" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 112-122</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_2d10871ad4fb84d109dd7d97d142c15d" label="Mixed Materials [31142046885607]" type="Box">3</container>
+            <container id="aspace_c77198f5776d2bc53ac2e27c5781173d" parent="aspace_2d10871ad4fb84d109dd7d97d142c15d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1-127</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_da2edc7c74986b1cb0ea7388bd02e83f" label="Mixed Materials [31142046885607]" type="Box">3</container>
+            <container id="aspace_d3be547121e56c5864ba99f054db1ec8" parent="aspace_da2edc7c74986b1cb0ea7388bd02e83f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 129-1940</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_e1c52ed463ce74581be87659035bc427" label="Mixed Materials [31142046885607]" type="Box">3</container>
+            <container id="aspace_f4a0036947505ecb3d998c691e1f473b" parent="aspace_e1c52ed463ce74581be87659035bc427" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 141-149</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_83ba00906f04637de39dbeb94ee9fa9f" label="Mixed Materials [31142046885607]" type="Box">3</container>
+            <container id="aspace_8778adb8876a76b89934c86c0bbf67b4" parent="aspace_83ba00906f04637de39dbeb94ee9fa9f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 151-154</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_02e8ff4f6b3970e9a1bfb0dc1f756209" label="Mixed Materials [31142046885607]" type="Box">3</container>
+            <container id="aspace_61dc005444cb5442e524188d17539938" parent="aspace_02e8ff4f6b3970e9a1bfb0dc1f756209" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 174-186</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_91e45e97cdc705529ac15386aaa2ef5e" label="Mixed Materials [31142046885615]" type="Box">4</container>
+            <container id="aspace_d37f021c0587a8d007444fcfbd302095" parent="aspace_91e45e97cdc705529ac15386aaa2ef5e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1393-1538</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_6fe6cf294f5e8c0368f4fe4ff089b47d" label="Mixed Materials [31142046885615]" type="Box">4</container>
+            <container id="aspace_273f4708746efb28ef5a0eabe9c6f7cd" parent="aspace_6fe6cf294f5e8c0368f4fe4ff089b47d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1539-1909</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_1f44ac68c12d93036f1b9e2d0a7d113e" label="Mixed Materials [31142046885615]" type="Box">4</container>
+            <container id="aspace_b7b7e41ec9e5c89ef90376bfc3213452" parent="aspace_1f44ac68c12d93036f1b9e2d0a7d113e" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1920-2022</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_183c26bee435149eceed68d36a955e0f" label="Mixed Materials [31142046885615]" type="Box">4</container>
+            <container id="aspace_f6c511050644cdeb5af61fafb8210d36" parent="aspace_183c26bee435149eceed68d36a955e0f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2023-2044</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_1b2b3398f860258695142810a3d147e4" label="Mixed Materials [31142046885615]" type="Box">4</container>
+            <container id="aspace_6ca3f4d57be4d3f9bf9287ffb0615cbb" parent="aspace_1b2b3398f860258695142810a3d147e4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2048-2108</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_a95b0c72c8b586154af38037c3743acd" label="Mixed Materials [31142046885615]" type="Box">4</container>
+            <container id="aspace_eb232193fcaa5d00511ba404228e86fa" parent="aspace_a95b0c72c8b586154af38037c3743acd" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 168-173</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_eb2eeed7fd6e0b36a881187ffe60ba38" label="Mixed Materials [31142046885615]" type="Box">4</container>
+            <container id="aspace_aee0ef0f5ae06eb08a5b80c143638024" parent="aspace_eb2eeed7fd6e0b36a881187ffe60ba38" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 155-167</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_ead66848d90de95c8b6acf7ba571948c" label="Mixed Materials [31142046885623]" type="Box">5</container>
+            <container id="aspace_61dc40db72c71bffee963ca706553e1d" parent="aspace_ead66848d90de95c8b6acf7ba571948c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 332-339</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_c38e9ff737532bcd61a9ddaad99fa5fd" label="Mixed Materials [31142046885623]" type="Box">5</container>
+            <container id="aspace_668223d4e3b0b9792ca35d4fd5ee8043" parent="aspace_c38e9ff737532bcd61a9ddaad99fa5fd" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 293-331</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_e0207e932181d5aa862d83f5b42cb844" label="Mixed Materials [31142046885623]" type="Box">5</container>
+            <container id="aspace_34317a305026b11de8dce4a3bb8528c3" parent="aspace_e0207e932181d5aa862d83f5b42cb844" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 4-14</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_1e14c7b67562ebc7772803fd1e8a301c" label="Mixed Materials [31142046885623]" type="Box">5</container>
+            <container id="aspace_f72ad07bf3ea9009d3d432b389870af4" parent="aspace_1e14c7b67562ebc7772803fd1e8a301c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 016-023</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_a13eb49c9cfd4f1ea1d1e76173bb00af" label="Mixed Materials [31142046885623]" type="Box">5</container>
+            <container id="aspace_9ee222bc73ce6db6bffa5db7741da1c0" parent="aspace_a13eb49c9cfd4f1ea1d1e76173bb00af" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 25-34, 134</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_d1518945cf022dbce024f7027d435e35" label="Mixed Materials [31142046885623]" type="Box">5</container>
+            <container id="aspace_f584400a59077411791cf04cb8ee7d1d" parent="aspace_d1518945cf022dbce024f7027d435e35" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Blank</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_a50a26daa0f1dc36de4bcc431a364bcb" label="Mixed Materials [31142046885623]" type="Box">5</container>
+            <container id="aspace_5faeddb89a8c464160159d7c87956677" parent="aspace_a50a26daa0f1dc36de4bcc431a364bcb" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 26-29</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_5d6544e9cf1d78eb53796604348aac7c" label="Mixed Materials [31142046885623]" type="Box">5</container>
+            <container id="aspace_72579fc8e3929f474bffd341bf971ea8" parent="aspace_5d6544e9cf1d78eb53796604348aac7c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2-30</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_3e5178d82b441f20908892e9a8270dd3" label="Mixed Materials [31142046885623]" type="Box">5</container>
+            <container id="aspace_52df0fcacca9626ffb0d479b967743db" parent="aspace_3e5178d82b441f20908892e9a8270dd3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Blank</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_860748025227a11dc9e530fb34386c8b" label="Mixed Materials [31142046885631]" type="Box">6</container>
+            <container id="aspace_bd26e37e808b13c1ce22c1f9b751e24c" parent="aspace_860748025227a11dc9e530fb34386c8b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Blank</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_0449457a4e912b069c1f165aba1d7ef8" label="Mixed Materials [31142046885631]" type="Box">6</container>
+            <container id="aspace_46a88be04e1cb87b39f72069bda86bd0" parent="aspace_0449457a4e912b069c1f165aba1d7ef8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 340-379</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_03e8003a06df65b8f67da6e226ccc876" label="Mixed Materials [31142046885631]" type="Box">6</container>
+            <container id="aspace_65f8b205c89b4b748cd1bfa2e245789a" parent="aspace_03e8003a06df65b8f67da6e226ccc876" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 341-351</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_be7b5fd1032c249f7c1cc7a4020c6d80" label="Mixed Materials [31142046885631]" type="Box">6</container>
+            <container id="aspace_5f89f0ab93557cd884ed571c59f5031f" parent="aspace_be7b5fd1032c249f7c1cc7a4020c6d80" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 354-374</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_e523867a42758dd8d52404b8f330ba2c" label="Mixed Materials [31142046885631]" type="Box">6</container>
+            <container id="aspace_80ed6f9ce7d12fb23fce2f44986ce29a" parent="aspace_e523867a42758dd8d52404b8f330ba2c" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Blank</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_2d232352ec67237a6ea160cfc715f48d" label="Mixed Materials [31142046885631]" type="Box">6</container>
+            <container id="aspace_e4089f2c4683463af1296327c31a0a6f" parent="aspace_2d232352ec67237a6ea160cfc715f48d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Blank</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_c6a6afd270c531efc315ce2e9d0bbf02" label="Mixed Materials [31142046885631]" type="Box">6</container>
+            <container id="aspace_de27635d822c5e6d005248711a032ce4" parent="aspace_c6a6afd270c531efc315ce2e9d0bbf02" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 302-375</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_fd8c277938d43a1d8f9f94ab07589561" label="Mixed Materials [31142046885631]" type="Box">6</container>
+            <container id="aspace_643703702065f985d9d5e3251636cd32" parent="aspace_fd8c277938d43a1d8f9f94ab07589561" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 194-209</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_7ad04575b26fccbb5bb9d7688e3a546b" label="Mixed Materials [31142046885649]" type="Box">7</container>
+            <container id="aspace_78546509fe43116a67ec7512129a4b52" parent="aspace_7ad04575b26fccbb5bb9d7688e3a546b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 321-325</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_19f6fc3d6bbc5225485f9e0b6f657f06" label="Mixed Materials [31142046885649]" type="Box">7</container>
+            <container id="aspace_9f2360d27412904baab3dcbf503472e9" parent="aspace_19f6fc3d6bbc5225485f9e0b6f657f06" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 319-326, 396</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_e4e8541380f47eaef4acd110ed8a9011" label="Mixed Materials [31142046885649]" type="Box">7</container>
+            <container id="aspace_a4d4ed49bf6582406ce4da8cfb059358" parent="aspace_e4e8541380f47eaef4acd110ed8a9011" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 196-199</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_b4e3f5a9da802d3db853b2e3ceef802c" label="Mixed Materials [31142046885649]" type="Box">7</container>
+            <container id="aspace_91a61780036b1b8f983fb2644b8693f1" parent="aspace_b4e3f5a9da802d3db853b2e3ceef802c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 203-208</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_a6890c8c139537d336535dc282577689" label="Mixed Materials [31142046885649]" type="Box">7</container>
+            <container id="aspace_c389e0e25c469f0cd11571ee3f839de2" parent="aspace_a6890c8c139537d336535dc282577689" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 211-220</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_39d1e8609f83991a0da426e85c7d7691" label="Mixed Materials [31142046885649]" type="Box">7</container>
+            <container id="aspace_47323659dd73b64bff57d69d455382f4" parent="aspace_39d1e8609f83991a0da426e85c7d7691" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 226-232 </unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_33a4a6c500592db899e40d9180e10027" label="Mixed Materials [31142046885649]" type="Box">7</container>
+            <container id="aspace_73b79052326576419bbda8b34f118190" parent="aspace_33a4a6c500592db899e40d9180e10027" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 307-311</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_20c04899af04f77d3261c2d8429326ee" label="Mixed Materials [31142046885649]" type="Box">7</container>
+            <container id="aspace_4a7f6c82ea587348ab25b9cec243b4bb" parent="aspace_20c04899af04f77d3261c2d8429326ee" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 312-317</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_5153abbfc0dbc6d42cc34af9822c2dbe" label="Mixed Materials [31142046885649]" type="Box">7</container>
+            <container id="aspace_8806ea1000bbf3cfdf1ebbd8f9a0b386" parent="aspace_5153abbfc0dbc6d42cc34af9822c2dbe" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 222-225</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_b737934bbf3515a39846a7c994a8ac7e" label="Mixed Materials [31142046885649]" type="Box">7</container>
+            <container id="aspace_e65c901ff5faf0fe2d99f1aaa83a494a" parent="aspace_b737934bbf3515a39846a7c994a8ac7e" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 200-250</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_f55e628e9a2694097fcd28c2c2b1fb1b" label="Mixed Materials [31142046885649]" type="Box">7</container>
+            <container id="aspace_19c5244e0a2bb951afddac97b7229792" parent="aspace_f55e628e9a2694097fcd28c2c2b1fb1b" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 186-192</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_715258b2b000a1bdc7501a349c1f135a" label="Mixed Materials [31142046885656]" type="Box">8</container>
+            <container id="aspace_979687105dc67d685197a06280b683cd" parent="aspace_715258b2b000a1bdc7501a349c1f135a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 34-41</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_7df17f9a3c805cbc42436e707a32f9d8" label="Mixed Materials [31142046885656]" type="Box">8</container>
+            <container id="aspace_c33fbaaa4e59414455f03c9d65cc3cc1" parent="aspace_7df17f9a3c805cbc42436e707a32f9d8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 640-655</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_8e14f80137cc0f5cfec7a4960213ca06" label="Mixed Materials [31142046885656]" type="Box">8</container>
+            <container id="aspace_236918d142e366e39b195ea4b6fb2b1c" parent="aspace_8e14f80137cc0f5cfec7a4960213ca06" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 56-65</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_9973b52272ceaa5126953434f327474e" label="Mixed Materials [31142046885656]" type="Box">8</container>
+            <container id="aspace_847de0f111ef23045e794d72cb40bca2" parent="aspace_9973b52272ceaa5126953434f327474e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 065-073</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_8a473980dfe12b71f4e36fab6e403e0d" label="Mixed Materials [31142046885656]" type="Box">8</container>
+            <container id="aspace_614bb1c8a0d446d146be7811297bd015" parent="aspace_8a473980dfe12b71f4e36fab6e403e0d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 074-083</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_6203fe5d98a23529824afbb499df45d2" label="Mixed Materials [31142046885656]" type="Box">8</container>
+            <container id="aspace_4298c9a59a5c2d9fe705d948a9209462" parent="aspace_6203fe5d98a23529824afbb499df45d2" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 084-093</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_2fd61c67077279c003480c759f9c4da9" label="Mixed Materials [31142046885656]" type="Box">8</container>
+            <container id="aspace_c38c80ac04fcc6970d1d59d821b31544" parent="aspace_2fd61c67077279c003480c759f9c4da9" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 264-271</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_5dd106aebbe41cd91641650e0a9cb2f7" label="Mixed Materials [31142046885664]" type="Box">9</container>
+            <container id="aspace_f9e4931cb9f37aeb03dbdbce6af41797" parent="aspace_5dd106aebbe41cd91641650e0a9cb2f7" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 272-279</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_6b3f9f7e29bab6b7e6b7c769b44526fe" label="Mixed Materials [31142046885664]" type="Box">9</container>
+            <container id="aspace_7e829f90a102cddb57daf55fa52730a7" parent="aspace_6b3f9f7e29bab6b7e6b7c769b44526fe" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 281-292</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_89ec73970809cb41abff450e99172fb3" label="Mixed Materials [31142046885664]" type="Box">9</container>
+            <container id="aspace_56b7d9678727f65cab3ced51a32e4cbb" parent="aspace_89ec73970809cb41abff450e99172fb3" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1416-1434</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_31ac32d428e9bec8473b1c980539b5a2" label="Mixed Materials [31142046885664]" type="Box">9</container>
+            <container id="aspace_36509f6e2693c83725530215f97912b9" parent="aspace_31ac32d428e9bec8473b1c980539b5a2" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1002-2215</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_84f65b6dab80a20804dfe473f0dc866e" label="Mixed Materials [31142046885664]" type="Box">9</container>
+            <container id="aspace_7e0d40960b9867aa8986e41b122cbf4d" parent="aspace_84f65b6dab80a20804dfe473f0dc866e" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1341-1505</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_5c1a527e6f4c88298cf3b9f17c3e4ea5" label="Mixed Materials [31142046885664]" type="Box">9</container>
+            <container id="aspace_5429e67bd6c2aece76fa647156c35052" parent="aspace_5c1a527e6f4c88298cf3b9f17c3e4ea5" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1363-1558, 1145</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_731a346870fff1c18ba8e94f23c56725" label="Mixed Materials [31142046885664]" type="Box">9</container>
+            <container id="aspace_4e1a273fca1336772f1669db0b7d00bb" parent="aspace_731a346870fff1c18ba8e94f23c56725" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1104-1223</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_0f5bc554d26886724dd7c21a5b1eca9c" label="Mixed Materials [31142046885664]" type="Box">9</container>
+            <container id="aspace_3de7bbfa43f111c697523139ac92ecca" parent="aspace_0f5bc554d26886724dd7c21a5b1eca9c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1246-1527, 2109</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_d45a7e34276092c2a3b6da8cf3a206fa" label="Mixed Materials [31142046885672]" type="Box">10</container>
+            <container id="aspace_e000ba405a1542c78d1faf8ae3469499" parent="aspace_d45a7e34276092c2a3b6da8cf3a206fa" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1172-1645</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_4718feece6039c7be8f3dbf464b5d2a9" label="Mixed Materials [31142046885672]" type="Box">10</container>
+            <container id="aspace_8208b097772a5eff9fcf2ea9dc431ca2" parent="aspace_4718feece6039c7be8f3dbf464b5d2a9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1072-2182</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_bcf4b78856d61c4f8b0dda84e6c8fc7c" label="Mixed Materials [31142046885672]" type="Box">10</container>
+            <container id="aspace_234f1ad2c4217e0a51efe621662a727d" parent="aspace_bcf4b78856d61c4f8b0dda84e6c8fc7c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1500-1514</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_1d5bdb5227ed7d67f8332fe5c1ca220c" label="Mixed Materials [31142046885672]" type="Box">10</container>
+            <container id="aspace_5c770be2741d4b4c6e9f92b628e81b85" parent="aspace_1d5bdb5227ed7d67f8332fe5c1ca220c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1515-1525</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_268ab6ec08da074db2e80038efcc4135" label="Mixed Materials [31142046885672]" type="Box">10</container>
+            <container id="aspace_036a607b132bf18ab08a1ae71e3576a2" parent="aspace_268ab6ec08da074db2e80038efcc4135" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1529-1536</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_6609d6b1c291a49be63743ce24332383" label="Mixed Materials [31142046885672]" type="Box">10</container>
+            <container id="aspace_845df5a7bec1cc7cb15a99f8a2d80465" parent="aspace_6609d6b1c291a49be63743ce24332383" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1100-1102</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_eb6c381cb4c84a3362c046937adbb70f" label="Mixed Materials [31142046885672]" type="Box">10</container>
+            <container id="aspace_aea9024d6e2a8d93eb75efe3ed628cb7" parent="aspace_eb6c381cb4c84a3362c046937adbb70f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1441-1450</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_2db06c65f48c803676c6d23df51c2aac" label="Mixed Materials [31142046885672]" type="Box">10</container>
+            <container id="aspace_140b7ba946fc531d13a0713761e49846" parent="aspace_2db06c65f48c803676c6d23df51c2aac" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1451-1468</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_c02a96b500e67c29ef5b6260e34a06f1" label="Mixed Materials [31142046885672]" type="Box">10</container>
+            <container id="aspace_6e7280b68511a5aa9a06a358a6ff3498" parent="aspace_c02a96b500e67c29ef5b6260e34a06f1" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1470-1475</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_04a48937945b8a309b2afc2f8606e2d8" label="Mixed Materials [31142046885680]" type="Box">11</container>
+            <container id="aspace_81c8ddd10579a552224fb42ece3a7ff6" parent="aspace_04a48937945b8a309b2afc2f8606e2d8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1455-1463</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_c894b893bdffa8bca9d8b40f8865025f" label="Mixed Materials [31142046885680]" type="Box">11</container>
+            <container id="aspace_a4d1437b4870321d4a2b3c7d38c19fb6" parent="aspace_c894b893bdffa8bca9d8b40f8865025f" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1476-1787</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_0a5d53fe5e841d77b26b6bc871c35ccb" label="Mixed Materials [31142046885680]" type="Box">11</container>
+            <container id="aspace_adb0b63a6b2a9bdf420505f47a5de6ab" parent="aspace_0a5d53fe5e841d77b26b6bc871c35ccb" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1488-1499</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_88c7ca697f23a724927ee85b7f1f5ec5" label="Mixed Materials [31142046885680]" type="Box">11</container>
+            <container id="aspace_18f5eae5f8f0b7e84ac986fdc576a8d8" parent="aspace_88c7ca697f23a724927ee85b7f1f5ec5" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2350-2902</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_2981f7306cfd51e147eba1f9978fad2f" label="Mixed Materials [31142046885680]" type="Box">11</container>
+            <container id="aspace_db17351b71732a2c4b0503507988dc24" parent="aspace_2981f7306cfd51e147eba1f9978fad2f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2116-2402</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_4f32fffeeb45220f13972d8189ec3c0d" label="Mixed Materials [31142046885680]" type="Box">11</container>
+            <container id="aspace_a64523760675cb8d68002b78eef9e099" parent="aspace_4f32fffeeb45220f13972d8189ec3c0d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2078-2321</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_e301392e12c90d25c9a949c9067b1130" label="Mixed Materials [31142046885680]" type="Box">11</container>
+            <container id="aspace_1d06d9a58657ea97028186f257bea504" parent="aspace_e301392e12c90d25c9a949c9067b1130" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1625-1640</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_985c0a408ce9a61ab888f5e82e3801b2" label="Mixed Materials [31142046885680]" type="Box">11</container>
+            <container id="aspace_88ff52e770b18df2de6d75cdab500d79" parent="aspace_985c0a408ce9a61ab888f5e82e3801b2" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1644-1649</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_f08f8d8541f4a3288aa3a885d66d36d3" label="Mixed Materials [31142046885680]" type="Box">11</container>
+            <container id="aspace_3e7f80a2f88daee48e97c0f7d0096bad" parent="aspace_f08f8d8541f4a3288aa3a885d66d36d3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1600-1703</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_3fbb98d67995649156d8faa7599ead6d" label="Mixed Materials [31142046885698]" type="Box">12</container>
+            <container id="aspace_0021c1151830e81f7e5a89f154e96f86" parent="aspace_3fbb98d67995649156d8faa7599ead6d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1650-1660</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_692f4978ebb14e0c86c1e70b9866319a" label="Mixed Materials [31142046885698]" type="Box">12</container>
+            <container id="aspace_821fadecc02c487af05a2c16fc6b227f" parent="aspace_692f4978ebb14e0c86c1e70b9866319a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1661-1671</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_b7bdbec6c338587ace0cb35019b0bc2d" label="Mixed Materials [31142046885698]" type="Box">12</container>
+            <container id="aspace_fb21b5ecf1ed3f01104adce1023bfe46" parent="aspace_b7bdbec6c338587ace0cb35019b0bc2d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1603-1639</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_66f48d44350f0de525bd0c8a126a1db1" label="Mixed Materials [31142046885698]" type="Box">12</container>
+            <container id="aspace_c550ac1bfc07bb8ecfe94f1b6045ba0f" parent="aspace_66f48d44350f0de525bd0c8a126a1db1" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1904-2403</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_aefec543d381fa09bd4c12b8b069fdf5" label="Mixed Materials [31142046885698]" type="Box">12</container>
+            <container id="aspace_b4a81390dbbb64b3f5aabb3342b087b3" parent="aspace_aefec543d381fa09bd4c12b8b069fdf5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1078-1096</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_f48116dcce8746d709897f1e5a8d9cc4" label="Mixed Materials [31142046885698]" type="Box">12</container>
+            <container id="aspace_91d8cad58bc61702cb50b8ba0210417b" parent="aspace_f48116dcce8746d709897f1e5a8d9cc4" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1097-1101</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_8223db69b057c32dd8ed371bafe0520a" label="Mixed Materials [31142046885698]" type="Box">12</container>
+            <container id="aspace_f2e892c000f20ada38ab963bdee65ccc" parent="aspace_8223db69b057c32dd8ed371bafe0520a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1103-1111</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_4c80a18a2d16d9dc236e14feac00b6d7" label="Mixed Materials [31142046885706]" type="Box">13</container>
+            <container id="aspace_5b4a5cfc03a847447e2991ce90fd7410" parent="aspace_4c80a18a2d16d9dc236e14feac00b6d7" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1113-1122</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_56f57d9e97cb8528d5b678efa7752162" label="Mixed Materials [31142046885706]" type="Box">13</container>
+            <container id="aspace_ad28d1198ca67e85f627958f02a235c6" parent="aspace_56f57d9e97cb8528d5b678efa7752162" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1123-1134</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_ce1dcab627dbaba0ecb18d3f36c95436" label="Mixed Materials [31142046885706]" type="Box">13</container>
+            <container id="aspace_05a5558a46e23547de1768e754bf1e53" parent="aspace_ce1dcab627dbaba0ecb18d3f36c95436" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1135-1153</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_c53e3fd57bc9245af4982c2d47924911" label="Mixed Materials [31142046885706]" type="Box">13</container>
+            <container id="aspace_22abe2048fe486ed77232e90a57eba13" parent="aspace_c53e3fd57bc9245af4982c2d47924911" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1155-1170</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_269759da2c68d0f63be2de6f74907c5f" label="Mixed Materials [31142046885706]" type="Box">13</container>
+            <container id="aspace_019a1e432c56d930531a4c6b3aa8cd21" parent="aspace_269759da2c68d0f63be2de6f74907c5f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2030-2389</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_ca7fe1d6447f1974dfcc4a3bc227938c" label="Mixed Materials [31142046885706]" type="Box">13</container>
+            <container id="aspace_8cb4e5840c5692ae86b1bb4a05ad2c96" parent="aspace_ca7fe1d6447f1974dfcc4a3bc227938c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2033-2391</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_1a622edfa0488db06b6d776f81815617" label="Mixed Materials [31142046885706]" type="Box">13</container>
+            <container id="aspace_f3d6ed1875b49fa787b9feaa5f3e5526" parent="aspace_1a622edfa0488db06b6d776f81815617" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2009-2387</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_071d5439f3e70da5509c36e3cf1c9ab8" label="Mixed Materials [31142046885706]" type="Box">13</container>
+            <container id="aspace_f281d62aab9c2635357c7480a65adbbe" parent="aspace_071d5439f3e70da5509c36e3cf1c9ab8" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2164-2394</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_235fce90ae828095d447f297c52430ca" label="Mixed Materials [31142046885714]" type="Box">14</container>
+            <container id="aspace_7273edf60fe07544cd38c85cee4a700f" parent="aspace_235fce90ae828095d447f297c52430ca" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2124-2374</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_5f2103d7f8c016975f0b0b9cb0b1b68e" label="Mixed Materials [31142046885714]" type="Box">14</container>
+            <container id="aspace_0d16c1830f4d090fee64ca2038913962" parent="aspace_5f2103d7f8c016975f0b0b9cb0b1b68e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1117-2325</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_3bb01dbb4f58aea28d50f679a9c2f343" label="Mixed Materials [31142046885714]" type="Box">14</container>
+            <container id="aspace_b11a902de6559a1c2d6c2b181b092fc7" parent="aspace_3bb01dbb4f58aea28d50f679a9c2f343" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1149-2272</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_cf087922bf50a29b63afce0a4674b74a" label="Mixed Materials [31142046885714]" type="Box">14</container>
+            <container id="aspace_76cdfad4c0212e1c55fe8140910fb159" parent="aspace_cf087922bf50a29b63afce0a4674b74a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1421-2010</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_c248900946d564928f415ed6e9dda374" label="Mixed Materials [31142046885714]" type="Box">14</container>
+            <container id="aspace_491c12fe9bf3df3de74ab3be182c398c" parent="aspace_c248900946d564928f415ed6e9dda374" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1171-1187</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_67e6bbaf0b1cf15bf7316f071296698e" label="Mixed Materials [31142046885714]" type="Box">14</container>
+            <container id="aspace_7029ab8e6928cce3859397fc550dd120" parent="aspace_67e6bbaf0b1cf15bf7316f071296698e" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1188-1192</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_9392475a16fbaa05ef3e5235b0b61240" label="Mixed Materials [31142046885714]" type="Box">14</container>
+            <container id="aspace_95464cc8474133bf8fa01c74cfc7dea4" parent="aspace_9392475a16fbaa05ef3e5235b0b61240" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1193-1201</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_b676294c9330db3ffa63c363bdd4e807" label="Mixed Materials [31142046885722]" type="Box">15</container>
+            <container id="aspace_d615b8eb3f798b94161fb647a5174125" parent="aspace_b676294c9330db3ffa63c363bdd4e807" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1202-1222</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_39f36523316ba219cc2e10375264307b" label="Mixed Materials [31142046885722]" type="Box">15</container>
+            <container id="aspace_6ad38603ce635fffa6b65780fc8817d8" parent="aspace_39f36523316ba219cc2e10375264307b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1225-1234</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_b3e6685944528858f8f744fc8c7f3fe6" label="Mixed Materials [31142046885722]" type="Box">15</container>
+            <container id="aspace_a463882b6777b2c37eb5adab177e47f4" parent="aspace_b3e6685944528858f8f744fc8c7f3fe6" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1235-1254</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_4d0b761a0e81b978f9c5a9d3b8bfe584" label="Mixed Materials [31142046885722]" type="Box">15</container>
+            <container id="aspace_0bf166d38c6bbdaf0c76400c2dcd435f" parent="aspace_4d0b761a0e81b978f9c5a9d3b8bfe584" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1256-1286</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_eecd6ef34b0c7b54193dc04878dda021" label="Mixed Materials [31142046885722]" type="Box">15</container>
+            <container id="aspace_5cef7d9bbed055e4d7b82fe8188159e7" parent="aspace_eecd6ef34b0c7b54193dc04878dda021" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref143" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2081-2328</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_e3ec419e2fd0c198ac69bd67542cbe68" label="Mixed Materials [31142046885722]" type="Box">15</container>
+            <container id="aspace_f090240281ab8c1067d08169653fc740" parent="aspace_e3ec419e2fd0c198ac69bd67542cbe68" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1165-2017</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_a55fb45b68f03a6c9cd89d514eccb969" label="Mixed Materials [31142046885722]" type="Box">15</container>
+            <container id="aspace_aebbade3f988921da5bfd73a3976843b" parent="aspace_a55fb45b68f03a6c9cd89d514eccb969" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref145" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1253-2098</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_e05107ec2effdb81b1f3fe1add93da7f" label="Mixed Materials [31142046885730]" type="Box">16</container>
+            <container id="aspace_03030a188b9f2aa04b7fbc7d907713e0" parent="aspace_e05107ec2effdb81b1f3fe1add93da7f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref146" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1353-2073</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_4644a6fa65054d8aee304752d06534ec" label="Mixed Materials [31142046885730]" type="Box">16</container>
+            <container id="aspace_576bedc84a4e49ad5770c6f40db27105" parent="aspace_4644a6fa65054d8aee304752d06534ec" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2070-2316</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_6f2cdda28cf0297336efbc8d4ebd085b" label="Mixed Materials [31142046885730]" type="Box">16</container>
+            <container id="aspace_0a6dec6f3e267a5c1f4ce0f108264d9b" parent="aspace_6f2cdda28cf0297336efbc8d4ebd085b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1052-1181</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_13b4ec1805f01398db1c984261942749" label="Mixed Materials [31142046885730]" type="Box">16</container>
+            <container id="aspace_ab01ac62f9579313ab8e9e6c719ba42f" parent="aspace_13b4ec1805f01398db1c984261942749" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1361-1636, 381</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_44b14dd1ddc41478b90a8827edb841f5" label="Mixed Materials [31142046885730]" type="Box">16</container>
+            <container id="aspace_8bf72387c7278e7fbc7f4743badcb64e" parent="aspace_44b14dd1ddc41478b90a8827edb841f5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2091-2355 </unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_456d165f7cd7a6151642c32d12a61bf5" label="Mixed Materials [31142046885730]" type="Box">16</container>
+            <container id="aspace_371b9f0f747a2c4d7bb13ff86bf6464c" parent="aspace_456d165f7cd7a6151642c32d12a61bf5" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref151" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1000-1298</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_2c22c4dbe03a6be713f7bb6333c789b5" label="Mixed Materials [31142046885730]" type="Box">16</container>
+            <container id="aspace_13a51165b29de2e3e26c980c3c639a81" parent="aspace_2c22c4dbe03a6be713f7bb6333c789b5" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1007-1248</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_7255a83b816cfcd2e52c24f17da66e04" label="Mixed Materials [31142046885730]" type="Box">16</container>
+            <container id="aspace_da1d97c59a3a124feb99431b78fc4158" parent="aspace_7255a83b816cfcd2e52c24f17da66e04" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2148-2201</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_d60eb8ed0781e8c9360d33ae9821a927" label="Mixed Materials [31142046885730]" type="Box">16</container>
+            <container id="aspace_d0f4288cd5fb89ef4892bd6378480687" parent="aspace_d60eb8ed0781e8c9360d33ae9821a927" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1287-1297</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_fc7a79a52cb3d9dda6ccbb1f1e942f0e" label="Mixed Materials [31142046885748]" type="Box">17</container>
+            <container id="aspace_0019d90e7bc9e0c899af7fb3a803548f" parent="aspace_fc7a79a52cb3d9dda6ccbb1f1e942f0e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref155" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1299-1315</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_f3aa9d12d0a50a5fae237b658bab4461" label="Mixed Materials [31142046885748]" type="Box">17</container>
+            <container id="aspace_f3f7625106986640aefbefe9b3e390ea" parent="aspace_f3aa9d12d0a50a5fae237b658bab4461" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1240-1283</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_4902fdcf0b1e5c68260f245afbd212fa" label="Mixed Materials [31142046885748]" type="Box">17</container>
+            <container id="aspace_7279a8dc297173aa0bbfd5e865b40caa" parent="aspace_4902fdcf0b1e5c68260f245afbd212fa" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref157" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1317-1329</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_0b96946f0450810a7001f25b5719faf8" label="Mixed Materials [31142046885748]" type="Box">17</container>
+            <container id="aspace_f3b8d50711ed91badfda935e5811a4a9" parent="aspace_0b96946f0450810a7001f25b5719faf8" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref158" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 330-340</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_aa2031cd2d982623064c1fa9a74aaf4a" label="Mixed Materials [31142046885748]" type="Box">17</container>
+            <container id="aspace_e53cdbe1b33f0cf35ed341206f6118c6" parent="aspace_aa2031cd2d982623064c1fa9a74aaf4a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref159" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2065-2197</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_726e75abb6d9c1fabb9b45d07b195d14" label="Mixed Materials [31142046885748]" type="Box">17</container>
+            <container id="aspace_6f44fdbfde07d390c443a4bbe1b7a66f" parent="aspace_726e75abb6d9c1fabb9b45d07b195d14" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref160" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2132-2225</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_0d8a31036cf18a13c73f12d753eda0b8" label="Mixed Materials [31142046885748]" type="Box">17</container>
+            <container id="aspace_3e148dc57c7201ac86d2c106263a8d82" parent="aspace_0d8a31036cf18a13c73f12d753eda0b8" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref161" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2205-2920</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_e02fe251903e79619a2372de548e0eb7" label="Mixed Materials [31142046885748]" type="Box">17</container>
+            <container id="aspace_9dcedf9b1b1efb9b6ec901eda2ce385e" parent="aspace_e02fe251903e79619a2372de548e0eb7" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1540-1553</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_d76ecd4ec07a4d23040b3445e0cb886f" label="Mixed Materials [31142046885755]" type="Box">18</container>
+            <container id="aspace_3a5eafba13844250fe8f0768cc1f93bf" parent="aspace_d76ecd4ec07a4d23040b3445e0cb886f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref163" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1554-1572</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_972fc0a475c7af3ea31bdd2010fd282c" label="Mixed Materials [31142046885755]" type="Box">18</container>
+            <container id="aspace_a3996d5eb7eb8afeeb40f12b05fb541a" parent="aspace_972fc0a475c7af3ea31bdd2010fd282c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref164" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1573-1596</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_79a46efd1d138e92adb45fb44617f3b5" label="Mixed Materials [31142046885755]" type="Box">18</container>
+            <container id="aspace_225368e56e0f35547ead6b052d81d18b" parent="aspace_79a46efd1d138e92adb45fb44617f3b5" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref165" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1547-1575</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_c50e9e9fd37088ac57f6074627d89b41" label="Mixed Materials [31142046885755]" type="Box">18</container>
+            <container id="aspace_fd484c0c3c5e8e7242cfd8acff083e99" parent="aspace_c50e9e9fd37088ac57f6074627d89b41" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref166" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1574-1589</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_b5983adfbd9c4658c603b6a96cd8a731" label="Mixed Materials [31142046885755]" type="Box">18</container>
+            <container id="aspace_e8b9506bc16768a20decd4c1c05d23bb" parent="aspace_b5983adfbd9c4658c603b6a96cd8a731" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref167" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1590-1608</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_e6febb2149524cc21dd6c84632721acc" label="Mixed Materials [31142046885755]" type="Box">18</container>
+            <container id="aspace_75fa608de76a952db11cde8c5e6d1753" parent="aspace_e6febb2149524cc21dd6c84632721acc" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref168" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1611-1624</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_243c1514c280858b3afc945305be93e8" label="Mixed Materials [31142046885755]" type="Box">18</container>
+            <container id="aspace_53bb20f0d97eb8ce7875d09d78de2f7e" parent="aspace_243c1514c280858b3afc945305be93e8" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref169" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1207-1312</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_d9045039de31e911c574898bea0b200e" label="Mixed Materials [31142046885755]" type="Box">18</container>
+            <container id="aspace_c01a3b93c407c7f6bfed756aecd2da44" parent="aspace_d9045039de31e911c574898bea0b200e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref170" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1313-1583</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_45c062a27781f53b952bfc067997fd6a" label="Mixed Materials [31142046885763]" type="Box">19</container>
+            <container id="aspace_b33e3a9077b617180e1fbbe3e7ffe273" parent="aspace_45c062a27781f53b952bfc067997fd6a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref171" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1394-2196</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_d91f97f9d8051c726063abd423148c26" label="Mixed Materials [31142046885763]" type="Box">19</container>
+            <container id="aspace_dc745de371ec9eef83333b691a2a5436" parent="aspace_d91f97f9d8051c726063abd423148c26" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref172" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1489-1641</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_1e1a42a126192bc065d3b3c77773c292" label="Mixed Materials [31142046885763]" type="Box">19</container>
+            <container id="aspace_5b41288c302367a78c40cf29bf1670eb" parent="aspace_1e1a42a126192bc065d3b3c77773c292" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref173" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1657-2049</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_9f1439af0c0385022642deda299b09b3" label="Mixed Materials [31142046885763]" type="Box">19</container>
+            <container id="aspace_c95ff44a8ae6e1af6dd6ad7148745a98" parent="aspace_9f1439af0c0385022642deda299b09b3" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref174" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2052-2080</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_5cb36068f4a1e5b6b95b497e019c8e81" label="Mixed Materials [31142046885763]" type="Box">19</container>
+            <container id="aspace_ebbe95df3a00cb8801ffc7c9cc76f85d" parent="aspace_5cb36068f4a1e5b6b95b497e019c8e81" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref175" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2090-2357</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_737bbad9ad4894262dfeab63679967ec" label="Mixed Materials [31142046885763]" type="Box">19</container>
+            <container id="aspace_967c23df0c4c3beca521247bd0ba9aa7" parent="aspace_737bbad9ad4894262dfeab63679967ec" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref176" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2028-2060</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_9b9c61f286a16cf5fafc55d14cb76231" label="Mixed Materials [31142046885763]" type="Box">19</container>
+            <container id="aspace_74ebb77aca367b320c93fa0b0db86d6c" parent="aspace_9b9c61f286a16cf5fafc55d14cb76231" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref177" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2117-2195</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_96f6a7405745f593a4a088db1ae6e2fd" label="Mixed Materials [31142046885763]" type="Box">19</container>
+            <container id="aspace_3a10ec40b5a84e4285bea8871ea1c9fc" parent="aspace_96f6a7405745f593a4a088db1ae6e2fd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref178" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1003-1663</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_a07203ac49021c9f6ef28c7a9752c305" label="Mixed Materials [31142046885763]" type="Box">19</container>
+            <container id="aspace_eb52dd218e56d8ce0015967575924d79" parent="aspace_a07203ac49021c9f6ef28c7a9752c305" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref179" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: NGH 2-32</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_de006aea999b794b7fa81aec2997e4d2" label="Mixed Materials [31142046885771]" type="Box">20</container>
+            <container id="aspace_0ea152da9f228ff9539565f8ecdcea12" parent="aspace_de006aea999b794b7fa81aec2997e4d2" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref180" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: NGH 4-38</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_7ff9fdef445611572cc87754acb50853" label="Mixed Materials [31142046885771]" type="Box">20</container>
+            <container id="aspace_e0de089235564160c0d6d8d7c36a9099" parent="aspace_7ff9fdef445611572cc87754acb50853" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref181" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: NGH 5-41, 1528-1532</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_0f4e301c86243fb40638cfbc58f033d9" label="Mixed Materials [31142046885771]" type="Box">20</container>
+            <container id="aspace_de50b9602ebf87c825b7dc9432ba1474" parent="aspace_0f4e301c86243fb40638cfbc58f033d9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref182" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: NGH 1-43</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_d94ab49b5687aee34647d7dccc3465e4" label="Mixed Materials [31142046885771]" type="Box">20</container>
+            <container id="aspace_0bb9ace6f09299d78ce0d849d42be81b" parent="aspace_d94ab49b5687aee34647d7dccc3465e4" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref183" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: NGH 8-29</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_bfbc45817e5ab6e9ecea16b3a6d10b40" label="Mixed Materials [31142046885771]" type="Box">20</container>
+            <container id="aspace_e74770fa0b6861945f2861678eb77e68" parent="aspace_bfbc45817e5ab6e9ecea16b3a6d10b40" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref184" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: NGH 23, 25, 34, 44, 46, 48, 53, 54, 67, 83, 97</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_91cafb6f3d5cf4d4ccc788451f7dcce7" label="Mixed Materials [31142046885771]" type="Box">20</container>
+            <container id="aspace_a66bd7c1795d8ba349c690b8bfabb968" parent="aspace_91cafb6f3d5cf4d4ccc788451f7dcce7" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref185" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2008-2388</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_a33cb5acb6657bebfc3ba943185da9a6" label="Mixed Materials [31142046885789]" type="Box">21</container>
+            <container id="aspace_74688e4d8da0e563a092f73b66a14dac" parent="aspace_a33cb5acb6657bebfc3ba943185da9a6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref186" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1521-2396</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_d3a39ccd9c647c6c9bbcf3cd38f6fcbb" label="Mixed Materials [31142046885789]" type="Box">21</container>
+            <container id="aspace_755df9607ecc1ec4935c74afc524a6ad" parent="aspace_d3a39ccd9c647c6c9bbcf3cd38f6fcbb" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref187" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2019-2360</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_52815db1f2f2ddc6eb0c2bf157c61453" label="Mixed Materials [31142046885789]" type="Box">21</container>
+            <container id="aspace_9cbb6531f35761867a2615cf516fb394" parent="aspace_52815db1f2f2ddc6eb0c2bf157c61453" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref188" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2016-2298</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_55b0ca3ae118e55b201fc33abb9cfaf1" label="Mixed Materials [31142046885789]" type="Box">21</container>
+            <container id="aspace_a1ed10cc427f4fe71a983b5229549131" parent="aspace_55b0ca3ae118e55b201fc33abb9cfaf1" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref189" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1457-2270</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_638495caf47a8158dc66f9deaecd6430" label="Mixed Materials [31142046885789]" type="Box">21</container>
+            <container id="aspace_b28beab426b6b63998d135ef07a4096c" parent="aspace_638495caf47a8158dc66f9deaecd6430" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref190" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_7f85dad4557cc3d8c6b9e55cb6ac639d" label="Mixed Materials [31142046885789]" type="Box">21</container>
+            <container id="aspace_93ff84b158c855eb1eea60a889013f82" parent="aspace_7f85dad4557cc3d8c6b9e55cb6ac639d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref191" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_5dcdc777d91c49829067a1869f969df4" label="Mixed Materials [31142046885789]" type="Box">21</container>
+            <container id="aspace_caf69f19cab8f319916ee89a8f7a4c1f" parent="aspace_5dcdc777d91c49829067a1869f969df4" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref192" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1079-1114</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_855001bc13c6b3b96ca0bf392298c0a5" label="Mixed Materials [31142046885789]" type="Box">21</container>
+            <container id="aspace_d91770e8218691241edd364623d1a463" parent="aspace_855001bc13c6b3b96ca0bf392298c0a5" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref193" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_f984e935aa333d212331f8937e0682ea" label="Mixed Materials [31142046885789]" type="Box">21</container>
+            <container id="aspace_27647655491ec349157d08503fec7e63" parent="aspace_f984e935aa333d212331f8937e0682ea" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref194" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2039-2373</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_657319e7628620a9984f0034b5070374" label="Mixed Materials [31142046885797]" type="Box">22</container>
+            <container id="aspace_4885789aa21d2175e48b9fd0b4e6dcd1" parent="aspace_657319e7628620a9984f0034b5070374" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref195" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2006-2377</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_14846ddd9e4e75404fdd85b28da6eef9" label="Mixed Materials [31142046885797]" type="Box">22</container>
+            <container id="aspace_74d9489cde21ab411916282f46ad14df" parent="aspace_14846ddd9e4e75404fdd85b28da6eef9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref196" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2007-2359 </unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_148ff8691d79d4ccb6adf59ab8d431c7" label="Mixed Materials [31142046885797]" type="Box">22</container>
+            <container id="aspace_95c94ce349131e8747ddfce922ea63c9" parent="aspace_148ff8691d79d4ccb6adf59ab8d431c7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref197" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2162-2390</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_87a0e04488534ae6661a3083115c6629" label="Mixed Materials [31142046885797]" type="Box">22</container>
+            <container id="aspace_3a7abdeb92cdedcd00c57cd8e19227f1" parent="aspace_87a0e04488534ae6661a3083115c6629" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref198" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_2a5d22e5c5694c353abd1b159d13fcf0" label="Mixed Materials [31142046885797]" type="Box">22</container>
+            <container id="aspace_a2a6f970a746893a32d04c8de5516853" parent="aspace_2a5d22e5c5694c353abd1b159d13fcf0" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref199" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_eedd3d35569575517c58ec578ddbd3bf" label="Mixed Materials [31142046885797]" type="Box">22</container>
+            <container id="aspace_95d11e37bcc00806a458d6c7e99fbc2d" parent="aspace_eedd3d35569575517c58ec578ddbd3bf" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref200" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1136-2119</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_3ac9a33086f140d751e83e56563f4f81" label="Mixed Materials [31142046885805]" type="Box">23</container>
+            <container id="aspace_8de0f68bbf5918af6dc6022caac4948b" parent="aspace_3ac9a33086f140d751e83e56563f4f81" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref201" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1005-2013</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_d24b36885738a5e15469bf2c41a7cacc" label="Mixed Materials [31142046885805]" type="Box">23</container>
+            <container id="aspace_e4f52b02c4b2d5585a3b3d5f2a3484cb" parent="aspace_d24b36885738a5e15469bf2c41a7cacc" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref202" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2193-2379</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_e74d602bb06bd6d5ab1f69a1899390f3" label="Mixed Materials [31142046885805]" type="Box">23</container>
+            <container id="aspace_1c0c7afd67de0a8400cee965c835f9b2" parent="aspace_e74d602bb06bd6d5ab1f69a1899390f3" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref203" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1042-1059</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_1dfefee1a6f8f558902e68a221e316d8" label="Mixed Materials [31142046885805]" type="Box">23</container>
+            <container id="aspace_d6b221181cb9ecbd799508273c199c96" parent="aspace_1dfefee1a6f8f558902e68a221e316d8" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref204" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1061-1397</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_4956d0eef3aa5afcf585763046487aa7" label="Mixed Materials [31142046885805]" type="Box">23</container>
+            <container id="aspace_3028623c1f417a6b4f05bd42fbf51900" parent="aspace_4956d0eef3aa5afcf585763046487aa7" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref205" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2356-2381</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_47b33e579cd9672c9ab132197f2d99b0" label="Mixed Materials [31142046885805]" type="Box">23</container>
+            <container id="aspace_be98fa06558be07176e7a3acc3890604" parent="aspace_47b33e579cd9672c9ab132197f2d99b0" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref206" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2380-2385</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_d5c634cd091411dd48ad7c36e08624b2" label="Mixed Materials [31142046885805]" type="Box">23</container>
+            <container id="aspace_6cf995f4d62a4055acfa7503cb59f43c" parent="aspace_d5c634cd091411dd48ad7c36e08624b2" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref207" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1014-1029</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_8efba713beeb9b98da270dc7c30cd6b1" label="Mixed Materials [31142046885805]" type="Box">23</container>
+            <container id="aspace_78a36f69a8a8cb04ee5623e3cc500253" parent="aspace_8efba713beeb9b98da270dc7c30cd6b1" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref208" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1020-1382</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_daee6db825aea76388a96cdfff9ddc28" label="Mixed Materials [31142046885805]" type="Box">23</container>
+            <container id="aspace_8f84defcb1d619cf279c9da4f6087ddc" parent="aspace_daee6db825aea76388a96cdfff9ddc28" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref209" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1017-1022</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_b5a4f7574618f44391c654746d6332f9" label="Mixed Materials [31142046885805]" type="Box">23</container>
+            <container id="aspace_e50f14baebd77cb84ee0e94a115660c1" parent="aspace_b5a4f7574618f44391c654746d6332f9" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref210" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2382</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_f5e7626e06d7afb8d025db65c153d97b" label="Mixed Materials [31142046885805]" type="Box">23</container>
+            <container id="aspace_c8c6b66f3eca7de5678b87f0c5064ebf" parent="aspace_f5e7626e06d7afb8d025db65c153d97b" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref211" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 2111-2338</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_c5e9d7e8b4250367832f608f60f374c7" label="Mixed Materials [31142046885805]" type="Box">23</container>
+            <container id="aspace_0994740a098c1f23c92ddb2529d4697a" parent="aspace_c5e9d7e8b4250367832f608f60f374c7" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref212" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1045-2331</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_6e4c80457ef2164197a618bf00184518" label="Mixed Materials [31142046885813]" type="Box">24</container>
+            <container id="aspace_c177e53e82a81d8b450c603cab17c705" parent="aspace_6e4c80457ef2164197a618bf00184518" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref213" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1342-1360</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_2672525bfda27a4ea3b2b24f79fb8fa6" label="Mixed Materials [31142046885813]" type="Box">24</container>
+            <container id="aspace_c24cd483bf3f40f983a6fc6585f4a50c" parent="aspace_2672525bfda27a4ea3b2b24f79fb8fa6" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref214" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1399, 2123</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_f5c2bb554ad7ed2f41f5aff1ab5537f1" label="Mixed Materials [31142046885813]" type="Box">24</container>
+            <container id="aspace_d6d1b16b89fa133a0ac59d46b4c73efc" parent="aspace_f5c2bb554ad7ed2f41f5aff1ab5537f1" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref215" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1023-1074</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_8f664bff51cd78be39a37dc1c51c075e" label="Mixed Materials [31142046885813]" type="Box">24</container>
+            <container id="aspace_f7bfc8d7de198a92fde8b8c3ab897e18" parent="aspace_8f664bff51cd78be39a37dc1c51c075e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref216" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires, Code: 1355-2344</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_a8c55e692a8ca44363a6f06912a1d369" label="Mixed Materials [31142046885813]" type="Box">24</container>
+            <container id="aspace_b85a925ae316db8a8cf1887d7b494e36" parent="aspace_a8c55e692a8ca44363a6f06912a1d369" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref217" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: GL</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_8fe0aa1d92b203d57e159c3c7ad7f590" label="Mixed Materials [31142046885813]" type="Box">24</container>
+            <container id="aspace_0769115b0563ce21dd8d296af0ad488f" parent="aspace_8fe0aa1d92b203d57e159c3c7ad7f590" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref218" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: Illegible Codes</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_c67424ff3605ee8ead6aa42dbe64c3d4" label="Mixed Materials [31142046885813]" type="Box">24</container>
+            <container id="aspace_42586ef68c1a117b09a095ebb7d1932e" parent="aspace_c67424ff3605ee8ead6aa42dbe64c3d4" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref219" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: Napanima College, Sept. 1976: NCB-1 to NCB-10</unittitle>
+            <unitdate datechar="creation">1976 September</unitdate>
+            <container id="aspace_4ccbdd6d31fd51c322ba12f1843aa9b2" label="Mixed Materials [31142046885813]" type="Box">24</container>
+            <container id="aspace_350534b0b45a95cac4aa8e4f3f6afe49" parent="aspace_4ccbdd6d31fd51c322ba12f1843aa9b2" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref220" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: Napanima College, Sept. 1976: NCB-11 to NCB-20</unittitle>
+            <unitdate datechar="creation">1976 September</unitdate>
+            <container id="aspace_d3f152d87a3c93ea640a4a8046f635c3" label="Mixed Materials [31142046885813]" type="Box">24</container>
+            <container id="aspace_79a79794c72b12f562bb9844ab2ba48c" parent="aspace_d3f152d87a3c93ea640a4a8046f635c3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref221" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: Napanima College, Sept. 1976: NCB-21 to NCB30</unittitle>
+            <unitdate datechar="creation">1976 September</unitdate>
+            <container id="aspace_662570a90d8b8e60d642cdb52ec10670" label="Mixed Materials [31142046885821]" type="Box">25</container>
+            <container id="aspace_fb6e92848eff467c66d6902e81ccdd8a" parent="aspace_662570a90d8b8e60d642cdb52ec10670" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref222" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: Napanima College, Sept. 1976: NCB-31 to NCB-37</unittitle>
+            <unitdate datechar="creation">1976 September</unitdate>
+            <container id="aspace_ead43257c620859b5269f8d604adae22" label="Mixed Materials [31142046885821]" type="Box">25</container>
+            <container id="aspace_aa5af487ced3eaebaeee31d348112798" parent="aspace_ead43257c620859b5269f8d604adae22" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref223" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: NCB-86</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_0faccefa7540c24b25bd69a7b160173e" label="Mixed Materials [31142046885821]" type="Box">25</container>
+            <container id="aspace_a9a3cb1a46734737ae2df904131de6b5" parent="aspace_0faccefa7540c24b25bd69a7b160173e" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref224" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: OSB</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_b6b558bcb6d7e0fdff41c6d1fd089b72" label="Mixed Materials [31142046885821]" type="Box">25</container>
+            <container id="aspace_918435651ad7d3f552024381a68d1a5d" parent="aspace_b6b558bcb6d7e0fdff41c6d1fd089b72" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref225" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: OSG</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_33c3eea65786b2df865f504907e26ba6" label="Mixed Materials [31142046885821]" type="Box">25</container>
+            <container id="aspace_dff2318bbf05b7b4070cd1cdc2b1ffee" parent="aspace_33c3eea65786b2df865f504907e26ba6" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref226" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: PA</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_6d9d3e65e0d8ac8db6416663450d4087" label="Mixed Materials [31142046885821]" type="Box">25</container>
+            <container id="aspace_e769b569a78c496be89331bf30df7fc8" parent="aspace_6d9d3e65e0d8ac8db6416663450d4087" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref227" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: PB</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_f3a927b426da58fb92c734b072b1cd75" label="Mixed Materials [31142046885821]" type="Box">25</container>
+            <container id="aspace_1ac48839b3fa6a3ca7d7686669485471" parent="aspace_f3a927b426da58fb92c734b072b1cd75" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref228" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: PC</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_332b250be698007b83e1b957ca6be6b5" label="Mixed Materials [31142046885821]" type="Box">25</container>
+            <container id="aspace_723d93745caa5199a94c0b265cd50897" parent="aspace_332b250be698007b83e1b957ca6be6b5" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref229" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: PD</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_999a36e6def0bb2787cbeec14d4bf239" label="Mixed Materials [31142046885821]" type="Box">25</container>
+            <container id="aspace_6bea6816c87449d1f926a4ea109a42bf" parent="aspace_999a36e6def0bb2787cbeec14d4bf239" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref230" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: PK</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_a5c286d89e0c0b8b0082203b7c60f3df" label="Mixed Materials [31142046885821]" type="Box">25</container>
+            <container id="aspace_e0eac0a99ea30fe1da5ab91db467f508" parent="aspace_a5c286d89e0c0b8b0082203b7c60f3df" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref231" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: PL 18</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_bef46bfc50aeeaa3f4b87610e0a691e3" label="Mixed Materials [31142046885821]" type="Box">25</container>
+            <container id="aspace_eb999c8d0105dee8cb24ef380833fbdb" parent="aspace_bef46bfc50aeeaa3f4b87610e0a691e3" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref232" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: PM</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_bc1d74a36dda82eda74133a7e90e7c83" label="Mixed Materials [31142046885821]" type="Box">25</container>
+            <container id="aspace_47a1ab9d68ded7deaa47edc90155b279" parent="aspace_bc1d74a36dda82eda74133a7e90e7c83" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref233" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: PRCB</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_e0598cef31b0b682d6c9ae7bfdb2454c" label="Mixed Materials [31142046885821]" type="Box">25</container>
+            <container id="aspace_057b6f483a12bb3cb14039469beb5192" parent="aspace_e0598cef31b0b682d6c9ae7bfdb2454c" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref234" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: PT</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_19fe182a429e30486d538c59dbb3bdf4" label="Mixed Materials [31142046885821]" type="Box">25</container>
+            <container id="aspace_b377c23db36e2d742c43a97d92b938d0" parent="aspace_19fe182a429e30486d538c59dbb3bdf4" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref235" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: SJC</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_ac4f71fd90e8364b6d8a4f7d8b2fb41a" label="Mixed Materials [31142046885821]" type="Box">25</container>
+            <container id="aspace_15a62ec66e84a3f09fd94cb910fc96b9" parent="aspace_ac4f71fd90e8364b6d8a4f7d8b2fb41a" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref236" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: SMC</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_81a65b4bb257b996fc30ba039b868238" label="Mixed Materials [31142046885821]" type="Box">25</container>
+            <container id="aspace_f38ab91a99f3f23a815ee5889fe74ad8" parent="aspace_81a65b4bb257b996fc30ba039b868238" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref237" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: SMC</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_779d3bd142222dea6d0614731adae80a" label="Mixed Materials [31142046885839]" type="Box">26</container>
+            <container id="aspace_c5daa39bc9aa487d494723060a22fbe1" parent="aspace_779d3bd142222dea6d0614731adae80a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref238" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: Unidentified</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_8b434b232821651196b7c6b16598c930" label="Mixed Materials [31142046885839]" type="Box">26</container>
+            <container id="aspace_dfe9f29a9b90c703d976818955aadb7d" parent="aspace_8b434b232821651196b7c6b16598c930" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref239" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Questionnaires: Unidentified</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_9c2a797bd307fe411d78be06f3336073" label="Mixed Materials [31142046885839]" type="Box">26</container>
+            <container id="aspace_98aedbf7e3f0d0eda5c471425d181bd1" parent="aspace_9c2a797bd307fe411d78be06f3336073" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref240" level="series">
+        <did>
+          <unittitle>Series IV: Results</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref241" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Race Relations</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_fb0a5d6d376b701622282290c6481529" label="Mixed Materials [31142046885839]" type="Box">26</container>
+            <container id="aspace_cb8da3d745ed0870d081c836d1d8f2df" parent="aspace_fb0a5d6d376b701622282290c6481529" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref242" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Race Relations</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_db59be33f37c710cac8e9bf6604d3fcf" label="Mixed Materials [31142046885839]" type="Box">26</container>
+            <container id="aspace_ad9a58fdcb1b1ed7bc818cd532994a50" parent="aspace_db59be33f37c710cac8e9bf6604d3fcf" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref243" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Race Relations</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_d1ce5e69e5bdc97e2d34ef958ec69284" label="Mixed Materials [31142046885839]" type="Box">26</container>
+            <container id="aspace_da9676bfe9d656c35f7792d8f5df737f" parent="aspace_d1ce5e69e5bdc97e2d34ef958ec69284" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref244" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Results</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_6c14fb7784d21e3de1ab4114225d87a9" label="Mixed Materials [31142046885839]" type="Box">26</container>
+            <container id="aspace_f33466c6554d2f31b6e53016fbc640b3" parent="aspace_6c14fb7784d21e3de1ab4114225d87a9" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref245" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Results: Achievement Data</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_30f76bdd51e283133f48e755460584c1" label="Mixed Materials [31142046885839]" type="Box">26</container>
+            <container id="aspace_e3eedc56f8086f63535931aabd6741d3" parent="aspace_30f76bdd51e283133f48e755460584c1" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref246" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Results: Coding System</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_f4ae0ad8ec8bd9ba5298d94c1a58d3c9" label="Mixed Materials [31142046885839]" type="Box">26</container>
+            <container id="aspace_a94594ed41615b84d712778792ee9002" parent="aspace_f4ae0ad8ec8bd9ba5298d94c1a58d3c9" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref247" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Results: Factor Analysis</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_179b4afd55a9952a8b57000fb8a66f98" label="Mixed Materials [31142046885839]" type="Box">26</container>
+            <container id="aspace_bf5d61351699ad80a90531852f822e61" parent="aspace_179b4afd55a9952a8b57000fb8a66f98" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref248" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Results: Ingroup-Outgroup Attitudes</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_fc10f713155c84ceffcd2452ac415312" label="Mixed Materials [31142046885839]" type="Box">26</container>
+            <container id="aspace_898d0459942ee09093c7a2f316ec80dc" parent="aspace_fc10f713155c84ceffcd2452ac415312" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref249" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Results: Tables</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_1c564fe98074d3aae0e6135be3285a00" label="Mixed Materials [31142046885839]" type="Box">26</container>
+            <container id="aspace_26349f217b96220e7ab0ed2fcb455238" parent="aspace_1c564fe98074d3aae0e6135be3285a00" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref250" level="series">
+        <did>
+          <unittitle>Series V: Statistical Data</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref251" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Statistical data</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_61477c63412ef7e185e8b797c073bb3a" label="Mixed Materials [31142046885839]" type="Box">26</container>
+            <container id="aspace_c199f0d5fade7e3f04f797f7620c8811" parent="aspace_61477c63412ef7e185e8b797c073bb3a" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref252" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Statistical Data</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_2a592b5ae2643c28b8434775e2101151" label="Mixed Materials [31142046885847]" type="Box">27</container>
+            <container id="aspace_de80edf0367e44edde5eaa894792b569" parent="aspace_2a592b5ae2643c28b8434775e2101151" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref253" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Statistical Data</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_a57e23cc8807f8a762ae0a8b799516f6" label="Mixed Materials [31142046885847]" type="Box">27</container>
+            <container id="aspace_722c518732514bfffa58b3f848f0510e" parent="aspace_a57e23cc8807f8a762ae0a8b799516f6" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref254" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Statistical Data: Duplicate Tables</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_e866cc579c32a1b03fd58f5a229ae5e6" label="Mixed Materials [31142046885847]" type="Box">27</container>
+            <container id="aspace_5ebc20dc194b5bae66a6e312d292b6a1" parent="aspace_e866cc579c32a1b03fd58f5a229ae5e6" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref255" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Statistical Data: GJ Naparima Teacher Training College</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_2c8790cc67f33e075432baac9aa3a297" label="Mixed Materials [31142046885847]" type="Box">27</container>
+            <container id="aspace_1d86af2a4f2d96b1ddf96a17dba1b641" parent="aspace_2c8790cc67f33e075432baac9aa3a297" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref256" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Statistical Data: Open End</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_51ed36cf5b8cb4fb4f0a90f8d87143ca" label="Mixed Materials [31142046885847]" type="Box">27</container>
+            <container id="aspace_a827f81a6050cc90a56d0eeca8af50a7" parent="aspace_51ed36cf5b8cb4fb4f0a90f8d87143ca" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref257" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Statistical Data: Proud Accomplishment</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_34e114363fabb2e86275cd1fdcb9b2d0" label="Mixed Materials [31142046885847]" type="Box">27</container>
+            <container id="aspace_355ba555738138a2e7ec58d7e48b2350" parent="aspace_34e114363fabb2e86275cd1fdcb9b2d0" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref258" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Statistical Data: Tables</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_e72a60b7e59887dc173492469048d167" label="Mixed Materials [31142046885847]" type="Box">27</container>
+            <container id="aspace_3752dc88e0a06fa0bd4965b739e4bde3" parent="aspace_e72a60b7e59887dc173492469048d167" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref259" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Statistical Data: Tables by School</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957</unitdate>
+            <container id="aspace_1dff4991ad55043846d4e4981d694c1c" label="Mixed Materials [31142046885847]" type="Box">27</container>
+            <container id="aspace_70988d305bd0d972e38d686adfb69a6e" parent="aspace_1dff4991ad55043846d4e4981d694c1c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref260" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Statistical Data: Trinidad and Tobago Tables</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957</unitdate>
+            <container id="aspace_f08f188e4e11bff79dcf8918d0dc015e" label="Mixed Materials [31142046885847]" type="Box">27</container>
+            <container id="aspace_6948e393cb061d5bd4099ea085794ea1" parent="aspace_f08f188e4e11bff79dcf8918d0dc015e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref261" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Statistical Data: Trinidad and Tobago Tables</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_9b285b1abed41b1c5cc65de59428aa58" label="Mixed Materials [31142046885847]" type="Box">27</container>
+            <container id="aspace_1579af6ec3c40266368fd09c28cfbca2" parent="aspace_9b285b1abed41b1c5cc65de59428aa58" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref262" level="file">
+          <did>
+            <unittitle>RISM: Trinidad Study: Statistical Data; [x Choice to 39 Race School]</unittitle>
+            <unitdate datechar="creation" normal="1957/1961" type="inclusive">1957-1961</unitdate>
+            <container id="aspace_e648e14f389f25b1515516181bb7e3bb" label="Mixed Materials [31142046885847]" type="Box">27</container>
+            <container id="aspace_919b9fe7aafd66fdb612b6ad3d0c842a" parent="aspace_e648e14f389f25b1515516181bb7e3bb" type="Folder">11</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_9b252e8392b8d54dfbee1057a6ec3d95" level="series">
+        <did>
+          <unittitle>Series VI: 2017 Accretion</unittitle>
+          <container altrender="Manuscript box - Legal" id="aspace_f953b130cb055144206abd5235a6c202" label="Mixed Materials [31142063099470]" type="Box">Shared University Archives Accessions 005</container>
+        </did>
+        <c id="aspace_32b09d097e5f1d9b9a5bbbf2b23aa681" level="file">
+          <did>
+            <unittitle>Correspondence: Vera Rubin</unittitle>
+            <unitdate datechar="creation" normal="1957/1976" type="inclusive">1957-1976</unitdate>
+          </did>
+        </c>
+        <c id="aspace_9995a5de6b1956e040066fd30c4ca75c" level="file">
+          <did>
+            <unittitle>Notes and Working Papers</unittitle>
+            <unitdate datechar="creation" normal="1957/1957">1957</unitdate>
+          </did>
+        </c>
+        <c id="aspace_9ebb8f6d396b07310add230bd043d875" level="file">
+          <did>
+            <unittitle>Publication Correspondence and Inquiry</unittitle>
+            <unitdate datechar="creation" normal="1966/1969" type="inclusive">1966-1969</unitdate>
+          </did>
+        </c>
+        <c id="aspace_f6df9a4ff350a149691dc75418d3a3ae" level="file">
+          <did>
+            <unittitle>Survey - Completed (Human Subject Data)</unittitle>
+            <unitdate datechar="creation" normal="1957/1957">1957</unitdate>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,879 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_777">tam_777</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Tamiment Library and Robert F. Wagner Labor Archives Collection of Religion Serials <num>TAM.777</num></titleproper>
+        <author>Megan O'Shea and Alexa Logush</author>
+        <sponsor>The arrangement, description, and encoding of this collection has been made possible in part by a major grant from the National Endowment for the Humanities: Exploring the human endeavor.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>February 2019</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 04:10:05 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Tamiment Library and Robert F. Wagner Labor Archives Collection of Religion Serials</unittitle>
+      <origination label="Creator">
+        <corpname source="local">Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </origination>
+      <unitid>TAM.777</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.8 Linear Feet</extent>
+        <extent altrender="carrier">in 7 manuscript boxes, 1 half manuscript box, and 2 flat boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1919/1999" type="inclusive">1919-1999</unitdate>
+      <unitdate datechar="creation" normal="1941/1999" type="bulk">1941-1999</unitdate>
+      <physloc id="aspace_effa2002db61d8c5db54cfd0a456b378">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <abstract id="aspace_6c295247cbc40d25272d2d8cf364b8dc">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Religion Serials contains over 90 titles published in the United States, Israel, Canada, and Europe on religious issues throughout the world between 1919 and 1999.  The bulk of the collection consists of serials published between the 1940s and the 1990s by Jewish organizations in the United States.</abstract>
+      <langmaterial id="aspace_7a3ef5c7293fb26aa80724da4b99bed5">Materials primarily in English, with some publications in Yiddish, Spanish, and French.</langmaterial>
+    </did>
+    <arrangement id="aspace_b5d913eea52ae9d6622cff61db4037e7">
+      <head>Arrangement</head>
+      <p>Serials in this collection are arranged alphabetically by title.</p>
+    </arrangement>
+    <accessrestrict id="aspace_d4f8584b4d5811bf837c048d54a254d9">
+      <head>Conditions Governing Access</head>
+      <p>Open to users without restriction.</p>
+    </accessrestrict>
+    <userestrict id="aspace_c9151a4a4d72a99820b2cf00cc9bbf0c">
+      <head>Conditions Governing Use</head>
+      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Tamiment Library &amp; Robert F. Wagner Labor Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>
+    </userestrict>
+    <acqinfo id="aspace_ee9a45a02c18298edbfbb4be421981d3">
+      <head>Immediate Source of Acquisition</head>
+      <p>This collection combines serials relating to religion drawn from two discrete groups of material held by the Tamiment Library. The first was a partially inventoried backlog of serials, received by the library through donations, subscriptions, and in archival collections. The second group consisted of around 1,700 serials, newspapers, and magazines, organized by title as an artificial collection, referred to as Periodicals.001 or Boxed Newspapers. This material was combined, inventoried, and arranged and described in subject-based categories in 2017. The accession number related to this collection is 2017.049.</p>
+    </acqinfo>
+    <prefercite id="aspace_c0ac38ecb0ff183e1d252774b647089d">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Tamiment Library and Robert F. Wagner Labor Archives Collection of Religion Serials; TAM 777; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_7df4f4c4b6ea9c797fbbf2cecf1400dd">
+      <head>Processing Information</head>
+      <p>The material in this collection was assembled from various backlogs of uncataloged material held by the Tamiment Library. This material was inventoried, separated according to its subject matter, and arranged in a series of subject-based artificial collections. Accumulations of material relating to religion were identified and brought together physically. Materials were housed in archival folders and boxes according to size. The inventory is arranged alphabetically by title of publication, with publishing organization and place of publication listed when known.</p>
+    </processinfo>
+    <scopecontent id="aspace_2cb5b5ed468d3dd61a21231da77bcfd2">
+      <head>Scope and Contents</head>
+      <p>The Tamiment Library and Robert F. Wagner Labor Archives Collection of Religion Serials contains over 90 titles published in the United States (US), Israel, Canada, and Europe on religious issues throughout the world between 1919 and 1999.  The bulk of the collection consists of serials published between the 1940s and the 1990s by Jewish organizations in the US on kibbutzim, Zionism, the study and use of Yiddish in the US, and human rights issues faced by Jewish people in the Soviet Union.  These serials are mainly focused on cultural identity of Jewish people, rather than the religious aspects of Judaism.  Religions represented in the collection in addition to Judaism include Catholicism; Islam; and Protestant sects including Methodist churches, Baptist churches, and Quakers.  Other topics include community service, the work of inter-religious community organizations in the US, religious education and teachers, and atheism.  Organizations represented in the collection include the Workmen's Circle, New Jewish Agenda, and the American Friends Service Committee.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Zionists -- United States.</subject>
+      <subject source="lcsh">Jews -- United States -- Societies, etc.</subject>
+      <subject source="lcsh">Jews -- United States -- Periodicals.</subject>
+      <subject source="lcsh">Religion and politics.</subject>
+      <genreform source="aat">Serials (publications)</genreform>
+      <subject source="lcsh">Yiddish language -- Periodicals.</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_dfeee81aae0206d4b99d6a7d2d17c604" level="file">
+        <did>
+          <unittitle><emph render="italic">A Majority of One</emph> : California Jewish Forum, Inc., Sherman Oaks, CA</unittitle>
+          <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_a075c1d81b1cb5da6c9cb47e33219bee" label="Mixed Materials [31142063011368]" type="Box">2</container>
+          <container id="aspace_97e18ffb52d79cb03e0b98b61cda8495" parent="aspace_a075c1d81b1cb5da6c9cb47e33219bee" type="Folder">5-6</container>
+        </did>
+      </c>
+      <c id="aspace_b0e9a59f9737cbf323e0084be108d9e0" level="file">
+        <did>
+          <unittitle><emph render="italic">Action</emph> : Northwest Bronx Community and Clergy Coalition, Bronx, NY</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_ef0a57e964f6fb5b457576df607d9760" label="Mixed Materials [31142063011426]" type="Box">8</container>
+          <container id="aspace_a3fd89ec8ca55ba44dd8d4843501e5fc" parent="aspace_ef0a57e964f6fb5b457576df607d9760" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_2a1181fbe9c0ecf2fa84d780e339bb8f" level="file">
+        <did>
+          <unittitle><emph render="italic">AGC Reporter</emph> : Associated Gospel Churches, Wilkinsburg, PA</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_88079c057900036a8824af8f2525777f" label="Mixed Materials [31142063011426]" type="Box">8</container>
+          <container id="aspace_b5e0678a82131c0e5c2cf4014da5e1f9" parent="aspace_88079c057900036a8824af8f2525777f" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ebbe18336649604523faca3c8b314817" level="file">
+        <did>
+          <unittitle><emph render="italic">Al Qalam : The Pen</emph> : Al-Qalam, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1980/1981" type="inclusive">1980-1981</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_67edc5ddf2a9edc0508a86756f8473d9" label="Mixed Materials [31142063011368]" type="Box">2</container>
+          <container id="aspace_ff00eae36bc2f54c5816f8a0a53ac65a" parent="aspace_67edc5ddf2a9edc0508a86756f8473d9" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_4588b19ffcaab9ba10c68ed5e342eade" level="file">
+        <did>
+          <unittitle><emph render="italic">Ambijan Bulletin</emph> : American Birobidjan Committee, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1946/1947" type="inclusive">1946-1947</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_7771c9eb6803f52d84de1d1263615a62" label="Mixed Materials [31142063011368]" type="Box">2</container>
+          <container id="aspace_7ac55c1abed046b51680e54ce60f5df9" parent="aspace_7771c9eb6803f52d84de1d1263615a62" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_08f71d950a8edb1b475e1bde60d134d8" level="file">
+        <did>
+          <unittitle><emph render="italic">America : A Catholic Review of the Week</emph> : America Press, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_6ab3913086cb381969cf733d6fbac379" label="Mixed Materials [31142063011368]" type="Box">2</container>
+          <container id="aspace_15f3dd92e859ccb1d5126a9ee697b38b" parent="aspace_6ab3913086cb381969cf733d6fbac379" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_87c4fcb3285698f7a66179d428f7529c" level="file">
+        <did>
+          <unittitle><emph render="italic">American Atheist : A Voice of Reason</emph> : Freethought Society of America, Inc., Honolulu, HI</unittitle>
+          <unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_d0b6fb11f61be0171ac3a657e9b14636" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_bc0d98cbb2bd89eb68e8c22ef3ce18c4" parent="aspace_d0b6fb11f61be0171ac3a657e9b14636" type="Folder">27-28</container>
+          <container altrender="Manuscript box - Legal" id="aspace_73d1340cdf4d3ae11991e637c20cc62e" label="Mixed Materials [31142063011442]" type="Box">10</container>
+          <container id="aspace_43baf4330793d2e76c09368d1535f1de" parent="aspace_73d1340cdf4d3ae11991e637c20cc62e" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_81e5fb55ee6e218fc23770761cac4b93" level="file">
+        <did>
+          <unittitle><emph render="italic">American Report</emph> : Clergy and Laymen Concerned, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_0414350844816131b0bdaa4be2b7ab32" label="Mixed Materials [31142063011426]" type="Box">8</container>
+          <container id="aspace_5ccd5324b0c2d5afd85deb21b257fdab" parent="aspace_0414350844816131b0bdaa4be2b7ab32" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_71d04512478a77e1152c497feee25630" level="file">
+        <did>
+          <unittitle><emph render="italic">Anglo Saxon World</emph> : British Israel Association of Greater Vancouver, Vancouver, BC</unittitle>
+          <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_6865796a2078edcb67d4dd51342c0973" label="Mixed Materials [31142063011368]" type="Box">2</container>
+          <container id="aspace_7cd46393525c8a0cc36b0413a69a67c2" parent="aspace_6865796a2078edcb67d4dd51342c0973" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_78f8409ff9b4fba6d78af923b6a57e9f" level="file">
+        <did>
+          <unittitle><emph render="italic">Black International</emph> : Haldeman-Julius Publications, Girard, KS</unittitle>
+          <unitdate datechar="creation" normal="1941/1942" type="inclusive">1941-1942</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_eae9b628745833efecbb558d7055e134" label="Mixed Materials [31142063011368]" type="Box">2</container>
+          <container id="aspace_7ea791d655f1d99fd74179651617d336" parent="aspace_eae9b628745833efecbb558d7055e134" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_635c81c6290b0689e39517c0137b37da" level="file">
+        <did>
+          <unittitle><emph render="italic">Bread is Rising</emph> : Emmaus House, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_c124c7192cd373ed6576c15b169e53cd" label="Mixed Materials [31142063011368]" type="Box">2</container>
+          <container id="aspace_2c50177e6d2875edc79efc9301c919bf" parent="aspace_c124c7192cd373ed6576c15b169e53cd" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_3d01f316c824ce634ea61b7b9d87ea11" level="file">
+        <did>
+          <unittitle><emph render="italic">Bulletin</emph> : National Executive Committee of the Workmen's Circle, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_cca6eb0566c1702aec3c1e14b1256cac" label="Mixed Materials [31142063011376]" type="Box">3</container>
+          <container id="aspace_7a0184c963fb64faf030916e360561f1" parent="aspace_cca6eb0566c1702aec3c1e14b1256cac" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_252f617c6c516fc067b3000a5189f837" level="file">
+        <did>
+          <unittitle><emph render="italic">Caribbean Contact</emph> : Caribbean Contact Ltd., Bridgetown, Barbados</unittitle>
+          <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_2ded48a3382f784b8732e9db17b49b8f" label="Mixed Materials [31142063011426]" type="Box">8</container>
+          <container id="aspace_f19ea72d63fff75224148353a55611b5" parent="aspace_2ded48a3382f784b8732e9db17b49b8f" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_625160cacd8484caef6b959322c9ddb2" level="file">
+        <did>
+          <unittitle><emph render="italic">CASA Maria Cry</emph> : Catholic Worker Movement, Milwaukee, WI</unittitle>
+          <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b4c8c8be5300fe01ce26010a489b8090" label="Mixed Materials [31142063011442]" type="Box">10</container>
+          <container id="aspace_69e85acb64daf9566f7acb88470a2ed2" parent="aspace_b4c8c8be5300fe01ce26010a489b8090" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_f42c25b7585da2d972bd20ec3b108fca" level="file">
+        <did>
+          <unittitle><emph render="italic">Catholic Radical</emph> : Casa Maria Community, Milwaukee, WI</unittitle>
+          <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_7d65efea4ec3d1fa481b9226319aefb9" label="Mixed Materials [31142063011426]" type="Box">8</container>
+          <container id="aspace_0c8cff48be2e4df4e19dc3caf9070f30" parent="aspace_7d65efea4ec3d1fa481b9226319aefb9" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ca281d9a9abe38644986c429d95a1b8e" level="file">
+        <did>
+          <unittitle><emph render="italic">Christian Crusade Weekly</emph> : Christian Crusade, Tulsa, OK</unittitle>
+          <unitdate datechar="creation" normal="1970/1972" type="inclusive">1970-1972</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_7b2bd43bd2005abb8658d25477af1b5f" label="Mixed Materials [31142063011426]" type="Box">8</container>
+          <container id="aspace_1d783ff1cffebf21269f6e1b60df48e0" parent="aspace_7b2bd43bd2005abb8658d25477af1b5f" type="Folder">7-14</container>
+        </did>
+      </c>
+      <c id="aspace_569c7769da40b0271580a8c023f3d134" level="file">
+        <did>
+          <unittitle><emph render="italic">Christian News</emph> : Christian News, New Haven, MO</unittitle>
+          <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_2eb7e75727b7df9995283590cbe4ab9f" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_2aa2a30406c4c0c72f021238d132ddac" parent="aspace_2eb7e75727b7df9995283590cbe4ab9f" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_e23d3fcb5c64aca9ab4abb26a9f6eece" level="file">
+        <did>
+          <unittitle><emph render="italic">Circleite</emph> : Workmen's Circle, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1947/1950" type="inclusive">1947-1950</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_944c9800885345fad383e05a42bf8020" label="Mixed Materials [31142063011442]" type="Box">10</container>
+          <container id="aspace_0faa1c5cca70521f4c3ac62215bb461b" parent="aspace_944c9800885345fad383e05a42bf8020" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_bd2013833a07fcbcfbeaab5cd23851b5" level="file">
+        <did>
+          <unittitle><emph render="italic">Commentary Report</emph> : American Jewish Committee, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_b35197d4aa70d5d223be12127df3a487" label="Mixed Materials [31142063011376]" type="Box">3</container>
+          <container id="aspace_9eaad19ed6123737c07a09bf7d80ef1c" parent="aspace_b35197d4aa70d5d223be12127df3a487" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_27ee614e1d024f6cf81f2a9591eeb194" level="file">
+        <did>
+          <unittitle><emph render="italic">Common Sense</emph> : Jewish Centers Association, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1971/1973" type="inclusive">1971-1973</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_9c206aefbf46e9a9fc0f13e9a64f98f9" label="Mixed Materials [31142063011426]" type="Box">8</container>
+          <container id="aspace_33dac29887198a38b5d6c9422b034bdd" parent="aspace_9c206aefbf46e9a9fc0f13e9a64f98f9" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_35ff02def667d5ba718130e48d3e5ec2" level="file">
+        <did>
+          <unittitle><emph render="italic">Community Relations Division Report</emph> : American Friends Service Committee, Philadelphia, PA</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_7b28a3496c9c1a7614b9753fd7c766c7" label="Mixed Materials [31142063011376]" type="Box">3</container>
+          <container id="aspace_783844cd42e7dde82bfdfa62df2217bd" parent="aspace_7b28a3496c9c1a7614b9753fd7c766c7" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_7f73f3371fe3f9871a4f19a8e7b21d16" level="file">
+        <did>
+          <unittitle><emph render="italic">Congress Bi-Weekly</emph> : American Jewish Congress, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_56fa67c9f1733e385fa3a87a538b8b09" label="Mixed Materials [31142063011376]" type="Box">3</container>
+          <container id="aspace_9cbd212d0a6f716d8450b3133e79f7e6" parent="aspace_56fa67c9f1733e385fa3a87a538b8b09" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_c495ee4b85ff8f51b79ae8e4406b964f" level="file">
+        <did>
+          <unittitle><emph render="italic">Converted Catholic Magazine</emph> : Christ's Mission, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_f8b012c76746611864eade352e3fb8fc" label="Mixed Materials [31142063011376]" type="Box">3</container>
+          <container id="aspace_afa741eeaa2f2f6240990113418623a9" parent="aspace_f8b012c76746611864eade352e3fb8fc" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_4ea12a6895dd14acf1b6481778cbb9d3" level="file">
+        <did>
+          <unittitle><emph render="italic">Corporate Examiner</emph> : Interfaith Center on Corporate Responsibility, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_dfe6e728e03b693662b4356912e06502" label="Mixed Materials [31142063011376]" type="Box">3</container>
+          <container id="aspace_351b6ac6a5903c0e5377fd3bd2362801" parent="aspace_dfe6e728e03b693662b4356912e06502" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ee6e3885c65d97dfbeb28daff01ccca5" level="file">
+        <did>
+          <unittitle><emph render="italic">Digest</emph> : The National Conference on Soviet Jewry, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_aa26c5f8d52116b367dedc46739caa00" label="Mixed Materials [31142063011376]" type="Box">3</container>
+          <container id="aspace_697f8baf24a16d708b955c8a72567f72" parent="aspace_aa26c5f8d52116b367dedc46739caa00" type="Folder">9-17</container>
+        </did>
+      </c>
+      <c id="aspace_533e7d8195fb02c6bfcdd11f8aea7ad2" level="file">
+        <did>
+          <unittitle><emph render="italic">Encuentro</emph> : Kibutz Artzi, Tel Aviv, Israel</unittitle>
+          <unitdate datechar="creation" normal="1983/1986" type="inclusive">1983-1986</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_b6e5565951fb5972e8a47f43eccad514" label="Mixed Materials [31142063011376]" type="Box">3</container>
+          <container id="aspace_60cb1ac9d3cf1aec4b426805e5cf2cb4" parent="aspace_b6e5565951fb5972e8a47f43eccad514" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_7022da14af9618d23b1ae01a26af7475" level="file">
+        <did>
+          <unittitle><emph render="italic">Exegesis</emph> : Church of Nature, Dryden, MI</unittitle>
+          <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_e055515b774771804f7a88c595e23247" label="Mixed Materials [31142063011376]" type="Box">3</container>
+          <container id="aspace_6c6cba6c0a531dd717ffd1e5419d8337" parent="aspace_e055515b774771804f7a88c595e23247" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_5a8052baff7897d4d765e9ed487dbe73" level="file">
+        <did>
+          <unittitle><emph render="italic">Festivals</emph> : Resource Publications, Inc., San Jose, CA</unittitle>
+          <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_df2b69bf069a129422b57656b056328f" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_1e0bc85a2d8307a66ce3d038b2d01cce" parent="aspace_df2b69bf069a129422b57656b056328f" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_feaddd6662eb24b0461bfc46f94cfbf5" level="file">
+        <did>
+          <unittitle><emph render="italic">Firmest Bond</emph> : AL-URWA AL-WATHQA, Geneva, Switzerland</unittitle>
+          <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_a2ca957de505ff5f64fb154793c84732" label="Mixed Materials [31142063011350]" type="Box">1</container>
+          <container id="aspace_3550ef5d23e55fd4c58dd77908f2772f" parent="aspace_a2ca957de505ff5f64fb154793c84732" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_112c056a89ad1ad6a55b9b38c16ce3be" level="file">
+        <did>
+          <unittitle><emph render="italic">Folk Un Zion</emph> : Executive of the World Zionist Organization, Jerusalem, Israel, Information Department, Jerusalem, Israel</unittitle>
+          <unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7aa9bec8ebe3c073a0bac310a3556064" label="Mixed Materials [31142063011442]" type="Box">10</container>
+          <container id="aspace_26ea8e3bdbc6620d2f457a7b4ee990a3" parent="aspace_7aa9bec8ebe3c073a0bac310a3556064" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_dfdb7f39406df38b1128a12e88a9af4d" level="file">
+        <did>
+          <unittitle><emph render="italic">Freedom Magazine</emph> : Church of Scientology Western United States, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1986/1989" type="inclusive">1986-1989</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_31824cbd86e832a857efecfd99c3907d" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_1b30af2b3ced75bfb9eb5b40d6a07485" parent="aspace_31824cbd86e832a857efecfd99c3907d" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_4d81e6bad15093e91dbeedc592bf5f9c" level="file">
+        <did>
+          <unittitle><emph render="italic">Genesis 2</emph> : Rebirth 2, Inc., Cambridge, MA</unittitle>
+          <unitdate datechar="creation" normal="1986/1989" type="inclusive">1986-1989</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_abcc754bdabb3e0d196c45d443612a07" label="Mixed Materials [31142063011350]" type="Box">1</container>
+          <container id="aspace_767bf1958bac330b4af7c6e2160338fc" parent="aspace_abcc754bdabb3e0d196c45d443612a07" type="Folder">2-5</container>
+        </did>
+      </c>
+      <c id="aspace_c2307b700fb9b239a29cb6674dcb3bd6" level="file">
+        <did>
+          <unittitle><emph render="italic">Heritage : A Jewish Family Weekly</emph> : Heritage Publishing Company, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_2f4b72d0f55d8215c1d424a53b3d27d1" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_31f89612b1d3146085e8a697c7a13994" parent="aspace_2f4b72d0f55d8215c1d424a53b3d27d1" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_b0ec8f39129ac91e028c9987115d23c2" level="file">
+        <did>
+          <unittitle><emph render="italic">Horizons of Culture &amp; Life</emph> : The Workmen's Circle, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1990/1991" type="inclusive">1990-1991</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_be0f4ba39ad16d7a384766fe716ce0ba" label="Mixed Materials [31142063011350]" type="Box">1</container>
+          <container id="aspace_8f1e13192396d04202f16fb7e6e43159" parent="aspace_be0f4ba39ad16d7a384766fe716ce0ba" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_d042d4c3ab071496a843958b05a2a001" level="file">
+        <did>
+          <unittitle><emph render="italic">IFCO News</emph> : IFCO Interreligious Foundation for Community Organization, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1974/1996" type="inclusive">1974-1996</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_9d0fc6e0c0756b8138793c937f281ef8" label="Mixed Materials [31142063011350]" type="Box">1</container>
+          <container id="aspace_804089fe28cca5f412b4d4f21d7c1993" parent="aspace_9d0fc6e0c0756b8138793c937f281ef8" type="Folder">8</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_fd41233b5324bc65b9e98bfbb604a126" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_d7073c013072d7deec08874e15fcb48b" parent="aspace_fd41233b5324bc65b9e98bfbb604a126" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_e241308f67793b01141193c9f3b774d8" level="file">
+        <did>
+          <unittitle><emph render="italic">Information Bulletin</emph> : Va'ad Politi of Hashomer Hatzair</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_c06fda76c83063d1f7f02790b3d05d23" label="Mixed Materials [31142063011350]" type="Box">1</container>
+          <container id="aspace_5c4f47bd51ed90745e53607ada557104" parent="aspace_c06fda76c83063d1f7f02790b3d05d23" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_36d7cb273f8a6f5d812a2b3291da59f4" level="file">
+        <did>
+          <unittitle><emph render="italic">Interfaith Council for Peace and Justice</emph> : Interfaith Council for Peace and Justice, Ann Arbor, MI</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_c127fa386f5d8335f6f2dbac05addfec" label="Mixed Materials [31142063011350]" type="Box">1</container>
+          <container id="aspace_f3aacffc811d8ceb75aa6eb0463f12fa" parent="aspace_c127fa386f5d8335f6f2dbac05addfec" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_e8b1d82f0276bda44867967d6545dfc4" level="file">
+        <did>
+          <unittitle><emph render="italic">Issues</emph> : American Council for Judaism, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_3341605b97f9180597b70b1bb27b0739" label="Mixed Materials [31142063011350]" type="Box">1</container>
+          <container id="aspace_7e32cdcd48b2ab548b46abfb17d29364" parent="aspace_3341605b97f9180597b70b1bb27b0739" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_0a9cde05dde245b2ebdfec08ff64454b" level="file">
+        <did>
+          <unittitle><emph render="italic">JDL &amp; Soviet Jewry</emph> : Jewish Defense League, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_4532c55adbe317e01e860b6415827063" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_8ad7d01f5a8d109982cf87b60f7e4419" parent="aspace_4532c55adbe317e01e860b6415827063" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_5ac45002b1aefc08ba387506e5948830" level="file">
+        <did>
+          <unittitle><emph render="italic">Jewish Chronicle</emph> : Jewish Chronicle Newspapers Ltd., London, UK</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2f989cb6a4877c54bb7da4653810cd80" label="Mixed Materials [31142063011442]" type="Box">10</container>
+          <container id="aspace_864dad2598cb5d7876953ade838367a4" parent="aspace_2f989cb6a4877c54bb7da4653810cd80" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_62ed3016cc001d8319bd1a69873646fc" level="file">
+        <did>
+          <unittitle><emph render="italic">Josephite Harvest</emph> : Society of St. Joseph of the Sacred Heart, Baltimore, MD</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_e1ec8a91ce639d4481ce50b6e8d55d08" label="Mixed Materials [31142063011350]" type="Box">1</container>
+          <container id="aspace_d41a8af6685728af8c225fcb05a65a49" parent="aspace_e1ec8a91ce639d4481ce50b6e8d55d08" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_4457624d1961e16407ff2aa74eb6f4e5" level="file">
+        <did>
+          <unittitle><emph render="italic">Kadima</emph> : Kadima, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_084846973173a503d7abca411d284d17" label="Mixed Materials [31142063011350]" type="Box">1</container>
+          <container id="aspace_bdab459aa4c590cfe97fa98e2e9a853c" parent="aspace_084846973173a503d7abca411d284d17" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_4233b95d8673fa30488dcaf2754bc7c0" level="file">
+        <did>
+          <unittitle><emph render="italic">Kadima</emph> : Jewish Student Association, Champaign, IL</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_3af7aa065484137a4ef48197db06d2a2" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_630e16123aaf51feceb21cb14e279cc8" parent="aspace_3af7aa065484137a4ef48197db06d2a2" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_2662ab9d9096b13ac8a029acff684be8" level="file">
+        <did>
+          <unittitle><emph render="italic">Kibbutz Journal</emph> : Kibbutz Aliya Desk, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_091e151d0e3781b708a673220875453d" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_7a02558ceff18eb1d3371aa2b15d8ecb" parent="aspace_091e151d0e3781b708a673220875453d" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_0acf930402391569b3322e17c84967f7" level="file">
+        <did>
+          <unittitle><emph render="italic">La Revue du FSJU (Le Fonds Social Juif Unifie)</emph> : Imprimerie Chateaudun, Paris, France</unittitle>
+          <unitdate datechar="creation" normal="1950/1959" type="inclusive">Undated</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_3b310182bbe62472813d1ae8f14c1e9a" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_e10edaf6b2eac017b62d75d01e8fcdfc" parent="aspace_3b310182bbe62472813d1ae8f14c1e9a" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_55193f6fee46f0429d6182332cee88ed" level="file">
+        <did>
+          <unittitle><emph render="italic">Little Way</emph> : Dorothy Day &amp; Olive Branch Catholic Workers, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_01e4c8c003e6d069f6e2709f7a8c3982" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_0d9f1c6ecf8641c2dbac6d95c3df5168" parent="aspace_01e4c8c003e6d069f6e2709f7a8c3982" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_c3826ae479f7265ac57ee4e5a935c2a2" level="file">
+        <did>
+          <unittitle><emph render="italic">Little Way</emph> : Dorothy Day Catholic Worker, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_0ecdc9794670d0cf16f996a419e5f263" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_9d9840db1d622585fb90e37e84b44332" parent="aspace_0ecdc9794670d0cf16f996a419e5f263" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_5744feb961f4937306ae32de8a45c00a" level="file">
+        <did>
+          <unittitle><emph render="italic">Lumiere et Vie: Revue de Formation Doctrinale Chretienne</emph> : Saint-Alban-Leysse, Savoie, Lyon, France</unittitle>
+          <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_f114a6152c6d3fa3e9e4fd9116d8e234" label="Mixed Materials [31142063011350]" type="Box">1</container>
+          <container id="aspace_9b0f7a8114fd8cad1791210e1532f6d9" parent="aspace_f114a6152c6d3fa3e9e4fd9116d8e234" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_7eba4f5323faf79e343bd429aff56c2e" level="file">
+        <did>
+          <unittitle><emph render="italic">Material Aids Newsletter</emph> : American Friends Service Committee, Philadelphia, PA</unittitle>
+          <unitdate datechar="creation" normal="1995/1996" type="inclusive">1995-1996</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_88900824b06cd04d348d7e8ba2a965ed" label="Mixed Materials [31142063011368]" type="Box">2</container>
+          <container id="aspace_2d51ceefc6fba7430c2e15e760161e49" parent="aspace_88900824b06cd04d348d7e8ba2a965ed" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_da30f7a297de2468a1149ad5328c81ad" level="file">
+        <did>
+          <unittitle><emph render="italic">Michael Fighting</emph> : Michael Fighting, Rougemont, Quebec</unittitle>
+          <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_bf669123d97ef41c8e30157ebe2153c8" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_479e6f6a93dc714d9c00a6790c72d119" parent="aspace_bf669123d97ef41c8e30157ebe2153c8" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_403cb5cfd8eb5ca5ffbb1c74c8d8b984" level="file">
+        <did>
+          <unittitle><emph render="italic">Midstream</emph> : Theodor Herzl Foundation, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1966/1973" type="inclusive">1966-1973</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_00cb4af067476f38ccfe0c64c285181a" label="Mixed Materials [31142063011368]" type="Box">2</container>
+          <container id="aspace_451e9667cd1a8f6f8935b3864f70f3a9" parent="aspace_00cb4af067476f38ccfe0c64c285181a" type="Folder">8-9</container>
+        </did>
+      </c>
+      <c id="aspace_ab3b8563f163c7bec4162b2f27b7a00b" level="file">
+        <did>
+          <unittitle><emph render="italic">Militant Truth</emph> : Christian Citizens Crusade, Inc., Atlanta, GA</unittitle>
+          <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_db387e35e6a5293c8956d61c7f7593a0" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_d7626bb0d6b275ea77266b08bc7876fe" parent="aspace_db387e35e6a5293c8956d61c7f7593a0" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_8f542f1a5de8da6e2bb7b10f5d0aced0" level="file">
+        <did>
+          <unittitle><emph render="italic">Morim Newsletter of the J.T.A.</emph> : Jewish Teachers Association, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_f069083aa8132e27dfd39a7da0c6c10b" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_1c72b7f8a9130364030002690b007875" parent="aspace_f069083aa8132e27dfd39a7da0c6c10b" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_cab97b0bf3ca6ac417147817589290c7" level="file">
+        <did>
+          <unittitle><emph render="italic">Motive</emph> : Board of Education of The United Methodist Church, Nashville, TN</unittitle>
+          <unitdate datechar="creation" normal="1962/1964" type="inclusive">1962-1964</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_d477e2f1f0f0fac948025fc349ec50e9" label="Mixed Materials [31142063011350]" type="Box">1</container>
+          <container id="aspace_38d5abcaa1ae93e7036abf13e62d71e2" parent="aspace_d477e2f1f0f0fac948025fc349ec50e9" type="Folder">14-15</container>
+        </did>
+      </c>
+      <c id="aspace_cb5daa4421733da2aa94739637bb5556" level="file">
+        <did>
+          <unittitle><emph render="italic">Motive</emph> : Division of Higher Education of the Board of the United Methodist Church, Nashville, TN</unittitle>
+          <unitdate datechar="creation" normal="1962/1970" type="inclusive">1962-1970</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_03c83760608b539d93d11db05e108e41" label="Mixed Materials [31142063011368]" type="Box">2</container>
+          <container id="aspace_f136145fb672cfaf8e51ae68aac8f2dc" parent="aspace_03c83760608b539d93d11db05e108e41" type="Folder">1-3</container>
+        </did>
+      </c>
+      <c id="aspace_a4d60ff48bbcaadf0e88081e8daea169" level="file">
+        <did>
+          <unittitle><emph render="italic">Motive</emph> : Methodist Student Movement / Motive, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_dd7ea12d76896111eb1d3e6bde7cdb78" label="Mixed Materials [31142063011368]" type="Box">2</container>
+          <container id="aspace_df3b81757b87658f279516431f33577c" parent="aspace_dd7ea12d76896111eb1d3e6bde7cdb78" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_aa904f5e53038d83b2d11ef5ec2f0d7c" level="file">
+        <did>
+          <unittitle><emph render="italic">Na'amat Woman</emph> : Na'amat USA, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1989/1996" type="inclusive">1989-1996</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_fca80376a44dc329f92a3759fe61dfcc" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_e72e81ce6266adcce0ef150e42660765" parent="aspace_fca80376a44dc329f92a3759fe61dfcc" type="Folder">7-8</container>
+        </did>
+      </c>
+      <c id="aspace_f55f27a892d31e2b9f6626824a0dc492" level="file">
+        <did>
+          <unittitle><emph render="italic">National Christian News</emph> : National Christian News, St. Petersburg, FL</unittitle>
+          <unitdate datechar="creation" normal="1962/1964" type="inclusive">1962-1964</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_1c5640ab76da55902fc30867cbd318d6" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_6cbb326099dfbe660d529be2eeb09fe4" parent="aspace_1c5640ab76da55902fc30867cbd318d6" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_29f655930069f96df7f786927349a303" level="file">
+        <did>
+          <unittitle><emph render="italic">National Laymen's Digest</emph> : National Laymen's Council of the Church League of America, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_bb4d03059d6c9fb5c0e116e8a528de0b" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_451614866cdd8a443a5f33241c306fbb" parent="aspace_bb4d03059d6c9fb5c0e116e8a528de0b" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_9d7de98a480b21f4f0cbbb0f028c190e" level="file">
+        <did>
+          <unittitle><emph render="italic">NAWR Trends</emph> : National Assembly of Women Religious, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1974/1976" type="inclusive">1974-1976</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_0d88e71e7493ce98300330b1070eb3d1" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_1f511d18db0240bb5bfe2601d9c5f7f0" parent="aspace_0d88e71e7493ce98300330b1070eb3d1" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_958fa32a99f70ca789a374f543c78d4a" level="file">
+        <did>
+          <unittitle><emph render="italic">New Jewish Agenda</emph> : New Jewish Agenda, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_056e4a72d8449a2083748688f3e04450" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_72d02251ebdbd6555d7e31e5357e602c" parent="aspace_056e4a72d8449a2083748688f3e04450" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_f5b6058351cfef1a49dcb0b1de946572" level="file">
+        <did>
+          <unittitle><emph render="italic">New Jewish Agenda</emph> : New Jewish Agenda - Manhattan Chapter, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1982/1990" type="inclusive">1982-1990</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_b6e7c33a58de1e1fd3d6341b56c2758b" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_629143a7244342189898c19a1bdb9e03" parent="aspace_b6e7c33a58de1e1fd3d6341b56c2758b" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_0bcf208f9426fecb00f646401d153730" level="file">
+        <did>
+          <unittitle><emph render="italic">New Jewish Times : A Journal of Planetary Renewal</emph> : The Martin Steinberg Center for Jewish Artists, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_4dc37b602b6eda9fb729cb212e38bccc" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_2be115463fd021e73416af7a831436b8" parent="aspace_4dc37b602b6eda9fb729cb212e38bccc" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_1e8eea8b73fbb1bdea1320ccfb12835d" level="file">
+        <did>
+          <unittitle><emph render="italic">News &amp; Views</emph> : National Laymen's Council of the Church League of America, Wheaton, IL</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_6901c00b6ced2aa8a2b14535f6e49f88" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_aaed5b6e89decfee24639db1915977a1" parent="aspace_6901c00b6ced2aa8a2b14535f6e49f88" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_559bb0f65f04760c5af5db2d42efdb36" level="file">
+        <did>
+          <unittitle><emph render="italic">Newsletter</emph> : Religious Society of Friends, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_1e9ba90ea2062574fbcd105617afbf87" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_f2d59d3d3e88908d491c3ee736d77d02" parent="aspace_1e9ba90ea2062574fbcd105617afbf87" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_84a321a22c94877af81114d6d3db9828" level="file">
+        <did>
+          <unittitle><emph render="italic">Newsletter</emph> : Jama'a-tul Muslimiin, Brooklyn, NY</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_5c87cde917e96bbdce544c999560ba4c" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_d492bf2088dc3fd9b8a180697377f0e3" parent="aspace_5c87cde917e96bbdce544c999560ba4c" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_17e228bb7684317ca222ad8088015b1c" level="file">
+        <did>
+          <unittitle><emph render="italic">Nitzotz</emph> : Radical Zionist Alliance, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1972/1973" type="inclusive">1972-1973</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_5db5c5d593e8baf642e5b8d0a9aa3249" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_4072a88f96991549807f4b8e51384132" parent="aspace_5db5c5d593e8baf642e5b8d0a9aa3249" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_93e972a53512f0f2c66376c0e61eea84" level="file">
+        <did>
+          <unittitle><emph render="italic">Opinion - A Journal of Jewish Life and Letters</emph> : Jewish Opinion Publishing Corporation, New Haven, CT</unittitle>
+          <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1e6545828dadf54d26a227aa4dc2e6ad" label="Mixed Materials [31142063011442]" type="Box">10</container>
+          <container id="aspace_9bcc6e1bb57c9f210b2265e6071e1579" parent="aspace_1e6545828dadf54d26a227aa4dc2e6ad" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_af9927861382340f3610943645b3510c" level="file">
+        <did>
+          <unittitle><emph render="italic">Origins</emph> : Catholic News Service, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_603cacb2edb3a3971c733c71728d76ee" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_d3bb2acea879a8b718a1b218ad4bd955" parent="aspace_603cacb2edb3a3971c733c71728d76ee" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_3ffa5a347e1138751d474c03100b282d" level="file">
+        <did>
+          <unittitle><emph render="italic">Other Americans</emph> : Other Americans, Baltimore, MD</unittitle>
+          <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_a95c6fa7592c7f3613f31fb352479287" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_bbc77a0fbacef3d103a3c2d8131c9bcc" parent="aspace_a95c6fa7592c7f3613f31fb352479287" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_fd162d05fc9d37f00533460376d5872b" level="file">
+        <did>
+          <unittitle><emph render="italic">Parents' Bulletin</emph> : Education Department of the Workmen's Circle, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1954/1955" type="inclusive">1954-1955</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_080defe908b0b7e8fb73b73d2c28e4a3" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_55544f977524fdace1362a1434c559d7" parent="aspace_080defe908b0b7e8fb73b73d2c28e4a3" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_2b7b68f031b5cefc6849cb16ae7b6859" level="file">
+        <did>
+          <unittitle><emph render="italic">Pendle Hill Bulletin</emph> : Society of Friends, Wallingford, PA</unittitle>
+          <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_4a2973860c3ac6b6ad7ba8557bf95695" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_4c894e83d3289f4097506b5a946dfb39" parent="aspace_4a2973860c3ac6b6ad7ba8557bf95695" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_c1be3141349a4b2623cc7fcb1a95db07" level="file">
+        <did>
+          <unittitle><emph render="italic">Politics of People</emph> : Department of Church in Society, Canada</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5f25d818a73d2ce7913bcc8d1c6c0b80" label="Mixed Materials [31142063011442]" type="Box">10</container>
+          <container id="aspace_b1e0920a0c30c827850bff8dddc3fc9d" parent="aspace_5f25d818a73d2ce7913bcc8d1c6c0b80" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_14bae328b61bd3ac89173fcdf89f661e" level="file">
+        <did>
+          <unittitle><emph render="italic">Post American</emph> : People's Christian Coalition, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_1d1ed63cdc41165d5934ce5106968207" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_cbc037b0897c14374246902212ac34da" parent="aspace_1d1ed63cdc41165d5934ce5106968207" type="Folder">18-19</container>
+        </did>
+      </c>
+      <c id="aspace_914a6529e21eb9c3a640a4843f104bef" level="file">
+        <did>
+          <unittitle><emph render="italic">Post American</emph> : People's Christian Coalition, Deerfield, IL</unittitle>
+          <unitdate datechar="creation" normal="1972/1974" type="inclusive">1972-1974</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_2fc491da0ab3703bc3da3302b94ed13f" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_9c31515c77acab6d6a34e4e83523de4b" parent="aspace_2fc491da0ab3703bc3da3302b94ed13f" type="Folder">20-22</container>
+        </did>
+      </c>
+      <c id="aspace_103345f020ad0a47e51ad380376405dc" level="file">
+        <did>
+          <unittitle><emph render="italic">Protestant</emph> : Protestant Digest, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1943/1949" type="inclusive">1943-1949</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_6b822b2487bd8090529472f6cc047fd5" label="Mixed Materials [31142063011384]" type="Box">4</container>
+          <container id="aspace_a32c40db3978dae91fc008ee53fdfc9f" parent="aspace_6b822b2487bd8090529472f6cc047fd5" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_db585b64b8785b9a16f3e7f1870ae750" level="file">
+        <did>
+          <unittitle><emph render="italic">Radix</emph> : Davenport Catholic Worker Houses, Davenport, IA</unittitle>
+          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_adee959a04171882eacb789bc2ba4152" label="Mixed Materials [31142063011392]" type="Box">5</container>
+          <container id="aspace_01e0c1f9a00e584127cdcd7cadd8e9ac" parent="aspace_adee959a04171882eacb789bc2ba4152" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ce49f57574a7222f50122b433025728a" level="file">
+        <did>
+          <unittitle><emph render="italic">Report</emph> : Mennonite Central Committee, Akron, PA</unittitle>
+          <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_4a614862d07286d3ce73bcc95c8db20e" label="Mixed Materials [31142063011392]" type="Box">5</container>
+          <container id="aspace_bbf370efba2e93246ff8148ae59edb3f" parent="aspace_4a614862d07286d3ce73bcc95c8db20e" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_f8b44ec8016a21a9dffa5d0d1f694ad3" level="file">
+        <did>
+          <unittitle><emph render="italic">Report</emph> : American Jewish Alternatives to Zionism, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1969/1973" type="inclusive">1969-1973</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_7df51d18109b81e55bb22adfac8cea94" label="Mixed Materials [31142063011418]" type="Box">7</container>
+          <container id="aspace_ae44ee8e0d16049741a4e3485d81c54b" parent="aspace_7df51d18109b81e55bb22adfac8cea94" type="Folder">4-8</container>
+          <container altrender="Manuscript box - Letter" id="aspace_41234e09be69f59029d86cdb2169483e" label="Mixed Materials [31142063011400]" type="Box">6</container>
+          <container id="aspace_8f7a283ba6ca4b98e41cdc05f1c6a8e9" parent="aspace_41234e09be69f59029d86cdb2169483e" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_33bd8fa90318aff65f431d05ca92d768" level="file">
+        <did>
+          <unittitle><emph render="italic">Response</emph> : Jewish Student Press Service, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_eab7cc699de8b8c484c28851de33814b" label="Mixed Materials [31142063011392]" type="Box">5</container>
+          <container id="aspace_a5908c77c67af9d2188fb222e8c636db" parent="aspace_eab7cc699de8b8c484c28851de33814b" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_c63962c3e0dfb312f27fb504b51eeb9c" level="file">
+        <did>
+          <unittitle><emph render="italic">Settler</emph> : Haikar Haoved / Moshav Movement, Tel Aviv, Israel</unittitle>
+          <unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_1f41d28668c81e0b1072545fb8e1580d" label="Mixed Materials [31142063011392]" type="Box">5</container>
+          <container id="aspace_4f4b44522a5cce9764bcb3af31e759d6" parent="aspace_1f41d28668c81e0b1072545fb8e1580d" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_2a2ba14cb37a75513752d5da8a4d027c" level="file">
+        <did>
+          <unittitle><emph render="italic">Shalom Network Newsletter</emph> : New Jewish Agenda, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_47d26315012d6db0bf43d66ff97e4f1d" label="Mixed Materials [31142063011392]" type="Box">5</container>
+          <container id="aspace_82a0b1a798798b7a5a7baae1c4a056c5" parent="aspace_47d26315012d6db0bf43d66ff97e4f1d" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_44906a897873aef9ef218090b377aeac" level="file">
+        <did>
+          <unittitle><emph render="italic">Sharing Principles</emph> : American Friends Service Committee, Philadelphia, PA</unittitle>
+          <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_82cc02df2eae00aaa038aa8998414270" label="Mixed Materials [31142063011442]" type="Box">10</container>
+          <container id="aspace_809e8a6ac51da48ce55b7f4546391df0" parent="aspace_82cc02df2eae00aaa038aa8998414270" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_1610e2fd801feb8219fb216c41197051" level="file">
+        <did>
+          <unittitle><emph render="italic">Social Action in Review</emph> : Union of American Hebrew Congregations, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_86ae179e6fba068aa85c36a161ae2150" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_a580868d9e657733a746698153f84ad1" parent="aspace_86ae179e6fba068aa85c36a161ae2150" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_80afa268389748a6fb083a06fd7f6cf5" level="file">
+        <did>
+          <unittitle><emph render="italic">Social Order</emph> : Institute of Social Order, Saint Louis, MO</unittitle>
+          <unitdate datechar="creation" normal="1957/1958" type="inclusive">1957-1958</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_ed14e34e5ab487174c4173638b74282f" label="Mixed Materials [31142063011392]" type="Box">5</container>
+          <container id="aspace_bac35c24700d8e1e4ce39a462cf50bb8" parent="aspace_ed14e34e5ab487174c4173638b74282f" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_43fbf792d5e6c36d171365a7738b8fd1" level="file">
+        <did>
+          <unittitle><emph render="italic">SQB</emph> : Methodist Federation for Social Action, Staten Island, NY</unittitle>
+          <unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_51bfac2f20a059f9a4fa674222ceb509" label="Mixed Materials [31142063011392]" type="Box">5</container>
+          <container id="aspace_89b54b05eeb3e1ec23d6f4b90348e427" parent="aspace_51bfac2f20a059f9a4fa674222ceb509" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_3d83a89af06a22ed7969fbf51bdfd700" level="file">
+        <did>
+          <unittitle><emph render="italic">Truth Seeker</emph> : Truth Seeker Company, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_2f4e061924338a5a5c55760c7fddaca3" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_421477c875968c85b94cb7c0d2d6d35e" parent="aspace_2f4e061924338a5a5c55760c7fddaca3" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_1095923117116901e87bdd6d325dfe7f" level="file">
+        <did>
+          <unittitle><emph render="italic">Unser Tsait</emph> : Atran Center for Jewish Culture, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1963/1972" type="inclusive">1963-1972</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_7e44777ce734584bc30ad9cd4aed3c3c" label="Mixed Materials [31142063011392]" type="Box">5</container>
+          <container id="aspace_8a08cd0f9afd0a556f999ce7b0d7ce92" parent="aspace_7e44777ce734584bc30ad9cd4aed3c3c" type="Folder">8-13</container>
+          <container altrender="Manuscript box - Letter" id="aspace_952b22bfe178717b4f5b1c4d0100e748" label="Mixed Materials [31142063011400]" type="Box">6</container>
+          <container id="aspace_b2d30d2626974df10bdb07f079d68dc6" parent="aspace_952b22bfe178717b4f5b1c4d0100e748" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_c59e1e164bc17ea713ced586b9ddad6a" level="file">
+        <did>
+          <unittitle><emph render="italic">Voice : The Cathedral School Newsletter</emph> : Cathedral School of St. John the Divine, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_23765c719e4c7837968c04772e3dddaa" label="Mixed Materials [31142063011418]" type="Box">7</container>
+          <container id="aspace_54d81e4a0d9b4c4b358632f2409b25ee" parent="aspace_23765c719e4c7837968c04772e3dddaa" type="Folder">3</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_d860dee5492142eba2397d56d05b4878" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_62a5552c769565ef12c2bd6e1b4d38f9" parent="aspace_d860dee5492142eba2397d56d05b4878" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_162b84aa8cbde208b9822d149e53ba04" level="file">
+        <did>
+          <unittitle><emph render="italic">Voice for Human Rights</emph> : Committee of Catholics for Human Rights, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_d55d73cfd7d4d7c721efc255844215ec" label="Mixed Materials [31142063011434]" type="Box">9</container>
+          <container id="aspace_0864a0d5e1cd3c674fb8854a26da848b" parent="aspace_d55d73cfd7d4d7c721efc255844215ec" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_7c26719ccbf771ed892796372713e749" level="file">
+        <did>
+          <unittitle><emph render="italic">Witness</emph> : Episcopal Church Publishing Company, Ambler, PA</unittitle>
+          <unitdate datechar="creation" normal="1983/1991" type="inclusive">1983-1991</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_b529fc5829b42b2fd07efd91645a14af" label="Mixed Materials [31142063011400]" type="Box">6</container>
+          <container id="aspace_ac52661d53c17104202eaf68fcceec3c" parent="aspace_b529fc5829b42b2fd07efd91645a14af" type="Folder">3-10</container>
+        </did>
+      </c>
+      <c id="aspace_3cf590fa6810ccf8e4cd777c989b206f" level="file">
+        <did>
+          <unittitle><emph render="italic">Witness</emph> : Episcopal Church Publishing Co., Detroit, MI</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_8d9dae5a4b164cfeb793ee76be05ca48" label="Mixed Materials [31142063011418]" type="Box">7</container>
+          <container id="aspace_03c9431ff721653cc4eaca2e68596636" parent="aspace_8d9dae5a4b164cfeb793ee76be05ca48" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_bf041e1b0d468f4e3be375c90690570d" level="file">
+        <did>
+          <unittitle><emph render="italic">World Fellowship</emph> : World Fellowship of Faiths, New Haven, CT</unittitle>
+          <unitdate datechar="creation" normal="1954/1956" type="inclusive">1954-1956</unitdate>
+          <container altrender="Manuscript box - Letter" id="aspace_52180d2f91d9536511e4566a18a30565" label="Mixed Materials [31142063011400]" type="Box">6</container>
+          <container id="aspace_5441fa60fef275a078d997f973a1aa58" parent="aspace_52180d2f91d9536511e4566a18a30565" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_0b93b4b431ced4351bc1a9c286523e10" level="file">
+        <did>
+          <unittitle><emph render="italic">Yiddisher Kaempfer</emph> : Der Yiddischer Arbeiter, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_82ddf3df6c889a450d8fbfe5ff9595d7" label="Mixed Materials [31142063011442]" type="Box">10</container>
+          <container id="aspace_278cfe0008a6123c5c02e6d0942cb1c6" parent="aspace_82ddf3df6c889a450d8fbfe5ff9595d7" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_39548915c078ace2884c259e04a2eadf" level="file">
+        <did>
+          <unittitle><emph render="italic">Yiddisher Kemfer</emph> : Labor Zionist Letters, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7c6af392760569a3070deca53aae32f6" label="Mixed Materials [31142063011442]" type="Box">10</container>
+          <container id="aspace_f10795aea4d1a7b9fb5c0664e68548c2" parent="aspace_7c6af392760569a3070deca53aae32f6" type="Folder">6-8</container>
+          <container altrender="Manuscript box - Legal" id="aspace_6703e547283ba5abc2e14b72308a5ee5" label="Mixed Materials [31142063011442]" type="Box">10</container>
+          <container id="aspace_bbbcef8d4ea9508a9393563c635e3b7a" parent="aspace_6703e547283ba5abc2e14b72308a5ee5" type="Folder">10-13</container>
+        </did>
+      </c>
+      <c id="aspace_2c731517d81270125e361279afd44511" level="file">
+        <did>
+          <unittitle><emph render="italic">Yiddisher Kemfer</emph> : Waldon Press, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_68c68c4ec94183c44c397e2dc023bd46" label="Mixed Materials [31142063011442]" type="Box">10</container>
+          <container id="aspace_43e4b14a732709b72ef6501fdfc9641f" parent="aspace_68c68c4ec94183c44c397e2dc023bd46" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_df70fed1d691f18597fc082db2b0c75a" level="file">
+        <did>
+          <unittitle><emph render="italic">Zionist Independent</emph> : Universities Zionist Council of Great Britain &amp; Ireland, London, UK</unittitle>
+          <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+          <container altrender="Manuscript box - Letter - Half" id="aspace_24981fcd3e623a89f67657b7a5a4a148" label="Mixed Materials [31142063011418]" type="Box">7</container>
+          <container id="aspace_0ef76dd0cc197720bae8a62bdee0186d" parent="aspace_24981fcd3e623a89f67657b7a5a4a148" type="Folder">2</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,912 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_241/">tam_241</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Sam Wallach Papers <num>TAM.241</num></titleproper>
+        <author>Jan Hilley</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>09/14/09</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 04:37:54 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Sam Wallach Papers</unittitle>
+      <origination label="Creator">
+        <persname source="local">Wallach, Sam</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="naf">Wallach Scott, Joan</persname>
+      </origination>
+      <unitid>TAM.241</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3.75 Linear Feet</extent>
+        <extent altrender="carrier">in 3 record cartons and 2 manuscript boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1921/2001" type="inclusive">1921-2001</unitdate>
+      <unitdate datechar="creation" normal="1935/1999" type="bulk">1935-1999</unitdate>
+      <abstract id="aspace_fa84cebb7c841cb08b8572d12fc92a3f">The Sam Wallach Papers include materials from Sam Wallach (1909-2001) and Rose Russell (1899-1965) New York teachers who were active in the Teachers' Union in the 1940s and 1950s.  Wallach was fired by the New York City Board of Education in 1951 for refusal to cooperate with various bodies investigating Communism.</abstract>
+      <physloc id="aspace_d208cf389e2a2c53aaeb01890b4a874e">Series V: Audiovisual materials stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to research visit.</physloc>
+      <langmaterial id="aspace_00176eb11384f12f6c42a2e679eba148">Materials are in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_4fdf11b6392c31667db9f23b2bf48337">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_9e21c6fd4729e60ac40a514ee5e261d3">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials were donated by Joan Wallach Scott in 2001. The accession numbers associated with this collection are 2001.201, 2001.202, and NPA.2008.006.</p>
+    </acqinfo>
+    <arrangement id="aspace_387c5b2b6e2a42aa2ff610198d5ef96d">
+      <head>Arrangement</head>
+      <p>Folders are arranged alphabetically.  The collection is composed of the following four series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>Series I:  Personal Papers</item>
+        <item>Series II:  Rose Russell Material</item>
+        <item>Series III:  Subject Files</item>
+        <item>Series IV: Photographs</item>
+        <item>Series V: Audiovisual Materials</item>
+      </list>
+    </arrangement>
+    <bioghist id="aspace_0bb594cafe9cd44a13957e8e1392804c">
+      <head>Historical/Biographical Note</head>
+      <p>Born in Dolina, Poland, on July 1, 1909, Sam Wallach came to the United States with his parents when he was about 10 months old.  He grew up in Brooklyn, the oldest of four children.  After attending Brooklyn Technical High School, he studied at City College of the City of New York, graduating in 1929.  He was a playground director in Brooklyn and then a high school teacher of economics and history.  He joined the Teachers' Union and became one if its leaders, serving as President from 1945 until 1948.  </p>
+      <p>In 1948, Wallach was called by the Hartley Congressional Labor Committee in its investigation of the Teachers Union. He repeatedly asserted  that the Committee had no right to investigate personal or political beliefs. His statement, published in <emph render="italic">The New York Times</emph>, was defended by sixty notable thinkers and educators, including Albert Einstein.</p>
+      <p>In 1949 The New York State Legislature passed the Feinberg Law, which demanded that the Board of Education seek out subversives and Communists and bar them from teaching.  From 1951 to 1956, dozens of city school teachers were dismissed and blacklisted; Sam Wallach was one of the first.</p>
+      <p>He worked in a variety of jobs after his dismissal, including creating educational filmstrips for National Teaching Aids, and then took a position at Maimonides Developmental Center advocating for mentally retarded children.  He helped formulate strategy for "mainstreaming" students and for establishing residential group homes for the retarded.</p>
+      <p>In December, 1976, as he was about to retire from Maimonides, he and nine of the other teachers who had been dismissed in the 1950s, were reinstated and awarded pension benefits by the New York City Board of Education.</p>
+      <p>Sam Wallach was married for 56 years to Lottie Tanenbaum.  They had two daughters, Joan Wallach Scott and Ruth Wallach Frankel.  Wallach died on February 14, 2001, at the age of 91.</p>
+    </bioghist>
+    <custodhist id="aspace_b9c6e1e94fed64e23bf28ac01ad8f49b">
+      <head>Custodial History</head>
+      <p>Gift of Joan Wallach Scott, 2001.  The Rose Russell material was entrusted to the Wallach family by Harris Russell, Rose Russell's husband, after her death in 1965.</p>
+    </custodhist>
+    <prefercite id="aspace_106b0c761815bb1de206bbcd90c9e6e8">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Sam Wallach Papers; TAM 241; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <processinfo id="aspace_e480fa5137a1d4b5eaa37ff48244b18c">
+      <head>Processing Information</head>
+      <p>Photographs were separated from this collection during initial processing and were established as a separate collection, the Sam Wallach Photographs (PHOTOS 251). In 2013, the photograph collection was reincorporated into the Sam Wallach Papers.  Audiovisual materials were also separated from this collection during initial processing and were reincorporated into the Sam Wallach Papers as Series V in 2014.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_c7a44946898c6e66fd5f4cd21f7e1fdc">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>Frederic Ewen Audiotape and Videotape Collection. Contains the transcript of an interview with Sam Wallach on May 2, 1990 (OH 52)</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_90b9e1b17394be7aec96f63fcc5a23cf">
+      <head>Scope and Content Note</head>
+      <p>The Sam Wallach Papers include materials from Sam Wallach (1909-2001) and Rose Russell (1899-1965).  The collection includes Wallach's correspondence; clippings; materials relating to Wallach's suspension, dismissal and subsequent reinstatement; his FBI surveillance file and items from his second career working with the mentally retarded.  The bulk of Rose Russell's material is correspondence relating to the Teachers' Union and photographs of union events.  The collection also includes audio materials (vinyl records and reel to reel tapes).</p>
+    </scopecontent>
+    <phystech id="aspace_a7e47959eb91d4bf442e501d2ad980e1">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Access to audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <userestrict id="aspace_74378cd8e205b4480ef054fb40566d42">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by Joan Wallach Scott, the daughter of Sam Wallach, were transferred to New York University in 2001. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Photographs.</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Slides (photographs)</genreform>
+      <subject source="lcsh">Teachers' unions -- New York (State) -- New York</subject>
+      <genreform source="aat">Black-and-white photographs.</genreform>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <subject source="lcsh">Teachers' unions |z New York (State) |z New York |x History |y 20th century.</subject>
+      <genreform source="aat">Eulogies</genreform>
+      <subject source="lcsh">Academic freedom |z New York (State) |z New York.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Legal documents.</genreform>
+      <persname source="naf">Russell, Rose.</persname>
+      <corpname source="naf">Teachers' Union of the City of New York</corpname>
+      <persname source="local">Wallach, Sam</persname>
+      <persname source="naf">O'Casey, Sean, 1880-1964</persname>
+      <persname role="dnr" rules="dacs" source="naf">Wallach Scott, Joan</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref4" level="series">
+        <did>
+          <unittitle>Series I:  Personal Papers</unittitle>
+          <unitdate datechar="creation" normal="1937/2001" type="inclusive">1937-2001</unitdate>
+        </did>
+        <scopecontent id="aspace_413e551d2150aec07595bef6aa59d22d">
+          <head>Scope and Content Note</head>
+          <p>Directly related to Sam Wallach's personal life, this series contains correspondence, notes, published and unpublished writings, and transcripts of several interviews. Legal documents, newspaper clippings and official communications relating to his suspension and dismissal from public school teaching, along with letters of support from former students, are included in the series. There are also many items concerned with his subsequent reinstatement. Of particular interest is his lengthy FBI file, obtained under the Freedom of Information/Privacy Act in 1998.</p>
+        </scopecontent>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>"Abolish the Regents Examinations in New York City,"  Sam Wallach</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Record carton" id="aspace_df9156902904a8b9ebd1c4fed8188388" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_23932aa50ff441288eb7eed0eda23139" parent="aspace_df9156902904a8b9ebd1c4fed8188388" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Board of Education of the City of New York</unittitle>
+            <unitdate datechar="creation" normal="1951/1976" type="inclusive">1951-1976</unitdate>
+            <container altrender="Record carton" id="aspace_2c9746b83061d40bf0166f61d5867f2d" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_eef1efe82a5faeac5875e22ddc3c6b0f" parent="aspace_2c9746b83061d40bf0166f61d5867f2d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Correspondence and Notes</unittitle>
+            <unitdate datechar="creation" normal="1967/1987" type="inclusive">1967-1987, undated</unitdate>
+            <container altrender="Record carton" id="aspace_cb0db311eb6d96c2dcfa03dbebc06f12" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_7abd083b5fcc1d885cc40abb59e7192b" parent="aspace_cb0db311eb6d96c2dcfa03dbebc06f12" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Correspondence: Harris Russell and the Wallachs</unittitle>
+            <unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate>
+            <container altrender="Record carton" id="aspace_3da91023a007d3f5694eed7ebcd085a3" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_f19687808f64807669672bae9b156921" parent="aspace_3da91023a007d3f5694eed7ebcd085a3" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Eulogies and Written Tributes (A-H)</unittitle>
+            <unitdate datechar="creation" normal="1962/1994" type="inclusive">1962-1994</unitdate>
+            <container altrender="Record carton" id="aspace_22d666655fb69ae7da92ddb2f968a7cc" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_0610687db3d0189132178501761caf8c" parent="aspace_22d666655fb69ae7da92ddb2f968a7cc" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Eulogies and Written Tributes (J-V)</unittitle>
+            <unitdate datechar="creation" normal="1945/1994" type="inclusive">1945-1994</unitdate>
+            <container altrender="Record carton" id="aspace_ff1cf9ab323f954fbfa018e39502bcc4" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_e2b47fedcad62fd310d79d4371d9715d" parent="aspace_ff1cf9ab323f954fbfa018e39502bcc4" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Feinberg Law: Opinions Concerning Constitutionality (U.S. Supreme Court)</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Record carton" id="aspace_13c06a56dcc69141dee13d288fbe9466" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_a1af3709682aa88379e4e6999071170f" parent="aspace_13c06a56dcc69141dee13d288fbe9466" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Feinberg Law: Opinion Declaring Law Unconstitutional (Supreme Court of the State of New York)</unittitle>
+            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
+            <container altrender="Record carton" id="aspace_9b08e1f549deb9b9ad6a1b300734efc5" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_bbf1b5198b67fedca92e03b546888f68" parent="aspace_9b08e1f549deb9b9ad6a1b300734efc5" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Freedom of Information/Privacy Act: Request</unittitle>
+            <unitdate datechar="creation" normal="1994/1998" type="inclusive">1994-1998</unitdate>
+            <container altrender="Record carton" id="aspace_daf41309af7f128b9441c8938148310f" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_ee3d010a8a56ab39ac2721620f534c5d" parent="aspace_daf41309af7f128b9441c8938148310f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Freedom of Information/Privacy Act: Response - FBI File, Samuel Wallach (I)</unittitle>
+            <unitdate datechar="creation" normal="1952/1973" type="inclusive">1952-1973</unitdate>
+            <container altrender="Record carton" id="aspace_62faadcf1705be4b38befae16b5a07c9" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_7e64e4cde0d56392694be1f7182ad99f" parent="aspace_62faadcf1705be4b38befae16b5a07c9" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Freedom of Information/Privacy Act: Response - FBI File, Samuel Wallach (II)</unittitle>
+            <unitdate datechar="creation" normal="1952/1973" type="inclusive">1952-1973</unitdate>
+            <container altrender="Record carton" id="aspace_74c579a97339843e6aec83cf3c38c5b9" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_c65f09b33dd7b723fa7f9e93d91d77d0" parent="aspace_74c579a97339843e6aec83cf3c38c5b9" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Freedom of Information/Privacy Act: Response - FBI File, Samuel Wallach (III)</unittitle>
+            <unitdate datechar="creation" normal="1952/1973" type="inclusive">1952-1973</unitdate>
+            <container altrender="Record carton" id="aspace_adf9eff699fdb9023fd590f0174671da" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_4725ec5bdd377717c6c16091cf287815" parent="aspace_adf9eff699fdb9023fd590f0174671da" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Freedom of Information/Privacy Act: Response - FBI File, Samuel Wallach (IV)</unittitle>
+            <unitdate datechar="creation" normal="1952/1973" type="inclusive">1952-1973</unitdate>
+            <container altrender="Record carton" id="aspace_9657ca7adbd2009bbe8f394b623768f6" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_9387d69884502cc5098a923809fe6fae" parent="aspace_9657ca7adbd2009bbe8f394b623768f6" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Interviews</unittitle>
+            <unitdate datechar="creation" normal="1986/1996" type="inclusive">1986, 1996, undated</unitdate>
+            <container altrender="Record carton" id="aspace_12fbb1ad2e5a08ef3d009e2cc503fee2" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_d927cc69de52287b1deaf34b14fd1444" parent="aspace_12fbb1ad2e5a08ef3d009e2cc503fee2" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Maimonides Develpmental Center</unittitle>
+            <unitdate datechar="creation" normal="1974/1976" type="inclusive">1974-1976, undated</unitdate>
+            <container altrender="Record carton" id="aspace_ce64501d41340532dfac746d8777b503" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_e4b427fa1985da7010c06c0a7b3d2f59" parent="aspace_ce64501d41340532dfac746d8777b503" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Maimonides Developmental Center: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1974/1983" type="inclusive">1974-1983</unitdate>
+            <container altrender="Record carton" id="aspace_5b22cf0f0f2aea5d2b6649931b5e68b5" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_0da213991ed75ac4d7c0b1f2a425cd01" parent="aspace_5b22cf0f0f2aea5d2b6649931b5e68b5" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Maimonides Developmental Center: Retirement</unittitle>
+            <unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate>
+            <container altrender="Record carton" id="aspace_224f415192d51186710e1bd839fcdb4d" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_7b2bb66f094df9ef39e53351cc1d1f11" parent="aspace_224f415192d51186710e1bd839fcdb4d" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Memorial Invitation</unittitle>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container altrender="Record carton" id="aspace_89f21617edb6025462987d46919b476a" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_9ded03e7baafaf21e6017b4f6569e648" parent="aspace_89f21617edb6025462987d46919b476a" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>"More than Good Will Is Needed," Samuel Wallach and Herbert M. Chamais</unittitle>
+            <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+            <container altrender="Record carton" id="aspace_aa76f8f122e8191e857b0ae1e21e493b" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_6fe4e039041f0ef498fc7d5519661967" parent="aspace_aa76f8f122e8191e857b0ae1e21e493b" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Reinstatement  (I)</unittitle>
+            <unitdate datechar="creation" normal="1972/1980" type="inclusive">1972-1980, undated</unitdate>
+            <container altrender="Record carton" id="aspace_1458a15b6c8df9bb08c5a1d6e0206c57" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_900f5352e2aa5f474f05b8fdd1ee22fd" parent="aspace_1458a15b6c8df9bb08c5a1d6e0206c57" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Reinstatement  (II)</unittitle>
+            <unitdate datechar="creation" normal="1972/1980" type="inclusive">1972-1980, undated</unitdate>
+            <container altrender="Record carton" id="aspace_a2c39eb3371e7d9eb05ee0ff5a365b98" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_e37a8d0923c975f3a74fe124d51fc38e" parent="aspace_a2c39eb3371e7d9eb05ee0ff5a365b98" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Reinstatement: Clippings</unittitle>
+            <unitdate datechar="creation" normal="1948/1982" type="inclusive">1948-1982</unitdate>
+            <container altrender="Record carton" id="aspace_710d1d4404050ff7ab3c8775dee083ee" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_e66302888b00e8008b9199d8baeb8786" parent="aspace_710d1d4404050ff7ab3c8775dee083ee" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Reinstatement: Resolutions and Agreement</unittitle>
+            <unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate>
+            <container altrender="Record carton" id="aspace_40caf7c78dda1da4d9d072ee89454822" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_0543ea241b6d9ec14e6d40ce19c2812f" parent="aspace_40caf7c78dda1da4d9d072ee89454822" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Suspension and Dismissal</unittitle>
+            <unitdate datechar="creation" normal="1948/1960" type="inclusive">1948-1960, undated</unitdate>
+            <container altrender="Record carton" id="aspace_7b1b5e230f7b49eb3bf00845d466a188" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_35ad0ac4bac32b6c84ea12162ec12f40" parent="aspace_7b1b5e230f7b49eb3bf00845d466a188" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Suspension and Dismissal: Official Communication</unittitle>
+            <unitdate datechar="creation" normal="1952/1953" type="inclusive">1952-1953</unitdate>
+            <container altrender="Record carton" id="aspace_85971fd52fdbd9497f7f01a6bf0fb713" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_b9def1ad1e2fb1cf7f01b0ab441456fb" parent="aspace_85971fd52fdbd9497f7f01a6bf0fb713" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Suspension and Dismissal: Legal Documents</unittitle>
+            <unitdate datechar="creation" normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container altrender="Record carton" id="aspace_0b5746d9a41810ef919937357f271fb7" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_e4c11cea306b4018e7b0ff84157322e5" parent="aspace_0b5746d9a41810ef919937357f271fb7" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Teachers' Union</unittitle>
+            <unitdate datechar="creation" normal="1938/1964" type="inclusive">1938-1950, 1964</unitdate>
+            <container altrender="Record carton" id="aspace_3c6f0b08c1de2015c713719dd14c16c3" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_686f6a09f19b1b1fd20c6b0bc7ca2417" parent="aspace_3c6f0b08c1de2015c713719dd14c16c3" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Teaching</unittitle>
+            <unitdate datechar="creation">1937-1952, undated</unitdate>
+            <container altrender="Record carton" id="aspace_f4f60e6f341e53862c4b5beff891c85f" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_de08f231c04d4f5b4cfa28436b65eb0a" parent="aspace_f4f60e6f341e53862c4b5beff891c85f" type="Folder">28</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref5" level="series">
+        <did>
+          <unittitle>Series II:  Rose Russell Material</unittitle>
+          <unitdate datechar="creation" normal="1921/1965" type="inclusive">1921-1965</unitdate>
+        </did>
+        <scopecontent id="aspace_c58b04821d86c1431c1f78c8ca204111">
+          <head>Scope and Content Note</head>
+          <p>The bulk of this series is correspondence, much of it in the form of tributes to Rose Russell on celebrating the tenth and twentieth anniversaries of her association with the Teachers' Union. Tenth anniversary tributes (1954) come from union representatives, university professors, attorneys, politicians and religious leaders; correspondents include such well-known individuals as W. E. B. DuBois, Joseph P. Selly, Morris Schappes, Cedric Belfrage and Scott Nearing. In 1964, at the twentieth anniversary celebration, Russell was presented with several leather binders full of tributes. Among them are letters and telegrams from notables such as Martin Luther King, Jr. and his wife, Coretta Scott King, Langston Hughes, Abraham Beame, Frederic Ewen, I. F. Stone, Irving Adler, Linus Pauling, Alexander Meiklejohn, Corliss Lamont, and a host of state senators and assemblymen, journalists, Board of Education members and staff, union members, court officers, representatives of a wide variety of organizations and personal friends. The Irish playwright Sean O'Casey corresponded with Ms. Russell for a number of years. One of his letters in the collection, a moving condolence written on November 20, 1963, after the assassination of President Kennedy, was subsequently published in  The New York Times.</p>
+        </scopecontent>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Bachelor of Arts Diploma, University of Michigan: Rose Russell (Gutterman)</unittitle>
+            <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
+            <container altrender="Record carton" id="aspace_0de1493c9ecb964ba36cbed064905fd3" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_8265ef9acc4b89eca28141ac8496b614" parent="aspace_0de1493c9ecb964ba36cbed064905fd3" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Correspondence: Lamont, Corliss</unittitle>
+            <unitdate datechar="creation" normal="1954/1960" type="inclusive">1954, 1960</unitdate>
+            <container altrender="Record carton" id="aspace_7ce3418588e6e76ee480592e8450e660" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_0817d0cc39d21b12bf04a69527900498" parent="aspace_7ce3418588e6e76ee480592e8450e660" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Correspondence: Meiklejohn, Alexander</unittitle>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+            <container altrender="Record carton" id="aspace_718e31256f855d67b10c848b57f2928b" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_b5948f9ebd8cdd4d6a2a910cb691ebec" parent="aspace_718e31256f855d67b10c848b57f2928b" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Correspondence: O'Casey, Sean</unittitle>
+            <unitdate datechar="creation">1956-1964, undated</unitdate>
+            <container altrender="Record carton" id="aspace_b35d199066022368910da589ef05c9c2" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_02cdf3c7bc4097b69adf017e1553b2db" parent="aspace_b35d199066022368910da589ef05c9c2" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Correspondence: Pauling, Linus</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Record carton" id="aspace_55df149c9c92ec478197526a6dfc78ab" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_54ab3e6900ae794283e9e918d8cda255" parent="aspace_55df149c9c92ec478197526a6dfc78ab" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Correspondence: Various</unittitle>
+            <unitdate datechar="creation">1953, 1964, undated</unitdate>
+            <container altrender="Record carton" id="aspace_d7c92fbbaf920d54ca6bae37b2b7fbdb" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_ba3340aac027f6e5d2a2295f1b3f1dae" parent="aspace_d7c92fbbaf920d54ca6bae37b2b7fbdb" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Memorial and Obituary</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container altrender="Record carton" id="aspace_980ad36e61af14ef7b4a2f53a08e2250" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_799e7cdcf2409114fb1a0147ead5fe27" parent="aspace_980ad36e61af14ef7b4a2f53a08e2250" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Scroll of Honor Award (Teachers' Union)</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Record carton" id="aspace_d61214ea4f09c51a3629f394cebbbd66" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_c9458bc668bd7553beb8339cac93d87c" parent="aspace_d61214ea4f09c51a3629f394cebbbd66" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Scroll of Honor Award (Teachers' Union): Presentation Frame</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Record carton" id="aspace_46c9d210a911e05a002420792d8f4e1b" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_38cc6eebd1a48eb9034afba820e664b3" parent="aspace_46c9d210a911e05a002420792d8f4e1b" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Tenth Anniversary Testimonial Dinner: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954, undated</unitdate>
+            <container altrender="Record carton" id="aspace_effdcab60f1ccec53de360bbd359e1f1" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_bd3192f6907410a33ab938cd61fa0c6a" parent="aspace_effdcab60f1ccec53de360bbd359e1f1" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Twentieth Anniversary Tribute to Rose Russell</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container altrender="Record carton" id="aspace_f8ef5859ab1b01f28f244419d96e5874" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_8c2e904c1d435ab9a1461f274b8da4a3" parent="aspace_f8ef5859ab1b01f28f244419d96e5874" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Twentieth Anniversary Tribute to Rose Russell: Album of Tributes (Volume 1)</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container altrender="Record carton" id="aspace_f5adf000d671d995ac1b4921da8383b6" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_36ec34974ef1248814303453f6a373df" parent="aspace_f5adf000d671d995ac1b4921da8383b6" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Twentieth Anniversary Tribute to Rose Russell: Album of Tributes (Volume 2)</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container altrender="Record carton" id="aspace_133376a6e4af5a7dc74b8a6848765503" label="Mixed Materials [31142062673044]" type="Box">1</container>
+            <container id="aspace_60b41667dd08e795bcd3a3dfe2095a3d" parent="aspace_133376a6e4af5a7dc74b8a6848765503" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Twentieth Anniversary Tribute to Rose Russell: Presentation Album</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container altrender="Record carton" id="aspace_91c75f06ce1c31eec5dd44e74e5f4ca3" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_8350c0be0546c4ebcfd160445084be46" parent="aspace_91c75f06ce1c31eec5dd44e74e5f4ca3" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref6" level="series">
+        <did>
+          <unittitle>Series III: Subject Files</unittitle>
+          <unitdate datechar="creation" normal="1935/1999" type="inclusive">1935-1999</unitdate>
+        </did>
+        <scopecontent id="aspace_e4a75809f274dd35af5e7af2d7e37188">
+          <head>Scope and Content Note</head>
+          <p>This series contains a variety of materials touching on subjects and individuals of interest to Sam Wallach with particular emphasis on the Teachers' Union and its activities. There are also many items collected by Wallach on the topic of mental retardation.</p>
+        </scopecontent>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Adler, Irving and Joyce</unittitle>
+            <unitdate datechar="creation" normal="1993/1999" type="inclusive">1993, 1999, undated</unitdate>
+            <container altrender="Record carton" id="aspace_16803cc8827005beb05af13d5f23e4e2" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_d751b0c4b65c5e736eb4a309644b9991" parent="aspace_16803cc8827005beb05af13d5f23e4e2" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Anti-Communism</unittitle>
+            <unitdate datechar="creation" normal="1941/1975" type="inclusive">1941-1975, undated</unitdate>
+            <container altrender="Record carton" id="aspace_8d015f0ba2661c0245a47d0bc5099492" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_829fe869a468c5d5aea64770f7ecc3a5" parent="aspace_8d015f0ba2661c0245a47d0bc5099492" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Cammer, Harold I.</unittitle>
+            <unitdate datechar="creation" normal="1983/1993" type="inclusive">1983-1993</unitdate>
+            <container altrender="Record carton" id="aspace_2805a6441c884a5a8c0691b2223661ee" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_889f6e651126f7f386ccfd804669d870" parent="aspace_2805a6441c884a5a8c0691b2223661ee" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Clippings and Articles: Various Topics</unittitle>
+            <unitdate datechar="creation" normal="1945/1996" type="inclusive">1945-1996, undated</unitdate>
+            <container altrender="Record carton" id="aspace_fd209b4abc80d428db2885850b64c628" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_820e7b0413a42442dd8eba9051cbc026" parent="aspace_fd209b4abc80d428db2885850b64c628" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Education: General</unittitle>
+            <unitdate datechar="creation" normal="1952/1971" type="inclusive">1952-1971, undated</unitdate>
+            <container altrender="Record carton" id="aspace_cddec822575cabfca90579c3fb0ffc23" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_74ba5c6a60d977089191d4b2c5c8b294" parent="aspace_cddec822575cabfca90579c3fb0ffc23" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Jews for Racial and Economic Justice</unittitle>
+            <unitdate datechar="creation" normal="1995/1998" type="inclusive">1995-1998</unitdate>
+            <container altrender="Record carton" id="aspace_33b53f7afa5519a203e1934763515abd" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_a45bc69b81288cbc1026d6f1e5aed585" parent="aspace_33b53f7afa5519a203e1934763515abd" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Jews for Racial and Economic Justice: Marshall T. Meyer Risk-Taking Award</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container altrender="Record carton" id="aspace_62e2e1062b39362e978f3bb88c6456ac" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_5d41eb9a4d5c06dacee11447aea570a9" parent="aspace_62e2e1062b39362e978f3bb88c6456ac" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Katz, Blanche and Al</unittitle>
+            <unitdate datechar="creation">1989-1993, undated</unitdate>
+            <container altrender="Record carton" id="aspace_ea6df9aa24fa2ffa08f595632cf45bb9" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_60eb1eb8e4148d4ce4a5927ed362f800" parent="aspace_ea6df9aa24fa2ffa08f595632cf45bb9" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Mental Retardation (I)</unittitle>
+            <unitdate datechar="creation">1969-1979,  undated</unitdate>
+            <container altrender="Record carton" id="aspace_58a71f7a7de80cf1dd0da0351a4ee19a" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_39db6983a600d9b36852f124d4f541fd" parent="aspace_58a71f7a7de80cf1dd0da0351a4ee19a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Mental Retardation (II)</unittitle>
+            <unitdate datechar="creation" normal="1969/1979" type="inclusive">1969-1979, undated</unitdate>
+            <container altrender="Record carton" id="aspace_e0a90fd0fb7ff93d69beff73fdf0e58b" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_0765963cc2ef6331a59414d77b3d2328" parent="aspace_e0a90fd0fb7ff93d69beff73fdf0e58b" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Mental Retardation: Employment</unittitle>
+            <unitdate datechar="creation" normal="1964/1975" type="inclusive">1964-1975</unitdate>
+            <container altrender="Record carton" id="aspace_57b77a68776b1ee104280ffaed509b0c" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_50c4a952a1f1cee6d3479f9577ad16bf" parent="aspace_57b77a68776b1ee104280ffaed509b0c" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Mental Retardation: Employment</unittitle>
+            <unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978, undated</unitdate>
+            <container altrender="Record carton" id="aspace_75a0111907f3f8b21cadf005574cd972" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_386ef00faee0bb43545c75c31eefec01" parent="aspace_75a0111907f3f8b21cadf005574cd972" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Mental Retardation: Minutes - Brooklyn Boro-Wide Council for the Mentally Retarded</unittitle>
+            <unitdate datechar="creation" normal="1974/1979" type="inclusive">1974-1979</unitdate>
+            <container altrender="Record carton" id="aspace_c9f83674c93b32e78d74e50f7165004f" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_2624016f86d92c64ea1f10eacec5dd28" parent="aspace_c9f83674c93b32e78d74e50f7165004f" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Non-Sectarian Anti-Nazi League to Champion Human Rights: Brochure</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_20b75f53100aa4a28054c7836def1b84" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_149a7e534bc3dfdec3e6da0405397857" parent="aspace_20b75f53100aa4a28054c7836def1b84" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle><emph render="italic">The Social Frontier</emph>: Articles</unittitle>
+            <unitdate datechar="creation" normal="1935/1938" type="inclusive">1935-1938</unitdate>
+            <container altrender="Record carton" id="aspace_81cbe20c22b340f3448ba26b2c3233ca" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_b9c38fd4806352bfc89da6d9fd519f39" parent="aspace_81cbe20c22b340f3448ba26b2c3233ca" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Teachers' Union</unittitle>
+            <unitdate datechar="creation" normal="1937/1996" type="inclusive">1937-1964, 1996, undated</unitdate>
+            <container altrender="Record carton" id="aspace_4bcbb2e9c7fbb2050184523ff8818482" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_cd9a044a1be64e54f584837c78081b60" parent="aspace_4bcbb2e9c7fbb2050184523ff8818482" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Teachers' Union: Award - Abraham Lederman</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container altrender="Record carton" id="aspace_f3cd8689a560eb2111009a3cba03ff11" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_eb33f4092c75a1002725b8943062ed55" parent="aspace_f3cd8689a560eb2111009a3cba03ff11" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Teachers' Union: Award Plaque ("To Eleanor Roosevelt...")</unittitle>
+            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+            <container altrender="Record carton" id="aspace_084e19c74cab66590a2dc5b64ed0d404" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_1a22a1ae92dbd1caaec42787d6ac124a" parent="aspace_084e19c74cab66590a2dc5b64ed0d404" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Teachers' Union: Conferences</unittitle>
+            <unitdate datechar="creation" normal="1962/1963" type="inclusive">1962-1963</unitdate>
+            <container altrender="Record carton" id="aspace_41a3a0b4a07f6988045638e96ccc6f11" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_b82ab3ca3aaa247c6e5818f9d66c7b8e" parent="aspace_41a3a0b4a07f6988045638e96ccc6f11" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Teachers' Union: Draft Article Annotated by Sam Wallach</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">[1997]</unitdate>
+            <container altrender="Record carton" id="aspace_83e02a6df4ef50db75ca21054ba97318" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_49865eb9a8a19bf8a9fa612ec5e6895e" parent="aspace_83e02a6df4ef50db75ca21054ba97318" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Teachers' Union: Film - <emph render="italic">Dreamers and Fighters</emph></unittitle>
+            <unitdate datechar="creation" normal="1949/1997" type="inclusive">1949-1997</unitdate>
+            <container altrender="Record carton" id="aspace_db9641c4d79126d311977f58bfe96eb9" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_2cc3a4a65d4e4b89023529635cb286a5" parent="aspace_db9641c4d79126d311977f58bfe96eb9" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Teachers' Union: <emph render="italic">Teacher News</emph> Issues</unittitle>
+            <unitdate datechar="creation" normal="1938/1959" type="inclusive">1938-1959</unitdate>
+            <container altrender="Record carton" id="aspace_8430f827fdc9b3a7475adbca0ceaf670" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_8d5662c194288a7632e86494720b1b5e" parent="aspace_8430f827fdc9b3a7475adbca0ceaf670" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Teachers' Union: <emph render="italic">Teacher News</emph> Issues</unittitle>
+            <unitdate datechar="creation">1960-1964, undated</unitdate>
+            <container altrender="Record carton" id="aspace_8841bee582fe4c778d5642d488bce230" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_f95ab47a6eed3f84af487c677d741228" parent="aspace_8841bee582fe4c778d5642d488bce230" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Teachers' Union: Teaching Materials</unittitle>
+            <unitdate datechar="creation" normal="1940/1955" type="inclusive">1940, 1955, undated</unitdate>
+            <container altrender="Record carton" id="aspace_bfaa20fc50fac7806945132822e741aa" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_eafbdf430d802c50a33a3c00322ec042" parent="aspace_bfaa20fc50fac7806945132822e741aa" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>United Federation of Teachers </unittitle>
+            <unitdate datechar="creation" normal="1995/1996" type="inclusive">1995-1996</unitdate>
+            <container altrender="Record carton" id="aspace_7052f9944efa764e125e940b5b03ccfc" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_38c0ec47d9f6cfa4a2f60732dd513aac" parent="aspace_7052f9944efa764e125e940b5b03ccfc" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>"Zeal for American Democracy": Special Issue of <emph render="italic">School Life</emph></unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">Feb 1948</unitdate>
+            <container altrender="Record carton" id="aspace_c0516b04b57ab143338253a68b89fc79" label="Mixed Materials [31142062673051]" type="Box">2</container>
+            <container id="aspace_561d115e3f56741fc44e4b804f5fcc17" parent="aspace_c0516b04b57ab143338253a68b89fc79" type="Folder">27</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref87" level="series">
+        <did>
+          <unittitle>Series IV: Photographs</unittitle>
+          <unitdate datechar="creation" normal="1940/1970" type="inclusive">circa 1940-1970</unitdate>
+        </did>
+        <scopecontent id="aspace_fb81663aa70159034410d40643098806">
+          <head>Scope and Content Note</head>
+          <p>Approximately 225 black and white mostly 8 x 10 photographs and 13 black and white slides separated from the Sam Wallach Papers. Most of the images document the activities of Rose Russell in the Teachers Union, and its successor organization, the United Federation of Teachers. Many of them were shot by the photographer and Teacher's Union member, Mildred Grossman. Dates appear range from 1940s to the 1960s.</p>
+        </scopecontent>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>7x11 Prints and Smaller</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b07b170de7966e7382f43d565c1b7285" label="Mixed Materials [31142062721645]" type="Box">3</container>
+            <container id="aspace_35ee603224f97f8fa7e1f6f10dbaabba" parent="aspace_b07b170de7966e7382f43d565c1b7285" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a2add2945aad90f2945b816228a8048d" label="Mixed Materials [31142062721645]" type="Box">3</container>
+            <container id="aspace_729f6a4b450ea46c8347fb948298f2bf" parent="aspace_a2add2945aad90f2945b816228a8048d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d3f3ec413af421571768b3586eadccf5" label="Mixed Materials [31142062721645]" type="Box">3</container>
+            <container id="aspace_ef1d2a7368839a3f6c9133b1522b46d3" parent="aspace_d3f3ec413af421571768b3586eadccf5" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9890d33c1a3a3d91c5a9ae6a8e24cd3c" label="Mixed Materials [31142062721645]" type="Box">3</container>
+            <container id="aspace_399fae9141e9cfb5b8a65015e354c641" parent="aspace_9890d33c1a3a3d91c5a9ae6a8e24cd3c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_22d7ee4dbea281a14bb7e838e08a4fab" label="Mixed Materials [31142062721645]" type="Box">3</container>
+            <container id="aspace_1785bd1a0a4727bbd10f320eafd6ad95" parent="aspace_22d7ee4dbea281a14bb7e838e08a4fab" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4a524a7e36eac0b07493c7139e00edc6" label="Mixed Materials [31142062721645]" type="Box">3</container>
+            <container id="aspace_68ba835c4845e23a2429f39c67c98956" parent="aspace_4a524a7e36eac0b07493c7139e00edc6" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d728d67a2d66a714548e6baec8eaff35" label="Mixed Materials [31142062721645]" type="Box">3</container>
+            <container id="aspace_cd0f896be46535d65790385a5b724e65" parent="aspace_d728d67a2d66a714548e6baec8eaff35" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cbf3f4fb385223b6726e70ae9751f0f8" label="Mixed Materials [31142062721645]" type="Box">3</container>
+            <container id="aspace_65e79ccba5cc155b0f7d768265cd0018" parent="aspace_cbf3f4fb385223b6726e70ae9751f0f8" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8afe584d73915a0e3357bbf3a405c385" label="Mixed Materials [31142062721645]" type="Box">3</container>
+            <container id="aspace_1ca2a1c747feea32a27e6b1b086f11b9" parent="aspace_8afe584d73915a0e3357bbf3a405c385" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_639f14da68cf6dbc4eb0997bb478a35e" label="Mixed Materials [31142062721645]" type="Box">3</container>
+            <container id="aspace_b4dd4980bf429cfec2c4d02f9ef854df" parent="aspace_639f14da68cf6dbc4eb0997bb478a35e" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7b6190338102e5dd41a4df3b2829999e" label="Mixed Materials [31142062721645]" type="Box">3</container>
+            <container id="aspace_b3d012c29fd881e8b067113fb05401fb" parent="aspace_7b6190338102e5dd41a4df3b2829999e" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c7bbae30987b2014e8215c11ea5d77a6" label="Mixed Materials [31142062721645]" type="Box">3</container>
+            <container id="aspace_168f670e6b692e62a255aedb46a59f51" parent="aspace_c7bbae30987b2014e8215c11ea5d77a6" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6fecbcfe395e309f6dddcba4994f6749" label="Mixed Materials [31142062721645]" type="Box">3</container>
+            <container id="aspace_0ac77b3d26b8486c5c7956680f4f7161" parent="aspace_6fecbcfe395e309f6dddcba4994f6749" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Slides</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f3d2efbb039b97119e0a4d723484f19f" label="Mixed Materials [31142062721645]" type="Box">3</container>
+            <container id="aspace_7f905f11b50364e793205e84426546d5" parent="aspace_f3d2efbb039b97119e0a4d723484f19f" type="Folder">14</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref85" level="series">
+        <did>
+          <unittitle>Series V: Audiovisual Materials</unittitle>
+          <unitdate datechar="creation" normal="1949/1958" type="inclusive">circa 1949-1958</unitdate>
+        </did>
+        <scopecontent id="aspace_b7e688b5efbdcb44db16f234f6c3d56b">
+          <head>Scope and Content Note</head>
+          <p>This series includes 23 records and 10 reel-to-reel tapes.  Many of the records are labeled recordings of Teachers Union events, most seeming to involve Rose Russell.  There is also an interview of Rose Russell by Mike Wallace</p>
+        </scopecontent>
+        <c id="aspace_ref86" level="subseries">
+          <did>
+            <unittitle>Reel-to-Reel Tapes</unittitle>
+          </did>
+          <c id="aspace_ref112" level="file">
+            <did>
+              <unittitle>Unlabeled (4 reels)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_f4a1ee1ae31da38713061f85a1b9a607" label="Mixed Materials [31142062673069]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref113" level="file">
+            <did>
+              <unittitle>7th Annual Educational Conference Recordings (3 reels)</unittitle>
+              <unitdate datechar="creation" normal="1953/1953" type="inclusive">Mar 28, 1953</unitdate>
+              <container altrender="Record carton" id="aspace_7bcc40e032d01682d6ab50d18d9df945" label="Mixed Materials [31142062673069]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref114" level="file">
+            <did>
+              <unittitle>Wilson-Hutchins Hearings (1 reel)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_7ecf0cc5f5e060afc48e42c0beb51787" label="Mixed Materials [31142062673069]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref115" level="file">
+            <did>
+              <unittitle>Hodges and Lumpkin (1 reel)</unittitle>
+              <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+              <container altrender="Record carton" id="aspace_b5a24e43431697703caf55c00876584b" label="Mixed Materials [31142062673069]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref116" level="file">
+            <did>
+              <unittitle>Rose &amp; Prof Dunham (1 reel)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_8000a652c5a92427ad8e82e1b1d0377a" label="Mixed Materials [31142062673069]" type="Box">4</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref111" level="subseries">
+          <did>
+            <unittitle>Vinyl Records</unittitle>
+            <container id="aspace_3a382b61dbf33848c97836a73092f0cf" label="Mixed Materials" type="Box">6</container>
+          </did>
+          <c id="aspace_ref117" level="file">
+            <did>
+              <unittitle>Rose Russell Interview by Mike Wallace on "Nightbeat"</unittitle>
+              <unitdate datechar="creation" normal="1957/1957" type="inclusive">May 15, 1957</unitdate>
+              <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_8f7c2e589cf163ce2486f795244c56dc" label="Mixed Materials [31142062765345]" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref118" level="file">
+            <did>
+              <unittitle>Excerpts and Highlights - Teachers Union Annual Conference</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_e058c4375e50fe42b44f4857159d71e6" label="Mixed Materials [31142062765345]" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref119" level="file">
+            <did>
+              <unittitle>5 Unlabeled Records</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript Box - Letter - Half/Tall" id="aspace_d1a77a42cf2e8661a00598b145138e12" label="Mixed Materials [31142062765345]" type="Box">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref120" level="file">
+            <did>
+              <unittitle>Complete Speeches of Rose Russell, John De Boer and Abe Lederman from Teachers Union Annual Conference</unittitle>
+              <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
+              <container altrender="Record carton" id="aspace_3da9f5d193b72aaaf12acbca3c03c578" label="Mixed Materials [31142062673069]" type="Box">4</container>
+            </did>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

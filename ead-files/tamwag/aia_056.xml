@@ -1,0 +1,659 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/aia_056">aia_056</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Archives of Irish American United Irish Counties Association Collection <num>AIA.056</num></titleproper>
+        <author>Rebecca Altermatt</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 02:26:57 -0400</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>February 2018</date>
+        <item>Updated by Megan O’Shea to reflect the incorporation of items separated for use in the exhibit The Fifth Province:  County Societies in Irish America at Glucksman Ireland House in 2011</item>
+      </change>
+      <change>
+        <date>September 2018</date>
+        <item>Updated by Megan O'Shea to reflect the incorporation of material from accession number 2018.103</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Archives of Irish America United Irish Counties Association Collection</unittitle>
+      <origination label="source">
+        <persname rules="dacs" source="local">Kearns, Martin</persname>
+      </origination>
+      <origination label="Creator">
+        <corpname source="local">Archives of Irish America</corpname>
+      </origination>
+      <unitid>AIA.056</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
+        <extent altrender="carrier">in 3 record cartons, 1 half manuscript box, 1 manuscript box, and 1 custom-size artifact box</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1931/2018" type="inclusive">1931-2018</unitdate>
+      <abstract id="aspace_4690e9c4fe5f95c1385364e81d646e1d">The United Irish Counties Association organized in 1904 as an attempt to reunite again all Irish under one umbrella organization. The UICA aims to promote and preserve Irish heritage and culture. Its Annual Feis brings together Irish talent for a celebration of music, dance, and song.  The collection consists of annual Feis programs, newspaper clippings, papers from Irish Institute, and photographs of United Irish County Societies activities.</abstract>
+      <physloc id="aspace_4461110a1e522e1f43ef8abf74da08bd">Materials stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu two business days prior to research visit.</physloc>
+      <langmaterial id="aspace_86f07918a06756bd10f62c17745808e0">Materials are in English.</langmaterial>
+    </did>
+    <arrangement id="aspace_e406f374c9603c74d609119d27cbd0ab">
+      <head>Arrangement</head>
+      <p>Files are organized alphabetically.  The Annual event seems to have changed names between "ball" and "dance" over the years; these files are organized chronologically.</p>
+    </arrangement>
+    <relatedmaterial id="aspace_0e13a7aea863946b6b6605fa843e5a27">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>Archives of Irish American County Society Records (AIA 003)
+Emerald Society Records (AIA 057)
+James J. Comerford Papers (AIA 010)</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>Archives of Irish America County Society Records (AIA 003)</item>
+        <item>James J. Comerford Papers (AIA 010)</item>
+        <item>Emerald Society Records (AIA 057)</item>
+      </list>
+    </relatedmaterial>
+    <prefercite id="aspace_3b1863d1e614f2b2a765630808132dca">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; United Irish Counties Association Records; AIA 056; box number; folder number; <lb/>Archives of Irish America, Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <userestrict id="aspace_427f0bc5d66942c41d4fc480ab6849a9">
+      <head>Use Restrictions</head>
+      <p>The Tamiment Library does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain in 2127. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
+    </userestrict>
+    <accessrestrict id="aspace_6ade441e954b877af7aaad37db0ac8ef">
+      <head>Access Restrictions</head>
+      <p>Open for research without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_2a1deae8eaebe0143a7eba08673ff609">
+      <head>Historical/Biographical Note</head>
+      <p>Irish county organizations were first organized in New York City in the late 1840s. The early societies were for the most part purely social organizations, but in the 1870s some of them started to offer benefits for sickness and death.  As the Irish settled into different areas of the city, individual county societies became more prevalent. With the growth of Irish sports, these county societies were even more important. The United Irish Counties Association organized in 1904 as the Irish Counties Athletic Union, as an organization to coordinate and provide venues for sporting events and dances. The goal was to reunite the individual Irish Societies under one umbrella organization, to establish a "central unit of administration to guide and coordinate the activities of the Irish County Organizations," according to the history written by James Comerford, former President of the UICA. (See Box 3, Folder 18.) In 1907, the name was changed to United Irish Counties Association (UICA) with the aim of providing more Irish activities in addition to sports and dances. The purpose of the UICA as articulated in its incorporation papers is to "aid and encourage the members of the Irish race in this State (New York) in taking advantage of all the educational and business opportunities; to furnish information and advice to them on all matters relating to high schools, night schools, trade schools, civil service and commercial opportunities." The organization also promotes activities to preserve and promote the traditional culture if the Irish. This is realized in the Feis, an annual celebration of Irish music, dance, song and athletics.</p>
+      <p>For more information, visit: http://www.uicany.org/United_Irish_Counties/History.html</p>
+    </bioghist>
+    <scopecontent id="aspace_fa942ba4b515d0a494a731d31f3598f9">
+      <head>Scope and Content Note</head>
+      <p>The collection consists of souvenir journals from the annual dinners and dances of the Association. Also included are programs and documentation on the Feis, a festival celebrating Irish culture and music. A scrapbook kept by Rosalie Fitzpatrick on the Feis is also included in the collection. The unbound scrapbook contains originals and photocopies of many of the Feis programs as well as newspaper clippings and articles. One of the articles is written by Ms. Fitzpatrick herself in response to an article written by a Ms. Miller on the meaning and tradition of the Feis. Also of interest is a history of the UICA written by James Comerford, one-time President of the Association. A copy of the article is contained in Ms. Fitzpatrick's scrapbook (Box 3, Folder 18).</p>
+    </scopecontent>
+    <custodhist id="aspace_9df1bbd401730e16882a23ee094926c9">
+      <head>Custodial History</head>
+      <p>In 1998, Martin Kearns donated materials collected by Peter Nesdale, which had been sent to him by Mel Keighran.  This gift included records from the 1940s-1950s and commemorative buttons.  Rita and Jim Fitzpatrick sent a gift of annual feis programs, newspaper clippings, papers from Irish Institute, and photographs of United Irish County Societies activities.  Accession number associated with the Fitzpatrick gift is 2012.030.</p>
+      <p>A photograph of the 1944 installation of officers was donated by Brian McGinn in 2011.</p>
+    </custodhist>
+    <acqinfo id="aspace_a9cee59f456a1d64585727ccc597eb9b">
+      <head>Immediate Source of Acquisition</head>
+      <p>An additional acceretion was donated by Martin Kearns, June 2018.  The accession number associated with this gift is 2018.103.</p>
+    </acqinfo>
+    <controlaccess>
+      <genreform source="lcsh">Souvenir programs.</genreform>
+      <subject source="lcsh">Irish Americans -- New York (N.Y.) -- Social life and customs.</subject>
+      <subject source="lcsh">Folk festivals</subject>
+      <persname role="fmo" rules="dacs" source="local">Kearns, Martin</persname>
+      <corpname rules="aacr" source="naf">United Irish Counties Association of N.Y.</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref65" level="file">
+        <did>
+          <unittitle>American Irish Historical Society, Annual Banquet (41st) [Photograph]</unittitle>
+          <unitdate datechar="creation" normal="1938/1938" type="inclusive">Feb 19, 1938</unitdate>
+          <container altrender="Flat OS 21" id="aspace_8b7c8f54385c2a37f605bc98aec0e01b" label="Mixed Materials [31142062853117]" type="Box">Tamiment Shared AIAXOS001</container>
+          <container id="aspace_6e72cf2de13c4afc6f221620534cd77f" parent="aspace_8b7c8f54385c2a37f605bc98aec0e01b" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref1" level="file">
+        <did>
+          <unittitle>Annual Ball: Committee</unittitle>
+          <unitdate datechar="creation" normal="1975/1997" type="inclusive">1975-1997</unitdate>
+          <container id="aspace_10058348ca3cfdadd104a7bf27609a30" label="Mixed Materials [31142054616803]" type="Box">1</container>
+          <container id="aspace_28707ca9bfaa7cfc1cfb443641bdd016" parent="aspace_10058348ca3cfdadd104a7bf27609a30" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref2" level="file">
+        <did>
+          <unittitle>Annual Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="1931/1931" type="inclusive">1931</unitdate>
+          <container id="aspace_2af5092cf5b7f0437659d4ee083f19e5" label="Mixed Materials [31142054616803]" type="Box">1</container>
+          <container id="aspace_2a3309d95289f8ad38432fbed6be97a5" parent="aspace_2af5092cf5b7f0437659d4ee083f19e5" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref3" level="file">
+        <did>
+          <unittitle>Annual Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="1954/1967" type="inclusive">1954-1967</unitdate>
+          <container id="aspace_11807f05ab7debaba7a5bf5bd77e92a7" label="Mixed Materials [31142054616803]" type="Box">1</container>
+          <container id="aspace_ae0407f27e26dccc68abb13fc4a50026" parent="aspace_11807f05ab7debaba7a5bf5bd77e92a7" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_24ca08c9266ecdefe22c28ae7c6ffcad" level="file">
+        <did>
+          <unittitle>Annual Banquet journals</unittitle>
+          <unitdate datechar="creation" normal="2015/2018" type="inclusive">2015-2018</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_78ed6af0e6e7c7f0c725cf0d6df4473b" label="Mixed Materials [31142063581287]" type="Box">Shared Tamiment 030</container>
+          <container id="aspace_4dae8b44efd54c67308741a954838565" parent="aspace_78ed6af0e6e7c7f0c725cf0d6df4473b" type="Folder">11-12</container>
+        </did>
+      </c>
+      <c id="aspace_ref66" level="file">
+        <did>
+          <unittitle>Annual Grand Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+          <container id="aspace_95811f14ad43de02398ab12d607abb2b" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_80ebc86d40bc31ca31e244fe426111ad" parent="aspace_95811f14ad43de02398ab12d607abb2b" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref4" level="file">
+        <did>
+          <unittitle>Annual Grand Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate>
+          <container id="aspace_7b2a5432791c31edb1cca047bcf2cc88" label="Mixed Materials [31142054616803]" type="Box">1</container>
+          <container id="aspace_6c8821b4dcc8aa24c01e521e07ddbe83" parent="aspace_7b2a5432791c31edb1cca047bcf2cc88" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref5" level="file">
+        <did>
+          <unittitle>Annual Grand Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="1971/1973" type="inclusive">1971-1973</unitdate>
+          <container id="aspace_c893c0e88ea19b2319fc20dadd7bc6ac" label="Mixed Materials [31142054616803]" type="Box">1</container>
+          <container id="aspace_952911300408ed2771e274d03283493c" parent="aspace_c893c0e88ea19b2319fc20dadd7bc6ac" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref6" level="file">
+        <did>
+          <unittitle>Annual Grand Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+          <container id="aspace_9a7f890452e8f33b32b02132a2f4757d" label="Mixed Materials [31142054616803]" type="Box">1</container>
+          <container id="aspace_3dda14a2d28e4811494a42a4b372b3d9" parent="aspace_9a7f890452e8f33b32b02132a2f4757d" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref7" level="file">
+        <did>
+          <unittitle>Annual Grand Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="1976/1978" type="inclusive">1976-1978</unitdate>
+          <container id="aspace_03e8658b96f774252b2596d129cfbec7" label="Mixed Materials [31142054616803]" type="Box">1</container>
+          <container id="aspace_88db08f569cc052e032e63ba714b69a4" parent="aspace_03e8658b96f774252b2596d129cfbec7" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref8" level="file">
+        <did>
+          <unittitle>Annual Grand Ball Journal: Diamond Jubilee</unittitle>
+          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+          <container id="aspace_e9d603cde6386e1b73e3012712872e0a" label="Mixed Materials [31142054616803]" type="Box">1</container>
+          <container id="aspace_abc8eaf23311cfcd32613afdd4919ff6" parent="aspace_e9d603cde6386e1b73e3012712872e0a" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref9" level="file">
+        <did>
+          <unittitle>Annual Grand Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+          <container id="aspace_f0de7087f2185270900d397de1c25785" label="Mixed Materials [31142054616803]" type="Box">1</container>
+          <container id="aspace_e3b835f3b4161acece3ad423da88db78" parent="aspace_f0de7087f2185270900d397de1c25785" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="file">
+        <did>
+          <unittitle>Annual Grand Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate>
+          <container id="aspace_39494d2ff03a34ab68fc205c7a6cec5f" label="Mixed Materials [31142054616803]" type="Box">1</container>
+          <container id="aspace_5d97986f7e05462cbe2abeee9f4a1fbf" parent="aspace_39494d2ff03a34ab68fc205c7a6cec5f" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref11" level="file">
+        <did>
+          <unittitle>Annual Grand Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="1983/1984" type="inclusive">1983-1984</unitdate>
+          <container id="aspace_0524bb3dc9c41d7e79c6b7f0451fe11f" label="Mixed Materials [31142054616803]" type="Box">1</container>
+          <container id="aspace_2eba10d9b57109235190ae84009d8910" parent="aspace_0524bb3dc9c41d7e79c6b7f0451fe11f" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>Annual Grand Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate>
+          <container id="aspace_ec4748195f9b5ceffcdc58590397e7f8" label="Mixed Materials [31142054616803]" type="Box">1</container>
+          <container id="aspace_4ac0cc2d4dc93dff953d562339356860" parent="aspace_ec4748195f9b5ceffcdc58590397e7f8" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref67" level="file">
+        <did>
+          <unittitle>Annual Grand Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+          <container id="aspace_063ec5d49587666265aed8e04da3bd4f" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_af38a1a512be1c52f4cc0d341f85cd04" parent="aspace_063ec5d49587666265aed8e04da3bd4f" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref68" level="file">
+        <did>
+          <unittitle>Annual Grand Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
+          <container id="aspace_7821d793bcecb72e0436938e86ad8f27" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_2f83e03643907ba2392d905576b6f36d" parent="aspace_7821d793bcecb72e0436938e86ad8f27" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref69" level="file">
+        <did>
+          <unittitle>Annual Grand Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
+          <container id="aspace_fbeb7bcaf1aeef8440f93889905b577f" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_d84355262b051c6e77e8bbf340302948" parent="aspace_fbeb7bcaf1aeef8440f93889905b577f" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref70" level="file">
+        <did>
+          <unittitle>Annual Grand Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="2010/2010" type="inclusive">2010</unitdate>
+          <container id="aspace_6599848e8b3e17a85dfb34ae33ce75c3" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_a6d4a8176e8e60f0e996ae71a7aa3354" parent="aspace_6599848e8b3e17a85dfb34ae33ce75c3" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Annual Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate>
+          <container id="aspace_ff16dcd83a85f47aa124e45f85c7df4b" label="Mixed Materials [31142054616803]" type="Box">1</container>
+          <container id="aspace_db16c95b475cb59c7a2dba6e3256f91c" parent="aspace_ff16dcd83a85f47aa124e45f85c7df4b" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Annual Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container id="aspace_47186331f454148027afcc44927a6687" label="Mixed Materials [31142054616803]" type="Box">1</container>
+          <container id="aspace_6f13e77414fab993f636458101662c02" parent="aspace_47186331f454148027afcc44927a6687" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Annual Ball Journal</unittitle>
+          <unitdate datechar="creation" normal="1991/1993" type="inclusive">1991, 1993</unitdate>
+          <container id="aspace_ad9bdfca3aee350568c37ca9503fcfa9" label="Mixed Materials [31142054616803]" type="Box">1</container>
+          <container id="aspace_8cb3608ad93f10adcd71d03270c0ae9e" parent="aspace_ad9bdfca3aee350568c37ca9503fcfa9" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_95c1f224c3832d23ce904d20358f1f08" level="file">
+        <did>
+          <unittitle>Annual Ball photograph</unittitle>
+          <unitdate datechar="creation" normal="1953/1953">1953</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_123dadfd1851379e58313f4048b773da" label="Mixed Materials [31142063581279]" type="Box">Shared Tamiment 031</container>
+          <container id="aspace_049d011725004d2729407e8332fc7ceb" parent="aspace_123dadfd1851379e58313f4048b773da" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Annual Dinner Dance Journal</unittitle>
+          <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate>
+          <container id="aspace_da41d37b915418e675fd314830b05240" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_e10fd9df2278ead69226ce3eda39a97b" parent="aspace_da41d37b915418e675fd314830b05240" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Annual Dinner Dance Journal</unittitle>
+          <unitdate datechar="creation" normal="1994/1995" type="inclusive">1994-1995</unitdate>
+          <container id="aspace_af99fb8378762683efe0a2180a89a171" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_c9e4be52fb742718535e247f3fabcd06" parent="aspace_af99fb8378762683efe0a2180a89a171" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Annual Dinner Dance Journal</unittitle>
+          <unitdate datechar="creation" normal="1996/1997" type="inclusive">1996-1997</unitdate>
+          <container id="aspace_2be6173b4b8aa75d3f8ca2f6cb04e0d8" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_aeacca8bac69bbf25c2caf3f9c2ec985" parent="aspace_2be6173b4b8aa75d3f8ca2f6cb04e0d8" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Annual Dinner Dance Journal</unittitle>
+          <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+          <container id="aspace_cea92ef9805f7a15f25aee4945fea781" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_63a999d82d52d88d67481340d23082aa" parent="aspace_cea92ef9805f7a15f25aee4945fea781" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Annual Dinner Dance Journal</unittitle>
+          <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <container id="aspace_df63398ec45d4bac764d60fd1cba3746" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_e257950e64adb230ed79bcb2d59ecc42" parent="aspace_df63398ec45d4bac764d60fd1cba3746" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Annual Dinner Dance Journal</unittitle>
+          <unitdate datechar="creation" normal="2002/2003" type="inclusive">2002-2003</unitdate>
+          <container id="aspace_0abd5609fd372f2d37a698fe0b042480" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_d1b1c61cac416c6bb268628377c83fc9" parent="aspace_0abd5609fd372f2d37a698fe0b042480" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>Annual Dinner Dance Journal</unittitle>
+          <unitdate datechar="creation" normal="2004/2005" type="inclusive">2004-2005</unitdate>
+          <container id="aspace_89e35cd0b4cb81c247fb492d76a7ee36" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_b3fa5a60bf5931b6dea3ca6b85a49412" parent="aspace_89e35cd0b4cb81c247fb492d76a7ee36" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>Annual Banquet</unittitle>
+          <unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate>
+          <container id="aspace_5dcf5a82b2e1f9ea544cad4d8d3b6222" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_6827914d1bcbd1241f1599a026443210" parent="aspace_5dcf5a82b2e1f9ea544cad4d8d3b6222" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Annual Banquet</unittitle>
+          <unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate>
+          <container id="aspace_e73df779082095838119e86155e135d8" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_a8743a905edd64237e86e78b8a66a658" parent="aspace_e73df779082095838119e86155e135d8" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>Annual Feis: Circulars</unittitle>
+          <unitdate datechar="creation" normal="1984/2008" type="inclusive">1984-2008</unitdate>
+          <container id="aspace_a6bb311f1ad89e51330bf00980e73fea" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_591eeec43d81619e7990928b7d51795b" parent="aspace_a6bb311f1ad89e51330bf00980e73fea" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>Annual Feis: Committee</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container id="aspace_97e9dcdd8adbdee31e3faf8ea0b93874" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_7d552090e9fa6e31a7a8ff5cc1e5f7f2" parent="aspace_97e9dcdd8adbdee31e3faf8ea0b93874" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>Annual Feis: Delegates Meeting</unittitle>
+          <unitdate datechar="creation" normal="1985/1986" type="inclusive">1985-1986</unitdate>
+          <container id="aspace_72ad88db2801dd2e641671ee52b1122c" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_8646b03b4ded7e5185124d35540f2dbe" parent="aspace_72ad88db2801dd2e641671ee52b1122c" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>Annual Feis: Documentation</unittitle>
+          <unitdate datechar="creation" normal="1951/1984" type="inclusive">1951-1984</unitdate>
+          <container id="aspace_a435c9b0256beda8af48f2e5435e3722" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_94746b80d7d76f4524f4a0bba2eee7ed" parent="aspace_a435c9b0256beda8af48f2e5435e3722" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Annual Feis: Program</unittitle>
+          <unitdate datechar="creation" normal="1942/1950" type="inclusive">1942-1950</unitdate>
+          <container id="aspace_b47ff68e8a4eb32ee56df536d7973ca6" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_ef847ea2a5da4a9d6719b0669b45e8b1" parent="aspace_b47ff68e8a4eb32ee56df536d7973ca6" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>Annual Feis: Program</unittitle>
+          <unitdate datechar="creation" normal="1952/1962" type="inclusive">1952-1962</unitdate>
+          <container id="aspace_e13643b30aa50f179adbb8144a28460b" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_10eb9c2f3d8c46f4996c1fb4457092cd" parent="aspace_e13643b30aa50f179adbb8144a28460b" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>Annual Feis: Program</unittitle>
+          <unitdate datechar="creation" normal="1963/1972" type="inclusive">1963-1972</unitdate>
+          <container id="aspace_e1e0506e9d1f019cdff8fafec8d619c1" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_1ef54fd0a5dc99a1c9522ae67f0cf14a" parent="aspace_e1e0506e9d1f019cdff8fafec8d619c1" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>Annual Feis: Program</unittitle>
+          <unitdate datechar="creation" normal="1981/1985" type="inclusive">1981-1985</unitdate>
+          <container id="aspace_e863a71d274a0ddcc55d612ae8207193" label="Mixed Materials [31142054616811]" type="Box">2</container>
+          <container id="aspace_0b0dfef314b5c93ca5c18c898fb63a21" parent="aspace_e863a71d274a0ddcc55d612ae8207193" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Annual Feis: Program</unittitle>
+          <unitdate datechar="creation" normal="1986/1988" type="inclusive">1986-1988</unitdate>
+          <container id="aspace_13b7178467e464915a18e88d35fe5a9b" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_27543cc13643d5129d4282f62fae2bd5" parent="aspace_13b7178467e464915a18e88d35fe5a9b" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>Annual Feis: Program</unittitle>
+          <unitdate datechar="creation" normal="1996/1997" type="inclusive">1996-1997</unitdate>
+          <container id="aspace_221a2bc5bbd567f37fa593887e3913b8" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_36177812ce5a18772f96bce1b4b4da03" parent="aspace_221a2bc5bbd567f37fa593887e3913b8" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>Annual Feis: Program</unittitle>
+          <unitdate datechar="creation" normal="2002/2003" type="inclusive">2002-2003</unitdate>
+          <container id="aspace_76d20d9a1138cd82dca4fec25ebf3546" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_23b2afc4cfb9cf794b72c8ebf2ad39de" parent="aspace_76d20d9a1138cd82dca4fec25ebf3546" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>Annual Feis: Program</unittitle>
+          <unitdate datechar="creation" normal="2005/2006" type="inclusive">2005-2006</unitdate>
+          <container id="aspace_08a97f62d3a5646e0ea9e941ca47b060" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_bc785fa7f0b8be3fb228c1c76f56a3e0" parent="aspace_08a97f62d3a5646e0ea9e941ca47b060" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>Annual Feis: Syllabus</unittitle>
+          <unitdate datechar="creation" normal="1964/2001" type="inclusive">1964, 1981-1989, 1997-2001</unitdate>
+          <container id="aspace_77b0b5938d557e46ec0f009f669b4625" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_4fcf5e88d3ab69d880d0257ac071b14b" parent="aspace_77b0b5938d557e46ec0f009f669b4625" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref57" level="file">
+        <did>
+          <unittitle>Auditors Report</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container id="aspace_0577a945c4ee9c7a4f5b517da2840f9b" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_a476dfa897306145ad6b4fdc7d154db6" parent="aspace_0577a945c4ee9c7a4f5b517da2840f9b" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_d1d3963713c5e2333dfb4a5128090bb1" level="file">
+        <did>
+          <unittitle>Certificate of Incorporation</unittitle>
+          <unitdate datechar="creation" normal="1936-03-16/1936-03-16">1936-03-16</unitdate>
+          <container altrender="Flat OS 21" id="aspace_28ebcb552aba48a9aa27ace489cac989" label="Mixed Materials [31142062853117]" type="Box">Tamiment Shared AIAXOS001</container>
+          <container id="aspace_721e700377ac5eed40587af606a2d81a" parent="aspace_28ebcb552aba48a9aa27ace489cac989" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref71" level="file">
+        <did>
+          <unittitle>Community Action Bureau</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container id="aspace_566198f673b03d4d4e806e3a1931402e" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_e7d7895e4b0adabdf281c6350d8fa61d" parent="aspace_566198f673b03d4d4e806e3a1931402e" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle>Community Action Bureau publication: <emph render="italic">The Needs of the American-Irish Community in the City of New York</emph></unittitle>
+          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+          <container id="aspace_5f13a90b7ffd11c798a356a4f9f66212" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_ce779d47f0840dc2ed57636651b8406f" parent="aspace_5f13a90b7ffd11c798a356a4f9f66212" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="file">
+        <did>
+          <unittitle>Constitution</unittitle>
+          <unitdate datechar="creation" normal="1942/1952" type="inclusive">1942, 1952</unitdate>
+          <container id="aspace_7d859bca5b86c1174b3d20b9851c78a6" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_9415a32d17a6df1909d83ae61c9fa927" parent="aspace_7d859bca5b86c1174b3d20b9851c78a6" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref58" level="file">
+        <did>
+          <unittitle>Constitution</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container id="aspace_074a04b079544d3b10850df4a0fb241a" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_161516eee28d4f481e9a7e71cd63721a" parent="aspace_074a04b079544d3b10850df4a0fb241a" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="file">
+        <did>
+          <unittitle>Correspondence</unittitle>
+          <unitdate datechar="creation" normal="1976/1991" type="inclusive">1976-1991</unitdate>
+          <container id="aspace_139e0501ba2216b00f202885fa4b8289" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_cb1f90003f914d629cc3255b27a7e48b" parent="aspace_139e0501ba2216b00f202885fa4b8289" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref59" level="file">
+        <did>
+          <unittitle>Delegates Meetings, Newsletter</unittitle>
+          <unitdate datechar="creation" normal="1984/2003" type="inclusive">1984-2003</unitdate>
+          <container id="aspace_af8b7bf53572bdec9fd0c257e71e7cbf" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_389fcb30d089bca647f695c396c11dd3" parent="aspace_af8b7bf53572bdec9fd0c257e71e7cbf" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref61" level="file">
+        <did>
+          <unittitle>Ephemera: Commemorative Ribbons</unittitle>
+          <unitdate datechar="creation" normal="1941/1954" type="inclusive">1941-1954</unitdate>
+          <container altrender="Card Box" id="aspace_cfb5cb668e2b7731f9c70ea64c873209" label="Mixed Materials [31142054616837]" type="Box">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref72" level="file">
+        <did>
+          <unittitle>Glee Club</unittitle>
+          <unitdate datechar="creation" normal="1937/1939" type="inclusive">1937-1939</unitdate>
+          <container id="aspace_9dbc4fe529765c4cdcbd62ed55652c83" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_509e2e3341253e346bd6d214c3e72680" parent="aspace_9dbc4fe529765c4cdcbd62ed55652c83" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref41" level="file">
+        <did>
+          <unittitle>Grand Festival: Yonkers Raceway</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">Jun 16, 1990</unitdate>
+          <container id="aspace_b06c327783eb9700863b75e31697160b" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_b882e02d45aa244619d7bd0cd4a2ec73" parent="aspace_b06c327783eb9700863b75e31697160b" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref42" level="file">
+        <did>
+          <unittitle>Installation of Officers</unittitle>
+          <unitdate datechar="creation" normal="1944/2007" type="inclusive">1944, 1975-2007, undated</unitdate>
+          <container altrender="Flat OS 21" id="aspace_3e29ea109162e7482f0149c52ee3c015" label="Mixed Materials [31142062853117]" type="Box">Tamiment Shared AIAXOS001</container>
+          <container id="aspace_e5a9eaf0eff5a95f81fe1ef50a1daf01" parent="aspace_3e29ea109162e7482f0149c52ee3c015" type="Folder">1</container>
+          <container id="aspace_4e02bf4ffc8afcdca0d255cdd879687f" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_0bb8bea104e573b7b299d80bda3fcc61" parent="aspace_4e02bf4ffc8afcdca0d255cdd879687f" type="Folder">13</container>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_40c391a5836bb374542985176f1ff548" label="Mixed Materials [31142063254414]" type="Box">6</container>
+          <container id="aspace_077b6c23de6a2eeb504bf2337aeac518" parent="aspace_40c391a5836bb374542985176f1ff548" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref64" level="file">
+        <did>
+          <unittitle>Irish Ball [Photograph]</unittitle>
+          <unitdate datechar="creation" normal="1932/1932" type="inclusive">Nov 4, 1932</unitdate>
+          <container altrender="Flat OS 21" id="aspace_b106dac1b6598f00505dbca75e18f349" label="Mixed Materials [31142062853117]" type="Box">Tamiment Shared AIAXOS001</container>
+          <container id="aspace_0efef979f9637b74d79d9fbdfdeed702" parent="aspace_b106dac1b6598f00505dbca75e18f349" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_f1aa10790fc526025bacf60c4ee518e1" level="file">
+        <did>
+          <unittitle>
+            <emph render="italic">Irish Directory</emph>
+          </unittitle>
+          <unitdate datechar="creation" normal="1983/1983">1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bade2959af80a04a2231a0e38e978698" label="Mixed Materials [31142063581287]" type="Box">Shared Tamiment 030</container>
+          <container id="aspace_cdb41ca52c2ea1f3170a61a8e513bc2e" parent="aspace_bade2959af80a04a2231a0e38e978698" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref43" level="file">
+        <did>
+          <unittitle>
+            <emph render="underline">Irish Year Book</emph>
+          </unittitle>
+          <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+          <container id="aspace_b4850ca7aff2c523dfdc412816ab3dc4" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_46f79de9daa533ab5e32213254b25526" parent="aspace_b4850ca7aff2c523dfdc412816ab3dc4" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref60" level="file">
+        <did>
+          <unittitle>Monthly Meeting Notices</unittitle>
+          <unitdate datechar="creation" normal="1982/2003" type="inclusive">1982-1989, 2003</unitdate>
+          <container id="aspace_9840595bfa85a380f23b6c6c1d496ab8" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_f86c5b37d149ce8e84d7771c88c1b532" parent="aspace_9840595bfa85a380f23b6c6c1d496ab8" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref44" level="file">
+        <did>
+          <unittitle>New York Irish Feis Day: New York World's Fair</unittitle>
+          <unitdate datechar="creation" normal="1946/1946" type="inclusive">Aug 1, 1964</unitdate>
+          <container id="aspace_9fc460b1f2e1b565219f76fad3a2c4b1" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_304254cae091e1dfffbe874dcab77b75" parent="aspace_9fc460b1f2e1b565219f76fad3a2c4b1" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref45" level="file">
+        <did>
+          <unittitle>Rita Fitzpatrick UICA Feis Scrapbook: Annual Celebrations</unittitle>
+          <unitdate datechar="creation" normal="1934/1980" type="inclusive">1934-1980</unitdate>
+          <container id="aspace_bfa03074745c3dcc9ac1ae2865828162" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_2323c3c29c975516443e042e876f6576" parent="aspace_bfa03074745c3dcc9ac1ae2865828162" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref46" level="file">
+        <did>
+          <unittitle>Rita Fitzpatrick UICA Feis Scrapbook: Articles and Personal Notes</unittitle>
+          <unitdate datechar="creation" normal="1979/1996" type="inclusive">1979, 1996, undated</unitdate>
+          <container id="aspace_840a608555e8132bb1dca4a5107a943d" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_0656bc43534964d17626fdeda24dc55a" parent="aspace_840a608555e8132bb1dca4a5107a943d" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref47" level="file">
+        <did>
+          <unittitle>Rita Fitzpatrick UICA Feis Scrapbook: Photographs and Newsclippings (photocopies)</unittitle>
+          <unitdate datechar="creation" normal="1938/1959" type="inclusive">1938-1959, undated</unitdate>
+          <container id="aspace_8d4f5406ab2f75b13685e0595b5f633c" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_6b43c28309a13dedcdb576f6efddebac" parent="aspace_8d4f5406ab2f75b13685e0595b5f633c" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_e84d3d72e190647936109226db1c1d8d" level="file">
+        <did>
+          <unittitle>Rita McLoughlin Fitzpatrick UICA Feis singing award medals</unittitle>
+          <unitdate datechar="creation" normal="1934/1968" type="inclusive">1934-1968</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_55023444579aa6ee9bd559e17a936ff3" label="Mixed Materials [31142063254414]" type="Box">6</container>
+          <container id="aspace_fdabf7dab1cc1d0a89dafe468b72f2ed" parent="aspace_55023444579aa6ee9bd559e17a936ff3" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref73" level="file">
+        <did>
+          <unittitle>United Irish Counties for the U.S.O.</unittitle>
+          <unitdate datechar="creation" normal="1942/1942" type="inclusive">1942</unitdate>
+          <container id="aspace_424f869ac87985662fa05ff7522afe69" label="Mixed Materials [31142054616829]" type="Box">3</container>
+          <container id="aspace_1db12adfb53f4f2532ee6726d55151d5" parent="aspace_424f869ac87985662fa05ff7522afe69" type="Folder">27</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

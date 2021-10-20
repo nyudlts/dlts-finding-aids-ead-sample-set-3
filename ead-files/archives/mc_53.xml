@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_53">mc_53</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Ivan L. Bennett Speeches <num>MC.53</num></titleproper>
+        <author>Tom Frusciano.  Electronic version produced by Leslie Barnes. Additional processing by Shannon McDonald in 2013.</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from a paper finding aid.</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 20:52:30 -0400</date>.</creation>
+      <langusage>Finding aid written in English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>January 2019</date>
+        <item>Edited by Jacqueline Rider for compliance with DACS and ACM Required Elements for Archival Description</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Ivan L. Bennett Speeches</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="naf">Bennett, Ivan L. (Ivan Loveridge), 1892-1980</persname>
+      </origination>
+      <unitid>MC.53</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+        <extent altrender="carrier">in 2 manuscript boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1979/1981" type="inclusive">1979-1981</unitdate>
+      <abstract id="aspace_93e6d24b769dfaae2cc4b89b747e6585">Ivan L. Bennett was Acting President of New York University (NYU) from 1979 to 1981. This collection contains 76 speeches and remarks he delivered during his tenure, along with related correspondence, memoranda, and drafts.</abstract>
+      <physloc id="aspace_5fb7a160bab8b906edfc001060ac695b">Materials are stored offsite, and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_e55791af9a712cf8d2ccab2c63db9c86">Materials are in English.</langmaterial>
+    </did>
+    <bioghist id="aspace_5e1a491f7b2152cfd33320bfc179995d">
+      <head>Biographical Note</head>
+      <p>Ivan Loveridge Bennett, Jr., M.D., served as acting president of New York University (NYU) from 1979 to 1981, when John C. Sawhill left the position to serve as deputy secretary of the U.S. Department of Energy. Dr. Bennett was succeeded by John Brademas. </p>
+      <p>Dr. Bennett held numerous administrative positions at NYU before serving as acting president. On January 21, 1969, Bennett was appointed Vice-President for Health Affairs and Director of the NYU Medical Center. On May 8, 1970, he was appointed director of the School of Medicine and Director of the Post-Graduate Medical School. (Bennett was the first person to hold both positions simultaneously.) In 1970 he became Dean of the New York University School of Medicine; in 1973 he was appointed Provost of the New York University Medical Center; and in 1976 Bennett was named Executive Vice-President for Health Affairs. Bennett did not seek election as President of New York University in 1981, opting instead to return to the Medical Center.</p>
+      <p>Bennett's career as a medical researcher, professor, and administrator had been well established by the time he arrived at New York University. He was an Associate Professor of Internal Medicine at Yale University from 1952 to 1954. He then moved to Johns Hopkins University, where he served as an Associate Professor of Medicine until 1957, when he was made a full Professor. In 1958 Bennett was named the Baxley Professor of Pathology and the director of that department. Bennett took a leave of absence from Johns Hopkins University in 1966 to become the Deputy Director and, later, Acting Director of U.S. President Lyndon B. Johnson's Office of Science and Technology. </p>
+    </bioghist>
+    <scopecontent id="aspace_374569d99f511d4d8d018768ac169865">
+      <head>Scope and Contents</head>
+      <p>This collection contains 76 speeches and series of remarks delivered by Ivan L. Bennett between 1979 and 1981, during his tenure as acting president of New York University. This collection also includes related materials, including correspondence, memoranda, and drafts. The speeches are arranged chronologically: Box 1 contains addresses and remarks delivered between March 1979 and June 1980 and Box 2 contains speeches and remarks presented from July 1980 and June 1981.</p>
+    </scopecontent>
+    <prefercite id="aspace_91e530e049ba17fff2eea7dc0b3a93c5">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date (if known); Ivan L. Bennett Speeches; MC 53; box number; folder number; New York University Archives</p>
+    </prefercite>
+    <acqinfo id="aspace_f43e4ffa71de91525e264d0ccefca56f">
+      <head>Immediate Source of Acquisition</head>
+      <p>This collection was transferred from the President's Office to the Archives by Judith Chazen Walsh at the request of Lynne Brown, Assistant to the President, on June 8, 1981.</p>
+    </acqinfo>
+    <userestrict id="aspace_68bd5b832d9b71255e6d91c528096cb5">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the creator are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, (212) 998-2646, university-archives@nyu.edu.</p>
+    </userestrict>
+    <accessrestrict id="aspace_b65ebb9163d3a1dd471ba0f37161bd17">
+      <head>Access Restrictions</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <arrangement id="aspace_76bd2ee1cff44e79687912014eb5b16e">
+      <head>Arrangement</head>
+      <p>The folders are arranged chronologically.</p>
+    </arrangement>
+    <processinfo id="aspace_dee0ef3eb9408d0f97fc2bad2da00e36">
+      <head>Processing Information</head>
+      <p>Processing information before 2019 is unavailable.</p>
+    </processinfo>
+    <controlaccess>
+      <corpname source="naf">New York University</corpname>
+      <corpname rules="dacs" source="local">New York University. Office of the President</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>"Principles for Improving Health in the Developing World," Rockefeller Foundation</unittitle>
+          <unitdate datechar="creation">March 1979 and May 1979</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_67bfc08fdc1ed7fe7a4f90847c28a82c" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_9c82e1008ba11d2a015784991b9e330d" parent="aspace_67bfc08fdc1ed7fe7a4f90847c28a82c" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Hebrew Union College Dedication Dinner, Plaza Hotel</unittitle>
+          <unitdate datechar="creation">October 29, 1979</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_fe207f91a5c6de8fddbaa141aa826321" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_a6d918b64911ff0766e1b51ebf7615fa" parent="aspace_fe207f91a5c6de8fddbaa141aa826321" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Dental Associates Dinner, St. Regis</unittitle>
+          <unitdate datechar="creation">October 31, 1979</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_8d5c4961617f188a5ddc240a72877884" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_5f1179ee93f39d7b2b00a3bd712e4c8e" parent="aspace_8d5c4961617f188a5ddc240a72877884" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>"The Future of Academic Medicine," Annual Meeting of the Association of Program Directors in Internal Medicine, Washington Hilton Hotel, Washington, D. C.</unittitle>
+          <unitdate datechar="creation">November 3, 1979</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_5fd4e85c8d2e7166f62debede111fd04" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_cd4b1b2c58a309ba1e665413761588de" parent="aspace_5fd4e85c8d2e7166f62debede111fd04" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Special Convocation, NYU Medical Center</unittitle>
+          <unitdate datechar="creation">November 10, 1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5ca295c021370219a0fbfbc2295a5f91" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_4b24c6f87e063d61a4ef0ac8d36bbdf2" parent="aspace_5ca295c021370219a0fbfbc2295a5f91" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Chet Huntley Memorial Lecture</unittitle>
+          <unitdate datechar="creation">November 15, 1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6ca825747e323634b1de4b07877896ae" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_a34204a69fbf0652ab730b4c2175a499" parent="aspace_6ca825747e323634b1de4b07877896ae" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Dental Associates Fall Alumni Meeting and Deans Day, Sheraton Center</unittitle>
+          <unitdate datechar="creation">November 16, 1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_886fd6a4488e84383c194edf7c19e960" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_9115aa17569838ca4a7622ec2e4ab158" parent="aspace_886fd6a4488e84383c194edf7c19e960" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>"Medicine, Technology and Society," Bristol Premedical Society, NYU</unittitle>
+          <unitdate datechar="creation">November 20, 1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b2397dfda48a61bfc012d13857b40bac" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_9969f8bf234f47e86a9d08ea4336118a" parent="aspace_b2397dfda48a61bfc012d13857b40bac" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Luncheon for Chinese Delegation, NYU</unittitle>
+          <unitdate datechar="creation">November 26, 1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5eff93ca30c31cd41523509bc4c5c29b" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_1a1c5320a00e17668e69275135abfb93" parent="aspace_5eff93ca30c31cd41523509bc4c5c29b" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Alumni Federation Reception, NYU</unittitle>
+          <unitdate datechar="creation">November 29, 1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b049b653fac5462977ecbb4faf8dbb4a" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_37dff78d06d18c133f0c1b32e4582d22" parent="aspace_b049b653fac5462977ecbb4faf8dbb4a" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>Commerce Alumni Association, 29th Annual Dean's Day</unittitle>
+          <unitdate datechar="creation">December 1, 1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3caf39994d0ab9f29ffcbdfa254f8806" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_4d75fe2aa65bb200e3c4cb91bb195994" parent="aspace_3caf39994d0ab9f29ffcbdfa254f8806" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>Meeting of the New York Alliance for Public Education</unittitle>
+          <unitdate datechar="creation">December 12, 1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cbb368b0e9b2b7d11a3b7426519d270e" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_1dccb099bf6b326015963a00d9af3c78" parent="aspace_cbb368b0e9b2b7d11a3b7426519d270e" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Urban Studies Center Press Conference, NYU</unittitle>
+          <unitdate datechar="creation">December 17, 1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bed231f181bc4d4ca018911243c5e98e" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_db4fcfd3f60d37e955335156e52428a8" parent="aspace_bed231f181bc4d4ca018911243c5e98e" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>"The Planning of Research: The Role of the Federal Government," coauthored with Thomas J. Kennedy, Jr., in <emph render="italic">The Social Context of Medical Research</emph> (Harvard University Press, 1980)</unittitle>
+          <unitdate datechar="creation">1979-1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9caaaf4b9c95cae083b16e4f333bd24b" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_fa7c9a33e08912d30bf4e0403978ba66" parent="aspace_9caaaf4b9c95cae083b16e4f333bd24b" type="Folder">14</container>
+        </did>
+        <scopecontent id="aspace_8b8bd5b9c9207f575ec2971ed8c1dffd">
+          <head>Scope and contents</head>
+          <p>Only correspondence relating to this lecture exists in this folder.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Quote for Proposed Article in <emph render="italic">Medical Center News</emph></unittitle>
+          <unitdate datechar="creation">1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b72f09073d4d3162551911ba1618bb95" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_a7c14656143ab8d0ef724ed1f323eb3f" parent="aspace_b72f09073d4d3162551911ba1618bb95" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>Quote re: "Demands of Increased Competition," <emph render="italic">The Herald Statesman</emph> (Yonkers, N.Y.)</unittitle>
+          <unitdate datechar="creation">January 3, 1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9cedbaef3b0e211d9937ade56850c670" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_ddb53772c29adb1885947588ee69307c" parent="aspace_9cedbaef3b0e211d9937ade56850c670" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>Meeting of Council of Friends of the Institute of Fine Arts</unittitle>
+          <unitdate datechar="creation">February 27, 1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6b4d6de337322263ac409ddca98f8006" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_cfe774f3938d09803c4bd9252d65d922" parent="aspace_6b4d6de337322263ac409ddca98f8006" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Announcement of New Dean for the Graduate School of Business Administration</unittitle>
+          <unitdate datechar="creation">March 18, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_de465d9f2892210e8e86b47c7d169e1f" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_68b54ac6982035a30d822183d2e1b668" parent="aspace_de465d9f2892210e8e86b47c7d169e1f" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>Graduate School of Arts and Science Alumni Day</unittitle>
+          <unitdate datechar="creation">March 22, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_73be3c9dddba8699820f7c07d43e22ae" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_3cc0e875d0b218ff1db772a56d9178fa" parent="aspace_73be3c9dddba8699820f7c07d43e22ae" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>Richard Ettinghausen Library Dedication</unittitle>
+          <unitdate datechar="creation">April 3, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_ffba27921182bfaf132f1d8e8bafa83c" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_297d4123683477b4595fac32dd07efce" parent="aspace_ffba27921182bfaf132f1d8e8bafa83c" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>"Medicine, Technology and Society," Princeton University Pre-Medical Society</unittitle>
+          <unitdate datechar="creation">April 9, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_bf832441b22ec26feb5564dd5a674330" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_cda570fdc539126c5edebcb4c87352f8" parent="aspace_bf832441b22ec26feb5564dd5a674330" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>Eastern Comparative Literature Conference, NYU</unittitle>
+          <unitdate datechar="creation">May 3, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_e6405deb5a2ecb0f307880d8ae2aa5ef" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_cf531f0c019d374782eeed28e80631e5" parent="aspace_e6405deb5a2ecb0f307880d8ae2aa5ef" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>School of Social Work 20th Anniversary Reception Honoring Dr. Ruth Lewis Farkas, NYU</unittitle>
+          <unitdate datechar="creation">April 20, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_96158af8fda42071378750c03c2e018e" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_7ab0a47c2a3a530e0d32a6126b45a51f" parent="aspace_96158af8fda42071378750c03c2e018e" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>"America's Confrontation with the American Dream," Founders Day Address</unittitle>
+          <unitdate datechar="creation">April 24, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_ad08da91e644140d5e8e724288d529d0" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_dc428163c1a3e50465eda31164207172" parent="aspace_ad08da91e644140d5e8e724288d529d0" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>"Medicine, Technology and Society," Alpha Omega Alpha Lecture, Ohio State University</unittitle>
+          <unitdate datechar="creation">May 7, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_ecbac9a05dc53cb2a7af8e2dd4b23683" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_68519d3e624b8377b9d79fbd59b43e65" parent="aspace_ecbac9a05dc53cb2a7af8e2dd4b23683" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle>Afro-American Institute Conference, NYU</unittitle>
+          <unitdate datechar="creation">May 23, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_ef38c0ab444ce051e6ae23826af50222" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_238dedeae936070442dffcdfe2b9b577" parent="aspace_ef38c0ab444ce051e6ae23826af50222" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="file">
+        <did>
+          <unittitle>Alumni Federation Annual Dinner, NYU</unittitle>
+          <unitdate datechar="creation">May 28, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_c9fbc502a38ae4a32648e80ec461222f" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_dc3e8f9572f7b98ada6a0628cff4fdc9" parent="aspace_c9fbc502a38ae4a32648e80ec461222f" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="file">
+        <did>
+          <unittitle>NYU Medical School Graduating Class Dinner Dance</unittitle>
+          <unitdate datechar="creation">June 3, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_cb981ef7fa706b1cedc64da41f068166" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_84e20118e82e5b27ea792e0ae93ebeb1" parent="aspace_cb981ef7fa706b1cedc64da41f068166" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref41" level="file">
+        <did>
+          <unittitle>Graduate School of Business Administration Pre-Commencement Ceremony</unittitle>
+          <unitdate datechar="creation">June 4, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_69ae93436bd6c16adf77c0b58fa67ac7" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_d1af578aff33cb095c24308767289442" parent="aspace_69ae93436bd6c16adf77c0b58fa67ac7" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_ref42" level="file">
+        <did>
+          <unittitle>Introduction of Honorary Degree Recipients, Annual Trustees Dinner, NYU</unittitle>
+          <unitdate datechar="creation">June 4, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_06628703a0aaa9df1fed30812f72405e" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_af838284f75da366287bed258687542c" parent="aspace_06628703a0aaa9df1fed30812f72405e" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref43" level="file">
+        <did>
+          <unittitle>Commencement Address, New York University</unittitle>
+          <unitdate datechar="creation">June 5, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_14954de0b6fa6603379587623936d6e3" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_87b6b658ea3516d24bcc79e12a4ca23a" parent="aspace_14954de0b6fa6603379587623936d6e3" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref45" level="file">
+        <did>
+          <unittitle>Second World Congress on Antisepsis, NYU Medical Center</unittitle>
+          <unitdate datechar="creation">June 12, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_debd99c7b18ddb1b20cebbdd05a002db" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_49a73b5b9e4f623925175c604890b113" parent="aspace_debd99c7b18ddb1b20cebbdd05a002db" type="Folder">32</container>
+        </did>
+        <scopecontent id="aspace_b26c5d7e8e8dea134fd0580ea9b3ea89">
+          <head>Scope and Contents</head>
+          <p>Copy of remarks not in folder. Folder contains letters regarding the event.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref46" level="file">
+        <did>
+          <unittitle>Basic Text for General Ivan L. Bennett's Obituary</unittitle>
+          <unitdate datechar="creation">June 18, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_3ad457abc520129ab3b86614f8c97142" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_10526af2a846cb21fca7b4afcb5b9cfa" parent="aspace_3ad457abc520129ab3b86614f8c97142" type="Folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_ref47" level="file">
+        <did>
+          <unittitle>Graduate School of Business Administration Partners Dinner Honoring William R. Dill</unittitle>
+          <unitdate datechar="creation">June 26, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_d19078cadd482c0808a0cfa866f41ac2" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_db60a9ea2917fb082d417679044cd0ae" parent="aspace_d19078cadd482c0808a0cfa866f41ac2" type="Folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_ref48" level="file">
+        <did>
+          <unittitle>Graduation Ceremony Remarks, NYU College of Dentistry</unittitle>
+          <unitdate datechar="creation">June 26, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_d84460cf1078de546ea7f0af4902f845" label="Mixed Materials [31142062742344]" type="Box">1</container>
+          <container id="aspace_98e90b2ae3e032021e9d9d9ac153210b" parent="aspace_d84460cf1078de546ea7f0af4902f845" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_ref49" level="file">
+        <did>
+          <unittitle>Careers in Business Reception, NYU</unittitle>
+          <unitdate datechar="creation">July 10, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_aa3385b181e29799e6bc1a22be69e81b" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_e5183f5d3debd90b1b410179718c1b67" parent="aspace_aa3385b181e29799e6bc1a22be69e81b" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref50" level="file">
+        <did>
+          <unittitle>School of Social Work Faculty Meeting</unittitle>
+          <unitdate datechar="creation">September 3, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_0c623adb6fb33c1d67b365c3e99826fe" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_0af426cd97523f18c8d3e4c23be0b979" parent="aspace_0c623adb6fb33c1d67b365c3e99826fe" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref51" level="file">
+        <did>
+          <unittitle>Report to the Library Faculty </unittitle>
+          <unitdate datechar="creation">September 18, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_f0f96301cd34fd6d0c01eb53d45b172a" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_a399c1684c945c0adbe590bbb66f8a3c" parent="aspace_f0f96301cd34fd6d0c01eb53d45b172a" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref52" level="file">
+        <did>
+          <unittitle>Report to the Dental Faculty</unittitle>
+          <unitdate datechar="creation">September 18, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_fc9bf54bb1bf07a60bc536c2ebb33dd9" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_983645fe442171e87630355a3442374b" parent="aspace_fc9bf54bb1bf07a60bc536c2ebb33dd9" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref54" level="file">
+        <did>
+          <unittitle>"Medicine, Technology and Society," The Twenty-Second Tinsley R. Harrison Memorial Lecture, University of Alabama in Birmingham</unittitle>
+          <unitdate datechar="creation">Sepember 22, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_028b7a2c68321e91b808e7fb9669d49e" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_76994cdf12283f7e6a2215830a0b785e" parent="aspace_028b7a2c68321e91b808e7fb9669d49e" type="Folder">5</container>
+        </did>
+        <odd id="aspace_b3c9489b7800859451da1fc7a5d65bd4">
+          <head>General</head>
+          <p>Also published in the Alabama Journal of Medical Sciences, Vol 18, No. 1, 1980</p>
+        </odd>
+      </c>
+      <c id="aspace_ref55" level="file">
+        <did>
+          <unittitle>Report to the Graduate School of Public Administration Faculty</unittitle>
+          <unitdate datechar="creation">September 23, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_51b1b577d425d2835077c0f18813be9f" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_740d2d76ebb269bb07956fc063fb7832" parent="aspace_51b1b577d425d2835077c0f18813be9f" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref56" level="file">
+        <did>
+          <unittitle>The Albert Gallatin Associates Dinner in Honor of John M. Schiff</unittitle>
+          <unitdate datechar="creation">October 2, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_b611260a54e555be074a359e27338982" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_b790192dd5a0dc357f689ee135393383" parent="aspace_b611260a54e555be074a359e27338982" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref57" level="file">
+        <did>
+          <unittitle>Report to the Faculty of Arts and Science</unittitle>
+          <unitdate datechar="creation">October 6, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_7ea4b324d604de5a23d2fe1886590408" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_ed8aa01e088f35395920bc160070dc9b" parent="aspace_7ea4b324d604de5a23d2fe1886590408" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref58" level="file">
+        <did>
+          <unittitle>Report to the Faculty of Business Administration</unittitle>
+          <unitdate datechar="creation">October 8, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_92552c3cad64dc79f7fa29201b7a0f62" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_9abeb01139ffd73199ba73de50b7daad" parent="aspace_92552c3cad64dc79f7fa29201b7a0f62" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref59" level="file">
+        <did>
+          <unittitle>Dedication of Judge Abraham Lieberman Reading Room, NYU Law School</unittitle>
+          <unitdate datechar="creation">October 22, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_1c68f0b0d2416a5a015cb6c737642c86" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_63afb4fbc2c33772c363f0c6e00fd6e7" parent="aspace_1c68f0b0d2416a5a015cb6c737642c86" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref60" level="file">
+        <did>
+          <unittitle>Eulogy for Gladys Houx Rusk</unittitle>
+          <unitdate datechar="creation">October 24, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_7eb83a3e7de366c249958dfb019f79c0" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_8cdf8959393cf06e4f05b34b3f00f8bb" parent="aspace_7eb83a3e7de366c249958dfb019f79c0" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref61" level="file">
+        <did>
+          <unittitle>Dental Associates Dinner in Honor of Dr. S. Sigmund Stahl, St. Regis-Sheraton Hotel</unittitle>
+          <unitdate datechar="creation">November 5, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_d6df9ba8d05769fc7246715e662a832d" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_1a4884872b10fa4fc5a6966e8a3913a7" parent="aspace_d6df9ba8d05769fc7246715e662a832d" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref62" level="file">
+        <did>
+          <unittitle>The Charles Waldo Haskins Associates of the College of Business and Public Administration Dinner in Honor of Arjay Miller</unittitle>
+          <unitdate datechar="creation">November 12, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_39d24fb4bcb4cb0013977d3b7d9b806c" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_068f851830434999bfd70d8162c0e7b7" parent="aspace_39d24fb4bcb4cb0013977d3b7d9b806c" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref63" level="file">
+        <did>
+          <unittitle>The Arthur T. Vanderbilt Associates Dinner in Honor of Whitney North Seymour, Sr. </unittitle>
+          <unitdate datechar="creation">November 12, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_f07026ef5fa8f146da324cd2922ea262" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_5961ab849581e5417fe304f17cf6815f" parent="aspace_f07026ef5fa8f146da324cd2922ea262" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref64" level="file">
+        <did>
+          <unittitle>Chet Huntley Memorial Lecture, NYU</unittitle>
+          <unitdate datechar="creation">November 13, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_3b5f3304d59e7166957ba594d672b300" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_0493fd0f4154126735f9c748b75f627a" parent="aspace_3b5f3304d59e7166957ba594d672b300" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref65" level="file">
+        <did>
+          <unittitle>NYU Dentistry Alumni Day</unittitle>
+          <unitdate datechar="creation">November 14, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_974aebaff4e4fae804794585637f6422" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_650549c83fd3a50f0ed43755b8945ca5" parent="aspace_974aebaff4e4fae804794585637f6422" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref66" level="file">
+        <did>
+          <unittitle>NYU California Alumni Club, Los Angeles, California</unittitle>
+          <unitdate datechar="creation">November 15, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_9fe9ec9ed61043a11ead0ed1b87d04a6" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_2fcf428abdfd5095d5cdd63b3892f07f" parent="aspace_9fe9ec9ed61043a11ead0ed1b87d04a6" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref67" level="file">
+        <did>
+          <unittitle>Graduate School of Business Administration Alumni Dinner</unittitle>
+          <unitdate datechar="creation">November 17, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_bed491644b112835b941b3f8400e779b" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_7b498554efa8e534d146b02717bb6212" parent="aspace_bed491644b112835b941b3f8400e779b" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref68" level="file">
+        <did>
+          <unittitle>Washington Square and University College Dedication of Lounge from Class of 1929</unittitle>
+          <unitdate datechar="creation">November 21, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_a7615b1ed1dcd8b06b545917ac8d49cf" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_be3f2078c0b8a0223ef0179087f21da2" parent="aspace_a7615b1ed1dcd8b06b545917ac8d49cf" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref69" level="file">
+        <did>
+          <unittitle>College of Business and Public Administration, School of Education, Health, Nursing, and Arts Professions Parents Day</unittitle>
+          <unitdate datechar="creation">November 23, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_a2ce017e60218380505a4f4c5617d01f" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_99b90a684491bcd4e5ec5fc96ddde285" parent="aspace_a2ce017e60218380505a4f4c5617d01f" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref70" level="file">
+        <did>
+          <unittitle>Publication of Volume II of the William Livingston Papers, NYU</unittitle>
+          <unitdate datechar="creation">December 3, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_75e3c5f75e79021807c0aa3885984abb" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_566b115abb59651bb6b106c289b2f064" parent="aspace_75e3c5f75e79021807c0aa3885984abb" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref71" level="file">
+        <did>
+          <unittitle>NYU Alumnae Club, Inc., Woman of Achievement Awards Reception and Presentation in Honor of Dr. Ruth Lewis Farkas</unittitle>
+          <unitdate datechar="creation">December 4, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_8de6e468bc4c9146f212edd3b1ce179f" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_100a2352c652cf7778ae8f7a8168a63d" parent="aspace_8de6e468bc4c9146f212edd3b1ce179f" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref72" level="file">
+        <did>
+          <unittitle>Academic Convocation for the Installation of William Frederic May as Dean of the Faculty of Business Administration and Dean of the Graduate School of Business Administration</unittitle>
+          <unitdate datechar="creation">Decemer 8, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_80475fb9e6c1a91e53f58c39da85591d" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_aca7a18c64b3c38fdf4045070398e33a" parent="aspace_80475fb9e6c1a91e53f58c39da85591d" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref73" level="file">
+        <did>
+          <unittitle>Inaugural Lecture in the Humanities, Issac Bashevis Singer, Rockefeller University</unittitle>
+          <unitdate datechar="creation">December 8, 1980</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_dc711a23fe91caa6898002c978f3b945" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_082054a869943d845d61baa6ef1755e0" parent="aspace_dc711a23fe91caa6898002c978f3b945" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref74" level="file">
+        <did>
+          <unittitle>25-Year Service Awards Reception, NYU</unittitle>
+          <unitdate datechar="creation">January 21, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_a2cbcf7328ee39257e40840cbcbaec48" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_293c1436749d706e10fe4e322e1008a2" parent="aspace_a2cbcf7328ee39257e40840cbcbaec48" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref75" level="file">
+        <did>
+          <unittitle>Gold Medal Dinner Honoring Walter Cronkite, Palm Beach, Florida</unittitle>
+          <unitdate datechar="creation">February 1, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_35702769f5c0ccfff5e5b0815716e343" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_56ff4b1c4b88f92b52b5a1eb1cc992b6" parent="aspace_35702769f5c0ccfff5e5b0815716e343" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref76" level="file">
+        <did>
+          <unittitle>United Nations Reform Conference, NYU</unittitle>
+          <unitdate datechar="creation">February 19, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_a084913a92a6f840e8897a9fbf64cdb0" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_e78c77026c248033719856fdbd3df46b" parent="aspace_a084913a92a6f840e8897a9fbf64cdb0" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ref77" level="file">
+        <did>
+          <unittitle>Real Estate Institute (NYU) Dinner, Waldorf Astoria</unittitle>
+          <unitdate datechar="creation">March 19, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_67f9f63adaa7a43f3396db15f82295c1" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_8d5cdb269ecae2a73389618b754fc8cf" parent="aspace_67f9f63adaa7a43f3396db15f82295c1" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref78" level="file">
+        <did>
+          <unittitle>Convocation Honoring Madam Sadat</unittitle>
+          <unitdate datechar="creation">March 25, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_e71732091d4f8a1cdaadde8078726bf1" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_9c309ad3f3f1ef76a1081383aa5a83c6" parent="aspace_e71732091d4f8a1cdaadde8078726bf1" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_ref90" level="file">
+        <did>
+          <unittitle>Luncheon Honoring Madam Sadat</unittitle>
+          <unitdate datechar="creation">March 25, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_4253a53cc0db79a7cde408d0379b7662" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_e35223855e75125ca4538f92f6187975" parent="aspace_4253a53cc0db79a7cde408d0379b7662" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref79" level="file">
+        <did>
+          <unittitle>Dinner Preceding Founders Day Honors Convocation</unittitle>
+          <unitdate datechar="creation">April 23, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_0d2fd1e5238ce68874a7cf18c9d26ef8" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_27e1609fdf2125c32bee45d878362c75" parent="aspace_0d2fd1e5238ce68874a7cf18c9d26ef8" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref80" level="file">
+        <did>
+          <unittitle>Founders Day Convocation Honoring Lord Noel Gilroy Annan</unittitle>
+          <unitdate datechar="creation">April 23, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_3463919f449cd929aad85a706fccf141" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_c02076d123d7d62c267761c6a6d6355f" parent="aspace_3463919f449cd929aad85a706fccf141" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_ref81" level="file">
+        <did>
+          <unittitle>Commerce Alumni Dinner, Waldorf Astoria</unittitle>
+          <unitdate datechar="creation">May 6, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_1eed7291c8a0f4abf5ba2006c766e4be" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_6a1298dad1d29f50fe170c561129dbef" parent="aspace_1eed7291c8a0f4abf5ba2006c766e4be" type="Folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_ref82" level="file">
+        <did>
+          <unittitle>Gallatin Associates Dinner</unittitle>
+          <unitdate datechar="creation">May 19, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_59819cb89f8699355e5dc257a215b664" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_9092581ba14242d82cff17f0f3e2b06d" parent="aspace_59819cb89f8699355e5dc257a215b664" type="Folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_ref83" level="file">
+        <did>
+          <unittitle>Medical University of South Carolina, Charleston, S.C.</unittitle>
+          <unitdate datechar="creation">May 21, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_b3cb4379f9315422c3f289dd76e770e4" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_6a2a65258096b96f2bb659a559055bbe" parent="aspace_b3cb4379f9315422c3f289dd76e770e4" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_ref84" level="file">
+        <did>
+          <unittitle>Alumni Federation Dinner, NYU Club</unittitle>
+          <unitdate datechar="creation">May 21, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_4b164f3af621b4d6ef65d75a294dc1f3" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_f2e8b311bf6de1606e53fdba3a04764a" parent="aspace_4b164f3af621b4d6ef65d75a294dc1f3" type="Folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_ref85" level="file">
+        <did>
+          <unittitle>Testimonial Dinner to Theodore E. Woodward, M.D., University of Maryland, Baltimore, Maryland</unittitle>
+          <unitdate datechar="creation">May 22, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_76a3fffd557fe2a749fff34917fc1c12" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_5c91b68b47896a375e0a8fa5b2bf493d" parent="aspace_76a3fffd557fe2a749fff34917fc1c12" type="Folder">37</container>
+        </did>
+      </c>
+      <c id="aspace_ref86" level="file">
+        <did>
+          <unittitle>"Medicine, Technology and Society," The William Resnik Memorial Lecture, Stamford, Connecticut</unittitle>
+          <unitdate datechar="creation">May 27, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_70e0adbeab0e0d41f0dcefb6ef8f9255" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_82375eca0b3f37d9705e615bb9ddb95c" parent="aspace_70e0adbeab0e0d41f0dcefb6ef8f9255" type="Folder">38</container>
+        </did>
+      </c>
+      <c id="aspace_ref87" level="file">
+        <did>
+          <unittitle>Graduate School of Business Administration Pre-Commencement Exercise, Trinity Church</unittitle>
+          <unitdate datechar="creation">June 3, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_388b455d24e7be63820a8ece7ceb9793" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_c93f6130532447d393c240b20b251427" parent="aspace_388b455d24e7be63820a8ece7ceb9793" type="Folder">39</container>
+        </did>
+      </c>
+      <c id="aspace_ref88" level="file">
+        <did>
+          <unittitle>Introduction of Honorary Degree Recipients, Annual Trustees Dinner, NYU</unittitle>
+          <unitdate datechar="creation">June 3, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_f3d23cfa1e9b2e4e1865792c1cb1402e" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_d434a63bc561fc81ded8f7446e76e89d" parent="aspace_f3d23cfa1e9b2e4e1865792c1cb1402e" type="Folder">40</container>
+        </did>
+      </c>
+      <c id="aspace_ref89" level="file">
+        <did>
+          <unittitle>Commencement Address - New York University</unittitle>
+          <unitdate datechar="creation">June 4, 1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_4f3900eb97561da7037d4a4d6a65ff76" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_cd40af48e7e18f31fc293c08b06192cc" parent="aspace_4f3900eb97561da7037d4a4d6a65ff76" type="Folder">41</container>
+        </did>
+      </c>
+      <c id="aspace_ref100" level="file">
+        <did>
+          <unittitle>New York University Association in France</unittitle>
+          <unitdate datechar="creation">n.d</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_c7d3822f8837144e1fe472d096c98261" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_e96e68e78292dec2762c7a364361f2ac" parent="aspace_c7d3822f8837144e1fe472d096c98261" type="Folder">42</container>
+        </did>
+      </c>
+      <c id="aspace_ref101" level="file">
+        <did>
+          <unittitle>List of Speeches </unittitle>
+          <unitdate datechar="creation">1979 -1981</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_fd172eecfc8884c0c07dfd554613225a" label="Mixed Materials [31142062742351]" type="Box">2</container>
+          <container id="aspace_c33b35576f7e8540ed71c4510b59177d" parent="aspace_fd172eecfc8884c0c07dfd554613225a" type="Folder">43</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

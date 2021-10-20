@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/aia_011">aia_011</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the John T. Gilroy Papers <num>AIA.011</num></titleproper>
+        <author>Bonnie Gordon and Rachel Searcy</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>4/21/2015</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 02:07:56 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>John T. Gilroy Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Gilroy, John T.</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Richardson, Joan</persname>
+      </origination>
+      <unitid>AIA.011</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4 Linear Feet</extent>
+        <extent altrender="carrier">in 2 record cartons, 1 manuscript box, 1 oversize flat box, and 1 small artifacts box</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1919/2002" type="inclusive">1919-2002</unitdate>
+      <unitdate datechar="creation" normal="1990/1999" type="bulk">1990-1999</unitdate>
+      <abstract id="aspace_d17bf9fc40a6215a7f8b23d19597ee98">John T. Gilroy was a member and officer of the County Fermanagh Social and Benevolent Association of New York, and of Ancient Order of Hibernians Division 3 (William B. Burke), New York County. This collection consists of personal material, as well as materials concerning Gilroy's membership in various social and fraternal organizations, including the Ancient Order of Hibernians, New York County, Division 3 and the County Fermanagh Social &amp; Benevolent Association of New York. Materials include artifacts, photographs, correspondence, meeting minutes, event programs, newspaper clippings, and various organizational records.</abstract>
+      <langmaterial id="aspace_ae354cc8b543a9ec1e0a44eef010c87f">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_9f762553caa345ca10d2dec1e1c64e97">
+      <head>Conditions Governing Access</head>
+      <p>Materials open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_dd06e51bf6530efbdc5eeb98fbdd1d72">
+      <head>Immediate Source of Acquisition</head>
+      <p>Collection donated by Joan Richardson, acting as executor for the estate of John T. Gilroy, in 2004.  The accession number associated with this collection is 1997.010.</p>
+    </acqinfo>
+    <arrangement id="aspace_8a222d7f83cf8a32577eeda4e9635e22">
+      <head>Arrangement</head>
+      <p>This collection has been arranged into three series, as follows:</p>
+      <p>I. Ancient Order of Hibernians, New York County, Division 3 (William B. Burke)</p>
+      <p>II. County Fermanagh Social &amp; Benevolent Association of New York</p>
+      <p>III. Personal Materials</p>
+    </arrangement>
+    <bioghist id="aspace_06858b7c4bae7db0078b07bf151a7d67">
+      <head>Historical/Biographical Note</head>
+      <p>John T. Gilroy was a member and officer of the County Fermanagh Social and Benevolent Association of New York, and of Ancient Order of Hibernians Division 3 (William B. Burke), New York County.</p>
+    </bioghist>
+    <prefercite id="aspace_0f14617f673084f3c3a032ff2c2fdd62">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; John T. Gilroy Papers; Collection AIA 011; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_e724179f470add9cdc2dd5388d901662">
+      <head>Processing Information</head>
+      <p>Prior to 2015, a small amount of the collection had been rehoused into acid-free folders and boxes, and arranged into three distinct series. In 2015 the remaining materials, most of which were loose and unfoldered were roughly placed into these three series and rehoused into acid-free folders and boxes. Because of the nature and size of the materials, physical arrangement does not necessarily correspond to intellectual arrangement. Extensive duplicates of material (such as blank stationary, raffle tickets, or dance invitations) were discarded.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_79737293f0ee310c2077f460ae219af0">
+      <head>Related Archival Materials</head>
+      <p>Archives of Irish America County Societies Collection (AIA 003)</p>
+      <p>Archives of Irish America Collection on the Ancient Order of Hibernians (AIA 046)</p>
+      <p>John T. Ridge Collection (AIA 068)</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_41e33e41200b443bde3737f893986302">
+      <head>Scope and Contents</head>
+      <p>This collection consists of materials documenting John Giroy's membership and participation in various Irish American organizations in the greater New York City area, as well as other materials from his personal life. Materials include artifacts, photographs, correspondence, videocassettes, meeting minutes, event programs, newspaper clippings, and various organizational records from the Ancient Order of Hibernians (New York County, Division 3) and the County Fermanagh Social &amp; Benevolent Association of New York. Personal materials document Gilroy's education and his engagement with the Irish American community of New York.</p>
+    </scopecontent>
+    <phystech id="aspace_9cba65600c65dd2438664d4e45495fdf">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Access to audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room.Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <userestrict id="aspace_95093d26471d783df5de248727aa631a">
+      <head>Conditions Governing Use</head>
+      <p>The Tamiment Library and Robert F. Wagner Labor Archive does not have information about who owns copyright to this collection. Materials in this collection are expected to enter the public domain beginning in 2039. The Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Irish Americans -- New York (N.Y.)</subject>
+      <subject source="lcsh">Irish Americans -- Societies, etc.</subject>
+      <subject source="lcsh">Irish Americans -- New York (State) -- New York -- Political activity.</subject>
+      <corpname source="naf">Ancient Order of Hibernians</corpname>
+      <persname role="dnr" rules="dacs" source="local">Richardson, Joan</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref12" level="series">
+        <did>
+          <unittitle>I. Ancient Order of Hibernians, New York County, Division 3 (William B. Burke)</unittitle>
+        </did>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>General</unittitle>
+            <unitdate datechar="creation" normal="1985/1998" type="inclusive">1985-1998</unitdate>
+            <container id="aspace_f81d16bfc6e8c7ca85290cca107b809d" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_28f9ee1b4e0225523932635faa700171" parent="aspace_f81d16bfc6e8c7ca85290cca107b809d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1985/1998" type="inclusive">1985-1998</unitdate>
+            <container id="aspace_2dfd5b818e4566b8fabcf49d5166c31a" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_555dab7520d21887dd5ed6d916d7c258" parent="aspace_2dfd5b818e4566b8fabcf49d5166c31a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Financial</unittitle>
+            <unitdate datechar="creation" normal="1985/1998" type="inclusive">1985-1998</unitdate>
+            <container id="aspace_0698b116747b1f29491aaff51ab0c6c9" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_985deb310a779ae6d3daa89780e42e89" parent="aspace_0698b116747b1f29491aaff51ab0c6c9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Legal</unittitle>
+            <unitdate datechar="creation" normal="1985/1998" type="inclusive">1985-1998</unitdate>
+            <container id="aspace_ca72a97610e621a89121ed63328e15fd" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_22ee19adc65c88d043c1c50529a65a57" parent="aspace_ca72a97610e621a89121ed63328e15fd" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Membership</unittitle>
+            <unitdate datechar="creation" normal="1985/1998" type="inclusive">1985-1998</unitdate>
+            <container id="aspace_93ce08b65a98e652f4dce0051873a422" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_e2c5cf85dcbf35a4991470d2a2f943be" parent="aspace_93ce08b65a98e652f4dce0051873a422" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Membership Applications and Transfer Cards</unittitle>
+            <unitdate datechar="creation" normal="1985/1998" type="inclusive">1985-1998</unitdate>
+            <container id="aspace_61392f2527371cae4592a6874adc1c09" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_d2b36c9ba5f0a9bbb02f5d82b2cbe7a3" parent="aspace_61392f2527371cae4592a6874adc1c09" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Minutes</unittitle>
+            <unitdate datechar="creation" normal="1985/1998" type="inclusive">1985-1998</unitdate>
+            <container id="aspace_ffcf52f5d498090027aa99d1ade6271d" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_22d63f611b7c0cd1b7406bcc63780f18" parent="aspace_ffcf52f5d498090027aa99d1ade6271d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Ephemera</unittitle>
+            <unitdate datechar="creation" normal="1985/1998" type="inclusive">1985-1998</unitdate>
+            <container id="aspace_4ae5b21afa5e0778537b96ea07694eb7" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_8a9277c52da3d12ce4b8d5de51980768" parent="aspace_4ae5b21afa5e0778537b96ea07694eb7" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>New York County Board Minutes</unittitle>
+            <unitdate datechar="creation" normal="1985/1998" type="inclusive">1985-1998</unitdate>
+            <container id="aspace_1c23ce8513810ffbc813ff31bf34511b" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_19c8134d96db4686b626ee70dd8bafcb" parent="aspace_1c23ce8513810ffbc813ff31bf34511b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>New York County St. Patrick's Day Parade and Celebration Committee</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_19ced02e9230599efdb97597e0a3a81a" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_3b963be44ebba5c5bd6680013015317d" parent="aspace_19ced02e9230599efdb97597e0a3a81a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>New York State Board Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_66c3aa0426663884a442167237e7db03" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_cd668a762f8f37436a96f911d2850e7d" parent="aspace_66c3aa0426663884a442167237e7db03" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>New York State By-Laws</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_7d94c8a1001242290049fa0e8abe984f" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_6cbf0bb17df1276fab020088dd2b45a6" parent="aspace_7d94c8a1001242290049fa0e8abe984f" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>New York State: Empire State Hibernian Newsletter</unittitle>
+            <unitdate datechar="creation" normal="1993/1995" type="inclusive">1993-1995</unitdate>
+            <container id="aspace_718c842aa2fdee83eb3f646faadefbd3" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_26e6956e2911d781485ea92b92651669" parent="aspace_718c842aa2fdee83eb3f646faadefbd3" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>National Board: Constitution</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_33db49ac31bdcdf506e5a65c3850c3bc" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_505efd8b9a453132001994be7d0bbd51" parent="aspace_33db49ac31bdcdf506e5a65c3850c3bc" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>National Board: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <container id="aspace_0fa57c1fff8af248310f93993677caa8" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_279d502c3ceb4f0d30cd0a408bd13536" parent="aspace_0fa57c1fff8af248310f93993677caa8" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>National Board: Forms</unittitle>
+            <unitdate datechar="creation">circa 1985-1998</unitdate>
+            <container id="aspace_640aebd8d223cbf08d8f911a54a06433" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_324d88c32993a9b8152b23eb7b8febab" parent="aspace_640aebd8d223cbf08d8f911a54a06433" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>National Board: Freedom for All Ireland</unittitle>
+            <unitdate datechar="creation" normal="1993/1994" type="inclusive">1993-1994</unitdate>
+            <container id="aspace_ac139d44753d8e4c7fcb2b9e6a7e3a8c" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_b5bbed5dda6e338e226bccb9d3fb6b47" parent="aspace_ac139d44753d8e4c7fcb2b9e6a7e3a8c" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>National Board: Membership Brochure</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_ba62bd98e94a6943643bbf28783d70b2" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_56377c983aedc3172ef1abfe55bfb752" parent="aspace_ba62bd98e94a6943643bbf28783d70b2" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>National Board: Miscellaneous Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1992/2002" type="inclusive">1992-2002</unitdate>
+            <container id="aspace_ec5b1241fc0358b8d3c54feb9dbc3b0f" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_1c570d7cfac45d82fca1509f270e6007" parent="aspace_ec5b1241fc0358b8d3c54feb9dbc3b0f" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Ladies Auxiliary: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1994/2002" type="inclusive">1994-2002</unitdate>
+            <container id="aspace_af5c95402cdf6d3e05fb47d535a54eb2" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_59fcb135369a4081a61fd5edadfe878c" parent="aspace_af5c95402cdf6d3e05fb47d535a54eb2" type="Folder">20</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref33" level="series">
+        <did>
+          <unittitle>II. County Fermanagh Social and Benevolent Association of New York</unittitle>
+        </did>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>General</unittitle>
+            <unitdate datechar="creation" normal="1987/1997" type="inclusive">1987-1997</unitdate>
+            <container id="aspace_75908d6c0ee8e361ba9e8ae51e97d9d8" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_e99640afc26d5b08c99c45316f2a5bd2" parent="aspace_75908d6c0ee8e361ba9e8ae51e97d9d8" type="Folder">21-25</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Fermanagh Gaelic Football Club Dance Videos</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">2 videocassettes</extent>
+            </physdesc>
+            <unitdate datechar="creation">Mar 8, 1997</unitdate>
+            <container id="aspace_a324b42dba08a7586d6dcc077412cad5" label="videos [31142054611523]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Plaque</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_528b931a605a10e9eb0d2a890ad45943" label="Realia [31142054611549]" type="Box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_897ce57fb827483ed112b94911324072" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_7e3a72f2b1caefd2986c943e14547dd7" parent="aspace_897ce57fb827483ed112b94911324072" type="Folder">26</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref36" level="series">
+        <did>
+          <unittitle>III. Personal Materials</unittitle>
+        </did>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Altar Boy Handbook</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_a472e8e9ab9aa22ae5b8f80173b56a5e" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_d9d5ad8d79e7a7296c891b2f9c8c3aa8" parent="aspace_a472e8e9ab9aa22ae5b8f80173b56a5e" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Artifacts: Banner, Plaque, Plate</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_3b4837c66cf4d386d3c777a8a0f57bfa" label="Realia [31142054611549]" type="Box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Artifacts: Coins, Copper Baby Shoes, Hugh Gilroy's Medal from Irish War of Independence, Pipe</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Card Box 5.75" id="aspace_50b546c2e67512a238a6a90e98a03e23" label="Realia [31142054611556]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Baby Book</unittitle>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+            <container id="aspace_cfd4a4cffe337f60832ca72ee5399559" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_3f1eb4d8b8a1a045d7af79ab6c782508" parent="aspace_cfd4a4cffe337f60832ca72ee5399559" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Cardinal Hayes High School</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_5ed79a5aee7d8c90fe986a15327f18ae" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_0ce20902346c1eef00af6efb8cb756ee" parent="aspace_5ed79a5aee7d8c90fe986a15327f18ae" type="Folder">29-30</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>City Hall, New York Video</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 videocassette</extent>
+            </physdesc>
+            <unitdate datechar="creation">Jul 12, 1996</unitdate>
+            <container id="aspace_a676cdb254399239f98db5969feb90b4" label="videos [31142054611523]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Communion and Confirmation</unittitle>
+            <unitdate datechar="creation" normal="1952/1954" type="inclusive">1952-1954</unitdate>
+            <container id="aspace_a8787f7277c742e0f62213d5cf655c15" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_84a0d2a9cb53f39e0781de34f8fc0755" parent="aspace_a8787f7277c742e0f62213d5cf655c15" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Consulate General</unittitle>
+            <unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate>
+            <container id="aspace_56113bfda79478708dfda53ee2a59a3c" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_38cee9c5cbfadc3dcccf5d0ade088a01" parent="aspace_56113bfda79478708dfda53ee2a59a3c" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Curious Journey: The Fight for Irish Freedom</emph>
+            </unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 videocassette</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_7dfab7561411d267a1013015b177c4db" label="videos [31142054611523]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Fort Hamilton Video</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 videocassette</extent>
+            </physdesc>
+            <unitdate datechar="creation">Jul 13, 1996</unitdate>
+            <container id="aspace_4e21d54ac44ea23f18d6d8e1283a2e2b" label="videos [31142054611523]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle><emph render="italic">Frontline</emph>: "Death of a Terrorist"</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 videocassette</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <container id="aspace_c31c84088b3b75cd269824f015ccf8c0" label="videos [31142054611531]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Gaelic Park (Bronx, NY) Video</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 videocassette</extent>
+            </physdesc>
+            <unitdate datechar="creation">Jul 20, 1996</unitdate>
+            <container id="aspace_ddecd81f49cc85a076689bff80ed999f" label="videos [31142054611523]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Hang Up Your Brightest Colors: The Life and Death of Michael Collins</emph>
+            </unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 videocassette</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container id="aspace_67df753d99634cc0648957f07ba3fe62" label="videos [31142054611523]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>"Heritage" Video</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 videocassette</extent>
+            </physdesc>
+            <unitdate datechar="creation">Jul 15, 1996</unitdate>
+            <container id="aspace_30097e1db86d3b0736a5405767c55d43" label="videos [31142054611523]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>"Investigation into a Terrorist Bombing" Video</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">2 videocassettes</extent>
+            </physdesc>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d3ee21b424d1e644fba07f76ed1c3bfc" label="videos [31142054611531]" type="Box">3</container>
+            <container id="aspace_fa7db81a7d84dbe1450e7e6a5ab80d89" label="videos [31142054611523]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Irish American Center (Mineola) Videos</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">2 videocassettes</extent>
+            </physdesc>
+            <unitdate datechar="creation">Jul 19, 1996</unitdate>
+            <container id="aspace_7eec7545afa8019b3f0b0eae2bf20ffe" label="videos [31142054611523]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Irish American Organizations</unittitle>
+            <unitdate datechar="creation" normal="1988/2000" type="inclusive">1988-2000</unitdate>
+            <container id="aspace_4717b5c15f58bfab56e79ae87a58a710" label="Mixed Materials [31142054611523]" type="Box">2</container>
+            <container id="aspace_1ee60b5d2b0c54d89d88226846dc37fe" parent="aspace_4717b5c15f58bfab56e79ae87a58a710" type="Folder">1</container>
+            <container id="aspace_3e0c6cbb4333dc21491afd48c349d016" label="Mixed Materials [31142054611515]" type="Box">1</container>
+            <container id="aspace_c72fc353c58b9000379dd5d9a4e3470a" parent="aspace_3e0c6cbb4333dc21491afd48c349d016" type="Folder">33-36</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>The Irish Directory</unittitle>
+            <unitdate datechar="creation" normal="1996/1997" type="inclusive">1996-1997</unitdate>
+            <container id="aspace_74df4327108ff0189fb608ab8b941adc" label="Mixed Materials [31142054611523]" type="Box">2</container>
+            <container id="aspace_fea868c9ad32544ad560e4bd1bea5cce" parent="aspace_74df4327108ff0189fb608ab8b941adc" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Irish Republicanism</unittitle>
+            <unitdate datechar="creation" normal="1980/1991" type="inclusive">1980-1991</unitdate>
+            <container id="aspace_9ec7be152b31b7b883169f02875618ff" label="Mixed Materials [31142054611523]" type="Box">2</container>
+            <container id="aspace_6af2c2f4f574d2603c0636ff31af1a69" parent="aspace_9ec7be152b31b7b883169f02875618ff" type="Folder">3-4</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Joe Doherty Rally Video</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 videocassette</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_3c1ae7b5f6ae414dcd874e1378671258" label="videos [31142054611531]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Lough Derg: An Island Sanctuary</emph>
+            </unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 videocassette</extent>
+            </physdesc>
+            <unitdate datechar="creation">Oct 1985</unitdate>
+            <container id="aspace_0362dd73443c2c627e18a05b4ab05f37" label="videos [31142054611531]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Musical Recordings</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">4 Reels</extent>
+            </physdesc>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3d34f44303c18d420dd05d2cf0669df7" label="master cd [31142054611531]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1986/1989" type="inclusive">1986-1989</unitdate>
+            <container id="aspace_6bf499d8c001ab3167c6516f57048c40" label="Mixed Materials [31142054611523]" type="Box">2</container>
+            <container id="aspace_646d17bdb20942da995fb5c7f28f596a" parent="aspace_6bf499d8c001ab3167c6516f57048c40" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Off Our Knees: 1968-1988 Civil Rights to National Rights</emph>
+            </unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 videocassette</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_b0896019a2ef481e298a4e329dda11a8" label="videos [31142054611531]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Parade Video</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 videocassette</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container id="aspace_a46cbf068c5fd60408d1a42c865b60ff" label="videos [31142054611523]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5413fc47202fd54f3f1dc94f920c990b" label="Mixed Materials [31142054611523]" type="Box">2</container>
+            <container id="aspace_bbe093a7d18e22b0fddb519c1b5ac7d4" parent="aspace_5413fc47202fd54f3f1dc94f920c990b" type="Folder">6-7</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The Rights of Man: The Concert for Joseph Doherty</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_118a461c7a139b07bc15389dec7265f9" label="master cd [31142054611531]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>St. Brendan's Church (Bronx, NY)</unittitle>
+            <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_5e6844161ee17a9ae14363f501eb12b3" label="Mixed Materials [31142054611523]" type="Box">2</container>
+            <container id="aspace_ad6ed772ebd43d6024373c91a84278ba" parent="aspace_5e6844161ee17a9ae14363f501eb12b3" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>St. Luke's School (Bronx, NY)</unittitle>
+            <unitdate datechar="creation" normal="1947/1959" type="inclusive">1947, 1959</unitdate>
+            <container id="aspace_31265e92c8d3c69bb85b34c582019850" label="Mixed Materials [31142054611523]" type="Box">2</container>
+            <container id="aspace_6462a1b4202c9fc745134ac3715c0bce" parent="aspace_31265e92c8d3c69bb85b34c582019850" type="Folder">9-11</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>St. Patrick's Video</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">2 videocassettes</extent>
+            </physdesc>
+            <unitdate datechar="creation">Jul 12, 1996</unitdate>
+            <container id="aspace_e0f2a7eff08244ad14c70e90cc553a0c" label="videos [31142054611523]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>St. Patrick's Day (New York and Dublin) Video</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 videocassette</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+            <container id="aspace_ef972adc0da4f369f983bb1348b0fbf2" label="videos [31142054611531]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>St. Patrick's Day Parade</unittitle>
+            <unitdate datechar="creation" normal="1985/2001" type="inclusive">1985-2001</unitdate>
+            <container id="aspace_1eac3abafc08839416a59e2ebd30c6c0" label="Mixed Materials [31142054611523]" type="Box">2</container>
+            <container id="aspace_63ec7b114a62adde750b5f1184369253" parent="aspace_1eac3abafc08839416a59e2ebd30c6c0" type="Folder">11</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

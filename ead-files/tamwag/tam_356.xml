@@ -1,0 +1,1792 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="inventory_boxfolderlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_356">tam_356</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Cooper Square Committee Records <num>TAM.356</num></titleproper>
+        <author>Erika Gottfried</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>02/17/2015</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 02:46:30 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>September 2021</date>
+        <item>edited by Nicole Greenhouse to reflect additional administrative information and added archived websites.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Cooper Square Committee Records</unittitle>
+      <origination label="Creator">
+        <corpname role="dnr" rules="dacs" source="local">Cooper Square Committee</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Ravitz, Joyce</persname>
+      </origination>
+      <unitid>TAM.356</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">20 Linear Feet</extent>
+        <extent altrender="carrier">in 20 records boxes and one oversized folder</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">2 websites</extent>
+        <extent altrender="carrier">in 2 archived websites.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1960/2020" type="inclusive">1960-2020</unitdate>
+      <unitdate datechar="creation" normal="1971/1993" type="bulk">1971-1993</unitdate>
+      <abstract id="aspace_b78168c8ed236f811f7d2fc57a5524a1">The Cooper Square Committee Records (dates 1960-2005, bulk 1971-1993) contain minutes, reports, memoranda, correspondence, leaflets, petitions, permits, surveys, reports, and grant proposals related to the activities of the tenants' rights organization the Cooper Square Committee. The Cooper Square Committee is a nonprofit tenants' rights and arts advocacy group for residents of New York City's Lower East Side. The organization provides social services, including tenant counseling and eviction prevention, and works on community development issues to promote affordable, environmentally-friendly housing and diversity in the neighborhood. The collection contains internal records and published materials documenting the organization's role in tenants' rights campaigns, building negotiations, and New York City housing policy.</abstract>
+      <physloc id="aspace_b105a92854501234914088bcdc79ff54">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_ee3b804145e43f0e90e853a82fc529cb">Materials are in English. Websites are in English, Spanish, and Chinese.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_d3871239dc5c70cfdd786160aed30507">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_8436c62c3a46595d4be17889bdd4f343">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials donated by the Cooper Square Committee in 1986; additional materials were donated in 2006 and in 2015 by Joyce Ravitz, and Marci Reaven in 2018.  The accession numbers associated with these materials are 1986.033, 2015.001, and 2019.006.</p>
+      <p>https://coopersquare.org/ was initially selected by curators and captured through the use of The California Digital Library's Web Archiving Service in 2009 as part of the Other Left Activism Web Archive. In 2012, crawling began in the Housing Web Archive and discontinued in the Other Left Activism Web Archive. In 2015, this website was migrated to Archive-It. Archive-It uses web crawling technology to capture websites at a scheduled time and displays only an archived copy, from the resulting WARC file, of the website. In 2020, http://csmha.org/ was added to the web archive. The accession number associated with this website is 2021.052.</p>
+    </acqinfo>
+    <arrangement id="aspace_8fb731de06e50a71320fdc030e0fdd8f">
+      <head>Arrangement</head>
+      <p>The materials have not been arranged by an archivist, but have been retained in the order in which they were received.</p>
+    </arrangement>
+    <bioghist id="aspace_f19d46c45ee840fa902de869aedb456a">
+      <head>Historical/Biographical Note</head>
+      <p>The Cooper Square Community Development Committee and Businessmen's Association (CSC) is a nonprofit tenant rights and arts advocacy group for residents of New York City's Lower East Side that provides social services, including tenant counseling and eviction prevention, and works on community development issues. The organization's aims are to preserve economic and ethnic diversity in the neighborhood and to contribute to the preservation and development of affordable, environmentally-friendly housing and community/cultural spaces. </p>
+      <p>The Committee, which has described itself as "the nation's oldest anti-displacement organization," was founded in 1959 (then named the Cooper Square Community Development Committee), for the purpose of opposing the City of New York's urban renewal plan for the Lower East Side led the City's Slum Clearance Committee.  CSC's founders or those involved in the early stages of the organization included Thelma Burdick, Frances Goldin, Esther Rand, Staughton Lynd, and Walter Thabit.</p>
+      <p>Throughout the 1960s, the Committee built coalitions, held demonstrations and CSC representatives and members spoke at public meetings.  CSC also created an alternative plan to New York City's original proposals for redevelopment of the Lower East Side. Its basic principles were that during development displacement must be minimized, must be carried out in stages, and site tenants must have first priority for the housing that is built.  On February 13, 1970 CSC's Alternate Plan was adopted as the official plan of the City of New York. </p>
+      <p>In the 1970s the Cooper Square Committee worked to develop community leadership on the Lower East Side, organizing the Bowery Residents Committee, the Good Food Co-op, Third Avenue Artists, and also helped start several tenant rights associations to preserve affordable housing. In the 1980s the CSC sponsored development of the Thelma Burdick Building, an apartment building for low-income households at 10 Stanton Street; supported a private development of senior citizen housing on 5th Street and the Bowery and attempted to ensure that it would be a racially-integrated building; created a Revised Plan for the Cooper Square Urban Renewal Area that emphasized renovation of city-owned tenements and loft buildings; preservation of affordable housing and new construction of mixed income housing; and helped to persuade the New York City Department of Housing Preservation and Development to approve the development of the 22-unit building for formerly homeless families, to serve as a model for similar projects.
+ 
+In the 1990s the organization found itself in the position of becoming a developer itself, in part, when it signed a Memorandum of Understanding with the City of New York. Under this agreement the CSC sponsored the renovation of the 22 buildings costing more than $20 million (completed in 2006), and founded the Cooper Square Mutual Housing Association that now manages 356 apartments in 22 formerly city-owned buildings. </p>
+      <p>In the 2000s the Cooper Square Committee began organizing cultural groups on East 4th Street to develop a plan for disposition of 4 city-owned cultural buildings, vacant buildings, vacant lots in the neighborhood. Planning efforts culminated in the sale of the city-owned properties to the cultural groups in 2005.  Development of the Cooper Square Urban Renewal Area was largely completed by 2008. </p>
+      <p>In the 2010s the Cooper Square Committee provides housing, counseling, and social services to area residents; it reaches out to assist low income buildings needing energy efficiency upgrades and works to identify opportunities to develop low/moderate or middle income housing as well as community/cultural spaces on the Lower East Side. It has also launched projects addressing the lack of accessible housing and public accommodations for disabled citizens, is partnering with another organization to renovate a building for homeless lesbian, gay, bisexual and transgender (LGBT) youths, and has initiated a Tenant Rights Walking Tour of the Lower East Side.</p>
+    </bioghist>
+    <prefercite id="aspace_7abe078ee570d5cd44500601a504e747">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Cooper Square Committee; TAM.356; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+      <p>To cite the archived website in this collection:
+Identification of item, date; Cooper Square Committee; TAM.356; Wayback URL; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_59cb9270bb366e2901375254d2534464">
+      <head>Processing Information</head>
+      <p>In 2014, the archived website was added as a series.  In 2015, 15 boxes of materials that appeared to comprise the original donation of materials from the Cooper Square Committee were separated from the Metropolitan Council on Housing Records (TAM.173) and incorporated into the collection described herein. Also in 2015, another 5 boxes of materials were received and incorporated into the collection. Additional website was added in 2021.</p>
+    </processinfo>
+    <scopecontent id="aspace_0e07d490f7cfba386bd1785cbf19f855">
+      <head>Scope and Content Note</head>
+      <p>Records and document types in this collection include minutes, reports, correspondence, memoranda, leafletls, petitions, permits, surveys, reports, and grant proposals.</p>
+    </scopecontent>
+    <userestrict id="aspace_665755dca290803fb10a2f33016ddab2">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the Cooper Square Committee were transferred to New York University in 2006 by the Cooper Square Commitee. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Labor Archive. Please contact tamiment.wagner@nyu.edu.</p>
+    </userestrict>
+    <appraisal id="aspace_568ce28498942073d41c4c5e6753f54c">
+      <head>Take Down Policy</head>
+      <p>Archived websites are made accessible for purposes of education and research. NYU Libraries have given attribution to rights holders when possible; however, due to the nature of archival collections, we are not always able to identify this information.</p>
+      <p>If you hold the rights to materials in our archived websites that are unattributed, please let us know so that we may maintain accurate information about these materials.</p>
+      <p>If you are a rights holder and are concerned that you have found material on this website for which you have not granted permission (or is not covered by a copyright exception under US copyright laws), you may request the removal of the material from our site by submitting a notice, with the elements described below, to the special.collections@nyu.edu.</p>
+      <p>Please include the following in your notice:  Identification of the material that you believe to be infringing and information sufficient to permit us to locate the material; your contact information, such as an address, telephone number, and email address; a statement that you are the owner, or authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed and that you have a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; a statement that the information in the notification is accurate and made under penalty of perjury; and your physical or electronic signature.  Upon receiving a notice that includes the details listed above, we will remove the allegedly infringing material from public view while we assess the issues identified in your notice.</p>
+    </appraisal>
+    <bibliography id="aspace_9a6854404497250a11bc19c02b47e058">
+      <head>Bibliography</head>
+      <p>Information for this guide was drawn in part from the website for the Cooper Square Committee
+https://wayback.archive-it.org/6347/*/http://coopersquare.org/ and from:</p>
+      <bibref><title render="doublequote">The Cooper Square Plan; Smoothing the Path to Redevelopment.</title>  Oser, Alan S. <title render="italic">New York Times</title>, 27 Jan 1991, p. A.5.</bibref>
+      <bibref><title render="doublequote">Derelict Shell Becomes Co-op For Homeless.</title>McFadden, Robert D. <title render="italic">New York Times</title>, 15 Nov 1988, p. B.1.</bibref>
+      <bibref><title render="doublequote">The Tenant-as-Landlord Movement.</title>Lueck, Thomas J . <title render="italic">New York Times</title>, 02 July 1989, p. A.1.</bibref>
+    </bibliography>
+    <controlaccess>
+      <subject source="lcsh">Low-income housing.</subject>
+      <subject source="lcsh">Tenants' associations.</subject>
+      <subject source="lcsh">Housing -- New York (N.Y.)</subject>
+      <geogname source="lcsh">Lower East Side (New York, N.Y.)</geogname>
+      <subject source="lcsh">Rent control -- New York (State) -- New York</subject>
+      <corpname rules="dacs" source="local">Cooper Square Committee</corpname>
+      <persname role="dnr" rules="dacs" source="local">Ravitz, Joyce</persname>
+      <corpname rules="dacs" source="local">Cooper Square Mutual Housing Association</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref5" level="series">
+        <did>
+          <unittitle>Records</unittitle>
+        </did>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Cooper Square Committee Files</unittitle>
+            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container id="aspace_bcdad1d5ef6a78504deb377f306e5c70" label="Text [31142046539311]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Cooper Square Committee files; Chinese Preservation meeting; Spanish Preservation meeting; Site Action</unittitle>
+            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container id="aspace_9ee596654bb6d34c147856c51cb43bf0" label="Text [31142046539329]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Housing Code Enforcement</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4ab98ca20a85a9593b1cbc84973e0fb8" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_1bace7a565c653e61d5f5e57995722c4" parent="aspace_4ab98ca20a85a9593b1cbc84973e0fb8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Of interest to arts committee</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d8712ea47ffafeee9b733579e0ab21e8" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_ab253360850c59bf9eb2c8a5b86298e7" parent="aspace_d8712ea47ffafeee9b733579e0ab21e8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Arts Committee of Cooper Square</unittitle>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_abbc24b941b39a02ef1b6ffae5aceb65" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_7d9dbc74fedc36ec0d8290f67052364b" parent="aspace_abbc24b941b39a02ef1b6ffae5aceb65" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Cooper Square artists interview</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7d3abd22087c7a2443f478d0c747fc67" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_690349eb9fe3cc5936b4af1f2a91e146" parent="aspace_7d3abd22087c7a2443f478d0c747fc67" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Old list of site artists</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_023709ff0e4d06ca699054f6fa29b8f5" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_879b268b97320a1ddaf05f369cb995b9" parent="aspace_023709ff0e4d06ca699054f6fa29b8f5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Artists' statements (August 13, 1969 to February 13, 1970)</unittitle>
+            <unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container id="aspace_bae0532dd86aa0b448d3cb2160e2f158" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_0aa3bfe18133735d7151b600c649942c" parent="aspace_bae0532dd86aa0b448d3cb2160e2f158" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: SOHO: Loft conversion</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e0d3133e50b51a85ae9e802ce6ea535d" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_6464b4675da0f936d52f91c68b9881f3" parent="aspace_e0d3133e50b51a85ae9e802ce6ea535d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Westbeth</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2fdbf12ea3f73c319b3f4e596cedf28e" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_2f39942879fdfb6f259e6e0e29a3a9ae" parent="aspace_2fdbf12ea3f73c319b3f4e596cedf28e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: La Mama</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_bedccda4e4e1f9235dea652b2adc8f65" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_a03caa32985b263f5fd3761ae0938d27" parent="aspace_bedccda4e4e1f9235dea652b2adc8f65" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: National Register of Historic Places</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_cb57dc0d55b60be13c4c193c5d855c6a" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_cc3e0ac9ef5373dc92a46fdd1db2bb2a" parent="aspace_cb57dc0d55b60be13c4c193c5d855c6a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: National Trust</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_341f2b0df476a57ae15a05f5b5f35279" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_f45a23060b3a08f67e43e72745e4e92a" parent="aspace_341f2b0df476a57ae15a05f5b5f35279" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Blank Survey: CETA</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_38cfd1852619e3aea4fb82372a595e31" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_a5e3c50111e012c7b9dc062243cb0543" parent="aspace_38cfd1852619e3aea4fb82372a595e31" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Landmarks Conservancy</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_de885058b7b232e33d19161831177f3b" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_b41b6127c3dff1fe32901b11e51f67ee" parent="aspace_de885058b7b232e33d19161831177f3b" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Landmarks: Survey/Information</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_80c64800e9b2bf5f18483ac96c4374c1" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_92f31c406f93c569e39640a257d9b620" parent="aspace_80c64800e9b2bf5f18483ac96c4374c1" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Steering Committee minutes</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_28cfd52ca67b612cef01c385e57d4138" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_1e66a708efed392bf055fa8050c4a0b9" parent="aspace_28cfd52ca67b612cef01c385e57d4138" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: NY Council for the Humanities</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_55b235849c50b608106e3328b43aa2b0" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_edde6c33336716bc2090e6dd19bb00ab" parent="aspace_55b235849c50b608106e3328b43aa2b0" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Building Structure Inventory Forms</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3e40e866de6fae335c026e740f9e7b80" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_7d9be8739e072fb32e2f5a48e26314f3" parent="aspace_3e40e866de6fae335c026e740f9e7b80" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Historical Research Forms</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6ccb6d21151c1395c7bac330ca460ce3" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_162400596137660336f94ddf915dbb28" parent="aspace_6ccb6d21151c1395c7bac330ca460ce3" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Inner City Ventures Fund Preliminary Application</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_286391f906795b6da06520942767b8a9" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_ed3ff462d750ef32e477961c8cb0b7e3" parent="aspace_286391f906795b6da06520942767b8a9" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: New Wilderness Foundation</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_10bd189415419f251e92e07561519fbd" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_74b20e5af442e4f9cab1787f98be0560" parent="aspace_10bd189415419f251e92e07561519fbd" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Attachments</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_661d818ae841391312037c308e0f88de" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_6af348b8d3b825225bc2f09f7be1abbb" parent="aspace_661d818ae841391312037c308e0f88de" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Cooper Square Plans 1969-1982</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_f31522ffd469caa9a53a091ed4e30a9f" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_959f9c0b9b0e0fbde6a73d314abccae9" parent="aspace_f31522ffd469caa9a53a091ed4e30a9f" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Police permits: Blanks, receipts and copies</unittitle>
+            <unitdate datechar="creation" normal="1964/1980" type="inclusive">1964-1970, 1980</unitdate>
+            <container id="aspace_823eb5300d9de17890d3a1772f351969" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_0f1f7832b702a476aecf1897ac130f80" parent="aspace_823eb5300d9de17890d3a1772f351969" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Negotiating Committee</unittitle>
+            <unitdate datechar="creation" normal="1990/1998" type="inclusive">1990-1998</unitdate>
+            <container id="aspace_11dc1b97bd331e66340f782e0510e618" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_11b25a6a3573a0653cdf5b6922649bab" parent="aspace_11dc1b97bd331e66340f782e0510e618" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Rehabilitation survey</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_fb35991043924d44ac8207c458b397cb" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_d1cf1c38019d73c00dc1c50210a670a6" parent="aspace_fb35991043924d44ac8207c458b397cb" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Public housing: Cooper Square</unittitle>
+            <unitdate datechar="creation" normal="1963/1970" type="inclusive">1963-1970</unitdate>
+            <container id="aspace_46d91e74be8f36eaa63a8fc4dd4e840a" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_11b5ee031dc7a11f221102464f20054f" parent="aspace_46d91e74be8f36eaa63a8fc4dd4e840a" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Letter re: Rental agreements, filled vacancies, May 17, 1971</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_0fbb0fc0a12e1dfb6565bc1582efaae6" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_f9b961e8d094038e8f84652ee7797b91" parent="aspace_0fbb0fc0a12e1dfb6565bc1582efaae6" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Rent Strike Material: 23 East Third Street</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_7bae6ca9fdc30e4e0166d13937ce6116" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_6eb1724cd2a740071a38457e12b55e59" parent="aspace_7bae6ca9fdc30e4e0166d13937ce6116" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Resumes for Cooper Square</unittitle>
+            <unitdate datechar="creation" normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_1e341e0a29e63f0a490a7a1b93a1082c" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_3ce1fdd20d8ab48123c752344b2018ba" parent="aspace_1e341e0a29e63f0a490a7a1b93a1082c" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Steering Committee minutes</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_c9df51a69e4ffe00c8bdcb43fa2093d7" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_3307ec41a2d39bb64272107a85425d1c" parent="aspace_c9df51a69e4ffe00c8bdcb43fa2093d7" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Reports to the Steering Committee</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_881759c6a30bf8d78b36d1c01d17332c" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_120996d7ae1a4a42ec001439a6e631cc" parent="aspace_881759c6a30bf8d78b36d1c01d17332c" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Steering Committee reports</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_2bd44ea2645225f82a1ac1b7ba3b730d" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_df3a6bb12387bf2b1014dc7a4628d5b7" parent="aspace_2bd44ea2645225f82a1ac1b7ba3b730d" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Cooper Square Community Development Committee: Minutes and other documents</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_db2d5fe6e9db8f49ce39734c73ab7462" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_2e2e26e259c7825e1300c0b3941052d3" parent="aspace_db2d5fe6e9db8f49ce39734c73ab7462" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Outgoing Mail</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_ab921164b56b0e27d42335969bc9f79b" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_b247cd6f68b8a5363f45cc0b3bcfd07a" parent="aspace_ab921164b56b0e27d42335969bc9f79b" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Incoming Mail</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_0598cfed9188b81b1814b86e9fb892a3" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_3c8b6f95adf15dec8e68ceb0d57d09bb" parent="aspace_0598cfed9188b81b1814b86e9fb892a3" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Cooper Square Committee: Steering Committee minutes</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_91b2f26199e001b5c0f78710c293e428" label="Text [31142046539337]" type="Box">3</container>
+            <container id="aspace_4f8b81460800b54c43502442cd263891" parent="aspace_91b2f26199e001b5c0f78710c293e428" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Unprocessed Cooper Square Committee documents</unittitle>
+            <unitdate datechar="creation" normal="1981/2005" type="inclusive">1981-2005</unitdate>
+            <container id="aspace_0b42918eef6aa0a999322ecdf3cf0b4c" label="Mixed Materials [31142046539345]" type="Box">4</container>
+          </did>
+          <scopecontent id="aspace_9158da7fef481b61136d842975f3ff60">
+            <head>Scope and Content Note</head>
+            <p>Includes: Photographs; Cooper Square Committee Steering Committee election ballots (1984, 1987, 1992); CSC Neighborhood Preservation Program (2000); Financial statements (2000); Staff attendance books (1981-2000); Cooper Square Committee publications: <title render="italic">Thelma Burdick: From the Heart</title>(1990)  <title render="doublequote">Cooper Square Committee Forty-Fifth Anniversary and Gala</title>, 1959-2004 (2004); Cooper Square Committee "housewarming" party( 2005);  Cooper Square Committee Chronolog y(2005)</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Security posters (Spanish and English) and anything else about security (memos, etc.)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_55f1fa9e34174c1bed6d2e9e4b2b4bbe" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_1c2c23f225c99840945dcc146026f9c9" parent="aspace_55f1fa9e34174c1bed6d2e9e4b2b4bbe" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Security deposits action</unittitle>
+            <unitdate datechar="creation" normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container id="aspace_00611c018983bbb283e585ac50651e63" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_566f426c1a64bcc0f710e108a069b63f" parent="aspace_00611c018983bbb283e585ac50651e63" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Site action minutes	</unittitle>
+            <unitdate datechar="creation" normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_9569fca16aa2055c325b09f6bd703cb8" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_cb83298cb31dc1bc1d471d202de997d8" parent="aspace_9569fca16aa2055c325b09f6bd703cb8" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Site office	</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_605db7235c6c0dd3513f98906ce056d8" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_2ab00c38b1d131d8431a58add0fb6496" parent="aspace_605db7235c6c0dd3513f98906ce056d8" type="Folder">4	</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Site occupancy record cards</unittitle>
+            <unitdate datechar="creation">undated	</unitdate>
+            <container id="aspace_f790cefd1473180b1720fa3be00023f2" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_d39ddec8a4c1f05fcb49c5505bcae8eb" parent="aspace_f790cefd1473180b1720fa3be00023f2" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Simon's group	</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_2ab83200f6ead090add97c15b363c5f8" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_df71af527c5d6dc6823b4005810c253c" parent="aspace_2ab83200f6ead090add97c15b363c5f8" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Show cause order (CPC)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7a32d040b9dc4f5df4787ebf4bfc4f3d" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_6d386f8a5f52eab4c0575ffa1b0389e3" parent="aspace_7a32d040b9dc4f5df4787ebf4bfc4f3d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Third Avenue Rezoning	</unittitle>
+            <unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container id="aspace_f66c310f32be9ff17fdf0f36d419cb59" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_55f2840b4dafe65d72675efdce24b84d" parent="aspace_f66c310f32be9ff17fdf0f36d419cb59" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Thirteenth Street Squatters	</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_b028936208953c61253036b093e9971e" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_09254fa47c4280f14af93601c9ad09c9" parent="aspace_b028936208953c61253036b093e9971e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Traffic Department</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_bdae50bbeb85cb74192b964d5cbde4db" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_75d4a061f1380fce750438e3e80b24a6" parent="aspace_bdae50bbeb85cb74192b964d5cbde4db" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Trees</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_6e31fd26c57a3c5f4f6fba5523cf4644" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_7b8c658570a036173ef3c4e2f326016a" parent="aspace_6e31fd26c57a3c5f4f6fba5523cf4644" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Al Upton, 95 East Houston Street</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_9f7aa0718d92e77fd91c44fa868c3d55" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_538619a97d40e2244abb32cf066541fa" parent="aspace_9f7aa0718d92e77fd91c44fa868c3d55" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Urban Development Corporation (UDC)	</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_46eeb55d532d9f3bda1a3a42a20facee" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_c1815e657f8fc751c8e0ba2f3cc0b3a4" parent="aspace_46eeb55d532d9f3bda1a3a42a20facee" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Coastal Properties</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b7c26ed65410dbb7f164e0e70494a8f9" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_f1ad6b11c64f116e15096d014f9bdd44" parent="aspace_b7c26ed65410dbb7f164e0e70494a8f9" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Blanks</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_115e009e15c289dcd28cb1abddc81e2d" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_1d00ea61fe8ed79d8fb7bf07fbd583fe" parent="aspace_115e009e15c289dcd28cb1abddc81e2d" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Neighborhood Preservation Program survey</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_042bc6bb8e5fa554f41bd75e9277c45d" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_d00a81325335d20225637eb31ce6bd32" parent="aspace_042bc6bb8e5fa554f41bd75e9277c45d" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Cooper Square Committee documents</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_35932c7e66949fe9fac24a7879508cb8" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_5b1f2e2ffa6c95ee867cc54426a2494c" parent="aspace_35932c7e66949fe9fac24a7879508cb8" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Pagan's Girls Club</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ce92f3d7505ea74bd775c3914eb98326" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_ab6bcd4929a34fcb64ae70029b2c8249" parent="aspace_ce92f3d7505ea74bd775c3914eb98326" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Dutch Interns</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9c712b06c2d8df98b81215dcd0fa3220" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_b2c1c81375239a89870406cac53c041f" parent="aspace_9c712b06c2d8df98b81215dcd0fa3220" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>ANHD / Housing Justice Campaign / 236 West Twenty-Seventh Street</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ad35a4ea2b8485febe89b4e98ebef833" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_ff53c82a7638544d161d00391e055cba" parent="aspace_ad35a4ea2b8485febe89b4e98ebef833" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>13 East Third Street</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6e2aab3ff2aff05a90a09d1d2d8ff465" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_02c3f2687dfdbf975e14e4481a9f0fbf" parent="aspace_6e2aab3ff2aff05a90a09d1d2d8ff465" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Hernandez, William: 60 East Fourth Street, Apartment 2</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2366a7798415650eda99d8830c538d03" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_e17bfb590b2c75c8e09a95ae4be507dc" parent="aspace_2366a7798415650eda99d8830c538d03" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Cooper Square Budget</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_23258373f74847e0218cfab68790ce5a" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_c696f3169054057e823b9529ada0c35e" parent="aspace_23258373f74847e0218cfab68790ce5a" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Salvation Army Drop-in Center</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0eb19fc6a280f8060f429b55bfe078e3" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_f87c2df5557c09b91ad68ccb0256357c" parent="aspace_0eb19fc6a280f8060f429b55bfe078e3" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Cooper Square Membership Meeting</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994 November 30</unitdate>
+            <container id="aspace_f54740fc67c17e4d468232f16f6c5c8f" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_c3bf9ed509a656e26276ff55da433ae0" parent="aspace_f54740fc67c17e4d468232f16f6c5c8f" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Lower East Side Squatters: Garden of Eden</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_09c34fbefcb27a6aa7efc6fe74942d73" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_5fbff9683082296d254c639ef9c35bf5" parent="aspace_09c34fbefcb27a6aa7efc6fe74942d73" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Community Access</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d1fb4de1251f1feed30a1c8bb0716974" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_f936b119a244a1573b542329a165525e" parent="aspace_d1fb4de1251f1feed30a1c8bb0716974" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Pagan, Antonio</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d6a26e79d3c64a2e6228624db131f717" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_739994799718943e4068351fc085a711" parent="aspace_d6a26e79d3c64a2e6228624db131f717" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>M. of A.: Methodist, Sponsorship</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_ccce69e75d073a3dbdebb79264c2f055" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_a73581cfa35e65e80f12b861613f461d" parent="aspace_ccce69e75d073a3dbdebb79264c2f055" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Song Sheets</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_37758f7263fa6cc0ef61278e90fb0ce0" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_2cdde6fa9726ea4ad87d28d54e0e4f0e" parent="aspace_37758f7263fa6cc0ef61278e90fb0ce0" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Esperanza</unittitle>
+            <unitdate datechar="creation" normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_133813b120192984d221cd75883c9500" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_792e24862fed551829aa0656c4818a06" parent="aspace_133813b120192984d221cd75883c9500" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>Official Documents</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970 January 7</unitdate>
+            <container id="aspace_9db895d5ec6bba893e304087b8f6afe4" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_bc2d7cde2295cb36d7efbabc0391bd89" parent="aspace_9db895d5ec6bba893e304087b8f6afe4" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Stage 1 Plans</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_aa85fbcf72fc349cf9ece2acfe4782e4" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_7ad1ddf2e6a95d9e29023bfe30f90681" parent="aspace_aa85fbcf72fc349cf9ece2acfe4782e4" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Di Donato, Luigi</unittitle>
+            <unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate>
+            <container id="aspace_29aa5804948bca6b46ce3ef6b2583882" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_16c7b96f7ed2b033aac34c19f963832a" parent="aspace_29aa5804948bca6b46ce3ef6b2583882" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Courthouse Site</unittitle>
+            <unitdate datechar="creation" normal="1968/1971" type="inclusive">1968-1971</unitdate>
+            <container id="aspace_657ea42e27785755e770b26085cc5367" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_a54cf439fa7cd98aee3bd09a34bdb59d" parent="aspace_657ea42e27785755e770b26085cc5367" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>CURMCO</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8501676f6946ed23d0bd13c28120cc6a" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_ca5068e9bd8deb3cb727824a06470939" parent="aspace_8501676f6946ed23d0bd13c28120cc6a" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Davis, Edmond, Attorney-at-law</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_f7f1ea8d12d329348ea4f3b10d5860ac" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_47598c31ce64bad9468ccb0fb39db1a8" parent="aspace_f7f1ea8d12d329348ea4f3b10d5860ac" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Housing and Development Authority</unittitle>
+            <unitdate datechar="creation" normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_8a328cfc62a80fe05cb95a169ad55ba1" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_cf76f8479b16adf3daf878f54e0033df" parent="aspace_8a328cfc62a80fe05cb95a169ad55ba1" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Cooper Square: Tenant's application for decrease in rent (32-4-S)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_aff513cfa5690bd7f81f4b9c61654060" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_91d8e86280060d82e607f7a83cd99176" parent="aspace_aff513cfa5690bd7f81f4b9c61654060" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Letter to New York Times</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971 July 19</unitdate>
+            <container id="aspace_ffb3292e0960d529033d540919152823" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_05299f1ed0c0a9d0322e258d0e087a4e" parent="aspace_ffb3292e0960d529033d540919152823" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Early Action Program Planning</unittitle>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_0070a388b634fd292cc3eaa0ecb52e31" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_455a134b1a18ed29a648508f17b53280" parent="aspace_0070a388b634fd292cc3eaa0ecb52e31" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Welfare Advice</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_4169a43dfbeec26dc511bae6eef33d34" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_1f7ae05029986e606e1d223d581d2dd5" parent="aspace_4169a43dfbeec26dc511bae6eef33d34" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Tenant Information</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_13ec7307734c0ca9ba751be282a2dd0e" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_1a8aec7c38df7b80bfcb85ea127caea2" parent="aspace_13ec7307734c0ca9ba751be282a2dd0e" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Tenant Compliance Committee</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_6c9b9f722425794c0a5887d61dae408c" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_8fa58f169e04892b52cc0a825744c317" parent="aspace_6c9b9f722425794c0a5887d61dae408c" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Tenant Committee for Fourth Street</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a8aa148dfcde7f37f92d0fcc346e4a94" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_a29c9c25592c6618f5c1cc17323c9588" parent="aspace_a8aa148dfcde7f37f92d0fcc346e4a94" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Squatters</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_31bc39e21bfd0a29e86121c336cdbcef" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_2173860b92cbcf84fb753955cc024078" parent="aspace_31bc39e21bfd0a29e86121c336cdbcef" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Stage 1</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_75c0a49688dbc4b6dabedc201d04efdf" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_b664c07ce31e4cfe49e924a779e93bd9" parent="aspace_75c0a49688dbc4b6dabedc201d04efdf" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Statistical breakdown for Urban Development Corporation (UDC)</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_39810e155141469765380be4328477e3" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_32fb5cdaa1a441f1ac7dc2232784b0c0" parent="aspace_39810e155141469765380be4328477e3" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Women's Building</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_78149e236a5fb2ee235e4317ddb8d21f" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_e70484d66e87e33e262b6ba24edf5eb7" parent="aspace_78149e236a5fb2ee235e4317ddb8d21f" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>St. Mark's Committee</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_fdf844aee0b57e7908578300ec105f5d" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_8c3c9171fddf73e7864f9dccb054ab32" parent="aspace_fdf844aee0b57e7908578300ec105f5d" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>St. Mark's building analysis</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_2f352a8ed64e1c719960521cb8f7b506" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_949a8ca82e077bc9617a5b7eb87fc0a5" parent="aspace_2f352a8ed64e1c719960521cb8f7b506" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Sponsors: Building</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_ea5110e4f9ed21c4fa9312d427d6f27a" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_b70a51d24a0130a9eeda204f7c780e34" parent="aspace_ea5110e4f9ed21c4fa9312d427d6f27a" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>De Salvio, Louis</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_fed8159970e955d00451324ef208e184" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_2f45da7105887ab66aaf3b829a013612" parent="aspace_fed8159970e955d00451324ef208e184" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>Digest: Alternate plan</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_ad23c2910e483e6cad8c436102c4cef1" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_cc5a5891ae3bb98e80a4fd134b327ab8" parent="aspace_ad23c2910e483e6cad8c436102c4cef1" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>Rent strike: 23 East Third Street</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_e41157ab3da537a6c1dd3bdc3b084cd6" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_2eb9a456d2b0e8130dd7d1f2030b6e68" parent="aspace_e41157ab3da537a6c1dd3bdc3b084cd6" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>Survey data</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_ab044f690a5638e9bce344504cb67e5d" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_97e81833c29009f482d1bce8e21cb8a8" parent="aspace_ab044f690a5638e9bce344504cb67e5d" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>Statements on Cooper Square</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container id="aspace_2cccd1ae7522e54285db0c5173d4f760" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_9008c799419cdca2de5625f56afd6e4e" parent="aspace_2cccd1ae7522e54285db0c5173d4f760" type="Folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="file">
+          <did>
+            <unittitle>Special events</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_4ac8e34a8b1dfa08d5cc44e8819817d8" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_b00fb21950842bb2c1a4ea3437bad1fe" parent="aspace_4ac8e34a8b1dfa08d5cc44e8819817d8" type="Folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="file">
+          <did>
+            <unittitle>Statements at hearings</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_6f0bebe9702eb6f4b4b24e5d13b99d55" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_fc09a787f965edce5a47be70ff5be3cc" parent="aspace_6f0bebe9702eb6f4b4b24e5d13b99d55" type="Folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>Documents from city housing agencies</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_09733bc804123de625ceca0b581bc026" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_eb1f406bcb1e2db4e2cb3dcf1350be82" parent="aspace_09733bc804123de625ceca0b581bc026" type="Folder">60</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>Press clippings and releases</unittitle>
+            <unitdate datechar="creation" normal="1966/1970" type="inclusive">1966-1970</unitdate>
+            <container id="aspace_4e1fe569e0a905697acdb5af2d7753ad" label="Text [31142046539352]" type="Box">5</container>
+            <container id="aspace_ad6b65a9d71e83ba3b96b7961228b688" parent="aspace_4e1fe569e0a905697acdb5af2d7753ad" type="Folder">61</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Dispossess Notices</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_5945fc2f91557b3233cdbfcb05f18b3f" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_651ca53d86bfb20dfeac053144e48e30" parent="aspace_5945fc2f91557b3233cdbfcb05f18b3f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>Thirty day notice</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9cc23f02fe3b3430d01fe25c3b8199db" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_f9d9c6f017b8c2e034bc76aac7270305" parent="aspace_9cc23f02fe3b3430d01fe25c3b8199db" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>Tenants Paying Increases</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_15f5a177960bf0a33cd0560d4ea5da6b" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_e3c471c0184a481bbebf27130158f4c9" parent="aspace_15f5a177960bf0a33cd0560d4ea5da6b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>Petitions re: Commercial rent increase</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_97f3f8f37e982e78fcfc8a33d661579c" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_cb21d694b57491a008e7b35a15081d4d" parent="aspace_97f3f8f37e982e78fcfc8a33d661579c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>Rent increase survey and fact sheet	</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977 September</unitdate>
+            <container id="aspace_5885af909e2181323a72d6e96429656b" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_cc736927678f2a35ac8f3ff43174ae70" parent="aspace_5885af909e2181323a72d6e96429656b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>Cooper Square Election Material</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c682117e6c2b427de949e1f52bb2e172" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_f12136a1ee470e33f76c60cacfbd2dd7" parent="aspace_c682117e6c2b427de949e1f52bb2e172" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="file">
+          <did>
+            <unittitle>Barretto, Carmen</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_39797d90f4111748a4a3a997d492ea37" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_ca3545b13fa56d35e130ba41cbe45174" parent="aspace_39797d90f4111748a4a3a997d492ea37" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>Subway Passes</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_fdce2e36aa5f6a9a7656b87696e91136" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_3300fe69d958ac957180a6b941986638" parent="aspace_fdce2e36aa5f6a9a7656b87696e91136" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="file">
+          <did>
+            <unittitle>Pohani Association, Inc.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b4f8729bbdebc41550c2cb8c8281d7ad" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_44efdc0d4dee7a6cae613a30446afb5e" parent="aspace_b4f8729bbdebc41550c2cb8c8281d7ad" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref143" level="file">
+          <did>
+            <unittitle>Assets Consulting Group</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_cd028910d2f019bf0f5b6ae659a1202b" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_b53952ab68bb98c3fae6fa8f0e8fb1df" parent="aspace_cd028910d2f019bf0f5b6ae659a1202b" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="file">
+          <did>
+            <unittitle>Bank Resolutions</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_70bc81f310a366bfe3bef91038ed4baa" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_af5f9ed56b11e3bf98977f6d68e9f5c2" parent="aspace_70bc81f310a366bfe3bef91038ed4baa" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref145" level="file">
+          <did>
+            <unittitle>Thelma Burdick Tenants / Hall rental</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_44a44fe93bb9a5c0474d632121e2c097" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_a82362012795c4e66cbbf9eac9312913" parent="aspace_44a44fe93bb9a5c0474d632121e2c097" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref146" level="file">
+          <did>
+            <unittitle>Summer festival</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_f208b31f92af76b3a6d8e3531f87f291" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_383e7e875f88952a8023e2ca549f0a67" parent="aspace_f208b31f92af76b3a6d8e3531f87f291" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="file">
+          <did>
+            <unittitle>Bank Resolution</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_c5861442f27ce3d20f06c85623b2e996" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_f8a1042676865a72b8c167d383b184d4" parent="aspace_c5861442f27ce3d20f06c85623b2e996" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="file">
+          <did>
+            <unittitle>Site Action Minutes</unittitle>
+            <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_ed12373b7fc2f0a7083e2777f010fb72" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_287afab10670b65e5e9a9336d1b4ac17" parent="aspace_ed12373b7fc2f0a7083e2777f010fb72" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="file">
+          <did>
+            <unittitle>Support Services: Cube Building</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_069e3a1b6c95ec5400b913413910f309" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_d7e4c14bbf24e4370eb819425190f1d9" parent="aspace_069e3a1b6c95ec5400b913413910f309" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="file">
+          <did>
+            <unittitle>William Viera</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5dbb20be26462a5869cd3954dda93a1d" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_6da2fedb23922e6ef8ebff3074be49b8" parent="aspace_5dbb20be26462a5869cd3954dda93a1d" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref151" level="file">
+          <did>
+            <unittitle>Steering Committee Correspondence</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_43ce817f53a42d0f5ef8a671a3edc7c3" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_cdcf221f1a8f5cc71a3b0e7102c01a7a" parent="aspace_43ce817f53a42d0f5ef8a671a3edc7c3" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="file">
+          <did>
+            <unittitle>Cube Building Watch</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6d547bb56368f0d6f16728a8cc160c8b" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_710ac80ea84fdf82220d86ac2c9df0c3" parent="aspace_6d547bb56368f0d6f16728a8cc160c8b" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="file">
+          <did>
+            <unittitle>Cube Work</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_cf943c59e47207757924b6eea8588af8" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_0b048252674a269623d23f60b3b4643d" parent="aspace_cf943c59e47207757924b6eea8588af8" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="file">
+          <did>
+            <unittitle>Cooper Square Committee</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_c80dc995f9c1a0c3307151db2f6daabd" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_fdf5302095ae05ed0f447f5690b76c91" parent="aspace_c80dc995f9c1a0c3307151db2f6daabd" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref155" level="file">
+          <did>
+            <unittitle>Cooper Square Committee and Cooper Square Mutual Housing Association Relations</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_2fcd113e00fcb8c94444c08dbdb321b6" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_9c41c42ca0b8856454a5e6932b414d45" parent="aspace_2fcd113e00fcb8c94444c08dbdb321b6" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="file">
+          <did>
+            <unittitle>Bank Resolution</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container id="aspace_d915bffe848bf50894e89b4d9d20790a" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_4bcf5363ad3187dffcf673e468d1aef9" parent="aspace_d915bffe848bf50894e89b4d9d20790a" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref157" level="file">
+          <did>
+            <unittitle>Neighborhood Preservation Program (NPP) Financial Report</unittitle>
+            <unitdate datechar="creation" normal="1989/1993" type="inclusive">1989-1993</unitdate>
+            <container id="aspace_2be437692248d1ebc107e13f16d6a85e" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_63365f98f9dda4fb10b64c165337668b" parent="aspace_2be437692248d1ebc107e13f16d6a85e" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref158" level="file">
+          <did>
+            <unittitle>Neighborhood Preservation Program (NPP) Financial Report	</unittitle>
+            <unitdate datechar="creation" normal="1993/1995" type="inclusive">1993-1995</unitdate>
+            <container id="aspace_7ea8d02e3026e3a390d03896953956a0" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_4723bf7f36c2c54af5f736fd5524346c" parent="aspace_7ea8d02e3026e3a390d03896953956a0" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref159" level="file">
+          <did>
+            <unittitle>Neighborhood Preservation Program (NPP) Financial Report</unittitle>
+            <unitdate datechar="creation" normal="1995/1996" type="inclusive">1995-1996</unitdate>
+            <container id="aspace_f51981e15492c6eb330656b500f33dc1" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_86a4ab5963449a39e73461713c062027" parent="aspace_f51981e15492c6eb330656b500f33dc1" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref160" level="file">
+          <did>
+            <unittitle>Neighborhood Preservation Program (NPP) Financial Report	</unittitle>
+            <unitdate datechar="creation" normal="1999/2002" type="inclusive">1999-2002</unitdate>
+            <container id="aspace_1c944c103f938cbf054c52a6170ddaeb" label="Text [31142046539360]" type="Box">6</container>
+            <container id="aspace_6c7378ed3ab42c67ca191c38e4c9eb41" parent="aspace_1c944c103f938cbf054c52a6170ddaeb" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref161" level="file">
+          <did>
+            <unittitle>(Cooper Square Committee Steering Committee) Minutes	</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container id="aspace_b150eec5484220691e4f105f0b271f65" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_f020f187c51392ef4d2c895008dbec1f" parent="aspace_b150eec5484220691e4f105f0b271f65" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="file">
+          <did>
+            <unittitle>Housing Preservation and Development (HPD)</unittitle>
+            <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_45e4a622677caa13262e0bfb3701c4c7" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_2684ce83dd2ed20534dbb4478ac42b21" parent="aspace_45e4a622677caa13262e0bfb3701c4c7" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref163" level="file">
+          <did>
+            <unittitle>Computer Repairs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e6027ebf25222dab64c9c12ceebbf1b7" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_5b42c117d7d71a644d952116dad5cf41" parent="aspace_e6027ebf25222dab64c9c12ceebbf1b7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref164" level="file">
+          <did>
+            <unittitle>Jobs Fair Expenses, Insurance</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_dad6b3aa072326afbf85f75972dfe9b1" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_3f37ec098e20a9a1ebb6fb0fab67ac0a" parent="aspace_dad6b3aa072326afbf85f75972dfe9b1" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref165" level="file">
+          <did>
+            <unittitle>Bank resolutions: Forms and Draft</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_045b2f89843479301937bd85e9f055ee" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_105720a9790accb3090df6f62a427607" parent="aspace_045b2f89843479301937bd85e9f055ee" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref166" level="file">
+          <did>
+            <unittitle>Bell Atlantic: Bonus Statements</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9f76275123b37cd68640a5f2001deb5b" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_a3f1962e261a90085dca1a60b0c1c3ac" parent="aspace_9f76275123b37cd68640a5f2001deb5b" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref167" level="file">
+          <did>
+            <unittitle>Payroll and timesheets</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_eab53a5e8419b2c01ad60c334dab854d" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_53bbf985526e0ee1b9d2a15f1a83a479" parent="aspace_eab53a5e8419b2c01ad60c334dab854d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref168" level="file">
+          <did>
+            <unittitle>Bank Resolution</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container id="aspace_8755295e64978184b4028bf26c440576" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_d7b1ce5e75734a54fee822f2403efcc0" parent="aspace_8755295e64978184b4028bf26c440576" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref169" level="file">
+          <did>
+            <unittitle>Bank Resolution</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_40ee5131d1fbe41e47157941cea2b67f" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_beb3fc38d1de1ad57e300fabcae66d63" parent="aspace_40ee5131d1fbe41e47157941cea2b67f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref171" level="file">
+          <did>
+            <unittitle>Legalization of Tenants</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c05dc93c890ce1046d49c56a10a75b73" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_4977913df11eaac33131f63708051d1b" parent="aspace_c05dc93c890ce1046d49c56a10a75b73" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref172" level="file">
+          <did>
+            <unittitle>Memos from Coordinating meetings/Daniel Grulich</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_df2649fef006701f5f18bfbb82fd0a08" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_d7b6d66f2019ffbef7b98460a291842e" parent="aspace_df2649fef006701f5f18bfbb82fd0a08" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref173" level="file">
+          <did>
+            <unittitle>Construction Monitor Contract</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b861967568ae93500c27503a62857b2c" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_71b6c534a5483d8ce5b6b64931be7d88" parent="aspace_b861967568ae93500c27503a62857b2c" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref174" level="file">
+          <did>
+            <unittitle>Mutual Housing Association Meeting Minutes</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_01ce8e911ef921d2a94bd147f754e100" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_65d672e3755148c5a0e96d6d3dbac1bf" parent="aspace_01ce8e911ef921d2a94bd147f754e100" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref175" level="file">
+          <did>
+            <unittitle>Supers</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5756b35863b80246c4c7f479278cc49b" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_ad8f37d95859e303fa51b39c40027b5c" parent="aspace_5756b35863b80246c4c7f479278cc49b" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref176" level="file">
+          <did>
+            <unittitle>Supers</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1cb03c5c8e88cd7571bdd907ba78f602" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_0abad9f3cbc2b876eeb386a26b012aa5" parent="aspace_1cb03c5c8e88cd7571bdd907ba78f602" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref177" level="file">
+          <did>
+            <unittitle>Low Flush Toilets</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5b4dd420f56134202ca756bf5ce922bf" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_af0d577843bb7ab067e69ddedab09a9a" parent="aspace_5b4dd420f56134202ca756bf5ce922bf" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref178" level="file">
+          <did>
+            <unittitle>Fuller/PRC Construction</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_78286573f2aab90f2749f8383af52e49" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_4c31316c65eeb224ef5f2d20970ce692" parent="aspace_78286573f2aab90f2749f8383af52e49" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref179" level="file">
+          <did>
+            <unittitle>Masonry Specs Site 4 and 5</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e246d06c403c6cf7142f96396eff36d7" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_63b133cf22f708c847ab334d1778c953" parent="aspace_e246d06c403c6cf7142f96396eff36d7" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref180" level="file">
+          <did>
+            <unittitle>Rehabilitation Process</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3c37e44cf0b266bc769edebabc643d23" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_21b9ec72e207801bc96105a5e0ec0406" parent="aspace_3c37e44cf0b266bc769edebabc643d23" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref181" level="file">
+          <did>
+            <unittitle>Mutual Housing Association</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b4ca6096cd71488e3cc1828dcd368e1a" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_61e1adba6a5d2b277970b61e4ce15091" parent="aspace_b4ca6096cd71488e3cc1828dcd368e1a" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref182" level="file">
+          <did>
+            <unittitle>Management Company</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_76fb46a7f771ab3a6ba15653f895d920" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_ab8866f366fe9bd340d1c79d1ade9fac" parent="aspace_76fb46a7f771ab3a6ba15653f895d920" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref195" level="file">
+          <did>
+            <unittitle>Proposed Budget for Cooper Square Mutual Housing Association</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_989f25fd4c2115813fbc341631c0e063" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_8ec462ae3280c35f3e7513d2661b303a" parent="aspace_989f25fd4c2115813fbc341631c0e063" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref185" level="file">
+          <did>
+            <unittitle>Relocation resources: Off/On site</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2ea49604a859472364597e188ab6733e" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_32e604888c20b323a86ef7e88c9b152d" parent="aspace_2ea49604a859472364597e188ab6733e" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref186" level="file">
+          <did>
+            <unittitle>Apartments, Vacant: Legal cases	</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990 November</unitdate>
+            <container id="aspace_21c9daaa0c4042a071db0b3865050da9" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_753b223f8f145b833682ca2298d46e32" parent="aspace_21c9daaa0c4042a071db0b3865050da9" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref187" level="file">
+          <did>
+            <unittitle>Residential/Commercial Tenants</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_75abe6dc15e732c6cab645832585ba4b" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_f8ab51c36838ca57f9a10fcefe3741a3" parent="aspace_75abe6dc15e732c6cab645832585ba4b" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref188" level="file">
+          <did>
+            <unittitle>Criteria for Legalization</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_809e453bc8fc134820e35e0e4e4c5819" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_f7f52be668d93698704d85fbb4285563" parent="aspace_809e453bc8fc134820e35e0e4e4c5819" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref189" level="file">
+          <did>
+            <unittitle>Relocated Tenants</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c7bf3cfee2a156f000fb8c27303238c1" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_43443114f8e4ba068f4d9f5d8d36f4f9" parent="aspace_c7bf3cfee2a156f000fb8c27303238c1" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref190" level="file">
+          <did>
+            <unittitle>58 and 60 East Fourth Street</unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991 September 11</unitdate>
+            <container id="aspace_d7c2a516e9e80d75fe61e22252c45d62" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_d3bacc23421df9e0213c1f0549b92117" parent="aspace_d7c2a516e9e80d75fe61e22252c45d62" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref191" level="file">
+          <did>
+            <unittitle>Damp/Apartment Surveys</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c6d0a4f6b91e8ef09ce811b8c43e9ae8" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_b30e51d377b0a57a6bb2241659d6a7f6" parent="aspace_c6d0a4f6b91e8ef09ce811b8c43e9ae8" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref192" level="file">
+          <did>
+            <unittitle>Tenant Profiles (Needs)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8066d2ad488a8220c3cabdafb7afc79a" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_e8afa8f45383bb029d7cd45aa7e397d7" parent="aspace_8066d2ad488a8220c3cabdafb7afc79a" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref193" level="file">
+          <did>
+            <unittitle>Phasing of Rehabilitation (Mutual Housing Association)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4db8945dfdb6f30ea7993bf8522ed4d0" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_36a5728d583081816e3aba4b260505ea" parent="aspace_4db8945dfdb6f30ea7993bf8522ed4d0" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref194" level="file">
+          <did>
+            <unittitle>Meeting with Stiller</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993 March 6</unitdate>
+            <container id="aspace_a7c97aa5d2a46296b0cd7a0fa01d989b" label="Text [31142046539378]" type="Box">7</container>
+            <container id="aspace_59ac0daa8f1a15739e4d30368359e6be" parent="aspace_a7c97aa5d2a46296b0cd7a0fa01d989b" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Unprocessed Cooper Square Committee materials</unittitle>
+            <unitdate datechar="creation" normal="1980/1999" type="inclusive">1980s-1990s</unitdate>
+            <container id="aspace_d50724c68dd407738a4cdcf9d5169013" label="Text [31142046734557]" type="Box">8</container>
+          </did>
+          <scopecontent id="aspace_bffe88abf9e6a404904e29600b5e358b">
+            <head>Scope and Content Note</head>
+            <p>Includes: Steering Committee minutes (1980s); materials on Public Housing Speak-Out (April 26, 1997), Cooper Square Committee meetings, quality housing zoning regulations, New Plan for Cooper Square Housing Preservation and Development (HPD) Urban Renewal Area Survey.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Unprocessed Cooper Square Committee materials</unittitle>
+            <unitdate datechar="creation" normal="1973/1989" type="inclusive">1973-1976, 1980s</unitdate>
+            <container id="aspace_e756b2b08107cd2791cd942b7a8f7443" label="Text [31142046734565]" type="Box">9</container>
+          </did>
+          <scopecontent id="aspace_f4dd3870ee11b17a4f2bb90522bbe20f">
+            <head>Scope and Content Note</head>
+            <p>Foldered and loose materials that include Steering Committee minutes and reports (1973-1976) and Mutual Housing Association documents (1980s).</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Unprocessed Cooper Square Committee materials</unittitle>
+            <unitdate datechar="creation" normal="1973/1983" type="inclusive">1973-1983</unitdate>
+            <container id="aspace_8e38cbf483d0f0f9809eac5b69af678a" label="Text [31142046734573]" type="Box">10</container>
+          </did>
+          <scopecontent id="aspace_e908511ce2f9a082fb987bbfa99c35ec">
+            <head>Scope and Content Note</head>
+            <p>Includes Steering Committee minutes and reports.</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Unprocessed Cooper Square Committee materials </unittitle>
+            <unitdate datechar="creation" normal="1980/1989" type="inclusive">1980s</unitdate>
+            <container id="aspace_99632819417d10afbce9073bc3e1739e" label="Text [31142046734581]" type="Box">11</container>
+          </did>
+          <scopecontent id="aspace_74b8be45d530ceed11abf2ef5ed9f739">
+            <head>Scope and Content Note</head>
+            <p>Includes Steering Committee minutes and reports (1984-1989) and Membership Committee election material (1980s).</p>
+          </scopecontent>
+        </c>
+        <c id="aspace_ref197" level="file">
+          <did>
+            <unittitle>MCH and Cooper Square Committee files, Including:Cooper Square Committee Steering Committee Elections: June 26, 1986 and 
+May 25, 1988; Employee evaluations and personnel documents (1980s)
+</unittitle>
+            <unitdate datechar="creation" normal="1970/1989" type="inclusive">1970s-1980s</unitdate>
+            <container id="aspace_bb7a69ca42806c089d0f783a95d938ce" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_311796e6b4f72899d792903a7bd8d4d5" parent="aspace_bb7a69ca42806c089d0f783a95d938ce" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref198" level="file">
+          <did>
+            <unittitle>Cooper Square Committee Steering Committee Director's File</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1b604464f7ce3c4024316c3cb3dac376" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_e43219ced22b90a223cec1e2eddee7c0" parent="aspace_1b604464f7ce3c4024316c3cb3dac376" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref199" level="file">
+          <did>
+            <unittitle>Cooper Square Committee Steering Committee Elections (June 26, 1986)</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_0307c9506b40e92e0d1a5ce2692bc6f0" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_f7099b28882ffc5892f32a37a89cf5ff" parent="aspace_0307c9506b40e92e0d1a5ce2692bc6f0" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref200" level="file">
+          <did>
+            <unittitle>Cooper Square Committee Steering Committee Elections (May 25, 1988)</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_02dc8b87537d5010d3b8e49f533c9881" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_a824324785c082d023bf385189c2bbbf" parent="aspace_02dc8b87537d5010d3b8e49f533c9881" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref201" level="file">
+          <did>
+            <unittitle>Housing Preservation and Development (HPD) Community Consultant Program (October 1986 to June 1987)	</unittitle>
+            <unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <container id="aspace_458308528899f5b7baf0ce8a9d150e84" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_39b05f436b0b1795aba0247c23907cb0" parent="aspace_458308528899f5b7baf0ce8a9d150e84" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref202" level="file">
+          <did>
+            <unittitle>Resumes</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_21255fac5fb50e83c23c46b36d32334c" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_a4b2a4364f320080b35c657d99559e16" parent="aspace_21255fac5fb50e83c23c46b36d32334c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref203" level="file">
+          <did>
+            <unittitle>Resumes</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d82a4a388c84901a1afad49f28184fa5" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_72057d12832046a6880790ddc58cd522" parent="aspace_d82a4a388c84901a1afad49f28184fa5" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref204" level="file">
+          <did>
+            <unittitle>House Personnel</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_cede99a5592a8f246a87c3c2752a9f31" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_143933a64c2395311bb3ca290b85bc80" parent="aspace_cede99a5592a8f246a87c3c2752a9f31" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref205" level="file">
+          <did>
+            <unittitle>House Personnel</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_8fded35b49e3d13ad421a50a58179dd4" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_4d4a6af5620cfa7ac2733c102acf9606" parent="aspace_8fded35b49e3d13ad421a50a58179dd4" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref206" level="file">
+          <did>
+            <unittitle>Arts Committee</unittitle>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_242bbf153d671064d2e645a0cd576c04" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_1af1dccb9a8afeeb6153aa23fa95291f" parent="aspace_242bbf153d671064d2e645a0cd576c04" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref207" level="file">
+          <did>
+            <unittitle>Stripping</unittitle>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_a8baf5ddff85206b9a733f1fcac662b1" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_27385cc5df8df5f873cc969ab9d4b1c8" parent="aspace_a8baf5ddff85206b9a733f1fcac662b1" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref208" level="file">
+          <did>
+            <unittitle>Meeting with Housing Preservation and Development (HPD) Central Office</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_a45fa525c024e54a646c1fd35ce5d557" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_bd07d0c42e5f7deb7075f8a90c7ff06d" parent="aspace_a45fa525c024e54a646c1fd35ce5d557" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref209" level="file">
+          <did>
+            <unittitle>House Personnel and Staff Meetings</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_8b581e58d9287cd9b78226cf499de5ab" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_99217b8932d9ae10fc819b84bd4c4642" parent="aspace_8b581e58d9287cd9b78226cf499de5ab" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref210" level="file">
+          <did>
+            <unittitle>Grant proposals for Summer Festival</unittitle>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container id="aspace_7baca8d363be0f38dbb2e73443b41d14" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_8394ad8c83cd8209cb3c12d6afa45883" parent="aspace_7baca8d363be0f38dbb2e73443b41d14" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref211" level="file">
+          <did>
+            <unittitle>Newsletter Copy Volume 4, Number 2</unittitle>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979 March</unitdate>
+            <container id="aspace_3b0571b44e442388f996ccbd634d02af" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_562e73147b6d9e91a5bc45abc90c873c" parent="aspace_3b0571b44e442388f996ccbd634d02af" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref212" level="file">
+          <did>
+            <unittitle>Rental Agreement and Relevant Correspondence</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_08d1385cae2891512c0116f8179c9004" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_0021d24fd1b261c08feb09e182b85472" parent="aspace_08d1385cae2891512c0116f8179c9004" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref213" level="file">
+          <did>
+            <unittitle>Outgoing Correspondence with Commissioner Nathan Leventhal</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_7c03efc54f5d1a29457b9c3aa36eed05" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_27ae83a3fe4ce495405799c94287659e" parent="aspace_7c03efc54f5d1a29457b9c3aa36eed05" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref214" level="file">
+          <did>
+            <unittitle>Leaflets</unittitle>
+            <unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <container id="aspace_ada649425562c615de3d4ab325fb94a7" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_70c6a80a9572738ad4ec4365393ddb0b" parent="aspace_ada649425562c615de3d4ab325fb94a7" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref215" level="file">
+          <did>
+            <unittitle>Housing Preservation and Development (HPD) Correspondence	</unittitle>
+            <unitdate datechar="creation" normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_6cc66f3390b33f988167e79fd76eaa21" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_021eb4b5ed261aa6ece573aa0e75a3ed" parent="aspace_6cc66f3390b33f988167e79fd76eaa21" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref216" level="file">
+          <did>
+            <unittitle>Joint Planning Council (JPC) Literature</unittitle>
+            <unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate>
+            <container id="aspace_526d38f5e9cbdc0aafb858f8535cdd99" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_efab6035d213fbba08117043f9de5b40" parent="aspace_526d38f5e9cbdc0aafb858f8535cdd99" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref217" level="file">
+          <did>
+            <unittitle>Estimate for Sealing, 71 East Fourth Street</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container id="aspace_8eca2ccaef3fbceed1a624f7b5c0a015" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_cf697c875781c663ac9645beb6f100e1" parent="aspace_8eca2ccaef3fbceed1a624f7b5c0a015" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref218" level="file">
+          <did>
+            <unittitle>To Be Read</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_dd0d6282224f6ced4e36db004926a26e" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_9e682680c8f11122a9163efbf762853c" parent="aspace_dd0d6282224f6ced4e36db004926a26e" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref219" level="file">
+          <did>
+            <unittitle>Cube</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_942d6d4ff1e6e7491503b4f5903e7fdb" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_af7894f55eaa8f4cd2603ba285199acf" parent="aspace_942d6d4ff1e6e7491503b4f5903e7fdb" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref220" level="file">
+          <did>
+            <unittitle>Joint Planning Council (JPC)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_fe7c3a970479fdbaf309649a707718e2" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_b217dc591aebdee339f1650259cd2c95" parent="aspace_fe7c3a970479fdbaf309649a707718e2" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref221" level="file">
+          <did>
+            <unittitle>Lower East Side Tour</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_08a91cab15c9b12b995ab88289774200" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_14b8e6ec7c5e96e891b29caa5bcb681d" parent="aspace_08a91cab15c9b12b995ab88289774200" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref222" level="file">
+          <did>
+            <unittitle>National Cooperative Bank</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_7f25176a874f1bcd7c24578ae248eeae" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_097f89ef9325801cf7c9668d9b2cf6db" parent="aspace_7f25176a874f1bcd7c24578ae248eeae" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref223" level="file">
+          <did>
+            <unittitle>Cooper Square Plan News Articles</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_06f0f0804db146bf3bc4c87d64327920" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_5ee6cfc76fcb57465e72ee4f77135dc3" parent="aspace_06f0f0804db146bf3bc4c87d64327920" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref224" level="file">
+          <did>
+            <unittitle>AT&amp;T Phone Service</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_491c72ef53c616fefd8586f4f3647c41" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_c2e545df26cea114f22b2aa7777ee7f1" parent="aspace_491c72ef53c616fefd8586f4f3647c41" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref225" level="file">
+          <did>
+            <unittitle>Cooper Square Committee Steering Committee Minutes	</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container id="aspace_5b1e1f1182f6d543041e8f603e5767c0" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_d174afc4c3611b3c7be929b088925b65" parent="aspace_5b1e1f1182f6d543041e8f603e5767c0" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref226" level="file">
+          <did>
+            <unittitle>Cooper Square Committee Steering Committee Minutes</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_f57a2d16510c02c37957e0373bdff01b" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_d8c7a3bbd9011ccbb32b3601e8e75fce" parent="aspace_f57a2d16510c02c37957e0373bdff01b" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref227" level="file">
+          <did>
+            <unittitle>HUD Section S Regulations</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b5bc4e4533313145c00cde883da5d585" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_d103d5709c0a79464ccbb49aaaa5560b" parent="aspace_b5bc4e4533313145c00cde883da5d585" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref228" level="file">
+          <did>
+            <unittitle>Unidentified File</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_096f4c43b42c36549b72df226b7c9b6f" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_6b2e0c04c86daf18faca823be8f9e6f9" parent="aspace_096f4c43b42c36549b72df226b7c9b6f" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref229" level="file">
+          <did>
+            <unittitle>Unidentified Cooper Square Committee File</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_151e14bac847a56817244c301d16806a" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_af3e435808ad4ff1eb62fc8f72002759" parent="aspace_151e14bac847a56817244c301d16806a" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref230" level="file">
+          <did>
+            <unittitle>Senior Affairs Committee</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_510491d25ddd44313bb8710faab84a85" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_9fd25d2006a0b1469ad4e8e91b007a70" parent="aspace_510491d25ddd44313bb8710faab84a85" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref231" level="file">
+          <did>
+            <unittitle>Membership letter (Spanish)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d1b9cb8cc6609db64cf7d64021d133d6" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_27dede8732aca81f7a34ef8f8b054471" parent="aspace_d1b9cb8cc6609db64cf7d64021d133d6" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref232" level="file">
+          <did>
+            <unittitle>Membership letter (English)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e6b345832476a9772d8493f86edcedf7" label="Text [31142046734599]" type="Box">12</container>
+            <container id="aspace_0f8b30a68665b1a494bf50bf7b2de791" parent="aspace_e6b345832476a9772d8493f86edcedf7" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref247" level="file">
+          <did>
+            <unittitle>Oversized Cartoon and Fan</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">circa 1998</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_1ae4ee10b662756bfed88eabdcd75f6c" label="Mixed Materials [31142062670164]" type="Flat-File-Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref2" level="series">
+        <did>
+          <unittitle>Archived Websites</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">3 websites</extent>
+            <extent altrender="carrier">in 3 archived websites.</extent>
+          </physdesc>
+          <unitdate datechar="Captured" normal="2009-08-08/2009-08-08">August 2009-ongoing</unitdate>
+          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6347/*/http://coopersquare.org/" xlink:role="external-link" xlink:show="new" xlink:title="Cooper Square Committee Archived Website" xlink:type="simple">
+            <daodesc>
+              <p>Cooper Square Committee Archived Website: March 2012-ongoing</p>
+            </daodesc>
+          </dao>
+          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6351/*/http://coopersquare.org/" xlink:role="external-link" xlink:show="new" xlink:title="Cooper Square Committee Archived Website" xlink:type="simple">
+            <daodesc>
+              <p>Cooper Square Committee Archived Website: August 2009-August 2011</p>
+            </daodesc>
+          </dao>
+          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6347/*/http://csmha.org/" xlink:role="external-link" xlink:show="new" xlink:title="Cooper Square Mutual Housing Association Archived Website" xlink:type="simple">
+            <daodesc>
+              <p>Cooper Square Mutual Housing Association Archived Website: November 2020-ongoing</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_9dbccb21b21cd995967b042a011e6da7">
+          <head>Scope and Content Note</head>
+          <p>Web archiving of the Cooper Square Committee's website began in 2009. The website then consisted of information related to housing and social services, tenant organizing, membership, and housing preservation. In 2011, the website went through a redesign focusing on organizing efforts; news; events; fundraising calls; information on the fundraising, accessbility, housing, and membership committees; testimonials; housing and social services; community development; annual gala; affordable housing resources; homeowner resources; and tenant rights resources with a specific focus on disability rights. The Cooper Square Committee focused on many special projects, including the Seward Park urban renewal, greening and weatherization, cooperative housing education, accessibility, rent laws and rent guidelines. The website also included the history of the organization, its by-laws, staff, and board members. In this version of the website, the e-Newsletter was available dating back to 2005. In 2012-2013, much of the website was focused on the aftermath of Superstorm Sandy on housing in the Lower East Side. In mid 2013, the website underwent a redesign and added sections in Spanish and Chinese. The website's content largely remained the same, but added a sections on stalled construction sites, Senior Health, Advocacy and Recreation Program (SHARP),  Real-Time Enforcement (RTE) campaign, Bea Arthur Residence youth housing project, and tenant safety, small business needs. In 2020, the website provided assistance on rent strikes and eviction moratoriums during the COVID-19 pandemic. In late 2020, the website was redesigned which highlighted their work with housing justice coalitions, predatory equity, lead dust abatement, and illegal hotels. The website also began to feature video in 2020.</p>
+          <p>
+Also includes the website for the Cooper Square Mutual Housing Association, an association of low income co-ops in the Lower East Side. It includes the MHA Update newsletter, the history of the association, building that are part of the co-op, and board and staff member information. The website is also in Spanish and Chinese.</p>
+        </scopecontent>
+        <phystech id="aspace_a1a48ea6b51f4c7d62e66148d28802e5">
+          <head>Physical Characteristics and Technical Requirements</head>
+          <p>Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</p>
+        </phystech>
+        <accruals id="aspace_27ea0b8dd2632857bd4da25dda2a54c0">
+          <head>Accruals</head>
+          <p>New site crawls are accrued semiannually.</p>
+        </accruals>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

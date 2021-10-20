@@ -1,0 +1,2454 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_250">tam_250</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Three Arrows Cooperative Society, Inc. Records <num>TAM.250</num></titleproper>
+        <author>Angela Frattarola</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Three Arrows Finding Aid.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 02:07:20 -0400</date>.</creation>
+      <langusage>Finding Aid is written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>December 2017</date>
+        <item>Record updated by Rachel Searcy to reflect November 2017 accretion</item>
+      </change>
+      <change>
+        <date>June 2019</date>
+        <item>Record updated by Rachel Searcy to reflect May 2019 accretion</item>
+      </change>
+      <change>
+        <date>January 2021</date>
+        <item>Edited by Nicole Greenhouse to reflect additional administrative information and added archived websites</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Three Arrows Cooperative Society Records</unittitle>
+      <origination label="Creator">
+        <corpname role="dnr" source="local">Three Arrows Cooperative Society, Inc.</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Balgley, Halona W.</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="naf">Heinrich, Amy Vladeck </persname>
+      </origination>
+      <unitid>TAM.250</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">14.5 Linear Feet</extent>
+        <extent altrender="carrier">in 12 record cartons, 4 manuscript boxes, 1 half manuscript box, and 3 oversize folders.</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">9.4 Gigabytes</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">2 websites</extent>
+        <extent altrender="carrier">in 2 archived websites.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1937/2018" type="inclusive">1937-2018</unitdate>
+      <abstract id="aspace_656a9bec9ff871e2065063a4468f9b8b">The Three Arrows Cooperative Society, Inc. is the successor organization to the Barger Street Cooperative Society, chartered in 1937. Early members purchased 125 acres of farmland in Putnam Valley, NY and formed a cooperative summer colony which eventually grew to include 75 individual units. The colony, sometimes known as Camp Three Arrows, is modeled on socialist and communitarian values and offers residents a wide range of cultural, educational and leisure activities. Records include minutes of the Board of Directors and other governing bodies, financial and legal documents, correspondence, and printed material on the history of the Society. The collection also includes over three hundred and fifty photographs and eleven maps of the property and surrounding areas.</abstract>
+      <langmaterial id="aspace_30cd7e0370b3bf0543146d1452717fbb">Materials are in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_0b86705a7530ed68236a5901ed776149">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_88d0be4de73e0358f21b727b98796129">
+      <head>Immediate Source of Acquisition</head>
+      <p>The Board of Director of the Three Arrows Cooperative Society, Inc. sent a gift of papers and photographs related to the Three Arrows in Summer 2001. Further accretions have been donated in 2011, 2014, 2015, 2017, and 2019. Amy Vladek Heinrich sent a gift of materials used in an exhibit for the 70th Anniversary of Three Arrows Cooperative Society, including photographs or photocopies of photographs (approximately 130), text, printed materials and graphics, and loose captions in 2011. Heinrich also sent a gift of newsletters and governance documents in 2014. In 2015, Halona W. Balgley donated a further accretion to the collection. The accession number associated with these gifts are 2001.189, 2001.191, NPA.2003.092, NPA.2004.063, 2011.133, 2011.140, 2014.153, 2015.068, 2017.080, and 2019.072.</p>
+      <p>In 2017, http://www.threearrowsco-op.net was selected by curators and captured through the use of Archive-It. Archive-It uses web crawling technology to capture websites at a scheduled time and displays only an archived copy, from the resulting WARC file, of the website. In 2020, http://www.threearrowsco-op.org/ was added. The accession number associated with this website is 2021.008.</p>
+    </acqinfo>
+    <arrangement id="aspace_3a52eb89ca9a985dfc49ead4b4de986e">
+      <head>Arrangement</head>
+      <p>Organized into 11 series:</p>
+      <p>Series I: Minutes, 1937-2002</p>
+      <p>Series II: General Files, 1937-2003</p>
+      <p>Series III: Unprocessed Materials, 1930s-2000s</p>
+      <p>Series IV: Addendum (2001)</p>
+      <p>Series V: Photographs, 1940-2006</p>
+      <p>Series VI: Maps and Plans, 1937-1981</p>
+      <p>Series VII. 2014 Addendum</p>
+      <p>Series VIII. Archived Websites</p>
+      <p>Series IX: 2015 Addendum</p>
+      <p>Series X. 2017 Addendum</p>
+      <p>Series XI. 2019 Addendum</p>
+      <p>Series I is arranged alphabetically by body or committee, and chronologically within each; Series II and IV through VI are arranged alphabetically by topic. Series III, IX, X, and XI have not been arranged by an archivist.</p>
+    </arrangement>
+    <bioghist id="aspace_5bce8368b8751867a673dd658c20ee47">
+      <head>Historical Note</head>
+      <p>The cooperative colony managed by Three Arrows Cooperative Society, Inc. originated with the purchase of Barger Farm, a hilly 125-acre property in Putnam Valley, NY in December 1936. The original organizers, among whom were Louis Hay, a psychologist, Joseph Glass, an attorney, and Jack Schaffer, a member of the Socialist Party familiar with the local area, obtained a state charter as the Barger Street Cooperative Society in 1937 and began to sell shares in the venture for $100, with a minimum purchase of two shares. By the end of the second season thirty families had purchased shares, and a number of tents had been erected on the property. Many of the first participants were affiliated with the International Ladies Garment Workers Union, the Amalgamated Clothing Workers of America, the Jewish Labor Bund, the Socialist Party, USA, or the Party's youth group, the Young People's Socialist League. Some had attended socialist summer camps as children. The colony later adopted the name Three Arrows Cooperative Society to honor a traditional symbol of the international socialist movement. An important influence on the early members was long-time Socialist Party leader, Norman Thomas, who visited Three Arrows every summer and spoke there during his several presidential campaigns. After his death in 1968, the colony's social hall was named for him.</p>
+      <p>The Society's land is held in common, but individual families own the residences they occupy, and a few units are available for rental. By 1947 the colony, sometimes known as Camp Three Arrows, consisted of fifty-three bungalows. The seventy-fifth, and final, unit was purchased in 1973. In the first few years residents dined communally, but later individual cabins had their own kitchens. Residences have been renovated and expanded to varying degrees and in different styles, with a number of families winterizing their properties for year-round use. Important community decisions at Three Arrows are made through a process of direct democracy. Management is in the hands of a Board of Directors, and a multitude of committees addresses specific areas of responsibility. Paid staff are the full-time caretaker and professional lifeguards, but community members often join in on maintenance projects. By the 1990s the community had become Putnam Valley's largest tax-payer. In the face of soaring land values and the tendency of children and grandchildren of society members to move away from New York and give up ownership of family properties, the community works hard to screen prospective buyers and maintain the cooperative values that motivated the founders.</p>
+      <p>The colony offers a lively schedule of summer cultural activity, including art classes, Friday-night lectures on political and social welfare topics, discussion sessions known as "schmoozes," concerts, amateur theatricals and dances. There are two clay tennis courts, a ball field and a marked trail for hiking. The community hosts a gala Fourth of July picnic, to which many non-residents are invited, and there is an annual Labor Day show. A waterfront swimming and boating area on fifty-acre Barger Pond, includes enclosed swimming "cribs" and a floating deck for lounging and socializing, and a number of supervised activities for children have been developed over the years.</p>
+    </bioghist>
+    <prefercite id="aspace_40fe16d1b7cbabf936d45a52c5955922">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Three Arrows Cooperative Society Records; TAM 250; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>
+      <p>To cite the archived website in this collection:
+Identification of item, date; Three Arrows Cooperative Society Records; TAM 250; Wayback URL; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_a5348ddd6bf731e56fdfda78cd18872f">
+      <head>Processing Information</head>
+      <p>Photographs separated from this collection during processing were established as a separate collection, the Three Arrows Cooperative Society, Inc. Photographs (PHOTOS 121). In 2014, the photograph collection was reincorporated into the Three Arrows Cooperative Society, Inc. Records (TAM 250).</p>
+      <p>In 2015, a folder list was created for the 2014 accession. The order found in the box was maintained by the archivist and the archived website was added as series VIII. In 2015, 2018, and 2019, further accretions were added as Series IX, X, and XI in accordance with previous arrangement decisions.</p>
+      <p>In 2021, additional website was added to the finding aid.</p>
+    </processinfo>
+    <scopecontent id="aspace_777e71c0126d2edd22f132e192864992">
+      <head>Scope and Contents</head>
+      <p>This partially processed collection contains minutes and associated materials for meetings of the Board of Directors, Finance Committee, Membership Committee, and several other committees. The collection also includes general files that document the Society's history and operations, including background material on the colony's history, such as anniversary journals, charters, by-laws, files on sales of property and other land transactions, insurance records, and other legal records. Among the financial records are officers' reports, statements and expense and income ledgers. Committee activity is well documented: brochures, flyers and over three hundred and fifty photographs illustrate a wide range of community events and pastimes. A complete run of the Three Arrows newsletter, "Voice of the Hill," 1945-2013, and examples of other, more short-lived, publications are also included. The collection contains eleven oversize maps and plans of the Three Arrows property and Putnam Valley.</p>
+    </scopecontent>
+    <phystech id="aspace_05e1ea4829fd15582ad3f4e424a384a4">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Born-digital materials have not been transferred and may not be available to researchers. Researchers may request access copies.  To request that material be transferred, or if you are unsure if material has been transferred, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <userestrict id="aspace_76a9fdeb0dffda8fed6c52d60ad375be">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by Three Arrows Cooperative Society were transferred to New York University in 2001 by Helona Balgley. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Labor Archive. Please contact tamiment.wagner@nyu.edu.</p>
+    </userestrict>
+    <appraisal id="aspace_5b75d847dbcd6a69f7ac891cb9e93752">
+      <head>Take Down Policy</head>
+      <p>Archived websites are made accessible for purposes of education and research. NYU Libraries have given attribution to rights holders when possible; however, due to the nature of archival collections, we are not always able to identify this information.</p>
+      <p>If you hold the rights to materials in our archived websites that are unattributed, please let us know so that we may maintain accurate information about these materials.</p>
+      <p>If you are a rights holder and are concerned that you have found material on this website for which you have not granted permission (or is not covered by a copyright exception under US copyright laws), you may request the removal of the material from our site by submitting a notice, with the elements described below, to the special.collections@nyu.edu.</p>
+      <p>Please include the following in your notice:  Identification of the material that you believe to be infringing and information sufficient to permit us to locate the material; your contact information, such as an address, telephone number, and email address; a statement that you are the owner, or authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed and that you have a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; a statement that the information in the notification is accurate and made under penalty of perjury; and your physical or electronic signature.  Upon receiving a notice that includes the details listed above, we will remove the allegedly infringing material from public view while we assess the issues identified in your notice.</p>
+    </appraisal>
+    <controlaccess>
+      <subject source="lcsh">Cooperative societies -- New York (State).</subject>
+      <genreform source="aat">Financial records</genreform>
+      <genreform source="aat">Photographs.</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Printed ephemera.</genreform>
+      <subject source="lcsh">Socialism -- New York (State).</subject>
+      <geogname source="lcsh">Putnam Valley (N.Y.).</geogname>
+      <genreform source="aat">Newsletters.</genreform>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <genreform source="aat">Legal documents.</genreform>
+      <genreform source="aat">blueprints (reprographic copies) </genreform>
+      <genreform source="aat">Reports.</genreform>
+      <persname source="local">Glass, Joseph</persname>
+      <persname source="naf">Thomas, Norman, 1884-1968</persname>
+      <corpname source="local">Barger Street Cooperative Society</corpname>
+      <persname source="local">Hay, Louis</persname>
+      <persname source="local">Schaffer, Jack</persname>
+      <corpname source="local">Three Arrows Cooperative Society, Inc.</corpname>
+      <persname role="dnr" rules="dacs" source="local">Balgley, Halona W.</persname>
+      <persname role="dnr" source="naf">Heinrich, Amy Vladeck </persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13" level="series">
+        <did>
+          <unittitle>Series I: Minutes</unittitle>
+          <unitdate datechar="creation" normal="1937/2002" type="inclusive">1937-2002</unitdate>
+        </did>
+        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors/Executive Board</unittitle>
+            <unitdate datechar="creation" normal="1937/1938" type="inclusive">1937-1938</unitdate>
+            <container id="aspace_648806c98b68a143d498166bbfd9a635" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_7ece08dbfb73b3a9bac4e2a66960d85d" parent="aspace_648806c98b68a143d498166bbfd9a635" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1939/1941" type="inclusive">1939-1941</unitdate>
+            <container id="aspace_361131a891955d048193d7cf2ab8d4e5" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_829830c4ccebbe983a9980b3a09dd854" parent="aspace_361131a891955d048193d7cf2ab8d4e5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors/Executive Board</unittitle>
+            <unitdate datechar="creation" normal="1942/1944" type="inclusive">1942-1944</unitdate>
+            <container id="aspace_1b1d6f69e28c9af75d754193f8952dda" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_82f32cc6a5c81050eae96d384c2c9079" parent="aspace_1b1d6f69e28c9af75d754193f8952dda" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1945/1946" type="inclusive">1945-1946</unitdate>
+            <container id="aspace_7b1bb9084a8fc01997f888200bf6da72" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_5ac8fbfc5f59786bc1f52a8e7d676f50" parent="aspace_7b1bb9084a8fc01997f888200bf6da72" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container id="aspace_052f501d1f82e7e9918c593d193414fb" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_384ddc7eeacebbe5a295a9293c8188ef" parent="aspace_052f501d1f82e7e9918c593d193414fb" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1949/1950" type="inclusive">1949-1950</unitdate>
+            <container id="aspace_d3b3c67d85bfd7e11a1342ee7d86b2b1" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_541efa42caa60d04732009f923daa4c1" parent="aspace_d3b3c67d85bfd7e11a1342ee7d86b2b1" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1953/1954" type="inclusive">1953-1954</unitdate>
+            <container id="aspace_95e9e3781f0a34a213cd857eb67624d7" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_2c2c9a62ff48fea5c6965b43e0c54727" parent="aspace_95e9e3781f0a34a213cd857eb67624d7" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors/Executive Board</unittitle>
+            <unitdate datechar="creation" normal="1955/1958" type="inclusive">1955-1958</unitdate>
+            <container id="aspace_8715dac4fb3619d78e3f245d66b5c192" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_4031f55dc5b99da72dc8ad76d3e9a1ce" parent="aspace_8715dac4fb3619d78e3f245d66b5c192" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1961/1963" type="inclusive">1961-1963</unitdate>
+            <container id="aspace_20a0205b258ed2e3e04685ed6d5e6ae6" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_44d9805962da00acb5453d96bb2e00b4" parent="aspace_20a0205b258ed2e3e04685ed6d5e6ae6" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_a281a85f4310835be2384263d90766f9" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_ff5b17a6b3cdc8e2694ddcfb745948e8" parent="aspace_a281a85f4310835be2384263d90766f9" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1966/1968" type="inclusive">1966-1968</unitdate>
+            <container id="aspace_e7ce9324704257b22991194e928408ce" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_b1f9334a85f0eb7aa107cb0820589b40" parent="aspace_e7ce9324704257b22991194e928408ce" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <container id="aspace_efd3f6d69e2cc74fab6988fc28f0db02" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_91d44bffd73381e4eb03163979a28416" parent="aspace_efd3f6d69e2cc74fab6988fc28f0db02" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_e54ecdfc4cf0b80290429edc338a2f73" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_8d932fa198d0bc999ec82f3050b7fa6d" parent="aspace_e54ecdfc4cf0b80290429edc338a2f73" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <container id="aspace_ba590ad398ceb6244430ed90a99f3c30" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_7d2e1dfed07337a129ad3ed4e2fc2a1c" parent="aspace_ba590ad398ceb6244430ed90a99f3c30" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+            <container id="aspace_a7d5ba01218586865b38278ee63c027b" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_b19019348465a5e9ef24685d4410fb8d" parent="aspace_a7d5ba01218586865b38278ee63c027b" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate>
+            <container id="aspace_e3bfff2b1bd3f5cc7399dbf78de54adb" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_f2e3abb9c1f8a39af89b4164fc8e0c0c" parent="aspace_e3bfff2b1bd3f5cc7399dbf78de54adb" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1978/1980" type="inclusive">1978-1980</unitdate>
+            <container id="aspace_635033ebbf9515a73fd7436e43b4e2d3" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_ac7bb1d695fc8f5a18177c3028923b49" parent="aspace_635033ebbf9515a73fd7436e43b4e2d3" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1981/1983" type="inclusive">1981-1983</unitdate>
+            <container id="aspace_1029a725629a37ce1bee0137cf9731f9" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_4ea819cf6ca96f20dc179e115af29883" parent="aspace_1029a725629a37ce1bee0137cf9731f9" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
+            <container id="aspace_409ee2851d5e1a26003f5867eaad552b" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_58ba2f7cd189c8eb60d5127baac288da" parent="aspace_409ee2851d5e1a26003f5867eaad552b" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1986/1989" type="inclusive">1986-1989</unitdate>
+            <container id="aspace_a77682506cf06ee3b94469ad965e921d" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_9a758aef74671aabb78305b205e0dc49" parent="aspace_a77682506cf06ee3b94469ad965e921d" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1990/1993" type="inclusive">1990-1993</unitdate>
+            <container id="aspace_6f3ac83adcb01167ba0e701b794dddfd" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_3cacc263a4443003499c9113c9b41766" parent="aspace_6f3ac83adcb01167ba0e701b794dddfd" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1994/2002" type="inclusive">1994-2002</unitdate>
+            <container id="aspace_4d31e1031e18152133ea7a269be72281" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_3be29229e71268c62fff797a995103ca" parent="aspace_4d31e1031e18152133ea7a269be72281" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finance Committee</unittitle>
+            <unitdate datechar="creation" normal="1937/1971" type="inclusive">1937-1939 , 1953 , 1971</unitdate>
+            <container id="aspace_67f2f45c53574457da108b9d3be4a393" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_12dc736c09e1033e98dd2f039b2feead" parent="aspace_67f2f45c53574457da108b9d3be4a393" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finance Committee</unittitle>
+            <unitdate datechar="creation" normal="1982/1989" type="inclusive">1982-1989</unitdate>
+            <container id="aspace_7b491ebe4153679ca6127374481b8036" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_a1436aa9b69cdbbef9cedb777c21a099" parent="aspace_7b491ebe4153679ca6127374481b8036" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Insurance Committee</unittitle>
+            <unitdate datechar="creation" normal="1974/1991" type="inclusive">1974-1978 , 1982-1991</unitdate>
+            <container id="aspace_727d93ac63219e78c6c66851daa64834" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_63aa82f85430875bf250bf326198d10c" parent="aspace_727d93ac63219e78c6c66851daa64834" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Long Range Planning Committee</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1964-1989</unitdate>
+            <container id="aspace_5170626097f2fcfa8475b0b5b410ffd1" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_17cea6db3ee020f1183d68287241c86b" parent="aspace_5170626097f2fcfa8475b0b5b410ffd1" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Long Range Planning Committee</unittitle>
+            <unitdate datechar="creation" normal="1991/1997" type="inclusive">1991-1997</unitdate>
+            <container id="aspace_51bfd43030a000f1be6347888d888fbf" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_cc463bad13a7701a3557a941e4ac65a1" parent="aspace_51bfd43030a000f1be6347888d888fbf" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1940/1944" type="inclusive">1940-1944</unitdate>
+            <container id="aspace_e8c7e81915a621c172b61b44599cff24" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_3514d7cbaae67f51155f5ab1bf98b15c" parent="aspace_e8c7e81915a621c172b61b44599cff24" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1945/1948" type="inclusive">1945-1948</unitdate>
+            <container id="aspace_7a7c01eef46a8888a0042aa9c47d8839" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_c81d9641832ea060e544aa170f09a67c" parent="aspace_7a7c01eef46a8888a0042aa9c47d8839" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1949/1950" type="inclusive">1949-1950</unitdate>
+            <container id="aspace_dc1cf9928e133f29244144ad988cc317" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_8d5bf7077f78587b6b4302b504a4455e" parent="aspace_dc1cf9928e133f29244144ad988cc317" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1953/1958" type="inclusive">1953-1958</unitdate>
+            <container id="aspace_193bdf64c234184d6983595e49d36863" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_50b30cb8a10bcc16bb9510c2c61795ce" parent="aspace_193bdf64c234184d6983595e49d36863" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1961/1970" type="inclusive">1961-1970</unitdate>
+            <container id="aspace_745bffe3f7f150d9c091a28e0edfd986" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_ebb4e08b859b8d133b823120707ba299" parent="aspace_745bffe3f7f150d9c091a28e0edfd986" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1971/1973" type="inclusive">1971-1973</unitdate>
+            <container id="aspace_d3a3576d53d93eb43b83cf82dd02a2a8" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_af4f8b33d7e0129bc3d8758d4c434249" parent="aspace_d3a3576d53d93eb43b83cf82dd02a2a8" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+            <container id="aspace_2b7c160643e28a7149f54897f6072036" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_dbb2a07f1e827b6a1e815446a29654f2" parent="aspace_2b7c160643e28a7149f54897f6072036" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1976/1980" type="inclusive">1976-1980</unitdate>
+            <container id="aspace_a8dbae79531f6cb3c8fc84e75604c50d" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_d4287e1ccca7304c2b0929edd167fc6d" parent="aspace_a8dbae79531f6cb3c8fc84e75604c50d" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1981/1983" type="inclusive">1981-1983</unitdate>
+            <container id="aspace_cc94817c5b61dea4828bf864986488f8" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_0357f00228c3aaca881ab8d0cb265c5d" parent="aspace_cc94817c5b61dea4828bf864986488f8" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1984/1989" type="inclusive">1984-1989</unitdate>
+            <container id="aspace_8a505fb12c7c866509a9062d9e232b13" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_09f5808c4da1e0f749eda9f81593b6df" parent="aspace_8a505fb12c7c866509a9062d9e232b13" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1990/1993" type="inclusive">1990-1993</unitdate>
+            <container id="aspace_23f9c40f8edd219b16f9b753e874e476" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_57f0890f1d2b857c4abbcf6d68c6ee9c" parent="aspace_23f9c40f8edd219b16f9b753e874e476" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1996/2002" type="inclusive">1996 , 1998 , 2002</unitdate>
+            <container id="aspace_fd8e7f14d76df6d4b719705297c7df2e" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_4ce75a224129948783eda66826b92eaf" parent="aspace_fd8e7f14d76df6d4b719705297c7df2e" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Permanent Planning Committee</unittitle>
+            <unitdate datechar="creation" normal="1966/1977" type="inclusive">1966-1977</unitdate>
+            <container id="aspace_fab1810040298a181934a9c288194762" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_e03a36f6718ab494733a74dfaaeae8e9" parent="aspace_fab1810040298a181934a9c288194762" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Water Committee</unittitle>
+            <unitdate datechar="creation" normal="1966/1996" type="inclusive">1966 , 1996</unitdate>
+            <container id="aspace_0124062170d7b80d2cade37158ed8052" label="Mixed Materials [31142050275000]" type="Box">1</container>
+            <container id="aspace_7b085c3465c9d43222bb7beb46032553" parent="aspace_0124062170d7b80d2cade37158ed8052" type="Folder">41</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref55" level="series">
+        <did>
+          <unittitle>Series II: General Files</unittitle>
+          <unitdate datechar="creation" normal="1937/2003" type="inclusive">1937-2003</unitdate>
+        </did>
+        <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Action Committee for Peace and Freedom: Proposal</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated</unitdate>
+            <container id="aspace_d79f83586332467135b9268f4a20c761" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_29ec9b85351ec3d1087c02a12174059f" parent="aspace_d79f83586332467135b9268f4a20c761" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Administration: General</unittitle>
+            <unitdate datechar="creation" normal="1997/1999" type="inclusive">1997-1999</unitdate>
+            <container id="aspace_bed6f18b45d6c0100757f7a1e160df77" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_c0d3af8a87f9bab6d60b6be6fe0ff276" parent="aspace_bed6f18b45d6c0100757f7a1e160df77" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Advertising</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_ebd00a057f032f9dbe85ae107b4f91e3" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_f1003fc779b79bd6483b3300a559b907" parent="aspace_ebd00a057f032f9dbe85ae107b4f91e3" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Affiliations</unittitle>
+            <unitdate datechar="creation" normal="1938/1988" type="inclusive">1938-1988</unitdate>
+            <container id="aspace_2972afe306f24b68781eb3f867d2b28d" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_f485d071faba3507045533856d36289f" parent="aspace_2972afe306f24b68781eb3f867d2b28d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Anniversaries: General</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1963 , 1986-1996</unitdate>
+            <container id="aspace_666534a422e66aad3524d217a8d9e103" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_f3b1d8640d937a3bbdcfd15ceecb81ae" parent="aspace_666534a422e66aad3524d217a8d9e103" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Anniversaries: Journals</unittitle>
+            <unitdate datechar="creation" normal="1976/1996" type="inclusive">1976-1996</unitdate>
+            <container id="aspace_9a2b39aeb332e1a7262cfdb0830c2d61" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_d842de98d63830a70b09c9d145f0225d" parent="aspace_9a2b39aeb332e1a7262cfdb0830c2d61" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Announcements</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1993 , 2000</unitdate>
+            <container id="aspace_ece85d93501802b9bba98a899ef147be" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_5f296350a204692d3eda5f972103cdba" parent="aspace_ece85d93501802b9bba98a899ef147be" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Application for a Permit to Maintain a Camp</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_3b63fbcc1aa6770fdddd73d35be252d3" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_66b631738819ac7eb86b279e4a68333a" parent="aspace_3b63fbcc1aa6770fdddd73d35be252d3" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Appraisals: General</unittitle>
+            <unitdate datechar="creation" normal="1996/2000" type="inclusive">1996 , 1998-2000</unitdate>
+            <container id="aspace_7785d8c5a80afce2fff4b92702d89d4e" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_3d61dd02559d16abfae10764a36054cf" parent="aspace_7785d8c5a80afce2fff4b92702d89d4e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Appraisals: Residential Plans</unittitle>
+            <unitdate datechar="creation" normal="1998/2000" type="inclusive">1998-2000</unitdate>
+            <container id="aspace_92fad3faf4c41ad0b7a86d8877dd3c93" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_b301c1d6a9b6ee3ab295a53837856b20" parent="aspace_92fad3faf4c41ad0b7a86d8877dd3c93" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Arts and Crafts Shows</unittitle>
+            <unitdate datechar="creation" normal="1971/1982" type="inclusive">1971-1982</unitdate>
+            <container id="aspace_1e468b1d5ce9c9f6e8a41bb45fc2373d" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_86bc0c9469e9bca2465ce72d21b84b9e" parent="aspace_1e468b1d5ce9c9f6e8a41bb45fc2373d" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Assessments: Complaints</unittitle>
+            <unitdate datechar="creation" normal="1976/1998" type="inclusive">1976-1983 , 1992-1998</unitdate>
+            <container id="aspace_2f1e469e8cda940533e7c5f27ec64d36" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_2ffd399ed8df425540f4fb12129f7320" parent="aspace_2f1e469e8cda940533e7c5f27ec64d36" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Assessments: General</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1940-1969</unitdate>
+            <container id="aspace_0932a7a269996032f22392326c94c51d" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_bcad9e45169e2ae7b6c555e01bfc3e0c" parent="aspace_0932a7a269996032f22392326c94c51d" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Assessments: General</unittitle>
+            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate>
+            <container id="aspace_ce4c9a200aefc5347c54791bd924acb4" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_b945fe6d7c9b9cad6224947e49d8dec3" parent="aspace_ce4c9a200aefc5347c54791bd924acb4" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Assessments: General</unittitle>
+            <unitdate datechar="creation" normal="1980/1998" type="inclusive">1980-1998</unitdate>
+            <container id="aspace_3c982ba023edb9834f28494c6a89b363" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_9b26670867dc2203aa74f8cec0978182" parent="aspace_3c982ba023edb9834f28494c6a89b363" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Barn</unittitle>
+            <unitdate datechar="creation" normal="1992/1994" type="inclusive">1992-1994</unitdate>
+            <container id="aspace_f12669c2597eec9b50f81a155e9b6c17" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_c029d0ee8931ad49a5c025b9f6932d7f" parent="aspace_f12669c2597eec9b50f81a155e9b6c17" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Board of Directors</unittitle>
+            <unitdate datechar="creation" normal="1939/2002" type="inclusive">1939-1949 , 1964-2002</unitdate>
+            <container id="aspace_02044c046d63b123552083b328266432" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_e9f5276a306b6df5ca24cd9e1706f86f" parent="aspace_02044c046d63b123552083b328266432" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bosworth, Fred</unittitle>
+            <unitdate datechar="creation" normal="1962/1971" type="inclusive">1962 , 1971</unitdate>
+            <container id="aspace_90e8cfda402f67b45a598dd2884ac5bd" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_1c1d390dd4caac1255987a796c757265" parent="aspace_90e8cfda402f67b45a598dd2884ac5bd" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>By-Laws</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1939-1957</unitdate>
+            <container id="aspace_5b69c809ccc2a373fe89d7898adc1e02" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_a04e7b240251060f7234592333734895" parent="aspace_5b69c809ccc2a373fe89d7898adc1e02" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>By-Laws</unittitle>
+            <unitdate datechar="creation" normal="1962/2001" type="inclusive">1962-1963 , 1974-2001</unitdate>
+            <container id="aspace_ca1fe70d1dccad6fc86ecf5f18adaecd" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_1042ff0e0ad2b71a183a9fe9d367e49e" parent="aspace_ca1fe70d1dccad6fc86ecf5f18adaecd" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Capital Improvements</unittitle>
+            <unitdate datechar="creation" normal="1938/1997" type="inclusive">1938-1950 , 1985-1997</unitdate>
+            <container id="aspace_2842b0d78b28ecdc1994dce9b035e4eb" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_9486930d81dba097aa34479976430d72" parent="aspace_2842b0d78b28ecdc1994dce9b035e4eb" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Caretaker: Feirman, Jeffrey</unittitle>
+            <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_b167a0af2d26856ccd721d93bad285dc" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_894e6475bd09d3e4b9ca2089d73b67ee" parent="aspace_b167a0af2d26856ccd721d93bad285dc" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Caretaker: Garvin, Paul</unittitle>
+            <unitdate datechar="creation" normal="1991/1999" type="inclusive">1991 , 1998-1999</unitdate>
+            <container id="aspace_7287bec2f093aa218ce993e2613a8b75" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_4d64d9969e5b50097959e6f8a9fd5be0" parent="aspace_7287bec2f093aa218ce993e2613a8b75" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Caretaker: General</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1972-1973 , 1978-2002</unitdate>
+            <container id="aspace_e3d9003326ab98c01cdc98e5962cf51f" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_40b8a54eedc16ded628463d75eb668eb" parent="aspace_e3d9003326ab98c01cdc98e5962cf51f" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Caretaker: Van Tassel, Robert</unittitle>
+            <unitdate datechar="creation" normal="1984/1988" type="inclusive">1984-1988</unitdate>
+            <container id="aspace_7c4feec8a6201de2451f1434c0e677e4" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_18fea53caea840a4f10bb91cba81853f" parent="aspace_7c4feec8a6201de2451f1434c0e677e4" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Certificates of Incorporation and Amendments</unittitle>
+            <unitdate datechar="creation" normal="1937/1982" type="inclusive">1937 , 1949-1953 , 1961-1982</unitdate>
+            <container id="aspace_6495d5428c61192b0d34156e1cc05512" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_83cb364944b4bd572d61d944dc41e2ad" parent="aspace_6495d5428c61192b0d34156e1cc05512" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Committees</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1994-2002</unitdate>
+            <container id="aspace_f6f4f28138c151be46a3bfa2f704f85c" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_45f8aa23333697183103d696e71076fa" parent="aspace_f6f4f28138c151be46a3bfa2f704f85c" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Community Land Tax</unittitle>
+            <unitdate datechar="creation" normal="1970/1981" type="inclusive">1970-1981</unitdate>
+            <container id="aspace_64684b6eaac3f6c5102133e0bfb8b95d" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_c9330fbe1a96978fcf7d1d67d4bf2a17" parent="aspace_64684b6eaac3f6c5102133e0bfb8b95d" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Commutation Questionnaire</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated</unitdate>
+            <container id="aspace_3cc88c307bbd0f9e6be2e74461b1cebb" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_bbe4480c6c5fdaafe118f4b1aa095e62" parent="aspace_3cc88c307bbd0f9e6be2e74461b1cebb" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Co-op Store</unittitle>
+            <unitdate datechar="creation" normal="1940/1965" type="inclusive">1940-1965</unitdate>
+            <container id="aspace_b4bc9383a25641c874eb8ef2555970d6" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_7a807e8fcc0b4718f28e32c5a840cd47" parent="aspace_b4bc9383a25641c874eb8ef2555970d6" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">Undated ; 1937-1939</unitdate>
+            <container id="aspace_93d3a23f1d7a4b2b9dbe0ddede3d8f49" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_eed6714e6f7cae066270218793060b8f" parent="aspace_93d3a23f1d7a4b2b9dbe0ddede3d8f49" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1945/1995" type="inclusive">1945-1951 ; 1959-1995</unitdate>
+            <container id="aspace_c6e87116e611e342077a45f0e5eff2e9" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_c7cbe3f58ffcf24afc763962d024e9cd" parent="aspace_c6e87116e611e342077a45f0e5eff2e9" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Crib Construction</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
+            <container id="aspace_96d1d8a5ab5a193ed9867b51b091f9dd" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_d71fc544d86d64b6174d22d475e04efe" parent="aspace_96d1d8a5ab5a193ed9867b51b091f9dd" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Crossword Puzzle</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated</unitdate>
+            <container id="aspace_63b9eb8f89ecf2c036a4b5ad8ac349c4" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_6d68462588cc4a2a8eba8e24b0b7d485" parent="aspace_63b9eb8f89ecf2c036a4b5ad8ac349c4" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Day Camp</unittitle>
+            <unitdate datechar="creation" normal="1943/2002" type="inclusive">1943-1976 ; 1979 ; 1997-2002</unitdate>
+            <container id="aspace_181beaf9888ba8d60ea925ca71e293a4" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_1178441bb0efa5879b8cf1775891d29a" parent="aspace_181beaf9888ba8d60ea925ca71e293a4" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Deeds</unittitle>
+            <unitdate datechar="creation" normal="1937/1998" type="inclusive">1937 , 1953 , 1998</unitdate>
+            <container id="aspace_641f73e539efaf98331f6aa7910f7fcc" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_3cc8656d000c6c6d69416a8c38aeb755" parent="aspace_641f73e539efaf98331f6aa7910f7fcc" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Department of Agriculture (New York State)</unittitle>
+            <unitdate datechar="creation" normal="1964/1991" type="inclusive">1964-1991</unitdate>
+            <container id="aspace_2c92ffadc4d0ec68c3bee3dd92b3115c" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_8fb646493b8041968f6e752af4162de6" parent="aspace_2c92ffadc4d0ec68c3bee3dd92b3115c" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Donations to Other Organizations</unittitle>
+            <unitdate datechar="creation" normal="1938/1996" type="inclusive">1938-1996</unitdate>
+            <container id="aspace_e02ca279679a72c04dd0bcf662549952" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_7b20bfa86ac0b7f95cf79a99808df4eb" parent="aspace_e02ca279679a72c04dd0bcf662549952" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Dues: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1938/2000" type="inclusive">1938 , 1942-1949 , 1963-2000</unitdate>
+            <container id="aspace_988554813bb1cc0a8a992573a2e14a15" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_01ca231f26a779a73e9c2331a140836e" parent="aspace_988554813bb1cc0a8a992573a2e14a15" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Education Committee</unittitle>
+            <unitdate datechar="creation" normal="1938/2001" type="inclusive">1938 , 1944-1978 , 1993-2001</unitdate>
+            <container id="aspace_29a2fb7ea8f4174e569c6d877d326191" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_1f663107301d67853abe55c924f73cce" parent="aspace_29a2fb7ea8f4174e569c6d877d326191" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Election Fraud Case</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated</unitdate>
+            <container id="aspace_9a0d01a4014f8b8fac4be204fcc1d9f7" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_475ce84f7e8a0a8e4e6b25b467f4ab57" parent="aspace_9a0d01a4014f8b8fac4be204fcc1d9f7" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Employees: Records</unittitle>
+            <unitdate datechar="creation" normal="1939/1993" type="inclusive">1939-1941 , 1962-1993</unitdate>
+            <container id="aspace_f94b71b3016b3f48ca0330e48a0b42be" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_a2f0dec0c3c6a8cae0c45fca7d9ef22c" parent="aspace_f94b71b3016b3f48ca0330e48a0b42be" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Employees: Wages and Regulations</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1941 , 1960</unitdate>
+            <container id="aspace_ec2f89deb09aed2b591cd3d69b3827ae" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_1cfe374cff0be5d3039f8317a5dca80f" parent="aspace_ec2f89deb09aed2b591cd3d69b3827ae" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>End of the Season Check-list</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated</unitdate>
+            <container id="aspace_8120ea7baa472089ccfc3a7bbc122354" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_7db94b6a724522103577d3296144ce5b" parent="aspace_8120ea7baa472089ccfc3a7bbc122354" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Environmental Issues (at Three Arrows)</unittitle>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_73d44a5fac6a9402ef11b1eaea47a8d2" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_b8c290fcb2115f13f849c416a5e7b018" parent="aspace_73d44a5fac6a9402ef11b1eaea47a8d2" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Events: General</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated ; 1951 ; 1955-2002</unitdate>
+            <container id="aspace_aa8e0601bb458939af6b0d0e4e56541c" label="Mixed Materials [31142050275075]" type="Box">2</container>
+            <container id="aspace_19e1597cb20b138b5d96efcab9d65428" parent="aspace_aa8e0601bb458939af6b0d0e4e56541c" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: Check Stubs</unittitle>
+            <unitdate datechar="creation" normal="1944/1945" type="inclusive">1944-1945</unitdate>
+            <container id="aspace_0ea63d0077aa8ece4ac41753e2ad7ef7" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_49e8a16a5a56a4a99e10dfabedb4edce" parent="aspace_0ea63d0077aa8ece4ac41753e2ad7ef7" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: General</unittitle>
+            <unitdate datechar="creation" normal="1937/1970" type="inclusive">1937-1970</unitdate>
+            <container id="aspace_cfc689e2c47aa0deb24107eba469baaa" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_e0f632ecabfc3df0d3d130a215a0d1f2" parent="aspace_cfc689e2c47aa0deb24107eba469baaa" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: General</unittitle>
+            <unitdate datechar="creation" normal="1972/1985" type="inclusive">1972-1985</unitdate>
+            <container id="aspace_befad1c0b8862dc1facdeb401e8ad822" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_00c3208b99f320472b1b7e7421153173" parent="aspace_befad1c0b8862dc1facdeb401e8ad822" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: General</unittitle>
+            <unitdate datechar="creation" normal="1986/1989" type="inclusive">1986-1989</unitdate>
+            <container id="aspace_2744e9afa8d67db77728920723386518" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_516fa58016ec8e2fdadaf24ac2c7c941" parent="aspace_2744e9afa8d67db77728920723386518" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: General</unittitle>
+            <unitdate datechar="creation" normal="1990/2002" type="inclusive">1990-2002</unitdate>
+            <container id="aspace_a9f7edf3f0abbf689bc28a1958f2a34a" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_3cbae9f9265e782a74b7fe8648397a74" parent="aspace_a9f7edf3f0abbf689bc28a1958f2a34a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: Ledger</unittitle>
+            <unitdate datechar="creation" normal="1937/1941" type="inclusive">1937-1941</unitdate>
+            <container id="aspace_9da19eec8694e2a59ae887a3387340aa" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_c12ed378557997b547ce7dfb054b57a2" parent="aspace_9da19eec8694e2a59ae887a3387340aa" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: Ledger</unittitle>
+            <unitdate datechar="creation" normal="1941/1942" type="inclusive">1941-1942</unitdate>
+            <container id="aspace_cdaab50e41160caada81d826fb947713" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_fbe06541e6c1135133dc1802b5c8175f" parent="aspace_cdaab50e41160caada81d826fb947713" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: Ledger</unittitle>
+            <unitdate datechar="creation" normal="1944/1945" type="inclusive">1944-1945</unitdate>
+            <container id="aspace_4ef99c0fccd863b80ead226779b3e76d" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_cfff3373fcccfd460b318f2f502e8469" parent="aspace_4ef99c0fccd863b80ead226779b3e76d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: Ledger</unittitle>
+            <unitdate datechar="creation" normal="1946/1948" type="inclusive">1946-1948</unitdate>
+            <container id="aspace_e177a965e974297af0532d2789adfa29" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_e4a6a99704d4192c3e74c454c929ffe3" parent="aspace_e177a965e974297af0532d2789adfa29" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: Ledger</unittitle>
+            <unitdate datechar="creation" normal="1956/1962" type="inclusive">1956-1962</unitdate>
+            <container id="aspace_27bd81c21d04868925c0c4101aea2c7c" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_b55d2d21398fecc9e874bf45f50db09f" parent="aspace_27bd81c21d04868925c0c4101aea2c7c" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: Ledger</unittitle>
+            <unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate>
+            <container id="aspace_cd1ba65141f79bfaf099e3fa1b3b12ed" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_34139c6e0c6f421258e40ddd9a8adb99" parent="aspace_cd1ba65141f79bfaf099e3fa1b3b12ed" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: Ledger</unittitle>
+            <unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate>
+            <container id="aspace_b89829821261a1caed756bd0b44591c5" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_2ff179265c92af1a789cfab91cac546f" parent="aspace_b89829821261a1caed756bd0b44591c5" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: Ledger</unittitle>
+            <unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_676275af71fbfa48b0424f565b9740af" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_3ac1294bf80baff6860445186e07e234" parent="aspace_676275af71fbfa48b0424f565b9740af" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: Statements</unittitle>
+            <unitdate datechar="creation" normal="1937/1949" type="inclusive">1937-1949</unitdate>
+            <container id="aspace_cc516623de7931d19d76f46723ebf71a" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_cee3f127e1ca5998f8d7873d46639f7f" parent="aspace_cc516623de7931d19d76f46723ebf71a" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: Statements</unittitle>
+            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate>
+            <container id="aspace_7af937da1f87ca8f677eaea6da947127" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_12828354781498743fe37d0f38ef7deb" parent="aspace_7af937da1f87ca8f677eaea6da947127" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: Statements</unittitle>
+            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate>
+            <container id="aspace_403032de20b6601851f33d39693272b1" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_d31acff469aaf7f9ea7acbb4d77afb45" parent="aspace_403032de20b6601851f33d39693272b1" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: Statements</unittitle>
+            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate>
+            <container id="aspace_b483f45eda5f44b6dc285f18aa48f554" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_bceff20498b7478b0a2cd67c28c2098a" parent="aspace_b483f45eda5f44b6dc285f18aa48f554" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: Statements</unittitle>
+            <unitdate datechar="creation" normal="1980/1989" type="inclusive">1980-1989</unitdate>
+            <container id="aspace_646c3a739183da67e5a8c8079df0838f" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_74b5c1d6063b08d98195c80f66789f66" parent="aspace_646c3a739183da67e5a8c8079df0838f" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fire Committee</unittitle>
+            <unitdate datechar="creation" normal="1955/1962" type="inclusive">1955-1957 , 1962</unitdate>
+            <container id="aspace_ac595d84ae9ff34131585fa52da111b0" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_8a173150f29f1340a0f1925f18197b92" parent="aspace_ac595d84ae9ff34131585fa52da111b0" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fischer, Bruno: "Notes for a Master's Thesis on a Summer Housing Cooperative Called Three Arrows"</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_8cb63d4834abc503bc040fcadc3f681c" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_bb109161698afe3547fc9a8af4c103d4" parent="aspace_8cb63d4834abc503bc040fcadc3f681c" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>General Description</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1984 , 1996</unitdate>
+            <container id="aspace_13adb71599e33b8262706b01078750be" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_d494ebb993e741320038ab67fc2e6ae2" parent="aspace_13adb71599e33b8262706b01078750be" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Governance: General</unittitle>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container id="aspace_dedd0ab7538930f8893e33adeb22d829" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_58df272180e7645548d05a4752aa03b8" parent="aspace_dedd0ab7538930f8893e33adeb22d829" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Greenberg Case</unittitle>
+            <unitdate datechar="creation" normal="1947/1967" type="inclusive">1947 , 1964-1967</unitdate>
+            <container id="aspace_dca4b34a5266433a8c75c6de146a2ca4" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_1f4ae5afea9e80ac435016216c7c66b8" parent="aspace_dca4b34a5266433a8c75c6de146a2ca4" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Guest Request Form</unittitle>
+            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+            <container id="aspace_ad55023dc42f1a65014d242f1f7a8d2b" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_595130b5b17fb447c27cdaa0053bc529" parent="aspace_ad55023dc42f1a65014d242f1f7a8d2b" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Health and Safety: Reports, etc.</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1943-1947 , 1961-1979</unitdate>
+            <container id="aspace_2f76dc8856d8b7572779c9d8783e1fb7" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_47ccb11a9f62b020ef54d19a58437dc5" parent="aspace_2f76dc8856d8b7572779c9d8783e1fb7" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Health and Safety: Reports, etc.</unittitle>
+            <unitdate datechar="creation" normal="1980/2002" type="inclusive">1980-2002</unitdate>
+            <container id="aspace_eb5d4bd19944ebfae2b21091dd160ed0" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_9a563f720d215524cff590374af8786f" parent="aspace_eb5d4bd19944ebfae2b21091dd160ed0" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>History</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1984 , 1992-1995</unitdate>
+            <container id="aspace_43defe587eb5c5ebde0af5d3dcd2216c" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_ba7ee75fa074c1971d8492b404751853" parent="aspace_43defe587eb5c5ebde0af5d3dcd2216c" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Hotel License</unittitle>
+            <unitdate datechar="creation" normal="1957/1960" type="inclusive">1957 , 1960</unitdate>
+            <container id="aspace_da6e6012f72fa46fad06c17e3f97af4e" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_a102310588171439bb12724df1d9f566" parent="aspace_da6e6012f72fa46fad06c17e3f97af4e" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>House Renumbering</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_c42fe8a4fe6a1f5894fddebea8c23891" label="Mixed Materials [31142050275034]" type="Box">3</container>
+            <container id="aspace_b58cd1f4f6bc0de231b05c9a662da468" parent="aspace_c42fe8a4fe6a1f5894fddebea8c23891" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Insurance</unittitle>
+            <unitdate datechar="creation" normal="1942/1959" type="inclusive">1942-1959</unitdate>
+            <container id="aspace_305df1e2121c0d041f80442ea019391f" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_18c5f84dbefb24e3e6fcbd62f4784d41" parent="aspace_305df1e2121c0d041f80442ea019391f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Insurance</unittitle>
+            <unitdate datechar="creation" normal="1960/1979" type="inclusive">1960-1979</unitdate>
+            <container id="aspace_a9fde51acbd60f7c98c4aa9c5d42fd5a" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_1ee4caa306f3eb3471e58214d744342d" parent="aspace_a9fde51acbd60f7c98c4aa9c5d42fd5a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Insurance</unittitle>
+            <unitdate datechar="creation" normal="1986/1989" type="inclusive">1986-1989</unitdate>
+            <container id="aspace_42f84dc3663738cb9415e35798be6422" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_7aaa7433a012c4aa2a1175ea08c83d23" parent="aspace_42f84dc3663738cb9415e35798be6422" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Insurance</unittitle>
+            <unitdate datechar="creation" normal="1990/2002" type="inclusive">1990-2002</unitdate>
+            <container id="aspace_83fd77524963bdd32baf40b44f3afc2e" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_394fa6232cf0c6ddd0db46671cec2289" parent="aspace_83fd77524963bdd32baf40b44f3afc2e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Israel-Palestine</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated</unitdate>
+            <container id="aspace_357e285f1d8db65bd937084f3536bbe4" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_ceef4ce14bff8d59d67a5841ac27a3c6" parent="aspace_357e285f1d8db65bd937084f3536bbe4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Labor Day Shows</unittitle>
+            <unitdate datechar="creation" normal="1950/2002" type="inclusive">1950 ; 1962-1976 ; 1999-2002</unitdate>
+            <container id="aspace_bdc850dae98f5f105daa690e06120e1d" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_582a04298cef2bbe1d1d91572fbeb003" parent="aspace_bdc850dae98f5f105daa690e06120e1d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Labor Day Shows: Plays</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1947-2000</unitdate>
+            <container id="aspace_fe82d4d899cc26570a928944c0a56d07" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_1402e39f58e1c2d704d893ba7e204f26" parent="aspace_fe82d4d899cc26570a928944c0a56d07" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Labor Day Shows: Sheet Music</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated</unitdate>
+            <container id="aspace_4d626d05d4197fc38b525987808387b8" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_4ceb811ee6c85fafdfa43c203b4e5058" parent="aspace_4d626d05d4197fc38b525987808387b8" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Labor Day Shows: Song Lyrics</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1961-1964 , 1976</unitdate>
+            <container id="aspace_d04c85ee5b2555d130f04bc05fd2bc80" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_a7f9c9dba6026b4c867a76adea5c3dbe" parent="aspace_d04c85ee5b2555d130f04bc05fd2bc80" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Lake Committee</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1957 , 1977-2002</unitdate>
+            <container id="aspace_e48e9ea3128e85f83e2ea288a0fac370" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_77563e3ebe58fbca424699522bb4e75a" parent="aspace_e48e9ea3128e85f83e2ea288a0fac370" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Land Purchase</unittitle>
+            <unitdate datechar="creation" normal="1980/1981" type="inclusive">1980-1981</unitdate>
+            <container id="aspace_6951f23046f0d00a4ce53e9d45e9862f" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_14824928fbdf2d5e1a07aebab0bc92fa" parent="aspace_6951f23046f0d00a4ce53e9d45e9862f" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Landscaping/Beautification Committees</unittitle>
+            <unitdate datechar="creation" normal="1948/2000" type="inclusive">1948 , 1962-2000</unitdate>
+            <container id="aspace_426e4f5948859102543ea2e8ccada4ca" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_8fe61129f102e1eb7eaa287607ed3310" parent="aspace_426e4f5948859102543ea2e8ccada4ca" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref143" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Legal Committee</unittitle>
+            <unitdate datechar="creation" normal="1979/2002" type="inclusive">1979-1980 , 1997 , 2001-2002</unitdate>
+            <container id="aspace_8ee5bd8e5d95c2d7eb2b9b3a2e9d5d87" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_528d216e2df7b8696b6c40ac4a2ede75" parent="aspace_8ee5bd8e5d95c2d7eb2b9b3a2e9d5d87" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Long Range Planning</unittitle>
+            <unitdate datechar="creation" normal="1992/2002" type="inclusive">1992 , 1996 , 2002</unitdate>
+            <container id="aspace_9a3ab085763d39d4958b611e474e8d3f" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_455c1e111f4c5675e7612164e8382fc2" parent="aspace_9a3ab085763d39d4958b611e474e8d3f" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref145" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Management Committee</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1943-1986 , 2001-2002</unitdate>
+            <container id="aspace_3db08a2485ec2924303c59f4c3df34a4" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_96879265e54b2c0e4c4d9006de3d7ad3" parent="aspace_3db08a2485ec2924303c59f4c3df34a4" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref146" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Maps and Plans</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1941-1999</unitdate>
+            <container id="aspace_d1097683d050848081d4a8f1bd42b12a" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_440394fe78ab66cc3bed0bbe97ffcf60" parent="aspace_d1097683d050848081d4a8f1bd42b12a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Members: Complaints</unittitle>
+            <unitdate datechar="creation" normal="1938/2000" type="inclusive">1938-1969 , 1991 , 2000</unitdate>
+            <container id="aspace_b900cb1bb34050346b26a802679b3e7b" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_6e18569399a6e21b5d95be64e0b7aef0" parent="aspace_b900cb1bb34050346b26a802679b3e7b" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Members: General</unittitle>
+            <unitdate datechar="creation" normal="1938/1973" type="inclusive">1938 ; 1949 ; 1958 ; 1965 ; 1973</unitdate>
+            <container id="aspace_28041713cb3d8a281227f2cd6f292349" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_ee66ca4f1e2f04e4e77b0a6f313ddbea" parent="aspace_28041713cb3d8a281227f2cd6f292349" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Members: General</unittitle>
+            <unitdate datechar="creation" normal="1980/2001" type="inclusive">1980-2001</unitdate>
+            <container id="aspace_5119678740059b10b7117dd97b7cb89d" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_e4349096a2828d10057fa59ff46ea7ee" parent="aspace_5119678740059b10b7117dd97b7cb89d" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1937/1949" type="inclusive">1937-1949</unitdate>
+            <container id="aspace_638a3bfb6f538c9c50695dc2a7e657ae" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_9784ec5fae0a3af9d4198bb115648c9d" parent="aspace_638a3bfb6f538c9c50695dc2a7e657ae" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref151" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1950/1969" type="inclusive">1950-1969</unitdate>
+            <container id="aspace_7fc799068245c5f54dbdaf7dc0710a8b" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_d7271703139eec29a4e50de7730da789" parent="aspace_7fc799068245c5f54dbdaf7dc0710a8b" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate>
+            <container id="aspace_09762521b12421a7206cec3a0b092770" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_301a31cafec0c2be70403a04a0be5bef" parent="aspace_09762521b12421a7206cec3a0b092770" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1980/1990" type="inclusive">1980-1990</unitdate>
+            <container id="aspace_d0c54090cc6331b27a23a1d511de8ba3" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_a9f87fbf7c60b0ec8bd0d1194f2ce9fa" parent="aspace_d0c54090cc6331b27a23a1d511de8ba3" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Committee</unittitle>
+            <unitdate datechar="creation" normal="1991/2001" type="inclusive">1991-1999 , 2001</unitdate>
+            <container id="aspace_844a2816352c72c8195aad5aa639c27b" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_44aa0c594bf16fd5071ab04fb109ff83" parent="aspace_844a2816352c72c8195aad5aa639c27b" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref155" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Lists</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1937 , 1953-1997</unitdate>
+            <container id="aspace_e7a04b9fac336bc6cac290e3f2721e81" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_460dbb133fae81e6843617d0854350c2" parent="aspace_e7a04b9fac336bc6cac290e3f2721e81" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Membership Policy</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1939-2001</unitdate>
+            <container id="aspace_42592d2fb2d9e8d89ca49b06cb4a4dce" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_8bec7ee7a4a0fee87be6bc5025604681" parent="aspace_42592d2fb2d9e8d89ca49b06cb4a4dce" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref157" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mortgage Bonds</unittitle>
+            <unitdate datechar="creation" normal="1942/1942" type="inclusive">1942</unitdate>
+            <container id="aspace_c29bf97c9068e499b3689d2bf565faec" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_4bbef7e058c40e2331b4023da9865319" parent="aspace_c29bf97c9068e499b3689d2bf565faec" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref158" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mortgage Consolidation</unittitle>
+            <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate>
+            <container id="aspace_a7ea226a9894395fe99964c665d07a66" label="Mixed Materials [31142050275067]" type="Box">4</container>
+            <container id="aspace_dc89439f5211222f1286b925c21951d0" parent="aspace_a7ea226a9894395fe99964c665d07a66" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref159" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "Echo of the Hills" (Youth Group)</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1984</unitdate>
+            <container id="aspace_78a3ac39de40b6ed475fa93a65abcd3a" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_776393121c7f2edc7d89e6dea0482d4a" parent="aspace_78a3ac39de40b6ed475fa93a65abcd3a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref160" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: General</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated</unitdate>
+            <container id="aspace_7b8aa4b85ec61b0446ae504ff0e90250" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_ac83e8584c99cd679b4a217e5a86bc32" parent="aspace_7b8aa4b85ec61b0446ae504ff0e90250" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref161" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "The Kid's Voice of the Hill"</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated</unitdate>
+            <container id="aspace_5a1ace7e1a125c83d08cb940f27a380d" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_062115db3dcce78e0107597927614977" parent="aspace_5a1ace7e1a125c83d08cb940f27a380d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "The Voice of the Camp"</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated</unitdate>
+            <container id="aspace_1c47c0c71c3bca22ea8a6d45147b582b" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_73047f4369b5591a538e3abe52f1f271" parent="aspace_1c47c0c71c3bca22ea8a6d45147b582b" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref163" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "The Voice of the Hill"</unittitle>
+            <unitdate datechar="creation" normal="1945/1949" type="inclusive">1945-1949</unitdate>
+            <container id="aspace_4063823aff1c70f5d3dc8d97b4734d98" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_345c161a1c42d4b37b7e5a5ce390770e" parent="aspace_4063823aff1c70f5d3dc8d97b4734d98" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref164" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "The Voice of the Hill"</unittitle>
+            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950-1959</unitdate>
+            <container id="aspace_ce4f63c984738df6103b23314f71aa2b" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_42da403e2e293ae26287d869d051fee5" parent="aspace_ce4f63c984738df6103b23314f71aa2b" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref165" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "The Voice of the Hill"</unittitle>
+            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate>
+            <container id="aspace_189799b08f2fccb60973af94a683c7d7" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_d6941db91185e7ffafc3433e26f78e16" parent="aspace_189799b08f2fccb60973af94a683c7d7" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref166" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "The Voice of the Hill"</unittitle>
+            <unitdate datechar="creation" normal="1970/1975" type="inclusive">1970-1975</unitdate>
+            <container id="aspace_3a7deb29b9689f5499669dda32f4f917" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_790e78edfde0936bcfe90da9b3ad752a" parent="aspace_3a7deb29b9689f5499669dda32f4f917" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref167" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "The Voice of the Hill"</unittitle>
+            <unitdate datechar="creation" normal="1976/1979" type="inclusive">1976-1979</unitdate>
+            <container id="aspace_cc4936daa84270274a0828afdb555424" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_e57d16e94221ff9330c0b3453d1b4d20" parent="aspace_cc4936daa84270274a0828afdb555424" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref168" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "The Voice of the Hill"</unittitle>
+            <unitdate datechar="creation" normal="1980/1983" type="inclusive">1980-1983</unitdate>
+            <container id="aspace_d2e5ba78d87d15754269d703164cb69d" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_7e39b1cb802494abff8bbf878111d67e" parent="aspace_d2e5ba78d87d15754269d703164cb69d" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref169" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "The Voice of the Hill"</unittitle>
+            <unitdate datechar="creation" normal="1984/1986" type="inclusive">1984-1986</unitdate>
+            <container id="aspace_eb77d06e41cbec78b24caf9797754316" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_8dd7e737232ed4db845845f11451c48f" parent="aspace_eb77d06e41cbec78b24caf9797754316" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref170" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "The Voice of the Hill"</unittitle>
+            <unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate>
+            <container id="aspace_ce5bb7ad57806f26f79fc6f783a17953" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_fe6f4ce580f9b5afcc2ca6803f7342de" parent="aspace_ce5bb7ad57806f26f79fc6f783a17953" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref171" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "The Voice of the Hill"</unittitle>
+            <unitdate datechar="creation" normal="1990/1994" type="inclusive">1990-1994</unitdate>
+            <container id="aspace_747e8437aedb14f35051e3b6e05b151c" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_1fdb03a7dd56f9c7ac5ef3e7d00ae19d" parent="aspace_747e8437aedb14f35051e3b6e05b151c" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref172" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "The Voice of the Hill"</unittitle>
+            <unitdate datechar="creation" normal="1995/1997" type="inclusive">1995-1997</unitdate>
+            <container id="aspace_8bb36404191545081c36fc6f908373d7" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_1d5350f47437626ac03b8184b262abd4" parent="aspace_8bb36404191545081c36fc6f908373d7" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref173" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "The Voice of the Hill"</unittitle>
+            <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+            <container id="aspace_5588e15d0323ef43e6039ab3692b6432" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_d83f7d5c3b642e23afbd2d912cc4a753" parent="aspace_5588e15d0323ef43e6039ab3692b6432" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref174" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "The Voice of the Hill"</unittitle>
+            <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+            <container id="aspace_38bcf30a74a21e5cd8e8f5cca882ebb7" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_07fa6139ea65f14b511efb75e8b52bae" parent="aspace_38bcf30a74a21e5cd8e8f5cca882ebb7" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref175" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "The Voice of the Hill"</unittitle>
+            <unitdate datechar="creation" normal="2002/2003" type="inclusive">2002-2003</unitdate>
+            <container id="aspace_43548dfd2a37992713a66cf8adafef82" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_894c8f96c86a1ea3aa952f0fc2eca0ec" parent="aspace_43548dfd2a37992713a66cf8adafef82" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref176" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newsletter: "What's Cookin'"</unittitle>
+            <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate>
+            <container id="aspace_dc04078cc0ac67f4b35a013e9893fd3f" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_4936542427deda1691b278feb1b34b12" parent="aspace_dc04078cc0ac67f4b35a013e9893fd3f" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref177" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>New York City Water Tunnels</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated</unitdate>
+            <container id="aspace_8f2d722df10ae46e1dbba51cc8d8155d" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_0ec73881153f8e8cc3c13e8746e99724" parent="aspace_8f2d722df10ae46e1dbba51cc8d8155d" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref178" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Obituaries/Memorials</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1970 , 1995</unitdate>
+            <container id="aspace_ab6fb39370365ef00a12494db4446380" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_d28ded39e739671b32cfdae8f97dcbf8" parent="aspace_ab6fb39370365ef00a12494db4446380" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref179" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Officer Lists</unittitle>
+            <unitdate datechar="creation" normal="1938/1994" type="inclusive">1938-1994</unitdate>
+            <container id="aspace_1b5836b1d8075e6ae16cc1918438394f" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_b9c6f01c617644f856b9b97ed64ca85a" parent="aspace_1b5836b1d8075e6ae16cc1918438394f" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref180" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Organization Committee</unittitle>
+            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_8c47d927d468192b3f74866adb545cb4" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_7cb9f3db31211af6008be709d2d53795" parent="aspace_8c47d927d468192b3f74866adb545cb4" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref181" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pamphlet: "A Different Kind of Life"</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container id="aspace_60760e37d272ef291704f7b17712bd13" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_7d46dbaff8dbc54732519c72a96a6067" parent="aspace_60760e37d272ef291704f7b17712bd13" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref182" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Payroll Record</unittitle>
+            <unitdate datechar="creation" normal="1977/1987" type="inclusive">1977-1987</unitdate>
+            <container id="aspace_8415022d02a1c8abb9719a38f6a7457f" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_f8ee27320078c49e9d63baea11d69f09" parent="aspace_8415022d02a1c8abb9719a38f6a7457f" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref183" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pension Plan</unittitle>
+            <unitdate datechar="creation" normal="1969/1987" type="inclusive">1969-1987</unitdate>
+            <container id="aspace_5f0a78deffab4b9dfa17b26ad503d0ac" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_fb143b6b980da35c395d1ad38ebdc806" parent="aspace_5f0a78deffab4b9dfa17b26ad503d0ac" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref184" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Planning and Building Committee: General</unittitle>
+            <unitdate datechar="creation" normal="1939/1994" type="inclusive">1939-1994</unitdate>
+            <container id="aspace_3525d7ecd15fafeb6fbe7c1e2d58059c" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_ee0ff736047bd3ec9abe17be4b5306f7" parent="aspace_3525d7ecd15fafeb6fbe7c1e2d58059c" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref185" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Planning and Building Committee: Surveys</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+            <container id="aspace_cefdca2989867ff8707bd83e705d5e33" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_ddd1f8188c7333f7318c65f4f1c405f3" parent="aspace_cefdca2989867ff8707bd83e705d5e33" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref186" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Playground and Nursery</unittitle>
+            <unitdate datechar="creation">[1940s?]</unitdate>
+            <container id="aspace_967d30e7ef025beb4f147b600a05da06" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_d08126a218f9865027cebaf299bc8a07" parent="aspace_967d30e7ef025beb4f147b600a05da06" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref187" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Political Action Committee</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated</unitdate>
+            <container id="aspace_30b510b20b6a6580a174d7918d99bb2f" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_9fc8601db85fb68ad4cb0e790d2ef9e0" parent="aspace_30b510b20b6a6580a174d7918d99bb2f" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref188" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>President's Annual Reports</unittitle>
+            <unitdate datechar="creation" normal="1943/1980" type="inclusive">1943 , 1946-1947 , 1954-1980</unitdate>
+            <container id="aspace_98c134144be40e2128588b614727c8c5" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_8b1d038193ee0f94d122df7d0699d6d5" parent="aspace_98c134144be40e2128588b614727c8c5" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref189" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Property Description Reports</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_8c2bcd233c54dd1742a8d290b6b0e495" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_ab90e42bf889b2e0ac5f95bc71c62282" parent="aspace_8c2bcd233c54dd1742a8d290b6b0e495" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref190" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Property Transactions: General</unittitle>
+            <unitdate datechar="creation" normal="1937/2002" type="inclusive">1937-1978 , 1995 , 2002</unitdate>
+            <container id="aspace_597c708ff266c04fff7b6b2edb0ce7af" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_870ce86db9642822cc1265aaef96b192" parent="aspace_597c708ff266c04fff7b6b2edb0ce7af" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref191" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Property Leases</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1979-2001</unitdate>
+            <container id="aspace_a3a922007795e30b183540c09a1a881b" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_3c7f8f1d6e3300c0bbed58ad51af3e19" parent="aspace_a3a922007795e30b183540c09a1a881b" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref192" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publicity</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1937-1956</unitdate>
+            <container id="aspace_586b699ff6ec311b92e5aaa79bb2d485" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_0371252ddec5e84af78416b19cf6c4c4" parent="aspace_586b699ff6ec311b92e5aaa79bb2d485" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref193" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publicity</unittitle>
+            <unitdate datechar="creation" normal="1984/1996" type="inclusive">1984-1996</unitdate>
+            <container id="aspace_209315de935ba091c57bdd594a09d964" label="Mixed Materials [31142050275059]" type="Box">5</container>
+            <container id="aspace_3da6f64b9a7123aaaa9dedc5c3967395" parent="aspace_209315de935ba091c57bdd594a09d964" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref194" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Putnam Valley, NY: History</unittitle>
+            <unitdate datechar="creation" normal="1966/1997" type="inclusive">1966 , 1986-1997</unitdate>
+            <container id="aspace_d81fb1add248facda1c3ce775280eea1" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_9688aee60c8526b9d05164d512f82cea" parent="aspace_d81fb1add248facda1c3ce775280eea1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref195" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Putnam Valley, NY: Planning, Zoning, Land Transfers, etc.</unittitle>
+            <unitdate datechar="creation" normal="1935/2003" type="inclusive">undated , 1935-1957</unitdate>
+            <container id="aspace_6cbe65c3b371f260c103da5ea75b24cc" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_e98b47955b666412a1fa9d70fdf10d28" parent="aspace_6cbe65c3b371f260c103da5ea75b24cc" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref196" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Putnam Valley, NY: Planning, Zoning, Land Transfers, etc.</unittitle>
+            <unitdate datechar="creation" normal="1962/1996" type="inclusive">1962-1996</unitdate>
+            <container id="aspace_0a1717dd5fbf54a39ac83e2f4a3829e9" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_4ea5c3bd5a5c23bffc5e2ed3fd083bc5" parent="aspace_0a1717dd5fbf54a39ac83e2f4a3829e9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref197" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Racial Discrimination</unittitle>
+            <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate>
+            <container id="aspace_f2edfe0cb45febe446c204f2a11d5047" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_e1c4ab48ef5a21a2fb2f1d7657f0012f" parent="aspace_f2edfe0cb45febe446c204f2a11d5047" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref198" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Receipt Book</unittitle>
+            <unitdate datechar="creation" normal="1943/1944" type="inclusive">1943-1944</unitdate>
+            <container id="aspace_1205367817c395b3793b42e66f294802" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_631552a60a7f467b103b20471d83a24a" parent="aspace_1205367817c395b3793b42e66f294802" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref199" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Receipt Book</unittitle>
+            <unitdate datechar="creation" normal="1946/1948" type="inclusive">1946-1948</unitdate>
+            <container id="aspace_b228cf3a565f62784c64f16705222923" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_fd14d4705d2400cf8b2bdc2c15e5e414" parent="aspace_b228cf3a565f62784c64f16705222923" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref200" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Recipe Book</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated</unitdate>
+            <container id="aspace_4e7c867ac7fd2fbe3016fc51a894b754" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_034866cfc4dc16a5494822c9f5f3b9d3" parent="aspace_4e7c867ac7fd2fbe3016fc51a894b754" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref201" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Rentals: General</unittitle>
+            <unitdate datechar="creation" normal="1962/1997" type="inclusive">1962-1997</unitdate>
+            <container id="aspace_feda207cbcc783ffed290c5166c8a5cf" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_7eebd8c9efe38232810516ed7b52b8dc" parent="aspace_feda207cbcc783ffed290c5166c8a5cf" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref202" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Rentals: Winter</unittitle>
+            <unitdate datechar="creation" normal="1983/1986" type="inclusive">1983-1986</unitdate>
+            <container id="aspace_91896c74992791a2c228c0652264b4c7" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_653338a1eb0e7fcb67c864d2907fd12a" parent="aspace_91896c74992791a2c228c0652264b4c7" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref203" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Roads Committee</unittitle>
+            <unitdate datechar="creation" normal="1946/1994" type="inclusive">1946-1994</unitdate>
+            <container id="aspace_b6c73365b1f0f1dd5c5759b313ade351" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_475e56eb462fa4883b4402d64734aeac" parent="aspace_b6c73365b1f0f1dd5c5759b313ade351" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref204" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Rothberg, Diana: Proposed Dissertation on Three Arrows</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_b0c4e252485626bb78a98b87d662c30a" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_fa69616c51cf5c327bdd7088a37318de" parent="aspace_b0c4e252485626bb78a98b87d662c30a" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref205" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Sale of Property</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1947 , 1956-1958</unitdate>
+            <container id="aspace_227de15b6fe00dcbadadfb8726ee358d" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_96fe3337921886f3cb567c0851a4709f" parent="aspace_227de15b6fe00dcbadadfb8726ee358d" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref206" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Sale of Property</unittitle>
+            <unitdate datechar="creation" normal="1965/1987" type="inclusive">1965 , 1966 , 1974-1987</unitdate>
+            <container id="aspace_ac65421ff34dbe79152c0cca39117e41" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_b3a2a3adf3bfa67143195f289236f94d" parent="aspace_ac65421ff34dbe79152c0cca39117e41" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref207" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Sale of Property</unittitle>
+            <unitdate datechar="creation" normal="1989/1996" type="inclusive">1989-1996</unitdate>
+            <container id="aspace_e0d1867b30e685670f21223e5da3f9b2" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_072007ccd827e9bac4472553f0d5d82c" parent="aspace_e0d1867b30e685670f21223e5da3f9b2" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref208" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Security and Emergency Policy</unittitle>
+            <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_43b21b63d888b4dd9f2af655aff9b9b6" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_3cbb8463223aa0c3436dd9b279367b33" parent="aspace_43b21b63d888b4dd9f2af655aff9b9b6" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref209" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Shareholder Transactions</unittitle>
+            <unitdate datechar="creation" normal="1939/1979" type="inclusive">1939 , 1957 , 1963-1979</unitdate>
+            <container id="aspace_432a95b6f4d74fdcd158a08ce4cf34b0" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_3262e8df5d783f1b7dd90662a602079b" parent="aspace_432a95b6f4d74fdcd158a08ce4cf34b0" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref210" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Shareholder Transactions</unittitle>
+            <unitdate datechar="creation" normal="1983/1998" type="inclusive">1983-1998</unitdate>
+            <container id="aspace_e8656f4a234351959e841e1db5978235" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_741f54162ec72176680f3a74cb894efb" parent="aspace_e8656f4a234351959e841e1db5978235" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref211" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Snow Plow Policy</unittitle>
+            <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+            <container id="aspace_ee4d2a739461f026fce71d9353bc2232" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_f84cd866079e3deb0d5030db4076373c" parent="aspace_ee4d2a739461f026fce71d9353bc2232" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref212" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Social Committee</unittitle>
+            <unitdate datechar="creation" normal="1945/1969" type="inclusive">1945-1969</unitdate>
+            <container id="aspace_a8f18fd752953f5cc37d1acc04da9e77" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_3810671e706ad7e10854ac4f24d171c4" parent="aspace_a8f18fd752953f5cc37d1acc04da9e77" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref213" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Social Committee</unittitle>
+            <unitdate datechar="creation" normal="1970/2000" type="inclusive">1970-2000</unitdate>
+            <container id="aspace_8483d25ebc1a6eb1bff27b697d36e490" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_d4e55da27bb9c5979ba86b0e6737ad88" parent="aspace_8483d25ebc1a6eb1bff27b697d36e490" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref214" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Social Hall</unittitle>
+            <unitdate datechar="creation" normal="1953/1997" type="inclusive">1953-1954 , 1971 , 1993-1997</unitdate>
+            <container id="aspace_df88397958297aabb95d1b618f03c80a" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_b1dc83121f471d3839c8f8fbe02433cb" parent="aspace_df88397958297aabb95d1b618f03c80a" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref215" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Speakers</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_8b803051ace153f1c8f6f177b9f139d5" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_0d14ee3e7b0d3d175f29e2bb827b1d78" parent="aspace_8b803051ace153f1c8f6f177b9f139d5" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref216" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Sports Committee</unittitle>
+            <unitdate datechar="creation" normal="1943/1996" type="inclusive">1943-1980 , 1996</unitdate>
+            <container id="aspace_d981cd40702ccd83f072691459c61260" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_5f07a6d4c4d14f98b3c6d7e2884a1ae4" parent="aspace_d981cd40702ccd83f072691459c61260" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref217" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Swimming Pool Proposal</unittitle>
+            <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+            <container id="aspace_4e60861ab6a38d0b2eee77217c78e23a" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_a0c1050a33aecb316a4b5473455be776" parent="aspace_4e60861ab6a38d0b2eee77217c78e23a" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref218" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Taxes</unittitle>
+            <unitdate datechar="creation" normal="1939/1979" type="inclusive">1939-1979</unitdate>
+            <container id="aspace_62d09629ae39058b6dfc1d5775488e39" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_3235d786da32f687657a61ff85d30f70" parent="aspace_62d09629ae39058b6dfc1d5775488e39" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref219" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Taxes</unittitle>
+            <unitdate datechar="creation" normal="1980/1984" type="inclusive">1980-1984</unitdate>
+            <container id="aspace_d145728b699152711ca2c03036b06645" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_f8aab68b83ab1f2de3caa5cdceb9647a" parent="aspace_d145728b699152711ca2c03036b06645" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref220" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Taxes</unittitle>
+            <unitdate datechar="creation" normal="1985/1989" type="inclusive">1985-1989</unitdate>
+            <container id="aspace_a27dfeb32d7af54afcfb0a010547006b" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_591fd06546f2a2e17f512259a3f5ca70" parent="aspace_a27dfeb32d7af54afcfb0a010547006b" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref221" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Taxes</unittitle>
+            <unitdate datechar="creation" normal="1995/2000" type="inclusive">1995-2000</unitdate>
+            <container id="aspace_21a0c8df2d31f3cecdbd6babc6902246" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_699a5941ec0d31c584e1d69bcd5c11fd" parent="aspace_21a0c8df2d31f3cecdbd6babc6902246" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref222" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Tennis Courts</unittitle>
+            <unitdate datechar="creation" normal="1968/1996" type="inclusive">1968 , 1996</unitdate>
+            <container id="aspace_100d05eca850928befe36e9ddd933f64" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_1a9a7688a100c2c03da138ae9c34cfe7" parent="aspace_100d05eca850928befe36e9ddd933f64" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref223" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Thomas, Norman</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_2e4a0a80451e5ef79e9a53be2047a713" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_4c0ddaee5bd8b91770e0a21ae914b652" parent="aspace_2e4a0a80451e5ef79e9a53be2047a713" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref224" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Trusts: Discussion of</unittitle>
+            <unitdate datechar="creation" normal="1987/1996" type="inclusive">1987-1996</unitdate>
+            <container id="aspace_078316bf4079fdf84d1b7166a985f2d1" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_874bf26818343dd13ea179069d65712d" parent="aspace_078316bf4079fdf84d1b7166a985f2d1" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref225" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Waiver Committee</unittitle>
+            <unitdate datechar="creation" normal="1997/1998" type="inclusive">1997-1998</unitdate>
+            <container id="aspace_a692ace09326e4213df9670b5c135d7b" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_fcc514862849e4a983060af63b02f93a" parent="aspace_a692ace09326e4213df9670b5c135d7b" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref226" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Washer and Dryer</unittitle>
+            <unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate>
+            <container id="aspace_daf8127a63502b66807891eb4c11c5d3" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_145db6990949a368be1d0f7efc5def0a" parent="aspace_daf8127a63502b66807891eb4c11c5d3" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref227" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Waste Disposal</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+            <container id="aspace_13f1dc76921c06f969f623735dbe46ff" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_977f7eb69ee618cbde3764ba99d0c3fc" parent="aspace_13f1dc76921c06f969f623735dbe46ff" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref228" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Water Committee</unittitle>
+            <unitdate datechar="creation" normal="1938/1969" type="inclusive">1938-1969</unitdate>
+            <container id="aspace_89bacade3c385a1bebc108488a831f8d" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_16682250aa744e10dce0a5044fec0492" parent="aspace_89bacade3c385a1bebc108488a831f8d" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref229" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Water Committee</unittitle>
+            <unitdate datechar="creation" normal="1970/1997" type="inclusive">1970-1997</unitdate>
+            <container id="aspace_9c492f438ed2becea53c92cfcf06dbe5" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_f024a09008b56ab7511c78c31faf4636" parent="aspace_9c492f438ed2becea53c92cfcf06dbe5" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref230" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Waterfront: Regulations, etc.</unittitle>
+            <unitdate datechar="creation" normal="1947/2001" type="inclusive">1947-2001</unitdate>
+            <container id="aspace_901e17f4f926a92f8cba83258f0057af" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_8b5d0de37039173bceca63b6ed4045d3" parent="aspace_901e17f4f926a92f8cba83258f0057af" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref231" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Wetlands</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_d48e120da1f95ef781bb838bd023a353" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_16d63c373e6f1c91cbbd6ee448768ef6" parent="aspace_d48e120da1f95ef781bb838bd023a353" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref232" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Workshops</unittitle>
+            <unitdate datechar="creation" normal="1937/2003" type="inclusive">undated , 1975-2001</unitdate>
+            <container id="aspace_85020ebb461bd9d6837762ba2ff33c88" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_e43a57e2c124fe37eef8d73f33b5a1eb" parent="aspace_85020ebb461bd9d6837762ba2ff33c88" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref233" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Wyle, Benjamin</unittitle>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_c329f2f45a55e7e294388370564be0ff" label="Mixed Materials [31142050275042]" type="Box">6</container>
+            <container id="aspace_98734d09efacb700025e03d06a94b839" parent="aspace_c329f2f45a55e7e294388370564be0ff" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref234" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Finances: Two Oversize Ledgers</unittitle>
+            <unitdate datechar="creation" normal="1938/1960" type="inclusive">1938-1950 , 1959-1960</unitdate>
+            <container id="aspace_e0a864a7f2a381a829ecceef309e5fc6" label="Mixed Materials [31142050275109]" type="Box">7</container>
+            <container id="aspace_918f2f5fd07c203b27e61e26e8793411" parent="aspace_e0a864a7f2a381a829ecceef309e5fc6" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref246" level="series">
+        <did>
+          <unittitle>Series IV: 2011 Addendum</unittitle>
+          <unitdate datechar="creation" normal="1937/2006" type="inclusive">undated</unitdate>
+        </did>
+        <c id="aspace_ref247" level="file">
+          <did>
+            <unittitle>Account Book ("Three Arrows Costs") of William Vladeck, son of Baruch Charney Vladek</unittitle>
+            <unitdate datechar="creation" normal="1941/1945" type="inclusive">1941-1945</unitdate>
+            <container altrender="Record carton" id="aspace_f84422fd55002ed1edf0d6ae607f8433" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_8339dcb5c7b9ecb4afd781ce8731ae89" parent="aspace_f84422fd55002ed1edf0d6ae607f8433" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref248" level="file">
+          <did>
+            <unittitle>Board Meetings</unittitle>
+            <unitdate datechar="creation" normal="2009/2011" type="inclusive">2009-2011</unitdate>
+            <container altrender="Record carton" id="aspace_f66c2d590b5254ed9e2fe75f91ee66c6" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_2d530f06a2725ba1d8ba4cdcc7e49169" parent="aspace_f66c2d590b5254ed9e2fe75f91ee66c6" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref249" level="file">
+          <did>
+            <unittitle>By-Laws and Proprietary Release</unittitle>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container altrender="Record carton" id="aspace_01eccd100eb6c4ce0ed99d6fa7c85f61" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_454e6e883fbcf85bd6dce31181f5dd71" parent="aspace_01eccd100eb6c4ce0ed99d6fa7c85f61" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref250" level="file">
+          <did>
+            <unittitle>Dock</unittitle>
+            <unitdate datechar="creation" normal="2005/2009" type="inclusive">2005, 2009</unitdate>
+            <container altrender="Record carton" id="aspace_6dfbf0fbdaab96be13452fdb02fb91a0" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_11532d7cad7e6deaccaca00141225796" parent="aspace_6dfbf0fbdaab96be13452fdb02fb91a0" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref251" level="file">
+          <did>
+            <unittitle>External Publications</unittitle>
+            <unitdate datechar="creation" normal="2008/2011" type="inclusive">2008-2011</unitdate>
+            <container altrender="Record carton" id="aspace_f58f6007fb5330208344e8478b67d2e3" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_611881457bb9e7892367c05cf00732ea" parent="aspace_f58f6007fb5330208344e8478b67d2e3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref252" level="file">
+          <did>
+            <unittitle>Financial Audit</unittitle>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container altrender="Record carton" id="aspace_7c0cac076d5b736f2ece9b72c4bc5f64" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_22aea36583599ef0714f0ac7bab2b88d" parent="aspace_7c0cac076d5b736f2ece9b72c4bc5f64" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref253" level="file">
+          <did>
+            <unittitle>Internal Publications</unittitle>
+            <unitdate datechar="creation" normal="1986/2011" type="inclusive">1986-2011</unitdate>
+            <container altrender="Record carton" id="aspace_f10ea00e352ae1c9ed77150867d36769" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_c9a657584fda07a46bc941b3735aca37" parent="aspace_f10ea00e352ae1c9ed77150867d36769" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref254" level="file">
+          <did>
+            <unittitle>Labor Day Shows</unittitle>
+            <unitdate datechar="creation" normal="2008/2011" type="inclusive">2008-2011</unitdate>
+            <container altrender="Record carton" id="aspace_460ab08101ab986bed479714e0b4c107" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_9e943b4bc2515731d5d97bfc80c67de1" parent="aspace_460ab08101ab986bed479714e0b4c107" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref255" level="file">
+          <did>
+            <unittitle>Long Range Planning</unittitle>
+            <unitdate datechar="creation" normal="2010/2010" type="inclusive">2010</unitdate>
+            <container altrender="Record carton" id="aspace_be850f96512cd96936555e8bdb9cafe2" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_207c30baaafa271b5bb5a1866735ba97" parent="aspace_be850f96512cd96936555e8bdb9cafe2" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref256" level="file">
+          <did>
+            <unittitle>Membership Meetings</unittitle>
+            <unitdate datechar="creation" normal="1986/2011" type="inclusive">1986-2011</unitdate>
+            <container altrender="Record carton" id="aspace_5d21a667f0e05462d0ee42c12c98ffdc" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_638a6d4a09ea48c33d11a14336fd7c7f" parent="aspace_5d21a667f0e05462d0ee42c12c98ffdc" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref257" level="file">
+          <did>
+            <unittitle>Treasurer's Reports</unittitle>
+            <unitdate datechar="creation" normal="2008/2010" type="inclusive">2008-2010</unitdate>
+            <container altrender="Record carton" id="aspace_0f01cf0175fc86e77575ed996fa5b9f3" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_1ae0aa093015115cc55e1d2cef981b76" parent="aspace_0f01cf0175fc86e77575ed996fa5b9f3" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref258" level="file">
+          <did>
+            <unittitle>Voice of the Hill</unittitle>
+            <unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate>
+            <container altrender="Record carton" id="aspace_6de7a5ddf27be10fb87dcae7d68db6ff" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_ac9a50f544fe81ca52900cfe1c5c1410" parent="aspace_6de7a5ddf27be10fb87dcae7d68db6ff" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref259" level="file">
+          <did>
+            <unittitle>Voice of the Hill</unittitle>
+            <unitdate datechar="creation" normal="2009/2009" type="inclusive">2009</unitdate>
+            <container altrender="Record carton" id="aspace_8392a7d1c99ce248b1f1a0750ece6eed" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_a9396495624369793fa5aab79bfce72b" parent="aspace_8392a7d1c99ce248b1f1a0750ece6eed" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref260" level="file">
+          <did>
+            <unittitle>Voice of the Hill</unittitle>
+            <unitdate datechar="creation" normal="2010/2010" type="inclusive">2010</unitdate>
+            <container altrender="Record carton" id="aspace_e812766fac356db5f1aadf5903435dc6" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_b0fd5a066f4a191f259cbe8fd3b4d2ba" parent="aspace_e812766fac356db5f1aadf5903435dc6" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref261" level="file">
+          <did>
+            <unittitle>Voice of the Hill</unittitle>
+            <unitdate datechar="creation" normal="2011/2011" type="inclusive">2011</unitdate>
+            <container altrender="Record carton" id="aspace_98b3020a1ea5e9a876fe621a615d5f29" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_52e61db7b3ae2393a7e69a115d0359ef" parent="aspace_98b3020a1ea5e9a876fe621a615d5f29" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref278" level="series">
+        <did>
+          <unittitle>Series V: Photographs</unittitle>
+          <unitdate datechar="creation" normal="1940/2006" type="inclusive">1940s-2006</unitdate>
+        </did>
+        <c id="aspace_ref279" level="file">
+          <did>
+            <unittitle>Anniversary, 70th: Exhibition I</unittitle>
+            <unitdate datechar="creation" normal="2006/2006" type="inclusive">[2006]</unitdate>
+            <container altrender="Record carton" id="aspace_90b57aa2d88e5cfc61fb20b3d4e5e62a" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_ce0f806053c68a4bf865f32bcc0662a9" parent="aspace_90b57aa2d88e5cfc61fb20b3d4e5e62a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref280" level="file">
+          <did>
+            <unittitle>Anniversary, 70th: Exhibition II</unittitle>
+            <unitdate datechar="creation" normal="2006/2006" type="inclusive">[2006]</unitdate>
+            <container altrender="Record carton" id="aspace_e25d4abb0a213655f3e2787871e40bd1" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_1d832f9472d71643f62a77e146c65081" parent="aspace_e25d4abb0a213655f3e2787871e40bd1" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref281" level="file">
+          <did>
+            <unittitle>Anniversary, 70th: Exhibition (Captions)</unittitle>
+            <unitdate datechar="creation" normal="2006/2006" type="inclusive">[2006]</unitdate>
+            <container altrender="Record carton" id="aspace_35a211e362342e0eb43351964473b7d9" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_e5ca19626a7951be89dad736a881957a" parent="aspace_35a211e362342e0eb43351964473b7d9" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref294" level="file">
+          <did>
+            <unittitle>Anniversary, 70th: Exhibition (Oversize)</unittitle>
+            <unitdate datechar="creation" normal="2006/2006" type="inclusive">[2006]</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_bfc875605232e2a59a7b3c6795a960b1" label="Mixed Materials [31142062670107]" type="Flat-File-Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref282" level="file">
+          <did>
+            <unittitle>Anniversary, 70th: Exhibition (Photographs)</unittitle>
+            <unitdate datechar="creation" normal="2006/2006" type="inclusive">[2006]</unitdate>
+            <container altrender="Record carton" id="aspace_667ee5531a62a2182cb32a11298273a2" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_541314d7b26c51ee53445c450801533e" parent="aspace_667ee5531a62a2182cb32a11298273a2" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref283" level="file">
+          <did>
+            <unittitle>Anniversary, 70th: Exhibition (Print and Graphic Materials)</unittitle>
+            <unitdate datechar="creation" normal="2006/2006" type="inclusive">[2006]</unitdate>
+            <container altrender="Record carton" id="aspace_6d7abe34049305e0a7770963befeefe4" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_2a6893a1ba1755af13da6799d72faae8" parent="aspace_6d7abe34049305e0a7770963befeefe4" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref284" level="file">
+          <did>
+            <unittitle>General Photographs</unittitle>
+            <unitdate datechar="creation" normal="1940/1959" type="inclusive">1940s-1950s</unitdate>
+            <container altrender="Record carton" id="aspace_0deb35d519da60a6290328499cdca86a" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_55bd5ed3021a2323c4c678147186c27a" parent="aspace_0deb35d519da60a6290328499cdca86a" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref285" level="file">
+          <did>
+            <unittitle>General Photographs</unittitle>
+            <unitdate datechar="creation" normal="1960/1969" type="inclusive">circa 1960s</unitdate>
+            <container altrender="Record carton" id="aspace_f21859b04a2facbf9230e684a90774d3" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_6fcacf9c1161c4b31a657465230ebba6" parent="aspace_f21859b04a2facbf9230e684a90774d3" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref286" level="file">
+          <did>
+            <unittitle>General Photographs</unittitle>
+            <unitdate datechar="creation" normal="1964/1967" type="inclusive">1964-1967</unitdate>
+            <container altrender="Record carton" id="aspace_dfbd17f40da038c93ae830cbedfb4bb0" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_e4223f36b79d0bf0f854f8aaa072b95a" parent="aspace_dfbd17f40da038c93ae830cbedfb4bb0" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref287" level="file">
+          <did>
+            <unittitle>General Photographs</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="Record carton" id="aspace_89ba873e4e6e84cdb630608350cf3783" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_293208c968c2d713bda187b7ff679492" parent="aspace_89ba873e4e6e84cdb630608350cf3783" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref288" level="file">
+          <did>
+            <unittitle>General Photographs</unittitle>
+            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Record carton" id="aspace_06b03449415cd586c169b9129769f173" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_92d1b5c89ce9565431e824ff0b44a2f3" parent="aspace_06b03449415cd586c169b9129769f173" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref289" level="file">
+          <did>
+            <unittitle>General Photographs</unittitle>
+            <unitdate datechar="creation" normal="1990/1999" type="inclusive">1990s</unitdate>
+            <container altrender="Record carton" id="aspace_eb5ff22f5067ee9bd7df40dbad2862d8" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_c135371f2a032d61cf7b73f009af8680" parent="aspace_eb5ff22f5067ee9bd7df40dbad2862d8" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref295" level="file">
+          <did>
+            <unittitle>General Photographs</unittitle>
+            <unitdate datechar="creation" normal="2000/2010" type="inclusive">2000s</unitdate>
+            <container altrender="Record carton" id="aspace_d65e25411fc59232283a126fedeb2e48" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_938dff60dd85d4d89533b77cba7cd5ec" parent="aspace_d65e25411fc59232283a126fedeb2e48" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref290" level="file">
+          <did>
+            <unittitle>General Photographs I</unittitle>
+            <unitdate datechar="creation" normal="1940/2006" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_1d5e18a7b53ebd24d60b4535a4faa362" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_a393fd21469e366ad1a24fbca319726a" parent="aspace_1d5e18a7b53ebd24d60b4535a4faa362" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref291" level="file">
+          <did>
+            <unittitle>General Photographs II</unittitle>
+            <unitdate datechar="creation" normal="1940/2006" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_f7a76ebae74438a83a0c42b193106817" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_a28a2a9167cc53c97aea0eb131114107" parent="aspace_f7a76ebae74438a83a0c42b193106817" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref297" level="file">
+          <did>
+            <unittitle>General Photographs (Oversize)</unittitle>
+            <unitdate datechar="creation" normal="1937/2006" type="inclusive">1998, undated</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_c3cd04b1ddd5848a35e1d031d02c0107" label="Mixed Materials [31142062670107]" type="Flat-File-Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref292" level="file">
+          <did>
+            <unittitle>Landscape Photographs</unittitle>
+            <unitdate datechar="creation" normal="1940/2006" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_3a21dea0193645fac2457d53459f9375" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_d69015b6642ff90b70750c2dd63443c5" parent="aspace_3a21dea0193645fac2457d53459f9375" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref293" level="file">
+          <did>
+            <unittitle>Watercolors</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container altrender="Record carton" id="aspace_c94c649c142923ce61277a76277542eb" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_0fe12e02481259091403d41b2d23ec90" parent="aspace_c94c649c142923ce61277a76277542eb" type="Folder">31</container>
+            <container altrender="Flat OS Box 17" id="aspace_c15e5d14272cf3601ce5c0173a120008" label="Mixed Materials [31142063434412]" type="Box">15</container>
+          </did>
+        </c>
+        <c id="aspace_2a422b38e519fc9f0f1631cc03e34a84" level="file">
+          <did>
+            <unittitle>Justus and Jenny Ebert</unittitle>
+            <unitdate datechar="creation" normal="1889/1945" type="inclusive">1889-1945</unitdate>
+            <container altrender="Record carton" id="aspace_094bbe3fdfb57cfe421ec5f303271989" label="Mixed Materials [31142062765246]" type="Box">12</container>
+            <container id="aspace_1033b7856aa4b7f4e9d4524ed5e88c49" parent="aspace_094bbe3fdfb57cfe421ec5f303271989" type="Folder">32</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref262" level="series">
+        <did>
+          <unittitle>Series VI: Maps and Plans</unittitle>
+          <unitdate datechar="creation" normal="1937/1981" type="inclusive">1937-1981</unitdate>
+        </did>
+        <c id="aspace_ref269" level="file">
+          <did>
+            <unittitle>New Community Bulding Plan</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_409281fe775351bb8766cb11b25ba3e3" label="Mixed Materials [31142062666279]" type="Flat-File-Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref273" level="file">
+          <did>
+            <unittitle>Norman Thomas Hall Plan</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_f4f921df389b01b6b23f18e783136e08" label="Mixed Materials [31142062666279]" type="Flat-File-Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref264" level="file">
+          <did>
+            <unittitle>Property Layout and Names</unittitle>
+            <unitdate datechar="creation" normal="1939/1940" type="inclusive">1939-1940</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_4ecd724af6b1f18cbff3a40044746e05" label="Mixed Materials [31142062666279]" type="Flat-File-Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref263" level="file">
+          <did>
+            <unittitle>Putnam Valley Plan, Rochdale Road</unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_1f0906fe782f2d3928711c715b8c0997" label="Mixed Materials [31142062666279]" type="Flat-File-Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref274" level="file">
+          <did>
+            <unittitle>Social Hall Plan</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_2c80b6fffb5bc5c45b9ec1ed3d5ccda3" label="Mixed Materials [31142062666279]" type="Flat-File-Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref268" level="file">
+          <did>
+            <unittitle>Three Arrows and Vicinity</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_ca9ea94b14e0aec380f7eb515003e248" label="Mixed Materials [31142062666279]" type="Flat-File-Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref275" level="file">
+          <did>
+            <unittitle>Three Arrows Property Map [Original and 2 copies]</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_2d30ada1a5a6577262cfba24ccc79ccd" label="Mixed Materials [31142062666279]" type="Flat-File-Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref266" level="file">
+          <did>
+            <unittitle>Three Arrows Sites and Names</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_f3111813c9b9eb74157fe1285ea684fa" label="Mixed Materials [31142062666279]" type="Flat-File-Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref271" level="file">
+          <did>
+            <unittitle>Three Arrows Structures and Site Locations</unittitle>
+            <unitdate datechar="creation" normal="1937/2002" type="inclusive">undated</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_9ffa54b78f870b4df45126150ecd7c84" label="Mixed Materials [31142062666279]" type="Flat-File-Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref270" level="file">
+          <did>
+            <unittitle>Three Arrows Survey and Plan [2 sheets]</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_6258e20220c68854f6e17e22998566bd" label="Mixed Materials [31142062666279]" type="Flat-File-Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref265" level="file">
+          <did>
+            <unittitle>United States Department of the Interior Geological Survey: Mohegan Lake Quadrangle</unittitle>
+            <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+            <container altrender="Oversize Folder - Full Case" id="aspace_85795a5436da3ff866681a2840b30753" label="Mixed Materials [31142062666279]" type="Flat-File-Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref298" level="series">
+        <did>
+          <unittitle>Series VII: 2014 Addendum</unittitle>
+          <unitdate datechar="creation" normal="1941/2014" type="inclusive">1941-2014</unitdate>
+        </did>
+        <scopecontent id="aspace_f5e19c2ca5b83a19fecb0c3b9b13ac09">
+          <head>Scope and Content Note</head>
+          <p>This series contains materials that was donated to the library in 2014, with materials dating from the early 1940s up until 2014. The materials include budget documentation; board of directors and membership meeting minutes reporting on Three Arrows committees; by-laws; plays, songs, and poetry possibly performed at the cooperative; programs of performances; correspondence between members regarding the governance of Three Arrows; and their newsletter, <emph render="italic">The Voice of the Hill.</emph></p>
+        </scopecontent>
+        <c id="aspace_ref299" level="file">
+          <did>
+            <unittitle>Flash drive</unittitle>
+            <unitdate datechar="creation" normal="2010/2014" type="inclusive">2010-2014</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_11d4038f66e1a782d9a931146099ea36" label="Computer Disks [31142062774073]" type="Box">13</container>
+            <container id="aspace_ab02b698be4d9e80dfae7a1ca162415c" parent="aspace_11d4038f66e1a782d9a931146099ea36" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref300" level="file">
+          <did>
+            <unittitle>Budget Information</unittitle>
+            <unitdate datechar="creation" normal="2011/2014" type="inclusive">2011-2014</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2b28acabb3fbbed84bde480f025a9468" label="Mixed Materials [31142062774073]" type="Box">13</container>
+            <container id="aspace_116d508f4f09db2815f1d625008ccb6c" parent="aspace_2b28acabb3fbbed84bde480f025a9468" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref301" level="file">
+          <did>
+            <unittitle>Meeting minutes</unittitle>
+            <unitdate datechar="creation" normal="2012/2013" type="inclusive">2012-2013</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_49684703030efc4204ef8e82bb9cdd20" label="Mixed Materials [31142062774073]" type="Box">13</container>
+            <container id="aspace_5fd945d0c50ee681c8ee7d40b8154259" parent="aspace_49684703030efc4204ef8e82bb9cdd20" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref302" level="file">
+          <did>
+            <unittitle>Plays, Poems, and other Writings related to Three Arrows</unittitle>
+            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d9cead4332954edae52bb547863bdd0f" label="Mixed Materials [31142062774073]" type="Box">13</container>
+            <container id="aspace_57e634f10fdedcfef1714b634611c1ce" parent="aspace_d9cead4332954edae52bb547863bdd0f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref303" level="file">
+          <did>
+            <unittitle>Correspondence related to Governance of Three Arrows</unittitle>
+            <unitdate datechar="creation" normal="2012/2013" type="inclusive">2012-2013</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_82f6eb9838f1816104d8775f7edbc8b0" label="Mixed Materials [31142062774073]" type="Box">13</container>
+            <container id="aspace_624332ffa29f7b81e4bc79678b5fe44b" parent="aspace_82f6eb9838f1816104d8775f7edbc8b0" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref304" level="file">
+          <did>
+            <unittitle>Labor Day Shows</unittitle>
+            <unitdate datechar="creation" normal="1941/2013" type="inclusive">1941-2013</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2154c43160e47296ea55caedd99b3741" label="Mixed Materials [31142062774073]" type="Box">13</container>
+            <container id="aspace_b5f081d7a6ae12eeba33e0fe78a5c68a" parent="aspace_2154c43160e47296ea55caedd99b3741" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref305" level="file">
+          <did>
+            <unittitle>Camp Play Photograph with Bobb Vladeck and Betsy Bosworth</unittitle>
+            <unitdate datechar="creation" normal="1953/1954" type="inclusive">circa 1953-1954</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ca7c771e360fc669d070239898fbe61a" label="Mixed Materials [31142062774073]" type="Box">13</container>
+            <container id="aspace_dd6f0a3ecca9d444abddc25717577508" parent="aspace_ca7c771e360fc669d070239898fbe61a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref306" level="file">
+          <did>
+            <unittitle>Songs</unittitle>
+            <unitdate datechar="creation" normal="1940/1969" type="inclusive">1940s-1960s</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c3ade1d48de031bd13c8b014824df31b" label="Mixed Materials [31142062774073]" type="Box">13</container>
+            <container id="aspace_1edbb2b4c4a50f8bf1515f69f3430ba5" parent="aspace_c3ade1d48de031bd13c8b014824df31b" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref307" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The Voice of the Hill</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="2011/2011" type="inclusive">2011</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_71a0fed5af70ef927ef14f0d378e0f58" label="Mixed Materials [31142062774073]" type="Box">13</container>
+            <container id="aspace_dde926284255ba510a8fd67530a6aac8" parent="aspace_71a0fed5af70ef927ef14f0d378e0f58" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref308" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The Voice of the Hill</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="2012/2012" type="inclusive">2012</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2563672b8f035fbc6dfbde23cd63dc9f" label="Mixed Materials [31142062774073]" type="Box">13</container>
+            <container id="aspace_bf5b7e4c43006e7cad101eaa3e4d93cc" parent="aspace_2563672b8f035fbc6dfbde23cd63dc9f" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref309" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The Voice of the Hill</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="2013/2013" type="inclusive">2013</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d67294da2c8a85fba91edf51ec07e059" label="Mixed Materials [31142062774073]" type="Box">13</container>
+            <container id="aspace_51d2b987bbef621751135d9079fba0e0" parent="aspace_d67294da2c8a85fba91edf51ec07e059" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref310" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The Voice of the Hill</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1956/1993" type="inclusive">1956-1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d1f7509e0629e2832b8e02826b7f451a" label="Mixed Materials [31142062774073]" type="Box">13</container>
+            <container id="aspace_8b9482adf84d9e4857164f0556e54b90" parent="aspace_d1f7509e0629e2832b8e02826b7f451a" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref312" level="series">
+        <did>
+          <unittitle>Series VIII: Archived Websites</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2 websites</extent>
+            <extent altrender="carrier">in 2 archived websites.</extent>
+          </physdesc>
+          <unitdate datechar="Captured" normal="2017-08-29/2017-08-29">August 2017-ongoing</unitdate>
+          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/9333/*/http://www.threearrowsco-op.net" xlink:role="external-link" xlink:show="new" xlink:title="Three Arrows Cooperative Society Archived Website" xlink:type="simple">
+            <daodesc>
+              <p>Three Arrows Cooperative Society Archived Website: August 2017-ongoing</p>
+            </daodesc>
+          </dao>
+          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/9333/*/http://www.threearrowsco-op.org/" xlink:role="external-link" xlink:show="new" xlink:title="Three Arrows Cooperative Society Archived Website" xlink:type="simple">
+            <daodesc>
+              <p>Three Arrows Cooperative Society Archived Website: August 2017-ongoing</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_163e5fa161f2baf04d1740caf37d1be8">
+          <head>Scope and Content Note</head>
+          <p>The Three Arrows Cooperative Society, Inc. is the successor organization to the Barger Street Cooperative Society, chartered in 1937. Early members purchased 125 acres of farmland in Putnam Valley, NY and formed a cooperative summer colony which eventually grew to include 75 individual units. The colony, sometimes known as Camp Three Arrows, is modeled on socialist and communitarian values and offers residents a wide range of cultural, educational and leisure activities. The website contains information on property listings, news articles about the the co-op, planning meeting listings, calendar of events, activities offered, area attractions, governance, publications, and information related to the "Save the Lake" initiative to keep toxic algae growth from Barger Pond.</p>
+        </scopecontent>
+        <accruals id="aspace_141cdbef83b295ee94527894192d6039">
+          <head>Accruals</head>
+          <p>New site crawls are accrued semiannually.</p>
+        </accruals>
+        <appraisal id="aspace_1eba54f69b78f0d623ee773212e5e1b8">
+          <head>Appraisal</head>
+          <p>Crawl was limited to domains and subdomains of threearrowsco-op.net and threearrowsco-op.org in order to remain within the collection scope and data constraints.</p>
+        </appraisal>
+        <phystech id="aspace_e641396c0fe693928730ee65ea20e9a2">
+          <head>Physical Characteristics and Technical Requirements</head>
+          <p>Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</p>
+        </phystech>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

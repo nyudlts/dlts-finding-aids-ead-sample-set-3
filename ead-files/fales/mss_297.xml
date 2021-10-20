@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_297">mss_297</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Outpunk Archive, 1989-1998 <num>MSS.297</num></titleproper>
+        <author>Rosemary K. J. Davis</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>2011</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 22:06:15 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>July 2017</date>
+        <item>Record edited by Rachel Searcy to reflect incorporation of 2017 accretion</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Outpunk Archive</unittitle>
+      <origination label="Creator">
+        <persname rules="local" source="naf">Wobensmith, Matt</persname>
+      </origination>
+      <origination label="Creator">
+        <corpname rules="aacr" source="local">Outpunk</corpname>
+      </origination>
+      <unitid>MSS.297</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.5 linear feet</extent>
+        <extent altrender="carrier">in 5 manuscript boxes, 2 small flat boxes, and 1 oversize flat box</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1989/1998" type="inclusive">1989-1998</unitdate>
+      <abstract id="aspace_a2ef90979e3fee20b2b840c9e54bd3a6">Founded by Matt Wobensmith, Outpunk was both a zine, published from 1992-1997, and a queercore record label, releasing music from 1992-1998.  This collection contains original masters for almost all of the Outpunk zines, as well as a wide variety of documentation about the bands represented by the Outpunk label, including posters, fliers, photographs, and audio recordings.</abstract>
+      <langmaterial id="aspace_7080ebd252d255ef4b60a74834351153">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_f5b505f292516f881851e713924914dd">
+      <head>Conditions Governing Access</head>
+      <p>Open to researchers. Appointments are necessary for the use of manuscript and archival collections.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_b73205f3833c16b68ae02f1bbb3b427f">
+      <head>Immediate Source of Acquisition</head>
+      <p>Outpunk Archive was donated by Matt Wobensmith in 2010, with an accretion to the collection donated in February 2017. The accession numbers associated with these gifts are 2010.297 and 2017.086, respectively.</p>
+    </acqinfo>
+    <arrangement id="aspace_a136944d91db535dc6e8eea20c4461f4">
+      <head>Arrangement</head>
+      <p>Collection is arranged into three series: I. Zines, II. Music, III. Phonograph Records, and IV. Ephemera and Objects. Some series have been further arranged into subseries.</p>
+      <p>Items have been arranged with the original order kept intact; the only exceptions are oversized and dimensional materials, which are housed in separate containers.</p>
+    </arrangement>
+    <bioghist id="aspace_365443370fa4f07959e25aac28cb428c">
+      <head>Biographical/Historical note</head>
+      <p>In the early 1990s, the queercore movement was small and largely underground.  Matt Wobensmith's writing on the subject, along with his subsequent foray into making queercore music more widely available, gave the movement a more public voice.   </p>
+      <p>Inspired by the Riot Grrrl movement, Wobensmith latched on to the burgeoning DIY culture and translated it into an exploration of the styles, trends, and sounds of the queer, hardcore community by publishing seven issues of the Outpunk zine between 1992-1997.  Outpunk zines discussed queer culture, punk rock music, sexual politics, the gay skinhead movement, and feminism.</p>
+      <p>As a record label, Outpunk provided exposure to queer-focused bands including Tribe 8, Pansy Division, the Mukilteo Fairies, Cypher in the Snow, Sta-Prest, and Behead the Prophet No Lord Shall Live.</p>
+      <p>After ending both the zine and the record label in the late 1990s, Matt Wobensmith remained involved with zine culture.  Today he owns and operates Goteblüd, a zine store and archive in San Francisco.</p>
+    </bioghist>
+    <phystech id="aspace_df46e392fa74138ce602972192720296">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Audio materials have not been preserved and may not be available to researchers.</p>
+    </phystech>
+    <prefercite id="aspace_b9439746d06c1d91f4e38ec2ef579adc">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Outpunk Archive; MSS 297; box number; folder number; Fales Library and Special Collections, New York University.</p>
+    </prefercite>
+    <scopecontent id="aspace_39539e3c5153d33f43366e4517bdc6e1">
+      <head>Scope and Contents</head>
+      <p>The Outpunk Archive contains paper files, photographs and audio recordings relating to both Outpunk the zine and Outpunk, the queercore music label. These files include original artwork and flats for Outpunk zines; some administrative records; correspondence between the founder, Matt Wobensmith, and other artists; photographs of artists; copies of Outpunk record releases; and miscellaneous materials that arrived with the collection.</p>
+    </scopecontent>
+    <userestrict id="aspace_e6d45092f49f3b6cdd03d23af3fe6e4a">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <processinfo id="aspace_a9882d3861f803390d6992f501206301">
+      <head>Processing Information</head>
+      <p>Decisions concerning the arrangement, description, and physical interventions taken on this collection prior to 2017 have not yet been recorded. In 2017 an accretion of photographs was accessioned, rehoused in archival boxes and folders, and intellectually incorporated into the collection's Series 2.C. in accordance with the existing series structure.</p>
+    </processinfo>
+    <controlaccess>
+      <genreform source="aat">Fliers (printed matter)</genreform>
+      <subject source="lcsh">Riot grrrl movement.</subject>
+      <genreform source="aat">T-shirts</genreform>
+      <genreform source="aat">Photographs.</genreform>
+      <subject source="lcsh">Punk rock music.</subject>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <subject source="lcsh">Zines</subject>
+      <genreform source="aat">Phonograph records.</genreform>
+      <subject source="lcsh">Punk culture.</subject>
+      <subject source="lcsh">Lesbian musicians</subject>
+      <subject source="lcsh">Gay musicians</subject>
+      <subject authfilenumber="https://homosaurus.org/v2/queerIdentity" source="homoit">Queer identity</subject>
+      <title source="local">Outpunk</title>
+      <persname rules="local" source="naf">Wobensmith, Matt</persname>
+      <corpname rules="aacr" source="local">Outpunk</corpname>
+      <corpname source="naf">Tribe 8 (Musical group)</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref2" level="series">
+        <did>
+          <unittitle>Series I: Zines</unittitle>
+        </did>
+        <scopecontent id="aspace_62df394eea39c08e04fea905a73b7752">
+          <head>Scope and Contents</head>
+          <p>This series contains original flats (master copies) and finished copies of zines created by Matt Wobensmith, as well as some others submitted for distribution by Outpunk.</p>
+        </scopecontent>
+        <c id="aspace_ref35" level="subseries">
+          <did>
+            <unittitle>Subseries A: Outpunk Issues</unittitle>
+          </did>
+          <c id="aspace_ref43" level="file">
+            <did>
+              <unittitle>Outpunk #1</unittitle>
+              <unitdate datechar="creation">1992</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_e41c19f3b9be85ff760e4a84ed1faa42" label="Mixed Materials [31142054897999]" type="Box">1</container>
+              <container id="aspace_83d903f547efd653b5f81b283e0916e4" parent="aspace_e41c19f3b9be85ff760e4a84ed1faa42" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref44" level="file">
+            <did>
+              <unittitle>Outpunk #1 Original Flat</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_c0b8afae6c7dfcab90802fb812bb3eb2" label="Mixed Materials [31142054897999]" type="Box">1</container>
+              <container id="aspace_e76ddddb20e11c5b3ea97c99dcfaeccb" parent="aspace_c0b8afae6c7dfcab90802fb812bb3eb2" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref47" level="file">
+            <did>
+              <unittitle>Outpunk #2/Fembot</unittitle>
+              <unitdate datechar="creation">1993</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_6234276434c59ac8c0ec22708ccbbe3b" label="Mixed Materials [31142054897999]" type="Box">1</container>
+              <container id="aspace_38f60936d8547d44576ca909083df8c5" parent="aspace_6234276434c59ac8c0ec22708ccbbe3b" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref48" level="file">
+            <did>
+              <unittitle>Outpunk #2 Original Flat</unittitle>
+              <unitdate datechar="creation">1993</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_ed3e19afed98ec974cc1d4de181ccccb" label="Mixed Materials [31142054897999]" type="Box">1</container>
+              <container id="aspace_03c2b1d571fb765ef9b9631868cfdda6" parent="aspace_ed3e19afed98ec974cc1d4de181ccccb" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref49" level="file">
+            <did>
+              <unittitle>Outpunk #2 1/2</unittitle>
+              <unitdate datechar="creation">1994</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_68f8f1fc8aba0bf4c88cc46fde6e8d27" label="Mixed Materials [31142054897999]" type="Box">1</container>
+              <container id="aspace_b598b2053a24b7017076874091b2f0e5" parent="aspace_68f8f1fc8aba0bf4c88cc46fde6e8d27" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref50" level="file">
+            <did>
+              <unittitle>Outpunk #2 1/2 Original Flat</unittitle>
+              <unitdate datechar="creation">1994</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_0e07e2d73b7ea27aaf52e42a259fceda" label="Mixed Materials [31142054897999]" type="Box">1</container>
+              <container id="aspace_31fc27f41a07c168fa09f297c9ebcd5b" parent="aspace_0e07e2d73b7ea27aaf52e42a259fceda" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref51" level="file">
+            <did>
+              <unittitle>Outpunk #3</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_891dc8d7c930e4296ce3dd32be3cbcdb" label="Mixed Materials [31142054897999]" type="Box">1</container>
+              <container id="aspace_879d01e77f379a3a36d542af3caea36f" parent="aspace_891dc8d7c930e4296ce3dd32be3cbcdb" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref52" level="file">
+            <did>
+              <unittitle>Outpunk #3 Original Flat</unittitle>
+              <unitdate datechar="creation">1994</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_a5d35884405301b69879eea70fd318f8" label="Mixed Materials [31142054897999]" type="Box">1</container>
+              <container id="aspace_f35e545ae6c22cc1abf3ad06ec10d81d" parent="aspace_a5d35884405301b69879eea70fd318f8" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref53" level="file">
+            <did>
+              <unittitle>Outpunk #5</unittitle>
+              <unitdate datechar="creation">1996</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_494504ebce55841ca717b48f058f3720" label="Mixed Materials [31142054897999]" type="Box">1</container>
+              <container id="aspace_6db81c677cbaab149cf2f535144523cd" parent="aspace_494504ebce55841ca717b48f058f3720" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref54" level="file">
+            <did>
+              <unittitle>Outpunk #5 Art/Design</unittitle>
+              <unitdate datechar="creation">1996</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_d8c9040b8cf6e4cf4d8bb02d486a4537" label="Mixed Materials [31142054897999]" type="Box">1</container>
+              <container id="aspace_1fbb12176bdf1904b8e4e8c7df467c92" parent="aspace_d8c9040b8cf6e4cf4d8bb02d486a4537" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref55" level="file">
+            <did>
+              <unittitle>Outpunk #6</unittitle>
+              <unitdate datechar="creation">1996</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_1efb53329b7ae323f77e69fbfcb398b2" label="Mixed Materials [31142054897999]" type="Box">1</container>
+              <container id="aspace_2cfaea21506c9864511a361e3aaaab70" parent="aspace_1efb53329b7ae323f77e69fbfcb398b2" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref56" level="file">
+            <did>
+              <unittitle>Outpunk #7</unittitle>
+              <unitdate datechar="creation">1997</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_3cc693f95139696b50106cf2501975dc" label="Mixed Materials [31142054897999]" type="Box">1</container>
+              <container id="aspace_1d3222a103f263721855f05993044cf9" parent="aspace_3cc693f95139696b50106cf2501975dc" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref57" level="file">
+            <did>
+              <unittitle>Outpunk Zine Invoices &amp; Correspondence</unittitle>
+              <unitdate datechar="creation" normal="1992/2000" type="inclusive">1992-2000</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_cacd7143df7d9330579055008704bcb3" label="Mixed Materials [31142054897999]" type="Box">1</container>
+              <container id="aspace_ac3b0cf29a6709e947a076f085f68f4b" parent="aspace_cacd7143df7d9330579055008704bcb3" type="Folder">13</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref37" level="subseries">
+          <did>
+            <unittitle>Subseries B: Other Zines</unittitle>
+          </did>
+          <c id="aspace_ref58" level="file">
+            <did>
+              <unittitle>"Victoria's Secret Riot Presents Club Death" Original Flat</unittitle>
+              <unitdate datechar="creation">1995</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_a9256597360f882bd80f496d3c5049ba" label="Mixed Materials [31142054897999]" type="Box">1</container>
+              <container id="aspace_7b7596df5b439de2f4ecf296b00e2063" parent="aspace_a9256597360f882bd80f496d3c5049ba" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref59" level="file">
+            <did>
+              <unittitle>Now I Don the Mask of Melancholy #4</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_1660fe429fd3d783dafad6095e1c8196" label="Mixed Materials [31142054897999]" type="Box">1</container>
+              <container id="aspace_497de858a7978360e313f1514e52ee8b" parent="aspace_1660fe429fd3d783dafad6095e1c8196" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref60" level="file">
+            <did>
+              <unittitle>The GSM #4 Original Flat</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_6904fa39ca014d51057038789dc52eb8" label="Mixed Materials [31142054898005]" type="Box">2</container>
+              <container id="aspace_99da8b231cf916b9b06c9d844620f42b" parent="aspace_6904fa39ca014d51057038789dc52eb8" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref61" level="file">
+            <did>
+              <unittitle>The Gaybee III Original Flat</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_61999bfae1b0cafd3e708da0e5d700a2" label="Mixed Materials [31142054898005]" type="Box">2</container>
+              <container id="aspace_db6bc237121ab5febb08cb8fec6c1942" parent="aspace_61999bfae1b0cafd3e708da0e5d700a2" type="Folder">2</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref40" level="series">
+        <did>
+          <unittitle>Series II: Music</unittitle>
+        </did>
+        <scopecontent id="aspace_8a88403fadb93cba1ec612d241e71c0c">
+          <head>Scope and Contents</head>
+          <p>This series contains documentation, photography, invoices, and correspondence pertaining to bands whose work was distributed by or related to the Outpunk label.  Bands include Tribe 8, Team Dresch, Pansy Division, God is My Co-Pilot, and Cyryus.</p>
+        </scopecontent>
+        <c id="aspace_ref4" level="subseries">
+          <did>
+            <unittitle>Subseries A: Bands and Promo Materials</unittitle>
+          </did>
+          <c id="aspace_ref62" level="file">
+            <did>
+              <unittitle>Outpunk Contracts</unittitle>
+              <unitdate datechar="creation" normal="1993/2003" type="inclusive">1993-2003</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_340cb14ebf85c2ff08d736aac065fea0" label="Mixed Materials [31142054898005]" type="Box">2</container>
+              <container id="aspace_f115cdbcc0ebc67cac17df4ae1ae8685" parent="aspace_340cb14ebf85c2ff08d736aac065fea0" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref63" level="file">
+            <did>
+              <unittitle>Tribe 8</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_bbb384a52a0c365924c703430b46bf6c" label="Mixed Materials [31142054898005]" type="Box">2</container>
+              <container id="aspace_e080b49385a05a28ab22fc8c9df94072" parent="aspace_bbb384a52a0c365924c703430b46bf6c" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref64" level="file">
+            <did>
+              <unittitle>Tribe 8 Press Kit</unittitle>
+              <unitdate datechar="creation">1993-1994</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_3007576ff6b2dc5b075745d7bcf17d3a" label="Mixed Materials [31142054898005]" type="Box">2</container>
+              <container id="aspace_9d2735bcf859d924e22fa40d317b01e1" parent="aspace_3007576ff6b2dc5b075745d7bcf17d3a" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref65" level="file">
+            <did>
+              <unittitle>Tribe 8 /Out13 7"/CD5</unittitle>
+              <unitdate datechar="creation">1994</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_3f72e7588eb8772831f43be52b370be2" label="Mixed Materials [31142054898005]" type="Box">2</container>
+              <container id="aspace_d081177c4f6702204ad329597dab768d" parent="aspace_3f72e7588eb8772831f43be52b370be2" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref66" level="file">
+            <did>
+              <unittitle>God is My Co-Pilot</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_f6ee6eec4c28a5bea1069f530adcda5e" label="Mixed Materials [31142054898005]" type="Box">2</container>
+              <container id="aspace_62a93e770dc9091a3a84b9c87fd57470" parent="aspace_f6ee6eec4c28a5bea1069f530adcda5e" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref67" level="file">
+            <did>
+              <unittitle>OPD Lyrics, Graphics, Photos</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_6921df7b74effb847bda29a581c5c8e8" label="Mixed Materials [31142054898005]" type="Box">2</container>
+              <container id="aspace_aefae8081d7c1fa822f99eafaeecf188" parent="aspace_6921df7b74effb847bda29a581c5c8e8" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref68" level="file">
+            <did>
+              <unittitle>Hyperdrive Kittens</unittitle>
+              <unitdate datechar="creation">1993</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_ca2dc2e95889c83232eeabfe065a3f23" label="Mixed Materials [31142054898005]" type="Box">2</container>
+              <container id="aspace_77a23852de5564f534492e9db261bd09" parent="aspace_ca2dc2e95889c83232eeabfe065a3f23" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref69" level="file">
+            <did>
+              <unittitle>There's a Dyke in the Pit Promo Materials</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_93a13d1cd0cb46d90d2dfa34e459e91f" label="Mixed Materials [31142054898005]" type="Box">2</container>
+              <container id="aspace_b352faba671dc119a1d385734001fab5" parent="aspace_93a13d1cd0cb46d90d2dfa34e459e91f" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref70" level="file">
+            <did>
+              <unittitle>Cyryus</unittitle>
+              <unitdate datechar="creation" normal="1995/1997" type="inclusive">1995-1997</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_3ea75505223ac199c489e976ebce557d" label="Mixed Materials [31142054898005]" type="Box">2</container>
+              <container id="aspace_fd720ea762ba4e2b637455c9683cd919" parent="aspace_3ea75505223ac199c489e976ebce557d" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref71" level="file">
+            <did>
+              <unittitle>Sta-Prest Press</unittitle>
+              <unitdate datechar="creation">1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_3dae863ca625587178074f99daef6118" label="Mixed Materials [31142054898005]" type="Box">2</container>
+              <container id="aspace_9dde48b87ba0e942e0f3eaa00ae68566" parent="aspace_3dae863ca625587178074f99daef6118" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref72" level="file">
+            <did>
+              <unittitle>Tribute to Outpunk Flier</unittitle>
+              <unitdate datechar="creation">2003</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_b0bb3f75c7a414eb58c556abfcd172d7" label="Mixed Materials [31142054898005]" type="Box">2</container>
+              <container id="aspace_d33eec1605ae2da4fb521079fa25991a" parent="aspace_b0bb3f75c7a414eb58c556abfcd172d7" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref73" level="file">
+            <did>
+              <unittitle>BTPNLSL Press</unittitle>
+              <unitdate datechar="creation">1996-1997</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_914c7639e458f5e415f322d99694cb5d" label="Mixed Materials [31142054898005]" type="Box">2</container>
+              <container id="aspace_6b66e017d752e3b4118ac33e9f17b71a" parent="aspace_914c7639e458f5e415f322d99694cb5d" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref74" level="file">
+            <did>
+              <unittitle>Band Photos</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_bb9016491f32ea43d49a70fed01e7262" label="Mixed Materials [31142054898005]" type="Box">2</container>
+              <container id="aspace_eabe55f4c81511d2e80845eae0d72043" parent="aspace_bb9016491f32ea43d49a70fed01e7262" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref75" level="file">
+            <did>
+              <unittitle>General Outpunk Press</unittitle>
+              <unitdate datechar="creation" normal="1993/1995" type="inclusive">1993-1995</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_643ef7c54586666c6806914acc4dc7a8" label="Mixed Materials [31142054898005]" type="Box">2</container>
+              <container id="aspace_2f148f7b2b227538634c334dfac0ae10" parent="aspace_643ef7c54586666c6806914acc4dc7a8" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref76" level="file">
+            <did>
+              <unittitle>Miscellaneous Handbills &amp; Promo Materials</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_625ace43bad723dbaffab2f26808f5c3" label="Mixed Materials [31142054898013]" type="Box">3</container>
+              <container id="aspace_535a03c438c1d50975ac7796aca4560b" parent="aspace_625ace43bad723dbaffab2f26808f5c3" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref77" level="file">
+            <did>
+              <unittitle>Misc. Fliers, Clippings, Etc. [1 of 2]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_cd272be5a25ffefa4f220afa85caf8e7" label="Mixed Materials [31142054898013]" type="Box">3</container>
+              <container id="aspace_8f6eb35638efae604370230735ae746a" parent="aspace_cd272be5a25ffefa4f220afa85caf8e7" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref78" level="file">
+            <did>
+              <unittitle>Misc. Fliers, Clippings, Etc. [2 of 2]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_00d2afc3e7d7db421eedc1e99dc9ebe4" label="Mixed Materials [31142054898013]" type="Box">3</container>
+              <container id="aspace_592afa3ef4ec1a99f2647babfa8f3d8f" parent="aspace_00d2afc3e7d7db421eedc1e99dc9ebe4" type="Folder">3</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref41" level="subseries">
+          <did>
+            <unittitle>Subseries B: Miscellaneous Documentation and Articles</unittitle>
+          </did>
+          <c id="aspace_ref80" level="file">
+            <did>
+              <unittitle>QC 101</unittitle>
+              <unitdate datechar="creation">1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_4a29ebd186cf0b1d7bc6a940045abf49" label="Mixed Materials [31142054898013]" type="Box">3</container>
+              <container id="aspace_d03f9ea207681f5654e69bea01562c04" parent="aspace_4a29ebd186cf0b1d7bc6a940045abf49" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref82" level="file">
+            <did>
+              <unittitle>QC 102</unittitle>
+              <unitdate datechar="creation">1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_9ad91e0bfeaab54ff09026b42873f846" label="Mixed Materials [31142054898013]" type="Box">3</container>
+              <container id="aspace_bf95cb2d243e6e14d16ad986d817b638" parent="aspace_9ad91e0bfeaab54ff09026b42873f846" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref84" level="file">
+            <did>
+              <unittitle>Dirty Bird '96</unittitle>
+              <unitdate datechar="creation">1996</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_9ca640f6814388934cb54472af21d7ab" label="Mixed Materials [31142054898013]" type="Box">3</container>
+              <container id="aspace_4a31411bcdf0580f79a08961058a64c4" parent="aspace_9ca640f6814388934cb54472af21d7ab" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref85" level="file">
+            <did>
+              <unittitle>Gay Hip Hop Articles</unittitle>
+              <unitdate datechar="creation" normal="1996/1998" type="inclusive">1996-1998</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_9cd1bd31e50ed29183cb9efa6898cbf7" label="Mixed Materials [31142054898013]" type="Box">3</container>
+              <container id="aspace_904a3e631a79a5a4db891e744e4dd8cb" parent="aspace_9cd1bd31e50ed29183cb9efa6898cbf7" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref86" level="file">
+            <did>
+              <unittitle>Misc Articles [1 of 2]</unittitle>
+              <unitdate datechar="creation" normal="2003/2005" type="inclusive">2003-2005</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_aa3addc32d91d94f652e4e8b8f3dc841" label="Mixed Materials [31142054898013]" type="Box">3</container>
+              <container id="aspace_1b1bb3af6c44e61c931f54a1223a1596" parent="aspace_aa3addc32d91d94f652e4e8b8f3dc841" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref87" level="file">
+            <did>
+              <unittitle>Misc Articles [2 of 2]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_9d315cd33af424e14e49028645c0ad73" label="Mixed Materials [31142054898013]" type="Box">3</container>
+              <container id="aspace_08d687005907d0c076c6deca959b3900" parent="aspace_9d315cd33af424e14e49028645c0ad73" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref88" level="file">
+            <did>
+              <unittitle>Fliers</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_34f89d33369ea0aa88629b4580221a95" label="Mixed Materials [31142054898021]" type="Box">4</container>
+              <container id="aspace_e372dd256d1eea14e154657c8249e95e" parent="aspace_34f89d33369ea0aa88629b4580221a95" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref89" level="file">
+            <did>
+              <unittitle>M. W. Press [1 of 2]</unittitle>
+              <unitdate datechar="creation" normal="1992/2002" type="inclusive">1992-2002</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_a0b873fa5ee2de12366b98c84661b90b" label="Mixed Materials [31142054898021]" type="Box">4</container>
+              <container id="aspace_4e3e26b589d747112499599c6cc1fafe" parent="aspace_a0b873fa5ee2de12366b98c84661b90b" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref90" level="file">
+            <did>
+              <unittitle>M. W. Press [2 of 2]</unittitle>
+              <unitdate datechar="creation" normal="1992/2002" type="inclusive">1992-2002</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_54fc6092013e67b83cc7b11d0501291e" label="Mixed Materials [31142054898021]" type="Box">4</container>
+              <container id="aspace_f2ba8aa151f4fcb8f0fe84178c49b85e" parent="aspace_54fc6092013e67b83cc7b11d0501291e" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref91" level="file">
+            <did>
+              <unittitle>M. W. Address/Note Book</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_9893e100ccbf7176a844406e4c6151cd" label="Mixed Materials [31142054898021]" type="Box">4</container>
+              <container id="aspace_ab186f75fa6e939e9865e1cfe3f44a9b" parent="aspace_9893e100ccbf7176a844406e4c6151cd" type="Folder">4</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref42" level="subseries">
+          <did>
+            <unittitle>Subseries C: Miscellaneous Photos</unittitle>
+          </did>
+          <c id="aspace_ref92" level="file">
+            <did>
+              <unittitle>Miscellaneous Photos [1 of 2]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7b46d6d6d8db77b48bdfca549d49a2ee" label="Mixed Materials [31142054898021]" type="Box">4</container>
+              <container id="aspace_9c2368eea7a0ef068a1364a0fe931d4f" parent="aspace_7b46d6d6d8db77b48bdfca549d49a2ee" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref93" level="file">
+            <did>
+              <unittitle>Miscellaneous Photos [2 of 2]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_35f2894df172fd9409c772a14b3178e4" label="Mixed Materials [31142054898021]" type="Box">4</container>
+              <container id="aspace_2ff027c16c8cb5138bd161d0153cb07a" parent="aspace_35f2894df172fd9409c772a14b3178e4" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_0c00f986f5baf83a8f0d16f4804f387e" level="file">
+            <did>
+              <unittitle>2017 Accretion: Photographs</unittitle>
+              <unitdate datechar="creation" normal="1990/1999" type="inclusive">circa 1990s</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_e89c85616454a12deacf94b1c9e21787" label="Mixed Materials [31142063123197]" type="Box">9</container>
+              <container id="aspace_717ac5efd98a8e4122472e82fd3d2f6b" parent="aspace_e89c85616454a12deacf94b1c9e21787" type="Folder">1-8</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref5" level="series">
+        <did>
+          <unittitle>Series III: Phonograph Records</unittitle>
+        </did>
+        <accessrestrict id="aspace_e94927df8a83fbecad555a5b296bf53a">
+          <head>Conditions Governing Access</head>
+          <p>Audio materials are not accessible for listening.</p>
+        </accessrestrict>
+        <scopecontent id="aspace_3acb4dbc9c4c6d52bec1e456c2110a7d">
+          <head>Scope and Contents</head>
+          <p>This series contains albums released by the Outpunk label.  Bands include Tribe 8, Cypher in the Snow, God is My Co-Pilot, Hyperdrive Kittens, Pansy Division, and Sta-Prest.</p>
+        </scopecontent>
+        <c id="aspace_ref10" level="subseries">
+          <did>
+            <unittitle>Subseries A: Originals
+</unittitle>
+          </did>
+          <c id="aspace_ref19" level="item">
+            <did>
+              <unittitle>Behead the Prophet No Lord Shall Live 7" EP</unittitle>
+              <unitdate datechar="creation">1995</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_6490972c7cbe4655d53004b0b2b82ca5" label="Audio [31142054898021]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref11" level="item">
+            <did>
+              <unittitle>Cypher in the Snow "Badass" 7" EP (Test Pressing)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_f589d9214659efa6b3a89e558cd2d654" label="Audio [31142054898021]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref17" level="item">
+            <did>
+              <unittitle>God is My Co-Pilot/Fifth Column "Don't" 7" EP test pressing</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_ffdbd386560a857e20ad1639ec4a0535" label="Audio [31142054898021]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref16" level="item">
+            <did>
+              <unittitle>Hyperdrive Kittens "Rock 'n' Roll Drag Queen" 7" EP</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_74d8b0cbef179b0492d6d2b4d15eabcb" label="Audio [31142054898021]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref24" level="item">
+            <did>
+              <unittitle>The Need 7" EP test pressing</unittitle>
+              <unitdate datechar="creation">1997</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_043bff8e3ab58f4b22e54d0b8b34bf47" label="Audio [31142054898021]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref9" level="item">
+            <did>
+              <unittitle>The Mukilteo Fairies "Closet Check" 7" EPs</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_81c7a352fd09adf46ad722132cf97bba" label="Audio [31142054898021]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref18" level="item">
+            <did>
+              <unittitle>Pansy Division "Bill &amp; Ted's Homosexual Adventure" 7" EP test pressing </unittitle>
+              <unitdate datechar="creation">1992</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_bf8d4659844a095941e49ee632011f6e" label="Audio [31142054898021]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref21" level="item">
+            <did>
+              <unittitle>Pansy Division "Nine Inch Males" 7" EP</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_33ed9c0ef6c034f11797b53804928795" label="Audio [31142054898021]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref12" level="item">
+            <did>
+              <unittitle>Sta-Prest "Let's Be Friendly with Our Friends" 7" EP and test pressing</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_6c5a6f06be3f866eb87482becf69aa46" label="Audio [31142054898021]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref13" level="item">
+            <did>
+              <unittitle>Sta-Prest "Vespa Sex" 7" EP</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_fb794e4835025ef76f743744cfc65cca" label="Audio [31142054898021]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref20" level="item">
+            <did>
+              <unittitle>Team Dresch "the new TEAM DRESCH v. 6.0 beta" 7" EP test pressing</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_d40f7bc1975b511fb7ae705ea7ac123b" label="Audio [31142054898021]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref15" level="item">
+            <did>
+              <unittitle>"There's a Dyke in the Pit" 7" Compilation EP</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_aa45d1739e3e55095b33b30192e7f133" label="Audio [31142054898021]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref22" level="item">
+            <did>
+              <unittitle>"There's a Dyke in the Pit" 7" Compilation EP test pressing</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_87b795f525907d0ce93d4ca08ebcf92a" label="Audio [31142054898021]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref14" level="item">
+            <did>
+              <unittitle>"There's a Faggot in the Pit"  7" Compilation EP</unittitle>
+              <unitdate datechar="creation">1991</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_305488312e1e7eeedf5f7f20ce620c82" label="Audio [31142054898021]" type="Box">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref23" level="item">
+            <did>
+              <unittitle>Tribe 8 self-titled 7" EP</unittitle>
+              <unitdate datechar="creation">1994</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_510bcc589787cd025729db6522a42d48" label="Audio [31142054898021]" type="Box">4</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref6" level="series">
+        <did>
+          <unittitle>Series IV: Ephemera and Objects</unittitle>
+        </did>
+        <scopecontent id="aspace_9ce59b1105b91016b29123f7903e383b">
+          <head>Scope and Contents</head>
+          <p>This series contains oversize photography, posters, and artwork, as well as a collection of band t-shirts and a skateboard.</p>
+        </scopecontent>
+        <c id="aspace_ref79" level="subseries">
+          <did>
+            <unittitle>Subseries A: Fliers, Clippings, Photos, and Artwork</unittitle>
+          </did>
+          <c id="aspace_ref97" level="file">
+            <did>
+              <unittitle>Misc. Clippings, Fliers, Etc.</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Flat OS Box - 16.5" id="aspace_e3f8622115a249dfa539dfe06bd9a18c" label="Mixed Materials [31142054892479]" type="Box">8</container>
+              <container id="aspace_e54474e172000f5e8c40aaddc605f9c8" parent="aspace_e3f8622115a249dfa539dfe06bd9a18c" type="Folder">1</container>
+              <container altrender="Manuscript box - Legal" id="aspace_89128e8c65b98e27f839028f1e22664f" label="Mixed Materials [31142063123197]" type="Box">9</container>
+              <container id="aspace_8a418c6dcc21f0243cc8646e05152997" parent="aspace_89128e8c65b98e27f839028f1e22664f" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref95" level="file">
+            <did>
+              <unittitle>Photography</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 16.5" id="aspace_eeb502fd64779bc4179d32a7fd65d16a" label="Mixed Materials [31142054892479]" type="Box">8</container>
+              <container id="aspace_71820958ef472661a47aabab13a50ed8" parent="aspace_eeb502fd64779bc4179d32a7fd65d16a" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref98" level="file">
+            <did>
+              <unittitle>Posters</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 16.5" id="aspace_92723ef18ade096e51be483a6fa959cd" label="Mixed Materials [31142054892479]" type="Box">8</container>
+              <container id="aspace_3e3d21103f76b9e4cf636a6748c7c444" parent="aspace_92723ef18ade096e51be483a6fa959cd" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref99" level="item">
+            <did>
+              <unittitle>Tribe 8 Poster Mounted on Foam Core</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Flat OS Box - 16.5" id="aspace_bb6a22f395ff4162212887380ae9e248" label="Mixed Materials [31142054892479]" type="Box">8</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref7" level="subseries">
+          <did>
+            <unittitle>Subseries B: T-shirts and Artifacts</unittitle>
+          </did>
+          <c id="aspace_ref25" level="item">
+            <did>
+              <unittitle>Pansy Division promotional box</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal" id="aspace_ef26139459ef9792ad7cd1bc7ce18638" label="Mixed Materials [31142054898021]" type="Box">4</container>
+              <container id="aspace_f3bf1a79fe0ba6234b48e16314132f18" parent="aspace_ef26139459ef9792ad7cd1bc7ce18638" type="object">ID: 297.2.0001</container>
+            </did>
+          </c>
+          <c id="aspace_ref26" level="item">
+            <did>
+              <unittitle>Punk Beat "Where the Boys Are" t-shirt </unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Flat Box - 10.5 x 15.5" id="aspace_1c0d14a8223f85a7189ea9392319c305" label="Realia [31142054898039]" type="Box">5</container>
+              <container id="aspace_25f30cb7dcb7ae7fffef314ff6a67ec1" parent="aspace_1c0d14a8223f85a7189ea9392319c305" type="object">ID: 297.2.0002</container>
+            </did>
+          </c>
+          <c id="aspace_ref28" level="item">
+            <did>
+              <unittitle>God is My Co-Pilot "make Queer theory" t-shirt</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Flat Box - 10.5 x 15.5" id="aspace_084ea2b11a79de0b3aa7b35115607572" label="Realia [31142054898039]" type="Box">5</container>
+              <container id="aspace_912be92aa419a60a76e5288f2fe0da20" parent="aspace_084ea2b11a79de0b3aa7b35115607572" type="object">ID: 297.2.0003</container>
+            </did>
+          </c>
+          <c id="aspace_ref29" level="item">
+            <did>
+              <unittitle>The Mukilteo Fairies t-shirt</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Flat Box - 10.5 x 15.5" id="aspace_c89a8ba848c36a2e494454caee5959d2" label="Realia [31142054898039]" type="Box">5</container>
+              <container id="aspace_46fb2ca4966ef10f0f9951fc765f2c40" parent="aspace_c89a8ba848c36a2e494454caee5959d2" type="object">ID: 297.2.0004</container>
+            </did>
+          </c>
+          <c id="aspace_ref30" level="item">
+            <did>
+              <unittitle>Tribe 8 t-shirt</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Flat Box - 10.5 x 15.5" id="aspace_13577f56fe699c23cf1da8f588b3ab02" label="Realia [31142054898039]" type="Box">5</container>
+              <container id="aspace_cd8eaec0507dd4f0ab15a6791a74aa75" parent="aspace_13577f56fe699c23cf1da8f588b3ab02" type="object">ID: 297.2.0005</container>
+            </did>
+          </c>
+          <c id="aspace_ref31" level="item">
+            <did>
+              <unittitle>Brat Attack "Bad Girls Rule" t-shirt</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Flat Box - 10.5 x 15.5" id="aspace_535889270a200fc701756a0aa47525a0" label="Realia [31142054898047]" type="Box">6</container>
+              <container id="aspace_1918df39dae73e1dc2ebc3892d88700b" parent="aspace_535889270a200fc701756a0aa47525a0" type="object">ID: 297.2.0006</container>
+            </did>
+          </c>
+          <c id="aspace_ref32" level="item">
+            <did>
+              <unittitle>Behead the Prophet No Lord Shall Live t-shirt</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Flat Box - 10.5 x 15.5" id="aspace_24877a1eca102d19756ad2f1ccb55c36" label="Realia [31142054898047]" type="Box">6</container>
+              <container id="aspace_2aefacd1ebbc60da22cce59c96918740" parent="aspace_24877a1eca102d19756ad2f1ccb55c36" type="object">ID: 297.2.0007</container>
+            </did>
+          </c>
+          <c id="aspace_ref33" level="item">
+            <did>
+              <unittitle>Sta-Prest "In Control of Your Comfort" t-shirt</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Flat Box - 10.5 x 15.5" id="aspace_8cd2fe0d222c237cb8b425a72b5cf729" label="Realia [31142054898047]" type="Box">6</container>
+              <container id="aspace_3b5bd185dbca1e806dcea0830b10f35a" parent="aspace_8cd2fe0d222c237cb8b425a72b5cf729" type="object">ID: 297.2.0008</container>
+            </did>
+          </c>
+          <c id="aspace_ref34" level="item">
+            <did>
+              <unittitle>Behead the Prophet dress shirt with tie</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Flat Box - 10.5 x 15.5" id="aspace_282849cdcaf28b47fc355943b9b79298" label="Realia [31142054898054]" type="Box">7</container>
+              <container id="aspace_1905b47f3b1bf5119b8c6cda1cc82698" parent="aspace_282849cdcaf28b47fc355943b9b79298" type="object">ID: 297.2.0009</container>
+            </did>
+          </c>
+          <c id="aspace_ref39" level="item">
+            <did>
+              <unittitle>Skateboard</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng" scriptcode="Latn">English</language>.</langmaterial>
+              <container altrender="Custom 7 x 33 x 12.5" id="aspace_b539cbf15ab2274f16c5619cb2a82fc6" label="Realia [31142062839264]" type="Box">10</container>
+              <container id="aspace_3885e07e95212ee2539faeb113e33977" parent="aspace_b539cbf15ab2274f16c5619cb2a82fc6" type="Item">297.2.0010</container>
+            </did>
+          </c>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_218">wag_218</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Communications Workers of America, District 2 Arbitration Cases <num>WAG.218</num></titleproper>
+        <author>Nicole Greenhouse</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>April 2014</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 03:06:41 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Communications Workers of America, District 2 Arbitration Cases</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">Communications Workers of America. District 2</corpname>
+      </origination>
+      <origination label="source">
+        <corpname role="dnr" rules="dacs" source="local">Communications Workers of America. District 2</corpname>
+      </origination>
+      <unitid>WAG.218</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">72 Linear Feet</extent>
+        <extent altrender="carrier">in 72 boxes.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1951/1991" type="inclusive">1951-1991</unitdate>
+      <physloc id="aspace_8518a42ee9c59fadf605d92796fbdf6c">Materials are stored offsite and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two business days prior to research visit.</physloc>
+      <abstract id="aspace_53d333d5025a84c77013404aaafe6973">Communications Workers of America, District 2 is responsible for servicing all CWA locals in Pennsylvania, Maryland, Virginia, West Virginia, and Washington DC. The collection mostly contains grievances and arbitration cases.</abstract>
+      <langmaterial id="aspace_ce670993eb9d6694cd409c374ffa63f7">Materials are in English</langmaterial>
+    </did>
+    <arrangement id="aspace_e591585f82a36624d413d224404a2a73">
+      <head>Arrangement</head>
+      <p>This collection has not been arranged by an archivist.</p>
+    </arrangement>
+    <bioghist id="aspace_ac98d2b8f7f0ccfaf4623b5c0865ccc6">
+      <head>Historical/Biographical Note</head>
+      <p>Communications Workers of America, District 2 is responsible for servicing all CWA locals in Pennsylvania, Maryland, Virginia, West Virginia, and Washington DC. The district represents workers in telecommunications, airlines, broadcast and cable television, health care, public service, printing and news media, food service, higher education and law enforcement. The district was ran by Vice President Peter G. Catucci from 1986-2008. In 2011, District 2 merged with District 13 and Edward Mooney was elected Vice President.</p>
+    </bioghist>
+    <scopecontent id="aspace_a3ac5e38567c50b42079fab9131886a5">
+      <head>Scope and Contents note</head>
+      <p>The collection mostly contains grievances and arbitration cases with telecommunication companies, including C&amp;P Telephone and AT&amp;T, settled by the district. The collection also includes agreements.</p>
+    </scopecontent>
+    <prefercite id="aspace_e54883496bb5cbb16cf941ff5309627e">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Communications Workers of America, District 2 Arbitration Cases; WAG 218; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <accessrestrict id="aspace_1993cc2e6377ba54a6369c86ddb218ad">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <userestrict id="aspace_659a00e308b5677ac0442adcbf4282c0">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the Communications Workers of America, District 2, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <otherfindaid id="aspace_69da85afc036504337ea642c69a46457">
+      <head>Other Finding Aids</head>
+      <p>A more detailed inventory is available in the repository.</p>
+    </otherfindaid>
+    <processinfo id="aspace_095f90c5f9a089ebde3b599abf881054">
+      <head>Processing Information</head>
+      <p>In 2014, the archived websites were added as a series. The original finding aid was reformatted from a Word document to EAD in 2014.</p>
+    </processinfo>
+    <acqinfo id="aspace_45025db05bfc71f0a799503ad727afe1">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by the Communications Workers of America, District 2, in 1994. The accession number associated with this gift is 1994.022.</p>
+    </acqinfo>
+    <custodhist id="aspace_e0c6111a754cb7dd2999c0595cf6ffad">
+      <head>Custodial History</head>
+      <p>The archived website was migrated from the California Digital Library's Web Archiving Service to the Internet Archive's Archive-It Service in November 2015. The link to California Digital Library was removed in October 2017.</p>
+    </custodhist>
+    <controlaccess>
+      <subject source="lcsh">Telecommunication |x Employees |x Labor unions |z West Virginia.</subject>
+      <subject source="lcsh">Telecommunication |x Employees |x Labor unions |z Virginia.</subject>
+      <subject source="lcsh">Telecommunication |x Employees |x Labor unions |z District of Columbia.</subject>
+      <subject source="lcsh">Telecommunication |x Employees |x Labor unions |z Maryland.</subject>
+      <corpname role="dnr" rules="dacs" source="local">Communications Workers of America. District 2</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref93" level="series">
+        <did>
+          <unittitle>Inventory</unittitle>
+        </did>
+        <c id="aspace_ref4" level="file">
+          <did>
+            <unittitle>Closed Arbitration Cases: Holck-Murphy</unittitle>
+            <container id="aspace_33c0fc22d917417dfb7c0c3df15241a7" label="Mixed Materials [31142040601273]" type="Box">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Closed Arbitration Cases: Harris-Young</unittitle>
+            <container id="aspace_ca44042709ef001bd4336b529f5cd7d1" label="Mixed Materials [31142040601281]" type="Box">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Closed Arbitration Cases: Barker-Toler</unittitle>
+            <container id="aspace_8f47fddf7d350af8fe05497af2c87306" label="Mixed Materials [31142040601299]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Closed Arbitration Cases: Vaughn-Russels</unittitle>
+            <container id="aspace_09011045f0f9c266a19b5b0c43a881cb" label="Mixed Materials [31142040601307]" type="Box">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Closed Arbitration Cases: Buck-Comb</unittitle>
+            <container id="aspace_74cc32550e46d9a77e92719d69dc8992" label="Mixed Materials [31142040601315]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Closed Arbitration Cases: Copeland-Head</unittitle>
+            <container id="aspace_ae4108e6f547894129c7f2b9125bc99b" label="Mixed Materials [31142040601323]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Closed Arbitration Cases: Hobar-Robinson</unittitle>
+            <container id="aspace_facbef48fe73eade14d9df5c946d275c" label="Mixed Materials [31142040601331]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Closed Arbitration Cases: Cundiff-Jolley</unittitle>
+            <container id="aspace_89e807468e08a283dee7fccdf69ae77f" label="Mixed Materials [31142040601349]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Closed Arbitration Cases: Matheny-Hobar</unittitle>
+            <container id="aspace_2b405e4823cbf31476bb649c605a0e48" label="Mixed Materials [31142040601356]" type="Box">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Closed Arbitration Cases: Howerton-Kersey</unittitle>
+            <container id="aspace_f6c22e319d4aba75a8683b1b44ab8241" label="Mixed Materials [31142040601364]" type="Box">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Closed Arbitration Cases: Kinney-McGoines</unittitle>
+            <container id="aspace_66014ebd4390feb57adccae34f274824" label="Mixed Materials [31142040601372]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Closed Arbitration Cases: McKenly-Parker</unittitle>
+            <container id="aspace_8d0edd1eda2fd936e03fdae4a131660a" label="Mixed Materials [31142040601380]" type="Box">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Won &amp; Transcripts: Local 2001, 2004, 2010, and 2011—Wildcat Strike thru Biscom-Supervisors Retrieving Biscom Terminal Info.</unittitle>
+            <container id="aspace_44276dde6257bb6d928f64c0701b4684" label="Mixed Materials [31142040601398]" type="Box">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Won &amp; Transcripts: Bypass of Special Clerks for Engineering Assistant thru McAllister, Gary</unittitle>
+            <container id="aspace_24c015f285dd28347aca916b7e0f30ef" label="Mixed Materials [31142040601406]" type="Box">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Won &amp; Transcripts: McAllister-Shacreaw</unittitle>
+            <container id="aspace_4aa080ae589fb37c2719b553621d7013" label="Mixed Materials [31142040601414]" type="Box">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Won &amp; Transcripts: Smack-Westfield</unittitle>
+            <container id="aspace_c0ffbe8395a3a2c11af6e69e4cd17252" label="Mixed Materials [31142040601422]" type="Box">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Telephone Cases Denied: Local 2202-#2377-Recall of AT&amp;T Employees thru Flanagan, Lary F.</unittitle>
+            <container id="aspace_af6697fb7e79279da4f68112d1d97923" label="Mixed Materials [31142040601430]" type="Box">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Telephone Cases Lost and Transcripts: Cooper-Faber</unittitle>
+            <container id="aspace_0597be599a7d67999d077243ba8f205d" label="Mixed Materials [31142040601448]" type="Box">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Settled: Local 2011-Reduc. In Pay thru Benson, Margaret</unittitle>
+            <container id="aspace_d63a4acba69c28949b5e53ea48193b71" label="Mixed Materials [31142040601455]" type="Box">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Settled: Fluker-Kiper</unittitle>
+            <container id="aspace_a6ff4b33511357eca66beb921ce3ab92" label="Mixed Materials [31142040601463]" type="Box">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Settled: Fleming-Gwaltney</unittitle>
+            <container id="aspace_b6ec5f26ab2e70a23742b42cfb7c3116" label="Mixed Materials [31142040601471]" type="Box">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Settled: Harris-Smith, Joseph F.</unittitle>
+            <container id="aspace_2c6ea81df5bf3b0b57346f7b4ad88539" label="Mixed Materials [31142040601489]" type="Box">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Settled: Smith, William A. –Williams, Norman</unittitle>
+            <container id="aspace_067f90258b847e53cf12f9b23984141f" label="Mixed Materials [31142040601497]" type="Box">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Settled: Wilson, Bruce – Downing, Mary Lou</unittitle>
+            <container id="aspace_604bc2694e84e040b760bbfdb8ec3c73" label="Mixed Materials [31142040601505]" type="Box">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Settled: Dumahaut, Jerry – DeFriece, Quesenberry</unittitle>
+            <container id="aspace_dcdd6f3105786a96c3c083669f6e8497" label="Mixed Materials [31142040601513]" type="Box">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Arbitration Cases Closed-AT&amp;T and Other: Foley, Fay – Moore, Kathy</unittitle>
+            <container id="aspace_a980d1fdcc09566dc16be84bfcef7f41" label="Mixed Materials [31142040601521]" type="Box">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Arbitration Cases Closed-AT&amp;T and Other: Nat'l Association of Social Workers thru Storer Cablevision of Richmond</unittitle>
+            <container id="aspace_a30327db814cad1322e856e427a397d1" label="Mixed Materials [31142040601539]" type="Box">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Arbitration Cases Closed-AT&amp;T and Other: United Technologies Communications Co. thru Local 2300; Wilson, Gregory</unittitle>
+            <container id="aspace_f90e3af8a8099935995f707ee4857e44" label="Mixed Materials [31142040601547]" type="Box">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Arbitration Cases Closed-AT&amp;T and Other: Delbrugge, Thomas –Evans, Norma</unittitle>
+            <container id="aspace_c1fc8e4bf2d1bb61c94e0b6c4a7d511e" label="Mixed Materials [31142040601554]" type="Box">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Arbitration Cases Closed-AT&amp;T and Other: Local 2336/ M. Fife thru Buck, Brenda; Suspension 3/26/88</unittitle>
+            <container id="aspace_ecfa4ffdbe6459c7c6eec0130de8ccd2" label="Mixed Materials [31142040601562]" type="Box">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Bargaining Minutes and Memorandum of Agreements: 1954 C&amp;P/CWA Bargaining Minutes thru 1959 C&amp;P Bargaining Minutes (D.C. Area)</unittitle>
+            <container id="aspace_d571da8f816a103dcca3849d7e54ef1d" label="Mixed Materials [31142040601570]" type="Box">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Won and Transcripts: Lynch, Dennis thru Russo, William A.</unittitle>
+            <container id="aspace_24e01f9c82291cc07275f5deaf3a75ed" label="Mixed Materials [31142040601588]" type="Box">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Lost and Transcripts: Lapanne, Larry – Parkersburg Operator Group</unittitle>
+            <container id="aspace_7e4c3e6bb16e39538fb136f781ebfb15" label="Mixed Materials [31142040601596]" type="Box">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Lost and Transcripts: Collins, Marcellus – Cox, Roberta</unittitle>
+            <container id="aspace_73baeb74b361c40782291002be3365c0" label="Mixed Materials [31142040601604]" type="Box">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Lost and Transcripts: Brumfield, Charles C. – Cook, Glenn D.</unittitle>
+            <container id="aspace_fb794ec77a9c7e51530398b74e064b10" label="Mixed Materials [31142040601612]" type="Box">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Agreements and Memorandum of Agreements: 1960 Memorandum of Agreement thru 1965 C&amp;P/CWA Wage Reopener</unittitle>
+            <container id="aspace_571a62c10a1d221db77c00c4f82fd84d" label="Mixed Materials [31142040601620]" type="Box">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Won and Transcripts: Costley, Denise – Hite, Richard</unittitle>
+            <container id="aspace_f9601010cab8f84fa643bfde10a9dd4a" label="Mixed Materials [31142040601638]" type="Box">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Closed Grievances from 1991 and Back—Local 2323 and Local 2300: Local 2300; Lutchman, Zilla thru Destacy, Alice</unittitle>
+            <container id="aspace_d3e5d0e4968fa58cdb475dd139003471" label="Mixed Materials [31142040601646]" type="Box">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Closed Out Contact Interp. Grievances: Sandra, Alker – LaForce, Teresa</unittitle>
+            <container id="aspace_ed644ed0f3a40ef09548ae777ee05cc1" label="Mixed Materials [31142040601653]" type="Box">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Closed Grievances from 1991 and Back: Rhea, Jackie – Matthews, Ernestyne</unittitle>
+            <container id="aspace_f5e7c803af350b9cb0eaaa47fda5e75e" label="Mixed Materials [31142040601661]" type="Box">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Won and Transcripts: Armstrong, Sandra – Corbett, Carol</unittitle>
+            <container id="aspace_52a7a496233a98b485757a6f5a79aef0" label="Mixed Materials [31142040601679]" type="Box">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Closed Grievances for Local 2336: Fisher, Patricia – Local 2336 DCB2-D-077-88</unittitle>
+            <container id="aspace_e7a5f7c9cc6467fec42865ef81cb6c5c" label="Mixed Materials [31142040601687]" type="Box">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Closed Grievances for Local 2336: Select Job Assignment thru Proctor, Dorothy</unittitle>
+            <container id="aspace_1aa8d0d4a5680783227dd68ecb6d6d9d" label="Mixed Materials [31142040601695]" type="Box">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Closed Out Contact Interp. Grievances: Anderson, Andrew L. – Zaccardi, Barbara L.</unittitle>
+            <container id="aspace_0307abb85f536eb8dafcd3df500a2b97" label="Mixed Materials [31142040601703]" type="Box">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Closed Out AT&amp;T Grievances: Harley, Veronica – Yankowski, Edward</unittitle>
+            <container id="aspace_5a71377c5e60388b9e3b688a45dbce20" label="Mixed Materials [31142040601711]" type="Box">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Settled: Seiple, Robert – Wagoner, Diane</unittitle>
+            <container id="aspace_1567efd30b93b8263766d35afee45455" label="Mixed Materials [31142040601729]" type="Box">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Closed Grievances for Local 2336: Riddick, Leslie – Turner, Robert</unittitle>
+            <container id="aspace_18bec7362ac421dd55afeaea9b7af0b1" label="Mixed Materials [31142040601737]" type="Box">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Settled: Parson, Sonja L. – Seaton, Elizabeth</unittitle>
+            <container id="aspace_420463d2d5f12228957035ab4a5f6379" label="Mixed Materials [31142040601745]" type="Box">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Arbitration Cases Closed-AT&amp;T and Other: Local 2001; Naire, Tom thru Local 2277; Davis, David</unittitle>
+            <container id="aspace_73c823246a5156eea8d36020baf50f35" label="Mixed Materials [31142040601752]" type="Box">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Closed Out Contract Interp. Grievances: Lemon, Tammy- Local 2001 thru Zebley, Bob-Local 2001</unittitle>
+            <container id="aspace_855813e63cc1e6f10b8eea2d39742898" label="Mixed Materials [31142040601760]" type="Box">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Closed Out Contract Interp. Grievances: Adams, Bruce-Local 2150 thru Young, Kay</unittitle>
+            <container id="aspace_55920beec7e1ee02f9191ccf66025205" label="Mixed Materials [31142040601778]" type="Box">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Closed Out Contract Interp. Grievances: Local 2300 1989, 1991, 1992 thru Local 2323, Bing</unittitle>
+            <container id="aspace_7ef50d86eb0710b6ffa1325adc959f4f" label="Mixed Materials [31142040601786]" type="Box">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Closed Out Contract Interp. Grievances: NASW thru Trelawney &amp; Fries</unittitle>
+            <container id="aspace_647543ebe10b0f1a094b5b75078ca4b1" label="Mixed Materials [31142040601794]" type="Box">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Closed Out AT&amp;T Grievances Local 2252 1990-1992: Ahn, Hee S. thru Wormley, Noel</unittitle>
+            <container id="aspace_f235b893d0a74d58693ce233cced4e52" label="Mixed Materials [31142040601802]" type="Box">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Closed Out Arbitration Cases AT&amp;T and Other: Hardy, Louis thru Williamson, Wayne</unittitle>
+            <container id="aspace_4958b809ee0692c50ec8bb91b8373b5d" label="Mixed Materials [31142040601810]" type="Box">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Settled: Walker, Thomas E. thru Zebley, Robert</unittitle>
+            <container id="aspace_7d9f43ab84eb02e853f893ef6f035d77" label="Mixed Materials [31142040601828]" type="Box">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Closed AT&amp;T Grievances Local 2300, 2323, and 2336: Hebron, Deborah-Local 2300 thru Wheeler, Kevin-Local 2336</unittitle>
+            <container id="aspace_16c4781a2108728fb02c392f06f3f2a6" label="Mixed Materials [31142040601836]" type="Box">57</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Closed Out Arbitration Cases AT&amp;T and Other: Anderson, Amy thru Zimmerman, Nathan</unittitle>
+            <container id="aspace_e6dc51633622fe9b37b2164c516498c0" label="Mixed Materials [31142040601844]" type="Box">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Won and Transcripts: Glassco, Charles thru Lloyd, John</unittitle>
+            <container id="aspace_f4b998c5f468af0e9c4f6234ba090d7f" label="Mixed Materials [31142040601851]" type="Box">59</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Closed Out Arbitration Cases AT&amp;T and Other: Local 2250 (Increase of Work Hours) thru Trammell, Janet G. (Pat)</unittitle>
+            <container id="aspace_786eb1821816386fa4bbdc08d51eae3d" label="Mixed Materials [31142040601869]" type="Box">60</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Closed Out Arbitration Cases AT&amp;T and Other: Alvis, Donald thru CWA &amp; NASW</unittitle>
+            <container id="aspace_99b970621f0c898eec4aefd4ad9f1e88" label="Mixed Materials [31142040601877]" type="Box">61</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Closed Out Arbitration Cases AT&amp;T and Other: UTW (Contracting Out) thru Western Union</unittitle>
+            <container id="aspace_71bcff8c37f1a488088460a41473aff1" label="Mixed Materials [31142040601885]" type="Box">62</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Settled: Berger, Virginia thru Collier, Ingeborg</unittitle>
+            <container id="aspace_59fd33b40d548f657219f13ebe8c3729" label="Mixed Materials [31142040601893]" type="Box">63</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Closed Out AT&amp;T Grievances: Bostick, Michael thru Wisman, Mike</unittitle>
+            <container id="aspace_173f4fa41dcbd03b58a0c8e76b251124" label="Mixed Materials [31142040601901]" type="Box">64</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Agreements and Wage Reopeners: 1951 General Agreement thru 1953 C&amp;P Memorandum of Agreement</unittitle>
+            <container id="aspace_f882fe411a9f639ecf3446dc3965ef17" label="Mixed Materials [31142040601919]" type="Box">65</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Lost and Transcripts: Wirt, Herbert L. thru Woodis, Alexander</unittitle>
+            <container id="aspace_b354eb45734fda13d8b12b612624e59a" label="Mixed Materials [31142040601927]" type="Box">66</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Denied: Galimore, Erman thru Owens, James D.</unittitle>
+            <container id="aspace_88c334c6e7d4adb6fc09f81d90db2900" label="Mixed Materials [31142040601935]" type="Box">67</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Faubert, M. thru Rodriguez, Mary</unittitle>
+            <container id="aspace_659b2c6b526ea077c6c765853d6ead32" label="Mixed Materials [31142040601943]" type="Box">68</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>C&amp;P Telephone Cases Lost and Transcripts: Local 2001 Travel Allowances, Etc. thru Branham, Edward</unittitle>
+            <container id="aspace_26de09a5c7bae7d2219eb080555de8c3" label="Mixed Materials [31142040601950]" type="Box">69</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Unit Clarification of Confidential Clerks thru Vaught, John</unittitle>
+            <container id="aspace_f14352ff0179af4cdfa8a718edd1fb33" label="Mixed Materials [31142040601968]" type="Box">70</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>AT&amp;T Local 2001-Bowe, Amy thru Local 2201-Winborne, Sandra</unittitle>
+            <container id="aspace_d8ddf9ce00a7f6ed402533f0a33d1beb" label="Mixed Materials [31142040601976]" type="Box">71</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>AT&amp;T Local 2001-Beltran, Rosa thru Yost, Mike</unittitle>
+            <container id="aspace_be19d1f4e5cf83cec62c390f699839be" label="Mixed Materials [31142040601984]" type="Box">72</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref86" level="series">
+        <did>
+          <unittitle>Archived Website</unittitle>
+          <unitdate datechar="creation">Mar 2, 2009-ongoing</unitdate>
+          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/6349/*/http://district2-13.cwa-union.org/" xlink:role="external-link" xlink:show="new" xlink:title="Communications Workers of America, District 2-13" xlink:type="simple">
+            <daodesc>
+              <p>Communications Workers of America, District 2-13</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_13095b667237b8b8864de1b202cf65bb">
+          <head>Scope and Content Note</head>
+          <p>District 2-13 is responsible for servicing all CWA locals in Pennsylvania, Maryland, Delaware, Virginia, West 
+Virginia, and the District of Columbia. Members are employed in many different sectors of the economy 
+including, telecommunications; health care; higher education; manufacturing; broadcast and cable television; 
+commercial printing and newspapers; state, local, and country government. The website contains news listings, bargaining agreements, their political action committee, and event listings.</p>
+        </scopecontent>
+        <phystech id="aspace_e55b5783b6cb53c6d4d9e07a3782877b">
+          <head>Physical Characteristics and Technical Requirements</head>
+          <p>Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text searches of archived websites are available at https://archive-it.org/organizations/567.</p>
+        </phystech>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

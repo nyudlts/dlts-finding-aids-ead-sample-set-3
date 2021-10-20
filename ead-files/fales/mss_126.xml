@@ -1,0 +1,1028 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_126">mss_126</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the IBM European Business Archive<lb/>ca. 1915-1960 (bulk 1933-1945)<lb/> <num>MSS.126</num></titleproper>
+        <author>Bryan O'Keefe, 2009.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 22:07:05 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>IBM European Business Archive</unittitle>
+      <origination label="Creator">
+        <corpname source="naf">International Business Machines Corporation</corpname>
+      </origination>
+      <unitid>MSS.126</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">6 Linear Feet</extent>
+        <extent altrender="carrier">in 14 boxes.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1910/1960" type="inclusive">circa 1910-1960</unitdate>
+      <unitdate datechar="creation" normal="1933/1945" type="bulk">1933-1945</unitdate>
+      <abstract id="aspace_dc0421e440a3d4300543a5c7b3434915">The IBM European Business Archive contains administrative and legal materials documenting the relationship between IBM and its subsidiaries in Germany, with the bulk of the materials deriving from 1933-1945.  Much of the remainder of the collection relates to IBM's subsequent efforts to regain shareholder control of its German subsidiaries and machines after Allied victory.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <arrangement id="aspace_e10ae7c7edabff344e91cffe5eb45d8c">
+      <head>Arrangement</head>
+      <p>The IBM European Business Archive is organized alphabetically by broad subject headings reflecting the original arrangement of the IBM corporate archives. The collection is arranged into three series, retaining the series arrangement it had when it arrived at Fales from IBM Corporate Archives, via the Skirball Department of Hebrew and Judaic Studies at NYU.  New arrangement schemes have only been imposed when large files contained tabbed subfolders, when a volume or pamphlet required its own folder, or when delicate or oversized material demanded removal from the original order.</p>
+      <list type="ordered">
+        <item>Series I: European Office Records</item>
+        <item>Series II: Legal Records</item>
+        <item>Series III: Ledgers</item>
+        <item>Oversize - Series I: European Office Records</item>
+      </list>
+    </arrangement>
+    <bioghist id="aspace_372803deb2b82b97ba57964c4bb759d1">
+      <head>Historical Note</head>
+      <p>International Business Machines Corporation was incorporated in New York State on June 16, 1911 under the name Computing-Tabulating-Recording Co.  In 1922, Computing-Tabulating-Recording Co. purchased all of the shares of Deutsche Hollerith Maschinen Gesellschaft.  In 1924 the official name of the company was changed to International Business Machines Corporation.  In 1933, IBM CEO Thomas Watson ordered the merger of IBM subsidiaries in Germany (Optima, Degemag, Holgemag, Dehomag) under the name Dehomag, granting the company rights to sell Hollerith punch-card machines throughout Europe.</p>
+    </bioghist>
+    <scopecontent id="aspace_2503868ead6ca8676c3c5b508d49c74b">
+      <head>Scope and Content</head>
+      <p>The IBM European Business Archive contains materials related to the functioning of IBM and its German subsidiaries, with an emphasis on documents produced during and after World War II.  At the folder level, materials cover a large date range, often from the early inter-war period to the early nineteen-sixties. <lb/><lb/>
+ 
+The most frequently occurring name in the collection is Willy Heidinger, creator of the firm Deutsche Hollerith Maschinen Gesellschaft (AKA DHMG or Dehomag).  DHMG was a corporation devoted to the manufacture and sale of electronic punch-card devices for census use in Europe; it was eventually incorporated by IBM in 1933.  The majority of the documents in series I and II refer to contested capital restructuring agreements between Heidinger and principal parties in German and American offices of IBM.  Others involved in these disputes include Karl Humell and Hermann Rottke, Dehomag directors who received "loans" from IBM NY to give the appearance of compliance with the Third Reich's "Germanization" policies.  These loan agreements are referenced in documents including Photostat copies of correspondence, original telegrams, and transcripts of phone conversations and other communication.  Many of the documents are present in both German and English versions.  </p>
+      <p>After the war, IBM engaged in recouping all of its Dehomag assets that had been displaced during the war.  Attorney Harrison Chauncey, a chief negotiator for IBM NY, is represented here by travel documents, telegrams, and correspondence describing his visits to Germany to negotiate settlements between IBM and Dehomag representatives.  Newspaper clippings and other ephemera appear <emph render="italic">inter alia</emph>, in their original context.  </p>
+      <p>Accounting procedures for Dehomag are represented in Series III by general ledgers from 1933-1938 from three IBM Germany components (Optima, Gegemag and Dehomag).  Series I contains extensive documentation of IBM's European assets as of the immediate post-war period, including investment recovery data, annual reports, account statements, auditors' reports, and location of rental machines in Europe.</p>
+      <p>SOURCES:</p>
+      <p>Black, E. (2001). <emph render="italic">IBM and the Holocaust: The strategic alliance between Nazi Germany and America's most powerful corporation.</emph> New York: Crown.</p>
+      <p>International Business Machines, Corp.  In <emph render="italic">Business &amp; Company Resource Center</emph>. Retrieved July 24, 2009, from http://galenet.galegroup.com/servlet/
+BCRC?vrsn=unknown&amp;locID=nysl_me_tnypl&amp;srchtp=glbc&amp;cc=1&amp;c=1&amp;mode=c&amp;ste=60&amp;tbst=tsCM&amp;tab=1&amp;ccmp=International+Business+Machines+Corp.&amp;mst=IBM&amp;n=25&amp;bConts=13311&amp;ses=1</p>
+      <p>Dillard, J. (2003, Fall2003). "Professional Services, IBM, and the Holocaust." <emph render="italic">Journal of Information Systems</emph>, 17(2), 1-16. Retrieved July 24, 2009, from Business Source Premier database.</p>
+    </scopecontent>
+    <custodhist id="aspace_5bc2975e3f11716bfc900961c2ff51d2">
+      <head>Provenance</head>
+      <p>The materials were given by the IBM Corporate Archives on "short-term loan" to NYU's Skirball Department of Hebrew and Judaic Studies in 1999. In 2001 the collection was officially donated and transferred to the Fales Library and Special Collections.</p>
+    </custodhist>
+    <accessrestrict id="aspace_c67c5b56a01bac9b5e61bee4d6cdd1ad">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <userestrict id="aspace_bbcb492933dee04ea254bacf7a609a79">
+      <head>Conditions Governing Use</head>
+      <p>Rights (including copyright and related rights to publicity and privacy) to portions of the collection were transferred to New York University. Permission to publish or reproduce materials in this collection must be secured from the Fales Library and Special Collections. Please contact fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <prefercite id="aspace_3bf28bad663791e21af661cabd5b0383">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the
+following form:<lb/><lb/>
+Identification of item,  date (if known); IBM European Business Archive; MSS 126; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="local">Holocaust.</subject>
+      <genreform source="aat">Business records.</genreform>
+      <genreform source="aat">Ledgers (account books)</genreform>
+      <geogname source="lcsh">Germany.</geogname>
+      <subject source="lcsh">World War, 1939-1945 -- Germany.</subject>
+      <genreform source="aat">Legal documents.</genreform>
+      <corpname source="local">Gegemag</corpname>
+      <corpname source="local">Ingemag</corpname>
+      <corpname source="local">Optima</corpname>
+      <persname source="local">Heidinger, Willy</persname>
+      <persname source="local">Chauncey, Harrison</persname>
+      <corpname source="local">Degemag</corpname>
+      <persname source="naf">Watson, Thomas John, 1874-1956</persname>
+      <persname source="local">Rottke, Hermann</persname>
+      <persname source="local">Hummel, Karl</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref1" level="series">
+        <did>
+          <unittitle>Series I: European Office Records</unittitle>
+        </did>
+        <scopecontent id="aspace_62d360621f358fcf8d0ad42957189126">
+          <head>Scope and Content note</head>
+          <p>SERIES I: European Office Records is composed of office records, grouped alphabetically by subject headings.  The bulk of this series is devoted to financial correspondence between the IBM office in New York and IBM subsidiaries in Germany, including Degemag, Dehomag and Optima.</p>
+        </scopecontent>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Auditor's Report Dated May 10, 1947 on an Examination of the Accounts at December 31, 1945</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_688c342a01c486a466c9412dfaea3365" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_87cf0b21a952673f05fe193f4f68c32a" parent="aspace_688c342a01c486a466c9412dfaea3365" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Auditor's Report, 1948</unittitle>
+            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_03511f646c77ceb4b6d02d0d2b18dd8e" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_c49ac365bed5c97e798051bf00d1c895" parent="aspace_03511f646c77ceb4b6d02d0d2b18dd8e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Auditor's Report Dated May 15, 1949 on an Examination of the Tentative Accounts at June, 1948</unittitle>
+            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_1c95fde101f2c9a391d5316c450d82ab" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_7b4f15c077167c537da3f73092b4ef56" parent="aspace_1c95fde101f2c9a391d5316c450d82ab" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Auditor's Report Dated June 20, 1950, on an Examination of the Tentative Accounts at December 31, 1949</unittitle>
+            <unitdate datechar="creation" normal="1949/1950" type="inclusive">1949-1950</unitdate>
+            <container id="aspace_f1033fc1a8ce5d36c9d55306d2e22bba" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_15ae2313ec234c63927f98e33c7b96be" parent="aspace_f1033fc1a8ce5d36c9d55306d2e22bba" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Auditor's Reports of 1950, 1951</unittitle>
+            <unitdate datechar="creation" normal="1950/1951" type="inclusive">1950-1951</unitdate>
+            <container id="aspace_0e5eb6f1863e1dcc8efe320c4a4c46d3" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_71cf6d0064a69464802b408109437970" parent="aspace_0e5eb6f1863e1dcc8efe320c4a4c46d3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Balance Sheets</unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+            <container id="aspace_759bcfdc15945a9c78198b29f3784cdd" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_136f2094793134f1b04248e4c488a30d" parent="aspace_759bcfdc15945a9c78198b29f3784cdd" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Correspondence Related to IBM Property Other Than Dehomag</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_6117fdf4965879f529c5b589ba3d1ace" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_2ef5cda6cf8db5adab643cb33973fba8" parent="aspace_6117fdf4965879f529c5b589ba3d1ace" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Correspondence Related to Recovery of Possession and Control of IBM Interests in Germany</unittitle>
+            <unitdate datechar="creation" normal="1945/1946" type="inclusive">1945-1946</unitdate>
+            <container id="aspace_f831bb799d348d9ea853a2111b726264" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_bbea42983c209f0b86830d07e082d1a8" parent="aspace_f831bb799d348d9ea853a2111b726264" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Dehomag Account Statements - IBM Offices Outside Germany</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_a81f1462ebf67b5438703ead3e18102f" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_066c4368d6c6ca1b96ee4079349d0f0a" parent="aspace_a81f1462ebf67b5438703ead3e18102f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Dehomag Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_0e67cbda64a512caac666fc3213e647f" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_ec411ba61015e8122baaf6996a989c5e" parent="aspace_0e67cbda64a512caac666fc3213e647f" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Dehomag Tax Situation</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_cb2a7d0d67d1d3f280472ec6a4d6a8f6" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_4fae10f69645c285fec729a1d4f762a0" parent="aspace_cb2a7d0d67d1d3f280472ec6a4d6a8f6" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Directors, Officers, Principal Managers of Dehomag as on December 31, 1946</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_7085b9f1e66bb6c769667ca22c3fc462" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_f7c45d7e54c7ada21c2fcbfa9c02917c" parent="aspace_7085b9f1e66bb6c769667ca22c3fc462" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Explanations as to Comparative Balance Sheet and Statement of Proofit and Loss</unittitle>
+            <unitdate datechar="creation" normal="1949/1950" type="inclusive">1949-1950</unitdate>
+            <container id="aspace_6a4fc19d505573b3dc3c4f27bb09e02d" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_31b85666ee733fb4af8a9e6b30ba8ce0" parent="aspace_6a4fc19d505573b3dc3c4f27bb09e02d" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: List of Plants, Sales, and Administrative Offices of Dehomag</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_56922b99a5ea8738a57c75594b48dc39" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_040a8ed9f889e71ba467fefc51be8503" parent="aspace_56922b99a5ea8738a57c75594b48dc39" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Material for the Calculation of Value of Minority Interest: Heidinger, Hummel, Rottke</unittitle>
+            <container id="aspace_b5e3c5127aa6ec6b4f41d69e14f610b9" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_be9030d7e422eda9b9bb7d667f0a0cd7" parent="aspace_b5e3c5127aa6ec6b4f41d69e14f610b9" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Pre-War Rental Equipment</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_017352dea1687a726f553b38d68e9b05" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_0a220910a647ee49d8cb4688591fe3f9" parent="aspace_017352dea1687a726f553b38d68e9b05" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Registration of American-Owned Property</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container id="aspace_0ea336fb98eae1c859033238f7d65bde" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_e9a349de5e6817102a029767582b6f0f" parent="aspace_0ea336fb98eae1c859033238f7d65bde" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Report on Dehomag Operating Methods</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_507a1757274dfe534531cdd5a08496d4" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_3470e7ca1bac83270450381a05a6b87c" parent="aspace_507a1757274dfe534531cdd5a08496d4" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Conditions as of December 31, 1946: Stockholders of Dehomag, Documents Related to Capital Correction</unittitle>
+            <unitdate datechar="creation" normal="1941/1947" type="inclusive">1941-1947</unitdate>
+            <container id="aspace_7e99acb06e406f94beec4dd89f586f24" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_6499607ed660fcf148cf4c07ff58e66c" parent="aspace_7e99acb06e406f94beec4dd89f586f24" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Correspondence and Memoranda</unittitle>
+            <unitdate datechar="creation" normal="1941/1946" type="inclusive">1941-1946</unitdate>
+            <container id="aspace_d02c24c441ca968d9f06af3a9f9fdc3a" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_b26eb3f45879dfe3bd435b3a66bf4004" parent="aspace_d02c24c441ca968d9f06af3a9f9fdc3a" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Decontrol of IBM Interests in Germany</unittitle>
+            <unitdate datechar="creation" normal="1947/1951" type="inclusive">1947-1951</unitdate>
+            <container id="aspace_0a0d4e759c7bf589ba2dff8f458c71c8" label="Mixed Materials [31142054871408]" type="Box">1</container>
+            <container id="aspace_04e599d0607de9950b1c9677e2e9fd3c" parent="aspace_0a0d4e759c7bf589ba2dff8f458c71c8" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Hummel and Rottke Loan Accounts - Divident Prepaid to Heidinger</unittitle>
+            <unitdate datechar="creation" normal="1938/1940" type="inclusive">1938-1940</unitdate>
+            <container id="aspace_0178a90b74ae7a3930dde6f004d9dcec" label="Mixed Materials [31142054871416]" type="Box">2</container>
+            <container id="aspace_277caf4dccd6a70f291241773b0bb5ca" parent="aspace_0178a90b74ae7a3930dde6f004d9dcec" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Inter-Company Account (1 of 2)</unittitle>
+            <unitdate datechar="creation" normal="1949/1950" type="inclusive">1949-1950</unitdate>
+            <container id="aspace_5dfe70169a0a60477cc237f95e526d9d" label="Mixed Materials [31142054871416]" type="Box">2</container>
+            <container id="aspace_efd18cd27b493674ee4d59a080fe5942" parent="aspace_5dfe70169a0a60477cc237f95e526d9d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Inter-Company Account (2 of 2)</unittitle>
+            <unitdate datechar="creation" normal="1948/1951" type="inclusive">1948-1951</unitdate>
+            <container id="aspace_b75ac9ab72cb29af759cfb86a5ff4961" label="Mixed Materials [31142054871416]" type="Box">2</container>
+            <container id="aspace_909de4587ca0c0b0a507f2949bd93656" parent="aspace_b75ac9ab72cb29af759cfb86a5ff4961" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Inter-Company Account Reconciliations</unittitle>
+            <unitdate datechar="creation" normal="1940/1942" type="inclusive">1940-1942</unitdate>
+            <container id="aspace_a928ae487af51af6bdd40c453326e185" label="Mixed Materials [31142054871416]" type="Box">2</container>
+            <container id="aspace_8e926f0424f3b3b9d964bf53fb7a2833" parent="aspace_a928ae487af51af6bdd40c453326e185" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>International Business Machines Corporation, New York: General Report and Enclosures 1-4</unittitle>
+            <unitdate datechar="creation" normal="1945/1956" type="inclusive">1945-1946</unitdate>
+            <container id="aspace_3f2c79d44f3453607a562509a912bf59" label="Mixed Materials [31142054871416]" type="Box">2</container>
+            <container id="aspace_c43d5f88913c3a5f97e6ce9294b4f77e" parent="aspace_3f2c79d44f3453607a562509a912bf59" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>International Business Machines Corporation, New York: General Report Enclosure, 5-7</unittitle>
+            <unitdate datechar="creation" normal="1944/1945" type="inclusive">1944-1945</unitdate>
+            <container id="aspace_f5d41d0c410bdd53d7f6786fcb922bf0" label="Mixed Materials [31142054871416]" type="Box">2</container>
+            <container id="aspace_844e7b8964dd1d211aacf602163e3113" parent="aspace_f5d41d0c410bdd53d7f6786fcb922bf0" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Investment Recovered</unittitle>
+            <unitdate datechar="creation" normal="1948/1953" type="inclusive">1948-1953</unitdate>
+            <container id="aspace_b77078286892f8a436a25f094f9a75b1" label="Mixed Materials [31142054871416]" type="Box">2</container>
+            <container id="aspace_edf9c67f47d95b696bc510a04d2eef7c" parent="aspace_b77078286892f8a436a25f094f9a75b1" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Investment Recovery Data (1 of 4)</unittitle>
+            <unitdate datechar="creation" normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_d93bd7a383f20f9bc33c8bb5e880278d" label="Mixed Materials [31142054871416]" type="Box">2</container>
+            <container id="aspace_16376f29a727d92a5ebfc771b4d5ca6b" parent="aspace_d93bd7a383f20f9bc33c8bb5e880278d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Investment Recovery Data (2 of 4)</unittitle>
+            <unitdate datechar="creation" normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_806f06f2186dbddc73df687aa98c8482" label="Mixed Materials [31142054871416]" type="Box">2</container>
+            <container id="aspace_b142fed34e6841d1aeecfddd70b86ffc" parent="aspace_806f06f2186dbddc73df687aa98c8482" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Investment Recovery Data (3 of 4)</unittitle>
+            <unitdate datechar="creation" normal="1940/1949" type="inclusive">1940-1949</unitdate>
+            <container id="aspace_6b51a6dfacae0b28855415cc4799e310" label="Mixed Materials [31142054871416]" type="Box">2</container>
+            <container id="aspace_89a66c1d5615414ab925187e4ccc56aa" parent="aspace_6b51a6dfacae0b28855415cc4799e310" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Investment Recovery Data (4 of 4)
+</unittitle>
+            <unitdate datechar="creation" normal="1946/1949" type="inclusive">1946-1949</unitdate>
+            <container id="aspace_c7794b5c6c6bf38ee554cd59a00ea947" label="Mixed Materials [31142054871424]" type="Box">3</container>
+            <container id="aspace_27b1ede9f410721195d22a5af3ce5672" parent="aspace_c7794b5c6c6bf38ee554cd59a00ea947" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Investment Recovery Data/Investment Analysis</unittitle>
+            <unitdate datechar="creation" normal="1939/1949" type="inclusive">1939-1949</unitdate>
+            <container id="aspace_1ac0f53101a189bb817e3dd6f5479b73" label="Mixed Materials [31142054871424]" type="Box">3</container>
+            <container id="aspace_a42fb9f75d7d619853badd223b4aa8db" parent="aspace_1ac0f53101a189bb817e3dd6f5479b73" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>National Region Trade Council, Inc. (1 of 2)</unittitle>
+            <unitdate datechar="creation" normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container id="aspace_d6cdb69a69955145a6c1d603325e24d7" label="Mixed Materials [31142054871424]" type="Box">3</container>
+            <container id="aspace_440eb771069aaa2cc9500cbafe23e984" parent="aspace_d6cdb69a69955145a6c1d603325e24d7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>National Region Trade Council, Inc. (2 of 2)</unittitle>
+            <unitdate datechar="creation" normal="1948/1951" type="inclusive">1948-1951</unitdate>
+            <container id="aspace_a0d5722c8bfdab82c49beaa6a920a912" label="Mixed Materials [31142054871424]" type="Box">3</container>
+            <container id="aspace_1187e61b197292c11234a77dd789e563" parent="aspace_a0d5722c8bfdab82c49beaa6a920a912" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>New York Goods Account Statement</unittitle>
+            <unitdate datechar="creation" normal="1940/1951" type="inclusive">1940-1951</unitdate>
+            <container id="aspace_cf7e2a58ce8918d159fa5948b68d0686" label="Mixed Materials [31142054871424]" type="Box">3</container>
+            <container id="aspace_e85accdae8e28f39d7f3f686597ea482" parent="aspace_cf7e2a58ce8918d159fa5948b68d0686" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Rental Machines</unittitle>
+            <unitdate datechar="creation" normal="1945/1950" type="inclusive">1945-1950</unitdate>
+            <container id="aspace_a13328579ec599d2e466f7a0949470f1" label="Mixed Materials [31142054871424]" type="Box">3</container>
+            <container id="aspace_ae89aafd7168d1d38368724271a10cfb" parent="aspace_a13328579ec599d2e466f7a0949470f1" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Reports to Military Authorities</unittitle>
+            <unitdate datechar="creation" normal="1945/1947" type="inclusive">1945-1947</unitdate>
+            <container id="aspace_560b651b01f922fe13a38f8c59dcd80d" label="Mixed Materials [31142054871424]" type="Box">3</container>
+            <container id="aspace_62ca8e1744a8090db8f8426d577eb0e2" parent="aspace_560b651b01f922fe13a38f8c59dcd80d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Saar Territory</unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+            <container id="aspace_2a0e1c15b2e939da2605e22e86e2eb33" label="Mixed Materials [31142054871424]" type="Box">3</container>
+            <container id="aspace_3061cf7c59a9ac3c766f5b44fc3e48b5" parent="aspace_2a0e1c15b2e939da2605e22e86e2eb33" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Special Reports-New York</unittitle>
+            <unitdate datechar="creation" normal="1945/1957" type="inclusive">1945-1957</unitdate>
+            <container id="aspace_590c32bbf03d0ca892dff4f968808af8" label="Mixed Materials [31142054871424]" type="Box">3</container>
+            <container id="aspace_82beec0a2d664795110ba273a28e0bca" parent="aspace_590c32bbf03d0ca892dff4f968808af8" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref57" level="series">
+        <did>
+          <unittitle>Series II: Legal Records</unittitle>
+        </did>
+        <scopecontent id="aspace_d9da94b666c8b27ecc3b75f4ce4839e3">
+          <head>Scope and Content note</head>
+          <p>SERIES II: Legal Records is composed of Legal Records containing documentary evidence of transactions between IBM and its subsidiaries, including telephone transcripts, telegrams and letters.</p>
+        </scopecontent>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Annual Report: "Deutsche Bank und Disconto-Gesellschaft"</unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container id="aspace_1f6f28b10285798ffdf35100df3804be" label="Mixed Materials [31142054871432]" type="Box">4</container>
+            <container id="aspace_e3bf5b54413bac513dbd6a04c8050b24" parent="aspace_1f6f28b10285798ffdf35100df3804be" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Bulletins, Opinions, Revelations, Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1932/1966" type="inclusive">1932-1966</unitdate>
+            <container id="aspace_def9687d10092528a5b4f4be7ab88462" label="Mixed Materials [31142054871432]" type="Box">4</container>
+            <container id="aspace_5b31d416e434fb01816fda4845ae6c7a" parent="aspace_def9687d10092528a5b4f4be7ab88462" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Capitalization and Incorporation: Degemag</unittitle>
+            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_7a7def7a5ac9ff3afca1f423fd54c8a9" label="Mixed Materials [31142054871432]" type="Box">4</container>
+            <container id="aspace_b6bf9283b5bcbe397cc7e6b383d6f1d5" parent="aspace_7a7def7a5ac9ff3afca1f423fd54c8a9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Capitalization and Incorporation: "Gesellschaft für Geschaftmaschinen"</unittitle>
+            <unitdate datechar="creation" normal="1910/1951" type="inclusive">1910-1951</unitdate>
+            <container id="aspace_7ef8ef3ae1480ea2835cf9b3584220eb" label="Mixed Materials [31142054871432]" type="Box">4</container>
+            <container id="aspace_6664918db0c299f0959079e6df947997" parent="aspace_7ef8ef3ae1480ea2835cf9b3584220eb" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Capitalization and Incorporation: Ingemag</unittitle>
+            <unitdate datechar="creation" normal="1910/1951" type="inclusive">1910-1951</unitdate>
+            <container id="aspace_1f18d65c2459d64e028771b56b10f879" label="Mixed Materials [31142054871432]" type="Box">4</container>
+            <container id="aspace_ecbcec2071b651d858237124825eda74" parent="aspace_1f18d65c2459d64e028771b56b10f879" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Capitalization and Incorporation: "New" Dehomag</unittitle>
+            <unitdate datechar="creation" normal="1910/1951" type="inclusive">1910-1951</unitdate>
+            <container id="aspace_a5c8ce574aee22f62bb34eb8aa2babe7" label="Mixed Materials [31142054871432]" type="Box">4</container>
+            <container id="aspace_1d929a764c1cdf2dbc338d4e2a6367ff" parent="aspace_a5c8ce574aee22f62bb34eb8aa2babe7" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Capitalization and Incorporation: "Old" Dehomag</unittitle>
+            <unitdate datechar="creation" normal="1910/1951" type="inclusive">1910-1951</unitdate>
+            <container id="aspace_e0f278c1fe16fc49d969ca0680bbad2a" label="Mixed Materials [31142054871432]" type="Box">4</container>
+            <container id="aspace_9b5e38ef26b3c30ea4a4624954a8cc03" parent="aspace_e0f278c1fe16fc49d969ca0680bbad2a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Capitalization and Incorporation: Optima</unittitle>
+            <unitdate datechar="creation" normal="1910/1951" type="inclusive">1910-1951</unitdate>
+            <container id="aspace_293183d2dd4ff2136e5bb824f877c9f2" label="Mixed Materials [31142054871432]" type="Box">4</container>
+            <container id="aspace_63623ccb7948589b860bf7e3d93dce31" parent="aspace_293183d2dd4ff2136e5bb824f877c9f2" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Correspondence: Heidinger, et al, Shareholdings</unittitle>
+            <unitdate datechar="creation" normal="1940/1955" type="inclusive">1940-1955</unitdate>
+            <container id="aspace_f6dc32ff62092f19cb4de5f55c7a527b" label="Mixed Materials [31142054871432]" type="Box">4</container>
+            <container id="aspace_ad8a394ff7400f1962c112025cc3aa3e" parent="aspace_f6dc32ff62092f19cb4de5f55c7a527b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Correspondence and Phone Conversations: Chauncey, Heidinger Share Transfer</unittitle>
+            <unitdate datechar="creation" normal="1940/1941" type="inclusive">1940-1941</unitdate>
+            <container id="aspace_9a45437aab9286490a4e87fcc93460a5" label="Mixed Materials [31142054871432]" type="Box">4</container>
+            <container id="aspace_a55ab55deb40ad60047743d4d4d2b1f4" parent="aspace_9a45437aab9286490a4e87fcc93460a5" type="Folder">10</container>
+          </did>
+          <arrangement id="aspace_fb9d195ba9a1f0bc1d1342caf77da3c9">
+            <head>IBM European Business Archive</head>
+            <p>The IBM European Business Archive is arranged alphabetically within three series, as the collection appeared when it arrived at Fales.  New arrangement schemes have only been imposed when large files contained tabbed subfolders, when a volume or pamphlet required its own folder, or when delicate or oversized material demanded separation from the original order.</p>
+            <p>SERIES I is composed of European Office Records, grouped alphabetically by subject headings.  The bulk of this series is devoted to financial correspondence between the IBM office in New York and IBM subsidiaries in Germany, including Degemag, Dehomag and Optima.  </p>
+            <p>SERIES II is composed of Legal Records containing documentary evidence of transactions between IBM and its subsidiaries, including telephone transcripts, telegrams and letters.</p>
+            <p>SERIES III comprises business ledgers from IBM Germany: Degemag, Dehomag and Optima.</p>
+          </arrangement>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Correspondence Related to Shareholdings</unittitle>
+            <unitdate datechar="creation" normal="1922/1957" type="inclusive">1922-1957</unitdate>
+            <container id="aspace_748a4d1c296e3a8def14ed16c6304c0a" label="Mixed Materials [31142054871432]" type="Box">4</container>
+            <container id="aspace_cfcc4da70a7e0ba05ba4fa87fe99d2d2" parent="aspace_748a4d1c296e3a8def14ed16c6304c0a" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Dividend Policy (Willy Heidinger): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1914/1938" type="inclusive">1914-1938</unitdate>
+            <container id="aspace_1685c24b6dcdcbb029396239c27c5774" label="Mixed Materials [31142054871440]" type="Box">5</container>
+            <container id="aspace_dc06cbced8607b9c90ae922d3e197301" parent="aspace_1685c24b6dcdcbb029396239c27c5774" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Financial Statements, Reports and Correspondence: Dehomag (1 of 3)</unittitle>
+            <unitdate datechar="creation" normal="1940/1948" type="inclusive">1940-1948</unitdate>
+            <container id="aspace_4f4c7a72c48051c826c013704feb6d95" label="Mixed Materials [31142054871440]" type="Box">5</container>
+            <container id="aspace_9c1a406be19ad3844c9180ec89d4ac48" parent="aspace_4f4c7a72c48051c826c013704feb6d95" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Financial Statements, Reports and Correspondence: Dehomag (2 of 3)</unittitle>
+            <unitdate datechar="creation" normal="1940/1948" type="inclusive">1940-1948</unitdate>
+            <container id="aspace_e8235e4de6549e5edf9633f5957e809e" label="Mixed Materials [31142054871440]" type="Box">5</container>
+            <container id="aspace_5b2380f60391f2524ba8db70779f0ee8" parent="aspace_e8235e4de6549e5edf9633f5957e809e" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Financial Statements, Reports and Correspondence: Dehomag (3 of 3)</unittitle>
+            <unitdate datechar="creation" normal="1914/1939" type="inclusive">1914-1939</unitdate>
+            <container id="aspace_07b45c78298200d7b04d100287e2d906" label="Mixed Materials [31142054871440]" type="Box">5</container>
+            <container id="aspace_9460b4fb70c1edefda20f8bda933e4b1" parent="aspace_07b45c78298200d7b04d100287e2d906" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Incorporation: Bylaws and Charter: Degemag</unittitle>
+            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_c558dce7e716cc022bbbb15c3ed1d85f" label="Mixed Materials [31142054871440]" type="Box">5</container>
+            <container id="aspace_5c9c131bcf9986a6d134448b055688c2" parent="aspace_c558dce7e716cc022bbbb15c3ed1d85f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Incorporation: Bylaws and Charter: Gesellschaft fur Geschaftsmaschinen</unittitle>
+            <unitdate datechar="creation" normal="1910/1958" type="inclusive">1910-1958</unitdate>
+            <container id="aspace_2fcdbd12ea566ebe2f7f83ef087a96d7" label="Mixed Materials [31142054871440]" type="Box">5</container>
+            <container id="aspace_810aae7c241370636ccf71c532c74ff9" parent="aspace_2fcdbd12ea566ebe2f7f83ef087a96d7" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Incorporation: Bylaws and Charter: Gesellschaft fur Geschaftsmaschinen - Bundesgesetzblatt</unittitle>
+            <unitdate datechar="creation" normal="1910/1958" type="inclusive">1910-1958</unitdate>
+            <container id="aspace_77c5eb10d2ab2c1e2fd607db5173364f" label="Mixed Materials [31142054871440]" type="Box">5</container>
+            <container id="aspace_cc7121566b2ae5479a20ab7b120bb0f8" parent="aspace_77c5eb10d2ab2c1e2fd607db5173364f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Incorporation: Bylaws and Charter: Ingemag</unittitle>
+            <unitdate datechar="creation" normal="1910/1959" type="inclusive">1910-1959</unitdate>
+            <container id="aspace_82de8cab144bc8c2eeb3a5c38a9af061" label="Mixed Materials [31142054871440]" type="Box">5</container>
+            <container id="aspace_7693685ae52548bf82f5f0e9437b5260" parent="aspace_82de8cab144bc8c2eeb3a5c38a9af061" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Incorporation: Bylaws and Charter: "New" Dehomag</unittitle>
+            <unitdate datechar="creation" normal="1910/1958" type="inclusive">1910-1958</unitdate>
+            <container id="aspace_715856eae4aa5089e2a1e8d63670d6d3" label="Mixed Materials [31142054871440]" type="Box">5</container>
+            <container id="aspace_e2205704394b5fe164ded9a9a7545274" parent="aspace_715856eae4aa5089e2a1e8d63670d6d3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Incorporation: Bylaws and Charter: "Old" Dehomag</unittitle>
+            <unitdate datechar="creation" normal="1910/1959" type="inclusive">1910-1959</unitdate>
+            <container id="aspace_322ae9750fd5145d0c4211c4114f4775" label="Mixed Materials [31142054871440]" type="Box">5</container>
+            <container id="aspace_4e7d163b3ccfb8e09fea0d2a78301189" parent="aspace_322ae9750fd5145d0c4211c4114f4775" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Incorporation: Bylaws and Charter: Optima</unittitle>
+            <unitdate datechar="creation" normal="1910/1959" type="inclusive">1910-1959</unitdate>
+            <container id="aspace_3291648d94ea99406e8d6cb97fc1ce95" label="Mixed Materials [31142054871440]" type="Box">5</container>
+            <container id="aspace_71f21e1aa35d289c0ef4d081768a7573" parent="aspace_3291648d94ea99406e8d6cb97fc1ce95" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Incorporation: Correspondence Re: Mergers</unittitle>
+            <unitdate datechar="creation" normal="1932/1938" type="inclusive">1932-1938</unitdate>
+            <container id="aspace_10a691f4bd685381229dd44c0583ca74" label="Mixed Materials [31142054871440]" type="Box">5</container>
+            <container id="aspace_b4249ee022fb07e0794ab980afc508b3" parent="aspace_10a691f4bd685381229dd44c0583ca74" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Incorporation: Documents Related to Corporate Name Change</unittitle>
+            <unitdate datechar="creation" normal="1934/1960" type="inclusive">1934-1960</unitdate>
+            <container id="aspace_6b7cefaf22a70d67edbef86269ba0d80" label="Mixed Materials [31142054871440]" type="Box">5</container>
+            <container id="aspace_7fec19165b0bcced3a775f22f0192e37" parent="aspace_6b7cefaf22a70d67edbef86269ba0d80" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Incorporation: General Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1934/1960" type="inclusive">1934-1960</unitdate>
+            <container id="aspace_876c535e45d4c497f569808ed7d28443" label="Mixed Materials [31142054871457]" type="Box">6</container>
+            <container id="aspace_67dfbbbc0828c3ef26080cd93035bb01" parent="aspace_876c535e45d4c497f569808ed7d28443" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Incorporation: Merger Documents (English Translation)</unittitle>
+            <unitdate datechar="creation" normal="1910/1941" type="inclusive">1910-1941</unitdate>
+            <container id="aspace_9032024229ab8cef60e77c2cbc1d011a" label="Mixed Materials [31142054871457]" type="Box">6</container>
+            <container id="aspace_7b584dde7dd9f2638fcd1427a6357ab2" parent="aspace_9032024229ab8cef60e77c2cbc1d011a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Incorporation: Merger Documents (German Text)</unittitle>
+            <unitdate datechar="creation" normal="1910/1941" type="inclusive">1910-1941</unitdate>
+            <langmaterial><language langcode="ger">German</language>.</langmaterial>
+            <container id="aspace_f88be0adc9e2378b1d9ff1a0c3de5e4e" label="Mixed Materials [31142054871457]" type="Box">6</container>
+            <container id="aspace_bc761abe768c0b7cc97f77a115df5bc6" parent="aspace_f88be0adc9e2378b1d9ff1a0c3de5e4e" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Loan Agreement, Miscellaneous Documents (Karl Hummel, Willy Heidinger, Hermann Rottke)</unittitle>
+            <unitdate datechar="creation" normal="1937/1953" type="inclusive">1937-1953</unitdate>
+            <container id="aspace_d86f7b160aca70a7f942b19e0c215877" label="Mixed Materials [31142054871457]" type="Box">6</container>
+            <container id="aspace_d778b1df30eddfa5f07f74849b494807" parent="aspace_d86f7b160aca70a7f942b19e0c215877" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Machines: Customer Engineering Service, U.S. Military Installations</unittitle>
+            <unitdate datechar="creation" normal="1946/1950" type="inclusive">1946-1950</unitdate>
+            <container id="aspace_2166b500d2443e96c184e84acbf3b36c" label="Mixed Materials [31142054871457]" type="Box">6</container>
+            <container id="aspace_f0b081f7daa8e8e1582afa9ca1bd83fa" parent="aspace_2166b500d2443e96c184e84acbf3b36c" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Machines: "Der Rechenlocher Type II" Publication</unittitle>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">c. 1945</unitdate>
+            <container id="aspace_faec4662fa9a4fdaa2eff388abc05a50" label="Mixed Materials [31142054871457]" type="Box">6</container>
+            <container id="aspace_c74a48bd770d909bb634eb0e02f0f398" parent="aspace_faec4662fa9a4fdaa2eff388abc05a50" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Machines, Manufacturing and Shipping: Documents and Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1935/1950" type="inclusive">1935-1950</unitdate>
+            <container id="aspace_b54bf3fa03c372748b137caa9ad6a1af" label="Mixed Materials [31142054871457]" type="Box">6</container>
+            <container id="aspace_21e6b8cb96148fb21037d2bede8065f2" parent="aspace_b54bf3fa03c372748b137caa9ad6a1af" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Minutes of the Regular Shareholders' Meetings</unittitle>
+            <unitdate datechar="creation" normal="1934/1960" type="inclusive">1934-1960</unitdate>
+            <container id="aspace_4ded05d076032462e71a218623292f7a" label="Mixed Materials [31142054871457]" type="Box">6</container>
+            <container id="aspace_775c63a88797890aa913498e203eba09" parent="aspace_4ded05d076032462e71a218623292f7a" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Miscellaneous Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1941/1968" type="inclusive">1941-1968</unitdate>
+            <container id="aspace_9c5e7859e2f261832dea09111df28ae8" label="Mixed Materials [31142054871465]" type="Box">7</container>
+            <container id="aspace_ebbc5435a8bcf2cfe6da1f57bb83fcf1" parent="aspace_9c5e7859e2f261832dea09111df28ae8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Miscellaneous Documents, Reports on Business Travel: (Harrison K. Chauncey)</unittitle>
+            <unitdate datechar="creation" normal="1940/1948" type="inclusive">1940-1948</unitdate>
+            <container id="aspace_2162a7ea1d8b14b5a9f7cae82623b1f0" label="Mixed Materials [31142054871465]" type="Box">7</container>
+            <container id="aspace_98d5a5a3fe561fd1e74c0c4cb3d5971e" parent="aspace_2162a7ea1d8b14b5a9f7cae82623b1f0" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Price Lists and Related Correspondence (1 of 2)</unittitle>
+            <unitdate datechar="creation" normal="1938/1948" type="inclusive">1938-1948</unitdate>
+            <container id="aspace_49541f443e1ae60dcd09217a9b44f75a" label="Mixed Materials [31142054871465]" type="Box">7</container>
+            <container id="aspace_4df7a0964444a16241ea0330bdb740fa" parent="aspace_49541f443e1ae60dcd09217a9b44f75a" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>Price Lists and Related Correspondence (2 of 2)</unittitle>
+            <container id="aspace_987463979b89ff844de6b05a6559a7fc" label="Mixed Materials [31142054871465]" type="Box">7</container>
+            <container id="aspace_e18b12588dfb1f598dfe2a0436814036" parent="aspace_987463979b89ff844de6b05a6559a7fc" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Rental Machines: Documents and Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1935/1950" type="inclusive">1935-1950</unitdate>
+            <container id="aspace_d6ff7275006e47cd0e6a21a25d8de6c9" label="Mixed Materials [31142054871465]" type="Box">7</container>
+            <container id="aspace_dbf285abf152f5f78b0180f0e4745adf" parent="aspace_d6ff7275006e47cd0e6a21a25d8de6c9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Rottke, Hermann: Loan Agreement</unittitle>
+            <unitdate datechar="creation" normal="1937/1953" type="inclusive">1937-1953</unitdate>
+            <container id="aspace_0b61c40f135a7df9856ddd4634ceaeb5" label="Mixed Materials [31142054871465]" type="Box">7</container>
+            <container id="aspace_8a7d745da29988ef9a3676b43612ce3e" parent="aspace_0b61c40f135a7df9856ddd4634ceaeb5" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Share Transfer Drafts: Heidinger, et al.</unittitle>
+            <unitdate datechar="creation" normal="1937/1953" type="inclusive">1937-1953</unitdate>
+            <container id="aspace_15fba2ed0fbd50e48a0b0ad32cd186ea" label="Mixed Materials [31142054871465]" type="Box">7</container>
+            <container id="aspace_68124f17c956ae009d5544c09fc4520e" parent="aspace_15fba2ed0fbd50e48a0b0ad32cd186ea" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Shareholdings: Documentary Evidence (Exhibits 1-7)</unittitle>
+            <unitdate datechar="creation" normal="1922/1958" type="inclusive">1922-1958</unitdate>
+            <container id="aspace_e1a136e21ae0416535ea6ef11f4eebfd" label="Mixed Materials [31142054871465]" type="Box">7</container>
+            <container id="aspace_bc379dea750684b9e869f13477419b67" parent="aspace_e1a136e21ae0416535ea6ef11f4eebfd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Shareholdings: Documentary Evidence (Exhibits 8-16)</unittitle>
+            <unitdate datechar="creation" normal="1922/1958" type="inclusive">1922-1958</unitdate>
+            <container id="aspace_c8235871e5c8c29809de02f84dcd7beb" label="Mixed Materials [31142054871465]" type="Box">7</container>
+            <container id="aspace_8e830e24ad598f27cd5e042d690845da" parent="aspace_c8235871e5c8c29809de02f84dcd7beb" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Shareholdings: Documentary Evidence: "Gesellschaft fur Elektrische Unternehmungen Aktiengesellschaft" Annual Report</unittitle>
+            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+            <container id="aspace_ff8045712b3ea908baab1e51f90086ed" label="Mixed Materials [31142054871473]" type="Box">8</container>
+            <container id="aspace_b036f98827a59faa3a2d36aacdc69952" parent="aspace_ff8045712b3ea908baab1e51f90086ed" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Shareholdings: Documentary Evidence: Unexecuted Affidavit</unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+            <container id="aspace_310fc56b0b92315b914c229a896a837d" label="Mixed Materials [31142054871473]" type="Box">8</container>
+            <container id="aspace_5ca4aa4ab2a1ad966b2c639fb24c5f0c" parent="aspace_310fc56b0b92315b914c229a896a837d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Shareholdings: Documentary Evidence, Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1940/1941" type="inclusive">1940-1941</unitdate>
+            <container id="aspace_3c6a2b09e718321cd39bc1ee85e99278" label="Mixed Materials [31142054871473]" type="Box">8</container>
+            <container id="aspace_da9a0fd9e72971c32102a365e437422b" parent="aspace_3c6a2b09e718321cd39bc1ee85e99278" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Taxes and Related Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1932/1967" type="inclusive">1932-1967</unitdate>
+            <container id="aspace_17491ee8147a6fea19d047c851fe9367" label="Mixed Materials [31142054871473]" type="Box">8</container>
+            <container id="aspace_d8df280540ac073cef550d0d42216dcd" parent="aspace_17491ee8147a6fea19d047c851fe9367" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Trademark Agreement: Electromatic Typewriters and Mercedes Euromaschinen-Werke Aktiengesellschaft</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container id="aspace_7111556642d0de6fb1a074940b4185e6" label="Mixed Materials [31142054871473]" type="Box">8</container>
+            <container id="aspace_fab3670739739e1d07afeb01df70aaa6" parent="aspace_7111556642d0de6fb1a074940b4185e6" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Trademarks and Copyrights</unittitle>
+            <unitdate datechar="creation" normal="1914/1958" type="inclusive">1914-1958</unitdate>
+            <container id="aspace_30001bac66520e22f45e20952b02d78f" label="Mixed Materials [31142054871473]" type="Box">8</container>
+            <container id="aspace_ef2a3bce9d689cd1774e4293b2e0b92b" parent="aspace_30001bac66520e22f45e20952b02d78f" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref117" level="series">
+        <did>
+          <unittitle>Series III: Ledgers</unittitle>
+        </did>
+        <scopecontent id="aspace_dfee8c2714f5988c7615cee8dea46361">
+          <head>Scope and Content note</head>
+          <p>SERIES III: Ledgers comprises business ledgers from IBM Germany: Degemag, Dehomag and Optima. Due to the deterioration of the bindings of the ledgers, their pages have been removed and housed in folders.</p>
+        </scopecontent>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Degemag 1933</unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_98ccedc4c4de5334028997efde8a8e80" label="Mixed Materials [31142054900363]" type="Box">9</container>
+            <container id="aspace_7f0dc462097d1399f596999283258a35" parent="aspace_98ccedc4c4de5334028997efde8a8e80" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Degemag 1934</unittitle>
+            <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_dbdf64f97caebda4b1643dcff0ce463a" label="Mixed Materials [31142054900363]" type="Box">9</container>
+            <container id="aspace_10c573695243e59d41d6f15c86f2dd03" parent="aspace_dbdf64f97caebda4b1643dcff0ce463a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Germany Degemag 1935</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_3dc019ff4a850fb2a5f4cd069259ff18" label="Mixed Materials [31142054900363]" type="Box">9</container>
+            <container id="aspace_a3ef56234dbed33e9e63aced1e7ff61a" parent="aspace_3dc019ff4a850fb2a5f4cd069259ff18" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Germany Degemag 1936</unittitle>
+            <unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_085cec586be54ab1d4e73f1b4481959d" label="Mixed Materials [31142054900363]" type="Box">9</container>
+            <container id="aspace_e779009324e2453561986659a05202a9" parent="aspace_085cec586be54ab1d4e73f1b4481959d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>Degemag 1937</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_59ab81134ac29ac370fad7779955129a" label="Mixed Materials [31142054900371]" type="Box">10</container>
+            <container id="aspace_3ff2e6a3d4e1e8c854328090b00e69b5" parent="aspace_59ab81134ac29ac370fad7779955129a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Degemag 1938</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_af12f9e70ffc2e1d5aa3d3ce6abe259b" label="Mixed Materials [31142054900371]" type="Box">10</container>
+            <container id="aspace_e9b0e3e5775c3e25b310fa6696f958b8" parent="aspace_af12f9e70ffc2e1d5aa3d3ce6abe259b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Dehomag 1933</unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_e301166d0dad0d8377a240bfc6f1a812" label="Mixed Materials [31142054900371]" type="Box">10</container>
+            <container id="aspace_defd2b8adb3b3c80ac8883db5a7a5465" parent="aspace_e301166d0dad0d8377a240bfc6f1a812" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>Dehomag 1934</unittitle>
+            <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_b12e06a944fdc34061f8bfae343e4e34" label="Mixed Materials [31142054900371]" type="Box">10</container>
+            <container id="aspace_3fa715648808897b75d518d08d83c843" parent="aspace_b12e06a944fdc34061f8bfae343e4e34" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>Germany Dehomag 1935</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_d6a866a5b390242d8a1e61f77d41d35a" label="Mixed Materials [31142054900389]" type="Box">11</container>
+            <container id="aspace_5143b98f8cdcd53b6a4fe94e948275f9" parent="aspace_d6a866a5b390242d8a1e61f77d41d35a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>Germany Dehomag 1936</unittitle>
+            <unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_4a91e6a526e8882c4d949e957f15ac47" label="Mixed Materials [31142054900389]" type="Box">11</container>
+            <container id="aspace_84e43d4ad5a02c8d42b178d89b7fbaa2" parent="aspace_4a91e6a526e8882c4d949e957f15ac47" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>Dehomag 1937</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_53181ccf1e98e74a9d1b195b70f12c68" label="Mixed Materials [31142054900389]" type="Box">11</container>
+            <container id="aspace_31158dc6f32e5cfa6f2ec6e3d9ac467b" parent="aspace_53181ccf1e98e74a9d1b195b70f12c68" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>Dehomag 1938</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_9c3af8fd5a953c621b296a1d543aeace" label="Mixed Materials [31142054900389]" type="Box">11</container>
+            <container id="aspace_0682f07ca714fda0d1a92720d3111818" parent="aspace_9c3af8fd5a953c621b296a1d543aeace" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="file">
+          <did>
+            <unittitle>Optima 1933</unittitle>
+            <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_1cd14324390de436084998ae0e0b8779" label="Mixed Materials [31142054900397]" type="Box">12</container>
+            <container id="aspace_9f6cab78275a9929f6cdceaba6734870" parent="aspace_1cd14324390de436084998ae0e0b8779" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>Optima 1934</unittitle>
+            <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_2640d295443c6963e1a2ad9e29d732cb" label="Mixed Materials [31142054900397]" type="Box">12</container>
+            <container id="aspace_0722d7a473b3dcedcafee2430216b9bd" parent="aspace_2640d295443c6963e1a2ad9e29d732cb" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>Germany Optima 1935</unittitle>
+            <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_7b4f2b0e31824a4bd8912ebac25a965d" label="Mixed Materials [31142054900397]" type="Box">12</container>
+            <container id="aspace_e8f231c5eaa35441f2854a053c377d3c" parent="aspace_7b4f2b0e31824a4bd8912ebac25a965d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>Germany Optima 1936</unittitle>
+            <unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_d041df4daf1de2b14bca5fcbebef53b1" label="Mixed Materials [31142054900405]" type="Box">13</container>
+            <container id="aspace_b503f59525978dd2c3e821b2fa55c39b" parent="aspace_d041df4daf1de2b14bca5fcbebef53b1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>Optima 1937</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_ce851d4d055e77bed65db8f83e4e5491" label="Mixed Materials [31142054900405]" type="Box">13</container>
+            <container id="aspace_ffc3fcc046fbb9e227184673c0513a7e" parent="aspace_ce851d4d055e77bed65db8f83e4e5491" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>Optima 1938</unittitle>
+            <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
+            <container altrender="Flat Box - 12 x 16" id="aspace_0cfd7205f41ee0e9e0429b01b59c9d52" label="Mixed Materials [31142054900405]" type="Box">13</container>
+            <container id="aspace_25245fd978026fc3e29d45b771cacabf" parent="aspace_0cfd7205f41ee0e9e0429b01b59c9d52" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref144" level="series">
+        <did>
+          <unittitle>Oversize - Series I: European Office Records</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_292c1e1eee03605de98ee75a09b37b4e">
+          <head>Scope and Content note</head>
+          <p>The Oversize series consists of a small number of documents that had originally been folded and stored in legal-sized folders.</p>
+        </scopecontent>
+        <c id="aspace_ref146" level="file">
+          <did>
+            <unittitle>Incorporation: Bylaws and Charter: Ingemag
+District Court in Charlottenburg, Certified Copy from the Commercial Register</unittitle>
+            <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat OS 21" id="aspace_fed08fae048a3922d55101bf2ce3e38b" label="Mixed Materials [31142063397916]" type="Box">14</container>
+            <container id="aspace_2c58714c5e7c85adedb6a71b1eb5037e" parent="aspace_fed08fae048a3922d55101bf2ce3e38b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="file">
+          <did>
+            <unittitle>Physical Inventory of Electric Bookkeeping and Accounting Machines</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat OS 21" id="aspace_70a9a44a0bb4b079f25296d080a7cfac" label="Mixed Materials [31142063397916]" type="Box">14</container>
+            <container id="aspace_c4fa6a331d7499df0a53610dbe341725" parent="aspace_70a9a44a0bb4b079f25296d080a7cfac" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="file">
+          <did>
+            <unittitle>Statements of Assets and Liabilities at December 31, 1949</unittitle>
+            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat OS 21" id="aspace_362007faf05e045426201091a1de7b89" label="Mixed Materials [31142063397916]" type="Box">14</container>
+            <container id="aspace_43cfba4ec19564aa5fcf27fb3abe6ad7" parent="aspace_362007faf05e045426201091a1de7b89" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="file">
+          <did>
+            <unittitle>Statement of Unfilled Stock Orders</unittitle>
+            <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat OS 21" id="aspace_3406a985bf7da39ce8d9d97ee36e421c" label="Mixed Materials [31142063397916]" type="Box">14</container>
+            <container id="aspace_0afd43f33889cfece326b2c0a4cf8df0" parent="aspace_3406a985bf7da39ce8d9d97ee36e421c" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

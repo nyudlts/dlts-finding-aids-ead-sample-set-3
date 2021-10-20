@@ -1,0 +1,993 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_86">mc_86</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Prize-Winning Student Essays Collection <num>MC.86</num></titleproper>
+        <author>Celeste Brewer</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+        <p>
+          <date>May 2015</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 19:55:16 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>November 2018</date>
+        <item>Edited by Jennifer E. Neal for compliance with DACS and ACM Required Elements for Archival Description</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Prize-Winning Student Essays Collection</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">New York University. Washington Square College of Arts and Science</corpname>
+      </origination>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">New York University. University College of Arts and Pure Science</corpname>
+      </origination>
+      <unitid>MC.86</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.75 Linear Feet</extent>
+        <extent altrender="carrier">in three manuscript boxes and two half manuscript boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1900/1963" type="inclusive">1900-1963</unitdate>
+      <unitdate datechar="creation" normal="1922/1960" type="bulk">1922-1960</unitdate>
+      <abstract id="aspace_b54958c2e4d9fad147c1bfeaa17055b8">The Prize Winning Student Essays Collection contains student writing dating between 1900 and 1963, which received one of six annual prizes given by New York University:  the James Gordon Bennett Prize, the Minnie Kramer Cowin Prize, the Frederick Seward Gibson Prize, the Helen M. Jones Prize in History, the Maas Essay Prize in American History, and the New York University Philosophical Society Prize.  Each prize was awarded for student work in specific fields of the humanities and social sciences including political science, history, English literature, and philosophy.</abstract>
+      <langmaterial id="aspace_264c94eea49916218e1a0cabd919cc7e">Materials primarily in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_171e4a86d7e6cc9ef147258acdcfb324">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_e014ef8fa6c4d42c5264190f272954f0">
+      <head>Immediate Source of Acquisition</head>
+      <p>The provenance of the Prize Winning Student Essays Collection is unknown.  However, it has existed in its current format in the University Archives since at least 1987.</p>
+    </acqinfo>
+    <arrangement id="aspace_cdd3e57654334e020e5669ac1a966056">
+      <head>Arrangement</head>
+      <p>Materials are arranged chronologically within each series. Series include: </p>
+      <p>
+Series I:  James Gordon Bennett Prize Essays</p>
+      <p>
+Series II:  Minnie Kramer Cowin Prize Essays</p>
+      <p>
+Series III:  Frederick Seward Gibson Prize Essays</p>
+      <p>
+Series IV:  Helen M. Jones Prize in History</p>
+      <p>
+Series V:  Maas Essay Prize</p>
+      <p>
+Series VI:  New York University Philosophical Society Essay Prize</p>
+    </arrangement>
+    <bioghist id="aspace_3a60d9415983b8028957b1678de16c33">
+      <head>Historical Note</head>
+      <p>The undergraduate colleges of New York University have offered various prizes for student writing over time.  The history of the six essay prizes included in this collection is listed below.</p>
+      <p>The James Gordon Bennett Prize was endowed in 1893 by James Gordon Bennett, publisher of the <emph render="italic">New York Herald</emph>, and awarded for the first time at Commencement in 1894.  It recognizes the best essay by an undergraduate senior, "in English prose upon some subject of American governmental, domestic, or foreign policy of contemporaneous interest."  The topic for submitted essays was assigned by the faculty each year.  Winning students received $50.  While the most recent Bennett Prize essay in the University Archives' collection dates from 1956, the prize is still awarded today.</p>
+      <p>The Minnie Kramer Cowin Prize was awarded at Commencement for an essay in political science.  Two members of the Class of 1923, Harold L. and William T. Cowin, endowed the prize in memory of their mother.  When it was first offered in 1924, student essays were solicited on a topic determined by the faculty in advance.  However, beginning in 1928, the prize was simply awarded to the best essay submitted in fulfillment of a class assignment.  It included a $50 honorarium.  The last Minnie Kramer Cowin Prize was awarded in 1974.</p>
+      <p>The Frederick Seward Gibson Prize was endowed by the estate of Frederick Seward Gibson, an alumnus of the University College Class of 1896.  It was first awarded in 1901, to a student who produced high quality writing in the field of English literature.  Like other prizes which were offered throughout several decades of the university's history, the terms of the competition have undergone slight changes over time.  The Gibson Prize was originally awarded to "an essay of high literary merit on a subject proposed by the professor of English literature as a proper subject for treatment in a literary form and approved by the college faculty."  Beginning in 1931, original works of creative writing were accepted as well.   Competition was originally open to seniors only, but eligibility was expanded to include any student above the freshman year in 1924; sophomores were again excluded in 1933.  The prize included $70, reduced to $60 in 1933.  It is still awarded for the best piece of critical or creative writing by a junior or senior student.</p>
+      <p>The Helen M. Jones Prize in History was awarded from 1952-1959 to the best essay on a selected topic in French history.  As of 1960, it is instead awarded to the student who, in the opinion of the Department of History, had made the best record in the history honors course.  It included a monetary prize based on the income of a $1000 gift given by Theodore F. Jones, a member of the University College Department of History, in memory of his mother.  It is still awarded today.</p>
+      <p>The Maas Essay Prize was first opened to competition in the academic year 1955-1956.  It was endowed by the will of Kittyn Maas, widow of Charles Oscar Maas, in memory of her husband.  It included a prize of $350 to be awarded to an undergraduate student "who submits the best essay on a specific topic relating to the heritage and tradition of the United States of America."  The last prize was awarded in 1974.</p>
+    </bioghist>
+    <prefercite id="aspace_ae13cf02c88b5c8d31e78aebb93781d9">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Prize Winning Student Essays Collection; MC 86; box number; folder number; New York University Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_1d7d605cce43275ce519d9b5d91a222c">
+      <head>Processing Information</head>
+      <p>Processing decisions prior to November 2018 were not recorded.</p>
+    </processinfo>
+    <scopecontent id="aspace_2a7bb38247888bb1c2611dabe2ee4ba1">
+      <head>Scope and Contents</head>
+      <p>The Prize Winning Student Essays Collection contains student writing dating between 1900 and 1963, which received one of six annual prizes given by New York University:  the James Gordon Bennett Prize, the Minnie Kramer Cowin Prize, the Frederick Seward Gibson Prize, the Helen M. Jones Prize in History, the Maas Essay Prize in American History, and the New York University Philosophical Society Prize.  Each prize was awarded for student work in specific fields of the humanities and social sciences. The majority of the collection consists of typed, handwritten and bound essays, with the exception of some poetry and fiction pieces which were awarded the Frederick Seward Gibson Prize.  
+The Prize Winning Student Essays Collection is not an exhaustive collection of the various prizes awarded for student work throughout the history of the university, nor does it include a copy of every essay to which the prizes in the collection were awarded. The collection's provenance is not known, though it has existed in its current format in the University Archives since at least 1987.</p>
+    </scopecontent>
+    <userestrict id="aspace_53b1e10ae179f2a54e8444c9b1829291">
+      <head>Conditions Governing Use</head>
+      <p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Poems.</genreform>
+      <subject source="lcsh">Political science students</subject>
+      <subject source="lcsh">Poetry -- Study and teaching</subject>
+      <subject source="lcsh">20th century.</subject>
+      <subject source="lcsh">Philosophy -- Study and teaching.</subject>
+      <genreform source="aat">Essays.</genreform>
+      <subject source="lcsh">History -- Study and teaching</subject>
+      <subject source="lcsh">English literature -- Study and teaching</subject>
+      <corpname source="naf">New York University -- Students</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref1" level="series">
+        <did>
+          <unittitle>James Gordon Bennett Prize Essays</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+            <extent altrender="carrier">in one manuscript box</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1900/1956" type="inclusive">1900-1956</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_2638358fb006b99b0f1671ae0ce539e7">
+          <head>Scope and Contents</head>
+          <p>The James Gordon Bennett Prize was awarded to student work on contemporary American government, domestic policy, and foreign policy. Materials include award winning essays dating from 1900-1956, with the bulk of the material dating from 1925-1942.</p>
+        </scopecontent>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>"The Government of Federal Dependencies," Henry Noble MacCracken (not a prize essay)</unittitle>
+            <unitdate datechar="creation" normal="1900/1900">1900</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_5f4bc580011a796536ae1ac61b87bc29" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_18d578d62f422a0f8c8e75d93d9521db" parent="aspace_5f4bc580011a796536ae1ac61b87bc29" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>"The Government of Federal Dependencies," Joseph H. Altman</unittitle>
+            <unitdate datechar="creation" normal="1900/1900">1900</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_885817c1fa0a88dd955684f6993895a2" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_bfcb6c255e927e3a97b954fda3d760d5" parent="aspace_885817c1fa0a88dd955684f6993895a2" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>"The Government of Federal Dependencies," Stanley H. Molleson</unittitle>
+            <unitdate datechar="creation" normal="1900/1900">1900</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_2d9d67c107bb9080741352d81850fbee" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_a31a15d11335ab9a97181a9fa0e05702" parent="aspace_2d9d67c107bb9080741352d81850fbee" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>"The Relation of the Tariff to the Trusts," William H. Orr</unittitle>
+            <unitdate datechar="creation" normal="1903/1903">1903</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_aa45e84aa7d9923f7249a74e154bb4a2" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_a0d3697770d09c1244c7c4277c84d72b" parent="aspace_aa45e84aa7d9923f7249a74e154bb4a2" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>"The Interpretation of the Hay-Paunceforth Treaty in Regard to the Panama Canal Tolls," Joseph R. Amilcaro</unittitle>
+            <unitdate datechar="creation" normal="1915/1915">1915</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_72d866d3fd418e30e4145f64f34081cf" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_44be0522820883bad260a6af1882d5ab" parent="aspace_72d866d3fd418e30e4145f64f34081cf" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>"History of Federal Attempts to Regulate Child Labor," Clifford Rowe</unittitle>
+            <unitdate datechar="creation" normal="1925/1925">1925</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_399a6d5d1bc025afe72120a05ae38fc9" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_c584413336a0eac181018da2bd885180" parent="aspace_399a6d5d1bc025afe72120a05ae38fc9" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>"The World Court as an American Ideal," Joseph Lotterman</unittitle>
+            <unitdate datechar="creation" normal="1926/1926">1926</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_3ef37323f31ef4ef6394193c94e69ae4" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_4ed9f7658e9eb45f16e1407520f6f462" parent="aspace_3ef37323f31ef4ef6394193c94e69ae4" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>"Recent Centralising Tendencies in State Administration," Nathaniel Jones</unittitle>
+            <unitdate datechar="creation" normal="1928/1928">1928</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_d0af748bb7ad16772c7b2b42b668c80a" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_6d27f38b017b31ae47dcd93513e682b6" parent="aspace_d0af748bb7ad16772c7b2b42b668c80a" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>"American Merchant Marine Policy since the World War," Sidney Louis Feiler</unittitle>
+            <unitdate datechar="creation" normal="1930/1930">1930</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_2b2c56f379e53aba235e9d1f1cbf850b" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_5f721a175c6c09f37cd3ea41781764ca" parent="aspace_2b2c56f379e53aba235e9d1f1cbf850b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>"American Policy regarding the Debts of Nations Allied with the United States during the World War," Sidney Greenman</unittitle>
+            <unitdate datechar="creation" normal="1932/1932">1932</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_0b06a0e0ee865a8facf8ca1a6dfbe446" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_0a4915ff68fb1acbe44330932be159b2" parent="aspace_0b06a0e0ee865a8facf8ca1a6dfbe446" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>"History of the Attempts at Reorganisation of the Federal Administrative Services since 1905," Myron Krotinger</unittitle>
+            <unitdate datechar="creation" normal="1933/1933">1933</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_397942087af8ded77039e194fc95af08" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_65ff49be4c5ff86248b6def651047efb" parent="aspace_397942087af8ded77039e194fc95af08" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>"American Recognition of the U. S. S. R.," Edwin A. Gross</unittitle>
+            <unitdate datechar="creation" normal="1935/1935">1935</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_0702dcaee594ab53fb8d4ef4d75ff933" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_447c4d8ece5e49f399219ce70b28880d" parent="aspace_0702dcaee594ab53fb8d4ef4d75ff933" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>"The Attitude of the American Government towards Manchukus," Alvin J. Bernstein</unittitle>
+            <unitdate datechar="creation" normal="1936/1936">1936</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_3aca688d45764c8050db0c7a8c791d2c" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_5093ff29addadc98c975799519a28472" parent="aspace_3aca688d45764c8050db0c7a8c791d2c" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>"Federal Regulation of Companies Engaged in the Production and Distribution of Electric Power," Norman Moloshok</unittitle>
+            <unitdate datechar="creation" normal="1937/1937">1937</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_4cc6fdc5e5a663260463b57e1d33db59" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_b8115d5c7127dca72ad7dbd3cad7da4b" parent="aspace_4cc6fdc5e5a663260463b57e1d33db59" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>"Federal Regulation of Radio Broadcasting with Special References to the Question of Freedom of Speech," Robert J. Kaller</unittitle>
+            <unitdate datechar="creation" normal="1939/1939">1939</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_280a2168e0ba3d3655480c308cfc29c2" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_8b260542ac6e75045f89a8dd06c5311c" parent="aspace_280a2168e0ba3d3655480c308cfc29c2" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>"American Legislation on the Subject of Old Age Pension," Justin M. Golenbosk</unittitle>
+            <unitdate datechar="creation" normal="1940/1940">1940</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_29578ec26cee3e289861d27367233cdc" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_3927f214a1bc7eba9b516b780b463a7c" parent="aspace_29578ec26cee3e289861d27367233cdc" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>"American Foreign Policy Concerning Outposts of Defense in the Atlantic Ocean and the Caribbean Sea since 1898," Robert M. Bor</unittitle>
+            <unitdate datechar="creation" normal="1942/1942">1942</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_e8c366c275abf07d28955a3b1ea1536a" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_286150074bb29c433b4d44a1de988a8e" parent="aspace_e8c366c275abf07d28955a3b1ea1536a" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>"The Problem of Self Government for the District of Columbia," Robert Price</unittitle>
+            <unitdate datechar="creation" normal="1953/1953">1953</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_4cf6f7adce6ea6df380f5bcf48e2abf6" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_645e8659e9ea2c4a77bd38812d8c6bc2" parent="aspace_4cf6f7adce6ea6df380f5bcf48e2abf6" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>"The Problem of Statehood for Hawaii," David L. Mitchell</unittitle>
+            <unitdate datechar="creation" normal="1954/1954">1954</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_efcd23af57556ed8406b57d78de3a855" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_284a293896cfb50bde84fc0652ccc5e3" parent="aspace_efcd23af57556ed8406b57d78de3a855" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>"Merits and Defects of the Proposal to Fix a National Minimum Age of Eighteen for the Suffrage," Stephen Roger Langenthal</unittitle>
+            <unitdate datechar="creation" normal="1956/1956">1956</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_d20fb13af43036242c8fbbf2bb9d3377" label="Mixed Materials [31142062745495]" type="Box">1</container>
+            <container id="aspace_d76c07620403067b13e4ae7854564d44" parent="aspace_d20fb13af43036242c8fbbf2bb9d3377" type="Folder">20</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref2" level="series">
+        <did>
+          <unittitle>Minnie Kramer Cowin Prize Essays</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+            <extent altrender="carrier">in one manuscript box</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1925/1960" type="inclusive">1925-1960</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_938e2b20f62aabef91c959508e15dd25">
+          <head>Scope and Contents</head>
+          <p>The Minnie Kramer Cowin Prize was awarded to the best student essay in political science.  Materials include award winning essays dating from 1925-1960, with the bulk of the material dating from 1925-1941.</p>
+        </scopecontent>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>"The Budget Law of 1921 as a check on Congressional Extravagance," Clifford Rowe</unittitle>
+            <unitdate datechar="creation" normal="1925/1925">1925</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_73e37eb74d59676ebfde16f54f4f84c9" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_873849d217847a9476e3417b9c7779f6" parent="aspace_73e37eb74d59676ebfde16f54f4f84c9" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>"The Administration of American Immigration Laws," Joseph Wortis</unittitle>
+            <unitdate datechar="creation" normal="1927/1927">1927</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_a43e25216b50b65262e13f0dee8cdec5" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_36bf5c2bd6c963b97487237ea3578733" parent="aspace_a43e25216b50b65262e13f0dee8cdec5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>"Present Legal Status of Trade Unions in the American States," Howard Jerome Lichenstein</unittitle>
+            <unitdate datechar="creation" normal="1928/1928">1928</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_0df888765d08ad033b0b4789246192ba" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_81da4d6814187a035e2291d0898b75b4" parent="aspace_0df888765d08ad033b0b4789246192ba" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>"Present Legal Status of Trade Unions in the American States," Bernard I. Strauss</unittitle>
+            <unitdate datechar="creation" normal="1928/1928">1928</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_fe50d6170f4157957fb95e90dfb63154" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_43f8f66687fb1ecfd5a7b0a2ab5e50bc" parent="aspace_fe50d6170f4157957fb95e90dfb63154" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>"The Political Thought of Walter Lippmann," Leonard Zissu</unittitle>
+            <unitdate datechar="creation" normal="1929/1929">1929</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_7ccd81386ce28175ef577b5151a44acd" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_c2e0e40e19988ed0846df9e17771c100" parent="aspace_7ccd81386ce28175ef577b5151a44acd" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>"The Election of 1916," Eugene M. Parter</unittitle>
+            <unitdate datechar="creation" normal="1930/1930">1930</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_440ad586419384789b65c37a328f6acc" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_d1db4230765fb981bfac90e6b0b114ae" parent="aspace_440ad586419384789b65c37a328f6acc" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>"Colussus vs. Midget," Jerome H. Adler</unittitle>
+            <unitdate datechar="creation" normal="1932/1932">1932</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_64fd1578874a6c1cf37406c42783e983" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_a31b54ba3543f423ebb89ec75e9226b8" parent="aspace_64fd1578874a6c1cf37406c42783e983" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>"The International Institute of Agriculture," Phillip Arnon</unittitle>
+            <unitdate datechar="creation" normal="1935/1935">1935</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_a5725b86656ea64ce539c0e85aee2640" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_76aeba6f05fd448c05c834b98182db62" parent="aspace_a5725b86656ea64ce539c0e85aee2640" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>"Some Suggestions for the Application of Article 19 of the May 3rd, 1937 Covenant of the League of Nations,' Daniel Irving Glass</unittitle>
+            <unitdate datechar="creation" normal="1937/1937">1937</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_cd90edc1691995e2e5827df7b378fad2" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_bbf7fa25493f450af2eb64cf3ddb15f3" parent="aspace_cd90edc1691995e2e5827df7b378fad2" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>"France and the League of Nations since the Italo-Ethiopian Affair," Daniel Irving Glass</unittitle>
+            <unitdate datechar="creation" normal="1938/1938">1938</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_da27b5cbc530861d878f823e1e0a9c4a" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_80ffdc4e22cc8770546ba7e37512c808" parent="aspace_da27b5cbc530861d878f823e1e0a9c4a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>"Administrative Tribunals - Their Problems," Justin M. Golenblock</unittitle>
+            <unitdate datechar="creation" normal="1939/1939">1939</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_433db18dba0bc4719a4ae8742fb919d6" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_be91a669b1e5bf51fc16811c5f7ebfc5" parent="aspace_433db18dba0bc4719a4ae8742fb919d6" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>"Oligarchical Tendencies in Democracies," Robert H. Herskovits</unittitle>
+            <unitdate datechar="creation" normal="1940/1940">1940</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_bd13501e710359c8c46c112570a2e68d" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_41b4c61536f001bc5937e92ad577fc53" parent="aspace_bd13501e710359c8c46c112570a2e68d" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>"The Lusk Committee and Civil Rights," Robert Antin</unittitle>
+            <unitdate datechar="creation" normal="1941/1941">1941</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_b77cbdaf2d42d2e72292df91beab3dda" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_d4cd28e193916c76ce775f9e1aef6a96" parent="aspace_b77cbdaf2d42d2e72292df91beab3dda" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>"The Origin of Separation of Powers in the American Government," Wilbur G. Avery</unittitle>
+            <unitdate datechar="creation" normal="1948/1948">1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_021704d70cb5009017375502a8fccdb6" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_1d862cce80d0d1b37e23b7c90807acee" parent="aspace_021704d70cb5009017375502a8fccdb6" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>"Senate Confirmation Debate on David E. Lilienthal," Lawrence H. Fuchs</unittitle>
+            <unitdate datechar="creation" normal="1950/1950">1950</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_7c6b1de3e2cf83f1c7bd3d43f4fccd0e" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_4a9c52795fc59268c6ce9af84b2a1d6e" parent="aspace_7c6b1de3e2cf83f1c7bd3d43f4fccd0e" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>"Private Bills in the First Session of the 81st Congress," Leo Silverstein</unittitle>
+            <unitdate datechar="creation" normal="1951/1951">1951</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_7c9c0a4a19b8bc7d8c418ce2fd05908c" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_a64496ee8f902aefb9af0f775f5f976d" parent="aspace_7c9c0a4a19b8bc7d8c418ce2fd05908c" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>"Due Process and the Relation of the Bill of Rights to the States," Sholom Beinfeld</unittitle>
+            <unitdate datechar="creation" normal="1953/1953">1953</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_782790dcc5d1d0946a9539ded42c73b1" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_e9b4413eb020e2ee5990d04107323d9f" parent="aspace_782790dcc5d1d0946a9539ded42c73b1" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Untitled Essay by Irwin Brod</unittitle>
+            <unitdate datechar="creation" normal="1958/1958">1958</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_e14e7acd21cbf0bdd1e567f3466da671" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_87664763f8a90a8dd9adf7abadc2df8c" parent="aspace_e14e7acd21cbf0bdd1e567f3466da671" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>"Israel:  Parties, Politics and Policies," David Hittner</unittitle>
+            <unitdate datechar="creation" normal="1960/1960">1960</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_1bf9706d990147e19a6f7efb88577594" label="Mixed Materials [31142062745503]" type="Box">2</container>
+            <container id="aspace_883d441c3e95e27a3ca118790e92ef9a" parent="aspace_1bf9706d990147e19a6f7efb88577594" type="Folder">19</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref3" level="series">
+        <did>
+          <unittitle>Frederick Seward Gibson Prize Essays</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+            <extent altrender="carrier">in one manuscript box</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1901/1963" type="inclusive">1901-1963</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_ad64518d2a119630aa899791bf7961f1">
+          <head>Scope and Contents</head>
+          <p>The Frederick Seward Gibson Prize poetry and fiction pieces broadly encompass the field of English literature, including critical essays as well as some original poetry and short stories.  Materials include award winning essays dating from 1901-1963, with the bulk of the material dating from 1924-1942.</p>
+        </scopecontent>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>"Henry James as Novelist," B. R. Weel (pseudonym)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_3ee303b326a3c3a5ceb6c80221029cbd" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_30206f9623583179dd1c0420d090050d" parent="aspace_3ee303b326a3c3a5ceb6c80221029cbd" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>"The Province of the Literary Element in Historical Writings," author unknown</unittitle>
+            <unitdate datechar="creation" normal="1901/1901">1901</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_f448148e64919b838cb642f59126d858" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_5d269bcf9ac659b73aeb859d6ecca642" parent="aspace_f448148e64919b838cb642f59126d858" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>"The Province of the Literary Element in Historical Writings," Adams, 1st prize</unittitle>
+            <unitdate datechar="creation" normal="1901/1901">1901</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_623c23bfbb442f614f616d4e83be898d" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_72e474d82dd1a6e19c47dd1bbb22ae47" parent="aspace_623c23bfbb442f614f616d4e83be898d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>"The Province of the Literary Element in Historical Writings," author unknown, 2nd prize</unittitle>
+            <unitdate datechar="creation" normal="1901/1901">1901</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_4652afbd109d200817ab1b33d979f87d" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_43cf30d946905345b53db5fea1ae8e44" parent="aspace_4652afbd109d200817ab1b33d979f87d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>"The Province of the Literary Element in Historical Writings," B. F., 3rd prize</unittitle>
+            <unitdate datechar="creation" normal="1901/1901">1901</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_04500b85e9761dcf65b361b33841a6a0" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_83baa1c49d7c3dbd65204d33ed7eb721" parent="aspace_04500b85e9761dcf65b361b33841a6a0" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>"The Poetry of Mr. Masefield," A. P. Levien</unittitle>
+            <unitdate datechar="creation" normal="1915/1915">1915</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_c9a76df63c32ee2fa28bc38f9fb13b5a" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_bd74addeb192e000325fb1bde4bfb1a3" parent="aspace_c9a76df63c32ee2fa28bc38f9fb13b5a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>"Don Juan and Social Hypocrisy," Julius Haberman</unittitle>
+            <unitdate datechar="creation" normal="1922/1922">1922</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_bde9681681b2e177ab451e3878f2b5ea" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_b090e9af6fdaab27e28553e9d65fd7da" parent="aspace_bde9681681b2e177ab451e3878f2b5ea" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>"Frank Norris:  The Significance of His Work," Arthur H. Hirchfield</unittitle>
+            <unitdate datechar="creation" normal="1924/1924">1924</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_71d8e01e75362d308806e46dda615521" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_7bd5f035f242cfd43ad92b73dbf88213" parent="aspace_71d8e01e75362d308806e46dda615521" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>"The Style of Joseph Conrad," Joseph Lotterman</unittitle>
+            <unitdate datechar="creation" normal="1925/1925">1925</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_4f980ed0673420630cd7855c3d3b607f" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_c92b8973f3fe9c2a92e63f78e100ebcc" parent="aspace_4f980ed0673420630cd7855c3d3b607f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>"Willa Cather," Clifford Rowe</unittitle>
+            <unitdate datechar="creation" normal="1926/1926">1926</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_aefc62ebd6fb9b0fbe891094a4396af5" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_05ac5601776d3a6250c8a8a319972393" parent="aspace_aefc62ebd6fb9b0fbe891094a4396af5" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>"Robert Frost," Elliot C. Graham</unittitle>
+            <unitdate datechar="creation" normal="1927/1927">1927</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_1d391159ebef0165fdc2f165b38a2e87" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_56987861f62b709abaf1fa1734e1afae" parent="aspace_1d391159ebef0165fdc2f165b38a2e87" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>"Eugene O'Neill," Joseph Feldman</unittitle>
+            <unitdate datechar="creation" normal="1928/1928">1928</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_07234053662172e3bcc7ef1116080f19" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_912f7ebdf161ee2a58238077b4de7239" parent="aspace_07234053662172e3bcc7ef1116080f19" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>"A Critical Survey of the Plays of A. A. Milne," Philip F. Papini</unittitle>
+            <unitdate datechar="creation" normal="1929/1929">1929</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_e3f2ff8d8bbd40fed2338a9b330bcd63" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_1e8a49d378cfbb43e2dc479b39fa8ce2" parent="aspace_e3f2ff8d8bbd40fed2338a9b330bcd63" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>"Galsworthy the Novelist as Social Reformer," Milton Leonard Rein</unittitle>
+            <unitdate datechar="creation" normal="1930/1930">1930</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_cbaa88510a82ec65f4791a71048e8425" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_64579f0865e115aa39b5816c51671879" parent="aspace_cbaa88510a82ec65f4791a71048e8425" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>"Clara:  A Narrative Poem," Benjamin Radin</unittitle>
+            <unitdate datechar="creation" normal="1933/1933">1933</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_6fafefe20ddce19fd879d19304da3f80" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_b362df858ef9d2979924d52fcb6a4d67" parent="aspace_6fafefe20ddce19fd879d19304da3f80" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>"The Feather Pate of Folly," Harlan Umansky</unittitle>
+            <unitdate datechar="creation" normal="1934/1934">1934</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_d8adf7dc0dc67a6328c6a2170f06507f" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_4d038102c5141f3b6f6d5781e89491fd" parent="aspace_d8adf7dc0dc67a6328c6a2170f06507f" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>"Black Out," Amos Cahan</unittitle>
+            <unitdate datechar="creation" normal="1935/1935">1935</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_97ae392b7437c32a0b732f7b6c07ce44" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_a877d3b20c0f275f884d77468c143334" parent="aspace_97ae392b7437c32a0b732f7b6c07ce44" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>"Tamar -- A Fragment," Irving A. Fosberg</unittitle>
+            <unitdate datechar="creation" normal="1937/1937">1937</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_2a483e147e7a8b87a34a45da36a772dc" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_992ba1935e802ee8a0ada27b22b80946" parent="aspace_2a483e147e7a8b87a34a45da36a772dc" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>"Poem for Passover," Leslie Fiedler</unittitle>
+            <unitdate datechar="creation" normal="1938/1938">1938</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_ca796d69a1ac2186aeebb580796a877e" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_ca653f60eb0841e2b139abe81dc968bf" parent="aspace_ca796d69a1ac2186aeebb580796a877e" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>"The Barrel," Arthur M. Bernstein</unittitle>
+            <unitdate datechar="creation" normal="1939/1939">1939</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_39574882570132d18b0bf78994657fd4" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_271fed49c874069ae469af051f3b0c57" parent="aspace_39574882570132d18b0bf78994657fd4" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>"A Potpourri of Pieria," Ellis Ostrove</unittitle>
+            <unitdate datechar="creation" normal="1941/1941">1941</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_145df1b58cf1449d04b9b78ae18b2129" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_df25e850b3fe088c13206cb1bd588936" parent="aspace_145df1b58cf1449d04b9b78ae18b2129" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>"With or Without Banners," John C. O'Brien</unittitle>
+            <unitdate datechar="creation" normal="1942/1942">1942</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_a733563f03a074e8a48d6a7c2f09af2c" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_091db7ff5e7e7b046b85831ef3280ec9" parent="aspace_a733563f03a074e8a48d6a7c2f09af2c" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>"Of Whimpers and Trumpet Calls," Alvin H. Schucman</unittitle>
+            <unitdate datechar="creation" normal="1950/1950">1950</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_d37d517caf857c1806fb0a35e537dc35" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_b04332b0cf694c0a21a80963bce45e34" parent="aspace_d37d517caf857c1806fb0a35e537dc35" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>"The Demons," Robert Sheckley</unittitle>
+            <unitdate datechar="creation" normal="1951/1951">1951</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_db9cbc1c8b1306ea0026a2ea09a201f1" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_45d510297315c538f4042b5fd4364091" parent="aspace_db9cbc1c8b1306ea0026a2ea09a201f1" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>"The Fuschia Spangles," Ross Scott</unittitle>
+            <unitdate datechar="creation" normal="1952/1952">1952</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_53698bbd7c04e57b28abde2472881f18" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_1de3da610b88c57b8ddc43f97da872fa" parent="aspace_53698bbd7c04e57b28abde2472881f18" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>"Shades of Goodman Brown," David Leeb</unittitle>
+            <unitdate datechar="creation" normal="1954/1954">1954</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_061e45b8bb99ae2a878e1c5c3df0f441" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_ea8845eb19dbc4cc25bb4aabd23986ff" parent="aspace_061e45b8bb99ae2a878e1c5c3df0f441" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>"Jeanne D'Arc au Bucher," Charles Mauskoph</unittitle>
+            <unitdate datechar="creation" normal="1955/1955">1955</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_0abce3f32ac1a02fa65d5d8bcc9c584e" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_d84f39c5f60ddb562c62911b59344554" parent="aspace_0abce3f32ac1a02fa65d5d8bcc9c584e" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>"He Just Didn't Know," Phillippe Citron</unittitle>
+            <unitdate datechar="creation" normal="1956/1956">1956</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_46d7719de596d1e6b565e3aaa2f26987" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_7133b45d7872fb1daedfa6dded720585" parent="aspace_46d7719de596d1e6b565e3aaa2f26987" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>"The Bridge," Richard S. Abrams</unittitle>
+            <unitdate datechar="creation" normal="1957/1957">1957</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_74abbd1eded3017815c28c75c3b9b459" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_973e434b3b7eb6491db481bd2e029271" parent="aspace_74abbd1eded3017815c28c75c3b9b459" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>"Divine Lady," Jerome Cass</unittitle>
+            <unitdate datechar="creation" normal="1958/1958">1958</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_2c99f814778d9b268a459849c0438975" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_a8bcc43f69d59ff03e6c4209e0926d71" parent="aspace_2c99f814778d9b268a459849c0438975" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>"Fool's Mate," Paul Winston</unittitle>
+            <unitdate datechar="creation" normal="1960/1960">1960</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_b086779093d55b15be02cc414b239196" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_d62c9f937bfa9e648b1e069965001a75" parent="aspace_b086779093d55b15be02cc414b239196" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>"A Mountain for Beatrice," Roger Rosenblatt</unittitle>
+            <unitdate datechar="creation" normal="1961/1961">1961</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_dcb7f5f275e858febbb2f925d87ebd25" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_ee061728e53e5bfedeff3f4f1961131e" parent="aspace_dcb7f5f275e858febbb2f925d87ebd25" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>"The Last Trial of William the Terrible," Alan Wienblatt</unittitle>
+            <unitdate datechar="creation" normal="1962/1962">1962</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_de7dacdbbcb0ff0d2afecfe0e0e2a776" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_9c2f1acc21794d085837aa2055ea074a" parent="aspace_de7dacdbbcb0ff0d2afecfe0e0e2a776" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>"Romantic Triptych," Paul Watsky</unittitle>
+            <unitdate datechar="creation" normal="1963/1963">1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter" id="aspace_8868a02adffab3b95aaf8401eb68ff6c" label="Mixed Materials [31142062745511]" type="Box">3</container>
+            <container id="aspace_f24ad67e0e74d86d028588f47675de50" parent="aspace_8868a02adffab3b95aaf8401eb68ff6c" type="Folder">34</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref4" level="series">
+        <did>
+          <unittitle>Helen M. Jones Prize in History</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.20 Linear Feet</extent>
+            <extent altrender="carrier">in one half manuscript box</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1952/1958" type="inclusive">1952-1958</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_e8c3611a753a3d4f952f4bdb91df2095">
+          <head>Scope and Contents</head>
+          <p>The Helen M. Jones essays are on topics in French and American history, respectively.  Materials include award winning essays dating from 1952-1958, with the bulk of the material dating from 1952-1953.</p>
+        </scopecontent>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>"Divergent Estimates of Napoleon III," Burton S. Sklarin</unittitle>
+            <unitdate datechar="creation" normal="1952/1952">1952</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_6542a2519ae1411fdcf7e69029265981" label="Mixed Materials [31142062745529]" type="Box">4</container>
+            <container id="aspace_536f6669015cc27bf7025db15df17633" parent="aspace_6542a2519ae1411fdcf7e69029265981" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>"French Foreign Relations in the Years Between 1713-1740," Lola Montez</unittitle>
+            <unitdate datechar="creation" normal="1953/1953">1953</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_5f2dddc51d273bcd52131f0f1eab6b58" label="Mixed Materials [31142062745529]" type="Box">4</container>
+            <container id="aspace_bffde725196348f8532cf1de20141fdf" parent="aspace_5f2dddc51d273bcd52131f0f1eab6b58" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Correspondence regarding changes in qualifications for the Helen M. Jones Prize</unittitle>
+            <unitdate datechar="creation" normal="1958/1958">1958</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_f02620ff73acec7bddc5c78dce2b2702" label="Mixed Materials [31142062745529]" type="Box">4</container>
+            <container id="aspace_dc924c64872ab6f170afe9d9f602fc3f" parent="aspace_f02620ff73acec7bddc5c78dce2b2702" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref5" level="series">
+        <did>
+          <unittitle>Maas Essay Prize</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.05 Linear Feet</extent>
+            <extent altrender="carrier">in one manuscript box</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1960/1960">1960</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_32ad8b767e72194a70180cef167624e6">
+          <head>Scope and Contents</head>
+          <p>Maas Prize essays are on topics in French and American history, respectively.  Materials include award winning essays dating from 1960.</p>
+        </scopecontent>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>"Coxey's Army:  Symbol of Hard Times," Valarie Andrews Fleishman</unittitle>
+            <unitdate datechar="creation" normal="1960/1960">1960</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_427cede662b3220456a7c4c3a81f2fa3" label="Mixed Materials [31142062745529]" type="Box">4</container>
+            <container id="aspace_7f93c9438f902060edd5893c5cb62863" parent="aspace_427cede662b3220456a7c4c3a81f2fa3" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref6" level="series">
+        <did>
+          <unittitle>New York University Philosophical Society Prize Essay</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+            <extent altrender="carrier">in one half manuscript box</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1913/1933" type="inclusive">1913-1933</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_4c266ffb2507f8db60609b4b824e6000">
+          <head>Scope and Contents</head>
+          <p>The New York University Philosophical Society Prize was awarded for critical and personal works in philosophy. Materials include bound award winning essays dating from 1922-1933, with the bulk of the materials dating from 1921-1933.</p>
+        </scopecontent>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>"The Philosophy of Prayer," Calphurnia L. Fairchild</unittitle>
+            <unitdate datechar="creation" normal="1911/1911">1911</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_1f43f4a91eb53be966cba2394b7ac854" label="Mixed Materials [31142062745537]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>"A Criticism of Fichte's 'Science of Knowledge,' with Especial Attention to its Value as the Basis for a Philosophy of Life," R. S. Ellis</unittitle>
+            <unitdate datechar="creation" normal="1913/1913">1913</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_c9455fd2e002676747e1cdd4a9c9bab3" label="Mixed Materials [31142062745537]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>"Is a History of the Philosophy of History Worthwhile?," Howard T. Kuist</unittitle>
+            <unitdate datechar="creation" normal="1921/1921">1921</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_5f40c6add575dc72628e68bae54dfdda" label="Mixed Materials [31142062745537]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>"A Particularistic Criticism of Confucius," Lester Eugene Denon</unittitle>
+            <unitdate datechar="creation" normal="1922/1922">1922</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_5fc08f54d0bb9a035b5da12844f0da87" label="Mixed Materials [31142062745537]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>"Philosophy in Contemporary Poetry," Emma L. Antz</unittitle>
+            <unitdate datechar="creation" normal="1923/1923">1923</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_ef4e632275a68a293f3a576c58171ad4" label="Mixed Materials [31142062745537]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>"An Ethical Philosophy of Life," S. L. Halkin</unittitle>
+            <unitdate datechar="creation" normal="1926/1926">1926</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_1030ac584712aedd3d2dd78a8df9305c" label="Mixed Materials [31142062745537]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>"My Personal Philosophy of Life," Lillian Edmands</unittitle>
+            <unitdate datechar="creation" normal="1927/1927">1927</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_1e2cd4161a8bebfca0e31313b3b87346" label="Mixed Materials [31142062745537]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_250611f31219164082eda18247ac3029" level="file">
+          <did>
+            <unittitle>"Science and the Scientific Hypothesis," A.A. Imberman</unittitle>
+            <unitdate datechar="creation" normal="1931/1931">1931</unitdate>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_3b797ad0b03e5fed8a48020ad10f99aa" label="Mixed Materials [31142062745537]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>"An Essay on the Theory of Correspondence in McTaggart's Nature of Existence," Rubin Goetsky</unittitle>
+            <unitdate datechar="creation" normal="1927/1928" type="inclusive">1927-1928</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_9074d47e74416caba08829e5cb52141d" label="Mixed Materials [31142062745537]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>"Croce's Aesthetic," Joseph Mindell</unittitle>
+            <unitdate datechar="creation" normal="1929/1930" type="inclusive">1929-1930</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_6be1adaaa1221c3e87c6d450dd14656b" label="Mixed Materials [31142062745537]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>"Implication," Arthur Lapan</unittitle>
+            <unitdate datechar="creation" normal="1931/1932" type="inclusive">1931-1932</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_52d7b6f12875968f259b0f8cafedc60a" label="Mixed Materials [31142062745537]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>"The Natural and Conceptual Element in the Philosophy of Aristotle," Adrienne Koch</unittitle>
+            <unitdate datechar="creation" normal="1932/1933" type="inclusive">1932-1933</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Letter - Half" id="aspace_ad1ef24d808da8c28dfb335e189b831a" label="Mixed Materials [31142062745537]" type="Box">5</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

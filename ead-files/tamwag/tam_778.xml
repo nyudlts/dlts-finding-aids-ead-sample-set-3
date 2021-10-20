@@ -1,0 +1,1558 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_778">tam_778</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Tamiment Library and Robert F. Wagner Labor Archives Collection of Law Serials <num>TAM.778</num></titleproper>
+        <author>Megan O'Shea and Alexa Logush</author>
+        <sponsor>The arrangement, description, and encoding of this collection has been made possible in part by a major grant from the National Endowment for the Humanities: Exploring the human endeavor.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>February 2019</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 04:09:39 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Tamiment Library and Robert F. Wagner Labor Archives Collection of Law Serials</unittitle>
+      <origination label="Creator">
+        <corpname source="local">Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </origination>
+      <origination label="Creator">
+        <corpname source="naf">Amnesty International</corpname>
+      </origination>
+      <origination label="Creator">
+        <corpname source="naf">National Lawyers Guild</corpname>
+      </origination>
+      <unitid>TAM.778</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">4.9 Linear Feet</extent>
+        <extent altrender="carrier">in 6 manuscript boxes and 9 flat boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1935/2013" type="inclusive">1935-2013</unitdate>
+      <unitdate datechar="creation" normal="1960/1989" type="bulk">1960-1989</unitdate>
+      <abstract id="aspace_fd7772d67fb71d5ab57b65f2e6ba01fd">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Law Serials contains over 180 titles on legal issues in the United States, Europe, and Central America between 1935 and 2013.  The bulk of the collection consists of American serials published between the 1960s and the 1980s.  Topics include the legal system in the United States, human rights issues, and prison reform.</abstract>
+      <physloc id="aspace_31d796328c29b1505f1d7145cd5b9b09">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_2c556b3834b4ee1e43ab7b1a35edfdc3">Materials primarily in English, with some publications in Spanish, Portuguese, and German.</langmaterial>
+    </did>
+    <arrangement id="aspace_fad74255366d2e6d27b1b2dfa028ca51">
+      <head>Arrangement</head>
+      <p>Serials in this collection are arranged alphabetically by title.</p>
+    </arrangement>
+    <accessrestrict id="aspace_1feadd668a68a777d3cf4bf7fd584411">
+      <head>Conditions Governing Access</head>
+      <p>Open to users without restriction.</p>
+    </accessrestrict>
+    <userestrict id="aspace_ed2408b6c9269a72a2f4b74b700ecbbb">
+      <head>Conditions Governing Use</head>
+      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Tamiment Library &amp; Robert F. Wagner Labor Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>
+    </userestrict>
+    <acqinfo id="aspace_df83491df76374eef506f173da5695a6">
+      <head>Immediate Source of Acquisition</head>
+      <p>This collection combines serials relating to the law drawn from two discrete groups of material held by the Tamiment Library. The first was a partially inventoried backlog of serials, received by the library through donations, subscriptions, and in archival collections. The second group consisted of around 1,700 serials, newspapers, and magazines, organized by title as an artificial collection, referred to as Periodicals.001 or Boxed Newspapers. This material was combined, inventoried, and arranged and described in subject-based categories in 2017. The accession number related to this collection is 2017.049.</p>
+    </acqinfo>
+    <prefercite id="aspace_c8f8a4b6029a9c64fc1d388111190f4d">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Tamiment Library and Robert F. Wagner Labor Archives Collection of Law Serials; TAM 778; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_6d898d9f4c2547572ad6bcc43af8ffee">
+      <head>Processing Information</head>
+      <p>The material in this collection was assembled from various backlogs of uncataloged material held by the Tamiment Library. This material was inventoried, separated according to its subject matter, and arranged in a series of subject-based artificial collections. Accumulations of material relating to the law were identified and brought together physically. Materials were housed in archival folders and boxes according to size. The inventory is arranged alphabetically by title of publication, with publishing organization and place of publication listed when known.</p>
+    </processinfo>
+    <scopecontent id="aspace_b1e201b5c2d0ffd35f36dc03ba30bc13">
+      <head>Scope and Contents</head>
+      <p>The Tamiment Library and Robert F. Wagner Labor Archives Collection of Law Serials contains over 180 titles on legal issues in the United States (US), Europe, and Central America between 1935 and 2013.  The bulk of the collection consists of American serials published between the 1960s and the 1980s.  A large number of the serials consist of publications of the National Lawyers Guild, both the national organization and state chapters, and Amnesty International.  Topics include the work of lawyers and judges, reform of the American legal system, and legal rights of American citizens.  The collection contains serials published by organizations focused on specific issues, including welfare, prison reform, legal defense for specific individuals, consumer rights, and hate crimes.  Large runs of titles include Amnesty International's <emph render="italic">Matchbox</emph> and <emph render="italic">Amnesty Action</emph>, the Bay Area regional office of the National Lawyers Guild's <emph render="italic">Conspiracy</emph>, and the New York office of the National Lawyers Guild's <emph render="italic">Blind Justice</emph>.</p>
+    </scopecontent>
+    <controlaccess>
+      <genreform source="aat">Serials (publications)</genreform>
+      <subject source="lcsh">Criminal law -- United States -- Periodicals.</subject>
+      <subject source="lcsh">Prisoners -- Civil rights -- United States.</subject>
+      <subject source="lcsh">Prisoners -- Legal status, laws, etc. -- United States.</subject>
+      <subject source="lcsh">Lawyers -- United States -- Periodicals.</subject>
+      <subject source="lcsh">Human rights.</subject>
+      <subject source="lcsh">Public welfare -- United States.</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_0bc953dd4e8ad09c9eb28f5420ef619a" level="file">
+        <did>
+          <unittitle><emph render="italic">1948 Report of Progress</emph> : New York State Commission Against Discrimination, Albany, NY</unittitle>
+          <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1dca9c40a8cf992a2ec6d11eec823c69" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_6d7d313813407b393db46c27cdba96a5" parent="aspace_1dca9c40a8cf992a2ec6d11eec823c69" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_a80a8d4bfe43d1a2871149a0c788f14d" level="file">
+        <did>
+          <unittitle><emph render="italic">Abolitionist</emph> : WSFSG, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_35c462024713fb69fcd4e503520bb23e" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_3b10e0375c43b08ce73672594647f12d" parent="aspace_35c462024713fb69fcd4e503520bb23e" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_4d9361c2de5e0104df4dd47aa2911a40" level="file">
+        <did>
+          <unittitle><emph render="italic">Americans for Legal Reform</emph> : HALT, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1984/1988" type="inclusive">1984-1988</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_24662fb67952ddab8915a12333b4ec17" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_ccebbb50a42e29204a0665ff6ec4c3eb" parent="aspace_24662fb67952ddab8915a12333b4ec17" type="Folder">2-4</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_de337861b7a36888539f1cbca66ae498" label="Mixed Materials [31142063008125]" type="Box">13</container>
+          <container id="aspace_036ca51e728dba160e1e2478e0a72b69" parent="aspace_de337861b7a36888539f1cbca66ae498" type="Folder">1-3</container>
+        </did>
+      </c>
+      <c id="aspace_6d8e667a9e384079dd37e74c22af6d1f" level="file">
+        <did>
+          <unittitle><emph render="italic">Amicus Populi</emph> : Massachusetts Lawyers Guild, Boston, MA</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4973189dc958b4477df621b168fb5b9d" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_801e1efbe28e2f308d65346d60fe0bdd" parent="aspace_4973189dc958b4477df621b168fb5b9d" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_561b766b27ac77962106df2c0cc38f83" level="file">
+        <did>
+          <unittitle><emph render="italic">Amnesty Action</emph> : Amnesty International, USA, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1968/1999" type="inclusive">1968-1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c68f708d5279acf5f1d14624030be641" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_86d6365aa213f2af25aa4d8ad6bc9f9f" parent="aspace_c68f708d5279acf5f1d14624030be641" type="Folder">6-8</container>
+          <container altrender="Flat OS Box 17" id="aspace_fe368bd2c4b518748d24dd57ef789783" label="Mixed Materials [31142063008067]" type="Box">7</container>
+          <container id="aspace_9eeb8009b7ec77f1f505c4a791ede21c" parent="aspace_fe368bd2c4b518748d24dd57ef789783" type="Folder">1-9</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_3b60b5c11ea222167f5dd2d2e21bc035" label="Mixed Materials [31142063008125]" type="Box">13</container>
+          <container id="aspace_5fa4dfb99215cba77b81949b138735b8" parent="aspace_3b60b5c11ea222167f5dd2d2e21bc035" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_132dd859248f9c52885d0fb1d2da69a1" level="file">
+        <did>
+          <unittitle><emph render="italic">Anarchy</emph> : Journal of the Anarchist Pen Pals Unlimited, Montreal, Quebec</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0cfd53fba5b55f6a969ca541de223917" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_23693d133d70e08c9fc66628290bcab2" parent="aspace_0cfd53fba5b55f6a969ca541de223917" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_f50d7f668c0cd6bf528f0deb04c9ab2f" level="file">
+        <did>
+          <unittitle><emph render="italic">Anvil</emph> : California Prisoners Union, Sacramento, CA</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_554fac2e2f0c78229e454809f454e828" label="Mixed Materials [31142063008125]" type="Box">13</container>
+          <container id="aspace_f4891cc3512b5ddebf760226a29b09ec" parent="aspace_554fac2e2f0c78229e454809f454e828" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_cf8fdda4434dbeb12d7cf4a5b6b2413c" level="file">
+        <did>
+          <unittitle><emph render="italic">Arbitration Times</emph> : American Arbitration Association, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_c6361e737dfcb160b58c3350f259d7c8" label="Mixed Materials [31142063008125]" type="Box">13</container>
+          <container id="aspace_e36069cb4d37da46716dc7b40db4d92d" parent="aspace_c6361e737dfcb160b58c3350f259d7c8" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_434d7a9f7dc3ac5788345086530a7504" level="file">
+        <did>
+          <unittitle><emph render="italic">As the South Goes</emph> : Project South, Atlanta, GA</unittitle>
+          <unitdate datechar="creation" normal="1997/2003" type="inclusive">1997-2003</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bc715b96215cd0e826da5ab85ed8ba85" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_7891eabfdf1fc2d2b03ff4ae765511f2" parent="aspace_bc715b96215cd0e826da5ab85ed8ba85" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_5f04d15dac21087811c723e0fbac559b" level="file">
+        <did>
+          <unittitle><emph render="italic">Attica News</emph> : Attica Defense Committee, Buffalo, NY</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cf013c95b6288b1132d43b5c117a7603" label="Mixed Materials [31142063008059]" type="Box">6</container>
+          <container id="aspace_358abe71ad10d55d38692ac6a6ea5140" parent="aspace_cf013c95b6288b1132d43b5c117a7603" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_62ac6fee10ac8a07c921d8ede7b05a61" level="file">
+        <did>
+          <unittitle><emph render="italic">Attica News</emph> : Attica News, Buffalo, NY</unittitle>
+          <unitdate datechar="creation" normal="1974/1976" type="inclusive">1974-1976</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_7296056aa29cd0f99754f09ea8547afe" label="Mixed Materials [31142063008067]" type="Box">7</container>
+          <container id="aspace_e2f1a5062f4b2af675e321f3d5c76471" parent="aspace_7296056aa29cd0f99754f09ea8547afe" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_0acd7bbafc24295e273a2c824f086eff" level="file">
+        <did>
+          <unittitle><emph render="italic">Attica News Service</emph> : Attica Defense Committee, Buffalo, NY</unittitle>
+          <unitdate datechar="creation" normal="1973/1974" type="inclusive">1973-1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_53c4655799b07e9767b913ade2ac3adb" label="Mixed Materials [31142063008059]" type="Box">6</container>
+          <container id="aspace_f286701996284c771dd71d9dece55fe7" parent="aspace_53c4655799b07e9767b913ade2ac3adb" type="Folder">12-31</container>
+        </did>
+      </c>
+      <c id="aspace_ff40ed864dafae48f357d60aae40ab2d" level="file">
+        <did>
+          <unittitle><emph render="italic">August 8th Edition</emph> : August 8th Brigade Defense Coalition</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_134cc993fb9420341b4fd0a63b8d5fc4" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_c72e38438c52185d64dcf40d30ed79f6" parent="aspace_134cc993fb9420341b4fd0a63b8d5fc4" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_b8de52da849824057322fc17979ba0a4" level="file">
+        <did>
+          <unittitle><emph render="italic">Bar None</emph> : Bar None, W. Somerville, MA</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_953e771da0b536248e7faf7e76f46c02" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_16a3ab066c39fe497540a7f80744b360" parent="aspace_953e771da0b536248e7faf7e76f46c02" type="Folder">1-21</container>
+        </did>
+      </c>
+      <c id="aspace_08c2a7573ce77b60a957e2f90e3ee8dc" level="file">
+        <did>
+          <unittitle><emph render="italic">Beacon Light</emph> : William Kullgren, Atascadero, CA</unittitle>
+          <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_85e32971b219bf00c629362662a24a28" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_9e3513d479c52ce81cd05aff6fe52538" parent="aspace_85e32971b219bf00c629362662a24a28" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_9db4c3401e1ef3f13fb6be2e852a6d74" level="file">
+        <did>
+          <unittitle><emph render="italic">Beyond Welfare</emph> : Committee for Political Development / Advocators, Detroit, MI</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fc685e012c3c8cbf96f425ed5f86f0aa" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_1cb36db9e8dbabeb106eeb9eb4f53b7a" parent="aspace_fc685e012c3c8cbf96f425ed5f86f0aa" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_a9d5ad9a4ef273a56a5dd1b2243c97ed" level="file">
+        <did>
+          <unittitle><emph render="italic">Blind Justice</emph> : National Lawyers Guild, New York City Office, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1971/1988" type="inclusive">1971-1988</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_d85cd7f6ad9b3feeac40a3ff882563af" label="Mixed Materials [31142063008075]" type="Box">8</container>
+          <container id="aspace_3a1afd0f94aa071c35a46a9bc214cff6" parent="aspace_d85cd7f6ad9b3feeac40a3ff882563af" type="Folder">1-4</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_028cffaa7d376fbfd7a627a5db253be4" label="Mixed Materials [31142063008125]" type="Box">13</container>
+          <container id="aspace_c3f3cb0c44a0b221152cf8fe5db59e3d" parent="aspace_028cffaa7d376fbfd7a627a5db253be4" type="Folder">7-8</container>
+        </did>
+      </c>
+      <c id="aspace_0ad4c59e68c70ac8c6139817c29f2315" level="file">
+        <did>
+          <unittitle><emph render="italic">Blind Justice</emph> : New York City Chapter of the National Lawyers Guild, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_c1e08ba5095a525b1d6aa988ae4ac69e" label="Mixed Materials [31142063008075]" type="Box">8</container>
+          <container id="aspace_9fcb4eb201bdd6ac1b5a1fa98c5352ab" parent="aspace_c1e08ba5095a525b1d6aa988ae4ac69e" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_7bf3dec9d0184089a7983830fc90e6e0" level="file">
+        <did>
+          <unittitle><emph render="italic">Briefs</emph> : Seattle Chapter National Lawyers Guild, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1980/1985" type="inclusive">1980-1985</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7d923bc7033bccacfa604bfb747ac22d" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_f09dd94df67ca7d93e7e1cf2a412561a" parent="aspace_7d923bc7033bccacfa604bfb747ac22d" type="Folder">11-12</container>
+        </did>
+      </c>
+      <c id="aspace_e5f6da24e975096c3821337b227dccf1" level="file">
+        <did>
+          <unittitle><emph render="italic">Bulletin on the New York State Attorney General's Committee on Human Relations</emph> : New York State Attorney General's Committee on Human Relations, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9e17214d2f99c125ab13c60b79f62ae2" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_a38cffb5c637fe97705c8e94b8c98c24" parent="aspace_9e17214d2f99c125ab13c60b79f62ae2" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_6014ff51839c2de50d855de8ca65d5ef" level="file">
+        <did>
+          <unittitle><emph render="italic">By Any Means Necessary</emph> : Ruchell Magee Defense Committee, Stanford, CA</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">Undated</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_97845a6702c71412d64eaa4b5cc20954" label="Mixed Materials [31142063008125]" type="Box">13</container>
+          <container id="aspace_6ee4658796001b9c0f6015a1b4293538" parent="aspace_97845a6702c71412d64eaa4b5cc20954" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_72ffcc80f8783e191565588bb26e3ebd" level="file">
+        <did>
+          <unittitle><emph render="italic">California Guild Lawyer</emph> : National Lawyers Guild, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c629176fbb328a2f5e999a636814e04d" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_d6d0f193a91bd08445a0f550ba059cbe" parent="aspace_c629176fbb328a2f5e999a636814e04d" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_59b63118fdd197fc06b1a0952f3d3f07" level="file">
+        <did>
+          <unittitle><emph render="italic">Call for Justice</emph> : Committee For Justice For Domingo and Viernes, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f512d9f3be3ec4aa4260028f2513b565" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_0251493e1592a5f9a61b30cd74373674" parent="aspace_f512d9f3be3ec4aa4260028f2513b565" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ab9901b276e1e3835c2313a4905721dc" level="file">
+        <did>
+          <unittitle><emph render="italic">CARE The Refugee Report</emph> : CARE (Cooperative for Assistance and Relief Everywhere, Inc.), Atlanta, GA</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_29afdf59cd8f8c72cfe978a5f207fb0a" label="Mixed Materials [31142063008026]" type="Box">3</container>
+          <container id="aspace_bcc698f7d85683c57d06ed511bc6faa1" parent="aspace_29afdf59cd8f8c72cfe978a5f207fb0a" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_8589c025ebfdf4a267f51f1beb4a7c66" level="file">
+        <did>
+          <unittitle><emph render="italic">CDF Reports</emph> : Children's Defense Fund, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e4486674fb604450dbcd40769368f03f" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_0f9abd8e415bc280cd479f2106e1aa00" parent="aspace_e4486674fb604450dbcd40769368f03f" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_5cf1c88f7f7ac2cebd0d78e3032cf7be" level="file">
+        <did>
+          <unittitle><emph render="italic">Center for New Corporate Priorities Newsletter</emph> : Center for New Corporate Priorities, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5af44110cc9bc73fbdd78e737064984c" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_1b7e00da20e19fa98d41839a2a66ce73" parent="aspace_5af44110cc9bc73fbdd78e737064984c" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_016c73622694f4a58b53234ea6de0072" level="file">
+        <did>
+          <unittitle><emph render="italic">CFA News</emph> : Consumer Federation of America, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_d53a5b7d11603e034b4337c650ff1ba3" label="Mixed Materials [31142063008125]" type="Box">13</container>
+          <container id="aspace_ee83f677f4e8e5d3062af7875d3e1f14" parent="aspace_d53a5b7d11603e034b4337c650ff1ba3" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_5882cc87b47b4363a4704e94570223f6" level="file">
+        <did>
+          <unittitle><emph render="italic">Champions of the Human Rights Struggle - Fifth Annual Grassroots Tribute</emph> : New Afrikan People's Organization, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d2b436f74dfdda787eb77c0734c21f20" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_9f1899187d48eef503a178ec701a152a" parent="aspace_d2b436f74dfdda787eb77c0734c21f20" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_f701176966e4555ebe21a75e9d098cc4" level="file">
+        <did>
+          <unittitle><emph render="italic">Common Wealth Fund Quarterly</emph> : Common Wealth Fund, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1980/1989" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ad34b98913fab859ddf9d2a6f8143bff" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_bfc0db0c3df0f31c55f324a6624fd116" parent="aspace_ad34b98913fab859ddf9d2a6f8143bff" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_b1e7612ba8d2f673303659abeb73aa50" level="file">
+        <did>
+          <unittitle><emph render="italic">Commoner</emph> : Legal Services Training Center for Massachusetts, Boston, MA</unittitle>
+          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_965d111aae5a09cfde1ea899ed41909a" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_ba03843ebd8a2790da14cff58b7a2c97" parent="aspace_965d111aae5a09cfde1ea899ed41909a" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_8a3bc66fee5b1425314131acac9528a3" level="file">
+        <did>
+          <unittitle><emph render="italic">Connections</emph> : First Friends-EDCVP, Elizbeth, NJ</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b29f170690183fdfdbc4625389cb8b92" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_86fc0d021cad08e4a913af139216ee22" parent="aspace_b29f170690183fdfdbc4625389cb8b92" type="Folder">1-22</container>
+        </did>
+      </c>
+      <c id="aspace_e44e8cd831b12c7880d8f75196e8752c" level="file">
+        <did>
+          <unittitle><emph render="italic">Conspiracy</emph> : Bay Area Regional Office, National Lawyers Guild, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1970/1973" type="inclusive">1970-1973</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_2d64f005a8196fc737fc0be7c710be40" label="Mixed Materials [31142063008075]" type="Box">8</container>
+          <container id="aspace_fdd55061e6308109c4c879bb438a1350" parent="aspace_2d64f005a8196fc737fc0be7c710be40" type="Folder">8-10</container>
+          <container altrender="Flat OS Box 17" id="aspace_6e4e010044b1a42eb994b38dcf07812a" label="Mixed Materials [31142063008083]" type="Box">9</container>
+          <container id="aspace_7ca9f95f4bf0c09ea5b4abcdc1f2eed3" parent="aspace_6e4e010044b1a42eb994b38dcf07812a" type="Folder">1</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_c263343e7f0554b4a683068e991f3e0d" label="Mixed Materials [31142063008125]" type="Box">13</container>
+          <container id="aspace_a504473e8d85463c7407082c13d86127" parent="aspace_c263343e7f0554b4a683068e991f3e0d" type="Folder">11-12</container>
+        </did>
+      </c>
+      <c id="aspace_6cf34b3e1f0cf39733cbfae2419b15c6" level="file">
+        <did>
+          <unittitle><emph render="italic">Conspiracy</emph> : National Lawyers Guild, Bay Area Regional Office, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">Undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_42c6b7defa2d9119a51b7756c0fd76e5" label="Mixed Materials [31142063008075]" type="Box">8</container>
+          <container id="aspace_2c5502ff1b97cbaec7a17293892e533e" parent="aspace_42c6b7defa2d9119a51b7756c0fd76e5" type="Folder">6-7</container>
+          <container altrender="Flat OS Box 17" id="aspace_92c53e31d9feb9f8b5185599f85d361b" label="Mixed Materials [31142063008083]" type="Box">9</container>
+          <container id="aspace_53ab44495d96d4c5fc200bec33b1ea97" parent="aspace_92c53e31d9feb9f8b5185599f85d361b" type="Folder">2-6</container>
+        </did>
+      </c>
+      <c id="aspace_ed86252be0ed061a275effbdf74612b8" level="file">
+        <did>
+          <unittitle><emph render="italic">Constitutional Protection for the Foreign Born 12th Annual Conference Journal</emph> : Los Angeles Committee for Protection of the Foreign Born, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0d92c8b50d587eeb2aa9c0ba79bd0377" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_48ea5b51501af88356865cdd7698f7c5" parent="aspace_0d92c8b50d587eeb2aa9c0ba79bd0377" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_1c8497d93a4fe06f94c4247bb21a2295" level="file">
+        <did>
+          <unittitle><emph render="italic">Constitutionalist</emph> : Committee to Protect Convention Action and Preserve the Constitution, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_6180c0f820b7996058a4b4c11029126f" label="Mixed Materials [31142063011293]" type="Box">14</container>
+          <container id="aspace_82823a1625eb98ded3615e8a63f9dd02" parent="aspace_6180c0f820b7996058a4b4c11029126f" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_1bd2728ce6d900b9357f99c191d91573" level="file">
+        <did>
+          <unittitle><emph render="italic">Consumers Voice</emph> : Consumers Education &amp; Protective Association International, Inc., Philadelphia, PA</unittitle>
+          <unitdate datechar="creation" normal="1982/1990" type="inclusive">1982-1990</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_e13de305857cfdcf4b0859c39ba099af" label="Mixed Materials [31142063011293]" type="Box">14</container>
+          <container id="aspace_621b09c733670afc481b9f544a24aa63" parent="aspace_e13de305857cfdcf4b0859c39ba099af" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_03d6637fc00fa875c85b88ba4db049d6" level="file">
+        <did>
+          <unittitle><emph render="italic">Corporate Crime Update</emph> : Center for Corporate Accountability, London, UK</unittitle>
+          <unitdate datechar="creation" normal="2002/2007" type="inclusive">2002-2007</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3ea2d26d1fbb85adcba9a9ee45b71e2b" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_ac9ce8e6e6e203e5d717ebb530728b83" parent="aspace_3ea2d26d1fbb85adcba9a9ee45b71e2b" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_a1f81c7286fabc1cc7c2a829c21b0235" level="file">
+        <did>
+          <unittitle><emph render="italic">CPSB Newsletter</emph> : Committee for Prisoner Support in Birmingham, Birmingham, AL</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_ad87c9c48c51f18c25f69ebd5741f11d" label="Mixed Materials [31142063011293]" type="Box">14</container>
+          <container id="aspace_550405ae96d508a2fc5c7ed1f87d00d5" parent="aspace_ad87c9c48c51f18c25f69ebd5741f11d" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_2d9469a157ae1d0df8636fea91afb480" level="file">
+        <did>
+          <unittitle><emph render="italic">Cure-NY Newsletter</emph> : New York Chapter of Citizens United for the Rehabilitation of Errants (CURE), Katonah, NY</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a5b328fdfff7b6a6cf3fd1fd1ff36120" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_ce7b4b72fed9d9c5d91747b45e66cd33" parent="aspace_a5b328fdfff7b6a6cf3fd1fd1ff36120" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_4f0cfb0379c75f7dee38a60b39fc1661" level="file">
+        <did>
+          <unittitle><emph render="italic">Endeavor</emph> : War Resisters League, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1990/1991" type="inclusive">1990-1991</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_405facb793f9b5c66f8aca5f6b755579" label="Mixed Materials [31142063011293]" type="Box">14</container>
+          <container id="aspace_9be63266d1f4b33a2f83e82a2266468a" parent="aspace_405facb793f9b5c66f8aca5f6b755579" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_76943ab0f8ec8d733cb5c44b1089445a" level="file">
+        <did>
+          <unittitle><emph render="italic">Equal Defense Alliance</emph> : National Lawyers Guild, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_37699478777a2b84fb6baffb39b40407" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_47a3a17fd0320a54108efec469dcf16c" parent="aspace_37699478777a2b84fb6baffb39b40407" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_cf948aa4d19d9fe92232e771c4dd627b" level="file">
+        <did>
+          <unittitle><emph render="italic">Ethical Perspectives</emph> : Publications Committee of the New York Society for Ethical Culture, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3da9b0cff0564289078f23125e5d0449" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_639534d9eaf3519d848f00dfbc5ddcc1" parent="aspace_3da9b0cff0564289078f23125e5d0449" type="Folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_ee845905e080d4ed2d69aeee0791e12b" level="file">
+        <did>
+          <unittitle><emph render="italic">FAMMgram</emph> : Families Against Mandatory Minimums Foundation, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1994/2001" type="inclusive">1994-2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0c32f210a7eacadf0f7632274fdd0ff2" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_775a3565434540f924fc50f01ab5e348" parent="aspace_0c32f210a7eacadf0f7632274fdd0ff2" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_fd700cf9b3d883ac9d0992438483754b" level="file">
+        <did>
+          <unittitle><emph render="italic">Fighting Back</emph> : Youth Against War &amp; Fascism, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_b4e2dc2c61f285482f53570024dddcea" label="Mixed Materials [31142063011293]" type="Box">14</container>
+          <container id="aspace_e229c95334d29e1de00329aaf40e7c39" parent="aspace_b4e2dc2c61f285482f53570024dddcea" type="Folder">1-4</container>
+        </did>
+      </c>
+      <c id="aspace_2e1ec319b73c4ccd453af68a86f9de75" level="file">
+        <did>
+          <unittitle><emph render="italic">FOIA, Inc. Pamphlet</emph> : Fund for Open Information and Accountability, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_644b6269da86610e5cbcd0ccc1e7d6f4" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_21db9749b14db3d0c3a47b151b42125f" parent="aspace_644b6269da86610e5cbcd0ccc1e7d6f4" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_debd4d668027101604555b6b9049a079" level="file">
+        <did>
+          <unittitle><emph render="italic">FOIAlert</emph> : FOIA, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1980/1989" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_51217384e231d9e8b110e9bebf84f0b2" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_f01d0339b282d7bc6b498dc1ee4753fb" parent="aspace_51217384e231d9e8b110e9bebf84f0b2" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_b83b3895de4bfc14062f22103b263702" level="file">
+        <did>
+          <unittitle><emph render="italic">Fortune News</emph> : Fortune Society, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4dbb6852f6db2587733f52e9aed5598d" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_4882ba23de7c980bfadacb0f8956bdec" parent="aspace_4dbb6852f6db2587733f52e9aed5598d" type="Folder">26</container>
+          <container altrender="Manuscript box - Legal" id="aspace_8ad6fecc861a057a1b794ea42a39423e" label="Mixed Materials [31142063008059]" type="Box">6</container>
+          <container id="aspace_a47d0bc6593425cc58120f9649801a56" parent="aspace_8ad6fecc861a057a1b794ea42a39423e" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_87fa007d21d38f5d6524709338234564" level="file">
+        <did>
+          <unittitle><emph render="italic">Free Terrence Johnson</emph> : DC Unite to Fight Back, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_84443d1f0190bccaa63a82d0022fb2fc" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_bba08d71043994ef10bcfbc49df731e0" parent="aspace_84443d1f0190bccaa63a82d0022fb2fc" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_6c98cff0aa45bd0078460a46794bcbdf" level="file">
+        <did>
+          <unittitle><emph render="italic">Free the Five Newsletter</emph> : Free the Vancouver Five Defense Group, Vancouver, BC</unittitle>
+          <unitdate datechar="creation" normal="1983/1985" type="inclusive">1983-1985</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2ef57313ffdbfa36208d61f91db0159e" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_85e4fb841bc56a7ec95bb94b8af0450a" parent="aspace_2ef57313ffdbfa36208d61f91db0159e" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_02aee0300a6519c7801531cb7d02bfad" level="file">
+        <did>
+          <unittitle><emph render="italic">Freedom Now!</emph> : Campaign for Amnesty and Human Rights for Political Prisoners in the US, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6cb9b93bc9597e7b7557047fefc1464e" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_5844ad5f44b7237e8dff10773cda0e81" parent="aspace_6cb9b93bc9597e7b7557047fefc1464e" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_2e43bc6f183d9a586a8a3c76ca264730" level="file">
+        <did>
+          <unittitle><emph render="italic">Freeworld Times</emph> : The Murian Foundation for Criminal Justice, Inc., Minneapolis, MN</unittitle>
+          <unitdate datechar="creation" normal="1972/1974" type="inclusive">1972-1974</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_2ec9bb37d5b152c1856ba042f4b7958b" label="Mixed Materials [31142063011293]" type="Box">14</container>
+          <container id="aspace_dadfbbcc9b63b6d28234c0b0eb6837b9" parent="aspace_2ec9bb37d5b152c1856ba042f4b7958b" type="Folder">6-7</container>
+        </did>
+      </c>
+      <c id="aspace_9cd2879423426617bcf2a388576df4fa" level="file">
+        <did>
+          <unittitle><emph render="italic">Gathering - Death Row Voices Both Sides of the Wire</emph> : November Belford West / War Resisters League, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_5bc230bb045d47a71288c77e4ad062de" label="Mixed Materials [31142063011293]" type="Box">14</container>
+          <container id="aspace_5db7011791245f71d72b0dcd15e165fb" parent="aspace_5bc230bb045d47a71288c77e4ad062de" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_e7ed9633c1d2f5c24d98859fc420f2e8" level="file">
+        <did>
+          <unittitle><emph render="italic">Gaycon Prison Newsletter</emph> : Gaycon Prision Outreach, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ecd39da186503d1c33bd9729c8abb9f7" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_0d5974225e38b14ceb7b8939a1d033d4" parent="aspace_ecd39da186503d1c33bd9729c8abb9f7" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_db50168b4b0ac713c2fd4c2a63a0a56b" level="file">
+        <did>
+          <unittitle><emph render="italic">GEO (Grassroots Economic Organizing) Newsletter</emph> : EDINA, The Ecological Democracy Institute of North America, Stillwater, PA</unittitle>
+          <unitdate datechar="creation" normal="1996/2000" type="inclusive">1996-2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_16c43b600b4b17b15624a24bf8e6de11" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_0bc4c7ef55de8b6f0b7b81f67061bdf9" parent="aspace_16c43b600b4b17b15624a24bf8e6de11" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_20a4f58cb4039f0f1f81a4e100710921" level="file">
+        <did>
+          <unittitle><emph render="italic">Grassroots Grapevine</emph> : Hempstead Chapter of the Long Island Progressive Coalition, Massapequa, NY</unittitle>
+          <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_65096b1a1a42b2ad7590623fd08bd2be" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_21271af2ad8ccc688d9260e6c897f7f4" parent="aspace_65096b1a1a42b2ad7590623fd08bd2be" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_875ebfb2a7658695ef28e63a172861d9" level="file">
+        <did>
+          <unittitle><emph render="italic">Hapotoc Newsletter</emph> : HAPOTOC, Amsterdam, Netherlands</unittitle>
+          <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0f7298d1b0ef3517e8e9773a9527cc58" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_ea1d3d0e8e81297cee8dd270cb6c5de0" parent="aspace_0f7298d1b0ef3517e8e9773a9527cc58" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_874d7e8fbdf9ddfdaab125c4129a42af" level="file">
+        <did>
+          <unittitle><emph render="italic">Human Rights News</emph> : Fund for Human Rights, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1973/1974" type="inclusive">1973-1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a84890d0e813529c709109a7c56e906a" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_f712e134b2d26724869d0394295ec366" parent="aspace_a84890d0e813529c709109a7c56e906a" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_b2eb98dd764f6ec9423d4230c6603890" level="file">
+        <did>
+          <unittitle><emph render="italic">Human Rights Yearbook</emph> : USSR Academy of Sciences - The Institute of State and Law, Moscow, USSR</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5045a78ee8dda6c757e12571bd64f385" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_89e3d651613c121bc6edbf08808acebd" parent="aspace_5045a78ee8dda6c757e12571bd64f385" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_323e0eea962d06215d43b48e6aa69395" level="file">
+        <did>
+          <unittitle><emph render="italic">Humanitas</emph> : International Human Rights Committee, Menlo Park, CA</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a71d2f790b504eecb5c745c1d0f6a936" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_ade687d371b29e48fcb5be6ef30dae33" parent="aspace_a71d2f790b504eecb5c745c1d0f6a936" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_5c2ec3933e30b38d8455a0e7fa05b627" level="file">
+        <did>
+          <unittitle><emph render="italic">Indigenous &amp; Planning Development Times</emph> : Massachusetts Institute of Technology and Pratt Institute, Brooklyn, NY</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fe24b95ae5f71935ce04d7e865a845a4" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_5653cc9a91522c722caf440aebaafda4" parent="aspace_fe24b95ae5f71935ce04d7e865a845a4" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_700ab6ba0046d73d6ec48157348db66a" level="file">
+        <did>
+          <unittitle><emph render="italic">Inner City Press</emph> : Inner City Press, Bronx, NY</unittitle>
+          <unitdate datechar="creation" normal="1988/1994" type="inclusive">1988-1994</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_d9f42fd978a6dadcb7e4e213d89c0059" label="Mixed Materials [31142063008091]" type="Box">10</container>
+          <container id="aspace_09d6ba95365af6c72f8b938107ecce97" parent="aspace_d9f42fd978a6dadcb7e4e213d89c0059" type="Folder">1-3</container>
+        </did>
+      </c>
+      <c id="aspace_70d3a11b0dce69c3710c9932d8c0a1de" level="file">
+        <did>
+          <unittitle><emph render="italic">Inside Out</emph> : Prisoner's Progress Association, Ann Arbor, MI</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b4f7ab9cf639cb770a59b31060527030" label="Mixed Materials [31142063008059]" type="Box">6</container>
+          <container id="aspace_eb9e7a8a103a9f2af736ccaa43a9c2bd" parent="aspace_b4f7ab9cf639cb770a59b31060527030" type="Folder">2</container>
+          <container altrender="Flat OS Box 17" id="aspace_843ab6ef7d411f863e1dff1567ae1f07" label="Mixed Materials [31142063008091]" type="Box">10</container>
+          <container id="aspace_bee32924473fa7f6e8f9dcb0e28c5f5b" parent="aspace_843ab6ef7d411f863e1dff1567ae1f07" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_dac6f01b38b84da0a4cfba5491da6033" level="file">
+        <did>
+          <unittitle><emph render="italic">Intelligence Report</emph> : Southern Poverty Law Center, Montgomery, AL</unittitle>
+          <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f0cf7b1d4ce6056be4276cdcb6ea1483" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_0a17b924529d728f327e4d3b70896a6b" parent="aspace_f0cf7b1d4ce6056be4276cdcb6ea1483" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_0d326a30dacfc933587aec3c415f4b4d" level="file">
+        <did>
+          <unittitle><emph render="italic">IRCD Bulletin</emph> : ERIC Information Retrieval Center on the Disadvantaged, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_29cf13c8e4a499c9f62d05c17de98857" label="Mixed Materials [31142063008000]" type="Box">1</container>
+          <container id="aspace_ca0ae22423641558d869a83bf602a704" parent="aspace_29cf13c8e4a499c9f62d05c17de98857" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_edbd52b4dd24c6173a4f0749fe69be1f" level="file">
+        <did>
+          <unittitle><emph render="italic">Jericho</emph> : UUSC National Moratorium on Prison Construction, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1983/1984" type="inclusive">1983-1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cc77b210dcd09b1c6ed684d3dd0645d1" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_6340ddf1857cadd51d3284c5a5481f36" parent="aspace_cc77b210dcd09b1c6ed684d3dd0645d1" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_62486879ea576d30fcabe561899a6a04" level="file">
+        <did>
+          <unittitle><emph render="italic">Jericho</emph> : National Moratorium on Prison Construction, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1976/1984" type="inclusive">1976-1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_668ee7c9b883022226af5d862db7ab1b" label="Mixed Materials [31142063008059]" type="Box">6</container>
+          <container id="aspace_9548a6a107b2a2a2fa254b4353a117ea" parent="aspace_668ee7c9b883022226af5d862db7ab1b" type="Folder">3-5</container>
+        </did>
+      </c>
+      <c id="aspace_2243bcb3256b87cada641c5d8928267a" level="file">
+        <did>
+          <unittitle><emph render="italic">Jericho</emph> : Joint Committee, Portland, OR</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_d5c7cf0ee72124783e9af76e7c5779ce" label="Mixed Materials [31142063008091]" type="Box">10</container>
+          <container id="aspace_22fc34989abe167d0989ebcdbc5328d3" parent="aspace_d5c7cf0ee72124783e9af76e7c5779ce" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ea61939dab983499f50eaa92a47b4e86" level="file">
+        <did>
+          <unittitle><emph render="italic">Journal of the American Judicature Society</emph> : American Judicature Society, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d434ed0b8e85903d67309b88599c61c9" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_f8f75244ebf34beca2fc6394e79581a3" parent="aspace_d434ed0b8e85903d67309b88599c61c9" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_9fa376f8389af0aaafcd5254cc6adb7f" level="file">
+        <did>
+          <unittitle><emph render="italic">Justice First</emph> : Alliance for Justice, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_398d29da19a79dcf9230e653f907fbb1" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_2842b4ce39df51ac18b08b79b8647026" parent="aspace_398d29da19a79dcf9230e653f907fbb1" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_4b32a9ee99ebe5a4aac9bbad3eaf239b" level="file">
+        <did>
+          <unittitle><emph render="italic">Justice for Youth</emph> : Community Service Society of New York, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8fca56596ddd1532cf8942134b8d775a" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_209a9a6acc569ecf68553bc0da5b01dd" parent="aspace_8fca56596ddd1532cf8942134b8d775a" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_8d5c3ad35243e28e9cda82bec58605fd" level="file">
+        <did>
+          <unittitle><emph render="italic">Justice Matters</emph> : Western Prison Project, Portland, OR</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_faec54fe06cfa05fde4939268e2520c8" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_0168807adf4ec41bee32f2f35fa8e9f2" parent="aspace_faec54fe06cfa05fde4939268e2520c8" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_5d769ddfe1ae06413d3110932c6c306d" level="file">
+        <did>
+          <unittitle><emph render="italic">JusticeJournal</emph> : JusticeWorks Community, Brooklyn, NY</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b9cd8fdb22a80ac10d876c59e3972b0c" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_b31b03013863cb21f888120cf1078bc1" parent="aspace_b9cd8fdb22a80ac10d876c59e3972b0c" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_c9552dd65e5975582ae12ef5ce86278c" level="file">
+        <did>
+          <unittitle><emph render="italic">Justicia</emph> : Judicial Process Commission, Rochester, NY</unittitle>
+          <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b1c28abdcc2e2b168656d86d6049b468" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_abdaf524cb7c527a1b8c222d02501f7d" parent="aspace_b1c28abdcc2e2b168656d86d6049b468" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_f4e78da894d063664f34a7880db94da1" level="file">
+        <did>
+          <unittitle><emph render="italic">Labor League News</emph> : Labor League for Human Rights, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8acaef72a843b0ee1d8ee02b0b3e1761" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_89d36c2ee64c8c94e5832f86d9fffcc2" parent="aspace_8acaef72a843b0ee1d8ee02b0b3e1761" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_596bbababea6a1056cf31a454505ea3c" level="file">
+        <did>
+          <unittitle><emph render="italic">Law in the Service of Peace</emph> : International Association of Democratic Lawyers' Review, Brussels, Belgium</unittitle>
+          <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5aa73bbb162fdd91ddb20922026c8c2c" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_baed5edc53891a4ff8dcf3c8d3fc32cb" parent="aspace_5aa73bbb162fdd91ddb20922026c8c2c" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_c4dfa19d508e678c16259d9123147316" level="file">
+        <did>
+          <unittitle><emph render="italic">Law Report</emph> : Southern Poverty Law Center, Montgomery, AL</unittitle>
+          <unitdate datechar="creation" normal="1974/1991" type="inclusive">1974-1991</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_c4630ec1132ce458d45f6420e6c42223" label="Mixed Materials [31142063011293]" type="Box">14</container>
+          <container id="aspace_70659e56ce20569b1936ce2baf639aa3" parent="aspace_c4630ec1132ce458d45f6420e6c42223" type="Folder">10-11</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_c550a3a6aa9f0ca02b8e29adc5aeb718" label="Mixed Materials [31142063011301]" type="Box">15</container>
+          <container id="aspace_5ac6938d23715b4b26b3451a8b462515" parent="aspace_c550a3a6aa9f0ca02b8e29adc5aeb718" type="Folder">10-11</container>
+        </did>
+      </c>
+      <c id="aspace_79f79e95d6ffdc5b4eb9d150f7e36a9f" level="file">
+        <did>
+          <unittitle><emph render="italic">Legal Journal</emph> : National Lawyers Guild Prison Law Project, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_29f500840e4ade8316c7effeb82c19db" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_c53f790b2db0667ff88d7b3f49667b23" parent="aspace_29f500840e4ade8316c7effeb82c19db" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_be39b85339597fe0462fdc0c5ecf7b7b" level="file">
+        <did>
+          <unittitle><emph render="italic">Legal Reformer</emph> : HALT, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1991/1995" type="inclusive">1991-1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fc13bff5f3d5af2b5db49a850b3a8443" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_f2b2b2c543347b69df51327f03e930cf" parent="aspace_fc13bff5f3d5af2b5db49a850b3a8443" type="Folder">9-10</container>
+        </did>
+      </c>
+      <c id="aspace_9ddb81e0a08df4ece555cc8efe9990db" level="file">
+        <did>
+          <unittitle><emph render="italic">Legislative Gazette</emph> : State University of New York College at New Paltz, Albany, NY</unittitle>
+          <unitdate datechar="creation" normal="1983/1993" type="inclusive">1983-1993</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_13112e591219a48e7140bf136f48c7ee" label="Mixed Materials [31142063008091]" type="Box">10</container>
+          <container id="aspace_7e7c2b4ae1b9b50fad40f06b7f00b86e" parent="aspace_13112e591219a48e7140bf136f48c7ee" type="Folder">6-7</container>
+        </did>
+      </c>
+      <c id="aspace_315536812a6c70f38e17450a0e073377" level="file">
+        <did>
+          <unittitle><emph render="italic">M-CUP</emph> : Minneapolis Community Union Project, Minneapolis, MN</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bca01f572c5f6a67b87f10455152c0d8" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_cd962680b90daa7248d858d7a60b4fbf" parent="aspace_bca01f572c5f6a67b87f10455152c0d8" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_1ee6d4d422df99c472fdcf4d325a92f9" level="file">
+        <did>
+          <unittitle><emph render="italic">Marion Brothers Action Bulletin</emph> : National Committee to Support Marion Bros., St. Louis, MO</unittitle>
+          <unitdate datechar="creation" normal="1940/1999" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_dc559b9a35a34721312b41637d0a0dab" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_32056569d17f3a98ca3a5f1e0cd2977a" parent="aspace_dc559b9a35a34721312b41637d0a0dab" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_35e2c9915f2ab5a8749c2cd356c44033" level="file">
+        <did>
+          <unittitle><emph render="italic">Marion Brothers News Report</emph> : National Committee to Support the Marion Brothers, St. Louis, MO</unittitle>
+          <unitdate datechar="creation" normal="1978/1979" type="inclusive">1978-1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_dd9679ce28f5900f8afc25ba0910b29d" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_1f04f47505dfb78bbc23068d280f455a" parent="aspace_dd9679ce28f5900f8afc25ba0910b29d" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_93291afcf1793fca34fa4f565193bf10" level="file">
+        <did>
+          <unittitle><emph render="italic">Matchbox</emph> : Amnesty International USA, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1976/1983" type="inclusive">1976-1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_654f4c3de7eb69c9575b4ad303171e35" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_bf31083fbb78e2f0ac150ea088663555" parent="aspace_654f4c3de7eb69c9575b4ad303171e35" type="Folder">12</container>
+          <container altrender="Flat OS Box 17" id="aspace_eadd6b8ff66cdff5af2c2b25c1d9fc42" label="Mixed Materials [31142063008091]" type="Box">10</container>
+          <container id="aspace_dbbd0d58ff9804111974e6dc8edbc364" parent="aspace_eadd6b8ff66cdff5af2c2b25c1d9fc42" type="Folder">8-10</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_bd463406db9ba91f359d636a0ed7639a" label="Mixed Materials [31142063011293]" type="Box">14</container>
+          <container id="aspace_da783cfe0b72fef47ece1aee02d2800d" parent="aspace_bd463406db9ba91f359d636a0ed7639a" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_250fa6770416bc2bf1d5bd01a6d68edf" level="file">
+        <did>
+          <unittitle><emph render="italic">Matchbox</emph> : Amnesty International of the USA, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_348124eddef5a099cd1dccfd303c2f99" label="Mixed Materials [31142063011293]" type="Box">14</container>
+          <container id="aspace_15f52666b5de89d68f75c0b4877158a7" parent="aspace_348124eddef5a099cd1dccfd303c2f99" type="Folder">13-14</container>
+        </did>
+      </c>
+      <c id="aspace_2ece9678b55bf82cf89af4a1858a3d07" level="file">
+        <did>
+          <unittitle><emph render="italic">Maverick</emph> : Minnesota Prisoners Union, Minneapolis, MN</unittitle>
+          <unitdate datechar="creation" normal="1975/1979" type="inclusive">1975-1979</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_f92b25549bf28b3361584b9b0de6b2af" label="Mixed Materials [31142063008091]" type="Box">10</container>
+          <container id="aspace_47a5d2d5b6618a59f66f5de4dadc87f2" parent="aspace_f92b25549bf28b3361584b9b0de6b2af" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_72aa98f416b06552dff23c3efb7f98b2" level="file">
+        <did>
+          <unittitle><emph render="italic">MCC News</emph> : Morrisania Community Corporation, Bronx, NY</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_2a4a6fb67c507bf4eafecd43604d0329" label="Mixed Materials [31142063011301]" type="Box">15</container>
+          <container id="aspace_c7f20c88909d8050533bc9a21a336652" parent="aspace_2a4a6fb67c507bf4eafecd43604d0329" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_b4d14987a87f9cb07b2c4ef6088aa83c" level="file">
+        <did>
+          <unittitle><emph render="italic">Michigan State Bar Journal</emph> : State Bar of Michigan, Lansing, MI</unittitle>
+          <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5b5406304bff8642cc605e2864ab88fe" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_fa77909c759e8031420d03f05580c944" parent="aspace_5b5406304bff8642cc605e2864ab88fe" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_4a0318550a13c2a5cb2ae98490179343" level="file">
+        <did>
+          <unittitle><emph render="italic">Minnesota Prisoners' Union Newsletter</emph> : Minnesota Prisoners Union, Minneapolis, MN</unittitle>
+          <unitdate datechar="creation" normal="1973/1975" type="inclusive">1973-1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2eabc522fb28c4f687f02b157bd2c7cb" label="Mixed Materials [31142063008059]" type="Box">6</container>
+          <container id="aspace_7524cb2225aac1945a9000ed4e79bbc7" parent="aspace_2eabc522fb28c4f687f02b157bd2c7cb" type="Folder">6</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_4d943e4dd15dcace438072f6b1fecfd4" label="Mixed Materials [31142063011301]" type="Box">15</container>
+          <container id="aspace_46da18e201c9a1438e53f2d4792e3961" parent="aspace_4d943e4dd15dcace438072f6b1fecfd4" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_293b6e0cbc2da7dd08b1cc181fbbe8ca" level="file">
+        <did>
+          <unittitle><emph render="italic">Money, Education and Prisons</emph> : MEP, Madison, WI</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a91aa1d47c7719f0e84e59336df33658" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_e71aff65f210c160f31cad2fcf6c34fe" parent="aspace_a91aa1d47c7719f0e84e59336df33658" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_e14ac16665c94b0a49d7a8e225decec7" level="file">
+        <did>
+          <unittitle><emph render="italic">Moratorium Campaign</emph> : Moratorium Campaign, New Orleans, LA</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cef80e6df1a373e9a3f3937a9266c453" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_1a143325f984e7b3f68f473d14b36054" parent="aspace_cef80e6df1a373e9a3f3937a9266c453" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_402189a7fd23be7869de19c954c35f8e" level="file">
+        <did>
+          <unittitle><emph render="italic">N.P.R.A. News</emph> : National Prisoners' Reform Association, Cranston, RI</unittitle>
+          <unitdate datechar="creation" normal="1974/1977" type="inclusive">1974-1977</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_f7e58cab917a3552ff23e196626672a8" label="Mixed Materials [31142063011301]" type="Box">15</container>
+          <container id="aspace_dcb62f5fb98cf5d1990863d84c4bdc9b" parent="aspace_f7e58cab917a3552ff23e196626672a8" type="Folder">3-6</container>
+        </did>
+      </c>
+      <c id="aspace_a20b7131ecb3eb4670827ab0d3074c7a" level="file">
+        <did>
+          <unittitle><emph render="italic">N.Y. City Crisis Center Newsletter</emph> : NY City Crisis Center, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_600f305a1afec9dd708029e7565263a4" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_1bbc634d89a1dae432705bec7dc07620" parent="aspace_600f305a1afec9dd708029e7565263a4" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_b002d6681b7b7ce6a3db44a4c40bd385" level="file">
+        <did>
+          <unittitle><emph render="italic">NEPA News</emph> : New England Prisoners' Association, Franconia, NH</unittitle>
+          <unitdate datechar="creation" normal="1973/1976" type="inclusive">1973-1976</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_4889935ceb4702d313c94f02c2a0a96e" label="Mixed Materials [31142063008091]" type="Box">10</container>
+          <container id="aspace_943e8a4fea0437a03109209f7cab707f" parent="aspace_4889935ceb4702d313c94f02c2a0a96e" type="Folder">12-13</container>
+          <container altrender="Flat OS Box 17" id="aspace_46188ae38a75d23dbe5b6f93b25e6753" label="Mixed Materials [31142063008109]" type="Box">11</container>
+          <container id="aspace_946000c462427c18673357c7bba1b337" parent="aspace_46188ae38a75d23dbe5b6f93b25e6753" type="Folder">1-3</container>
+        </did>
+      </c>
+      <c id="aspace_b45bd8a8449df3d3036c51dd2a652afd" level="file">
+        <did>
+          <unittitle><emph render="italic">New York City News</emph> : National Lawyers Guild, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1998/2003" type="inclusive">1998-2003</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cd0cb7e8c1952971c12fd1847ea0ddd2" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_b4dac3ac4c1b4386692a9e35dff0b0ed" parent="aspace_cd0cb7e8c1952971c12fd1847ea0ddd2" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ca477b6e24544fc349056d813a70b19e" level="file">
+        <did>
+          <unittitle><emph render="italic">New York Law Journal</emph> : New York Law Journal, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_57600383034a34929fc1a8a3a3fb0ae6" label="Mixed Materials [31142063008059]" type="Box">6</container>
+          <container id="aspace_1074f47b2a6465e15299d3d660385bb7" parent="aspace_57600383034a34929fc1a8a3a3fb0ae6" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_d365df1b8725befc50e3ee6067becb9f" level="file">
+        <did>
+          <unittitle><emph render="italic">New York Nonprofits</emph> : Nonprofit Coordinating Committee of NY, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2a58c4409e0525df65295344b121fff7" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_22ba6a2184b42b51fd111077d1ea3152" parent="aspace_2a58c4409e0525df65295344b121fff7" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_1b8104121212aa1c6a135d5dd150ca4a" level="file">
+        <did>
+          <unittitle><emph render="italic">Newsletter</emph> : Poverty / Rights Action Center, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d7fbc1ace004f9c790ecb7659d72710d" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_76790263c18175f17a3cdf2e6871da55" parent="aspace_d7fbc1ace004f9c790ecb7659d72710d" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ab56338050f0e36bcbaeeb0a76c1c678" level="file">
+        <did>
+          <unittitle><emph render="italic">Newsletter</emph> : Kristina Berster Defense Committee, Winooski, VT</unittitle>
+          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5930f9dde8b29387a87de541fea5358d" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_543158f86cc336b57782ac1ab3f56be3" parent="aspace_5930f9dde8b29387a87de541fea5358d" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_9ea8efdf2c8d4289aae203a8b13d88d4" level="file">
+        <did>
+          <unittitle><emph render="italic">Newsletter</emph> : Alternatives to Violence Project, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_35adad7290502c677fe544d9e50f5736" label="Mixed Materials [31142063008059]" type="Box">6</container>
+          <container id="aspace_80c62215da6ca36f55f721894c0848e8" parent="aspace_35adad7290502c677fe544d9e50f5736" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ecee68d68db7d70a1d0097ee9d597212" level="file">
+        <did>
+          <unittitle><emph render="italic">Newsletter </emph> : Committee for Human Rights in Chile, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_815cabbdd2392f7d7a26c8155f5ae431" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_309ca34907dea35dd4a023370276b67a" parent="aspace_815cabbdd2392f7d7a26c8155f5ae431" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_05d633df879e44fe18d24df6e69c6e57" level="file">
+        <did>
+          <unittitle><emph render="italic">NLG / Maurice and Jane Sugar Law Center for Economic &amp; Social Justice</emph> : NLG / Sugar Law Center, Detroit, MI</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f92030a098f1c4ea04d1f1ad187bde02" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_03cc5a3737a631427d6c17cefedc99ad" parent="aspace_f92030a098f1c4ea04d1f1ad187bde02" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_0f02e3de94a7eb069da95362e4d52496" level="file">
+        <did>
+          <unittitle><emph render="italic">North Carolina Political Prisoners Committee Newsletter</emph> : North Carolina Political Prisoners Committee, Charlotte, NC</unittitle>
+          <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a0c3f29232b9300d76bb81732c5f3c7f" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_d4bdca3775d7d9b28318036ca817d3b5" parent="aspace_a0c3f29232b9300d76bb81732c5f3c7f" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_f69ef769900a70104ed4bfd33d8ffef9" level="file">
+        <did>
+          <unittitle><emph render="italic">North Star News</emph> : North Star Fund, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ea610bc8c65caf56644b93bbba87e3e7" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_3fdd40447ef7765da941e9752fc5856d" parent="aspace_ea610bc8c65caf56644b93bbba87e3e7" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_dc56de294d358c9b07a7dfa509be1dcb" level="file">
+        <did>
+          <unittitle><emph render="italic">Nottingham Defence Fund Newsletter</emph> : Nottingham Defence Fund, Nottingham, UK</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1a51cad7ec156c2d2bcc8a6698d4d13f" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_5a1c0a1592714684f6a53688d273ef1a" parent="aspace_1a51cad7ec156c2d2bcc8a6698d4d13f" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_863f02695f9bdbf967af61cbe96a12a2" level="file">
+        <did>
+          <unittitle><emph render="italic">November Coalition</emph> : The November Coalition, Colville, WA</unittitle>
+          <unitdate datechar="creation" normal="1999/2001" type="inclusive">1999-2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d04d3027d8da3eca375c9b8fb44aba48" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_ffeeb52f37b080ea3bf1d709612c9e7e" parent="aspace_d04d3027d8da3eca375c9b8fb44aba48" type="Folder">11-14</container>
+        </did>
+      </c>
+      <c id="aspace_f28f663cea8b53313cf36e80184c755e" level="file">
+        <did>
+          <unittitle><emph render="italic">NOW!</emph> : National Headquarters of the Welfare Rights Movement, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d5083d5d570fff8b36ab0a3ddaa6377c" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_f9b2711b0ebe83e144e942db9600f6aa" parent="aspace_d5083d5d570fff8b36ab0a3ddaa6377c" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_d66b930d382eaf8730c463b5654c8899" level="file">
+        <did>
+          <unittitle><emph render="italic">NOW! National Welfare Leaders Newsletter</emph> : National Welfare Rights Organization/Poverty/Rights Action Center, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_f4861b02238c0b335331ade701f027ff" label="Mixed Materials [31142063011301]" type="Box">15</container>
+          <container id="aspace_cbf54a2ebe3ac278d5c7d0769df0608b" parent="aspace_f4861b02238c0b335331ade701f027ff" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_39a01f3868ace1fd1e9c93110466a3b4" level="file">
+        <did>
+          <unittitle><emph render="italic">Open Gate</emph> : Open Gate, Stormville, NY</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_17b08fe2fe8c079f3e0bcb517279dc4a" label="Mixed Materials [31142063008109]" type="Box">11</container>
+          <container id="aspace_9386ef292ba415c67d9b2c834bd9b7cf" parent="aspace_17b08fe2fe8c079f3e0bcb517279dc4a" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_104d05397824bc8c4510595a67fb9b5e" level="file">
+        <did>
+          <unittitle><emph render="italic">Organizer</emph> : Committee to Rebuild the National Welfare Rights Organization, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_79be1804577a795b0bc84fd14f85f8d4" label="Mixed Materials [31142063008109]" type="Box">11</container>
+          <container id="aspace_a557354a70098378018abc0b295f96d0" parent="aspace_79be1804577a795b0bc84fd14f85f8d4" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_41d3c04fbf451d8d5a334b2df6cbbd07" level="file">
+        <did>
+          <unittitle><emph render="italic">Oxfam America News</emph> : Oxfam America, Boston, MA</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8ab83ab557e0ae58fcf1c470b7f3da38" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_bfad6ead397b59e759c9138ca4e5a38e" parent="aspace_8ab83ab557e0ae58fcf1c470b7f3da38" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_7a383c07fd69d7439187bc3539b7399d" level="file">
+        <did>
+          <unittitle><emph render="italic">Palestine Human Rights Bulletin</emph> : Palestine Human Rights Campaign, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d605484c0ed5e7362973714fd5fee4b7" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_c82622b93f759fa143da3d1df2f3b43e" parent="aspace_d605484c0ed5e7362973714fd5fee4b7" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_51a55d5c3efb0b75865359d7bcde8bbd" level="file">
+        <did>
+          <unittitle><emph render="italic">Peace without Prisons</emph> : WRL Prison Task Force, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_79c987b01e356a6d89c063ff370affad" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_cd07e5c69b494c1b8ef7357c91a12d35" parent="aspace_79c987b01e356a6d89c063ff370affad" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ff14594465c15dee086707f42ba21b03" level="file">
+        <did>
+          <unittitle><emph render="italic">Penal Digest International</emph> : National Prison Center, Iowa City, IA</unittitle>
+          <unitdate datechar="creation" normal="1971/1972" type="inclusive">1971-1972</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_6a376a58dfbea65e00e96ed3ad39cfbc" label="Mixed Materials [31142063008109]" type="Box">11</container>
+          <container id="aspace_41bbd2fe27f2a4df2d89dd9ad35e0219" parent="aspace_6a376a58dfbea65e00e96ed3ad39cfbc" type="Folder">6-8</container>
+        </did>
+      </c>
+      <c id="aspace_c56183e2f815124cf436242eda660a26" level="file">
+        <did>
+          <unittitle><emph render="italic">People</emph> : Public Affairs Office of the City of New York Human Resources Administration, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_a7ea094cf8253638536898fb1ce95fa2" label="Mixed Materials [31142063008109]" type="Box">11</container>
+          <container id="aspace_e887cf078982aee0091e10d8a1e5b6a3" parent="aspace_a7ea094cf8253638536898fb1ce95fa2" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_2abea358c72470b7237a83e0e8141a27" level="file">
+        <did>
+          <unittitle><emph render="italic">People Get Ready</emph> : Soledad Brothers Defense Committee, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">Undated</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_06a2e8729edf3f545aceea8b6ab07616" label="Mixed Materials [31142063008109]" type="Box">11</container>
+          <container id="aspace_c6dd3bebb1331be0dfa8e93f885369e7" parent="aspace_06a2e8729edf3f545aceea8b6ab07616" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_19d28be5af87b93279cf24746e60d204" level="file">
+        <did>
+          <unittitle><emph render="italic">People Not Profit</emph> : People Not Profit, Homewood, IL</unittitle>
+          <unitdate datechar="creation" normal="2012/2013" type="inclusive">2012-2013</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_909190564e2f33c49b5b33bdf3a5e519" label="Mixed Materials [31142063011301]" type="Box">15</container>
+          <container id="aspace_412da06a379f0c963abf48266bb19293" parent="aspace_909190564e2f33c49b5b33bdf3a5e519" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_f9dd91ca8b02656dc2162a1eeab5aac7" level="file">
+        <did>
+          <unittitle><emph render="italic">People's Justice / National Lawyers Guild, Southern California Chapter</emph> : National Lawyers Guild, Southern California Chapter, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1971/1982" type="inclusive">1971-1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1042b3c25479cacb69a18eb79da6babb" label="Mixed Materials [31142063008059]" type="Box">6</container>
+          <container id="aspace_0e63b5879c5fe8095b8c4ea70c806f26" parent="aspace_1042b3c25479cacb69a18eb79da6babb" type="Folder">7-9</container>
+          <container altrender="Flat OS Box 17" id="aspace_80c28ad35a3181104d4e8949e49bbe08" label="Mixed Materials [31142063008109]" type="Box">11</container>
+          <container id="aspace_aa6e9dde922941c8092ce5bc1ec6f319" parent="aspace_80c28ad35a3181104d4e8949e49bbe08" type="Folder">9-10</container>
+        </did>
+      </c>
+      <c id="aspace_60b55d168ce2b1ca4e9c0c2a80d70415" level="file">
+        <did>
+          <unittitle><emph render="italic">People's News</emph> : Greater Upstate Law Project, Rochester, NY</unittitle>
+          <unitdate datechar="creation" normal="1982/1984" type="inclusive">1982-1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1bdad05f073b5ec13193badc8d16557d" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_c27cbac446e22801a9a2b4d5edbf3272" parent="aspace_1bdad05f073b5ec13193badc8d16557d" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_3222208c2da92cd53dbb1056fa073708" level="file">
+        <did>
+          <unittitle><emph render="italic">Peoples' Verdict</emph> : National Laywers Guild, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">Undated</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_784ac6a5332985bc01773aa3f11ef51a" label="Mixed Materials [31142063011301]" type="Box">15</container>
+          <container id="aspace_373a0fd6dec9feb8ac5fed702e550633" parent="aspace_784ac6a5332985bc01773aa3f11ef51a" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_4d9a1689ba37d5f03b74a845b85b229e" level="file">
+        <did>
+          <unittitle><emph render="italic">PHRA</emph> : Poverty and Human Resources Abstracts, Ann Arbor, MI</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_de41c8cafa6611929d7bfb817db29ecd" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_c724688fac555afdcb0d5524a662bcab" parent="aspace_de41c8cafa6611929d7bfb817db29ecd" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_db866bdc2428c10b7cfa60ea227914cb" level="file">
+        <did>
+          <unittitle><emph render="italic">Political Prisoners' Relief Committee</emph> : Political Prisoners' Relief Committee, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a67e74873b09e7ed60dcdbe6545d83a4" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_061007606e456ce3ad577f3dca4a1a9f" parent="aspace_a67e74873b09e7ed60dcdbe6545d83a4" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_9f9a0e6b8c0600866b3f5e4eb5a02d69" level="file">
+        <did>
+          <unittitle><emph render="italic">Prison News Service</emph> : Prison News Service, Toronto, Ontario</unittitle>
+          <unitdate datechar="creation" normal="1990/1992" type="inclusive">1990-1992</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3f41f39299fcb9d547bb23ab578f2bdd" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_7f4f8acbb03d5f5ce4690dfebbc01d57" parent="aspace_3f41f39299fcb9d547bb23ab578f2bdd" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_6259c1323c206627566e1276d21cfc6f" level="file">
+        <did>
+          <unittitle><emph render="italic">Prison News Service</emph> : Bulldozer, Toronto, Ontario</unittitle>
+          <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2d97f3b59b292d71f2716ddba15effdb" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_733719156f52df6b9f46c87a10c98a8a" parent="aspace_2d97f3b59b292d71f2716ddba15effdb" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_4973d8dfb8736365675050d0d939e96c" level="file">
+        <did>
+          <unittitle><emph render="italic">Prison Policy News</emph> : Epimethian Press &amp; Distribution, Colorado Springs, CO</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3e5c77140bb6fc9980a1a5e683d26ffd" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_d2aa6e3d62c407f5d2769d1e7a67f736" parent="aspace_3e5c77140bb6fc9980a1a5e683d26ffd" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_47d210f07e8bb44e1b315e3e7dcd238d" level="file">
+        <did>
+          <unittitle><emph render="italic">Prisoners Solidarity Committee</emph> : Prisoners Solidarity Committee, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_ac35c294ea1a907193f20a43a7c3e5f3" label="Mixed Materials [31142063011301]" type="Box">15</container>
+          <container id="aspace_dcaad33f256c36c92a1298407fa95a11" parent="aspace_ac35c294ea1a907193f20a43a7c3e5f3" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ec9268eeefaca0f61c34c59324208f32" level="file">
+        <did>
+          <unittitle><emph render="italic">Provincia de Angola Ordem da Provincia de Malange</emph> : Ordem da Provincia de Malange, Lisboa, Portugal</unittitle>
+          <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9cf32b3725c80691e5ed136257501732" label="Mixed Materials [31142063008018]" type="Box">2</container>
+          <container id="aspace_c7395250c1f282301a892c1531854560" parent="aspace_9cf32b3725c80691e5ed136257501732" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_1bfe8660ae41fd80c8573c6c8567f855" level="file">
+        <did>
+          <unittitle><emph render="italic">Public Affairs Pamphlets</emph> : Public Affairs Committee, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1943/1964" type="inclusive">1943-1964</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ba0340bd9ead48726b15151b1c5dac3e" label="Mixed Materials [31142063008026]" type="Box">3</container>
+          <container id="aspace_d81324c60461a35d0df62629f47aaa79" parent="aspace_ba0340bd9ead48726b15151b1c5dac3e" type="Folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_919c022b778fe17e743386d99644d1ae" level="file">
+        <did>
+          <unittitle><emph render="italic">PUG Newsletter</emph> : Prisoners' User Group, Monroe, WA</unittitle>
+          <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_94d1985f3b4324fc72c4dee8398717ba" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_dc6ba739bf41627d16faa3af47e88297" parent="aspace_94d1985f3b4324fc72c4dee8398717ba" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_70aff3dc87ecf6a45ef116f7fcb709bf" level="file">
+        <did>
+          <unittitle><emph render="italic">QUASH</emph> : Grand Jury Project, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1976/1983" type="inclusive">1976-1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_54492799a55b22a2de356414c74b7119" label="Mixed Materials [31142063008026]" type="Box">3</container>
+          <container id="aspace_479d5a751ab28927157614f2df43448a" parent="aspace_54492799a55b22a2de356414c74b7119" type="Folder">3</container>
+          <container altrender="Manuscript box - Legal" id="aspace_93ab7cd2cb186397ca5c3f77fcc966ee" label="Mixed Materials [31142063008059]" type="Box">6</container>
+          <container id="aspace_598a3c3aab48d7a4f10eb570e735ff32" parent="aspace_93ab7cd2cb186397ca5c3f77fcc966ee" type="Folder">10</container>
+          <container altrender="Flat OS Box 17" id="aspace_909529ef621e82676ea204b2afbd5624" label="Mixed Materials [31142063008117]" type="Box">12</container>
+          <container id="aspace_2b58d82a09101f871e6722581b817ce3" parent="aspace_909529ef621e82676ea204b2afbd5624" type="Folder">3-4</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_2672a165f64ad2dc086d3f4117b6c5b2" label="Mixed Materials [31142063011301]" type="Box">15</container>
+          <container id="aspace_9745f861ae4b72eeacd1e6eea02dbd85" parent="aspace_2672a165f64ad2dc086d3f4117b6c5b2" type="Folder">13-14</container>
+        </did>
+      </c>
+      <c id="aspace_3f75302291224344a20c2ae380e7f11c" level="file">
+        <did>
+          <unittitle><emph render="italic">Question Mark</emph> : Massachusetts Correctional Institute, Norfolk, MA</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ee798b2033bab177b94f0dc87a3f5173" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_a46069a1aa693d849a1bc936035c57f3" parent="aspace_ee798b2033bab177b94f0dc87a3f5173" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_f3011d3c9651d18b9ed04ed2b9423416" level="file">
+        <did>
+          <unittitle><emph render="italic">Radical Caucus in English and the Modern Languages</emph> : Radical Caucus in English and the Modern Languages, Cambridge, MA</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4f422cb06e76171afb9d5ca66578a88c" label="Mixed Materials [31142063008026]" type="Box">3</container>
+          <container id="aspace_e8fddb4c502fcb26c535c493cf5825ff" parent="aspace_4f422cb06e76171afb9d5ca66578a88c" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_d307055550ec3f7c7b6f931e405acd87" level="file">
+        <did>
+          <unittitle><emph render="italic">Reality Check</emph> : Brotherhood/Sister Sol, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5a2d2bd3e5832a60522607da02c59c0d" label="Mixed Materials [31142063008026]" type="Box">3</container>
+          <container id="aspace_064414c6f7cd139fb3ef6f8b49693a5c" parent="aspace_5a2d2bd3e5832a60522607da02c59c0d" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_eb4f3afa07390c3316bbd6b9717e61f8" level="file">
+        <did>
+          <unittitle><emph render="italic">Refugees &amp; Human Rights Newsletter</emph> : Chruch World Service Immigration and Refugee Program, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_98d5dd831ac2ad769cc03f098c953263" label="Mixed Materials [31142063008026]" type="Box">3</container>
+          <container id="aspace_ea621b47e311eb25624dee7bc63c2699" parent="aspace_98d5dd831ac2ad769cc03f098c953263" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_61ee65b879d386ecdc9b65f7d0babeb3" level="file">
+        <did>
+          <unittitle><emph render="italic">Report</emph> : Center for Immigrants Rights, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d2c6a278f9f14cb9a6ac7ed30f8c49b7" label="Mixed Materials [31142063008026]" type="Box">3</container>
+          <container id="aspace_724b6a54dfcff32a481dee156d1e6d2b" parent="aspace_d2c6a278f9f14cb9a6ac7ed30f8c49b7" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_1b7905c73c65a1f9affac1960aaeb080" level="file">
+        <did>
+          <unittitle><emph render="italic">Report for May</emph> : Venice Organizing Project, Venice, CA</unittitle>
+          <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5f5d7731519e1ba289edb6271d6f87e9" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_fa84c896e489e8e58eb1310011c358f0" parent="aspace_5f5d7731519e1ba289edb6271d6f87e9" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_b2cc407481916a1e31ab0e9786e67278" level="file">
+        <did>
+          <unittitle><emph render="italic">Report of the Proceedings of the Status of Political Prisoners Conference</emph> : International Labor Defense, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_01fcf5c1c1c9bc0ca45e799e85288db4" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_d4ab4ed84513e174f7cdc562c74ea150" parent="aspace_01fcf5c1c1c9bc0ca45e799e85288db4" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_c810f15a55cf94eefe5b736cfaa6cc46" level="file">
+        <did>
+          <unittitle><emph render="italic">Republikanische Hilfe</emph> : Republikanische Hilfe, Frankfurt, Germany</unittitle>
+          <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ae8807b12b3bcd4ec060886675538e89" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_2d475205eb386dbd9c1cd30ff430cf3c" parent="aspace_ae8807b12b3bcd4ec060886675538e89" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_bdfcf2a1446977f1c74b04e3bddfb05a" level="file">
+        <did>
+          <unittitle><emph render="italic">Resumen Informativo Newsletter</emph> : Inter-American Committee for Human and Trade Union Rights, El Dorado, Panama</unittitle>
+          <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3221b0761611f3bf5b06b8b1b534eced" label="Mixed Materials [31142063008026]" type="Box">3</container>
+          <container id="aspace_d63edabcb0099bf59c27e41f3bd9a168" parent="aspace_3221b0761611f3bf5b06b8b1b534eced" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_bcc5b5d788c1473f008aa2e44162da23" level="file">
+        <did>
+          <unittitle><emph render="italic">Review</emph> : International Commission of Jurists, Geneva, Switzerland</unittitle>
+          <unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5aca54d9c1726cf43a8f3fc78a0de688" label="Mixed Materials [31142063008026]" type="Box">3</container>
+          <container id="aspace_bfd4d71902d665e67f66e4a7030b4b01" parent="aspace_5aca54d9c1726cf43a8f3fc78a0de688" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_37f5b627fe16a8075ee3e1fa99417b71" level="file">
+        <did>
+          <unittitle><emph render="italic">Review of Contemporary Law</emph> : International Association of Democratic Lawyers' Review, Brussels, Belgium</unittitle>
+          <unitdate datechar="creation" normal="1958/1960" type="inclusive">1958-1960</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1d5c0be85b5a37631572165c9ea10c7e" label="Mixed Materials [31142063008026]" type="Box">3</container>
+          <container id="aspace_70a2d978a6b8051a558137790a63cf64" parent="aspace_1d5c0be85b5a37631572165c9ea10c7e" type="Folder">12-13</container>
+        </did>
+      </c>
+      <c id="aspace_f15091a9b1b447726793a74cae5617fb" level="file">
+        <did>
+          <unittitle><emph render="italic">Rights of Man</emph> : International League for the Rights of Man, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_aef445dc97ad60c5bc4c73fe00e0b533" label="Mixed Materials [31142063008026]" type="Box">3</container>
+          <container id="aspace_676ffa8454d464bda17de11c7297a8a5" parent="aspace_aef445dc97ad60c5bc4c73fe00e0b533" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_53582b86aff49691047edba3c94999bb" level="file">
+        <did>
+          <unittitle><emph render="italic">Rigoberta</emph> : Rigoberta Menchu Tum Foundation, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ae1fe4c70e7fd6f36191f9eb4af76c4a" label="Mixed Materials [31142063008026]" type="Box">3</container>
+          <container id="aspace_93b2b066ef7609f24501e0dfb577ff9b" parent="aspace_ae1fe4c70e7fd6f36191f9eb4af76c4a" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_fa3b9aba3825261c766a2e3d0766babd" level="file">
+        <did>
+          <unittitle><emph render="italic">S.C.A.R.'(d) Times</emph> : New England Prisoners Association, Portland, ME</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_2edc20dbb694a4ff616ff156e350227e" label="Mixed Materials [31142063008117]" type="Box">12</container>
+          <container id="aspace_0ffdf84daaa545c2932db12d69006cee" parent="aspace_2edc20dbb694a4ff616ff156e350227e" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_fb3d4ef817469af1d10673772c01fd0b" level="file">
+        <did>
+          <unittitle><emph render="italic">School Law Newsletter</emph> : The School Law Newsletter, Dallas, NC</unittitle>
+          <unitdate datechar="creation" normal="1970/1978" type="inclusive">1970-1978</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_56240f47715dc54b1a381f286ce16786" label="Mixed Materials [31142063008026]" type="Box">3</container>
+          <container id="aspace_2759676bad6b489a1e237bb88cfa0b17" parent="aspace_56240f47715dc54b1a381f286ce16786" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_f70185063214b14c0c444aeb4d7741d8" level="file">
+        <did>
+          <unittitle><emph render="italic">Seniors for Adequate Social Security Newsletter</emph> : Seniors for Adequate Social Security, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_86f86bccc7073fd1bedf703eae825739" label="Mixed Materials [31142063008059]" type="Box">6</container>
+          <container id="aspace_e1c21682d61e1843a36ac705740e3b27" parent="aspace_86f86bccc7073fd1bedf703eae825739" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_b6bbc4704b93230fc797d14f88813df9" level="file">
+        <did>
+          <unittitle><emph render="italic">Smoloskyp</emph> : Smoloskyp, Ellicott City, MD</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_64b11b75b5e4269ee764f5baed814690" label="Mixed Materials [31142063011301]" type="Box">15</container>
+          <container id="aspace_17321084a8150e06d3afd9b036e30a8e" parent="aspace_64b11b75b5e4269ee764f5baed814690" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_f24a11264ddb5169b3e16e8a85bdece4" level="file">
+        <did>
+          <unittitle><emph render="italic">Social Welfare in a Changing World</emph> : US Department of Health, Education and Welfare, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_358d6d972201988f25e66487e9965e7a" label="Mixed Materials [31142063008026]" type="Box">3</container>
+          <container id="aspace_615512696a2b7c79c13706ff0b623149" parent="aspace_358d6d972201988f25e66487e9965e7a" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_d65e04ebd9aa98d55858f28013b6106f" level="file">
+        <did>
+          <unittitle><emph render="italic">South Sound Alliance</emph> : Oregon Coalition of Alternative Human Services, Portland, OR</unittitle>
+          <unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_85b22066b06d664a5471a5b29335870a" label="Mixed Materials [31142063008117]" type="Box">12</container>
+          <container id="aspace_7a8677331b19b365b854f17efa405451" parent="aspace_85b22066b06d664a5471a5b29335870a" type="Folder">6-8</container>
+        </did>
+      </c>
+      <c id="aspace_6d82fd6c84fab821af11a8baf51bf3b1" level="file">
+        <did>
+          <unittitle><emph render="italic">Southern Fight-Back</emph> : Southern Organizing Committee for Economic &amp; Social Justice (SOC), Louisville, KY</unittitle>
+          <unitdate datechar="creation" normal="1989/1991" type="inclusive">1989-1991</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bfda6c54da8642f07f429bb0008ef288" label="Mixed Materials [31142063008026]" type="Box">3</container>
+          <container id="aspace_8597e33b13cbd76d21f04404b5ec1c2a" parent="aspace_bfda6c54da8642f07f429bb0008ef288" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_2991fb90f7b9849a6d6486dfe6b382b2" level="file">
+        <did>
+          <unittitle><emph render="italic">Southland Prison News</emph> : Prison Media Fund, Cambridge, MA</unittitle>
+          <unitdate datechar="creation" normal="2000/2002" type="inclusive">2000-2002</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c644a746dd1b6261ca80d427bb7d08e2" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_4336eeaa0079059cf8ed6aa2a91cf071" parent="aspace_c644a746dd1b6261ca80d427bb7d08e2" type="Folder">24-25</container>
+        </did>
+      </c>
+      <c id="aspace_b1e28424185a9943df811248f813547a" level="file">
+        <did>
+          <unittitle><emph render="italic">SPLC Report</emph> : Southern Poverty Law Center, Montgomery, AL</unittitle>
+          <unitdate datechar="creation" normal="1993/1998" type="inclusive">1993-1998</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_3fe6366befa57d4f2f7dacdc083101ee" label="Mixed Materials [31142063011301]" type="Box">15</container>
+          <container id="aspace_6158be459f27687cf68edd5222a62489" parent="aspace_3fe6366befa57d4f2f7dacdc083101ee" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_f262ecd8e46e601c2d4cb165a3924a67" level="file">
+        <did>
+          <unittitle><emph render="italic">Sunfighter</emph> : Awareness Project, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_38d9882b58519316eb41fcf7797654fb" label="Mixed Materials [31142063008117]" type="Box">12</container>
+          <container id="aspace_341307cd50a4566baded36ae5663011f" parent="aspace_38d9882b58519316eb41fcf7797654fb" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_9d2d1fbd7d02d684e17860b0d7243000" level="file">
+        <did>
+          <unittitle><emph render="italic">Take It</emph> : People for Economic Survival, Leeds, MA</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_72a58ba4eb5c76c55465bc5bc749ddf4" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_39378b7857e28141277a0b2fca26c2b2" parent="aspace_72a58ba4eb5c76c55465bc5bc749ddf4" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_a0ffabb6b6ff062e74a72fffb4977174" level="file">
+        <did>
+          <unittitle><emph render="italic">Taking Liberties</emph> : Anarchist Black Cross, London, UK</unittitle>
+          <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9d9a1af36337122a8e1fd1074b8caf50" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_78eee811686bf6a8caf4ad084a370cd4" parent="aspace_9d9a1af36337122a8e1fd1074b8caf50" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_1fbdb82e081d02622941260ce85a12be" level="file">
+        <did>
+          <unittitle><emph render="italic">This Month</emph> : Labor League for Human Rights, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2f04c163248a55e0b7a1304b8b78689c" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_8791ca3ef8aacdbe6737aa7ee90f9f81" parent="aspace_2f04c163248a55e0b7a1304b8b78689c" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_0b6d66f5b9381737dc56d8e3b847aff5" level="file">
+        <did>
+          <unittitle><emph render="italic">Thought Bombs</emph> : S. Chicago ARA-ABC Zine Distro, Homewood, IL</unittitle>
+          <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c20e37521f57ed32b5fa0fc615f6da0d" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_ea0e04d541e5b43a68bf942ca412e0e0" parent="aspace_c20e37521f57ed32b5fa0fc615f6da0d" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_7c20d19f33100f67e5c91bfa9d44870e" level="file">
+        <did>
+          <unittitle><emph render="italic">Through the Looking Glass </emph> : Through the Looking Glass, Philadelphia, PA</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_9ac6960dc77f70256c07989d3d6f2b47" label="Mixed Materials [31142063008117]" type="Box">12</container>
+          <container id="aspace_c173b209c9dc545bb6c9d0c91281bdc9" parent="aspace_9ac6960dc77f70256c07989d3d6f2b47" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_a39344f5f380e6e31ce95a6302dc1357" level="file">
+        <did>
+          <unittitle><emph render="italic">Too Much</emph> : Council on International and Public Affairs, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1992/2000" type="inclusive">1992-2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1748559fceebafd40292cfb098859efc" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_ce5c86648e66d589cac0aa16fd977b1d" parent="aspace_1748559fceebafd40292cfb098859efc" type="Folder">3-4</container>
+        </did>
+      </c>
+      <c id="aspace_a1543938fc8363a3fef47751934bed58" level="file">
+        <did>
+          <unittitle><emph render="italic">Truth</emph> : American Freedom Company, Danbury, NH</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_632fb54f7cbe8b08d77851838faffc64" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_a39e69a2c793c90be19bf45bd387f7d1" parent="aspace_632fb54f7cbe8b08d77851838faffc64" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_9edb115cd185442a35ed5121c520af83" level="file">
+        <did>
+          <unittitle><emph render="italic">Upton Sinclair's National EPIC News</emph> : EPIC Publishing Company, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9eb764e119bda3f6956643ae62fc39b9" label="Mixed Materials [31142063008059]" type="Box">6</container>
+          <container id="aspace_1150bb3c91cbfa71e3a21cc7683ef7c1" parent="aspace_9eb764e119bda3f6956643ae62fc39b9" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_9e6b6f0ebfc6f68668725d6cee5e72c6" level="file">
+        <did>
+          <unittitle><emph render="italic">Voice of Prisons</emph> : Washington State Penitentiary, WA</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_372fd8df770d176408f251aef8d0e708" label="Mixed Materials [31142063011301]" type="Box">15</container>
+          <container id="aspace_b84f8a289e9674864b461b1db96c746b" parent="aspace_372fd8df770d176408f251aef8d0e708" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_76ed5b19a34964a81c508c293aa64a61" level="file">
+        <did>
+          <unittitle><emph render="italic">Voices for New Justice</emph> : Voices for New Justice, Bearsville, NY</unittitle>
+          <unitdate datechar="creation" normal="1975/1976" type="inclusive">1975-1976</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_558a7f017aab5eb3cc8c7d6759454aaa" label="Mixed Materials [31142063008117]" type="Box">12</container>
+          <container id="aspace_99d69c00a9f608c77da3ea1f697fd19c" parent="aspace_558a7f017aab5eb3cc8c7d6759454aaa" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_313242151c217fcb465d1e2f408d5c87" level="file">
+        <did>
+          <unittitle><emph render="italic">Walkin' Steel</emph> : Committee to End the Marion Lockdown, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1991/1992" type="inclusive">1991-1992</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_744ff979f34052c18e5ef0dd814093bd" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_9285186402c361fc4b11e411662e462c" parent="aspace_744ff979f34052c18e5ef0dd814093bd" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_91a99d15f9b6de9633ed357dbf909cce" level="file">
+        <did>
+          <unittitle><emph render="italic">War Behind Walls</emph> : Peoples Press, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_99c6d3c359db90a018d33d7ed4ed77be" label="Mixed Materials [31142063008117]" type="Box">12</container>
+          <container id="aspace_44af57241c373a94fc588db521d819c5" parent="aspace_99c6d3c359db90a018d33d7ed4ed77be" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_4a71401f9eca5b5305779e62283d4bd4" level="file">
+        <did>
+          <unittitle><emph render="italic">Weekly Legislative Digest</emph> : State of New York Department of Labor, Albany, NY</unittitle>
+          <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_69d8ce166bc8f21a27e9858969c8d29e" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_059bca7216bac8542012081f0bf49ab3" parent="aspace_69d8ce166bc8f21a27e9858969c8d29e" type="Folder">7-8</container>
+        </did>
+      </c>
+      <c id="aspace_31b4cc25e42555107fb4388beb700dd8" level="file">
+        <did>
+          <unittitle><emph render="italic">Weekly News</emph> : New York State Council of Senior Citizens, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_a87ed2c3318f8c081b794fbac4285506" label="Mixed Materials [31142063008117]" type="Box">12</container>
+          <container id="aspace_af712fb803faa1f2134b9531c87c220f" parent="aspace_a87ed2c3318f8c081b794fbac4285506" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_82596e78ab3162ed6898f6ef514de7a4" level="file">
+        <did>
+          <unittitle><emph render="italic">Welfare and You</emph> : Sacramento Area Chapters of the National Association of Social Workers/California Social Workers Organization, Sacramento, CA</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_41727ab6a847192ad08ca2f1b15d5e24" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_4377b91531d6510fb012e9567b681828" parent="aspace_41727ab6a847192ad08ca2f1b15d5e24" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_b873981d7f62dc68e1cb0bb222735e40" level="file">
+        <did>
+          <unittitle><emph render="italic">Welfare Fighter</emph> : National Welfare Rights Organization, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1969/1972" type="inclusive">1969-1972</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_70ca2f73ca897132c48f08845acfb596" label="Mixed Materials [31142063011301]" type="Box">15</container>
+          <container id="aspace_66650e49b082d2c807ec4a4b3b4e6de0" parent="aspace_70ca2f73ca897132c48f08845acfb596" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_1df79c79cd311ba6e195dbd807a6328b" level="file">
+        <did>
+          <unittitle><emph render="italic">Welfare Handbooks</emph> : Center on Social Welfare Policy &amp; Law/Poverty/Rights Actions Center, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a111cdadc99a1558741303e4f60a9304" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_1dc5bd657de154e1a232c33db7401c18" parent="aspace_a111cdadc99a1558741303e4f60a9304" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_70170b019732f7253829114a7b875645" level="file">
+        <did>
+          <unittitle><emph render="italic">Welfare Laws</emph> : Center on Social Welfare Policy &amp; Law/Poverty/Rights Actions Center, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1aa9f2f1f31577d626f3f0e2d8c9c3fa" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_7f422c2eb70da7005fe00adbbc71cc68" parent="aspace_1aa9f2f1f31577d626f3f0e2d8c9c3fa" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_d79c1f367e690d82b3dd00ac72291f1d" level="file">
+        <did>
+          <unittitle><emph render="italic">Welfare Mothers Voice</emph> : Welfare Warriors, Milwaukee, WI</unittitle>
+          <unitdate datechar="creation" normal="1987/1997" type="inclusive">1987-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_791dd38363b1ac29019581721469f31a" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_54019f7057308aff7e063f8f1ddd410c" parent="aspace_791dd38363b1ac29019581721469f31a" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_524926bb43c2a32855bb941b05cfc4cd" level="file">
+        <did>
+          <unittitle><emph render="italic">Welfare News</emph> : Hudson County Welfare Union, Jersey City, NJ</unittitle>
+          <unitdate datechar="creation" normal="1980/1989" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4d04a85609aad68c6d9b30663864adf3" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_0d3d2e6db44b09f2cf6e9eb02450fdfa" parent="aspace_4d04a85609aad68c6d9b30663864adf3" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_7105d233bc0329920fa5f85c967fd8e9" level="file">
+        <did>
+          <unittitle><emph render="italic">Wives' Tales</emph> : Park Slope Safe Homes Project, Brooklyn, NY</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_85b08f5dcdf9c1f8b118acbb74a6a8a8" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_5a66dfe1363ecc4aefa5b911c9a2a1ea" parent="aspace_85b08f5dcdf9c1f8b118acbb74a6a8a8" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_2cb83b2651237601624404df6147debe" level="file">
+        <did>
+          <unittitle><emph render="italic">World Report</emph> : CARE Headquarters, Atlanta, GA</unittitle>
+          <unitdate datechar="creation" normal="1992/1995" type="inclusive">1992-1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9f7ccd514ab383df727b2813eefa61b9" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_3c821ff3a1ba1c47b9202f833fa9e1d7" parent="aspace_9f7ccd514ab383df727b2813eefa61b9" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ea9cabeb74eed2dad7d5be5d3fe30880" level="file">
+        <did>
+          <unittitle><emph render="italic">World Report</emph> : CARE Headquarters, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1984/1991" type="inclusive">1984-1991</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_619503bf2db8ec33b2abf875664fe37b" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_b3f30c4bd2b9ce0aa58eb3dfe7a369a4" parent="aspace_619503bf2db8ec33b2abf875664fe37b" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_669821122bf94a0ba920ee8740171597" level="file">
+        <did>
+          <unittitle><emph render="italic">World Service Authority News Bulletin</emph> : World Service Authority, Basel, Switzerland</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c6615d0a2e189faf4e37d7096781dbd4" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_8f0b364f9c69866961003877c4876c05" parent="aspace_c6615d0a2e189faf4e37d7096781dbd4" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_649c76d8ff1fd9908ec904e5a02771a7" level="file">
+        <did>
+          <unittitle><emph render="italic">World Vision Partners</emph> : World Vision, Inc., Federal Way, WA</unittitle>
+          <unitdate datechar="creation" normal="1995/1996" type="inclusive">1995-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ed87551cae15ec6dde1634b383fb0d81" label="Mixed Materials [31142063008034]" type="Box">4</container>
+          <container id="aspace_36f34aef0487fbd054a046fbd57b60be" parent="aspace_ed87551cae15ec6dde1634b383fb0d81" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_4c15106e4b64a5232f3cf19dcd185206" level="file">
+        <did>
+          <unittitle><emph render="italic">YES! A Journal of Positive Futures</emph> : Positive Futures Network, Bainbridge Island, WA</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_31b24f88e5cf165a316de008f13330b9" label="Mixed Materials [31142063008042]" type="Box">5</container>
+          <container id="aspace_ff791684247eeaf6a1950c8f6e59de0a" parent="aspace_31b24f88e5cf165a316de008f13330b9" type="Folder">29</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

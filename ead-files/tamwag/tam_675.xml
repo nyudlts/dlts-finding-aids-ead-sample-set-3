@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="collectionlevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_675">tam_675</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the GAPIMNY Records <num>TAM.675</num></titleproper>
+        <author>Rachel Searcy</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>9/4/2015</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 03:46:34 -0400</date>.</creation>
+      <langusage>Finding aid written in English.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>November 2019</date>
+        <item>Finding aid was updated by Anna McCormick to reflect GAPIMNY's name change</item>
+      </change>
+      <change>
+        <date>January 2020</date>
+        <item>Edited by Nicole Greenhouse for additional administration information and the incorporation of archived websites</item>
+      </change>
+      <change>
+        <date>August 2021</date>
+        <item>Record updated by Rachel Searcy to reflect 2021 accretion</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>GAPIMNY Records</unittitle>
+      <origination label="Creator">
+        <corpname role="dnr" rules="dacs" source="local">GAPIMNY</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Chin, Dennis</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Tseng, Jason</persname>
+      </origination>
+      <unitid>TAM.675</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">7 Linear Feet</extent>
+        <extent altrender="carrier">in 3 record cartons, 2 manuscript boxes, 3 oversize flat boxes, and 1 small artifact box</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">2 websites</extent>
+        <extent altrender="carrier">in 2 archived websites.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1994/2020" type="inclusive">1994-2020</unitdate>
+      <abstract id="aspace_f73a3d3ea9a7067a34974a79f44fc860">GAPIMNY, formerly known as the Gay and Pacific Islander Men of New York, is a volunteer-run community organization that provides social, educational, and cultural programming for gay, lesbian, bisexual, two-spirit, transgender, same-gender loving, gender non-conforming, queer, and questioning people who are Asian Pacific Islander in the greater New York City area. In collaboration with other community organizations, GAPIMNY works to provide peer-support, educational resources, and programming on issues such as race, sexuality, gender, public health, and immigration law. Materials include pamphlets, flyers, leaflets, brochures, stickers, photographs, newsletters, correspondence, meeting memoranda, and some artifacts that were used in parades or demonstrations. The collection also includes magazines, literary journals, and materials produced by related organizations. This collection documents individual activists and community organizations providing support and resources for its membership, and addressing concerns of visibility, representation, and marginalization.</abstract>
+      <langmaterial id="aspace_ee52b412396cbbce203a3d637430592d">Materials are primarily in English, with some multilingual material in English, Chinese, and Korean.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_378930afc8a5d924d8ea0862c6d3f613">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_80125e626e0974d2f9c7720a472fcd93">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Dennis Chin and Jason Tseng on behalf of the Gay Asian and Pacific Islander Men of New York (GAPIMNY) in 2015. The accession numbers associated with this gift are 2015.046 and 2015.052. In August 2021, Binh Hoang donated an accretion of administrative records; the accession number for this gift is 2021.037.</p>
+      <p>In December 2019, https://gaysiandiaries.com/ and http://gapimny.org/ were added to the web archive captured through the use of Archive-it. Archive-It uses web crawling technology to capture websites at a scheduled time and displays only an archived copy, from the resulting WARC file, of the website. The accession number associated with these websites are 2020.013.</p>
+    </acqinfo>
+    <appraisal id="aspace_673079fb7c27ff6c141cf22f55aacfca">
+      <head>Appraisal</head>
+      <p>Two 3.5 inch floppy disks were discarded after imagining process determined there was no data present.</p>
+    </appraisal>
+    <arrangement id="aspace_8b53e7f993bd7d5a9f33f5d21a217e7e">
+      <head>Arrangement</head>
+      <p>Files are arranged alphabetically by title or subject.</p>
+    </arrangement>
+    <bioghist id="aspace_915aedb731180b7255bf40709e85613b">
+      <head>Historical Note</head>
+      <p>GAPIMNY is a volunteer-run community organization that provides social, educational, and cultural programming for gay, lesbian, bisexual, two-spirit, transgender, same-gender loving, gender non-conforming, queer, and questioning people who are Asians Pacific Islander in the greater New York City area. In collaboration with other community organizations, GAPIMNY works to provide peer-support, educational resources, and programming on issues such as race, sexuality, gender, public health, and immigration law. GAPIMNY was founded as the Gay and Pacific Islander Men of New York was founded in 1990 by Don Kao, John Chin, and John Manzon. In the early 1990s, GAPIMNY organized with related groups to achieve greater visibility within the LGBT community and protest stereotypical public representations of Asian men and women. As the organization grew, it started hosting workshops for its community, established an online presence, and organized DynasTea, the organization's featured event from 1997 until 2006. In 2010, the organization debuted a newsmagazine called <title render="italic">PersuAsian</title>. In more recent years, GAPIMNY has increasingly partnered with other organizations to lead workshops and sponsor public programs on issues such as visibility, immigration, public health, and marriage equality. Some such collaborations include the Asian American Legal Defense and Education Fund, Asian Pacific American Coalition for Equality (APACE), Asian Media Watchdog, and Asian Queer United in Action (AQUA). Recent programs and campaigns include participation in Chinatown's Lunar New Year Parade;  continued protest over various examples of racial discrimination, homophobia, or transphobia; and DowneTime, a support program to provide a confidential space to discuss identity issues, attend health workshops, and connect with other members of the community. In 2018 the name of the organization changed from Gay and Pacific Islander Men of New York to GAPIMNY.</p>
+      <p>
+Source: https://wayback.archive-it.org/13239/20191210193116/http://gapimny.org/gapimny-history/</p>
+    </bioghist>
+    <prefercite id="aspace_05a6294d9dd1dfdda71b390be8269aa4">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; GAPIMNY Records; TAM 675; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+      <p>To cite the archived website in this collection:
+Identification of item, date; GAPIMNY Records; TAM 675; Wayback URL; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_1ea5dc30a4c96a1179158596101e3287">
+      <head>Processing Information</head>
+      <p>Upon receipt, the majority of materials in this collection were loose, unarranged, and in no apparent order. Some like materials had been grouped together (e.g. - selections of leaflets and copies of newsletters), and these groupings were retained as much as possible. The loose material was examined with the intent of keeping materials together if they were created, used, or collected for the same purpose (e.g.- steering committee meeting agendas, "Love Has No Borders" campaign). A partial inventory of the materials was provided by the donors, which was used as the basis for both identification and description of items. Because of the variety of formats and the presence of oversized items, intellectual arrangement does not necessarily reflect physical arrangement.</p>
+      <p>In 2020, the archived websites were added to the finding aid.</p>
+      <p>In 2021, an accretion of administrative records was rehoused in archival folders, and intellectually integrated into the collection's existing alphabetical arrangement.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_777f1e58ef6b04b1e13c3c848bbb355a">
+      <head>Related Archival Materials</head>
+      <p>Asian American Legal Defense and Education Fund Records (TAM.321)</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_c57610e711a95721ce61302d5cb17b1c">
+      <head>Scope and Contents</head>
+      <p>This collection consists of material created and collected by GAPIMNY during the mid-1990s through the present in the course of their social, educational, and cultural programming for gay, lesbian, bisexual, two-spirit, transgender, same-gender loving, gender non-conforming, queer, and questioning people who are Asian Pacific Islander in the New York City area. Materials created by GAPIMNY include pamphlets, flyers, leaflets, brochures, stickers, photographs, newsletters, correspondence, meeting memoranda, and some artifacts that were used in parades or demonstrations. Many of these materials were used or intended for distribution, with both general informational documents about the organization and materials specific to particular events or individual advocacy campaigns related to issues such as racism, immigration, or public health. The ephemeral formats present display some of the methods by which the organization sought to reach out to and advocate for its membership.  Some of the GAPIMNY initiatives documented in the collection include the multilingual "Love Has No Borders" campaign and the "(In)Visibly American" immigration program. The collection also includes magazines, literary journals, and materials produced by related organizations, the most prominent being the National Queer Asian Pacific Islander Alliance (NQAPIA). This collection documents individual activists and community organizations providing support and resources for its membership, and addressing concerns of visibility, representation, and marginalization.</p>
+    </scopecontent>
+    <phystech id="aspace_7772d9710b002b682415caa42210d77f">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact special.collections@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <userestrict id="aspace_c51a5ce4523bacb693354b553dba8bee">
+      <head>Conditions Governing Use</head>
+      <p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>
+    </userestrict>
+    <appraisal id="aspace_147d168d85eb9222aa6740d43c1dddd2">
+      <head>Take Down Policy</head>
+      <p>Archived websites are made accessible for purposes of education and research. NYU Libraries have given attribution to rights holders when possible; however, due to the nature of archival collections, we are not always able to identify this information.</p>
+      <p>If you hold the rights to materials in our archived websites that are unattributed, please let us know so that we may maintain accurate information about these materials.</p>
+      <p>If you are a rights holder and are concerned that you have found material on this website for which you have not granted permission (or is not covered by a copyright exception under US copyright laws), you may request the removal of the material from our site by submitting a notice, with the elements described below, to the special.collections@nyu.edu.</p>
+      <p>Please include the following in your notice:  Identification of the material that you believe to be infringing and information sufficient to permit us to locate the material; your contact information, such as an address, telephone number, and email address; a statement that you are the owner, or authorized to act on behalf of the owner, of an exclusive right that is allegedly infringed and that you have a good-faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; a statement that the information in the notification is accurate and made under penalty of perjury; and your physical or electronic signature.  Upon receiving a notice that includes the details listed above, we will remove the allegedly infringing material from public view while we assess the issues identified in your notice.</p>
+    </appraisal>
+    <controlaccess>
+      <subject source="lcsh">Pacific Islander American gays.</subject>
+      <subject source="lcsh">Pacific Islander American sexual minorities.</subject>
+      <subject source="lcsh">Asian American gays.</subject>
+      <subject source="lcsh">Emigration and immigration law -- United States.</subject>
+      <subject source="lcsh">Gay rights -- United States.</subject>
+      <subject source="lcsh">Gay rights movement.</subject>
+      <subject source="lcsh">Racism -- New York (State) -- New York.</subject>
+      <genreform source="lcsh">Web sites.</genreform>
+      <persname role="dnr" rules="dacs" source="local">Chin, Dennis</persname>
+      <persname role="dnr" rules="dacs" source="local">Tseng, Jason</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>15th Anniversary Banquet</unittitle>
+          <unitdate datechar="creation">2005</unitdate>
+          <container altrender="Record carton" id="aspace_1b7195b0699069af28e6bbbf8e7cef3e" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_005d896cf3227922535c03266d4f9cf7" parent="aspace_1b7195b0699069af28e6bbbf8e7cef3e" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref79" level="file">
+        <did>
+          <unittitle>15th Anniversary Film</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 videodisc (dvd)</extent>
+          </physdesc>
+          <unitdate datechar="creation">2008</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_804394d57d46505eda07b5fe4261db8e" label="master dvd [31142063294030]" type="Box">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>1998 Beyond 2000 Sexual Health Survey</unittitle>
+          <unitdate datechar="creation">1999</unitdate>
+          <container altrender="Record carton" id="aspace_74711dde67c0026d930e9efc77a1012a" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_02c9d4afb996fe64e8ea0ab2d90769db" parent="aspace_74711dde67c0026d930e9efc77a1012a" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>1999 Winter Ball</unittitle>
+          <unitdate datechar="creation">1999</unitdate>
+          <container altrender="Record carton" id="aspace_8fd1583e1d28fa3ab6d2217836157463" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_8e10aca3e11a8a7cb0bd72149f75e9fc" parent="aspace_8fd1583e1d28fa3ab6d2217836157463" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">A Magazine</title>
+          </unittitle>
+          <unitdate datechar="creation">2000</unitdate>
+          <container altrender="Record carton" id="aspace_eea6e1fb672d21ea2ee65c29c5c59a78" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_a612fdf63bac9115752ddeedb7394e86" parent="aspace_eea6e1fb672d21ea2ee65c29c5c59a78" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>"American Identity" Program</unittitle>
+          <unitdate datechar="creation">1995</unitdate>
+          <container altrender="Record carton" id="aspace_2a36119971bb06d874058be3506a0873" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_dcf2a256a625e776d8a372495ecc93aa" parent="aspace_2a36119971bb06d874058be3506a0873" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>amFAR AIDS Research Annual Report</unittitle>
+          <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+          <container altrender="Record carton" id="aspace_c23b2ef2737f5d03fa9c1dbd6a4271de" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_9575a7bf3142a67df071667350910e86" parent="aspace_c23b2ef2737f5d03fa9c1dbd6a4271de" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_8299797a58d9a0925193516f65071c2f" level="file">
+        <did>
+          <unittitle>Asian LGBT+ Movements Global Summit Programs</unittitle>
+          <unitdate datechar="creation" normal="2019/2019">2019</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9d0cbb4466cdf7cbe180d348299038eb" label="Mixed Materials [31142063294063]" type="Box">3</container>
+          <container id="aspace_811f3f2b95385a312c1c909d6a90e341" parent="aspace_9d0cbb4466cdf7cbe180d348299038eb" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Asian Pride Project</unittitle>
+          <unitdate datechar="creation">2014</unitdate>
+          <container altrender="Record carton" id="aspace_798e2e982601e2453fb01cc8bd535afd" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_77546d8910181584213b69365cd92d27" parent="aspace_798e2e982601e2453fb01cc8bd535afd" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>The Audra Lorde Project</unittitle>
+          <unitdate datechar="creation">2000 May 4</unitdate>
+          <container altrender="Record carton" id="aspace_f6b0332695f294f211006bf6b6e22298" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_a8fd5015b3326dbb5c89533f855fa3a9" parent="aspace_f6b0332695f294f211006bf6b6e22298" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">B2K</title>
+          </unittitle>
+          <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+          <container altrender="Record carton" id="aspace_28119ac12c7eb8c0117211ec0711c046" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_486b89c3bbe543e109f40d319ac5024f" parent="aspace_28119ac12c7eb8c0117211ec0711c046" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref82" level="item">
+        <did>
+          <unittitle>Banner </unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 box</extent>
+            <extent altrender="carrier">In one oversize flat box </extent>
+          </physdesc>
+          <unitdate datechar="creation">circa 1994-2014</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Flat OS Box - 23.5" id="aspace_d2fe1be599a7c9a2ba8cf511f3bb5fcf" label="Mixed Materials [31142062770634]" type="Box">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">Brix</title>
+          </unittitle>
+          <unitdate datechar="creation">1998</unitdate>
+          <container altrender="Record carton" id="aspace_c9eafefec457300c3e4c2aaba552d369" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_8dee4011d756e65987f63dc3e48f84dc" parent="aspace_c9eafefec457300c3e4c2aaba552d369" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>Brochures and Flyers</unittitle>
+          <unitdate datechar="creation">circa 1998-2014</unitdate>
+          <container altrender="Record carton" id="aspace_65092ffd956dc29d3a0edad7be3c95ed" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_9befe7a47540f4c84541bbabbf988476" parent="aspace_65092ffd956dc29d3a0edad7be3c95ed" type="Folder">11-12</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Brooklyn Pride</unittitle>
+          <unitdate datechar="creation">1998</unitdate>
+          <container altrender="Record carton" id="aspace_71b99ac61017897bcd1316f4aad358cb" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_8f25c04c48a75a82a79d2fd0acf9215d" parent="aspace_71b99ac61017897bcd1316f4aad358cb" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>Business Cards</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Record carton" id="aspace_b9f831ff35c6bcc75458eec36da098c6" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_aa5877e9cafa54a42e21c05ef949f094" parent="aspace_b9f831ff35c6bcc75458eec36da098c6" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_fc6698c5ea595a1da525bd323e9335f7" level="file">
+        <did>
+          <unittitle>Business Cards</unittitle>
+          <unitdate datechar="creation" normal="1990/2018" type="inclusive">circa 1990s-2000s</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d73be9a8ea070113da3bdc750ded088b" label="Mixed Materials [31142063294063]" type="Box">3</container>
+          <container id="aspace_c88147999771f36e84fca980aa12d77f" parent="aspace_d73be9a8ea070113da3bdc750ded088b" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Bylaws</unittitle>
+          <unitdate datechar="creation">1994 November</unitdate>
+          <container altrender="Record carton" id="aspace_e3ec2c61af63b9e33ec1b24556a1c8d4" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_1b4464f2f46a9055db5939fcd586b087" parent="aspace_e3ec2c61af63b9e33ec1b24556a1c8d4" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_bf9a7bd3907108a45c6cf9f39a586ba3" level="file">
+        <did>
+          <unittitle>Certificate of Recognition (City of New York)</unittitle>
+          <unitdate datechar="creation" normal="2018/2018">2018</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0f482272d10a3285004c41cf56461d01" label="Mixed Materials [31142063294063]" type="Box">3</container>
+          <container id="aspace_3e3be496dc4fcda2f7dbbac527c91942" parent="aspace_0f482272d10a3285004c41cf56461d01" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>"Coming Out, Coming Home" Campaign</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Record carton" id="aspace_8f13d6fe92b0248e892db9b98684c836" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_729e1ae4a8b4382b839d2f49d7b3119b" parent="aspace_8f13d6fe92b0248e892db9b98684c836" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>"Community Voices: The Next Gender Asian" Program</unittitle>
+          <unitdate datechar="creation">2013</unitdate>
+          <container altrender="Record carton" id="aspace_5c67a403fc084a2a523e286804a31788" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_a9507ff9b98c0eb50b24fcfd20ad2269" parent="aspace_5c67a403fc084a2a523e286804a31788" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">Dari Project</title>
+          </unittitle>
+          <unitdate datechar="creation">2013</unitdate>
+          <container altrender="Record carton" id="aspace_ee1186ea01894bf05ba862c358ca2eb3" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_d089d029ae4dac5183f8c534c1a90070" parent="aspace_ee1186ea01894bf05ba862c358ca2eb3" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">DC Connections</title>
+          </unittitle>
+          <unitdate datechar="creation">1999</unitdate>
+          <container altrender="Record carton" id="aspace_a0c36fc8493b4c602075aa52b5df3e9b" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_99131412c53eecb3c289c135c971555c" parent="aspace_a0c36fc8493b4c602075aa52b5df3e9b" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle><title render="italic">Details</title> Magazine "Gay or Asian?" Response</unittitle>
+          <unitdate datechar="creation">2004 April</unitdate>
+          <container altrender="Record carton" id="aspace_f5726e1e0c525ce697c876cbef4d42fe" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_d00b1ed0e54d3d48e38cff963d9527c5" parent="aspace_f5726e1e0c525ce697c876cbef4d42fe" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>DowneTime Postcards</unittitle>
+          <unitdate datechar="creation">circa 2007-2013</unitdate>
+          <container altrender="Record carton" id="aspace_b6bce2c107f2eeb428b575633f225a33" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_b974616128d9bd2f20ace615fa6bc0f0" parent="aspace_b6bce2c107f2eeb428b575633f225a33" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">Dragun</title>
+          </unittitle>
+          <unitdate datechar="creation">1999</unitdate>
+          <container altrender="Record carton" id="aspace_b030bd798a074f981592b8b7f826bc07" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_0e771d5a3f1532a878f667b63e89cd98" parent="aspace_b030bd798a074f981592b8b7f826bc07" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>DynasTea Dance and Fundraiser</unittitle>
+          <unitdate datechar="creation" normal="1999/2006" type="inclusive">1999-2006</unitdate>
+          <container altrender="Record carton" id="aspace_76aae4fad6600e870af48f8800c7f5d4" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_937c5ff84b8a39ade8627adfed0f649b" parent="aspace_76aae4fad6600e870af48f8800c7f5d4" type="Folder">23-25</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>Financial Summaries</unittitle>
+          <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+          <container altrender="Record carton" id="aspace_e92fcec7609f14aef3f21fd8bc251976" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_04b52c1ba7ebcb42a1d20ff4b5f30692" parent="aspace_e92fcec7609f14aef3f21fd8bc251976" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">GAPIMNY News</title>
+          </unittitle>
+          <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+          <container altrender="Record carton" id="aspace_8e7c681d77d8cea51e3575b71ceda2d4" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_9cc931441567e3345a941b42ee980217" parent="aspace_8e7c681d77d8cea51e3575b71ceda2d4" type="Folder">27-29</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">GAPIMNY Newsletter</title>
+          </unittitle>
+          <unitdate datechar="creation" normal="1995/1999" type="inclusive">1995-1999</unitdate>
+          <container altrender="Record carton" id="aspace_bdf25767743e0d323bc399ff1e0c3ce8" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_50fa4e68a1579f6d66144f4e3b0b49cf" parent="aspace_bdf25767743e0d323bc399ff1e0c3ce8" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref74" level="file">
+        <did>
+          <unittitle><title render="italic">GAPIMNY Newsletter</title> Page Proofs</unittitle>
+          <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_2d71743989976635150fd5a76eca1ece" label="Mixed Materials [31142063294022]" type="Box">5</container>
+          <container id="aspace_c06979f0c234d567ecf204590e90b366" parent="aspace_2d71743989976635150fd5a76eca1ece" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle>GAPIMNY Retreat</unittitle>
+          <unitdate datechar="creation">1999</unitdate>
+          <container altrender="Record carton" id="aspace_f799696d320a5eb11459f42b4c200d16" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_de285a7f9b0e7933bed4efed9ce1be99" parent="aspace_f799696d320a5eb11459f42b4c200d16" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">Gay City News</title>
+          </unittitle>
+          <unitdate datechar="creation">2000 May 9</unitdate>
+          <container altrender="Record carton" id="aspace_3b43f8c55c98b1bcf0c77a07f8bf6454" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_26ab801c87ceeb46ad128c10e671d81e" parent="aspace_3b43f8c55c98b1bcf0c77a07f8bf6454" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="file">
+        <did>
+          <unittitle>General Information Flyer About GAPIMNY</unittitle>
+          <unitdate datechar="creation">2014</unitdate>
+          <container altrender="Record carton" id="aspace_b6c789f6d25c5e91f719c207f69d2bed" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_0452a69c40a2ebf92f8181b8a1a51fd1" parent="aspace_b6c789f6d25c5e91f719c207f69d2bed" type="Folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_ref41" level="file">
+        <did>
+          <unittitle>General Information Pamphlets About GAPIMNY</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Record carton" id="aspace_31798847197302867b28b845f5e15bbd" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_abbf4a407271e40d67890491840e643c" parent="aspace_31798847197302867b28b845f5e15bbd" type="Folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_ref42" level="file">
+        <did>
+          <unittitle>Green Tea Dance Party</unittitle>
+          <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <container altrender="Record carton" id="aspace_f0100e91a27d0f91cfca50d256c6bea7" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_46618241a58cc0154ec4dcb0884fb419" parent="aspace_f0100e91a27d0f91cfca50d256c6bea7" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_722944da5831a67dd2823c281260c69c" level="file">
+        <did>
+          <unittitle>History of GAPIMNY</unittitle>
+          <unitdate datechar="creation" normal="2018/2018">2018</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d6b1dc9f6da36d5deb8cc2bb6c63d2a3" label="Mixed Materials [31142063294063]" type="Box">3</container>
+          <container id="aspace_b7beda97d67b37d6f5fd788da047e7a6" parent="aspace_d6b1dc9f6da36d5deb8cc2bb6c63d2a3" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref43" level="file">
+        <did>
+          <unittitle>"Hong Kong Ex-Gay" Campaign Leaflets</unittitle>
+          <unitdate datechar="creation">undated</unitdate>
+          <container altrender="Record carton" id="aspace_2a53b72c991a8adf503cf7459de40180" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_b17784c520080094ebe02a4156c21b4b" parent="aspace_2a53b72c991a8adf503cf7459de40180" type="Folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_ref44" level="file">
+        <did>
+          <unittitle>"Honoring Our Heroes": Asian Pacific American Heritage Festival</unittitle>
+          <unitdate datechar="creation">2001 May 6</unitdate>
+          <container altrender="Record carton" id="aspace_1657ee812adb14da05583d4a68f496b6" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_c73308e6b29544fba00ca6ae5f0fd0df" parent="aspace_1657ee812adb14da05583d4a68f496b6" type="Folder">37</container>
+        </did>
+      </c>
+      <c id="aspace_ref45" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">HX</title>
+          </unittitle>
+          <unitdate datechar="creation" normal="1998/2006" type="inclusive">1998-2006</unitdate>
+          <container altrender="Record carton" id="aspace_d76c6ca51ef8e444649e2729d371ba4c" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_f55e5edea5465b1ec2a1f0f51d400cec" parent="aspace_d76c6ca51ef8e444649e2729d371ba4c" type="Folder">38-40</container>
+        </did>
+      </c>
+      <c id="aspace_ref46" level="file">
+        <did>
+          <unittitle>"(In)Visibly American" Campaign</unittitle>
+          <unitdate datechar="creation">2009</unitdate>
+          <container altrender="Record carton" id="aspace_6ebcb7bcb57b4dbf57b66baf694b4501" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_c434a70a8dc948ef4ed6d69de07c431e" parent="aspace_6ebcb7bcb57b4dbf57b66baf694b4501" type="Folder">41</container>
+        </did>
+      </c>
+      <c id="aspace_ref47" level="file">
+        <did>
+          <unittitle><title render="italic">Lavendar Godzilla</title> (Gay Asian Pacific Alliance)</unittitle>
+          <unitdate datechar="creation">2001</unitdate>
+          <container altrender="Record carton" id="aspace_f2fa897590b0d8ed5693c071ba78d2a0" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_03eeb601e7658b7d338bdc2c9003de24" parent="aspace_f2fa897590b0d8ed5693c071ba78d2a0" type="Folder">42</container>
+        </did>
+      </c>
+      <c id="aspace_ref48" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">Lesbian and Gay New York</title>
+          </unittitle>
+          <unitdate datechar="creation" normal="2000/2002" type="inclusive">2000-2002</unitdate>
+          <container altrender="Record carton" id="aspace_59fc2bd4359edbc57ecdad4927fb3583" label="Mixed Materials [31142063294048]" type="Box">1</container>
+          <container id="aspace_ac84aad2da10cc663ec36a6aeb04ec4e" parent="aspace_59fc2bd4359edbc57ecdad4927fb3583" type="Folder">43-44</container>
+        </did>
+      </c>
+      <c id="aspace_ref49" level="file">
+        <did>
+          <unittitle>"Love Goes with Any Gender" Campaign</unittitle>
+          <unitdate datechar="creation">circa 2000-2005</unitdate>
+          <container altrender="Record carton" id="aspace_16fa544ad648b9c60c2fdf7182f61845" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_cc7aaeee787c1d06b228e1d27081cb5b" parent="aspace_16fa544ad648b9c60c2fdf7182f61845" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref50" level="file">
+        <did>
+          <unittitle>"Love Has No Borders" Campaign</unittitle>
+          <unitdate datechar="creation">circa 2000-2005</unitdate>
+          <container altrender="Record carton" id="aspace_e24ba6ad25d674421097f1f409d768fc" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_cde3e0ea606e22a061799619e972a273" parent="aspace_e24ba6ad25d674421097f1f409d768fc" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref76" level="file">
+        <did>
+          <unittitle>Lunar New Year and Pride Parade: Banner</unittitle>
+          <unitdate datechar="creation">circa 1998-2014</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_2436a5995cc0dc4844999fb87ea505dd" label="Realia [31142063294014]" type="Box">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref78" level="file">
+        <did>
+          <unittitle>Lunar New Year and Pride Parade: Horse Costume</unittitle>
+          <unitdate datechar="creation">2014</unitdate>
+          <container altrender="Record carton" id="aspace_9d3c7db6ce8cd8f5ab6fe29b2fcc119f" label="Realia [31142063294089]" type="Box">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref51" level="file">
+        <did>
+          <unittitle>Media Kits</unittitle>
+          <unitdate datechar="creation">2000</unitdate>
+          <container altrender="Record carton" id="aspace_87fdf76c908b7e215c528ba5d14d80d3" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_16c412ddea4cf2b36416d8c3f88e9f38" parent="aspace_87fdf76c908b7e215c528ba5d14d80d3" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref52" level="file">
+        <did>
+          <unittitle>Membership and Support Flyers</unittitle>
+          <unitdate datechar="creation" normal="2013/2014" type="inclusive">2013-2014</unitdate>
+          <container altrender="Record carton" id="aspace_a2097777b20b30ca2bde05172bb186d5" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_ef14990cbb8407754bb1651d79e5f6e4" parent="aspace_a2097777b20b30ca2bde05172bb186d5" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref53" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">Metrosource New York</title>
+          </unittitle>
+          <unitdate datechar="creation">2000</unitdate>
+          <container altrender="Record carton" id="aspace_345a6f03db72ca665847fd862683a675" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_23ac2da9d411acf2cd4c07e42cddcf0c" parent="aspace_345a6f03db72ca665847fd862683a675" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref54" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">Mochi Balls</title>
+          </unittitle>
+          <unitdate datechar="creation">2001</unitdate>
+          <container altrender="Record carton" id="aspace_fc257756802e54ead84ac82826ff0af6" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_1e5fe29216085d4dc352320ab2babebe" parent="aspace_fc257756802e54ead84ac82826ff0af6" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref77" level="file">
+        <did>
+          <unittitle>Mug with GAPIMNY Logo</unittitle>
+          <unitdate datechar="creation">circa 1998-2014</unitdate>
+          <container altrender="Card Box 5.75" id="aspace_cf5e096e3f6ec521ea1ff4f81faee024" label="Realia [31142063294071]" type="Box">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref55" level="file">
+        <did>
+          <unittitle>National Queer Asian Pacific Islander Alliance (NQAPIA)</unittitle>
+          <unitdate datechar="creation" normal="2009/2014" type="inclusive">2009-2014</unitdate>
+          <container altrender="Record carton" id="aspace_3e6667bcd70b61b1e283f41d1d3866c5" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_44c3b425a1e19c5535d08f0dd5444fc8" parent="aspace_3e6667bcd70b61b1e283f41d1d3866c5" type="Folder">7-10</container>
+        </did>
+      </c>
+      <c id="aspace_ref80" level="file">
+        <did>
+          <unittitle>National Queer Asian Pacific Islander Alliance (NQAPIA): National Conference Video Highlights</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1 videodisc (dvd)</extent>
+          </physdesc>
+          <unitdate datechar="creation">2009</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_712b5e99f9944e60e19a4a43dea1b2ab" label="master dvd [31142063294030]" type="Box">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref56" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">New York Blade News</title>
+          </unittitle>
+          <unitdate datechar="creation" normal="2000/2002" type="inclusive">2000-2002</unitdate>
+          <container altrender="Record carton" id="aspace_e821f695246f880979ff084f794e2a95" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_46a846f7d2709a2044870c2a946e066b" parent="aspace_e821f695246f880979ff084f794e2a95" type="Folder">11-13</container>
+        </did>
+      </c>
+      <c id="aspace_ref57" level="file">
+        <did>
+          <unittitle>Newspaper Clippings</unittitle>
+          <unitdate datechar="creation" normal="1996/2002" type="inclusive">1996-2002</unitdate>
+          <container altrender="Record carton" id="aspace_dadec800d0d601bac4089e34b35915ea" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_83ef86e36546fa1a2abf51fd7018faab" parent="aspace_dadec800d0d601bac4089e34b35915ea" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref58" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">Next</title>
+          </unittitle>
+          <unitdate datechar="creation" normal="1998/2006" type="inclusive">1998-2006</unitdate>
+          <container altrender="Record carton" id="aspace_5f1de600bdc16e0b44e8aa8d63086322" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_9b88010e895178f9987bc9ff669e775e" parent="aspace_5f1de600bdc16e0b44e8aa8d63086322" type="Folder">15-16</container>
+        </did>
+      </c>
+      <c id="aspace_ref59" level="file">
+        <did>
+          <unittitle>PersuAsian Newsmagazine</unittitle>
+          <unitdate datechar="creation" normal="2000/2007" type="inclusive">2000-2007</unitdate>
+          <container altrender="Record carton" id="aspace_ebfccfd8a42c303ec280a3b6dc39e841" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_af6701e86896e4b70b8b5e96f9a5b79d" parent="aspace_ebfccfd8a42c303ec280a3b6dc39e841" type="Folder">17-23</container>
+        </did>
+      </c>
+      <c id="aspace_ref73" level="file">
+        <did>
+          <unittitle>Photograph Albums</unittitle>
+          <unitdate datechar="creation">circa 1998-2014</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b083dd82a5b397ae24aceaadff8e3eb6" label="photographs [31142063294030]" type="Box">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref75" level="file">
+        <did>
+          <unittitle>Planning Notes</unittitle>
+          <unitdate datechar="creation">2013</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_33a693ebc1544bc349be639984376012" label="Mixed Materials [31142063294022]" type="Box">5</container>
+          <container id="aspace_62f605c73532642fc3983184a2775ea7" parent="aspace_33a693ebc1544bc349be639984376012" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref60" level="file">
+        <did>
+          <unittitle>Postcards</unittitle>
+          <unitdate datechar="creation">circa 2013</unitdate>
+          <container altrender="Record carton" id="aspace_0f03df06fb4ab783b9217ad4883ce8ae" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_4839334581c62f30c02d98878addc301" parent="aspace_0f03df06fb4ab783b9217ad4883ce8ae" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref61" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">POZ</title>
+          </unittitle>
+          <unitdate datechar="creation">2000 July</unitdate>
+          <container altrender="Record carton" id="aspace_2e0cdb29ad44fab4688749621cb5c344" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_902b6fa870978a8c71bcba1ea06d889a" parent="aspace_2e0cdb29ad44fab4688749621cb5c344" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref62" level="file">
+        <did>
+          <unittitle>"Reflections" 10th Anniversary Banquet</unittitle>
+          <unitdate datechar="creation">2000</unitdate>
+          <container altrender="Record carton" id="aspace_f384d5740cbaa058836db61ead5b49b2" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_c255416cb7e1490a94a0b299006e4752" parent="aspace_f384d5740cbaa058836db61ead5b49b2" type="Folder">26-27</container>
+        </did>
+      </c>
+      <c id="aspace_ref63" level="file">
+        <did>
+          <unittitle>Rice Conference Materials</unittitle>
+          <unitdate datechar="creation">1994</unitdate>
+          <container altrender="Record carton" id="aspace_016751125c1820e7c5a541c84fb90762" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_7151c9bbb0a2aa6a250dcb5d40e3a967" parent="aspace_016751125c1820e7c5a541c84fb90762" type="Folder">28-29</container>
+        </did>
+      </c>
+      <c id="aspace_ref64" level="file">
+        <did>
+          <unittitle><title render="italic">Rice Paper</title> (Gay Asian Community Health Empowerment Project [GACHEP])</unittitle>
+          <unitdate datechar="creation">2000</unitdate>
+          <container altrender="Record carton" id="aspace_de4d879f0ef1aac2d1e6f9117b920bf2" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_6c9ada402f4611c7b6faa188c1fec89b" parent="aspace_de4d879f0ef1aac2d1e6f9117b920bf2" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref65" level="file">
+        <did>
+          <unittitle>"The Rising Voice of Asian America": Asian Pacific American Heritage Festival</unittitle>
+          <unitdate datechar="creation">2000 May</unitdate>
+          <container altrender="Record carton" id="aspace_85f7d01e6f2f8cdb9f463e9b2140b4fa" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_a503d7486c007007d9abdff4d8c32182" parent="aspace_85f7d01e6f2f8cdb9f463e9b2140b4fa" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref66" level="file">
+        <did>
+          <unittitle>"Springderella" Banquet</unittitle>
+          <unitdate datechar="creation">2002</unitdate>
+          <container altrender="Record carton" id="aspace_53e8b76a9c20ed82a1e1df6ab3b815ec" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_7de3d1415b3d66991cbcc2cdae7e0ce8" parent="aspace_53e8b76a9c20ed82a1e1df6ab3b815ec" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_694aeedcd6f5fa94e858c000d13ac868" level="file">
+        <did>
+          <unittitle><emph render="italic">Starfruit</emph> Zine</unittitle>
+          <unitdate datechar="creation" normal="2019/2019">2019</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1a7527e8dcf8f3c887ec5da5cd9c7142" label="Mixed Materials [31142063294063]" type="Box">3</container>
+          <container id="aspace_8ec32c5e71faf590259ed586f4d19acb" parent="aspace_1a7527e8dcf8f3c887ec5da5cd9c7142" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref67" level="file">
+        <did>
+          <unittitle>Steering Committee</unittitle>
+          <unitdate datechar="creation" normal="1996/2006" type="inclusive">1996-2006</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9c40e77f86850df1f6b3656b5fe8d9aa" label="Mixed Materials [31142063294063]" type="Box">3</container>
+          <container id="aspace_28ee2073561e0d7da9572a05d9c1ea14" parent="aspace_9c40e77f86850df1f6b3656b5fe8d9aa" type="Folder">1-5</container>
+          <container altrender="Record carton" id="aspace_9ee811853ca4e71d45b4f6892460d718" label="Mixed Materials [31142063294055]" type="Box">2</container>
+          <container id="aspace_7afce99e66734f8a6b6e389518f5c851" parent="aspace_9ee811853ca4e71d45b4f6892460d718" type="Folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_4ee6e6423a2276741f8b2c84d73a1bc0" level="file">
+        <did>
+          <unittitle>Steering Committee</unittitle>
+          <unitdate datechar="creation" normal="2018/2020" type="inclusive">2018-2020</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_373b81a4d7baeffa38a7e8cf08b33748" label="Mixed Materials [31142063294063]" type="Box">3</container>
+          <container id="aspace_4ab126a14690273fbad1c9a4ffca5ea6" parent="aspace_373b81a4d7baeffa38a7e8cf08b33748" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref68" level="file">
+        <did>
+          <unittitle>Stickers</unittitle>
+          <unitdate datechar="creation">circa 2000-2014</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3da86dce64457375ad20786bf11f3056" label="Mixed Materials [31142063294063]" type="Box">3</container>
+          <container id="aspace_5f5eae0db95349e7e12349f58783f4fa" parent="aspace_3da86dce64457375ad20786bf11f3056" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref69" level="file">
+        <did>
+          <unittitle><title render="italic">Ten</title> (Asian American Writers' Workshop)</unittitle>
+          <unitdate datechar="creation">1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4ec3dd8b6d628c666cf71691100e627a" label="Mixed Materials [31142063294063]" type="Box">3</container>
+          <container id="aspace_83bd8e44328da9c40a716f11e4a99595" parent="aspace_4ec3dd8b6d628c666cf71691100e627a" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref70" level="file">
+        <did>
+          <unittitle>
+            <title render="italic">Time Out New York</title>
+          </unittitle>
+          <unitdate datechar="creation">1998, 2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b210e1378b1babf4a7270626f820d888" label="Mixed Materials [31142063294063]" type="Box">3</container>
+          <container id="aspace_d4396dcae77c61a836abc5f3f2ea8728" parent="aspace_b210e1378b1babf4a7270626f820d888" type="Folder">8-9</container>
+        </did>
+      </c>
+      <c id="aspace_ref71" level="file">
+        <did>
+          <unittitle>"Tongzhi/Comrade: Out in Asia America": Installation at Museum of Chinese in America</unittitle>
+          <unitdate datechar="creation">2000</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_82576d3786ff0562c3648f1b98ed2bdf" label="Mixed Materials [31142063294063]" type="Box">3</container>
+          <container id="aspace_bd03eaba42efe1c663c1d4ec10e05fca" parent="aspace_82576d3786ff0562c3648f1b98ed2bdf" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref72" level="file">
+        <did>
+          <unittitle>Trivia Leaflet</unittitle>
+          <unitdate datechar="creation">circa 2012</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9e2508cf53ea247580c7817d51671984" label="Mixed Materials [31142063294063]" type="Box">3</container>
+          <container id="aspace_9ffd2817bd6a2cdf5de811ae83f96b81" parent="aspace_9e2508cf53ea247580c7817d51671984" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_275c9c71180e35c219be09aace39a8f7" level="file">
+        <did>
+          <unittitle>Archived Websites</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2 websites</extent>
+            <extent altrender="carrier">in 2 archived websites</extent>
+          </physdesc>
+          <unitdate datechar="Captured" normal="2019-12-10/2019-12-10">December 2019-ongoing</unitdate>
+          <container id="aspace_8ab0a93f5ee7e722bbfa1b7aeffd6dae" label="electronic records" type="Box">Electronic Records</container>
+          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/13239/*/http://gapimny.org/" xlink:role="external-link" xlink:show="new" xlink:title="GAPIMNY Archived Website" xlink:type="simple">
+            <daodesc>
+              <p>GAPIMNY Archived Website: December 2019-ongoing</p>
+            </daodesc>
+          </dao>
+          <dao xlink:actuate="onLoad" xlink:href="https://wayback.archive-it.org/13239/*/https://gaysiandiaries.com/" xlink:role="external-link" xlink:show="new" xlink:title="The Gaysian Diaries Archived Website" xlink:type="simple">
+            <daodesc>
+              <p>The Gaysian Diaries Archived Website: December 2019-ongoing</p>
+            </daodesc>
+          </dao>
+        </did>
+        <accruals id="aspace_a2adc51e76e2f4f2e77d64b28fb605b2">
+          <head>Accruals</head>
+          <p>New site crawls are accrued semiannually.</p>
+        </accruals>
+        <phystech id="aspace_f17534fb76da83ea2efbd83a6051fc74">
+          <head>Physical Characteristics and Technical Requirements</head>
+          <p>Due to technical or privacy issues, archived websites may not be exact copies of  the original website at the time of the web crawl. Certain file types will not be captured dependent on how they are embedded in the site. Other parts of websites that the crawler has difficulty capturing includes Javascript, streaming content, database-driven content, and highly interactive content. Full-Text  searches of archived websites are available at https://archive-it.org/organizations/567.</p>
+        </phystech>
+        <appraisal id="aspace_e4b93767f27cf265fa81dbcf8d24e0fb">
+          <head>Appraisal</head>
+          <p>Crawl was limited to domains and subdomains of gaysiandiaries.com and gapimny.org in order to remain within the collection scope and data constraints.</p>
+        </appraisal>
+        <scopecontent id="aspace_18ea3442436922fb5fc2b216e1d11f5b">
+          <head>Scope and Contents</head>
+          <p>The GAPIMNY website is made up news and press releases, event listings, their platform and values, steering committee members, and their programming, including a leadership development program, their biweekly happy hour (Elixer), meetings and workshops, and political engagement organizing around immigration, racism, homophobia, and transgender exclusion. Events and programming are mostly focused around topics such as trans allyship, coming-out, local politics, and raising the visibility of issues regarding queer and trans Asian and Pacific Islanders. Also captured is GAPIMNY's blog, the Gaysian Diaries, which exists to create an online space for queer and trans Asian and Pacific Islanders to share their experiences.</p>
+        </scopecontent>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

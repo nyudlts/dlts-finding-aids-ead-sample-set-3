@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_058">tam_058</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the People's Coalition for Peace and Justice Records <num>TAM.058</num></titleproper>
+        <author>Tamiment staff</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from TAM 58 PCPJ template.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 04:07:44 -0400</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>People's Coalition for Peace and Justice Records</unittitle>
+      <origination label="Creator">
+        <corpname source="local">People's Coalition for Peace and Justice</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Vickers, George</persname>
+      </origination>
+      <unitid>TAM.058</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.75 Linear Feet</extent>
+        <extent altrender="carrier">in two manuscript boxes.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1970/1972" type="inclusive">1970-1972</unitdate>
+      <abstract id="aspace_5190a78fd5b67b06053896f0576b7a79">The People's Coalition for Peace and Justice opposed United States involvement in the Vietnam War. The collection contains minutes, press releases and various internal documents.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <userestrict id="aspace_8239d8ff7c91c7acad715b0fb25dbcdc">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by George Vickers was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <acqinfo id="aspace_9982a5bf8a1d106ab0a28cb5c29d3b83">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by George Vickers, 1972. The accession number associated with this gift is 1974.006.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_6b2044fb8454e3e8e28579d7f27c0495">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_ee4b6c3daf249d60ff6927371ee93eb5">
+      <head>Historical/Biographical Note</head>
+      <p>The People's Coalition for Peace and Justice was formed in 1970. It was a multi-issue coalition including various radicals (but not Trotskyists) and pacifists. It primarily opposed United States involvement in the Vietnam War but also supported struggles for civil rights and liberties.</p>
+    </bioghist>
+    <scopecontent id="aspace_79cab435424bcf377edc6855c6bb3704">
+      <head>Scope and Content Note</head>
+      <p>The records contain minutes, committee and conference reports, press releases, position papers, resolutions, leaflets and memoranda relating to the coalition's activities, mostly after 1971. Includes training manuals for the May 1971 activities in Washington resulting in over 1000 arrests; and photocopies of two letters by Sidney Peck and George Vickers tracing their involvement in the antiwar movement.</p>
+    </scopecontent>
+    <arrangement id="aspace_cbdd3ac68181b53e82f6f2812c10c830">
+      <head>Arrangement</head>
+      <p>The folders are arranged alphabetically.</p>
+      <p>The files are grouped into 1 series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>Container list</item>
+      </list>
+    </arrangement>
+    <prefercite id="aspace_bf4df2a90f786ab71073b7046870e9e9">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Collection name; Collection number; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="lcsh">Vietnam War, 1961-1975 -- Protest movements -- United States.</subject>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <genreform source="aat">Press releases.</genreform>
+      <corpname source="local">People's Coalition for Peace and Justice</corpname>
+      <persname rules="dacs" source="local">Vickers, George</persname>
+      <persname source="naf">Peck, Sidney R.</persname>
+      <persname role="dnr" rules="dacs" source="local">Vickers, George</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13" level="series">
+        <did>
+          <unittitle>Container list</unittitle>
+        </did>
+        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Childrens March for Survival</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_aebfa7c3675f3ecea2d993f27697b5cc" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_e7306bd983e1a2b50eba38373652e2a4" parent="aspace_aebfa7c3675f3ecea2d993f27697b5cc" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Clergy and Laymen Concerned Conference</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e2a6b3e697c53613ccf7089d49b158b4" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_c8ac3e5eb60ec835ed68c6d4885d2c9c" parent="aspace_e2a6b3e697c53613ccf7089d49b158b4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Emergency Washington Action</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_89137735de9e40b191cd14c668cb5b2f" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_93d188a82811195f9553f0f48fb1ff34" parent="aspace_89137735de9e40b191cd14c668cb5b2f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fall</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fd1dbe3142522588a5f85c2c16c3b6dc" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_242d4130c11f4d4b60166ac2d08065e9" parent="aspace_fd1dbe3142522588a5f85c2c16c3b6dc" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fall Offensive</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4863d382505f9c97e27eb3e0e1dc9746" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_5db3a44870ac6c5bdcbb1168542d1a59" parent="aspace_4863d382505f9c97e27eb3e0e1dc9746" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Harrisburg, Pennsylvania</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9b411e46bc0cd95776f6191628e9c76c" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_776223cf1e7c79aa1999c7607e6c9f75" parent="aspace_9b411e46bc0cd95776f6191628e9c76c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Interfaith Campaign to Set the Date</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e5a5556a2f0174cbcbcfb06ddb716131" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_381b195eb45808eb604466f9f36b0d58" parent="aspace_e5a5556a2f0174cbcbcfb06ddb716131" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>May Day</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2668bccaf1ba48c4e47bf4a84794c373" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_04ccb1cbb14955c00e37edcf35c27d72" parent="aspace_2668bccaf1ba48c4e47bf4a84794c373" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Miami Conventions Coalition</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e77e8a990263f1406e444258f657ac7a" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_2f3dc773bbb1e0f7221f90095e314859" parent="aspace_e77e8a990263f1406e444258f657ac7a" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation" normal="1970/1972" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9cdfccf55fc5c668fca09c9c8522a0db" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_ed1f36641a4f12f2dcd7cb14e8d0c39f" parent="aspace_9cdfccf55fc5c668fca09c9c8522a0db" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>National Action Group; Bradford Lyttle</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b93288e4ae9e33ea8134f4535444fc16" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_872f86cbe9eabfab41dafedeea4fae53" parent="aspace_b93288e4ae9e33ea8134f4535444fc16" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>National Coalition Conference, Chicago</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_04c35a6f61f61b19b2d7f9d912e353eb" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_0b72c46eebce3838d796d3923bafb18e" parent="aspace_04c35a6f61f61b19b2d7f9d912e353eb" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>National Coordinating Committee Meetings</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b06770d973e4c688a39bc00fd82d6d71" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_26cb44f15bdf15b54703afbd86a3f81d" parent="aspace_b06770d973e4c688a39bc00fd82d6d71" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>National Coordinating Committee Meetings</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a60395964a332c80f582c8ae821c9f7d" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_44c4b0e189d94fd7ebc3e90b56777970" parent="aspace_a60395964a332c80f582c8ae821c9f7d" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>National Peace and Justice Conference, Milwaukee</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ee9a3f71231d6d96300504eea7953d23" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_1d257920a657a3953e411062abffc74c" parent="aspace_ee9a3f71231d6d96300504eea7953d23" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>People's Peace Treaty</unittitle>
+            <unitdate datechar="creation" normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fac9f4ddde17e3daeea1bd4aded4a6c1" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_9fe2fbd8ecbce1dc45fec8eab5411d7e" parent="aspace_fac9f4ddde17e3daeea1bd4aded4a6c1" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>National Welfare Rights Organization</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_88e6c86372ad3f1bd4fdd241e2a2b1ce" label="Mixed Materials [31142062729127]" type="Box">1</container>
+            <container id="aspace_f64634f873c5873171073f63c292623d" parent="aspace_88e6c86372ad3f1bd4fdd241e2a2b1ce" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pacific Northwest Regional Conference</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_7f1a3d2b8b99c1c45713215fafbf48b6" label="Mixed Materials [31142062729135]" type="Box">2</container>
+            <container id="aspace_56463c5b0696c3eaf1d7c62739a01fb9" parent="aspace_7f1a3d2b8b99c1c45713215fafbf48b6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Peck, Sidney R.</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_ba892c0cb57b2d17851bb51039956aea" label="Mixed Materials [31142062729135]" type="Box">2</container>
+            <container id="aspace_0debd424bc94a073684b8c655c634c3e" parent="aspace_ba892c0cb57b2d17851bb51039956aea" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pentagon Blockade; People's Lobby</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_14fddbffe4c2c2461888868b6f4ec133" label="Mixed Materials [31142062729135]" type="Box">2</container>
+            <container id="aspace_97cae1c6b6c2cdecf262852cd1417de6" parent="aspace_14fddbffe4c2c2461888868b6f4ec133" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Releases</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_5373484cb708e81ad204996b77ebf72d" label="Mixed Materials [31142062729135]" type="Box">2</container>
+            <container id="aspace_5c0cee725c8e87f0aaad66410b4bfc26" parent="aspace_5373484cb708e81ad204996b77ebf72d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>San Diego Convention Coalition</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_a05c266a49d331034fad53741609aba7" label="Mixed Materials [31142062729135]" type="Box">2</container>
+            <container id="aspace_ee7e753f159e93640bf6e6f421bada98" parent="aspace_a05c266a49d331034fad53741609aba7" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>San Jose, Ca.: National Protest Against Repression, Racism &amp; War</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_26d21128e528a66cd5b41f5b76469803" label="Mixed Materials [31142062729135]" type="Box">2</container>
+            <container id="aspace_f70f3645b2c91fc00d42bda2585d1b67" parent="aspace_26d21128e528a66cd5b41f5b76469803" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Spring Offensive</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_4377cf8797a97ff913df852856cf144b" label="Mixed Materials [31142062729135]" type="Box">2</container>
+            <container id="aspace_cd8f6e88808ad5bf4f9348894b49b09e" parent="aspace_4377cf8797a97ff913df852856cf144b" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Spring Offensive</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_9f320323d5442ce1336f90bdcfb5b41d" label="Mixed Materials [31142062729135]" type="Box">2</container>
+            <container id="aspace_327a3d9ffea22e1e2778582c27ad76bd" parent="aspace_9f320323d5442ce1336f90bdcfb5b41d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Steering Committee Meetings</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_50a5accdd1d5bdf9ab82ec942084a4ef" label="Mixed Materials [31142062729135]" type="Box">2</container>
+            <container id="aspace_ae0bec7576b5993414f303c188a5f7df" parent="aspace_50a5accdd1d5bdf9ab82ec942084a4ef" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Vickers, George</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_ecb1fb257602069287105ba551488655" label="Mixed Materials [31142062729135]" type="Box">2</container>
+            <container id="aspace_60223280e1110bc0ddcd02d0cb1d9cc9" parent="aspace_ecb1fb257602069287105ba551488655" type="Folder">10</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,698 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_288/">wag_288</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Madeline Lee Gilford Papers <num>WAG.288</num></titleproper>
+        <author>Kelli Piotrowski</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>December 2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 03:39:07 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Madeline Lee Gilford Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Gilford, Madeline</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Gilford, Lisa</persname>
+      </origination>
+      <unitid>WAG.288</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1940/2005" type="inclusive">1940-2005</unitdate>
+      <abstract id="aspace_00067d30712c96ffe68c29a09feae94e">Madeline Lee Gilford (1923-2008) was an actor, producer, and social activist who was blacklisted during the McCarthy Era and subpoenaed to testify before the House Committee on Un-American Activities (HUAC) in 1955.  The collection contains correspondence, photographs, press clippings, programs, scripts, and speeches relating to her career and activism as well as documents pertaining to 170 Years of Show Business, an autobiography co-authored with actor Kate Mostel (1918-1986).</abstract>
+      <langmaterial id="aspace_2aa03c195da7f0738021c4a94ecb6d78">Materials are in English</langmaterial>
+    </did>
+    <bioghist id="aspace_29917715320d7c88c06b9ee00dbb3c0e">
+      <head>Historical/Biographical Note</head>
+      <p>Madeline Lee Gilford (1923–2008) was born Madeline Lederman on May 30, 1923 to Polish immigrant parents in the Bronx, New York.  The youngest of four children, she began acting at the age of three at the Heckscher Foundation for Children's Theatre in Manhattan segueing into radio, television, and film under the stage name Madeline Lee. </p>
+      <p>While a student at Walton High in the Bronx, Gilford joined the American Student Union.  She continued to be active in progressive politics throughout her life and was a target of blacklisting during the McCarthy Era.  In 1955 she and her husband, the actor and comedian Jack Gilford (1908-1990), were called to testify before the House Committee on Un-American Activities (HUAC) after being named by the choreographer Jerome Robbins.  Madeline Gilford testified before the committee on August 17 of 1955. Gilford continued producing in television and theater under the assumed name of Maggie Giles including two early children's television programs:  the Attic Playshop and Sing A Song with Charity Bailey, the first interracial children's television program in New York.
+Gilford co-authored an autobiography with Kate Mostel, which describes their lives in the entertainment industry and the effects of blacklisting on their careers and those of their husbands, Jack Gilford and Zero Mostel (1915-1977).  The memoir was published in 1978 as 170 Years in Show Business.</p>
+      <p>Gilford had two sons, Joseph and Samuel, with Jack Gilford and a daughter, Lisa, from a previous marriage to Mitchell Fein, an engineer. Gilford died April 15, 2008 in Greenwich Village in New York City. </p>
+    </bioghist>
+    <accessrestrict id="aspace_c3f2256418f54d02909d1400a3a21a14">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <userestrict id="aspace_a8be8b0a452643d60c6f6f6b357f7b02">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Madeline Gilford was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <acqinfo id="aspace_b2420c3a38ee74a6c685c5c4ba07a4e0">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Lisa Gilford, 2008. The accession number associated with this gift is 2008.040.</p>
+    </acqinfo>
+    <controlaccess>
+      <subject source="lcsh">Blacklisting of entertainers.</subject>
+      <subject source="lcsh">Theater -- Political aspects.</subject>
+      <subject source="lcsh">Folk music.</subject>
+      <persname source="naf">Robeson, Paul, 1898-1976</persname>
+      <corpname source="naf">National Committee to Reopen the Rosenberg Case</corpname>
+      <persname rules="dacs" source="local">Gilford, Lisa</persname>
+      <persname source="naf">Guthrie, Woody, 1912-1967</persname>
+      <persname source="naf">Harburg, E. Y. (Edgar Yipsel), 1898-1981</persname>
+      <persname source="naf">Grant, Lee, 1927-</persname>
+      <persname source="naf">Mostel, Zero, 1915-1977</persname>
+      <persname source="naf">Randolph, John, 1915-2004</persname>
+      <persname role="dnr" rules="dacs" source="local">Gilford, Lisa</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref2" level="series">
+        <did>
+          <unittitle>Series I: Subject Files</unittitle>
+          <unitdate datechar="creation" normal="1940/2005" type="inclusive">1940-2005</unitdate>
+        </did>
+        <scopecontent id="aspace_19b23e5669f13b7f0435565762f3cb02">
+          <head>Scope and Content Note</head>
+          <p>Series I contains correspondence, clippings, photographs, scripts, and speeches documenting Gilford's career and social activism.  A significant portion of the collection relates to 170 Years of Show Business.  The series includes transcripts of Gilford's testimony before HUAC and correspondence from the American Federation of Television and Radio Artists (AFTRA) regarding the failure or refusal of its members to answer questions posed by HUAC.  Other notable items include correspondence from Woody Guthrie, E. Y. (Edgar Yipsel) Harburg, and Arthur Miller.  Photographs include over forty scenes from Attic Playshop, a children's television program produced by Gilford in the 1950s; publicity shots of Madeline Gilford, Jack Gilford, and John Randolph; the 1940 cast of Meet the People; and Robert Meeropol circa 1970s.</p>
+        </scopecontent>
+        <c id="aspace_ref3" level="file">
+          <did>
+            <unittitle>Appointment Calendar</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container altrender="Record carton" id="aspace_ced9f745137d4bd5fe983e14a43bb37e" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_a8e6eaf355fdda2fd6c48ef4a9850211" parent="aspace_ced9f745137d4bd5fe983e14a43bb37e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref4" level="file">
+          <did>
+            <unittitle>Blacklist: Clippings</unittitle>
+            <unitdate datechar="creation" normal="1961/1998" type="inclusive">1961, 1980-1998</unitdate>
+            <container altrender="Record carton" id="aspace_3637de18e021ca058eb2fae286d49357" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_d533a4f80d29ac295b2c7bd2d553227a" parent="aspace_3637de18e021ca058eb2fae286d49357" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Blacklist: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1981/1995" type="inclusive">1981-1995</unitdate>
+            <container altrender="Record carton" id="aspace_bfec32de2cc29e0078cfdd56924faa34" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_1aafe68f906f00992d06ee1a8f3f097d" parent="aspace_bfec32de2cc29e0078cfdd56924faa34" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Blacklist: Programs</unittitle>
+            <unitdate datechar="creation" normal="1992/2005" type="inclusive">1992-2005</unitdate>
+            <container altrender="Record carton" id="aspace_b09f02f0e4b9b95a8bd6b094481b6934" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_a37dd4ed38a07f7df9c06a7b381e68b1" parent="aspace_b09f02f0e4b9b95a8bd6b094481b6934" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Casting</unittitle>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">Apr 1980, undated</unitdate>
+            <container altrender="Record carton" id="aspace_cc0fb653d5272f2aac12e53d5af12870" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_54870e8b5658b5893ac1381d0cb3a89d" parent="aspace_cc0fb653d5272f2aac12e53d5af12870" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Center for Constitutional Rights: Docket</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">Fall 1992</unitdate>
+            <container altrender="Record carton" id="aspace_8446a850d6fbba7fc1afae445cfe04a6" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_08c702e68f85da7cf8e2a51b8552027a" parent="aspace_8446a850d6fbba7fc1afae445cfe04a6" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Children's Television Programming: Attic Playshop</unittitle>
+            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1955, [1950s]</unitdate>
+            <container altrender="Record carton" id="aspace_cd05e5afe9592148c14038012e5ebd96" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_200b54a64e5a14e61db93d3462bbdf79" parent="aspace_cd05e5afe9592148c14038012e5ebd96" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Children's Television Programming: Sing A Song with Charity Bailey</unittitle>
+            <unitdate datechar="creation" normal="1953/1959" type="inclusive">1953, 1954, [1950s]</unitdate>
+            <container altrender="Record carton" id="aspace_5165eb0027eb1804895fcc047dedbefe" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_f56c30d572ffc35450b2a07ab5e641d2" parent="aspace_5165eb0027eb1804895fcc047dedbefe" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Clippings: General</unittitle>
+            <unitdate datechar="creation" normal="1955/1994" type="inclusive">1955-1994, undated</unitdate>
+            <container altrender="Record carton" id="aspace_c58835f2a6bc0180899222ee5a8d78c0" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_e30e0085a0ed2f140ea3a1a48609fc7b" parent="aspace_c58835f2a6bc0180899222ee5a8d78c0" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Commission for the Tenth Anniversary of the Sandinista Revolution: International Symposium on Democracy and Revolution</unittitle>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">29037</unitdate>
+            <container altrender="Record carton" id="aspace_97fc005e2cfbc3ff38bdadc1cc852266" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_3fa01feaf53dba719c9a34481fef5810" parent="aspace_97fc005e2cfbc3ff38bdadc1cc852266" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Congress Monthly, v. 53, no. 4</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">May-Jun 1986</unitdate>
+            <container altrender="Record carton" id="aspace_4c071e7156574068bccb19c8b631d749" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_7e470cb2985f378ccd52010ec3472934" parent="aspace_4c071e7156574068bccb19c8b631d749" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Correspondence: American Federation of Television and Radio Artists</unittitle>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">Aug 10, 1955</unitdate>
+            <container altrender="Record carton" id="aspace_f96488fe6c895a40f268d2494617ab5b" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_ec70f20f0ee1b55a07239cf06ad3bc17" parent="aspace_f96488fe6c895a40f268d2494617ab5b" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Correspondence: Arthur Miller</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">Apr 1940</unitdate>
+            <container altrender="Record carton" id="aspace_699c46bf1a5156b075ce50f5b117ca64" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_e3dc61c7147d828973a69493248fd7fb" parent="aspace_699c46bf1a5156b075ce50f5b117ca64" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Correspondence: General</unittitle>
+            <unitdate datechar="creation" normal="1940/2002" type="inclusive">Apr 1940-Mar 2002, undated</unitdate>
+            <container altrender="Record carton" id="aspace_59492ac8dba6cfe1ae44bd14cbfef30b" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_815ab711945424d161de8858a9e4ba56" parent="aspace_59492ac8dba6cfe1ae44bd14cbfef30b" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Correspondence: Howard Linkoff to Federal Bureau of Investigation</unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">Oct 1991</unitdate>
+            <container altrender="Record carton" id="aspace_f92e147ef236ffbd5c89284b4e0ca5ba" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_601b03a55a46e6acdd8bd3f12fce4421" parent="aspace_f92e147ef236ffbd5c89284b4e0ca5ba" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Correspondence: John Randolph</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">May 14, 1990</unitdate>
+            <container altrender="Record carton" id="aspace_90ef3545e13e7847280528fa241cd310" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_00365d64daed97e6241d66d13a24260a" parent="aspace_90ef3545e13e7847280528fa241cd310" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Correspondence: Woody Guthrie</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">Mar 1940, undated</unitdate>
+            <container altrender="Record carton" id="aspace_365bbcc7c03d4d4cb0ba605d2be7e394" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_36cabca155ff6694d01020e02e10d29e" parent="aspace_365bbcc7c03d4d4cb0ba605d2be7e394" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Cue, v. 46, no. 18</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">Sep 3-16, 1977</unitdate>
+            <container altrender="Record carton" id="aspace_af5bea2fd727c814a8993298beef6dbc" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_f22057f825a4fe8357ebff178c4519c3" parent="aspace_af5bea2fd727c814a8993298beef6dbc" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Early Stages: City of New York Department of Cultural Affairs</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">May 1997</unitdate>
+            <container altrender="Record carton" id="aspace_a560ddda1c46d05eaaae579ba6ccf860" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_7abf7a0f7ef88b11efe0f1d8ba0e1ab5" parent="aspace_a560ddda1c46d05eaaae579ba6ccf860" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Faulk, John Henry: Correspondence, Clippings, and Programs</unittitle>
+            <unitdate datechar="creation" normal="1988/1993" type="inclusive">1988-1993, undated</unitdate>
+            <container altrender="Record carton" id="aspace_8b260a5527c090b31f04929533d86269" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_20ef1dcb09af95c7c615a9d279963cf4" parent="aspace_8b260a5527c090b31f04929533d86269" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Federal Works Agency, Work Projects Administration for the City of New York, Adult Education Program, Board of Education: Pamphlets</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_7207e3376770186fccba733597eecea1" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_b5c9afe30c093f02bdcc95b798755d9b" parent="aspace_7207e3376770186fccba733597eecea1" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Folk Music: Advertisements and Programs</unittitle>
+            <unitdate datechar="creation" normal="1952/1960" type="inclusive">1952-1960, undated</unitdate>
+            <container altrender="Record carton" id="aspace_d04afd7eeab7eedde2579c2607930f59" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_686da12cd7387d7385a0ec98cf934231" parent="aspace_d04afd7eeab7eedde2579c2607930f59" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Folk Music: Clippings</unittitle>
+            <unitdate datechar="creation" normal="1956/1964" type="inclusive">1956-1964, undated</unitdate>
+            <container altrender="Record carton" id="aspace_55afd9c114d4c31389ef30a982219140" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_d6817eb61ab6361992ac95c762d36abb" parent="aspace_55afd9c114d4c31389ef30a982219140" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Folk Music: Ear to the Ground</unittitle>
+            <unitdate datechar="creation" normal="1963/1969" type="inclusive">Oct 1963, [1960s]</unitdate>
+            <container altrender="Record carton" id="aspace_d6ebc743fa46abe9d7420af19a3c454c" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_4e17032e6d7c12d550e479051d2fa196" parent="aspace_d6ebc743fa46abe9d7420af19a3c454c" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Folk Music: "Folk-Say" Festival, Boston</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">20486</unitdate>
+            <container altrender="Record carton" id="aspace_51ec828cec00fc28dabd47aecc61c71f" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_c99a6796150ee717200c02528e62c7cb" parent="aspace_51ec828cec00fc28dabd47aecc61c71f" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Gilford, Jack: Clippings</unittitle>
+            <unitdate datechar="creation" normal="1948/1982" type="inclusive">1948, 1976-1982, undated</unitdate>
+            <container altrender="Record carton" id="aspace_51e5669da7efb47727196c0e2975d8ef" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_d9357da0caaa7024bf0e87c3b9137aac" parent="aspace_51e5669da7efb47727196c0e2975d8ef" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Grant, Lee: Interview with Sylvia Drake</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">Oct 1990</unitdate>
+            <container altrender="Record carton" id="aspace_af9c7a7c5c66bb8fd2dc7f62dfc4a62e" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_0c68f08e0bba38ae36e038fa09bdf032" parent="aspace_af9c7a7c5c66bb8fd2dc7f62dfc4a62e" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Harburg, E. Y. (Edgar Yipsel): Correspondence, Obituaries and Tributes</unittitle>
+            <unitdate datechar="creation" normal="1960/1981" type="inclusive">1960s, 1981</unitdate>
+            <container altrender="Record carton" id="aspace_167d341e17018b9d6894ff51dc827337" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_02a27c0ce2f0c4690648c6dac8256ed8" parent="aspace_167d341e17018b9d6894ff51dc827337" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Headshots</unittitle>
+            <unitdate datechar="creation" normal="1980/1989" type="inclusive">[1980s]</unitdate>
+            <container altrender="Record carton" id="aspace_bbaecec205ab8d5f18a2887180404f20" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_e2bf5080b8591a86c0c5cc1ab085d7d5" parent="aspace_bbaecec205ab8d5f18a2887180404f20" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Hearings Before the Committee on Un-American Activities House of Representatives</unittitle>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">Aug 15-18, 1955</unitdate>
+            <container altrender="Record carton" id="aspace_3f7f4b0de3de15fff5dd548ad076d5f6" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_caf943ac6e1eb4e6879f76a306967587" parent="aspace_3f7f4b0de3de15fff5dd548ad076d5f6" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Institute for Media Analysis</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">Apr 1988</unitdate>
+            <container altrender="Record carton" id="aspace_8cade9417b887ea353208faa822621a6" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_cf57db9e439a00101ec9070ea37a8ef7" parent="aspace_8cade9417b887ea353208faa822621a6" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Kazan, Elia: Correspondence and Clippings re Tributes</unittitle>
+            <unitdate datechar="creation" normal="1987/1999" type="inclusive">1987-1999</unitdate>
+            <container altrender="Record carton" id="aspace_a1fc16fffa5fa3282e4b2d82204fcbfa" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_8e00bd1248feebea26676ef66dbb55fe" parent="aspace_a1fc16fffa5fa3282e4b2d82204fcbfa" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Look to the Rainbow: Clippings</unittitle>
+            <unitdate datechar="creation" normal="1985/1985" type="inclusive">Feb-Mar 1985</unitdate>
+            <container altrender="Record carton" id="aspace_4b3d1a40c93e63bf4dba67f11995513a" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_d58d7ad42a86ed5d62f608c7263ef2c7" parent="aspace_4b3d1a40c93e63bf4dba67f11995513a" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Monocle, v. 6, no. 3</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">23682</unitdate>
+            <container altrender="Record carton" id="aspace_c63bfc7c02a6b528bc390ea92190f2d3" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_e1e92195abce72aedceb2df05b2c3185" parent="aspace_c63bfc7c02a6b528bc390ea92190f2d3" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Mostel, Zero: Clippings and Programs</unittitle>
+            <unitdate datechar="creation" normal="1977/1984" type="inclusive">1977-1984, undated</unitdate>
+            <container altrender="Record carton" id="aspace_f5b4d3d43f3b51b8703c2c99407eff92" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_9867d10ff3e644e6e49f02eebfea73b2" parent="aspace_f5b4d3d43f3b51b8703c2c99407eff92" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>National Committee to Abolish the House Un-American Activities Committee: Correspondence and Pamphlet, HUAC: Bulwark of Segregation</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container altrender="Record carton" id="aspace_1fec8d7015900cad46ecc70b8c80e9fd" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_fc4640bf5e795ad9b21b8f78e84e2d7a" parent="aspace_1fec8d7015900cad46ecc70b8c80e9fd" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>National Committee to Reopen the Rosenberg Case</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container altrender="Record carton" id="aspace_e8df15ed139c9d7204f64dfd744008e5" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_14adc6bc570991d22678c4c5fba6ace5" parent="aspace_e8df15ed139c9d7204f64dfd744008e5" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>National Emergency Civil Liberties Committee: Bill of Rights Dinner: Correspondence, Programs, and Speeches</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">Dec 1992</unitdate>
+            <container altrender="Record carton" id="aspace_93f9372a53709871feb30fa80bb3e2d7" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_0433514b0068693c100318880b922d9d" parent="aspace_93f9372a53709871feb30fa80bb3e2d7" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>National Emergency Civil Liberties Committee: Publications</unittitle>
+            <unitdate datechar="creation" normal="1960/1992" type="inclusive">1960, 1991-1992</unitdate>
+            <container altrender="Record carton" id="aspace_a3b44dfa4a9ea57b08068479b6aacc0c" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_7e193f7cb5deb4a1042ef2ed0ff30962" parent="aspace_a3b44dfa4a9ea57b08068479b6aacc0c" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Notes</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_1a5fb6352bbdd0c7faa4dfd44793a03a" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_ba9da3e17dc705af6565a89d6c7d4ca2" parent="aspace_1a5fb6352bbdd0c7faa4dfd44793a03a" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Obituaries</unittitle>
+            <unitdate datechar="creation" normal="1980/1998" type="inclusive">1980-1998</unitdate>
+            <container altrender="Record carton" id="aspace_1bd6ef60816ff282eb84eff520240eb5" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_eae0c43a092f059a1000280d05aa9921" parent="aspace_1bd6ef60816ff282eb84eff520240eb5" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>170 Years of Show Business: Advertising Mock-Ups</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">[1978]</unitdate>
+            <container altrender="Record carton" id="aspace_8266358ce337e318c50caa34c3b5a5d0" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_30c92d7774d2f96d67aa14983d3f804d" parent="aspace_8266358ce337e318c50caa34c3b5a5d0" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>170 Years of Show Business: Clippings</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">Oct-Nov 1977</unitdate>
+            <container altrender="Record carton" id="aspace_5273c2075521aee871676d343c49ba9b" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_74d607962c7efaf5052c6c8dbf589dee" parent="aspace_5273c2075521aee871676d343c49ba9b" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>170 Years of Show Business: Clippings</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">Jan-Aug 1978</unitdate>
+            <container altrender="Record carton" id="aspace_5efe273cffc309b50eed1b9f7f5b2015" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_3b8ef07e7a140ce03b877b1d4822f223" parent="aspace_5efe273cffc309b50eed1b9f7f5b2015" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>170 Years of Show Business: Clippings</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">Sep-Dec 1978</unitdate>
+            <container altrender="Record carton" id="aspace_d6a26ec0a99144f6fc8dde315595d836" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_c252efd012d03e463dc344f563faa81a" parent="aspace_d6a26ec0a99144f6fc8dde315595d836" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>170 Years of Show Business: Clippings</unittitle>
+            <unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate>
+            <container altrender="Record carton" id="aspace_23f7b0a505364aaba38b4c779c5444f3" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_b83e8d748cea095a8df1b8fee4f95e57" parent="aspace_23f7b0a505364aaba38b4c779c5444f3" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>170 Years of Show Business: Clippings</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_5a5deb103d9acb5b637961d8f4955e27" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_8fe201840cee654839e9810d37fc7c9e" parent="aspace_5a5deb103d9acb5b637961d8f4955e27" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>170 Years of Show Business: Contracts, financial statement, schedules</unittitle>
+            <unitdate datechar="creation" normal="1976/1979" type="inclusive">1976-1979</unitdate>
+            <container altrender="Record carton" id="aspace_57176b578adeb65b1da56e0ff0fb3baa" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_94257adaa61d4f5eef490dfff5264676" parent="aspace_57176b578adeb65b1da56e0ff0fb3baa" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>170 Years of Show Business: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1976/1997" type="inclusive">1976-1997, undated</unitdate>
+            <container altrender="Record carton" id="aspace_a039382f976bf8023a535af59a7a8905" label="Mixed Materials [31142062771103]" type="Box">1</container>
+            <container id="aspace_8cf66ad15ef195ac3a350a458cf32a8a" parent="aspace_a039382f976bf8023a535af59a7a8905" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>170 Years of Show Business: Drafts</unittitle>
+            <unitdate datechar="creation" normal="1970/1979" type="inclusive">[1970s]</unitdate>
+            <container altrender="Record carton" id="aspace_0e7adcb0e1b333e4837a0d5a34be257f" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_76fdd31a1b4764dda4bcf33fb3477056" parent="aspace_0e7adcb0e1b333e4837a0d5a34be257f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>170 Years of Show Business: Drafts</unittitle>
+            <unitdate datechar="creation" normal="1970/1979" type="inclusive">[1970s]</unitdate>
+            <container altrender="Record carton" id="aspace_2bf9e7b1ec2dde62472fad09857dcb78" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_ec319bd4ebfffe97f4c992ffd9d97672" parent="aspace_2bf9e7b1ec2dde62472fad09857dcb78" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>170 Years of Show Business: Drafts</unittitle>
+            <unitdate datechar="creation" normal="1970/1979" type="inclusive">[1970s]</unitdate>
+            <container altrender="Record carton" id="aspace_cd26d0fb22d75aaac2864529d34ecf7e" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_34604a5a461288d7ab577c50fd8c1b0d" parent="aspace_cd26d0fb22d75aaac2864529d34ecf7e" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>170 Years of Show Business: Film Proposal</unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991, undated</unitdate>
+            <container altrender="Record carton" id="aspace_8bc0405d7fdab0bf4f3b55c9cc5bcae9" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_ce4344adbdcb043ccc75a4339b8ce6de" parent="aspace_8bc0405d7fdab0bf4f3b55c9cc5bcae9" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>170 Years of Show Business: Photography Credits</unittitle>
+            <unitdate datechar="creation" normal="1970/1979" type="inclusive">[1970s]</unitdate>
+            <container altrender="Record carton" id="aspace_73435e83ee69b93e6896fd8062312cc5" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_cbf7d2760be5603d538882d58adb30b7" parent="aspace_73435e83ee69b93e6896fd8062312cc5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>170 Years of Show Business: Publicity</unittitle>
+            <unitdate datechar="creation" normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container altrender="Record carton" id="aspace_9a169d9cd13bac8c604e07e5167d0eb6" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_51d0e627e51baca7047ab89561122b18" parent="aspace_9a169d9cd13bac8c604e07e5167d0eb6" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Perelman, S. J. (Sidney Joseph): Clippings</unittitle>
+            <unitdate datechar="creation" normal="1974/1979" type="inclusive">1974, 1979, undated</unitdate>
+            <container altrender="Record carton" id="aspace_94e805701fa296178b93b56633c619e4" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_2164aef394fa60e27980610ea69cebdf" parent="aspace_94e805701fa296178b93b56633c619e4" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="1940/1989" type="inclusive">1940s-1980s</unitdate>
+            <container altrender="Record carton" id="aspace_b9c3ad46f634a9fdb923de9c4ac55a6f" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_1fc09a424e5eafcab29a60debe455b49" parent="aspace_b9c3ad46f634a9fdb923de9c4ac55a6f" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1965/2004" type="inclusive">1965-2004</unitdate>
+            <container altrender="Record carton" id="aspace_4266bbd553a477a1d34e91246682acc1" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_97c555ff92d18db02c94e71a26592a07" parent="aspace_4266bbd553a477a1d34e91246682acc1" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Publicity: Personal</unittitle>
+            <unitdate datechar="creation" normal="1940/1949" type="inclusive">1940s</unitdate>
+            <container altrender="Record carton" id="aspace_cfe2090946b19f70d7d944218285c460" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_5f86222eb611f9014db61d1d05e539c0" parent="aspace_cfe2090946b19f70d7d944218285c460" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Put Your Mouth Where Your Mouth Is: An Irish-Jewish Cookbook: Unpublished Manuscript Drafts and Clippings</unittitle>
+            <unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+            <container altrender="Record carton" id="aspace_e3f1d61ca99da08f8d55aaaed968cc70" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_a61c4a2bdec79db89641b2f3f9588bfe" parent="aspace_e3f1d61ca99da08f8d55aaaed968cc70" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>The Races of Mankind: Ruth Benedict and Gene Weltfish, Public Affairs Pamphlet (85), New York: Public Affairs Committee Inc.</unittitle>
+            <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate>
+            <container altrender="Record carton" id="aspace_4b42b63e39ea7962721c1d62d2f0ea05" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_64b38b0e28b7364fdb12fd141e805d10" parent="aspace_4b42b63e39ea7962721c1d62d2f0ea05" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Robeson, Paul: Leaflet and Pamphlet for Paul Robeson Centennial Celebration; Clippings</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container altrender="Record carton" id="aspace_c905038a8e60e006f851a9c7d0c301ac" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_288b666918519f36bf72af55d8879488" parent="aspace_c905038a8e60e006f851a9c7d0c301ac" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Rosenberg Era Art Project</unittitle>
+            <unitdate datechar="creation" normal="1985/1989" type="inclusive">1985-1989</unitdate>
+            <container altrender="Record carton" id="aspace_29423518ffb77a43485b8bc46e11500e" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_77170b79bf85727151b3a7be109a4669" parent="aspace_29423518ffb77a43485b8bc46e11500e" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Rosenberg Fund for Children</unittitle>
+            <unitdate datechar="creation" normal="1990/1998" type="inclusive">1990-1998</unitdate>
+            <container altrender="Record carton" id="aspace_92851c5afdc0197991d0c32f3f2f6fb5" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_c11d93e6855594d4a4f3d4ea5815858d" parent="aspace_92851c5afdc0197991d0c32f3f2f6fb5" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Rosenberg, Susan: Correspondence and Clippings re Imprisonment</unittitle>
+            <unitdate datechar="creation" normal="1987/1989" type="inclusive">1987, 1989, undated</unitdate>
+            <container altrender="Record carton" id="aspace_841868e38b3ffb31574004d7179b62f5" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_d33ce829b18a614b479c5f7cb65b06de" parent="aspace_841868e38b3ffb31574004d7179b62f5" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Scripts</unittitle>
+            <unitdate datechar="creation" normal="1962/1965" type="inclusive">1962, 1964- 1965, undated</unitdate>
+            <container altrender="Record carton" id="aspace_77a9a1cae06d8366480047e6732f6e32" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_6b4bdbd54cac6e62bb9d8795e2b43c2d" parent="aspace_77a9a1cae06d8366480047e6732f6e32" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>World of Sholom Aleichem: Clippings, Correspondence, and Playbill</unittitle>
+            <unitdate datechar="creation" normal="1953/1982" type="inclusive">1953, 1981-1982</unitdate>
+            <container altrender="Record carton" id="aspace_1285b6650f793238bf606c22ab7e51ef" label="Mixed Materials [31142062771111]" type="Box">2</container>
+            <container id="aspace_beb62fb396bb275925bf52b1a18c8b89" parent="aspace_1285b6650f793238bf606c22ab7e51ef" type="Folder">18</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref70" level="series">
+        <did>
+          <unittitle>Series II: Oversized</unittitle>
+          <unitdate datechar="creation" normal="1944/1988" type="inclusive">1944-1988</unitdate>
+        </did>
+        <scopecontent id="aspace_cf6dc8901a97bc1f92f879700765292d">
+          <head>Scope and Content Note</head>
+          <p>Series II contains clippings and programs relating to blacklisting in the entertainment industry, publicity for 170 Years of Show Business, and an annotated broadside commemorating the performances of Jack Gilford.</p>
+        </scopecontent>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>"The Blacklist Legacy: A New Generation in Hollywood Takes Political Sides Again, but Remembers the Red Witchhunt", Judith Michaelson, Los Angeles Times: Clipping</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">32068</unitdate>
+            <container altrender="Hollinger Flat OS 14" id="aspace_55f7a89c79d52f131a168bd601e2016b" label="Mixed Materials [31142062755122]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>"The Blacklist Years: A Look Back to the Future": Christy Macy, Forum, Winter 1987-1988: Clipping</unittitle>
+            <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container altrender="Hollinger Flat OS 14" id="aspace_1525e627aa5869751df99ae444d31c4f" label="Mixed Materials [31142062755122]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Broadway Dissents: Week of the Angry Arts: Broadside</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Hollinger Flat OS 14" id="aspace_34104a7d271e553de6d7556f96541f36" label="Mixed Materials [31142062755122]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>"The Charter of the United Nations: Adopted in the City of San Francisco, June 26, 1945", People's Daily World, vol. 8, no. 151, section II: Clipping</unittitle>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">16617</unitdate>
+            <container altrender="Hollinger Flat OS 14" id="aspace_708f73cf82b49a661a0c237ce5128aae" label="Mixed Materials [31142062755122]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Gilford, Jack: Broadside</unittitle>
+            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970s</unitdate>
+            <container altrender="Hollinger Flat OS 14" id="aspace_81595d912129942c9beda37347fa484c" label="Mixed Materials [31142062755122]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>170 Years of Show Business: Broadsides</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">[1978]</unitdate>
+            <container altrender="Hollinger Flat OS 14" id="aspace_076783e470e635a2464d825ef8877159" label="Mixed Materials [31142062755122]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>"Their Greatest Picture", Joseph North, People's Daily World, vol. 11, no. 133, section II: Clipping</unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">17689</unitdate>
+            <container altrender="Hollinger Flat OS 14" id="aspace_751bbe5947146abd8aa19bdda5b234e3" label="Mixed Materials [31142062755122]" type="Box">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>The Worker, vol. IX, no. 32</unittitle>
+            <unitdate datechar="creation" normal="1944/1944" type="inclusive">16290</unitdate>
+            <container altrender="Hollinger Flat OS 14" id="aspace_99e5b563cc1450f7e0552181f1b30b2d" label="Mixed Materials [31142062755122]" type="Box">3</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_165">mc_165</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Julius Silver Papers <num>MC.165</num></titleproper>
+        <author>Lindsay Dumas. Additional processing by Shannon McDonald in 2013.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 20:57:11 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>June 2019</date>
+        <item>Updated by Jennifer E. Neal to incorporate materials being sent to offsite storage in 2019</item>
+      </change>
+      <change>
+        <date>July 2019</date>
+        <item>Updated by Jennifer E. Neal to incorporate materials being sent to offsite storage in 2019</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Julius Silver Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Silver, Julius</persname>
+      </origination>
+      <unitid>MC.165</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">6 Linear Feet</extent>
+        <extent altrender="carrier">in 11 boxes and 1 oversize folder</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1945/1990" type="inclusive">1945-1990</unitdate>
+      <unitdate datechar="creation" normal="1962/1980" type="bulk">1962-1980</unitdate>
+      <abstract id="aspace_af31ff30546ef9dd90f57f86476fbc1d">Julius Silver graduated from New York University's University College of Arts and Science in 1922.  After graduating from Columbia University's School of Law, Silver served as partner in a law firm and also as vice-president of the Polaroid Corporation. Throughout his life, Silver donated generously to a variety of universities and research centers. His papers primarily focus on his business and philanthropic activities, including the construction of NYU residential centers, Columbia's Silver Center of Law, Science, and Technology, and the Julius Silver Institute of Biomedical Engineering Sciences at Technion-Israel Institute of Technology.</abstract>
+      <physloc id="aspace_978f2d8a74bfba399ba453e9aa6b9b9a">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_afc1ea9a4720208dc819f18ee6d84b8c">Materials primarily in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_8dadb78f475b03867ba6e1865a10da90">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_e6aa3805cce4cb7ef0a0019e30d8a1b4">
+      <head>Immediate Source of Acquisition</head>
+      <p>Materials found in collection; there is no documentation concerning the provenance of these materials.</p>
+    </acqinfo>
+    <arrangement id="aspace_f97f00c68631eedda6346dfb455669d5">
+      <head>Arrangement</head>
+      <p>Folders are arranged by subject in five series:</p>
+      <p>I. Buildings</p>
+      <p>II. Julius Silver Institute of Bio-Medical Engineering</p>
+      <p>III. Jewish Theological Seminary of America</p>
+      <p>IV. Awards, Dedications, Photographs, and Objects</p>
+      <p>V. Newspaper Clippings and Correspondence</p>
+    </arrangement>
+    <bioghist id="aspace_ac655c2733a545876a9ce59de24fc89c">
+      <head>Biographical Note</head>
+      <p>A leading attorney, corporate executive, and philanthropist, Julius Silver (1900-2001) was born in Philadelphia, Pennsylvania, to Russian immigrants.  The Silvers moved to Brooklyn, where Julius spent his childhood before receiving a scholarship to attend New York University. He graduated with a B.A. from the University College of Arts and Sciences in 1922 and was one of two members of his class elected to Phi Beta Kappa. In 1924, he graduated from Columbia School of Law with a LL.B. degree. </p>
+      <p>Silver ultimately served as a senior partner at the New York law firm Silver, Saperstein, Barnett and Solomon and as the Chairman of the Executive Committee and Vice President of the Polaroid Corporation. He was also deeply concerned with the problems and needs of higher education.  He donated money to NYU to establish the Julius Silver Residence Center, the Julius Silver Scholarships for Students in the Sciences, and the Helbein Scholarships for Outstanding Student Leaders.</p>
+      <p>Silver also contributed to the development of the Albert Einstein Foundation for Higher Learning and was a primary mover in the founding of Brandeis University, the establishment of the Julius Silver Institute of Biomedical Engineering at Techion-Israel Institute of Technology, and the Julius Silver Chair in Law, Science and Technology at Columbia Law School. Silver also made a significant contribution to the New York University Faculty of Arts and Sciences upon his death, donating $150 million dollars to lure top professors to the university. </p>
+    </bioghist>
+    <prefercite id="aspace_467685244f8d6f0d44c1f3288e5ebec3">
+      <head>Preferred Citation note</head>
+      <p>Published citations should take the following form: Identification of item, date (if known); Julius Silver Papers; MC 165; box number; folder number; New York University Archives, New York University Libraries.</p>
+    </prefercite>
+    <processinfo id="aspace_b7d7d8deebdeab72542bdd4040400588">
+      <head>Processing Information</head>
+      <p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2019 are unknown.</p>
+    </processinfo>
+    <scopecontent id="aspace_c68fc3ec9c005e7bbb729f54a81e408f">
+      <head>Scope and Contents</head>
+      <p>These papers primarily focus on Silver's business and philanthropic activities, including the construction of NYU residential centers, Columbia's Silver Center of Law, Science, and Technology, and the Julius Silver Institute of Biomedical Engineering Sciences at Technion-Israel Institute of Technology. The material chiefly includes correspondence regarding donations and awards, press releases, published papers and brochures, documentation related to the development of centers and institutes funded by Julius Silver, color transparencies, and miscellaneous family photographs.</p>
+    </scopecontent>
+    <userestrict id="aspace_ffde0ffdfe850851bbfe7457690632b7">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by Julius Silver are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives. Please contact university-archives@nyu.edu.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Polaroid Corporation.</subject>
+      <subject source="lcsh">Biomedical engineering.</subject>
+      <corpname source="naf">Columbia University. School of Law</corpname>
+      <persname source="naf">Brademas, John,  1927-2016</persname>
+      <corpname rules="dacs" source="local">New York University. University College of Arts and Pure Science</corpname>
+      <corpname source="naf">Jewish Theological Seminary of America</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref2" level="series">
+        <did>
+          <unittitle>Series I: Buildings</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref3" level="file">
+          <did>
+            <unittitle>NYU Student Residence Facilities</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4a75e1e83d37b09ed4fddc1ea8f10ff3" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_d5f5851efeaf83e4cfd657b905f445dd" parent="aspace_4a75e1e83d37b09ed4fddc1ea8f10ff3" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref4" level="file">
+          <did>
+            <unittitle>Minutes: Meetings of the Building and Grounds Committee of the Board of Trustees of NYU</unittitle>
+            <unitdate datechar="creation" normal="1965/1969" type="inclusive">1965-1969</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_911629d8353c58df0366b6c70f140c53" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_78624a460c9cb52311f4e2c9528c675f" parent="aspace_911629d8353c58df0366b6c70f140c53" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>NYU Residence Center Copies of Julius Silver Speech</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_b9e1842906156b3ccb3d0432c6748c61" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2891ea78c3d66dfcc53274984cb7aa4c" parent="aspace_b9e1842906156b3ccb3d0432c6748c61" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Related Materials Building of Grounds Committee</unittitle>
+            <unitdate datechar="creation" normal="1965/1973" type="inclusive">1965-1973</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_e1805398be6a92d0deb663c3194680d6" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_4f76b74e55c7219f93edb0e25ae4077f" parent="aspace_e1805398be6a92d0deb663c3194680d6" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>NYU Residence Center Misc.</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_f7ec5204da954c6959fb77130dd1a272" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_9e0cb1d4e03d3bf1865fce9cf1033338" parent="aspace_f7ec5204da954c6959fb77130dd1a272" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>NYU Residence Center Correspondence - After Dedication</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_fba504bfc88dbfb7a8f3a7229956d25f" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_33bf3e300f778025551ba3c8082126db" parent="aspace_fba504bfc88dbfb7a8f3a7229956d25f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>NYU Residence Center Correspondence Prior to Dedication</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_b76cd1d8724aac0b958c403dc3f03d80" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_20d45293d90487a9d3b5bdea786fbc54" parent="aspace_b76cd1d8724aac0b958c403dc3f03d80" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Julius Silver Residence Center Invitations, Programs, Etc.</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_1557c6e5e50da38d3fddb79fe11c2c63" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_056e27b7536c6d26813369a373e44622" parent="aspace_1557c6e5e50da38d3fddb79fe11c2c63" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Julius Silver NYU Residence Center Invitations, Programs, etc.</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_f4efad8633bdb06d225af5b88f0cab3b" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_fd6109482e6b1f56da28099f606f73c8" parent="aspace_f4efad8633bdb06d225af5b88f0cab3b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>NYU Dedication Silver Towers</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4502d187508099859aa193a4cbe1a046" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_b0bf0ba13e17fe8d4fe750a59f0d200a" parent="aspace_4502d187508099859aa193a4cbe1a046" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Julius Silver Reception and Dedication</unittitle>
+            <unitdate datechar="creation" normal="1983/1985" type="inclusive">1983-1985</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_1f9b9420827975f22766d020c251a05e" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_2dcd94bf08ddd87c96906c038e775ae3" parent="aspace_1f9b9420827975f22766d020c251a05e" type="Folder">11</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref15" level="series">
+        <did>
+          <unittitle>Series II: Julius Silver Institute of Bio-Medical Engineering Sciences at Technion-Israel Institute of Technology
+</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Julius Silver Institute</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_30108585c38e680c95941d4c50a53127" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_81bb460e978c6e0f96eab41f8df75f3b" parent="aspace_30108585c38e680c95941d4c50a53127" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Technion-Israel Institute of Technology Brochures</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_f8357a590c50a726600262da4bc60bac" label="Mixed Materials" type="Box">1</container>
+            <container id="aspace_3d02cb3be20583720c8f449244c96239" parent="aspace_f8357a590c50a726600262da4bc60bac" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Technion Memos and Pamphlets</unittitle>
+            <unitdate datechar="creation" normal="1968/1971" type="inclusive">1968-1971</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_50757b61978fbcd667d00617872dfb1b" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_6fd16802e4f8d80c1d184822e04a0627" parent="aspace_50757b61978fbcd667d00617872dfb1b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Technion Pamphlets and Correspondences</unittitle>
+            <unitdate datechar="creation" normal="1974/1976" type="inclusive">1974-1976</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_232a88d79de82c7859cd6c20ea03dbbd" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_66a1be0c6d9e85746c5c81e242131885" parent="aspace_232a88d79de82c7859cd6c20ea03dbbd" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Technion Bio-Medical Engineering at Technion</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_bd61b440bbea989eb2b0aeef3107f0c3" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d3cb1c7b596605cb8d7f8b9d7d6c7ac1" parent="aspace_bd61b440bbea989eb2b0aeef3107f0c3" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Speech Notes (Technion)</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_452679cc50ab71502236e82efd1055b7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_53fdffe2e153b6e5ecaf118894abb2bd" parent="aspace_452679cc50ab71502236e82efd1055b7" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Dedication Ceremonies (Technion)</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_c21743d5765f16ebebc87887c656d8b7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_0cfac8d3e7ee6f82ef839cbc6db959e1" parent="aspace_c21743d5765f16ebebc87887c656d8b7" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>National Biomedical Engineering Center</unittitle>
+            <unitdate datechar="creation" normal="1966/1968" type="inclusive">1966-1968</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_7852e09678b39bc299ab8fd8c12d8331" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e34e2dbf70d7262fe8ed4532a6885c60" parent="aspace_7852e09678b39bc299ab8fd8c12d8331" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Technion Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1978/1985" type="inclusive">1978-1985</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_67283a9ae773a0d4b9c8476ecd79b16c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_293b31f4b92781ee719626823a6124c0" parent="aspace_67283a9ae773a0d4b9c8476ecd79b16c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Technion Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1976/1986" type="inclusive">1976-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_6d57888c6e284dc6444a4dc9f1f305cd" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9eec9fb15ea90337574ecd5be16fb61e" parent="aspace_6d57888c6e284dc6444a4dc9f1f305cd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Technion Correspondences and Reports</unittitle>
+            <unitdate datechar="creation" normal="1976/1990" type="inclusive">1976-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_a681e1538e917a157bb0c7447a638e39" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_88324533be75a5487e1e844038a67f11" parent="aspace_a681e1538e917a157bb0c7447a638e39" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Technion Correspondences and Reports</unittitle>
+            <unitdate datechar="creation" normal="1976/1992" type="inclusive">1976-1992</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_deecbabe1b0620c26e01e8dc7911ea31" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_58390cd981f469f05c1cd0e67538b138" parent="aspace_deecbabe1b0620c26e01e8dc7911ea31" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Dedication Ceremonies of Julius Silver Institute</unittitle>
+            <unitdate datechar="creation" normal="1968/1976" type="inclusive">1968-1976</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_0afd9c05d98f4958a2e2daa2b9592b3c" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_5df7373417d38c25749cfb7abf040263" parent="aspace_0afd9c05d98f4958a2e2daa2b9592b3c" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Second Annual Julius Silver Symposium at Technion</unittitle>
+            <unitdate datechar="creation" normal="1970/1993" type="inclusive">1970-1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_c94ae37a70f00b2302fdefaa2c1a0a1d" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_b03daa87eac61d071ce5aeca092df3ef" parent="aspace_c94ae37a70f00b2302fdefaa2c1a0a1d" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Julius Silver Symposium</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_8baa154c4ea38c59553b95def18a54a3" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_9917e2123138000336a9e09659e6d958" parent="aspace_8baa154c4ea38c59553b95def18a54a3" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Technion Correspondence </unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_dbbce0ab019dadb04169feecc6b24e49" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_59d4c70fbc02bcac58cc40ba2cee9052" parent="aspace_dbbce0ab019dadb04169feecc6b24e49" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Technion Correspondence </unittitle>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_871c76ca8a2bc87fe9c2f6ee33346492" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_ff9856e2c7006ef0cc1662b8b71b3a19" parent="aspace_871c76ca8a2bc87fe9c2f6ee33346492" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Technion Correspondence </unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_28941f2c5e042030bbe31eee6863ca85" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_e4a5e47ab5ea9e9f33824fab5a65de3c" parent="aspace_28941f2c5e042030bbe31eee6863ca85" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Technion Correspondence </unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_577d3c7b81a6b216b1f3857690f45a52" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_468004ada264edc9e7685603f85016b5" parent="aspace_577d3c7b81a6b216b1f3857690f45a52" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Technion Correspondence </unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_781f82d147ccb1a247d15561a6646182" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_d98af92e885b1da1377626da04aa76a1" parent="aspace_781f82d147ccb1a247d15561a6646182" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Technion Correspondence </unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_08e912ab8fc6f4a4d1bab03289eaf4c7" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_11a76fded93d9c354402fb52c28c8450" parent="aspace_08e912ab8fc6f4a4d1bab03289eaf4c7" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Technion Correspondence </unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_e6b225a2c1e22779f2999edac799ef2a" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_62a40a35e0d6ddcac13b04c5beedc53d" parent="aspace_e6b225a2c1e22779f2999edac799ef2a" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Technion Correspondence </unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4994c37f4e9d06acbff4e05a6f068acc" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_821b2c8ed850120230dccb7477201074" parent="aspace_4994c37f4e9d06acbff4e05a6f068acc" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Technion Correspondence </unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_8bfe9970801f70bddb96d6d1b3e9ca75" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_7e85f3e22fa1651ab809dc0fed5c7a83" parent="aspace_8bfe9970801f70bddb96d6d1b3e9ca75" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Technion Correspondence </unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_1d9e149ab67b514009f5b54fc233ef88" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_58fc94337a24b624e2b6fe8f87280864" parent="aspace_1d9e149ab67b514009f5b54fc233ef88" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Technion Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1968/1970" type="inclusive">1968-1970</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_74cd958b48e4c9d3b414281cabf41e50" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_36f6752f87cd70595b336369b4dbf1cc" parent="aspace_74cd958b48e4c9d3b414281cabf41e50" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Technion Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1978/1981" type="inclusive">1978-1981</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_b5de7f3ea2aface504ae905d1b8f6ae5" label="Mixed Materials" type="Box">2</container>
+            <container id="aspace_079f04a29a577770bbb073465044dd75" parent="aspace_b5de7f3ea2aface504ae905d1b8f6ae5" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Technion-Israel Institute of Technology Brochures</unittitle>
+            <unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_04726f7514e80d84201fdf9763265712" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_595333d28856408fba5bf35ee3c489d8" parent="aspace_04726f7514e80d84201fdf9763265712" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Technion Brochures, correspondences, and pamphlets</unittitle>
+            <unitdate datechar="creation" normal="1978/1994" type="inclusive">1978-1994</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_f2ab1bc1287aba3f9ce05e702e594aa8" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_6fb28db3d3a73e686ea098479cd819a7" parent="aspace_f2ab1bc1287aba3f9ce05e702e594aa8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Description Biomedical Engineering Doctorate Program</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_72066f2367eb860bbe03aaed36ef065f" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_71049b6f2e0e6365fb0c39496986a55c" parent="aspace_72066f2367eb860bbe03aaed36ef065f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Technion Floor Plan</unittitle>
+            <unitdate datechar="creation">n.d.</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_898123d0439359f7cf72f4fafde499f6" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_76be173b5d1b7f93e22fb14c29315690" parent="aspace_898123d0439359f7cf72f4fafde499f6" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Julius Silver Institute floor plans</unittitle>
+            <unitdate datechar="creation">n.d.</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_faf3033476d2a10d76904e5d1cc81c85" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_dc9b4f4398e8099d71b995923adf69c5" parent="aspace_faf3033476d2a10d76904e5d1cc81c85" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Julius Silver Institute Floor Plans photos</unittitle>
+            <unitdate datechar="creation">n.d.</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_85c976070deaaccaf4162ae0b0910bb9" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_b41c2254f94ceed55d418a5f57223ca0" parent="aspace_85c976070deaaccaf4162ae0b0910bb9" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref49" level="series">
+        <did>
+          <unittitle>Series III: Jewish Theological Seminary of America</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Correspondence of Jewish Theological Institute</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1211fd3e66dbd1237e407346c3066774" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_96dd1f5103cbf2b273ab289fe772246e" parent="aspace_1211fd3e66dbd1237e407346c3066774" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Jewish Theological Seminary Report</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_71e4c33ca1c2f30c53e06433e9ded6c8" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_268926a88808cafed9df8f7dab10406b" parent="aspace_71e4c33ca1c2f30c53e06433e9ded6c8" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Jewish Theological Seminary Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1968/1972" type="inclusive">1968-1972</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_40a78520f0151b01d0c2c363016f1e7b" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_5a9ce2a7a151a9c63ac397ed22236258" parent="aspace_40a78520f0151b01d0c2c363016f1e7b" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Jewish Theological Seminary Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1968/1975" type="inclusive">1968-1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_24c9ae76a1bbb419423326958f7f721d" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_addecce6f2fa87f23bcc524d9e17e6b6" parent="aspace_24c9ae76a1bbb419423326958f7f721d" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Jewish Theological Seminary of America</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_b5e80de5aa3a365fc2e4bcb2042b6d1b" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_9a5d8922c5c53c8c86ff008bd5d403d8" parent="aspace_b5e80de5aa3a365fc2e4bcb2042b6d1b" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_b8afb6a5ede912c3180ce5ecf9a560c6" level="file">
+          <did>
+            <unittitle>Honorary Doctor of Humane Letters, honors causa, diploma</unittitle>
+            <unitdate datechar="creation" normal="1973/1973">1973</unitdate>
+            <container altrender="Flat OS 21" id="aspace_3c5e54d40e746674c7a3c0518f4d7757" label="Mixed Materials [31142062912251]" type="Box">Shared University Archives 050</container>
+            <container id="aspace_3b07094696fe939bb0e38d4367b2360d" parent="aspace_3c5e54d40e746674c7a3c0518f4d7757" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref56" level="series">
+        <did>
+          <unittitle>Series IV: Awards, Dedications, Photographs and Objects</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_822709e38613e9a209c5a777e58069c1">
+          <head>Scope and Contents</head>
+          <p>Items in this series without box and folder numbers are oversized items located in the Memorabilia Room.</p>
+        </scopecontent>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Helbein Scholarship Award</unittitle>
+            <unitdate datechar="creation" normal="1982/1990" type="inclusive">1982-1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_4245fd0a1e9d858f139c1851e969f613" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_4d9e4871d8423a45581d7cfe35e044fa" parent="aspace_4245fd0a1e9d858f139c1851e969f613" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Barnard College Reunion Class of 1927</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_9e5944c7bc925eaa1d0dd6d71b29349e" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_08d5b7668fb79a540b6d5cd0020fc03a" parent="aspace_9e5944c7bc925eaa1d0dd6d71b29349e" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>NYU Presidents Council Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1965/1969" type="inclusive">1965-1969</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_e70462d8f8a92f94bbf1769cb2f37bd2" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_a07b66f23b0c6a82b662a8393973f49b" parent="aspace_e70462d8f8a92f94bbf1769cb2f37bd2" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Jewish Theological Seminary Award</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_da3b1e98c13a56df532a457a8c4b5904" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_7e2388c452d0fffb805eaf433004534b" parent="aspace_da3b1e98c13a56df532a457a8c4b5904" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Peace In Our Time? (book)</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_db469ff29c66cb3e4d2306aabf555954" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_07acb2c478e50c5f516aae37a4c4cf5f" parent="aspace_db469ff29c66cb3e4d2306aabf555954" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Albert Einstein Award</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_9b1ea8f1344b87bb5138a3f68c282f48" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_8a461a39721e898862dffa12f85eca37" parent="aspace_9b1ea8f1344b87bb5138a3f68c282f48" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Julius Silver Institute of Bio-Medical Engineering Photo</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_8a4cd7a2cd42f236c4265f1755a05e60" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_581856118791c15a734c52e546a94147" parent="aspace_8a4cd7a2cd42f236c4265f1755a05e60" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Photocopy of New York Times Cover December 17, 1900</unittitle>
+            <unitdate datechar="creation" normal="1900/1900" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_f8f786d65bcc31c7eb86c37c2044d79f" label="Mixed Materials [31142063055191]" type="Box">3</container>
+            <container id="aspace_f952aff47398c2518af58868460de7d0" parent="aspace_f8f786d65bcc31c7eb86c37c2044d79f" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Sir Harold Acton Society Medal with program</unittitle>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_44a907d845d60c3ada634bf81bba8fa5" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_ef5ef7d1262e9fae58c096d48c6158ff" parent="aspace_44a907d845d60c3ada634bf81bba8fa5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Photograph of Enid Silver Winslow</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_60f9032dfba4bc444b768dcdef4cdde3" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_07d999fa5d46087e10196076e156713a" parent="aspace_60f9032dfba4bc444b768dcdef4cdde3" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Photographs of Rosalyn Silver</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_2ef5d34bd3985ad57d9c452504a7049d" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_50a417c791d609b7ef34fd2976856e70" parent="aspace_2ef5d34bd3985ad57d9c452504a7049d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Photograph of Class of 1922 45th Reunion</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_aa01ff5bbf4351f58bce996c19dfb9b4" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_6d79af6adbcc2a16c2b52f9853ce8a9d" parent="aspace_aa01ff5bbf4351f58bce996c19dfb9b4" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Framed photograph of Roslyn and Enid Silver</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_0b7da6d940ffc00fbe8378db95753458" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_1bc8c3194152db886cbca52488a68fef" parent="aspace_0b7da6d940ffc00fbe8378db95753458" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Framed photograph of Enid Silver Winslow at the piano</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_acfdfa0799d97cd4d1e5f7ccfd1f47a5" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_b2b6e818c35b1e1e23f7fb95c36a38bb" parent="aspace_acfdfa0799d97cd4d1e5f7ccfd1f47a5" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Framed photograph of Enid Silver Winslow</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_82f45bb1b85801fc4094fc0d69ed2cf5" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_7ebb24d874e916fcedcd274e99a8c45e" parent="aspace_82f45bb1b85801fc4094fc0d69ed2cf5" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Framed wedding photograph of Enid Silver Winslow</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_58f336418d65d14c91272e2fb0fbe2bc" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_c931074447305ffd4f4c20812ac3e066" parent="aspace_58f336418d65d14c91272e2fb0fbe2bc" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Framed photograph of Enid Silver Winslow</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_10717308e3c0c429269405d671df633f" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_68e9b2f618a64a232df89533f2652712" parent="aspace_10717308e3c0c429269405d671df633f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Framed photograph of Julius Silver</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_f6c5da5283e79de37d2d1dc1e62f75b2" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_04e77a50e810f071c6230e62ccc76530" parent="aspace_f6c5da5283e79de37d2d1dc1e62f75b2" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Photographs and slides of Julius Silver</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_e5fcd9b6e5426df9eb4aad5d316ef563" label="Mixed Materials" type="Box">4</container>
+            <container id="aspace_100eec8243655c60e6389339744aaa60" parent="aspace_e5fcd9b6e5426df9eb4aad5d316ef563" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Framed photograph of unidentified man </unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Framed photo of Julius Silver Institute of Bio-Medical Engineering Sciences, Technio City, Haifa </unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Framed photograph of Julius Silver </unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Jewish Theological Seminary of America Honorary Doctorate </unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>The Albert Einstein Award </unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat OS 21" id="aspace_e789cf2ff03735e87812b5a393349081" label="Mixed Materials [31142062912038]" type="Box">11</container>
+          </did>
+        </c>
+        <c id="aspace_9b68ad6f0e701024b5a375e3d40c3d4b" level="file">
+          <did>
+            <unittitle>Jewish Theological Seminary certificate of gratitude and appreciation (Emes Editions Limited)</unittitle>
+            <unitdate datechar="creation" normal="1980-12-04/1980-12-04">1980-12-04</unitdate>
+            <container altrender="Oversize Folder - 36 x 28" id="aspace_7c05122cbb44b7e08026089351ddfeda" label="Mixed Materials [31142063070067]" type="Flat-File-Folder">1 Left</container>
+          </did>
+        </c>
+        <c id="aspace_fff85128933e680bc68b34a6bb77507f" level="file">
+          <did>
+            <unittitle>Technion - Israel Institute of Technology certificate (signed)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Oversize Folder - 36 x 24" id="aspace_d99a1b38d727391cd49dfb6ec5404ce2" label="Mixed Materials [31142062912186]" type="Flat-File-Folder">3 Right</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref81" level="series">
+        <did>
+          <unittitle>Series V: Newspaper clippings and correspondence</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Newspaper clippings</unittitle>
+            <unitdate datechar="creation" normal="1973/1976" type="inclusive">1973-1976</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_3851a2a653c8119c844fc416ad2a424f" label="Mixed Materials [31142063061926]" type="Box">5</container>
+            <container id="aspace_3490761fbb254dacb73f345f29036bee" parent="aspace_3851a2a653c8119c844fc416ad2a424f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>NYU Alumni newspapers</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_458b74df1e3cb3e39c9fdb1c4ca898df" label="Mixed Materials [31142063061926]" type="Box">5</container>
+            <container id="aspace_fd0f4421d49af725cec2732b01ea014b" parent="aspace_458b74df1e3cb3e39c9fdb1c4ca898df" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Polaroid Corporation stock certificates</unittitle>
+            <unitdate datechar="creation" normal="1962/1969" type="inclusive">1962-1969</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_d9e4fc71506248e8572f25031d8d9c9b" label="Mixed Materials [31142063061926]" type="Box">5</container>
+            <container id="aspace_89ef363b631bb829b2bd6989062ec324" parent="aspace_d9e4fc71506248e8572f25031d8d9c9b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Newspaper clippings</unittitle>
+            <unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_2c27a9467e2dc5c594fdfea127dc7ecf" label="Mixed Materials [31142063061926]" type="Box">5</container>
+            <container id="aspace_ff70f333f7e6898e7182cf05b3b3cc4e" parent="aspace_2c27a9467e2dc5c594fdfea127dc7ecf" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Special Israel Fund materials</unittitle>
+            <unitdate datechar="creation" normal="1972/1975" type="inclusive">1972-1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_3f568099b8b90b701ce3473d0e7fd9af" label="Mixed Materials [31142063061926]" type="Box">5</container>
+            <container id="aspace_02380ee766cb250bbeee77c1cf9d7736" parent="aspace_3f568099b8b90b701ce3473d0e7fd9af" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_84ed8213899982b60094a392163c9c56" label="Mixed Materials [31142063061926]" type="Box">5</container>
+            <container id="aspace_1169c43bf8735043d8194c36da814e93" parent="aspace_84ed8213899982b60094a392163c9c56" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

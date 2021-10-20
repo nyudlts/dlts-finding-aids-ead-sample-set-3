@@ -1,0 +1,1762 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_16">mc_16</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Elmer Ellsworth Brown Papers <num>MC.16</num></titleproper>
+        <author>Archives Staff.</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from brown01ES.xml</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 20:56:30 -0400</date>.</creation>
+      <langusage>Description is in <language>English</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Elmer Ellsworth Brown Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="naf">Brown, Elmer Ellsworth, 1861-1934</persname>
+      </origination>
+      <unitid>MC.16</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">11.5 Linear Feet</extent>
+        <extent altrender="carrier">(28 boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1827/1936" type="inclusive">1827-1936</unitdate>
+      <physloc id="aspace_11d0e8833dca7c6e6d8eabdcbc1feb82">This collection is located in offsite storage. Please contact the University Archives for access.</physloc>
+      <abstract id="aspace_a3aca3bb8219edb77773e4af06d0b4fd">Elmer Ellsworth Brown was the Chancellor of New York University from 1911 until his retirement in 1933. Materials in this collection span the years 1827-1934 and include papers from Brown's family members along with documents related to his work as a teacher, principal, United States Commissioner of Education, and Chancellor of NYU. The bulk of this collection is comprised of correspondence with his wife and family, his daily diaries, and mementos from his travels to Europe.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <arrangement id="aspace_0f0da712f931f1da5f4825e28dfb9ecc">
+      <head>Arrangement</head>
+      <p>Files are arranged either alphabetically or chronologically within each series.</p>
+      <p>This collection is divided into ten series.</p>
+    </arrangement>
+    <scopecontent id="aspace_8ba14c7fad8ec56f73fc12354fd3cac7">
+      <head>Scope and Contents</head>
+      <p>Materials in this collection include papers from Brown's family members along with documents related to his work as a teacher, principal, United States Commissioner of Education, and Chancellor of NYU. The bulk of this collection is comprised of correspondence with his wife and family, his daily diaries, and mementos from his travels to Europe.</p>
+    </scopecontent>
+    <bioghist id="aspace_bbd040871bc243ce53cec01971218edf">
+      <head>Biography of Elmer Ellsworth Brown</head>
+      <p>Elmer Ellsworth Brown (1861-1934), educator and university administrator, was born in Kiantone, Chautaugua County, New York, on August 26, 1861. He was the fourth and youngest child of Russell McCrary and Electa Louisa (Sherman) Brown. His father's ancestors had moved from Connecticut to Albany County, New York, in the early eighteenth century and had settled in western New York around 1800. In 1862 the family moved west to Sublette, Illinois, but returned shortly thereafter to Kiantone, when Elmer's father enlisted in the Union Army. In 1864 the family returned to Sublette following Russell Brown's discharge from the Army due to poor health.</p>
+      <p>The Brown family lived in virtual poverty. Their farmland on the Illinois prairie produced only enough for family consumption. Additional income was received through a small soldier's pension and money earned by the children in performing neighborhood chores. Russell Brown, the grandson of a Congregational minister, completed his formal schooling in New York State and yearned for a college education, but financial conditions forced him to turn toward farming. He compensated for his lack of formal collegiate instruction by immersing himself in literature and poetry, an interest in which he imparted to his children. His suppressed desire for higher learning was to be manifested and fulfilled in all four of his children, each of whom were to acquire a college education and enter into professional careers.</p>
+      <p>Elmer Brown did not begin formal schooling until he was eight years old. A precocious and energetic child, he proved to be a serious student. In 1874, while attending Sublette High School, Brown competed with students for teacher certification and finished first in the county examinations. His youth, however, precluded his appointment as a teacher. Two years later, he entered the State Normal University and soon began a period of both teaching and study in Illinois.</p>
+      <p>In 1878 Brown became principal of the public schools in Rockport, and in 1880 he served as a teacher in the public schools in Astoria. In 1881 he graduated from Illinois State Normal University and became principal of public schools in Belvidere, serving there until 1884, when family financial circumstances forced him away from education. His older brother, Isaac Eddy Brown, held the position of State Secretary of the Illinois Y.M.C.A., and Elmer became Assistant Secretary, a position in which he occupied until 1887, when he had earned enough money to continue his college education.</p>
+      <p>In the fall of 1887, Brown entered the University of Michigan in Ann Arbor to study the theory and practice of education under Professor William H. Payne, and the history and philosophy of education under Professor Burke A. Hinsdale. His Normal School preparation had provided him with advanced standing so that he was able to complete the four-year course in two years, graduating in June 1889 with Phi Beta Kappa honors. Two days following commencement, Brown was married to his cousin Fanny F. Eddy of Detroit. Fanny was the daughter of the Reverend Zachery Eddy, a prominent Michigan clergyman.</p>
+      <p>Elmer and Fanny Brown traveled to Europe in 1889 and settled in Germany, where Elmer enrolled in the University of Halle-Wittenberg to study the philosophy of education. At the end of the academic year, he was awarded the Ph.D. degree, completing and publishing his German-language thesis, "The Position of States Toward the Church and Carrying Out Religious Education in the Schools in Prussia, England, and the United States" (1890). Returning to the United States, Brown became a high school principal in Jackson, Michigan, a position he held until 1891, when he was selected as acting Assistant Professor of the Art and Science of Teaching in the University of Michigan, temporarily replacing his mentor, Dr. Hinsdale. Before his first year was completed, he received an invitation to join the faculty at the University of California at Berkeley.</p>
+      <p>Brown spent the next fourteen years at Berkeley. He was appointed to as the first chair of the Science and Art of Teaching in 1892, and he soon formulated plans for the organization and development of the University's Department of Pedagogy. During his tenure at the University of California, he wrote his best known scholarly works, <emph render="italic">The Origins of American State Universities</emph> (1903), and <emph render="italic">The Making of Our Middle Schools</emph> (1903), a historical study of secondary education in the United States. Through his publications and his work in developing the pedagogy department at Berkeley, Brown became a national figure in education. In 1905 he was elected to serve a two-year term as president of the National Council on Education.</p>
+      <p>In 1906 Elmer Brown was appointed United States Commissioner of Education by President Theodore Roosevelt. Building upon the work of his predecessor, William Torrey Harris, he succeeded in enlarging the Bureau of Education by establishing special divisions in higher education and school administration, as well as by extending the services of the Bureau throughout the country. As national spokesman for education, Brown traveled extensively, addressing the myriad problems and issues in elementary, secondary, and higher education. A selection of his many speeches and essays were published in <emph render="italic">Government By Influence and Other Addresses</emph> (1910). He was reappointed to the position by William Howard Taft in 1908, and served until 1911, when he was chosen to be Chancellor of New York University. He held that office until 1933, and the title of Chancellor Emeritus until his death in New York City on November 3, 1934.</p>
+      <p>Sources:</p>
+      <p>Frusciano, Thomas J. "Elmer Ellsworth Brown: Mohonker, Scholar, and Educator, 1861-1934," unpublished address delivered at the Hudson Valley &amp; Mohonk Heritage Program, Lake Mohonk, New York, July 10, 1984. New York University Archives.</p>
+      <p>Jones, Theodore Francis, ed. New York University, 1832-1932. New York: New York University Press, 1933.</p>
+      <p>Voorhis, Harold O. A Tribute to Elmer Ellsworth Brown, 1861-1934. New York: Hall of American Artists, New York University, 1944.</p>
+    </bioghist>
+    <prefercite id="aspace_370a9e2b71a2f5996ef86b63741b5493">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: Identification of item, date (if known); Elmer Ellsworth Brown Papers; MC 16; box number; folder number; New York University Archives, New York University Libraries.</p>
+    </prefercite>
+    <userestrict id="aspace_2ada1222b3cf01e55306b1f35e4e0dae">
+      <head>Use Restrictions</head>
+      <p>There may be some restrictions on the use of the collection. For more information, contact <lb/><address><addressline>New York University Archives<lb/> </addressline><addressline>Elmer Holmes Bobst Library<lb/> </addressline><addressline>70 Washington Square South<lb/> </addressline><addressline>New York, NY 10012</addressline></address></p>
+    </userestrict>
+    <accessrestrict id="aspace_0fc75b2a9b7680c5b1c183bfd17e28bb">
+      <head>Access Restrictions</head>
+      <p>This collection is open to researchers.</p>
+    </accessrestrict>
+    <custodhist id="aspace_f4e1a7b03cf127ea45d7475ee0ceda3e">
+      <head>Provenance</head>
+      <p>These papers were transferred to the University Archives from the Office of the Vice President and Secretary in 1976.</p>
+    </custodhist>
+    <controlaccess>
+      <genreform source="aat">Genealogies.</genreform>
+      <subject source="lcsh">Indians, treatment of |z North America</subject>
+      <subject source="lcsh">Arbitration and award, International.</subject>
+      <subject source="lcsh">Belvidere (Ill.)</subject>
+      <genreform source="aat">Ledgers (account books)</genreform>
+      <genreform source="aat">Address books.</genreform>
+      <subject source="lcsh">Education |x Philosophy.</subject>
+      <subject source="lcsh">Education -- Study and teaching -- United States</subject>
+      <genreform source="aat">Curricula.</genreform>
+      <geogname source="lcsh">Oakland (Calif.).</geogname>
+      <genreform source="aat">Broadsides.</genreform>
+      <genreform source="aat">Letterpress copybooks.</genreform>
+      <subject source="lcsh">Berkeley (Calif.)</subject>
+      <subject source="lcsh">Jackson |z Michigan (State). </subject>
+      <geogname source="lcsh">Mohonk, Lake (N.Y.)</geogname>
+      <genreform source="aat">Obituaries.</genreform>
+      <geogname source="lcsh">San Francisco (Calif.) |x Earthquake and fire, 1906.</geogname>
+      <genreform source="aat">Wills</genreform>
+      <geogname source="lcsh">Sublette (Ill.)</geogname>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <geogname source="lcsh">New York (N.Y.).</geogname>
+      <genreform source="aat">Account books.</genreform>
+      <genreform source="aat">Biographies.</genreform>
+      <genreform source="aat">Diaries</genreform>
+      <corpname source="naf">Lake Mohonk Conference of Friends of the Indian</corpname>
+      <persname source="naf">Keppel, Frederick, 1845-1912</persname>
+      <corpname source="naf">Louisiana Purchase Exposition Co. (Saint Louis, Mo.)</corpname>
+      <corpname source="naf">Lake Mohonk Conference on International Arbitration</corpname>
+      <persname rules="dacs" source="local">Muensterberg, Hugo</persname>
+      <corpname source="naf">Pan-American Exposition (1901: Buffalo, NY)</corpname>
+      <corpname source="naf">New York University</corpname>
+      <persname source="naf">Grandi, Dino, 1895-</persname>
+      <persname rules="dacs" source="local">Gilman, Daniel Colt, 1831-1909</persname>
+      <persname source="naf">Howison, George Holmes, 1834-1917</persname>
+      <persname source="naf">Harris, William Torrey, 1835-1909</persname>
+      <persname source="naf">Johnson, Robert Underwood, 1852-1937</persname>
+      <persname source="naf">James, Edmund J. (Edmund Janes), 1855-1925</persname>
+      <persname rules="dacs" source="local">Kellogg, Martin</persname>
+      <corpname source="naf">University of the State of New York</corpname>
+      <persname source="naf">Jordan, David Starr, 1851-1931</persname>
+      <persname source="naf">Butler, Nicholas Murray, 1862-1947</persname>
+      <persname source="naf">Churchill, Winston, 1871-1947</persname>
+      <persname rules="dacs" source="local">Cuerly, Ellwood P.</persname>
+      <persname source="naf">Dewey, John, 1859-1952</persname>
+      <persname source="naf">Draper, A. S. (Andrew Sloan), 1848-1913</persname>
+      <famname source="naf">Eddy Family Association</famname>
+      <persname rules="dacs" source="local">Eddy, Zachery</persname>
+      <persname rules="dacs" source="local">Finley, John</persname>
+      <persname source="naf">Angell, James Burill, 1829-1916</persname>
+      <corpname source="naf">Armory Show (1913 : New York, N.Y.)</corpname>
+      <persname rules="dacs" source="local">Bailey, Thomas P.</persname>
+      <persname rules="dacs" source="local">Brown, Electra Louisa</persname>
+      <persname rules="dacs" source="local">Brown, Fanny Eddy</persname>
+      <persname rules="dacs" source="local">Brown, Isaac Eddy</persname>
+      <persname rules="dacs" source="local">Brown, Russell McCary</persname>
+      <persname source="naf">Bryce, James Bryce, Viscount, 1838-1922</persname>
+      <corpname source="naf">American Academy of Arts and Letters</corpname>
+      <corpname rules="dacs" source="local">Alameda County (CA) Teachers' Institute</corpname>
+      <persname source="naf">MacCracken, Henry Mitchell, 1840-1918</persname>
+      <corpname rules="dacs" source="local">Young Men's Christian Association (Illinois)</corpname>
+      <persname source="naf">Taft, William H. (William Howard), 1857-1930</persname>
+      <persname rules="dacs" source="local">Smiley, Daniel</persname>
+      <persname rules="dacs" source="local">Slate, Frederick</persname>
+      <persname source="naf">Scripture, E. W. (Edward Wheeler), 1864-1945</persname>
+      <persname source="naf">Sanford, Emerson C.</persname>
+      <persname source="naf">Root, Elihu, 1845-1937</persname>
+      <persname source="naf">Roosevelt, Theodore, 1858-1919</persname>
+      <persname rules="dacs" source="local">Pardee, George</persname>
+      <persname source="naf">Wheeler, Benjamin Ide, 1854-1927</persname>
+      <persname rules="dacs" source="local">Voorhis, Harold O.</persname>
+      <corpname source="naf">University of Michigan</corpname>
+      <corpname rules="dacs" source="local">University of Halle-Wittenberg (Germany)</corpname>
+      <corpname source="naf">University of California, Berkeley. School of Education</corpname>
+      <corpname source="naf">United States. Bureau of Education</corpname>
+      <persname source="naf">Thorndike, Edward L. (Edward Lee), 1874-1949</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref17" level="series">
+        <did>
+          <unittitle>Series I: Biographical and genealogical materials</unittitle>
+          <unitdate datechar="creation" normal="1880/1934" type="inclusive">1880-1934</unitdate>
+        </did>
+        <scopecontent id="aspace_bc08c300264aae4ee906c0f06d9b21c5">
+          <head>Scope and Contents note</head>
+          <p>The initial files of the Brown personal papers contain biographical and genealogical material on the families of Elmer Ellsworth Brown and Fanny Eddy Brown. Numerous biographical sketches of Elmer Brown, the Brown family tree, a biographical sketch of Isaac Eddy Brown, notes on the Brown family compiled by Elmer Brown, and material relating to the Eddy Family Association are also included in these files.</p>
+        </scopecontent>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Biographical Sketches</unittitle>
+            <unitdate datechar="creation">1906-1934, undated</unitdate>
+            <container id="aspace_4f10f6eec9c54a99d4aeca879bcdccba" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_a536308a20440b3b4f150a21163def30" parent="aspace_4f10f6eec9c54a99d4aeca879bcdccba" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Immediate Relatives of Elmer E. Brown and Fanny E. Brown</unittitle>
+            <unitdate datechar="creation" normal="1902/1934" type="inclusive">1902, 1927, 1934</unitdate>
+            <container id="aspace_dc7f4a5ee14a35622016b0d93b972da5" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_66dc23aaf0534db501187c3805a98b92" parent="aspace_dc7f4a5ee14a35622016b0d93b972da5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Brown, Isaac Eddy: Family Tree and Biographical Sketch</unittitle>
+            <unitdate datechar="creation">undated, 1887</unitdate>
+            <container id="aspace_35dd1f442daefa445a2b0e1740bf5f8b" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_301c2ccb80bc23a7ee347740f6bebb0d" parent="aspace_35dd1f442daefa445a2b0e1740bf5f8b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Brown Family: Notes compiled by Elmer E. Brown</unittitle>
+            <unitdate datechar="creation" normal="1898/1899" type="inclusive">1898-1899</unitdate>
+            <container id="aspace_4495c87dbb152b4c001aac92f21b0325" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_fdff49015e8c061ab999ef1db170e932" parent="aspace_4495c87dbb152b4c001aac92f21b0325" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Cowles, Dwight L. and Mary Brown</unittitle>
+            <unitdate datechar="creation">[1924]</unitdate>
+            <container id="aspace_891dda23e81fbcda6112d4d4ff52f27b" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_26bca9a30e6e49b5734a8398797da973" parent="aspace_891dda23e81fbcda6112d4d4ff52f27b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Eddy, Nathan, and Samuel Cochran: Revolutionary War Record</unittitle>
+            <unitdate datechar="creation" normal="1902/1903" type="inclusive">1902, 1903</unitdate>
+            <container id="aspace_c9681190846736acfd88492cb9063c23" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_8c049111dade8c16c500e52d44992c2c" parent="aspace_c9681190846736acfd88492cb9063c23" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Eddy Family Association</unittitle>
+            <unitdate datechar="creation" normal="1921/1934" type="inclusive">1921-1934</unitdate>
+            <container id="aspace_0f1f34706a6aa4ac2d578377d61c61e6" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_402d10e07c4ebdf3334b64fa3c88521f" parent="aspace_0f1f34706a6aa4ac2d578377d61c61e6" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Marriage Certificate (informal): Elmer E. Brown and Fanny F. Eddy</unittitle>
+            <unitdate datechar="creation" normal="1889/1889" type="inclusive">1889</unitdate>
+            <container id="aspace_d4c8a6a56543217bafb2371da8d0f6d1" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_c120e8611547bc780894df31f5c6cae6" parent="aspace_d4c8a6a56543217bafb2371da8d0f6d1" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation" normal="1880/1880" type="inclusive">1880, circa 1900s-1920s</unitdate>
+            <container id="aspace_1b3c67991e1bfeef51c2463cf34549e3" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_feaa1eefd5c9e995fe45492f93232304" parent="aspace_1b3c67991e1bfeef51c2463cf34549e3" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref29" level="series">
+        <did>
+          <unittitle>Series II: Family correspondence and related materials </unittitle>
+          <unitdate datechar="creation" normal="1827/1935" type="inclusive">1827-1935</unitdate>
+        </did>
+        <scopecontent id="aspace_bf9d4e6b4f2f8a1bf09004728b185e8e">
+          <head>Scope and Contents note</head>
+          <p>This series contains extensive correspondence exchanged between Elmer Brown and his wife Fanny, 1886-1929, including letters from Elmer Brown when he was in Berkeley during the San Francisco earthquake on April 18, 1906; correspondence and miscellaneous papers of members of the Eddy family and Brown family; collections of verse written by Elmer Brown, Fanny Brown, other relatives and friends; and wills, obituaries, and tributes concerning Fanny Brown.</p>
+        </scopecontent>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Elmer E. Brown to Fanny Eddy</unittitle>
+            <unitdate datechar="creation">1886 November</unitdate>
+            <container id="aspace_679a4cba7cb94475cda24c300a6a8910" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_a6fa07c40bc9f8e2d99b1d959a81b864" parent="aspace_679a4cba7cb94475cda24c300a6a8910" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Elmer E. Brown to Fanny E. Brown</unittitle>
+            <unitdate datechar="creation">1896 July</unitdate>
+            <container id="aspace_09105e23bc4fbfb70229275e8eff5df6" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_be6c80189a7d38efb2560e754570a666" parent="aspace_09105e23bc4fbfb70229275e8eff5df6" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>EEB to FEB</unittitle>
+            <unitdate datechar="creation">1898 June-July</unitdate>
+            <container id="aspace_c19018ce0321c5d5461c520f9585a160" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_2e68afe16e39a9d0c033a51477480554" parent="aspace_c19018ce0321c5d5461c520f9585a160" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>EEB to FEB</unittitle>
+            <unitdate datechar="creation">1901 June</unitdate>
+            <container id="aspace_d4ca936a335f4ba73cd371c70ba37360" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_958f63a7ea4510b13d1089c2320ea5a3" parent="aspace_d4ca936a335f4ba73cd371c70ba37360" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>EEB to FEB</unittitle>
+            <unitdate datechar="creation" normal="1904/1904">1904 July, September</unitdate>
+            <container id="aspace_1338330fa66dbe6bf24816d5b3a78cd8" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_1ea6b831b36dae542d07bc9c728278a8" parent="aspace_1338330fa66dbe6bf24816d5b3a78cd8" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>EEB to FEB: San Francisco Earthquake, Apr. 18, 1906</unittitle>
+            <unitdate datechar="creation">1906 April-May</unitdate>
+            <container id="aspace_1c0db60235e0f2f85e34d3bfbbb6e135" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_a162ce4d66c60855990de40c6a1bdde1" parent="aspace_1c0db60235e0f2f85e34d3bfbbb6e135" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>EEB to FEB (from Washington DC)</unittitle>
+            <unitdate datechar="creation">1906 June-September</unitdate>
+            <container id="aspace_1a22715950297eb2be8e5c71e4cca23b" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_a0fd04b661f359a14677d1cfaa4ded23" parent="aspace_1a22715950297eb2be8e5c71e4cca23b" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>EEB to FEB</unittitle>
+            <unitdate datechar="creation">1907 June, September</unitdate>
+            <container id="aspace_19f28ce4fbc25f96cfb25a9cf3fc6131" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_1a5e5766c9c70fa18c1d4a29df90275e" parent="aspace_19f28ce4fbc25f96cfb25a9cf3fc6131" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>EEB to FEB</unittitle>
+            <unitdate datechar="creation">1908 May-June, September</unitdate>
+            <container id="aspace_b75e29eab82b2c967eb0880eae5e250f" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_b40fc8da81ae48b32ac33581ceeceffd" parent="aspace_b75e29eab82b2c967eb0880eae5e250f" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>EEB to FEB</unittitle>
+            <unitdate datechar="creation">1909 June-July</unitdate>
+            <container id="aspace_a1b71b48b2f5f6a689bc0e4360942455" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_8d2f4ed72565d83369f9c7372c0344ed" parent="aspace_a1b71b48b2f5f6a689bc0e4360942455" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>EEB to FEB</unittitle>
+            <unitdate datechar="creation">1911 March</unitdate>
+            <container id="aspace_8a8e307797fda0444a13ec465edb1e7d" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_3c537cba3b604e6c081e05e5a340dfbb" parent="aspace_8a8e307797fda0444a13ec465edb1e7d" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>EEB to FEB</unittitle>
+            <unitdate datechar="creation">1919 September-October</unitdate>
+            <container id="aspace_928b56a84cfa18ca74079e7ecf63912f" label="Mixed Materials [31142046889989]" type="Box">1</container>
+            <container id="aspace_0565e629c1ead9e2e66101d9ecbcf730" parent="aspace_928b56a84cfa18ca74079e7ecf63912f" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>EEB to FEB</unittitle>
+            <unitdate datechar="creation">1925 October-December</unitdate>
+            <container id="aspace_7f08934f217112dd38d6945e676b3ccb" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_9c99ed03ebf3f086af25cbf7fe2bbb3c" parent="aspace_7f08934f217112dd38d6945e676b3ccb" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>EEB to FEB</unittitle>
+            <unitdate datechar="creation">1926 January-March</unitdate>
+            <container id="aspace_80f4342f440f7b40cce5246794e9f25a" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_bb4e88d13a26787f738e9ec7eb54fe53" parent="aspace_80f4342f440f7b40cce5246794e9f25a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>EEB to FEB</unittitle>
+            <unitdate datechar="creation">1929 May-July </unitdate>
+            <container id="aspace_24fbb7377400aac5f659fb19f5387349" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_bf9c2f20d9e9389d65078b45eb426fd3" parent="aspace_24fbb7377400aac5f659fb19f5387349" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>EEB to FEB (from Lake Mohonk)</unittitle>
+            <unitdate datechar="creation">1929 September</unitdate>
+            <container id="aspace_5e3d46a8df7dd50ce48a7ae207784cb2" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_5bd23c8b417b64108f9991857cde6858" parent="aspace_5e3d46a8df7dd50ce48a7ae207784cb2" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>EEB to FEB (from Coney Island)</unittitle>
+            <unitdate datechar="creation">1929 October</unitdate>
+            <container id="aspace_a9c37ce38f2f702f134b7077caaf2d20" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_8a64907bb966e3fdba2e07d62e277e28" parent="aspace_a9c37ce38f2f702f134b7077caaf2d20" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>EEB to FEB (enroute to/from Cuba)</unittitle>
+            <unitdate datechar="creation">1929 November</unitdate>
+            <container id="aspace_0e1e92476cf1003f433771e58b6b1d47" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_72ae90e13acac79ba8012a0b89a728b0" parent="aspace_0e1e92476cf1003f433771e58b6b1d47" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>EEB to FEB (enroute to/from Costa Rica and Cuba)</unittitle>
+            <unitdate datechar="creation">1929 November</unitdate>
+            <container id="aspace_bb2250ae64626acd9f6353654ee6c56e" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_94e34c37263a2a17f061184f76aa37f7" parent="aspace_bb2250ae64626acd9f6353654ee6c56e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>EEB to FEB (telegram)</unittitle>
+            <unitdate datechar="creation">1931 November</unitdate>
+            <container id="aspace_031efba7e22db534cb80590b4d9c458a" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_81c37ebc454ddb880614521630e3598c" parent="aspace_031efba7e22db534cb80590b4d9c458a" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>EEB to FEB</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_819f19bd610824abc63834d64ffd1a40" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_1835e669ab983d6290b1d841b81fd77a" parent="aspace_819f19bd610824abc63834d64ffd1a40" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Fanny Eddy to Elmer E. Brown</unittitle>
+            <unitdate datechar="creation">1889 June</unitdate>
+            <container id="aspace_a309f1b257f8f3f54980cd3f13d1dd25" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_10c91f3e99f516d1c7896652272c2ddb" parent="aspace_a309f1b257f8f3f54980cd3f13d1dd25" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Fanny E. Brown to EEB</unittitle>
+            <unitdate datechar="creation">1904 June</unitdate>
+            <container id="aspace_99b8e11b935a5e1e9ef1f122adc0de6e" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_b2336fb6aaea4a4fc263341ffe48da9b" parent="aspace_99b8e11b935a5e1e9ef1f122adc0de6e" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>FEB to EEB</unittitle>
+            <unitdate datechar="creation">1908 August</unitdate>
+            <container id="aspace_d98027d6b58713b5e5ebd22267961bd3" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_d5bdc30461fdc49ecc9d87e89880dee6" parent="aspace_d98027d6b58713b5e5ebd22267961bd3" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>FEB to EEB</unittitle>
+            <unitdate datechar="creation">1910 May-September</unitdate>
+            <container id="aspace_e71f93cdd8b4ac536e72738282b762a1" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_e39e1fb3cda093b52c80d05393ed6bbd" parent="aspace_e71f93cdd8b4ac536e72738282b762a1" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>FEB to EEB</unittitle>
+            <unitdate datechar="creation">1911 February, 1912 March-November</unitdate>
+            <container id="aspace_44ed475f3ef7690e55059b438316fecf" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_7543e17e78d7a3571e4fc3575f084d1b" parent="aspace_44ed475f3ef7690e55059b438316fecf" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>FEB to EEB</unittitle>
+            <unitdate datechar="creation">1919 April-October</unitdate>
+            <container id="aspace_5f718e355a6e9d248e9eeb28216f55b2" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_cdf92ed9140a2ed53375eb38280b6143" parent="aspace_5f718e355a6e9d248e9eeb28216f55b2" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>FEB to EEB</unittitle>
+            <unitdate datechar="creation">1924 February-April</unitdate>
+            <container id="aspace_256355f9026abcec0dc89c3c185b05d9" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_b837fe4097c5e0e3ccd98e9ef1114206" parent="aspace_256355f9026abcec0dc89c3c185b05d9" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>FEB to EEB</unittitle>
+            <unitdate datechar="creation">1925 January-February, October-December</unitdate>
+            <container id="aspace_739999d5541c603e5b897c27952a9c21" label="Mixed Materials [31142046889997]" type="Box">2</container>
+            <container id="aspace_d1f27aee955035e52df1bc5e05a68c02" parent="aspace_739999d5541c603e5b897c27952a9c21" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>FEB to EEB</unittitle>
+            <unitdate datechar="creation">1926 January-March</unitdate>
+            <container id="aspace_4f32846c533a1797185b392955405b4c" label="Mixed Materials [31142046890003]" type="Box">3</container>
+            <container id="aspace_4bf4efdd897fddbd0ab94e08b0963419" parent="aspace_4f32846c533a1797185b392955405b4c" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>FEB to EEB</unittitle>
+            <unitdate datechar="creation">1927 December</unitdate>
+            <container id="aspace_5eb36c7a694af580ca99e1e7722689ff" label="Mixed Materials [31142046890003]" type="Box">3</container>
+            <container id="aspace_3445ed3abbd3ccd893bd10a2027e158e" parent="aspace_5eb36c7a694af580ca99e1e7722689ff" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>FEB to EEB</unittitle>
+            <unitdate datechar="creation">1929 May</unitdate>
+            <container id="aspace_1c2b437a97fed47eeee54d94a497ee75" label="Mixed Materials [31142046890003]" type="Box">3</container>
+            <container id="aspace_a847d767e4908f2d89cdd04772f37d8f" parent="aspace_1c2b437a97fed47eeee54d94a497ee75" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>FEB to EEB</unittitle>
+            <unitdate datechar="creation">1929 June</unitdate>
+            <container id="aspace_2a8050f2fb25c6d693cce87f55a18cc5" label="Mixed Materials [31142046890003]" type="Box">3</container>
+            <container id="aspace_f726d3cea172ff28975a9e9455afc8a1" parent="aspace_2a8050f2fb25c6d693cce87f55a18cc5" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>FEB to EEB</unittitle>
+            <unitdate datechar="creation">1929 September</unitdate>
+            <container id="aspace_14c82b8f40e248eb6e3c7131cdbcf6fa" label="Mixed Materials [31142046890003]" type="Box">3</container>
+            <container id="aspace_74b4504f4c0156309ba0980b7e01dc66" parent="aspace_14c82b8f40e248eb6e3c7131cdbcf6fa" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>FEB to EEB</unittitle>
+            <unitdate datechar="creation">1929 October-December</unitdate>
+            <container id="aspace_95871a610c0afc137a03c5fcb8e39c7b" label="Mixed Materials [31142046890003]" type="Box">3</container>
+            <container id="aspace_5c2df6d829b0573cac7f65bd4dc2cf82" parent="aspace_95871a610c0afc137a03c5fcb8e39c7b" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>FEB to EEB</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_70d3588c0c36c230d5de1475983761da" label="Mixed Materials [31142046890003]" type="Box">3</container>
+            <container id="aspace_4d0374c757f277082357ef8488a5fcc2" parent="aspace_70d3588c0c36c230d5de1475983761da" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>FEB to EEB: Verse</unittitle>
+            <unitdate datechar="creation" normal="1891/1932" type="inclusive">1891-1932</unitdate>
+            <container id="aspace_49058fa2dfe277c03b5f9bba63b4a7a9" label="Mixed Materials [31142046890003]" type="Box">3</container>
+            <container id="aspace_bcd539974f34ac3e204ecf8512d6d6bd" parent="aspace_49058fa2dfe277c03b5f9bba63b4a7a9" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>FEB to EEB: Verse</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3a396e7fd8acf1fd71365d2005c724ae" label="Mixed Materials [31142046890003]" type="Box">3</container>
+            <container id="aspace_4a1236fa6a9a5dccb9607c40deee5db9" parent="aspace_3a396e7fd8acf1fd71365d2005c724ae" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>FEB: Manuscripts of Verse</unittitle>
+            <unitdate datechar="creation">1886-1929, undated</unitdate>
+            <container id="aspace_6cd5f051af052287fab31cf0492077f4" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_ac8144b66a78fe0ac5523a90c840c541" parent="aspace_6cd5f051af052287fab31cf0492077f4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>FEB: Collection of Modern Verse in University Library</unittitle>
+            <unitdate datechar="creation" normal="1923/1933" type="inclusive">1923-1933</unitdate>
+            <container id="aspace_a672e80107b2592dca20b65cfc76fe4b" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_0c59fa321d1aa6183f9ebb64a9133649" parent="aspace_a672e80107b2592dca20b65cfc76fe4b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>FEB: Wills, Obituaries, and Tributes</unittitle>
+            <unitdate datechar="creation" normal="1931/1932" type="inclusive">1931-1932</unitdate>
+            <container id="aspace_6b2413a8f6ef276dbdf8eefdb257c321" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_fa888d6844b511df0aa9974eccd0d174" parent="aspace_6b2413a8f6ef276dbdf8eefdb257c321" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Browning, Dorothy (niece)</unittitle>
+            <unitdate datechar="creation">1927, 1932, undated</unitdate>
+            <container id="aspace_f3b61c836de2cad1d666db7a1998456a" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_c932528adf9c5909b8eecae176fdeca2" parent="aspace_f3b61c836de2cad1d666db7a1998456a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Cochran, David H. (uncle)</unittitle>
+            <unitdate datechar="creation" normal="1903/1904" type="inclusive">1903-1904</unitdate>
+            <container id="aspace_5797bb1260d7ec0b5f482d80d31fe1fc" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_4613ce60b612827448d31c0823724f83" parent="aspace_5797bb1260d7ec0b5f482d80d31fe1fc" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Curtiss, Alice Eddy (sister) and Edward (brother-in-law)</unittitle>
+            <unitdate datechar="creation">1934, undated</unitdate>
+            <container id="aspace_e700699c6fb0945207613d0f4bbfb962" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_0864a66589f23fa661e251320ac678a7" parent="aspace_e700699c6fb0945207613d0f4bbfb962" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Eddy, Frank W. (brother) and Florence (sister-in-law)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b46e2be35556b8458ac73d1170837e08" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_1f022ec461515bd32516edcab46f05b4" parent="aspace_b46e2be35556b8458ac73d1170837e08" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Eddy, Zachary (father): Sermons, Notes, Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1827/1863" type="inclusive">circa 1820s-1890s</unitdate>
+            <container id="aspace_d2be677297b132567a412e328c0b7d44" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_7c01adf210cfe15af92032f89894e8ac" parent="aspace_d2be677297b132567a412e328c0b7d44" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Lyons, Albert E. (nephew; son of Edith and Albert Lyons)</unittitle>
+            <unitdate datechar="creation">[1931]-1935</unitdate>
+            <container id="aspace_6145caf33cbd8d5dd0bf1ce58814b26e" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_5aabd09785a255d0223061e4125aa7e4" parent="aspace_6145caf33cbd8d5dd0bf1ce58814b26e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Lyons, Edith (sister) and Albert (brother-in-law)</unittitle>
+            <unitdate datechar="creation">1890, 1926, undated</unitdate>
+            <container id="aspace_5f5a1fa96f0b825e80cfc2ff90748e08" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_91fe685c1f2823064347d4aeaa7b55fa" parent="aspace_5f5a1fa96f0b825e80cfc2ff90748e08" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Lyons, Lucia E. (niece; daughter of Edith and Albert Lyons)</unittitle>
+            <unitdate datechar="creation">1932-1934, undated</unitdate>
+            <container id="aspace_a6e738f8d04527c72c17617048c0cab0" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_cfcaf71bb272e079b8f71481460d3ce0" parent="aspace_a6e738f8d04527c72c17617048c0cab0" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Lucking, Frances Eddy (niece)</unittitle>
+            <unitdate datechar="creation">undated, 1935</unitdate>
+            <container id="aspace_f3095820d688ba80a48145640929faa7" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_9b7a032f7726a7e9c7d288f4c41d29e0" parent="aspace_f3095820d688ba80a48145640929faa7" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Mundy, Kathleen (niece; daughter of Frank W. Eddy)</unittitle>
+            <unitdate datechar="creation">undated, 1932-1935</unitdate>
+            <container id="aspace_0c6a25db2965b1040eea3a6195ae0288" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_9c4b91725fc0bc28141b02defbfebb51" parent="aspace_0c6a25db2965b1040eea3a6195ae0288" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Munger, Florence (niece)</unittitle>
+            <unitdate datechar="creation">1927, undated</unitdate>
+            <container id="aspace_71eab025bdf71a743b129eeccef5f591" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_6db67909b15879942ce3ce758913326a" parent="aspace_71eab025bdf71a743b129eeccef5f591" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Standish, Mrs. Colburn (niece; daughter of Frank W. Eddy)</unittitle>
+            <unitdate datechar="creation">1923 ,1930, 1933</unitdate>
+            <container id="aspace_e098791bd53c0968116bdc22885d9f01" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_4d01e6e8bf27dbdd314a0fe58f1bac61" parent="aspace_e098791bd53c0968116bdc22885d9f01" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Treat, Alice (niece)</unittitle>
+            <unitdate datechar="creation" normal="1901/1901" type="inclusive">1901, 1922-1935</unitdate>
+            <container id="aspace_13d7f1cc08526d54f787b360822706fd" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_78a7a38738b7a4406d564ca81b434562" parent="aspace_13d7f1cc08526d54f787b360822706fd" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Treat, Ethel (niece)</unittitle>
+            <unitdate datechar="creation" normal="1902/1935" type="inclusive">undated</unitdate>
+            <container id="aspace_19e52f66e4ec988b66aafbe9851513bf" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_1d2903f2d4a3e6c40fbb5e0e9086f16e" parent="aspace_19e52f66e4ec988b66aafbe9851513bf" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Treat, Leonard A. (brother-in-law): The New England Primer</unittitle>
+            <unitdate datechar="creation">(1887) 1889</unitdate>
+            <container id="aspace_824e21de321a2e37e622d330779e7ce1" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_759ff59a5644a37b548fbcb7703a874c" parent="aspace_824e21de321a2e37e622d330779e7ce1" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Treat, Rev. Roger Eddy (nephew)</unittitle>
+            <unitdate datechar="creation" normal="1932/1935" type="inclusive">1932-1935</unitdate>
+            <container id="aspace_cdf5f1409af02893e15a6f334e315f3d" label="Mixed Materials [31142046890011]" type="Box">4</container>
+            <container id="aspace_8ed8f4ad9fc822e17b7598037bc6aaf4" parent="aspace_cdf5f1409af02893e15a6f334e315f3d" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Brown, Alice (niece)</unittitle>
+            <unitdate datechar="creation">1934-1935, undated</unitdate>
+            <container id="aspace_57b91a5c5bd8544e12192396b50c6b21" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_940f368d15e14d9fb0a67d8c8dab4942" parent="aspace_57b91a5c5bd8544e12192396b50c6b21" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Brown, Electa Louisa Sherman (mother)</unittitle>
+            <unitdate datechar="creation" normal="1889/1900" type="inclusive">1889, 1899, 1900</unitdate>
+            <container id="aspace_a6296ae41807830726b7031185da81f9" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_a29beeab730c2496221e4323e7179187" parent="aspace_a6296ae41807830726b7031185da81f9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Brown, Isaac Eddy (brother)</unittitle>
+            <unitdate datechar="creation" normal="1891/1927" type="inclusive">1891-1927</unitdate>
+            <container id="aspace_21ca92a8b135cc0ef15db4cb88945076" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_9894f8cc1106a2ae15d37f63d468f240" parent="aspace_21ca92a8b135cc0ef15db4cb88945076" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Brown, Russell McCrary (father)</unittitle>
+            <unitdate datechar="creation" normal="1887/1888" type="inclusive">1887, 1888</unitdate>
+            <container id="aspace_c10ea7b83decba4b06803d093698a3d9" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_6966ef4c6474a03ce08d1f2d5d544b7f" parent="aspace_c10ea7b83decba4b06803d093698a3d9" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Fairchild, Lillian (sister)</unittitle>
+            <unitdate datechar="creation" normal="1889/1917" type="inclusive">undated</unitdate>
+            <container id="aspace_95e2948b1702e956d6dd00fe748324f2" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_e8cd5e0e2638905554dd10a05a43fcd2" parent="aspace_95e2948b1702e956d6dd00fe748324f2" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>McMurry, Fred R. (nephew; son of Lida B. McMurry)</unittitle>
+            <unitdate datechar="creation" normal="1922/1935" type="inclusive">1922-1935</unitdate>
+            <container id="aspace_2209e74f10cda8ac8a1e9efd81aac735" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_abc2a3447e827a4c72d17e4d670d98c1" parent="aspace_2209e74f10cda8ac8a1e9efd81aac735" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>McMurry, Karl F. (nephew; son of Lida B. McMurry)</unittitle>
+            <unitdate datechar="creation" normal="1911/1935" type="inclusive">1911-1935</unitdate>
+            <container id="aspace_236cee3993835a353fb9075da9ec0d9d" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_a8fb1bd1da3327aad716c077912fc593" parent="aspace_236cee3993835a353fb9075da9ec0d9d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>McMurry, Lida B. (sister)</unittitle>
+            <unitdate datechar="creation" normal="1889/1933" type="inclusive">1889-1933</unitdate>
+            <container id="aspace_12fa339534a9af90150a16cec1847e5c" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_1abc6e4dc6c7de080b890d415ea8538e" parent="aspace_12fa339534a9af90150a16cec1847e5c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>McMurry, Lida B. (sister)</unittitle>
+            <unitdate datechar="creation">1934 January-October </unitdate>
+            <container id="aspace_7fe3681b61f08ef751617eaf74d9fb4d" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_1326d9b007f19f4b12226ce4b010bed5" parent="aspace_7fe3681b61f08ef751617eaf74d9fb4d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>McMurry, Lida B. (sister)</unittitle>
+            <unitdate datechar="creation">1934-1935 November</unitdate>
+            <container id="aspace_163448dc9106849dd34d512d9075cdd1" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_6d61e71295fb6193103261d869db47b8" parent="aspace_163448dc9106849dd34d512d9075cdd1" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Ponafidine, Madame Emma (distant cousin? and author)</unittitle>
+            <unitdate datechar="creation" normal="1922/1935" type="inclusive">1922-1935</unitdate>
+            <container id="aspace_563e3ae096d2267ae961ec7a85033015" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_376edd6d52f2114c24784a55db5908b0" parent="aspace_563e3ae096d2267ae961ec7a85033015" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Folder not found</unittitle>
+            <container id="aspace_c9c049dcff2a3353b6da4c148834c4d8" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_13b4150d59ecc9463792b3d2db8a21cf" parent="aspace_c9c049dcff2a3353b6da4c148834c4d8" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Family Correspondence re: Position of Chancellor at New York University: Isaac Eddy Brown, Frank W. Eddy, and Leonard A. Treat</unittitle>
+            <unitdate datechar="creation">1911 March-April </unitdate>
+            <container id="aspace_b2000e1f964f3ba3903364248d0f5987" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_08c6aab8c40355463b9603af5d52775f" parent="aspace_b2000e1f964f3ba3903364248d0f5987" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Family Correspondence, Miscellaneous and Unidentified: Corydon Brown, Fred Cowles, Frances Marvin Eddy, Samuel A. Eddy, Florence Knapp, Frank M. McMurry, Janet Munger, Mary[?], Lorraine[?], and Peggy [?]</unittitle>
+            <unitdate datechar="creation" normal="1900/1934" type="inclusive">1900-1934, undated</unitdate>
+            <container id="aspace_64c48048ddea5c7f0d3b748dbcb89c69" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_7a5beb841128089cefcdf33b0cacd657" parent="aspace_64c48048ddea5c7f0d3b748dbcb89c69" type="Folder">14</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref105" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Series III: Verse</unittitle>
+          <unitdate datechar="creation" normal="1903/1933" type="inclusive">1903-1933</unitdate>
+        </did>
+        <scopecontent id="aspace_a38624e3a787f8a117b7de40e2291d33">
+          <head>Scope and Contents note</head>
+          <p>This series contains contains writings of friends and relatives of Elmer Brown in manuscript form.</p>
+        </scopecontent>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Arnold, J. Loring</unittitle>
+            <unitdate datechar="creation">1923-1932, undated</unitdate>
+            <container id="aspace_cb7c5207c207f01fa0470647ea074b9b" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_833dd857d39b5616b49a957ad67b52b3" parent="aspace_cb7c5207c207f01fa0470647ea074b9b" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Lyons, Edith Eddy</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_cb7ea87f8736ff285286092d70e8e747" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_f1a8d08c5291a0aa44c8e3c92fe32b28" parent="aspace_cb7ea87f8736ff285286092d70e8e747" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Maclean, Eda</unittitle>
+            <unitdate datechar="creation">1928 February, undated</unitdate>
+            <container id="aspace_ea7a0957fd9d825d3c8a2d7add8c629e" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_3ab47d76f45dd39682b10cc1edd56282" parent="aspace_ea7a0957fd9d825d3c8a2d7add8c629e" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Walker, F. A</unittitle>
+            <unitdate datechar="creation">1927 November, undated</unitdate>
+            <container id="aspace_5349dc16fef8ae37f4128df9336a7810" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_7c0a8718cbd31f22f90b0eaeb091a5b6" parent="aspace_5349dc16fef8ae37f4128df9336a7810" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Miscellaneous Authors: James Buckham, Grace Keat Hill, Robert Underwood Johnson, Edwin Markham, Lawrence McLouth, Stephen Phillips, Leon J. Richardson, Jones B. Smith [EEB?], and other anonymous authors</unittitle>
+            <unitdate datechar="creation">1921-1932, undated</unitdate>
+            <container id="aspace_639109f3a30b46707d893dcfaca12787" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_f8f5d65d2db32bf27189d2667ae95854" parent="aspace_639109f3a30b46707d893dcfaca12787" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Relatives: Alice M. Eddy, Fanny E. Brown, Elmer E. Brown, Edith E. Lyons, Alice E. Treat, Kathleen Mundy, F. C. Hudson</unittitle>
+            <unitdate datechar="creation">1903-1907, undated</unitdate>
+            <container id="aspace_89f5177000b35ce959ac0db28435c7ab" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_c0da273476d283f17d40e26098c229b0" parent="aspace_89f5177000b35ce959ac0db28435c7ab" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref294" level="file">
+          <did>
+            <unittitle>Elmer Ellsworth Brown: Annotated volumes</unittitle>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_a578988112c34b3e321998295d66af76" label="Mixed Materials [31142046890029]" type="Box">5</container>
+            <container id="aspace_7ff8217e93b8480c0c8af7841d879b0a" parent="aspace_a578988112c34b3e321998295d66af76" type="Folder">21</container>
+          </did>
+          <scopecontent id="aspace_eb5b0655472917f4bf5203ff07955896">
+            <head>Scope and Contents</head>
+            <p>Two published volumes of poetry Elmer Ellsworth Brown wrote additional poems in. One volume was the first copy from the printer of Brown's 1923 book of poetry "Victory and Other Verse," which he inscribed to his wife and continued to add poems in blank spaces for several years. There is a tipped in photo of brown and pasted to the back cover is the letter of gift from Arthur H. Nason. The other volume is a book of poetry entitled "Verses" by Lawrence A. McLouth. It is inscribed to Brown and his wife, and Brown used some of the back pages to compose a poem entitled "Lullaby."</p>
+          </scopecontent>
+          <separatedmaterial id="aspace_f0fc9ed53f2eabe9ad50e6111a4e5987">
+            <head>Separated Materials</head>
+            <p>These two volumes were orginally a part of the Faculty Publications Collection (RG 1.1). Upon a survey of the collection, a determination was made that, due to the handwritten annotations, these books had research value independent of their being faculty publications and were added to the Elmer Ellsworth Brown Papers.</p>
+          </separatedmaterial>
+        </c>
+      </c>
+      <c id="aspace_ref114" level="series">
+        <did>
+          <unittitle>Series IV: Address books, diaries, journals, and ledgers</unittitle>
+          <unitdate datechar="creation" normal="1875/1934" type="inclusive">1875-1934</unitdate>
+          <container id="aspace_81782c4a6d5d53180e9fc1abf17494ff" label="Mixed Materials [31142046890037]" type="Box">6</container>
+          <container id="aspace_1290ba7b05868ae32e842b5a0d60ee4d" label="Mixed Materials [31142046890045]" type="Box">7</container>
+          <container id="aspace_40a5db2ae72bc84a11411d625ea1aa0d" label="Mixed Materials [31142046890052]" type="Box">8</container>
+          <container id="aspace_044a5a449ed5cf212beebcdd1b21b8e1" label="Mixed Materials [31142046890060]" type="Box">9</container>
+          <container id="aspace_a5eb0b441874b40babde5f2c59678dca" label="Mixed Materials [31142046890086]" type="Box">10</container>
+          <container id="aspace_58e47b0b6ec963093e28da5883835710" label="Mixed Materials [31142046890078]" type="Box">11</container>
+          <container id="aspace_059834be5b761731f6d409b4839626d8" label="Mixed Materials [31142046890094]" type="Box">12</container>
+          <container id="aspace_b7524375b2b1fdf3bbf6c95af4507566" label="Mixed Materials [31142046890102]" type="Box">13</container>
+          <container id="aspace_6e6bc67aeb919baaa3a8ff407e9bde3a" label="Mixed Materials [31142046890110]" type="Box">14</container>
+          <container id="aspace_0a677689586fca896f9520f2cadd1e70" label="Mixed Materials [31142046890128]" type="Box">15</container>
+        </did>
+        <scopecontent id="aspace_b5d43fd2b0431f0ef1c47b1d18cde1c2">
+          <head>Scope and Contents note</head>
+          <p>Elmer Brown maintained a diary for each year from 1875-1934, with many years containing incomplete entries. Along with this valuable personal record are numerous account books, journals, ledgers, all of which document his financial affairs, and address books of people he associated or corresponded with throughout his professional life.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ref177" level="series">
+        <did>
+          <unittitle>Series V: Public life, cultural activities, and travel</unittitle>
+          <unitdate datechar="creation" normal="1901/1903" type="inclusive">1901-1903</unitdate>
+        </did>
+        <scopecontent id="aspace_613491eae1e0fd021483fb18485ab2c9">
+          <head>Scope and Contents note</head>
+          <p>This series includes subject files, arranged alphabetically, pertaining to personal and professional activities pursued by Brown outside the area of education. These files include material on his travel to Europe in 1923; the Lake Mohonk conferences on Indian and Other Dependent People, and International Arbitration; invitations and programs to numerous social and cultural activities in New York City; and a large collection of musical, opera, and theater programs.</p>
+        </scopecontent>
+        <c id="aspace_ref178" level="file">
+          <did>
+            <unittitle>American Academy of Arts and Letters</unittitle>
+            <unitdate datechar="creation" normal="1914/1916" type="inclusive">1914, 1916</unitdate>
+            <container id="aspace_be1aa1bc00bcc3f326231ce261e1f3dc" label="Mixed Materials [31142046890136]" type="Box">16</container>
+            <container id="aspace_7a6f46e2c3cac8dbb8ab73dcd388d69e" parent="aspace_be1aa1bc00bcc3f326231ce261e1f3dc" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref179" level="file">
+          <did>
+            <unittitle>American Institute</unittitle>
+            <unitdate datechar="creation" normal="1914/1914" type="inclusive">1914</unitdate>
+            <container id="aspace_91567539cddae9a4dc1a94b7367f0987" label="Mixed Materials [31142046890136]" type="Box">16</container>
+            <container id="aspace_06def145e4dfd3aa733861e358b7ec4d" parent="aspace_91567539cddae9a4dc1a94b7367f0987" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref180" level="file">
+          <did>
+            <unittitle>Armory Show</unittitle>
+            <unitdate datechar="creation" normal="1913/1913" type="inclusive">1913</unitdate>
+            <container id="aspace_62440bc0898da610d390105983eed9c3" label="Mixed Materials [31142046890136]" type="Box">16</container>
+            <container id="aspace_3de0158591cca2fdf3ea2959f718b6d6" parent="aspace_62440bc0898da610d390105983eed9c3" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref181" level="file">
+          <did>
+            <unittitle>Ethnic Groups, Meetings re:</unittitle>
+            <unitdate datechar="creation" normal="1911/1925" type="inclusive">circa 1910s-1930s</unitdate>
+            <container id="aspace_2fcfe4b71c39a24c79b62da0bc72dfdd" label="Mixed Materials [31142046890136]" type="Box">16</container>
+            <container id="aspace_b72205595ed055388c88c86f9d76a332" parent="aspace_2fcfe4b71c39a24c79b62da0bc72dfdd" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref182" level="file">
+          <did>
+            <unitdate datechar="creation">1923 July-August</unitdate>
+            <container id="aspace_e8fe3a8b80ada64cfa326a97ba314f73" label="Mixed Materials [31142046890136]" type="Box">16</container>
+            <container id="aspace_cbaed55629c5fbb70064d4e5e295c16f" parent="aspace_e8fe3a8b80ada64cfa326a97ba314f73" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref183" level="file">
+          <did>
+            <unittitle>Europe, Trip to</unittitle>
+            <unitdate datechar="creation">1923 September-November</unitdate>
+            <container id="aspace_016d164dcd7df92a801a6011ec8d677a" label="Mixed Materials [31142046890136]" type="Box">16</container>
+            <container id="aspace_6b68e135060045c16c19bf160cb76f0e" parent="aspace_016d164dcd7df92a801a6011ec8d677a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref184" level="file">
+          <did>
+            <unittitle>Europe, Trip to</unittitle>
+            <unitdate datechar="creation">1932 March</unitdate>
+            <container id="aspace_39f9c82eb17f9177119c9a8d15480b7f" label="Mixed Materials [31142046890136]" type="Box">16</container>
+            <container id="aspace_1d67fb66c115f0774538f64c9fc7c34a" parent="aspace_39f9c82eb17f9177119c9a8d15480b7f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref185" level="file">
+          <did>
+            <unittitle>Events in which EEB participated</unittitle>
+            <unitdate datechar="creation" normal="1911/1930" type="inclusive">1911-1930</unitdate>
+            <container id="aspace_686ddbbae9dcb7434b8cf011128ade95" label="Mixed Materials [31142046890136]" type="Box">16</container>
+            <container id="aspace_fd8f0a7dd827c555972fe8b49d9598a2" parent="aspace_686ddbbae9dcb7434b8cf011128ade95" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref186" level="file">
+          <did>
+            <unittitle>Grandi, Dino (Italian Minister of Foreign Affairs): Welcome Ceremony, Nov. 21, 1931)</unittitle>
+            <unitdate datechar="creation">1931 October-November</unitdate>
+            <container id="aspace_a9b5e431728da548840591d3d31915a5" label="Mixed Materials [31142046890136]" type="Box">16</container>
+            <container id="aspace_6d040d895bdb35ede9df32d2317006a3" parent="aspace_a9b5e431728da548840591d3d31915a5" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref187" level="file">
+          <did>
+            <unittitle>Health and Medicine, including International Congresses</unittitle>
+            <unitdate datechar="creation" normal="1912/1932" type="inclusive">circa 1910s-1930s</unitdate>
+            <container id="aspace_84fddf93aae45a41385c1a09e93508e0" label="Mixed Materials [31142046890136]" type="Box">16</container>
+            <container id="aspace_57751ca6f96f7e18d8b964ef95742c6e" parent="aspace_84fddf93aae45a41385c1a09e93508e0" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref188" level="file">
+          <did>
+            <unittitle>Institute of Politics</unittitle>
+            <unitdate datechar="creation" normal="1921/1933" type="inclusive">1921-1933</unitdate>
+            <container id="aspace_eaaa402bd5cff9a6d5543bb6786be5a1" label="Mixed Materials [31142046890144]" type="Box">17</container>
+            <container id="aspace_e8df1d4619b2a6dbf89d89187830d90b" parent="aspace_eaaa402bd5cff9a6d5543bb6786be5a1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref189" level="file">
+          <did>
+            <unittitle>Invitations (formal) and Acknowledgments from Distinguished People</unittitle>
+            <unitdate datechar="creation">1912-1929, undated</unitdate>
+            <container id="aspace_164863232c06a185d2d2766e086920bf" label="Mixed Materials [31142046890144]" type="Box">17</container>
+            <container id="aspace_d57c68019d1ae04ac0c307e7bfe88efa" parent="aspace_164863232c06a185d2d2766e086920bf" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref190" level="file">
+          <did>
+            <unittitle>Miscellaneous Programs</unittitle>
+            <unitdate datechar="creation">1911-1931, undated</unitdate>
+            <container id="aspace_85778b1a603fe5f1dd61e73f683e35e9" label="Mixed Materials [31142046890144]" type="Box">17</container>
+            <container id="aspace_38858940ae186f5e9c50caa8352af3fc" parent="aspace_85778b1a603fe5f1dd61e73f683e35e9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref191" level="file">
+          <did>
+            <unittitle>Mohonk, Lake: Conference on Indian...</unittitle>
+            <unitdate datechar="creation">1917</unitdate>
+            <container id="aspace_445aa1f3dc75ec41c4258719ab28f3b5" label="Mixed Materials [31142046890144]" type="Box">17</container>
+            <container id="aspace_155200c5680fffd731698126623fd23c" parent="aspace_445aa1f3dc75ec41c4258719ab28f3b5" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref192" level="file">
+          <did>
+            <unittitle>Mohonk, Lake, Conference on International Arbitration</unittitle>
+            <unitdate datechar="creation" normal="1911/1932" type="inclusive">1912-1917</unitdate>
+            <container id="aspace_c58ad536f9e6a10ec836a245eece9760" label="Mixed Materials [31142046890144]" type="Box">17</container>
+            <container id="aspace_81ca37f44599dedfcc2ed7b0b3228e3e" parent="aspace_c58ad536f9e6a10ec836a245eece9760" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref193" level="file">
+          <did>
+            <unittitle>Mohonk, Lake, Mountain House (Mr and Mrs. Daniel Smiley, Proprietors)</unittitle>
+            <unitdate datechar="creation">1911-1932</unitdate>
+            <container id="aspace_03715e3601b7e6d00f8cbbad990cc47a" label="Mixed Materials [31142046890144]" type="Box">17</container>
+            <container id="aspace_9622c6e67e0e2dd5fb963366837a58dc" parent="aspace_03715e3601b7e6d00f8cbbad990cc47a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref194" level="file">
+          <did>
+            <unittitle>Musical Events, Programs of</unittitle>
+            <unitdate datechar="creation">1911-1923, undated</unitdate>
+            <container id="aspace_25187f8a2ff99a7a46b8aecb3f1de660" label="Mixed Materials [31142046890144]" type="Box">17</container>
+            <container id="aspace_f7e4260cef2250dd2d1cef16d524ae87" parent="aspace_25187f8a2ff99a7a46b8aecb3f1de660" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref195" level="file">
+          <did>
+            <unittitle>New York City Official Occassions</unittitle>
+            <unitdate datechar="creation" normal="1914/1914" type="inclusive">1912-1922, undated</unitdate>
+            <container id="aspace_b8c1b44554c08b54e95b3997dabf6cb9" label="Mixed Materials [31142046890144]" type="Box">17</container>
+            <container id="aspace_b2d2a7cb0b021a0a6df4047b9709a55c" parent="aspace_b8c1b44554c08b54e95b3997dabf6cb9" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref292" level="file">
+          <did>
+            <unittitle>New York Commercial Centenery Commission</unittitle>
+            <unitdate datechar="creation">1914</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_ff97945be9a3a5d59c85fa27e16d249f" label="Mixed Materials [31142046890144]" type="Box">17</container>
+            <container id="aspace_52108053c15ef0d39115c15417c49056" parent="aspace_ff97945be9a3a5d59c85fa27e16d249f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref196" level="file">
+          <did>
+            <unittitle>Pan American Exposition, Buffalo, New York 1901: Printed Material</unittitle>
+            <unitdate datechar="creation" normal="1901/1901" type="inclusive">1901</unitdate>
+            <container id="aspace_8ce0cd154bab72807528a82b301f2092" label="Mixed Materials [31142046890151]" type="Box">18</container>
+            <container id="aspace_cb947cea34d92c11dc592378d68d5762" parent="aspace_8ce0cd154bab72807528a82b301f2092" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref197" level="file">
+          <did>
+            <unittitle>Peace Congresses and Related Affairs</unittitle>
+            <unitdate datechar="creation">1912-1928, undated</unitdate>
+            <container id="aspace_77ad988de098a32bd2ad5012393fd57c" label="Mixed Materials [31142046890151]" type="Box">18</container>
+            <container id="aspace_a0829711f905257f372faaef00fcc002" parent="aspace_77ad988de098a32bd2ad5012393fd57c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref199" level="file">
+          <did>
+            <unittitle>Religious Services and Lectures: Programs and Notices</unittitle>
+            <unitdate datechar="creation">1912-1929, undated</unitdate>
+            <container id="aspace_a8316f2920cd15d075d83729d2a5d68c" label="Mixed Materials [31142046890151]" type="Box">18</container>
+            <container id="aspace_4e1336af6c0c4a149ef8565ac9cc751b" parent="aspace_a8316f2920cd15d075d83729d2a5d68c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref200" level="file">
+          <did>
+            <unittitle>Theater Programs</unittitle>
+            <unitdate datechar="creation" normal="1912/1920" type="inclusive">1912-1920</unitdate>
+            <container id="aspace_f2a27370c899ddbe53017bff4a7a3271" label="Mixed Materials [31142046890151]" type="Box">18</container>
+            <container id="aspace_7961656a2e45a7122572e7e078d66f6d" parent="aspace_f2a27370c899ddbe53017bff4a7a3271" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref201" level="file">
+          <did>
+            <unittitle>Theater Programs</unittitle>
+            <unitdate datechar="creation">1921-1923, undated</unitdate>
+            <container id="aspace_2e58a8eb6f2bf49fdcf062d967e1c2af" label="Mixed Materials [31142046890151]" type="Box">18</container>
+            <container id="aspace_c88f1cb2ecaf44391710299e6022506d" parent="aspace_2e58a8eb6f2bf49fdcf062d967e1c2af" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref204" level="series">
+        <did>
+          <unittitle>Series VI: Personal and professional correspondence</unittitle>
+          <unitdate datechar="creation" normal="1869/1911" type="inclusive">1869-1911</unitdate>
+        </did>
+        <scopecontent id="aspace_f0b0efc6b3419cf67d381c8cf67bf231">
+          <head>Scope and Contents note</head>
+          <p>Brown's student and professional activities in education are documented extensively in these files of correspondence and related papers. This includes his initial schooling in Sublette, Illinois, his years at the Illinois State Normal University, service as principal of public schools in Belvidere, Illinois, his tenure as Assistant State Secretary of the Illinois Y.M.C.A., his student years at the University of Michigan, 1887-1889, and at the University of Halle-Wittenberg in Germany, 1889-1890, high school principal in Jackson, Michigan, 1890-1891, and acting Assistant professor of the Science and Art of Teaching, 1891-1892.</p>
+          <p>A large number of correspondence files concern the development of the Department of Pedagogy at the University of California at Berkeley, 1892-1906. These files include extensive correspondence with Brown's colleagues at Berkeley such as presidents Martin Kellogg and Benjamin I. Wheeler, and professors Frederick Slate, George Howison, and numerous educators across the United States, including James B. Angell, Nicholas Murray Butler, William Torrey Harris, Thomas P. Bailey, Jr., E. C. Sanford, Edmund J. James, Andrew S. Draper, Ellwood P. Cubberly, Hugo Muensterberg, John H. Finley, Winston Churchill, Henry M. MacCracken, Daniel Colt Gilman, E. W. Scripture, and Governor George Pardee of California. Of particular interest are letters from John Dewey when the educator was serving as a professor of philosophy at the University of Michigan and the University of Chicago. Also included in the professional correspondence files are departmental reports on student enrollment, Brown's course notebooks for "Theory of Education" and "School Systems," and printed material relating to both the Department of Pedagogy and general university concerns. Material concerning Brown's activities as U.S. Commissioner of Education, 1906-1911, include correspondence files and letter books of outgoing correspondence. The final folder relates to Brown's decision to accept the invitation to become Chancellor of New York University in 1911.</p>
+        </scopecontent>
+        <c id="aspace_ref205" level="file">
+          <did>
+            <unittitle>Correspondence and Papers</unittitle>
+            <unitdate datechar="creation" normal="1869/1881" type="inclusive">1869-1881, undated</unitdate>
+            <container id="aspace_b1fc442525b86ea5ad387b5772a1677e" label="Mixed Materials [31142046890169]" type="Box">19</container>
+            <container id="aspace_d61322de4fb5e0e336887da068b13d11" parent="aspace_b1fc442525b86ea5ad387b5772a1677e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref206" level="file">
+          <did>
+            <unittitle>Illinois State Normal University: Miscellaneous Notes; Fine Arts and Literature Notes</unittitle>
+            <unitdate datechar="creation" normal="1878/1888" type="inclusive">1878-1888</unitdate>
+            <container id="aspace_9cce866ff3e020e85b9d8c86602e3899" label="Mixed Materials [31142046890169]" type="Box">19</container>
+            <container id="aspace_3279f2a069e70f588aaef3d20fa54958" parent="aspace_9cce866ff3e020e85b9d8c86602e3899" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref207" level="file">
+          <did>
+            <unittitle>Belvidere, Illinois (Principal of Public Schools)</unittitle>
+            <unitdate datechar="creation" normal="1881/1884" type="inclusive">1881-1884</unitdate>
+            <container id="aspace_bbd84d727c20dedca716b7a858256433" label="Mixed Materials [31142046890169]" type="Box">19</container>
+            <container id="aspace_173592ce0c632d289474b3198343048f" parent="aspace_bbd84d727c20dedca716b7a858256433" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref208" level="file">
+          <did>
+            <unittitle>Belvidere, Illinois: School Reports</unittitle>
+            <unitdate datechar="creation" normal="1881/1884" type="inclusive">1881-1884</unitdate>
+            <container id="aspace_415ff70041d8debd5bb79a88bd9b1d63" label="Mixed Materials [31142046890169]" type="Box">19</container>
+            <container id="aspace_b20ed6c3b84dc6436b23df77bb6cfa53" parent="aspace_415ff70041d8debd5bb79a88bd9b1d63" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref209" level="file">
+          <did>
+            <unittitle>Illinois State Y.M.C.A. (Assistant State Secretary)</unittitle>
+            <unitdate datechar="creation" normal="1885/1887" type="inclusive">1885-1887</unitdate>
+            <container id="aspace_562641d0d85802552834f98d22cbf1b2" label="Mixed Materials [31142046890169]" type="Box">19</container>
+            <container id="aspace_97edfd2e02ce13af0cda27a468e7b7ec" parent="aspace_562641d0d85802552834f98d22cbf1b2" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref210" level="file">
+          <did>
+            <unittitle>Michigan, University of (student)</unittitle>
+            <unitdate datechar="creation" normal="1887/1889" type="inclusive">1887-1889</unitdate>
+            <container id="aspace_ae04f6043ccaa1b3e6a929bc0b93cc75" label="Mixed Materials [31142046890169]" type="Box">19</container>
+            <container id="aspace_3287f689e74997d671dfce0782c466d4" parent="aspace_ae04f6043ccaa1b3e6a929bc0b93cc75" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref211" level="file">
+          <did>
+            <unittitle>Halle-Wittenberg, University of (graduate student)</unittitle>
+            <unitdate datechar="creation" normal="1889/1890" type="inclusive">1889-1890</unitdate>
+            <container id="aspace_2a7055516391a90668a64c2b3cb9be5b" label="Mixed Materials [31142046890169]" type="Box">19</container>
+            <container id="aspace_6cf85427cd5e062d7380d8e34e68365f" parent="aspace_2a7055516391a90668a64c2b3cb9be5b" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref212" level="file">
+          <did>
+            <unittitle>Jackson, Michigan (high school principal)</unittitle>
+            <unitdate datechar="creation" normal="1890/1891" type="inclusive">1890-1891</unitdate>
+            <container id="aspace_c1e2d4ac8fc5746a1aa7f57d283cf6a7" label="Mixed Materials [31142046890169]" type="Box">19</container>
+            <container id="aspace_da3a763c321426f70a85f3acd4e0430b" parent="aspace_c1e2d4ac8fc5746a1aa7f57d283cf6a7" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref213" level="file">
+          <did>
+            <unittitle>Michigan, University of (acting Assistant Professor of Science and Art of Teaching)</unittitle>
+            <unitdate datechar="creation" normal="1891/1892" type="inclusive">1891-1892</unitdate>
+            <container id="aspace_ac8561579a80e7020eb657042220c953" label="Mixed Materials [31142046890169]" type="Box">19</container>
+            <container id="aspace_2fd3847333a1a8ddc3d92bdf42197d21" parent="aspace_ac8561579a80e7020eb657042220c953" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref214" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1892/1892" type="inclusive">1892</unitdate>
+            <container id="aspace_91fdf42e1b4982c033a19fbe995f8ffe" label="Mixed Materials [31142046890177]" type="Box">20</container>
+            <container id="aspace_d98bc3891ef379298963c91b04496a2e" parent="aspace_91fdf42e1b4982c033a19fbe995f8ffe" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref215" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1893/1893" type="inclusive">1893</unitdate>
+            <container id="aspace_3e9e65de3e0e08a82438fe545922f2b4" label="Mixed Materials [31142046890177]" type="Box">20</container>
+            <container id="aspace_d33e26ef84fb14730d0ac404a09aa1e2" parent="aspace_3e9e65de3e0e08a82438fe545922f2b4" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref216" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1894/1894" type="inclusive">1894</unitdate>
+            <container id="aspace_5cca4b9c62511bfbd9e8e3c34906e3f4" label="Mixed Materials [31142046890177]" type="Box">20</container>
+            <container id="aspace_8da2c410af3990e503b05f6a93ea11f1" parent="aspace_5cca4b9c62511bfbd9e8e3c34906e3f4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref217" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1895/1895" type="inclusive">1895</unitdate>
+            <container id="aspace_0da55ad92c12958dff0b398dba8c3067" label="Mixed Materials [31142046890177]" type="Box">20</container>
+            <container id="aspace_4f6479ca05595315da1a8475ea47a960" parent="aspace_0da55ad92c12958dff0b398dba8c3067" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref218" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1896/1896" type="inclusive">1896</unitdate>
+            <container id="aspace_2c101b5d82be399d4d8d16a504561675" label="Mixed Materials [31142046890177]" type="Box">20</container>
+            <container id="aspace_5f67ffde18d34dcf75cfba386737ffd9" parent="aspace_2c101b5d82be399d4d8d16a504561675" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref219" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1897/1897" type="inclusive">1897</unitdate>
+            <container id="aspace_ed7f3a960dd5306147ec084d24eaada6" label="Mixed Materials [31142046890177]" type="Box">20</container>
+            <container id="aspace_dbd3500b0a729000566239534ff77280" parent="aspace_ed7f3a960dd5306147ec084d24eaada6" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref220" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1898/1898" type="inclusive">1898</unitdate>
+            <container id="aspace_bbb5d450e5d65106536d45663cb5ee5e" label="Mixed Materials [31142046890177]" type="Box">20</container>
+            <container id="aspace_9b4d13f52632f0a8d8f2d35cf12b9fed" parent="aspace_bbb5d450e5d65106536d45663cb5ee5e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref221" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1899/1899" type="inclusive">1899</unitdate>
+            <container id="aspace_7f3cae9712edc7928b7a14f71b8234da" label="Mixed Materials [31142046890177]" type="Box">20</container>
+            <container id="aspace_c92ff0f27e7107ea2b55fbb72f49643c" parent="aspace_7f3cae9712edc7928b7a14f71b8234da" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref222" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1900/1900" type="inclusive">1900</unitdate>
+            <container id="aspace_0614606337b2fdd2c95ffa0d52c3f905" label="Mixed Materials [31142046890177]" type="Box">20</container>
+            <container id="aspace_6d2dcacac6cd3312c94483eb33a3d319" parent="aspace_0614606337b2fdd2c95ffa0d52c3f905" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref223" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1901/1901" type="inclusive">1901</unitdate>
+            <container id="aspace_6eb030a99f44fb128f24d003e0cd4fe1" label="Mixed Materials [31142046890177]" type="Box">20</container>
+            <container id="aspace_788109165f2e16f556e970c3b82a334e" parent="aspace_6eb030a99f44fb128f24d003e0cd4fe1" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref224" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1902/1902" type="inclusive">1902</unitdate>
+            <container id="aspace_740380ac91e12956c203fd1827164198" label="Mixed Materials [31142046890177]" type="Box">20</container>
+            <container id="aspace_e42061d3c19b742c7a0fb7d6dfbafac3" parent="aspace_740380ac91e12956c203fd1827164198" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref225" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1903/1903" type="inclusive">1903</unitdate>
+            <container id="aspace_e534c70a2fc233b0a59c9c131916bb0a" label="Mixed Materials [31142046890177]" type="Box">20</container>
+            <container id="aspace_44503b57b3d0da989336a3c8e1ab3dbf" parent="aspace_e534c70a2fc233b0a59c9c131916bb0a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref226" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1904/1904" type="inclusive">1904</unitdate>
+            <container id="aspace_8fbbe6467b34e41fcf6711cb3a0ac557" label="Mixed Materials [31142046890177]" type="Box">20</container>
+            <container id="aspace_2fa78b83e7d844f661907d2953cb5687" parent="aspace_8fbbe6467b34e41fcf6711cb3a0ac557" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref227" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1905/1905" type="inclusive">1905</unitdate>
+            <container id="aspace_3f493922b87e10f20dd3b2dc78701433" label="Mixed Materials [31142046890177]" type="Box">20</container>
+            <container id="aspace_36bda75a57167d2abe338dee30b41c5e" parent="aspace_3f493922b87e10f20dd3b2dc78701433" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref228" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Correspondence</unittitle>
+            <unitdate datechar="creation">1906 January-June</unitdate>
+            <container id="aspace_e723838fb7a2fcf18f45e0f8b304439b" label="Mixed Materials [31142046890177]" type="Box">20</container>
+            <container id="aspace_9807119c22d943e3e59aed22c9fa58bb" parent="aspace_e723838fb7a2fcf18f45e0f8b304439b" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref229" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Department of Pedagogy: Student Enrollment, Class Reports, Miscellaneous Reports</unittitle>
+            <unitdate datechar="creation">1892-1897, undated</unitdate>
+            <container id="aspace_74f7c5608eb833af4436083e2c4fd3c3" label="Mixed Materials [31142046890185]" type="Box">21</container>
+            <container id="aspace_f2c79fb546f677f8fd995c2d6d1878dd" parent="aspace_74f7c5608eb833af4436083e2c4fd3c3" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref230" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Notebook for Courses, "Theory of Education" and "School Systems"</unittitle>
+            <unitdate datechar="creation" normal="1897/1899" type="inclusive">1897, 1899</unitdate>
+            <container id="aspace_25743218a91c82a47d512f92f98aee88" label="Mixed Materials [31142046890185]" type="Box">21</container>
+            <container id="aspace_6280949ab18c9c43f6c32685555b96fd" parent="aspace_25743218a91c82a47d512f92f98aee88" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref231" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Oakland Public School Reports; Alameda County Teachers' Institute</unittitle>
+            <unitdate datechar="creation" normal="1892/1896" type="inclusive">1892-1896</unitdate>
+            <container id="aspace_d9651e58b6d9acdbd915c69c6b8e13a1" label="Mixed Materials [31142046890185]" type="Box">21</container>
+            <container id="aspace_fdecb1de3bfcd96b0c55d0924dcbd99f" parent="aspace_d9651e58b6d9acdbd915c69c6b8e13a1" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref232" level="file">
+          <did>
+            <unittitle>California, University of (Berkeley): Department of Pedagogy: Printed Material</unittitle>
+            <unitdate datechar="creation" normal="1892/1903" type="inclusive">1892-1903, undated</unitdate>
+            <container id="aspace_e41a47ac5b1825a41c6fbf472691d244" label="Mixed Materials [31142046890185]" type="Box">21</container>
+            <container id="aspace_0d7f30da2be5f32ace4360d468902aee" parent="aspace_e41a47ac5b1825a41c6fbf472691d244" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref233" level="file">
+          <did>
+            <unittitle>California, University of: General University Printed Material</unittitle>
+            <unitdate datechar="creation">1889-1901, undated</unitdate>
+            <container id="aspace_cd2669856e122a599d474470a97bf8ee" label="Mixed Materials [31142046890185]" type="Box">21</container>
+            <container id="aspace_1c6610742ec5fccb27d68010951ca2ae" parent="aspace_cd2669856e122a599d474470a97bf8ee" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref234" level="file">
+          <did>
+            <unittitle>U.S. Commissioner of Education (Department of the Interior): Correspondence</unittitle>
+            <unitdate datechar="creation">1906 July-1906 Dec.</unitdate>
+            <container id="aspace_6f7d1b5851c1010ce8769b036cd0ed58" label="Mixed Materials [31142046890193]" type="Box">22</container>
+            <container id="aspace_7b6a2917074e3c04ae05a8150cdcfd0e" parent="aspace_6f7d1b5851c1010ce8769b036cd0ed58" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref235" level="file">
+          <did>
+            <unittitle>U.S. Commissioner of Education (Department of the Interior): Letter Book (outgoing)</unittitle>
+            <unitdate datechar="creation" normal="1906/1907" type="inclusive">1906 July- 1907 May</unitdate>
+            <container id="aspace_c4be6b69c786ac1849398d15e3aed02c" label="Mixed Materials [31142046890193]" type="Box">22</container>
+            <container id="aspace_ad9e9502ec835844972048216684bd89" parent="aspace_c4be6b69c786ac1849398d15e3aed02c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref236" level="file">
+          <did>
+            <unittitle>U.S. Commissioner of Education (Department of the Interior): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1907/1907" type="inclusive">1907</unitdate>
+            <container id="aspace_e3dd3347862eb1bf635bf994fdcbc0bd" label="Mixed Materials [31142046890193]" type="Box">22</container>
+            <container id="aspace_f581891ca96c37a7fdb76516dd90d5a2" parent="aspace_e3dd3347862eb1bf635bf994fdcbc0bd" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref237" level="file">
+          <did>
+            <unittitle>U.S. Commissioner of Education (Department of the Interior): Letter Book (outgoing)</unittitle>
+            <unitdate datechar="creation" normal="1907/1908" type="inclusive">1907-1908</unitdate>
+            <container id="aspace_c9567eb0b0f233e35bd5d9adc8132266" label="Mixed Materials [31142046890193]" type="Box">22</container>
+            <container id="aspace_97ed196cf8a9571a5bad22718af89361" parent="aspace_c9567eb0b0f233e35bd5d9adc8132266" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref238" level="file">
+          <did>
+            <unittitle>U.S. Commissioner of Education (Department of the Interior): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1908/1908" type="inclusive">1908</unitdate>
+            <container id="aspace_5cb512e718112ae11519868d31d21801" label="Mixed Materials [31142046890193]" type="Box">22</container>
+            <container id="aspace_e702fc55966525f08801b1fd18ae62b4" parent="aspace_5cb512e718112ae11519868d31d21801" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref239" level="file">
+          <did>
+            <unittitle>U.S. Commissioner of Education (Department of the Interior): Letter Book (outgoing)</unittitle>
+            <unitdate datechar="creation">1908</unitdate>
+            <container id="aspace_8f3812a39aad459f3e194eb3c52c56c9" label="Mixed Materials [31142046890201]" type="Box">23</container>
+            <container id="aspace_8cf4fe8302373adb0d9975c34b4a3c43" parent="aspace_8f3812a39aad459f3e194eb3c52c56c9" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref240" level="file">
+          <did>
+            <unittitle>U.S. Commissioner of Education (Department of the Interior): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1909/1909" type="inclusive">1909</unitdate>
+            <container id="aspace_e025ae592a067537e311cb72f7f00a7e" label="Mixed Materials [31142046890201]" type="Box">23</container>
+            <container id="aspace_591ee2f2a4ea1305c048f68a165b2291" parent="aspace_e025ae592a067537e311cb72f7f00a7e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref241" level="file">
+          <did>
+            <unittitle>U.S. Commissioner of Education (Department of the Interior): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1910/1910" type="inclusive">1910</unitdate>
+            <container id="aspace_9dd6e1533912f47c4355fb267a79fd67" label="Mixed Materials [31142046890201]" type="Box">23</container>
+            <container id="aspace_ed346a3aacfc19b5ae39358635d4e2bc" parent="aspace_9dd6e1533912f47c4355fb267a79fd67" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref242" level="file">
+          <did>
+            <unittitle>U.S. Commissioner of Education (Department of the Interior): Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1911/1911" type="inclusive">1911</unitdate>
+            <container id="aspace_4c3863c07aa05f43db7d8501cda03976" label="Mixed Materials [31142046890201]" type="Box">23</container>
+            <container id="aspace_a2cab42de32a792ba0f4bec959bc1b52" parent="aspace_4c3863c07aa05f43db7d8501cda03976" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref243" level="file">
+          <did>
+            <unittitle>New York University (Chancellor): Correspondence</unittitle>
+            <unitdate datechar="creation">1911</unitdate>
+            <container id="aspace_77f37acdfb78425f3f8c9f618d010aba" label="Mixed Materials [31142046890201]" type="Box">23</container>
+            <container id="aspace_a3a89fc7c56ff0b9add94cad8e2132b4" parent="aspace_77f37acdfb78425f3f8c9f618d010aba" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref246" level="series">
+        <did>
+          <unittitle>Series VII: Pre-retirement awards and tributes</unittitle>
+          <unitdate datechar="creation">1905-1933</unitdate>
+        </did>
+        <scopecontent id="aspace_648a0b897f61bec630d3ab3596f9c38d">
+          <head>Scope and Contents note</head>
+          <p>The bulk of this material relates to various awards and tributes bestowed upon Brown for his service as educator and particularly, for his leadership of New York University. Included are congratulatory letters for twenty years of service in 1931, and his receipt of the Commendatore of the Order of the Crown of Italy in 1932, and the Order of the Crown of Belgium in 1933.</p>
+        </scopecontent>
+        <c id="aspace_ref247" level="file">
+          <did>
+            <unittitle>Louisiana Purchase Exposition Company: International Exposition of Industry and Labor</unittitle>
+            <unitdate datechar="creation" normal="1913/1913" type="inclusive">1905-1906, 1913</unitdate>
+            <container id="aspace_dce8c41ab47784733560dc4b609780ba" label="Mixed Materials [31142046890219]" type="Box">24</container>
+            <container id="aspace_4e13f8e23233f5aa97992990f9479d1c" parent="aspace_dce8c41ab47784733560dc4b609780ba" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref248" level="file">
+          <did>
+            <unittitle>New York University Law School Alumni Association: Annual Banquet</unittitle>
+            <unitdate datechar="creation">1912 March</unitdate>
+            <container id="aspace_278681d7b7bc2a2186ad5971026c3d7e" label="Mixed Materials [31142046890219]" type="Box">24</container>
+            <container id="aspace_9179b3d55e7a4367be4bfc13e98bfa15" parent="aspace_278681d7b7bc2a2186ad5971026c3d7e" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref249" level="file">
+          <did>
+            <unittitle>Testimonial Dinner Honoring EEB on Fifteen Years of Service at N.Y.U. November 8, 1926</unittitle>
+            <unitdate datechar="creation">1926</unitdate>
+            <container id="aspace_ae19183c4f6b58c777cfc6c44443e037" label="Mixed Materials [31142046890219]" type="Box">24</container>
+            <container id="aspace_f98dec734d6e779f617e5362b07a90a0" parent="aspace_ae19183c4f6b58c777cfc6c44443e037" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref250" level="file">
+          <did>
+            <unittitle>LL.D. Degree Conferred by the University of the State of New York, October 16, 1930</unittitle>
+            <unitdate datechar="creation">1930</unitdate>
+            <container id="aspace_dce5dcf8c5a74408a18dfe4ee8eff701" label="Mixed Materials [31142046890219]" type="Box">24</container>
+            <container id="aspace_d8e59d6baea948a62e6814d9db8599ef" parent="aspace_dce5dcf8c5a74408a18dfe4ee8eff701" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref251" level="file">
+          <did>
+            <unittitle>Letters of Congratulations on Twenty Years of Service at N.Y.U.</unittitle>
+            <unitdate datechar="creation">1931</unitdate>
+            <container id="aspace_4cdb107f09eaf4c5c031ff78946ac53d" label="Mixed Materials [31142046890219]" type="Box">24</container>
+            <container id="aspace_7cd109729815f8bda2837998f453b73d" parent="aspace_4cdb107f09eaf4c5c031ff78946ac53d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref252" level="file">
+          <did>
+            <unittitle>Letters of Congratulations on Twenty Years of Service at N.Y.U.</unittitle>
+            <unitdate datechar="creation">1931</unitdate>
+            <container id="aspace_5ff6801f344e5df1eb9d7e61565e953e" label="Mixed Materials [31142046890219]" type="Box">24</container>
+            <container id="aspace_92ddcee7a767a0fa3ad100d2c34cc355" parent="aspace_5ff6801f344e5df1eb9d7e61565e953e" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref253" level="file">
+          <did>
+            <unittitle>Commendatore of the Order of the Crown of Italy, March 24, 1932</unittitle>
+            <unitdate datechar="creation">1932</unitdate>
+            <container id="aspace_6a9c2437d6a945a75e16223cc59f500e" label="Mixed Materials [31142046890219]" type="Box">24</container>
+            <container id="aspace_7351a74444ea6c24e5012dc05f55d005" parent="aspace_6a9c2437d6a945a75e16223cc59f500e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref254" level="file">
+          <did>
+            <unittitle>Order of the Crown of Belgium, April 11, 1933</unittitle>
+            <unitdate datechar="creation">1933 April-May</unitdate>
+            <container id="aspace_13f510e309f03fffe513cd66f3f79f4f" label="Mixed Materials [31142046890219]" type="Box">24</container>
+            <container id="aspace_d8c42bac5f873c839fdebaacf18081e4" parent="aspace_13f510e309f03fffe513cd66f3f79f4f" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref257" level="series">
+        <did>
+          <unittitle>Series VIII: Retirement</unittitle>
+          <unitdate datechar="creation" normal="1932/1935" type="inclusive">1932-1935</unitdate>
+        </did>
+        <scopecontent id="aspace_c07f667e4113fd10c6956d6585c33112">
+          <head>Scope and Contents note</head>
+          <p>These files include announcements of Brown's retirement from the chancellorship of New York University, reactions and responses from friends and colleagues, material relating to a retirement dinner held in his honor on May 3, 1933, correspondence concerning his illness, the establishment of the Brown House for English studies on the University Heights campus of NYU, and papers relating to his European trip taken shortly before his death in 1934.</p>
+        </scopecontent>
+        <c id="aspace_ref258" level="file">
+          <did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation">1932 April-October</unitdate>
+            <container id="aspace_d76fa53b6ad2cc20229e2bfea4dd80bf" label="Mixed Materials [31142046890219]" type="Box">24</container>
+            <container id="aspace_e9f639a332c66f2609cd803d68424759" parent="aspace_d76fa53b6ad2cc20229e2bfea4dd80bf" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref259" level="file">
+          <did>
+            <unittitle>Response from Friends, Colleagues, and Organizations includes reaction to selection of Harry W. Chase as EEB's successor)</unittitle>
+            <unitdate datechar="creation" normal="1932/1933" type="inclusive">1932-1933</unitdate>
+            <container id="aspace_5f9bb9b9fc2e80dad554efc3b5eb1200" label="Mixed Materials [31142046890219]" type="Box">24</container>
+            <container id="aspace_5501caf00eb6072d08eb4b0d2a91ed79" parent="aspace_5f9bb9b9fc2e80dad554efc3b5eb1200" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref293" level="file">
+          <did>
+            <unittitle>NYU Council-Minute of Appreciation</unittitle>
+            <unitdate datechar="creation">1933 May 22</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_ede950b2010b62ac440acd28091f6502" label="Mixed Materials [31142046890219]" type="Box">24</container>
+            <container id="aspace_fdff99ef0714e8d3ef91ea39b8b106d8" parent="aspace_ede950b2010b62ac440acd28091f6502" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref260" level="file">
+          <did>
+            <unittitle>Retirement Dinner, May 3, 1933: Programs, Speeches, Clippings</unittitle>
+            <unitdate datechar="creation">1933 January-July</unitdate>
+            <container id="aspace_cd6c93fab8b6673cb1476a64dda721a6" label="Mixed Materials [31142046890227]" type="Box">25</container>
+            <container id="aspace_47b9e388d40836e473b15171b5afade4" parent="aspace_cd6c93fab8b6673cb1476a64dda721a6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref261" level="file">
+          <did>
+            <unittitle>Retirement Dinner, May 3, 1933: Testimonial Book with Signatures</unittitle>
+            <unitdate datechar="creation">1933</unitdate>
+            <container id="aspace_e5f891ee3139adc115490b12389dc62d" label="Mixed Materials [31142046890227]" type="Box">25</container>
+            <container id="aspace_2a489c286cc423af39c547c4adb0e157" parent="aspace_e5f891ee3139adc115490b12389dc62d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref262" level="file">
+          <did>
+            <unittitle>Retirement Dinner, May 3, 1933: Correspondence</unittitle>
+            <unitdate datechar="creation">1933 April-May</unitdate>
+            <container id="aspace_0fe7ebdc45918bc77423ada701680044" label="Mixed Materials [31142046890227]" type="Box">25</container>
+            <container id="aspace_8cd97b27c06772dd7266b6445af7e895" parent="aspace_0fe7ebdc45918bc77423ada701680044" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref263" level="file">
+          <did>
+            <unittitle>Retirement Dinner, May 3, 1933: Correspondence</unittitle>
+            <unitdate datechar="creation">1933 May</unitdate>
+            <container id="aspace_bdc5daf42ff5ccb1f7c92c17bd60ae89" label="Mixed Materials [31142046890227]" type="Box">25</container>
+            <container id="aspace_ab6a777693e98ac4a50c1f8f69134eaa" parent="aspace_bdc5daf42ff5ccb1f7c92c17bd60ae89" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref264" level="file">
+          <did>
+            <unittitle>Correspondence, including references to final illness</unittitle>
+            <unitdate datechar="creation">1933 May-December</unitdate>
+            <container id="aspace_aab92d4efc37e885e519e62d016cd969" label="Mixed Materials [31142046890235]" type="Box">26</container>
+            <container id="aspace_1dac777387686354af82136f55278dac" parent="aspace_aab92d4efc37e885e519e62d016cd969" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref265" level="file">
+          <did>
+            <unittitle>Correspondence, including references to final illness</unittitle>
+            <unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate>
+            <container id="aspace_312d240493db13fe1297101ae4909644" label="Mixed Materials [31142046890235]" type="Box">26</container>
+            <container id="aspace_7927e77c8c33154cfa0ad434da3424c8" parent="aspace_312d240493db13fe1297101ae4909644" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref266" level="file">
+          <did>
+            <unittitle>Award of the Legion d'honneur, August 12, 1933</unittitle>
+            <unitdate datechar="creation" normal="1933/1935" type="inclusive">1933-1935</unitdate>
+            <container id="aspace_61d321a03afcfa532c4c055f3cf060f2" label="Mixed Materials [31142046890235]" type="Box">26</container>
+            <container id="aspace_6c43ffa7fb55574976c9d0bbd717d84f" parent="aspace_61d321a03afcfa532c4c055f3cf060f2" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref267" level="file">
+          <did>
+            <unittitle>Brown House for English Studies: Letter to Finley J. Shephard and Newspaper Clipping</unittitle>
+            <unitdate datechar="creation" normal="1933/1934" type="inclusive">1933-1934</unitdate>
+            <container id="aspace_03953cd3b14e529a171e3c20c9d1c941" label="Mixed Materials [31142046890235]" type="Box">26</container>
+            <container id="aspace_4edf99c0c941240932b6a22e1878e579" parent="aspace_03953cd3b14e529a171e3c20c9d1c941" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref268" level="file">
+          <did>
+            <unittitle>European Trip, January 21 to April 3, 1934</unittitle>
+            <unitdate datechar="creation" normal="1933/1934" type="inclusive">1933-1934</unitdate>
+            <container id="aspace_792c75a40b68e4fe20ee5ad182248e20" label="Mixed Materials [31142046890235]" type="Box">26</container>
+            <container id="aspace_f06d6dd2164b52efb24d9e0d823432b8" parent="aspace_792c75a40b68e4fe20ee5ad182248e20" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref269" level="file">
+          <did>
+            <unittitle>Browning, Edward W.: Will re: Browning Prize</unittitle>
+            <unitdate datechar="creation">1934 October</unitdate>
+            <container id="aspace_66a007609c8de6fd24582854937a2b9a" label="Mixed Materials [31142046890235]" type="Box">26</container>
+            <container id="aspace_67f76d107d567c01fc25c705f64915ff" parent="aspace_66a007609c8de6fd24582854937a2b9a" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref272" level="series">
+        <did>
+          <unittitle>Series IX: Obituaries, funeral arrangements, and memorial service</unittitle>
+          <unitdate datechar="creation">1932-1935</unitdate>
+        </did>
+        <scopecontent id="aspace_b46d6b9f9fb3ad91ed92964437d07370">
+          <head>Scope and Contents note</head>
+          <p>These files include announcements of Elmer E. Brown's death, funeral arrangements, a memorial service held on January 17, 1935, and Brown's personal effects, which include insurance policies, calling cards, passport, and various clippings.</p>
+        </scopecontent>
+        <c id="aspace_ref273" level="file">
+          <did>
+            <unittitle>Announcements, Obituaries, Funeral Arrangements, Acknowledgments</unittitle>
+            <unitdate datechar="creation">1932, 1934 November</unitdate>
+            <container id="aspace_8ea90c51887c67901fa14684d5330a86" label="Mixed Materials [31142046890235]" type="Box">26</container>
+            <container id="aspace_3f75952da8b4b08f74766b377cfec221" parent="aspace_8ea90c51887c67901fa14684d5330a86" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref274" level="file">
+          <did>
+            <unittitle>Memorial Service, January 17, 1935 and Post-Death Tributes</unittitle>
+            <unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate>
+            <container id="aspace_27c3e9adb771d9d10e1103883bb68c0c" label="Mixed Materials [31142046890235]" type="Box">26</container>
+            <container id="aspace_f4bc01f0e161b071799fb765b3a05b37" parent="aspace_27c3e9adb771d9d10e1103883bb68c0c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref275" level="file">
+          <did>
+            <unittitle>Memorial Book and Letters of Acknowledgment</unittitle>
+            <unitdate datechar="creation">1935 March-December</unitdate>
+            <container id="aspace_55f48f44376b7d420e4143e342d88b0a" label="Mixed Materials [31142046890235]" type="Box">26</container>
+            <container id="aspace_8e2ae737cd56ff76cf02ffc876b9b93c" parent="aspace_55f48f44376b7d420e4143e342d88b0a" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref276" level="file">
+          <did>
+            <unittitle>Personal Effects: check stubs, Corn Exchange Bank Trust Co.; abridgment of Murray's English Grammar . . . (1823); wallet containing calling cards, clippings, and hotel credit cards; miscellaneous quotations; passport; fire insurance policy; photograph of Fanny Brown; typescript of prayer; Bible alphabet.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0ac7ac8ca43be5a56ca4872fbbd04ba4" label="Mixed Materials [31142046890243]" type="Box">27</container>
+            <container id="aspace_82777241b2a894dec5f55e7c6d87f904" parent="aspace_0ac7ac8ca43be5a56ca4872fbbd04ba4" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref279" level="series">
+        <did>
+          <unittitle>Series X. Estate papers</unittitle>
+          <unitdate datechar="creation" normal="1932/1936" type="inclusive">1932-1936</unitdate>
+        </did>
+        <scopecontent id="aspace_375d6285e71ae42b37254389a0494651">
+          <head>Scope and Contents note</head>
+          <p>The Brown estate papers include a copy of his will, an insurance policy, legal correspondence regarding stock holdings, income tax papers, miscellaneous vouchers, canceled checks and bank statements, distribution of bequests, and other miscellaneous papers.</p>
+        </scopecontent>
+        <c id="aspace_ref280" level="file">
+          <did>
+            <unittitle>Will, Life Insurance Policy</unittitle>
+            <unitdate datechar="creation" normal="1932/1935" type="inclusive">circa 1930s</unitdate>
+            <container id="aspace_29a1e47eaf43d48b14eddd1ed070a369" label="Mixed Materials [31142046890243]" type="Box">27</container>
+            <container id="aspace_205e4de60be689e9e68b3de13c464e8c" parent="aspace_29a1e47eaf43d48b14eddd1ed070a369" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref281" level="file">
+          <did>
+            <unittitle>Legal Correspondence re: Stock</unittitle>
+            <unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate>
+            <container id="aspace_dccabc167092ff6623a5a8ee91a6e81d" label="Mixed Materials [31142046890243]" type="Box">27</container>
+            <container id="aspace_ff26a78194b600abeb216a003c2261fb" parent="aspace_dccabc167092ff6623a5a8ee91a6e81d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref282" level="file">
+          <did>
+            <unittitle>Income Tax Papers</unittitle>
+            <unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate>
+            <container id="aspace_872d0ae1d79c0b4b18f37e52b4f87bc9" label="Mixed Materials [31142046890243]" type="Box">27</container>
+            <container id="aspace_9bd2b195bdfd690b5617b80a38ec7a7d" parent="aspace_872d0ae1d79c0b4b18f37e52b4f87bc9" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref283" level="file">
+          <did>
+            <unittitle>Correspondence with Ralph Folks and David Samuels, Attorneys</unittitle>
+            <unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate>
+            <container id="aspace_02dd65caabede6e841ff7a678ae04ada" label="Mixed Materials [31142046890243]" type="Box">27</container>
+            <container id="aspace_e5d35a494028ded2bc50a9c749bc0aa2" parent="aspace_02dd65caabede6e841ff7a678ae04ada" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref284" level="file">
+          <did>
+            <unittitle>Vouchers (miscellaneous)</unittitle>
+            <unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate>
+            <container id="aspace_dd6d02e2c8709070ea90b7e1e7a4412b" label="Mixed Materials [31142046890243]" type="Box">27</container>
+            <container id="aspace_11fcb1e0d5bdf544cc65b939101111fb" parent="aspace_dd6d02e2c8709070ea90b7e1e7a4412b" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref285" level="file">
+          <did>
+            <unittitle>Rent Vouchers</unittitle>
+            <unitdate datechar="creation">1934</unitdate>
+            <container id="aspace_89fcf41ea19c0540a8908692181ad1eb" label="Mixed Materials [31142046890250]" type="Box">28</container>
+            <container id="aspace_d71df263c5d8ef5326b696fdf5c4cdeb" parent="aspace_89fcf41ea19c0540a8908692181ad1eb" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref286" level="file">
+          <did>
+            <unittitle>Cancelled Checks and Bank Statements</unittitle>
+            <unitdate datechar="creation" normal="1934/1936" type="inclusive">1934-1936</unitdate>
+            <container id="aspace_9d1a52df812e8fe75a55e1a63ac74c36" label="Mixed Materials [31142046890250]" type="Box">28</container>
+            <container id="aspace_3a979031edf0443448c224cde6f9f711" parent="aspace_9d1a52df812e8fe75a55e1a63ac74c36" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref287" level="file">
+          <did>
+            <unittitle>Receipts and Checks (miscellaneous)</unittitle>
+            <unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate>
+            <container id="aspace_243def62d924c5977e04d68285d36c9a" label="Mixed Materials [31142046890250]" type="Box">28</container>
+            <container id="aspace_7cb09c18270b64fcf6ba6af769388932" parent="aspace_243def62d924c5977e04d68285d36c9a" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref288" level="file">
+          <did>
+            <unittitle>Distribution of Bequests</unittitle>
+            <unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1936</unitdate>
+            <container id="aspace_1790bc92f73626936f79fb65fad3d1ea" label="Mixed Materials [31142046890250]" type="Box">28</container>
+            <container id="aspace_a3697a4f1dbc3cecccdaad0a24d57da1" parent="aspace_1790bc92f73626936f79fb65fad3d1ea" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref289" level="file">
+          <did>
+            <unittitle>Miscellaneous Papers</unittitle>
+            <unitdate datechar="creation" normal="1934/1936" type="inclusive">1934-1936</unitdate>
+            <container id="aspace_4d0db8cc95fa85533e77d0e82362dfbb" label="Mixed Materials [31142046890250]" type="Box">28</container>
+            <container id="aspace_8971c9137a89bc90036204d29e8bf243" parent="aspace_4d0db8cc95fa85533e77d0e82362dfbb" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

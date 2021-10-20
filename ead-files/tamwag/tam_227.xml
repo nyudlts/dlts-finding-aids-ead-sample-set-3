@@ -1,0 +1,2271 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_227">tam_227</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Papers of David Thoreau Wieck and Diva Agnostinelli  <num>TAM.227</num></titleproper>
+        <author>Natasha Simon</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from wieck01cb.xml</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 04:37:12 -0400</date>.</creation>
+      <langusage>Finding aid is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>David Thoreau Wieck and Diva Agnostinelli Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Agostinelli, Diva, 1921-2007</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="naf">Wieck, David Thoreau, 1921-</persname>
+      </origination>
+      <origination label="source">
+        <persname rules="dacs" source="local">Agostinelli, Diva, 1921-2007</persname>
+      </origination>
+      <unitid>TAM.227</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">7.75 Linear Feet</extent>
+        <extent altrender="carrier">in 6 record cartons, 3 manuscript boxes and 1 oversize folder.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1913/1996" type="inclusive">1913-1996</unitdate>
+      <unitdate datechar="creation" normal="1943/1994" type="bulk">1943-1994</unitdate>
+      <abstract id="aspace_b4d004d8a5c6e1609ef3a75769b58030">David Thoreau Wieck was the son of Agnes Burns Wieck who wrote for the <title render="italic">Illinois Miner</title> and worked as an organizer for the Progressive Miners of America. Moving to New York, Wieck graduated from Columbia University and was briefly a member of the Young Communist League (circa 1935-36), but became more sympathetic to anarchism. In July 1943, he began serving a three-year sentence for being a conscientious objector. After his release, he received a Ph.D. in philosophy from Columbia University. He began teaching philosophy at Rensselaer Polytechnic Institute in 1960 and retired as Professor Emeritus in 1987. During his tenure he published numerous articles and was the author of a biography of his mother, <title render="italic">Woman from Spillertown: A Memoir of Agnes Burns Wieck </title>(Southern Illinois Press, 1992). Wieck died on July 1, 1997. These papers include some of his correspondence, clippings, memorabilia, journals (1986-93), manuscripts and notes.</abstract>
+      <langmaterial id="aspace_61cf81ce0ca6fe9c3fa782d75590990d">Materials are in English</langmaterial>
+    </did>
+    <accessrestrict id="aspace_0237d1ee9edd9a53777a6f738ae6e73b">
+      <head>Conditions Governing Access</head>
+      <p>Materials open without restriction with the exception of ten folders of restricted correspondence in Box 7. Materials are restricted until 2020.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_85d85f703b1c6ac3d86bcb77ee743b53">
+      <head>Immediate Source of Acquisition</head>
+      <p>Provenance unknown but the collection was likely donated by Diva Agnostinelli in 1998. The accession numbers associated with this collection are 1998.006, 1998.007, and NPA.2000.287.</p>
+    </acqinfo>
+    <arrangement id="aspace_66fe95d111241b78a752a7965c3151ab">
+      <head>Arrangement</head>
+      <p>The collection is organized into six series: </p>
+      <p>Series I: Biography, undated</p>
+      <p>Series II: Correspondence, 1943-1996</p>
+      <p>Series III: Diaries and Journals, 1932-1993</p>
+      <p>Series IV: Writings, 1916-1993</p>
+      <p>Series V: Graphics and Photographs, 1934-1992</p>
+      <p>Series VI: Unprocessed Material, 1952-2007.</p>
+      <p>Material is arranged alphabetically, with the exception of Series III which is arranged chronologically and Series VI which has not been arranged by an archivist.</p>
+    </arrangement>
+    <bioghist id="aspace_7e7a0c67c3e65126a88003d3d36b73e3">
+      <head>Historical/Biographical Note</head>
+      <p>David Thoreau Wieck was born in St. Louis, Missouri on December 13, 1921. Named after David Henry Thoreau, he was the son of Edward A. and Agnes Burns Wieck. His mother, known as the Mother Jones of Illinois, was the daughter of a miner. She was a writer in the middle and late 1920s for the weekly journal <title render="italic">Illinois Miner</title>, and after training with the Women's Trade Union League, she worked as an organizer for the Progressive Miners of America. His father was a self-educated coal miner and writer. In 1934 the Wiecks moved to New York City when Edward Wieck was hired as a research associate for the Russell Sage Foundation's Industrial Studies Department. David Wieck joined the Young Communist League in 1935, but by 1936 had become, in his own words, a "dissident bolshevik," much more enamored of the anarcho-syndicalists then fighting in Spain. </p>
+      <p>He enrolled at Columbia University in 1937 and graduated in 1941. He subsequently did post-graduate work toward a masters degree with Leo Wolman, writing an unpublished study of the process of centralization in the United Mine Workers of America. Registering as a conscientious objector following the Japanese attack on Pearl Harbor, he left New York City in early 1943 pending his appeal and was arrested in New Orleans for not notifying his draft board of his "change of address." In July 1943 Wieck began serving a three-year sentence at the Federal Correctional Institution in Danbury, Connecticut for refusing induction into the United States Armed Services. As prisoner #2674 Wieck was involved in numerous actions protesting racial segregation in the federal prison system. </p>
+      <p>He was released from prison in 1946 and began a life-long marriage/life-partnership with Diva Agostinelli, herself the daughter of an anarchist coal miner from Pennsylvania. In the late 1940s and early 1950s Wieck wrote for the anarchist publications <title render="italic">Why?</title>, <title render="italic">Liberation</title>, and <title render="italic">Resistance</title>. He enrolled again at Columbia University in 1956 and received a Ph.D. in Philosophy in 1961, apparently concentrating on aesthetics. He began teaching philosophy at Rensselaer Polytechnic Institute in 1960, retiring as Professor Emeritus in 1987. During his tenure he published numerous articles and reviews in professional journals and the radical press both in the United States and abroad. He was the author of a biography of his mother, <title render="italic">Woman from Spillertown: A Memoir of Agnes Burns Wieck</title> (Southern Illinois Press, 1992). Afflicted with Alzheimers Disease, Wieck died on July 1, 1997.</p>
+    </bioghist>
+    <prefercite id="aspace_e4196b6a476ec181bebf17439c8605f3">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; David Thoreau Wieck and Diva Agnostinelli Papers; TAM 227; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <processinfo id="aspace_2125c82fa8d24b8e009d530954e7227f">
+      <head>Processing Information</head>
+      <p>Photographs separated from this collection during processing were established as a separate collection, the David Thoreau Wieck Photographs (PHOTOS 149). In 2013, the photograph collection was reincorporated into the David Thoreau Wieck and Diva Agnostinelli Papers (TAM 227).</p>
+    </processinfo>
+    <relatedmaterial id="aspace_0a9dea007bd846b78577eb166415d7ce">
+      <head>Related Material</head>
+      <p>The Swarthmore College Peace Collection holds the bulk of Wieck's Danbury prison correspondence (Collection CDG-A., David Thoreau Wieck). Wayne State University's Walter P. Reuther Library holds the papers of Wieck's parents, Edward A. and Agnes Wieck.</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_a5fef87b04fffa2ef7984c6ee5265511">
+      <head>Scope and Content Note</head>
+      <p>This collection contains clippings, memorabilia, correspondence, writings and other personal materials. The bulk of the correspondence dates from between 1965 and 1992, although some letters sent to Wieck during his incarceration at Danbury Federal Correctional Institution are included here. Wieck's writings are well-represented in this collection, including his diaries and journals, as well as notes, drafts, reviews and manuscripts of published and unpublished works. These writings include drafts for the "Woman from Spillertown," "Comic as an Aesthetic Concept," "The United Mineworkers of America: A Study in Centralization," and Wieck's Masters thesis and PhD dissertation. The writings and correspondence of Wieck's parents, Agnes Burns Wieck and Edward Wieck, and his life-partner Diva Agostinelli are also included. There are a small number of photographs of Wieck's family and friends, as well as drawings produced by Wieck and others.</p>
+    </scopecontent>
+    <userestrict id="aspace_32091e78f66c2822b10f78e4d0a10425">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (and related rights to publicity and privacy) to materials in this collection created by David Thoreau Wieck and Diva Agnostinelli was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Drawings (visual works)</genreform>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <genreform source="aat">Photographs.</genreform>
+      <genreform source="aat">Graphic arts</genreform>
+      <subject source="lcsh">Conscientious objectors |z United States.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Typescripts</genreform>
+      <genreform source="aat">Diaries</genreform>
+      <subject source="lcsh">Anarchists -- United States.</subject>
+      <persname rules="dacs" source="naf">Bookchin, Murray, 1921-2006</persname>
+      <persname source="naf">Dellinger, David T., 1915-2004</persname>
+      <persname source="naf">Baldelli, Giovanni</persname>
+      <persname source="naf">Avrich, Paul</persname>
+      <persname source="naf">Bennett, Clif</persname>
+      <persname source="naf">Benello, C. George</persname>
+      <persname source="naf">Cantine, Holley R.</persname>
+      <persname source="naf">Deutsch, Eliot</persname>
+      <persname rules="aacr" source="local">Koven, David</persname>
+      <persname source="naf">Labadie, Laurance, 1896-1975</persname>
+      <persname rules="aacr" source="local">DeWees, Daniel</persname>
+      <persname rules="aacr" source="local">Goodfriend, Audrey</persname>
+      <persname source="naf">Mac Low, Jackson</persname>
+      <persname source="naf">Naeve, Lowell</persname>
+      <persname rules="dacs" source="local">Lind, Ian</persname>
+      <persname rules="dacs" source="local">Lind, Meda</persname>
+      <persname source="naf">Stoehr, Taylor, 1931-2013</persname>
+      <persname source="naf">Stone, Ralph W. (Ralph Walter), 1876-1964</persname>
+      <persname source="naf">Perry, Ruth, 1943-</persname>
+      <persname source="naf">Rainer, Dachine</persname>
+      <persname source="naf">Wieck, David Thoreau, 1921-</persname>
+      <persname source="ingest">Williams, Paul.</persname>
+      <persname source="ingest">Williams, Vera</persname>
+      <persname role="fmo" rules="dacs" source="local">Agostinelli, Diva, 1921-2007</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref11" level="series">
+        <did>
+          <unittitle>Series I: Biography</unittitle>
+          <unitdate datechar="creation" normal="1913/1996" type="inclusive">undated</unitdate>
+        </did>
+        <c id="aspace_ref12" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Biography</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_3214f3803a617a173ce09cc82924af2a" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_9c7c7b37f29f87e9fc8aaba1d687d996" parent="aspace_3214f3803a617a173ce09cc82924af2a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Personal</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_19d0b396b9aa47b4159374dcf9d28231" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_0b576483c41018d962b3cdf31bb7ed53" parent="aspace_19d0b396b9aa47b4159374dcf9d28231" type="Folder">1a</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref14" level="series">
+        <did>
+          <unittitle>Series II: Correspondence</unittitle>
+          <unitdate datechar="creation" normal="1943/1996" type="inclusive">1943-1996</unitdate>
+        </did>
+        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Adams, Frank, Margaret</unittitle>
+            <unitdate datechar="creation" normal="1976/1992" type="inclusive">1976-1992</unitdate>
+            <container altrender="Record carton" id="aspace_9b959a67ac886694195f50132892a526" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_a9afa6009a61232cf511f47dc5f30dc1" parent="aspace_9b959a67ac886694195f50132892a526" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Agostinelli, Diva</unittitle>
+            <unitdate datechar="creation" normal="1953/1992" type="inclusive">1953-1992</unitdate>
+            <container altrender="Record carton" id="aspace_0cc3ca35810531b0ade781ac8fbfe310" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_ab0bfec20bcaffe0bbc9525ac6e527fd" parent="aspace_0cc3ca35810531b0ade781ac8fbfe310" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Agostinelli, Diva</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_1c2fe8383e5f8d40e1855b4da24dc97d" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_e1e37b243abaf1c0fca3858ba542520b" parent="aspace_1c2fe8383e5f8d40e1855b4da24dc97d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Avrich, Paul</unittitle>
+            <unitdate datechar="creation" normal="1974/1992" type="inclusive">1974-1992</unitdate>
+            <container altrender="Record carton" id="aspace_099887ec7ee439fbae8f9ca746bd8449" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_9d5b7e35c2c3386abbf36d12a03ca100" parent="aspace_099887ec7ee439fbae8f9ca746bd8449" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baldelli, Benvenuto, Giavanna</unittitle>
+            <unitdate datechar="creation" normal="1986/1988" type="inclusive">1986-1988</unitdate>
+            <container altrender="Record carton" id="aspace_12eca97f828f0a460fb8b53dc034a8b8" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_42896e3e059109592fa275bd4bc85786" parent="aspace_12eca97f828f0a460fb8b53dc034a8b8" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baldelli, Giovanni</unittitle>
+            <unitdate datechar="creation" normal="1970/1973" type="inclusive">1970-1973</unitdate>
+            <container altrender="Record carton" id="aspace_5a2da6eeaece563fb2996ab4b3eac083" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_c1cf92778c915afd0cc2c5021c68bd82" parent="aspace_5a2da6eeaece563fb2996ab4b3eac083" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baldelli, Giovanni</unittitle>
+            <unitdate datechar="creation" normal="1974/1979" type="inclusive">1974-1979</unitdate>
+            <container altrender="Record carton" id="aspace_4a991323e446497a3ce54cc5a920e681" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_73c29511f275ded9cc7ebcfa203405bf" parent="aspace_4a991323e446497a3ce54cc5a920e681" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baldelli, Giovanni</unittitle>
+            <unitdate datechar="creation" normal="1980/1984" type="inclusive">1980-1984</unitdate>
+            <container altrender="Record carton" id="aspace_64cfa8860cf37644d6cf0dc14707094a" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_eed3aab9f6b401a1165510bdcdbec753" parent="aspace_64cfa8860cf37644d6cf0dc14707094a" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Baldelli, Patricia</unittitle>
+            <unitdate datechar="creation" normal="1977/1987" type="inclusive">1977-1987</unitdate>
+            <container altrender="Record carton" id="aspace_f2e2cca4517dd3900e73ba04b3166fe8" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_233de1fb3131ceee6ddc685daccd5b88" parent="aspace_f2e2cca4517dd3900e73ba04b3166fe8" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Benello, George</unittitle>
+            <unitdate datechar="creation" normal="1976/1980" type="inclusive">1976-1980</unitdate>
+            <container altrender="Record carton" id="aspace_6bcb6418634cb802fa39b211ffb62ab6" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_e56b7edb4c1a253f945757cb6fec981e" parent="aspace_6bcb6418634cb802fa39b211ffb62ab6" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bennett, Clif</unittitle>
+            <unitdate datechar="creation" normal="1989/1992" type="inclusive">1989-1992</unitdate>
+            <container altrender="Record carton" id="aspace_017030aa8ae1ddd4ce05f1f04946e14a" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_6c7229be7cd2aad727f8fb6b97107e6b" parent="aspace_017030aa8ae1ddd4ce05f1f04946e14a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bookchin, Murray/ New England Anarchist Conferences</unittitle>
+            <unitdate datechar="creation" normal="1966/1982" type="inclusive">1966-1982</unitdate>
+            <container altrender="Record carton" id="aspace_2532b151179d7c58c6d3b341d4c8d011" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_7d5accfc8f1d9ea9ea7fe0a828d75471" parent="aspace_2532b151179d7c58c6d3b341d4c8d011" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Burns, Kevin</unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+            <container altrender="Record carton" id="aspace_c4e2fa0086bc9f783c64133a721a6f09" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_e50ede535380c926f84863196e5e1fe6" parent="aspace_c4e2fa0086bc9f783c64133a721a6f09" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Burns, Patrick, Lois</unittitle>
+            <unitdate datechar="creation" normal="1962/1995" type="inclusive">1962-1995</unitdate>
+            <container altrender="Record carton" id="aspace_62faeaf3c73526b8806e845b2b9df33e" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_c389ea770464daf52f6679a411fd043b" parent="aspace_62faeaf3c73526b8806e845b2b9df33e" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Calese, Bob (Robert S.)</unittitle>
+            <unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate>
+            <container altrender="Record carton" id="aspace_d026e5bcdb28cf6a053ba680d57bf7c2" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_42d6177b53c19d1126b3955b9e82eb14" parent="aspace_d026e5bcdb28cf6a053ba680d57bf7c2" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Cantine, Holley and Rainer, Dachine</unittitle>
+            <unitdate datechar="creation" normal="1969/1990" type="inclusive">1969-1990</unitdate>
+            <container altrender="Record carton" id="aspace_fae5f5fd6131e9fbcccb7d416c52a5d2" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_349ecc95febca2236a0d9f47b691b196" parent="aspace_fae5f5fd6131e9fbcccb7d416c52a5d2" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Clark, John</unittitle>
+            <unitdate datechar="creation" normal="1977/1987" type="inclusive">1977-1987</unitdate>
+            <container altrender="Record carton" id="aspace_2b593369374aaabcb85c31f706414940" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_a7c940a637e7339f25c2226452c481a5" parent="aspace_2b593369374aaabcb85c31f706414940" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Coughlin, Michael E.</unittitle>
+            <unitdate datechar="creation" normal="1977/1988" type="inclusive">1977-1988</unitdate>
+            <container altrender="Record carton" id="aspace_20271ace02be1f3d5ed2d8fd08d2f5e3" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_7578c019e0988ac4dfcc858ede6aa5c9" parent="aspace_20271ace02be1f3d5ed2d8fd08d2f5e3" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Danbury letters</unittitle>
+            <unitdate datechar="creation" normal="1943/1946" type="inclusive">1943-1946</unitdate>
+            <container altrender="Record carton" id="aspace_771411beeb2f4856a58d29308578c750" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_91f4218312b3ed686da596ef2dfa03df" parent="aspace_771411beeb2f4856a58d29308578c750" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Danbury letters: Chaim Sklover</unittitle>
+            <unitdate datechar="creation" normal="1943/1945" type="inclusive">1943-1945</unitdate>
+            <container altrender="Record carton" id="aspace_86a2c8c9ffe642e500398c5998fc1c25" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_96d52239967a7a6fefaa052db6e461d0" parent="aspace_86a2c8c9ffe642e500398c5998fc1c25" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>D'Attilio, Bob/ Black Rose</unittitle>
+            <unitdate datechar="creation" normal="1972/1982" type="inclusive">1972-1982</unitdate>
+            <container altrender="Record carton" id="aspace_b2645d130351387304b8cb05891df362" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_834478248cce782b66d4dcebd9619509" parent="aspace_b2645d130351387304b8cb05891df362" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Deutsch, Eliot</unittitle>
+            <unitdate datechar="creation">1963-1968</unitdate>
+            <container altrender="Record carton" id="aspace_e5d8e51b8fdaeae576d9c76d628d510c" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_00723031f99723b70091f2adfcc854e6" parent="aspace_e5d8e51b8fdaeae576d9c76d628d510c" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Deutsch, Eliot</unittitle>
+            <unitdate datechar="creation" normal="1969/1976" type="inclusive">1969-1976</unitdate>
+            <container altrender="Record carton" id="aspace_66d8301a3676df22b0c3ba173958835f" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_a68a76f3234a844208f07ed01c1607f0" parent="aspace_66d8301a3676df22b0c3ba173958835f" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Deutsch, Eliot</unittitle>
+            <unitdate datechar="creation" normal="1977/1991" type="inclusive">1977-1991</unitdate>
+            <container altrender="Record carton" id="aspace_381ecb0eb7f8a6788c9041eb759e20ba" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_4979aec1b445ceedb6357ff5fe928944" parent="aspace_381ecb0eb7f8a6788c9041eb759e20ba" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Deutsch, Eliot</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_ca3203b15e56375fd080f63e704c6ed9" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_ea4dcdeb0ecd1f39849c762ce4ae0445" parent="aspace_ca3203b15e56375fd080f63e704c6ed9" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>DeWeeds, Daniel</unittitle>
+            <unitdate datechar="creation" normal="1964/1992" type="inclusive">1964-1992</unitdate>
+            <container altrender="Record carton" id="aspace_f60b90ed6f84cab6ab88d2e5ef243e28" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_a526c4c09f9232deeede2cd8e2bfb385" parent="aspace_f60b90ed6f84cab6ab88d2e5ef243e28" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Editrice A / Finzi, Paolo, Aurora</unittitle>
+            <unitdate datechar="creation" normal="1979/1990" type="inclusive">1979-1990</unitdate>
+            <container altrender="Record carton" id="aspace_75cd80cc3f38ee56f6bc0915bc171f5d" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_79106adff0201c396e4180ef4da9c437" parent="aspace_75cd80cc3f38ee56f6bc0915bc171f5d" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Efron, Arthur</unittitle>
+            <unitdate datechar="creation" normal="1976/1978" type="inclusive">1976-1978</unitdate>
+            <container altrender="Record carton" id="aspace_233c603fa90aaba326e8972b31beecb2" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_2d011e0313ad758ffb4be182cca5d6f9" parent="aspace_233c603fa90aaba326e8972b31beecb2" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Einarsson, Peter</unittitle>
+            <unitdate datechar="creation" normal="1982/1988" type="inclusive">1982-1988</unitdate>
+            <container altrender="Record carton" id="aspace_dd562b00e93fe9b55ecd6ba1858c3654" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_aa3ffb354bf3516037f0d3345702b874" parent="aspace_dd562b00e93fe9b55ecd6ba1858c3654" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Feldman, Irving</unittitle>
+            <unitdate datechar="creation" normal="1965/1992" type="inclusive">1965-1992</unitdate>
+            <container altrender="Record carton" id="aspace_94043d75c1a72ad2d734898da213ffcd" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_d2f0205712d03834297a6fcfebd92f6c" parent="aspace_94043d75c1a72ad2d734898da213ffcd" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Ferguson, Kathy</unittitle>
+            <unitdate datechar="creation" normal="1980/1982" type="inclusive">1980-1982</unitdate>
+            <container altrender="Record carton" id="aspace_10eaeeda736a17cc2067e4d51a7ecd38" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_14f679e65c26ed0cc44158fd69509d71" parent="aspace_10eaeeda736a17cc2067e4d51a7ecd38" type="Folder">31a</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Free Association</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_3ea6bf8ff145530a74ea93f9425fb26a" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_3c3c06cd8dd64a8c143433dac4396c28" parent="aspace_3ea6bf8ff145530a74ea93f9425fb26a" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Freedom Press/ Raven/ Richards, Vernon (Vero)/ Ward, Colin</unittitle>
+            <unitdate datechar="creation" normal="1958/1992" type="inclusive">1958-1992</unitdate>
+            <container altrender="Record carton" id="aspace_cff92c222b76f4eeea402230255703a3" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_785f35ac243e0e59ea475c172a5b328d" parent="aspace_cff92c222b76f4eeea402230255703a3" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Friends of Malatesta/ Convocations Board/ Dickens, Bob</unittitle>
+            <unitdate datechar="creation" normal="1971/1974" type="inclusive">1971-1974</unitdate>
+            <container altrender="Record carton" id="aspace_cc45874f117499c80aba0041d4d4aba8" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_a883d3dd9288f5225e17388bb7089a1a" parent="aspace_cc45874f117499c80aba0041d4d4aba8" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gartner, Dan</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Record carton" id="aspace_30082bad3cf30f3fda20e4b2a206e851" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_04778118410775688e5e3e75fc366580" parent="aspace_30082bad3cf30f3fda20e4b2a206e851" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Goodfriend, Audrey</unittitle>
+            <unitdate datechar="creation" normal="1961/1992" type="inclusive">1961-1992</unitdate>
+            <container altrender="Record carton" id="aspace_94c564136a17f7a6b953387fe052078a" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_dd806e628171e716f52e3ce16bfe6461" parent="aspace_94c564136a17f7a6b953387fe052078a" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Grant, Alma</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container altrender="Record carton" id="aspace_d637981703e4992043b04527d735ff41" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_a2aa2d0caa8ebb54804de4b240aae3af" parent="aspace_d637981703e4992043b04527d735ff41" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Grudin, Betty, Arnold</unittitle>
+            <unitdate datechar="creation" normal="1971/1992" type="inclusive">1971-1992</unitdate>
+            <container altrender="Record carton" id="aspace_70e68d3ef99c8eb03b4fb83ecc1aede6" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_79554951a038f7b8de9e2e597f95e578" parent="aspace_70e68d3ef99c8eb03b4fb83ecc1aede6" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Hallon, Bob, Dorothy</unittitle>
+            <unitdate datechar="creation" normal="1970/1976" type="inclusive">1970-1976</unitdate>
+            <container altrender="Record carton" id="aspace_3843d079d7c5f9aa8bd47507f95943dc" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_244bff3f937b642b790a7c83324b81fa" parent="aspace_3843d079d7c5f9aa8bd47507f95943dc" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Hunt, Nancy/ Sangamon University</unittitle>
+            <unitdate datechar="creation" normal="1983/1984" type="inclusive">1983-1984</unitdate>
+            <container altrender="Record carton" id="aspace_ba171e1d7b24c406791c61325ed0d04b" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_38e1131b8a303fde104cd5d1f6153bd4" parent="aspace_ba171e1d7b24c406791c61325ed0d04b" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jackson, T.R.</unittitle>
+            <unitdate datechar="creation" normal="1966/1972" type="inclusive">1966-1972</unitdate>
+            <container altrender="Record carton" id="aspace_ca6d81db1db2b7647107204da2f9b302" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_ad49317a2279f7307a251628566b3795" parent="aspace_ca6d81db1db2b7647107204da2f9b302" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Joughlin, Louis, Jean</unittitle>
+            <unitdate datechar="creation" normal="1979/1982" type="inclusive">1979-1982</unitdate>
+            <container altrender="Record carton" id="aspace_b999a9c8a2d00b877967e106aa60f699" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_e71e07d4a21c8a1a4e48f484c32db83a" parent="aspace_b999a9c8a2d00b877967e106aa60f699" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Koven, David</unittitle>
+            <unitdate datechar="creation" normal="1958/1969" type="inclusive">1958-1969</unitdate>
+            <container altrender="Record carton" id="aspace_587d76c37e62ea11be42de6355d927df" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_ed645a43af4caee27343c007dcba99f9" parent="aspace_587d76c37e62ea11be42de6355d927df" type="Folder">42a</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Koven, David</unittitle>
+            <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate>
+            <container altrender="Record carton" id="aspace_f76ae4ce0129c47acd07866f03ced678" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_738750e2e3aea1143334f2209ffb34c0" parent="aspace_f76ae4ce0129c47acd07866f03ced678" type="Folder">42b</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Koven, David</unittitle>
+            <unitdate datechar="creation" normal="1980/1988" type="inclusive">1980-1988</unitdate>
+            <container altrender="Record carton" id="aspace_c2e97ad5061bd7d44e9a50b759f03561" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_f8ffa533647a7df9ec88000d80062e68" parent="aspace_c2e97ad5061bd7d44e9a50b759f03561" type="Folder">42c</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Koven, David</unittitle>
+            <unitdate datechar="creation" normal="1989/1996" type="inclusive">1989-1996</unitdate>
+            <container altrender="Record carton" id="aspace_29f45b72f518fcbc335eed3fa3be2ad6" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_3adf6b6d23201b6560138247eed0364f" parent="aspace_29f45b72f518fcbc335eed3fa3be2ad6" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Koven, David</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_4ca0bf6bd51b24b920dfbbf23420d815" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_08af74423fb293ce1126961f88f64dba" parent="aspace_4ca0bf6bd51b24b920dfbbf23420d815" type="Folder">42e</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Labadie, Laurance</unittitle>
+            <unitdate datechar="creation" normal="1958/1965" type="inclusive">1958-1965</unitdate>
+            <container altrender="Record carton" id="aspace_3088f5b78273c1ebc8b30adcf829a4e7" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_e326b4065781a1053b4adeceae5f198b" parent="aspace_3088f5b78273c1ebc8b30adcf829a4e7" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Laslett, John H. M.</unittitle>
+            <unitdate datechar="creation" normal="1986/1992" type="inclusive">1986-1992</unitdate>
+            <container altrender="Record carton" id="aspace_74859cccae2a5e3dd1323e8aadfe826e" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_526fc4070455a38e3c0ff2bdaa3fa412" parent="aspace_74859cccae2a5e3dd1323e8aadfe826e" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Liberation/ Dellinger, Dave</unittitle>
+            <unitdate datechar="creation">1962-1974</unitdate>
+            <container altrender="Record carton" id="aspace_91a664f0889715de297070ca91660bd4" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_37aae66616876294b7521a108358c61c" parent="aspace_91a664f0889715de297070ca91660bd4" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Lind, Meda and Ian</unittitle>
+            <unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate>
+            <container altrender="Record carton" id="aspace_17b5bba830ba0928e74292e7a9f69770" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_ca12684bc2a7bbc90cdc6e414f933c9f" parent="aspace_17b5bba830ba0928e74292e7a9f69770" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Lind, Meda and Ian</unittitle>
+            <unitdate datechar="creation" normal="1980/1983" type="inclusive">1980-1983</unitdate>
+            <container altrender="Record carton" id="aspace_582cf8bb4afe53563c32fc872edfbd42" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_76cc5dc93f454bd255cc1a9b537142c4" parent="aspace_582cf8bb4afe53563c32fc872edfbd42" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Lind, Meda and Ian</unittitle>
+            <unitdate datechar="creation" normal="1984/1992" type="inclusive">1984-1992</unitdate>
+            <container altrender="Record carton" id="aspace_349320c795240fc46ff703935547af6f" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_bf8caa6a509154afb81c76ed71798456" parent="aspace_349320c795240fc46ff703935547af6f" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Linden, Lou and Yolanda</unittitle>
+            <unitdate datechar="creation" normal="1982/1984" type="inclusive">1982-1984</unitdate>
+            <container altrender="Record carton" id="aspace_dcb9ad66a96b987f66812a7eea798154" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_965c2fe68785eb16ec91e75feb1cf922" parent="aspace_dcb9ad66a96b987f66812a7eea798154" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mac Low, Jackson</unittitle>
+            <unitdate datechar="creation" normal="1961/1995" type="inclusive">1961-1995</unitdate>
+            <container altrender="Record carton" id="aspace_cd850e025f76daaf4429ae865aa788cc" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_66118f777aeaa3579151d4679dc74797" parent="aspace_cd850e025f76daaf4429ae865aa788cc" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mayer, Ada and Hank</unittitle>
+            <unitdate datechar="creation">1971-1992</unitdate>
+            <container altrender="Record carton" id="aspace_e7343d13ca3e8aea16f888946a808f91" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_1aab66641158ec59de90242cc373893f" parent="aspace_e7343d13ca3e8aea16f888946a808f91" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation" normal="1948/1975" type="inclusive">1948-1975</unitdate>
+            <container altrender="Record carton" id="aspace_6fe18ced8bd6099c77ac8d8e93544f39" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_a4a1bda09c52ad468e813f8be2512036" parent="aspace_6fe18ced8bd6099c77ac8d8e93544f39" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation" normal="1976/1980" type="inclusive">1976-1980</unitdate>
+            <container altrender="Record carton" id="aspace_6d79b787af7df4ad66a52f8a49943727" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_415339936484894ec71355cb5a6ab4a2" parent="aspace_6d79b787af7df4ad66a52f8a49943727" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation" normal="1981/1989" type="inclusive">1981-1989</unitdate>
+            <container altrender="Record carton" id="aspace_e8d128a4d8a9d955a5533b13c877d6ea" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_7ecaf74c2fc21300ef3b4242dd7d2866" parent="aspace_e8d128a4d8a9d955a5533b13c877d6ea" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation" normal="1990/1995" type="inclusive">1990-1995</unitdate>
+            <container altrender="Record carton" id="aspace_d45cdc2409099ea4db5d47893f7fb02b" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_030ba8e3cf8693ea28aba2f368ec9c24" parent="aspace_d45cdc2409099ea4db5d47893f7fb02b" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_da94a88f0b955efd347a067cba8ad1df" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_e88fcd57f48270314b5803b701c24525" parent="aspace_da94a88f0b955efd347a067cba8ad1df" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Naeve, Lowell, Virginia</unittitle>
+            <unitdate datechar="creation" normal="1959/1977" type="inclusive">1959-1977</unitdate>
+            <container altrender="Record carton" id="aspace_daa0e00bbda032f8566a1bff1839e50f" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_c1da5f59064e1c23273af20dd18c1251" parent="aspace_daa0e00bbda032f8566a1bff1839e50f" type="Folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Naeve, Lowell, Virginia</unittitle>
+            <unitdate datechar="creation" normal="1980/1994" type="inclusive">1980-1994</unitdate>
+            <container altrender="Record carton" id="aspace_6ce63756d3f7ccf07a5d6b193ba19bb7" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_ababe5e8a2af303a981d281eb67eb374" parent="aspace_6ce63756d3f7ccf07a5d6b193ba19bb7" type="Folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Naeve, Lowell, Virginia</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Record carton" id="aspace_a27300dfcfb7dc60171da7240ae41083" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_8852bc30903514a8a62ba76af48bb0dd" parent="aspace_a27300dfcfb7dc60171da7240ae41083" type="Folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Nelson, Juanita, Wally</unittitle>
+            <unitdate datechar="creation" normal="1977/1995" type="inclusive">1977-1995</unitdate>
+            <container altrender="Record carton" id="aspace_723b36fe6802221eada63fe856802437" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_f639e5f9052dcb5a4cbca40fd0997ce8" parent="aspace_723b36fe6802221eada63fe856802437" type="Folder">59a</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Norwood, Stephen</unittitle>
+            <unitdate datechar="creation" normal="1982/1989" type="inclusive">1982-1989</unitdate>
+            <container altrender="Record carton" id="aspace_43b82cede16d6300f4f082c743c2a213" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_2dd6c10e789b62a02fcdce48e533ab4b" parent="aspace_43b82cede16d6300f4f082c743c2a213" type="Folder">60</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Owens, Juanita</unittitle>
+            <unitdate datechar="creation" normal="1965/1989" type="inclusive">1965-1989</unitdate>
+            <container altrender="Record carton" id="aspace_5839347c0972bf62722173dd4ea79160" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_d2187b5dc2cdf97b32ad01707f3e3efa" parent="aspace_5839347c0972bf62722173dd4ea79160" type="Folder">60a</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Peck, Jim</unittitle>
+            <unitdate datechar="creation" normal="1966/1990" type="inclusive">1966-1990</unitdate>
+            <container altrender="Record carton" id="aspace_a0769739b544dfdc2fa0da0c51ba31ac" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_d20031011e43c0b6f6ea94f6d9a63a68" parent="aspace_a0769739b544dfdc2fa0da0c51ba31ac" type="Folder">61</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Porter, David</unittitle>
+            <unitdate datechar="creation" normal="1981/1990" type="inclusive">1981-1990</unitdate>
+            <container altrender="Record carton" id="aspace_411249509b39f13f1227b12f146df464" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_f701a047e11af9c123ef2944cd972066" parent="aspace_411249509b39f13f1227b12f146df464" type="Folder">62</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publishers</unittitle>
+            <unitdate datechar="creation" normal="1983/1989" type="inclusive">1983-1989</unitdate>
+            <container altrender="Record carton" id="aspace_10ff0970bcdc61bd511c878bdd8e03ca" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_da3b3beccbd0367a9f42be66bd7d884d" parent="aspace_10ff0970bcdc61bd511c878bdd8e03ca" type="Folder">63</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publishers relating to Woman from Spillertown</unittitle>
+            <unitdate datechar="creation" normal="1988/1992" type="inclusive">1988-1992</unitdate>
+            <container altrender="Record carton" id="aspace_44d406326361ba194ea0afa179bbcea5" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_64a680f97e1a1012d50eb2aa5a61ae3e" parent="aspace_44d406326361ba194ea0afa179bbcea5" type="Folder">64</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Rasmussen, Paul/ Order of the Blade and the Whet-Stone</unittitle>
+            <unitdate datechar="creation" normal="1985/1990" type="inclusive">1985-1990</unitdate>
+            <container altrender="Record carton" id="aspace_1aaf8fa0acecacc488b8af5b0dbf23d3" label="Mixed Materials [31142062884344]" type="Box">1</container>
+            <container id="aspace_c200904f7b64def76c0fc74d61a6b99c" parent="aspace_1aaf8fa0acecacc488b8af5b0dbf23d3" type="Folder">65</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref87" level="series">
+        <did>
+          <unittitle>Series III: Diaries and Journals</unittitle>
+          <unitdate datechar="creation" normal="1932/1993" type="inclusive">1932-1993</unitdate>
+        </did>
+        <c id="aspace_ref88" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Diary</unittitle>
+            <unitdate datechar="creation" normal="1932/1932" type="inclusive">1932</unitdate>
+            <container altrender="Record carton" id="aspace_738dba548efce6b9d87854cf7883d692" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_bd0ee624c401222bfd428dff9a4d6af2" parent="aspace_738dba548efce6b9d87854cf7883d692" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Diary</unittitle>
+            <unitdate datechar="creation" normal="1947/1948" type="inclusive">1947-1948</unitdate>
+            <container altrender="Record carton" id="aspace_cf6e15ce69fe4681c2be58a324297fbd" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_279a88ddd05d35895e0cf061ff1ab719" parent="aspace_cf6e15ce69fe4681c2be58a324297fbd" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Diary</unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Record carton" id="aspace_c22ba1fcec56f3fa98bf9bb13e72fcff" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_7a6796d8c832eb9d82f7f57dcefc3922" parent="aspace_c22ba1fcec56f3fa98bf9bb13e72fcff" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Diary</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container altrender="Record carton" id="aspace_450c89df3d67a83af70aed965bc0a995" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_8a15fe60a8603613c4ed36c1770fd427" parent="aspace_450c89df3d67a83af70aed965bc0a995" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Journal</unittitle>
+            <unitdate datechar="creation">1972</unitdate>
+            <container altrender="Record carton" id="aspace_941d3fca49e7ea43cc725b10d69023fa" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_69de81c7c21f85ec24f2b4625cad93d9" parent="aspace_941d3fca49e7ea43cc725b10d69023fa" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Journal</unittitle>
+            <unitdate datechar="creation" normal="1973/1980" type="inclusive">1973-1980</unitdate>
+            <container altrender="Record carton" id="aspace_f4d5c435862d0613ada822d9af556526" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_9aef981a779918d17e18e269320c5e72" parent="aspace_f4d5c435862d0613ada822d9af556526" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Journal</unittitle>
+            <unitdate datechar="creation">1972-1986</unitdate>
+            <container altrender="Record carton" id="aspace_38bd366e3f277eeaa41310c3b845d14b" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_e41b3e470be498b777e0d2d16e6aee5f" parent="aspace_38bd366e3f277eeaa41310c3b845d14b" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Journal</unittitle>
+            <unitdate datechar="creation">Aug 1986-Dec 1986</unitdate>
+            <container altrender="Record carton" id="aspace_1b6c9db42c85e5a84e4a90d162b219f7" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_e2f6adb00316bc556264f7ef7f6ea680" parent="aspace_1b6c9db42c85e5a84e4a90d162b219f7" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Diary</unittitle>
+            <unitdate datechar="creation">Jan 1987-Apr 1987</unitdate>
+            <container altrender="Record carton" id="aspace_45e2ab0cfc9da49e205020d1d861ea1a" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_8878868027eb66ced2ccadf42631439e" parent="aspace_45e2ab0cfc9da49e205020d1d861ea1a" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Diary</unittitle>
+            <unitdate datechar="creation">May 1987-Aug 1987</unitdate>
+            <container altrender="Record carton" id="aspace_94ab3f341c71dc17b950eff130197fd0" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_568eb3b9174f0749dc6697acb9f42f87" parent="aspace_94ab3f341c71dc17b950eff130197fd0" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Diary</unittitle>
+            <unitdate datechar="creation">Sep 1987-Dec 1987</unitdate>
+            <container altrender="Record carton" id="aspace_cfe9ff9e0839243bb209028191a17c92" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_939ca03a78dd81c060cc393e52f0152e" parent="aspace_cfe9ff9e0839243bb209028191a17c92" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Diary</unittitle>
+            <unitdate datechar="creation">Jan 1988-Apr 1988</unitdate>
+            <container altrender="Record carton" id="aspace_47118c61a38b7a2acf0e85d9e265dc39" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_35734cbcc251e6f697e04614d3395900" parent="aspace_47118c61a38b7a2acf0e85d9e265dc39" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Diary</unittitle>
+            <unitdate datechar="creation">May 1988-Aug 1988</unitdate>
+            <container altrender="Record carton" id="aspace_05ed9bd75275b68d6357efd063b44dd6" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_0dbf8e5bd757c8c1d43881f9ac7c7e8e" parent="aspace_05ed9bd75275b68d6357efd063b44dd6" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Diary</unittitle>
+            <unitdate datechar="creation">Sep 1988-Dec 1988</unitdate>
+            <container altrender="Record carton" id="aspace_d2dc74d8c63f5d6d351513ca9cf323a2" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_ef7126f1199b7369eedf210274bb2681" parent="aspace_d2dc74d8c63f5d6d351513ca9cf323a2" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Diary</unittitle>
+            <unitdate datechar="creation">Dec 1988-Jul 1991</unitdate>
+            <container altrender="Record carton" id="aspace_dc7f8065b08caab8624bca5aeccf6708" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_987c1d8a4a2577f1f167e5052b7f8797" parent="aspace_dc7f8065b08caab8624bca5aeccf6708" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Diary</unittitle>
+            <unitdate datechar="creation">Jul 1991-Oct 1992</unitdate>
+            <container altrender="Record carton" id="aspace_100edc3f791e9db066361a7a777a5e3b" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_dcbf7cce479fb78ee772a0ec6231edaa" parent="aspace_100edc3f791e9db066361a7a777a5e3b" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Diary</unittitle>
+            <unitdate datechar="creation">Oct 1992-Oct 1993</unitdate>
+            <container altrender="Record carton" id="aspace_7c66c9cb82c473c630c6f1b653af7aad" label="Mixed Materials [31142062884351]" type="Box">2</container>
+            <container id="aspace_45a4737891750f5d842a8fc48a6d0da1" parent="aspace_7c66c9cb82c473c630c6f1b653af7aad" type="Folder">39</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref105" level="series">
+        <did>
+          <unittitle>Series IV: Writings</unittitle>
+          <unitdate datechar="creation" normal="1916/1993" type="inclusive">1916-1993</unitdate>
+        </did>
+        <c id="aspace_ref106" level="subseries">
+          <did>
+            <unittitle>Subseries A: Philosophy Notes.</unittitle>
+          </did>
+          <c id="aspace_ref107" level="file">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Nov 1956-Jan 1957</unitdate>
+              <container altrender="Record carton" id="aspace_b03d1c9543fe8f6ea407146620dd7818" label="Mixed Materials [31142062884351]" type="Box">2</container>
+              <container id="aspace_1bb28fc737a96f244c6cf3de622c1010" parent="aspace_b03d1c9543fe8f6ea407146620dd7818" type="Folder">40</container>
+            </did>
+          </c>
+          <c id="aspace_ref108" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Feb 1957-Mar 1957</unitdate>
+              <container altrender="Record carton" id="aspace_b8a64e972dab25d634b62ba9adee4717" label="Mixed Materials [31142062884351]" type="Box">2</container>
+              <container id="aspace_f14705c0f90e7446a594eb583ae88b4e" parent="aspace_b8a64e972dab25d634b62ba9adee4717" type="Folder">41</container>
+            </did>
+          </c>
+          <c id="aspace_ref109" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Sep 1957</unitdate>
+              <container altrender="Record carton" id="aspace_3fccb69dd936a4e6fa61a2040136dd9c" label="Mixed Materials [31142062884351]" type="Box">2</container>
+              <container id="aspace_58a8f9bfca95434b999262f409425788" parent="aspace_3fccb69dd936a4e6fa61a2040136dd9c" type="Folder">42</container>
+            </did>
+          </c>
+          <c id="aspace_ref110" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Dec 1958</unitdate>
+              <container altrender="Record carton" id="aspace_069049d00d12c35afa8e1463f5be4346" label="Mixed Materials [31142062884351]" type="Box">2</container>
+              <container id="aspace_9a765b6c04508dce4a892677005ef526" parent="aspace_069049d00d12c35afa8e1463f5be4346" type="Folder">43</container>
+            </did>
+          </c>
+          <c id="aspace_ref111" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Jul 1959</unitdate>
+              <container altrender="Record carton" id="aspace_948e6efd2a47c0bdcd56903c6a1370fd" label="Mixed Materials [31142062884351]" type="Box">2</container>
+              <container id="aspace_4b1532400e8877a5ca21006068ccb8d6" parent="aspace_948e6efd2a47c0bdcd56903c6a1370fd" type="Folder">44</container>
+            </did>
+          </c>
+          <c id="aspace_ref112" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Jul 1959</unitdate>
+              <container altrender="Record carton" id="aspace_d55f25706cf6139d2275ca0944dabdf2" label="Mixed Materials [31142062884351]" type="Box">2</container>
+              <container id="aspace_1fd3aa2e6fed4c2ee14ce9381ffe63d0" parent="aspace_d55f25706cf6139d2275ca0944dabdf2" type="Folder">44</container>
+            </did>
+          </c>
+          <c id="aspace_ref113" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Feb 1960</unitdate>
+              <container altrender="Record carton" id="aspace_1404e812d67a331b12956f735a0dc9cd" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_209ce1bd4416d0abda1e48f76232bcf1" parent="aspace_1404e812d67a331b12956f735a0dc9cd" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref114" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Sep 1960</unitdate>
+              <container altrender="Record carton" id="aspace_bf97ce1e18e68049b291617715ed043a" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_10ce3c44afad539852c221da11d0ad1c" parent="aspace_bf97ce1e18e68049b291617715ed043a" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref115" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">May 1961</unitdate>
+              <container altrender="Record carton" id="aspace_97f66a32ff1482bb1fa2c5a682870eca" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_da9030957281a7078673b7af2f72a45d" parent="aspace_97f66a32ff1482bb1fa2c5a682870eca" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref116" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Jul 1961</unitdate>
+              <container altrender="Record carton" id="aspace_5fbcb7e263cac2f289a9b5010943885e" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_ecbb7b5d967a50f86972da9f95f697d9" parent="aspace_5fbcb7e263cac2f289a9b5010943885e" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref117" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Jan 1962</unitdate>
+              <container altrender="Record carton" id="aspace_d1d15512b3e75438f66c1f45010e89a9" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_a626083d8d2c21914e29a6eba995dfdf" parent="aspace_d1d15512b3e75438f66c1f45010e89a9" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref118" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">May 1962</unitdate>
+              <container altrender="Record carton" id="aspace_c9cebe814bf138f7eb4b8e149c142cf9" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_84c2fec24486898611d8835ab879fc4e" parent="aspace_c9cebe814bf138f7eb4b8e149c142cf9" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref119" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Jul 1962</unitdate>
+              <container altrender="Record carton" id="aspace_8731730a0e9c05e79fd01e25f3e3f9f1" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_d538ddff97a7a944d205cede107fe806" parent="aspace_8731730a0e9c05e79fd01e25f3e3f9f1" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref120" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Aug 1962</unitdate>
+              <container altrender="Record carton" id="aspace_49b29891c7452073ea4fb4a413d1e696" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_4749adc6c9f3576a7dc52b73a375c612" parent="aspace_49b29891c7452073ea4fb4a413d1e696" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref121" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Sep 1962</unitdate>
+              <container altrender="Record carton" id="aspace_ddbfe58d3f41f62f514e1b3d0c0b8f09" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_4acf3e0beed31ecadf4e9a3e6ac67f3f" parent="aspace_ddbfe58d3f41f62f514e1b3d0c0b8f09" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref122" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Nov 1962-Feb 1964</unitdate>
+              <container altrender="Record carton" id="aspace_07d6d1f604e9b7a2e3259cb9dd14ab7a" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_438c32ed585807e9292ad3b6674be4ee" parent="aspace_07d6d1f604e9b7a2e3259cb9dd14ab7a" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref123" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Dec 1962</unitdate>
+              <container altrender="Record carton" id="aspace_50ac1d5f2010b54dd7cda198ae050a84" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_ed2df873d1fb6fd7c64c70961cf05cd8" parent="aspace_50ac1d5f2010b54dd7cda198ae050a84" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref124" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Mar 1963-May 1963</unitdate>
+              <container altrender="Record carton" id="aspace_350614fdc6baf92e73dcca8e630c5ed0" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_0a0ab203bffbe17623e2b1799507537b" parent="aspace_350614fdc6baf92e73dcca8e630c5ed0" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref125" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">May 1963</unitdate>
+              <container altrender="Record carton" id="aspace_9a9fa47c0017767cb765db41a5b99750" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_6c107c95e1673163d9226fb6218c1849" parent="aspace_9a9fa47c0017767cb765db41a5b99750" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref126" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Sep 1963</unitdate>
+              <container altrender="Record carton" id="aspace_b068850622715593f90d26f833e9ab5f" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_6075a3ec7e6a60de1a701cfa965ec9a4" parent="aspace_b068850622715593f90d26f833e9ab5f" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref127" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Oct 1963</unitdate>
+              <container altrender="Record carton" id="aspace_6fe963f220b4a92b8868b62b0fd07bf9" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_b809eff23b832d67d4685a2be4b4bbdf" parent="aspace_6fe963f220b4a92b8868b62b0fd07bf9" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref128" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">May 1964</unitdate>
+              <container altrender="Record carton" id="aspace_9049974bc6c3243ef0798823324b517c" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_3e91fd6b6ce69f0b4059373fd3834a10" parent="aspace_9049974bc6c3243ef0798823324b517c" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref129" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Jun 1964-Jul 1964</unitdate>
+              <container altrender="Record carton" id="aspace_11011515030983a5c27920d6f4b9273b" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_106385cec59aedca8087afffff8ca95d" parent="aspace_11011515030983a5c27920d6f4b9273b" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref130" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Nov 1964</unitdate>
+              <container altrender="Record carton" id="aspace_09a234eb350d3e856459260e9247df17" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_a38688d2785faba170c18b68eea11e94" parent="aspace_09a234eb350d3e856459260e9247df17" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref131" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Sep 1965-Dec 1965</unitdate>
+              <container altrender="Record carton" id="aspace_2aca081e4443c6fc8cb6b6ab04e5eee0" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_f15685a2c0154d062d38eb1714d35fb2" parent="aspace_2aca081e4443c6fc8cb6b6ab04e5eee0" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref132" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">Aug 1976</unitdate>
+              <container altrender="Record carton" id="aspace_650047bad8452019a32d05396ae5e18c" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_754a2d63edbcedcfa15f94ad9ba673c8" parent="aspace_650047bad8452019a32d05396ae5e18c" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref133" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+              <container altrender="Record carton" id="aspace_fea852db792a79a0b4e3e4f1dba4336f" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_e8434cc5273664b18b576a72a27b76b7" parent="aspace_fea852db792a79a0b4e3e4f1dba4336f" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref134" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+              <container altrender="Record carton" id="aspace_405192c1eee428895c3c0c20948dbe46" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_5138cbf45693ff070594bdbba8e7f1ed" parent="aspace_405192c1eee428895c3c0c20948dbe46" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref135" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation" normal="1989/1989" type="inclusive">Dec 1989</unitdate>
+              <container altrender="Record carton" id="aspace_d13b89a0f5350c188608145aa480662b" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_b8992029c5c0b3187e49902273a8c46b" parent="aspace_d13b89a0f5350c188608145aa480662b" type="Folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_ref136" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation" normal="1960/1979" type="inclusive">1960-1979</unitdate>
+              <container altrender="Record carton" id="aspace_fca52d5d3b434a33c8449789406afeea" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_bbce26eb7d4e359b683230620976cbee" parent="aspace_fca52d5d3b434a33c8449789406afeea" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_ref137" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_1c23acff1cdae8dd150616ae6dc2be1f" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_f4b83cbbc70b5a0ab6c646dc91939f7a" parent="aspace_1c23acff1cdae8dd150616ae6dc2be1f" type="Folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_ref138" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_4ec4f663f46d202381def5778a48303a" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_9f90be551dcfa664b5f7b8c25c7e18d0" parent="aspace_4ec4f663f46d202381def5778a48303a" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref139" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_171d7f33c14f42aafe16dabef9462d1d" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_81c361fbf128f18da84b4e74f472da5e" parent="aspace_171d7f33c14f42aafe16dabef9462d1d" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_ref140" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Philosophy Notes</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_ae3de9124deee2d40c46433fbf26d16f" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_79b997501c7d0127d676ae8601155f3c" parent="aspace_ae3de9124deee2d40c46433fbf26d16f" type="Folder">28</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref141" level="subseries">
+          <did>
+            <unittitle>Subseries B: Other Philosophical Writings.</unittitle>
+          </did>
+          <c id="aspace_ref191" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Aesthetic Inquiry"</unittitle>
+              <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+              <container altrender="Record carton" id="aspace_12abc1f8e7b93b17ec6452167b899d59" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_06e5391f09a573b0ccc3f33eedccf028" parent="aspace_12abc1f8e7b93b17ec6452167b899d59" type="Folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref156" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Aesthetics"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_75fd5cd4e4d7f50b403fb8ac1255709d" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_25029b9f9e567feaf6ae91e4c4ce33cc" parent="aspace_75fd5cd4e4d7f50b403fb8ac1255709d" type="Folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_ref201" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Aesthetics Manuscript: part 1</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_fca9296ae95ff734a7665f393f6c98a3" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_a1c51beb01a5d0785e34c1125dae213e" parent="aspace_fca9296ae95ff734a7665f393f6c98a3" type="Folder">31</container>
+            </did>
+          </c>
+          <c id="aspace_ref202" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Aesthetics Manuscript: part 2</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_7dcedff1fb6d0bffc8847999df1abbab" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_277fba69fc4976d9ef720a5abd99ec3b" parent="aspace_7dcedff1fb6d0bffc8847999df1abbab" type="Folder">32</container>
+            </did>
+          </c>
+          <c id="aspace_ref203" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Aesthetics Manuscript: part 3</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_b52dd22e4f09757a2ac87b254989692f" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_7d226873584d810d7857e76835cdae96" parent="aspace_b52dd22e4f09757a2ac87b254989692f" type="Folder">33</container>
+            </did>
+          </c>
+          <c id="aspace_ref204" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Aesthetics Manuscript: part 4</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_9d50232261f58d2df94e9757d4c5542b" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_0bab8621b98c436cbbe7c57cd30a0e53" parent="aspace_9d50232261f58d2df94e9757d4c5542b" type="Folder">34</container>
+            </did>
+          </c>
+          <c id="aspace_ref205" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Aesthetics Manuscript: part 5</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_e7cbcd66740042c26040b404bb472068" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_247e17c0e66ab82df293b05723c3de9b" parent="aspace_e7cbcd66740042c26040b404bb472068" type="Folder">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref144" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"A Notebook without Order"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_2783f4ae68e09fc710c063bd8d518978" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_f55a408b3a39e213ad41a4345ea8a282" parent="aspace_2783f4ae68e09fc710c063bd8d518978" type="Folder">36</container>
+            </did>
+          </c>
+          <c id="aspace_ref190" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Aphorisms</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_72b894ad39a0fc0e6840faa06c349400" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_a59c3f5e8e4f8dc15280a6e58b9dbaa5" parent="aspace_72b894ad39a0fc0e6840faa06c349400" type="Folder">37</container>
+            </did>
+          </c>
+          <c id="aspace_ref172" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Comic as an Aesthetic Concept: Chapters, I, II, and II (Doctoral Dissertation)</unittitle>
+              <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+              <container altrender="Record carton" id="aspace_4086a1af913a4a776845f58a8aaa9880" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_139d0d3f72381d5db2f2672a8b383c5c" parent="aspace_4086a1af913a4a776845f58a8aaa9880" type="Folder">38</container>
+            </did>
+          </c>
+          <c id="aspace_ref173" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Comic as an Aesthetic Concept: Chapters IV, V, and VI</unittitle>
+              <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+              <container altrender="Record carton" id="aspace_52913993381952fb3d3d3ba53de2bfaf" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_eebde9f04efa048bfe064b789ae9bbd2" parent="aspace_52913993381952fb3d3d3ba53de2bfaf" type="Folder">39</container>
+            </did>
+          </c>
+          <c id="aspace_ref174" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Comic as an Aesthetic Concept: Chapters VII, VIII, IX, Bibliography</unittitle>
+              <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+              <container altrender="Record carton" id="aspace_b9a95f3ace278d038dae8e21a6fceebd" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_0a2418e75dadd227dea6f7d56fb38645" parent="aspace_b9a95f3ace278d038dae8e21a6fceebd" type="Folder">40</container>
+            </did>
+          </c>
+          <c id="aspace_ref194" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Draft Material: "Funny Things" and "Comic as an Aesthetic Concept" (I)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_ba6f94d06cd55e301567e35dfaa8d12b" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_40d9f351ba1b94c9b31e58bfb1b11606" parent="aspace_ba6f94d06cd55e301567e35dfaa8d12b" type="Folder">41</container>
+            </did>
+          </c>
+          <c id="aspace_ref195" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Draft Material: "Funny Things" and "Comic as an Aesthetic Concept" (II)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_93c3e8feaf3a6e76fae23887a8d4e4f3" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_052fbf266ba048c4ff7b89f287c4a2b7" parent="aspace_93c3e8feaf3a6e76fae23887a8d4e4f3" type="Folder">42</container>
+            </did>
+          </c>
+          <c id="aspace_ref192" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Funny Things" (I)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_65cfe757eaeaaf7f97b60dc9194c6bb5" label="Mixed Materials [31142062773463]" type="Box">3</container>
+              <container id="aspace_f9148420c2a2d6bcedf8db7debdb73b8" parent="aspace_65cfe757eaeaaf7f97b60dc9194c6bb5" type="Folder">43</container>
+            </did>
+          </c>
+          <c id="aspace_ref193" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Funny Things" (II)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_6022e7c7ad667de725d9a0d117eca5de" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_d7502dc6850045a199f93eeb6e0e2600" parent="aspace_6022e7c7ad667de725d9a0d117eca5de" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref158" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Manuscripts"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_91cff6984346105c02b75f8716c3bc1f" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_b239b15183a470cb1d7be34302e32007" parent="aspace_91cff6984346105c02b75f8716c3bc1f" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref161" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Musings on Rexroth and circle</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_2fbb7a2d7ab5e8f80bd27237421674a0" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_1e9647e06e555d7f0fe677f912e76ba7" parent="aspace_2fbb7a2d7ab5e8f80bd27237421674a0" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref159" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Notes on Croce; chapter on "Intuition and Expression" from the Aesthetic</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_7aba8f9834a93282457ac358dc1a1df3" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_6bc87c20603e4f457aea1d843564af54" parent="aspace_7aba8f9834a93282457ac358dc1a1df3" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref142" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Paris Is a Work of Art"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_9c1aad341566d8d83d838823f03fd7c1" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_0616eeb37d3bd65f44b7ef4422332f6d" parent="aspace_9c1aad341566d8d83d838823f03fd7c1" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref160" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Odds and Ends," notes, etc.</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_bef2e6ec5f59d7fd1b82f7be2e15d53d" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_b7617e34690b05fbb3f827e2dc6007e9" parent="aspace_bef2e6ec5f59d7fd1b82f7be2e15d53d" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref145" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Scribblz-work" Part 1 [diary 1978]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_c63275367d78c4818827e83241d4c5d0" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_4d568792d69373bd4c1be75bc6c6b88a" parent="aspace_c63275367d78c4818827e83241d4c5d0" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref146" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Scribblz-work" Part 2 [diary 1978]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_bd68bfb33be149ceba80eb3632628e8f" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_0a624e1326e331203d620160f5dc9beb" parent="aspace_bd68bfb33be149ceba80eb3632628e8f" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref147" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Scribblz-work"</unittitle>
+              <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+              <container altrender="Record carton" id="aspace_fe12a2b73e050004d30acee6741cf3e9" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_9c447261eeba93f14e94330f08693afa" parent="aspace_fe12a2b73e050004d30acee6741cf3e9" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref143" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Sexuality</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_7d97885aa627811a15e4fab6bef76e18" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_6c5f019a055a08e9d8a8c1e24234b3c8" parent="aspace_7d97885aa627811a15e4fab6bef76e18" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref171" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Relevance of Psychoanalysis to Aesthetics: a Critical Discussion of Some Psychoanalytic Hypothesis on Art (Masters Thesis)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_78c81416971488f0efeba953a4f86327" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_b0c047f8c5be99e42625052f42ddaaa4" parent="aspace_78c81416971488f0efeba953a4f86327" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref157" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Vision"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_74b070b1e3165a2a3966bbbbacfc3585" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_1ee4efbdf0d7b6d601ba469c7eefa3bf" parent="aspace_74b070b1e3165a2a3966bbbbacfc3585" type="Folder">12</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref162" level="subseries">
+          <did>
+            <unittitle>Subseries C: <emph render="italic">Woman from Spillertown</emph>.</unittitle>
+          </did>
+          <c id="aspace_ref163" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Notes</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_1b4966c9b2061bc62ad048641bfdc336" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_000701d2ff5c3bd7c436e70ec64bdd2d" parent="aspace_1b4966c9b2061bc62ad048641bfdc336" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref164" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Notes</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_cd478b4e3d97a7c9b29e911377fed9b2" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_3b63fef868b802532770a5c345963b24" parent="aspace_cd478b4e3d97a7c9b29e911377fed9b2" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref165" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Woman from Spillertown</unittitle>
+              <unitdate datechar="creation">Nov 1983</unitdate>
+              <container altrender="Record carton" id="aspace_3a027332629de1dafa6a9e0109a84526" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_719c2c8d76d0c70e9443ba9caef8f29e" parent="aspace_3a027332629de1dafa6a9e0109a84526" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref166" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Woman from Spillertown</unittitle>
+              <unitdate datechar="creation">Apr 1984</unitdate>
+              <container altrender="Record carton" id="aspace_1fec93c101a085c0d5f425b2fe6fa364" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_26e27407e6e60236c00549a39d215f4a" parent="aspace_1fec93c101a085c0d5f425b2fe6fa364" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref167" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Woman from Spillertown: Prologue, Chapters I and II</unittitle>
+              <unitdate datechar="creation">Feb 13, 1985</unitdate>
+              <container altrender="Record carton" id="aspace_c3ef1ccc3d46601be97fde2eb7a8655d" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_b0c1c632e15d764928d68439a71e06b9" parent="aspace_c3ef1ccc3d46601be97fde2eb7a8655d" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref168" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Woman from Spillertown, Chapters III and IV</unittitle>
+              <unitdate datechar="creation">Feb 13, 1985</unitdate>
+              <container altrender="Record carton" id="aspace_746b814640ab38561ad96c4a9a9cc5d4" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_5e6f01ed290f3b2361a535a6bc0a5932" parent="aspace_746b814640ab38561ad96c4a9a9cc5d4" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref169" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Woman from Spillertown, Chapters V, VI, VII</unittitle>
+              <unitdate datechar="creation">Feb 13, 1985</unitdate>
+              <container altrender="Record carton" id="aspace_c685c297cfc64e3dd080d7eb59234ab1" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_daf8c14d95a3c1f5681e8505b2d2cdcc" parent="aspace_c685c297cfc64e3dd080d7eb59234ab1" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref170" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Reviews</unittitle>
+              <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate>
+              <container altrender="Record carton" id="aspace_727771316795f4c4528c873e747b66af" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_7ff2823f12fecceca0b9e493cc452dbc" parent="aspace_727771316795f4c4528c873e747b66af" type="Folder">20</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref175" level="subseries">
+          <did>
+            <unittitle>Subseries D: <emph render="italic">The United Mineworkers of America: A Study in Centralization</emph> (unpublished typescript).</unittitle>
+          </did>
+          <c id="aspace_ref176" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>The United Mine Workers of America: A Study in Centralization: Chapters I, II, III</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_4a5345638819ea95e676d9ffd3ce2f7e" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_7734b89471666adee6c88ff9b7de3e54" parent="aspace_4a5345638819ea95e676d9ffd3ce2f7e" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref177" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>The United Mine Workers of America: A Study in Centralization: Chapters IV, V</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_e67a24fb28da9b085529ecc358aa31c8" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_3bef1c36e6c12dcd096abcb7417d7ed5" parent="aspace_e67a24fb28da9b085529ecc358aa31c8" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref178" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>The United Mine Workers of America: A Study in Centralization: Chapters VI, VII, VIII</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_db9e5f503a17ff4921717f97199a0b9d" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_563fdba20874abadedd8ebbe48e23dfd" parent="aspace_db9e5f503a17ff4921717f97199a0b9d" type="Folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_ref179" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>The United Mine Workers of America: A Study in Centralization: Chapters IX, X, XI</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_1f7e066a6ed0cecf27bf6ff5ab5ad969" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_0f32c3551856efa9d16a74a512a032c6" parent="aspace_1f7e066a6ed0cecf27bf6ff5ab5ad969" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_ref180" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>The United Mine Workers of America: A Study in Centralization: Chapters XII, XIII, XIV, XV</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_5f5d487f7babd4e3e8d8450d34ff50eb" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_af2964a27ad79f79df2b8b4579fd1db0" parent="aspace_5f5d487f7babd4e3e8d8450d34ff50eb" type="Folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_ref181" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>The United Mine Workers of America: A Study in Centralization: Chapters XVI, XVII, XVIII, XIX</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_94f8694d06632b9891dfd34de693db84" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_50851c902e2d46e0fd3bf556b2e5062e" parent="aspace_94f8694d06632b9891dfd34de693db84" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref182" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>The United Mine Workers of America: A Study in Centralization: Chapters XX, Chapter 7A, Bibliography</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_63e949f3adaaae9cb5e20eddb783e1b1" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_7fa900750c72b52f7dc778d67c5f71bb" parent="aspace_63e949f3adaaae9cb5e20eddb783e1b1" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_ref183" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>UMWA, Part 1 of 3</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_c96c95ca5a6b3c55ab9742ca444c8d18" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_9213442cd96819c82c0da85f6cb77d66" parent="aspace_c96c95ca5a6b3c55ab9742ca444c8d18" type="Folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_ref184" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>UMWA, Part 2 of 3</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_ff55929636e928b5117dbecafe4cde88" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_3319c18cdc58f870b89d0f88298776a1" parent="aspace_ff55929636e928b5117dbecafe4cde88" type="Folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref185" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>UMWA, Part 3 of 3</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_b6c0c0ecaab54b1d36713ed6f6187f64" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_8a02347d63ccf0c2844f54db3f8254ca" parent="aspace_b6c0c0ecaab54b1d36713ed6f6187f64" type="Folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_ref186" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"The Miners' Union"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_ee0b4020ea03abb5e7ae8321b7c906a8" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_cf3d86de754e6b5411bcaba8a1bf1d61" parent="aspace_ee0b4020ea03abb5e7ae8321b7c906a8" type="Folder">31</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref187" level="subseries">
+          <did>
+            <unittitle>Subseries E: Miscellaneous Writings.</unittitle>
+          </did>
+          <c id="aspace_ref150" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Anarchism: notes and bibliography</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_31e2b783d96cac805a1e817c720cc9d8" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_2c7481edbb2b7a3c52996703849dcb23" parent="aspace_31e2b783d96cac805a1e817c720cc9d8" type="Folder">32</container>
+            </did>
+          </c>
+          <c id="aspace_ref209" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"An Introduction to a Biography; Being a Pretext for an History</unittitle>
+              <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+              <container altrender="Record carton" id="aspace_6b45a4ed92f22d2a8ffbd5b8122f8b42" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_879d3b2a5cb3b3441873ab5173983613" parent="aspace_6b45a4ed92f22d2a8ffbd5b8122f8b42" type="Folder">33</container>
+            </did>
+          </c>
+          <c id="aspace_ref198" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Beyond Annihilation"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_8aaf21c9e5a75ea64f8c503d4e7742d3" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_db4b5a456fbc93ac8367141b4b69d3ca" parent="aspace_8aaf21c9e5a75ea64f8c503d4e7742d3" type="Folder">34</container>
+            </did>
+          </c>
+          <c id="aspace_ref200" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Classless Society and the Stateless Society" Notes and Manuscripts</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_4a243538396d11a254034082742a286e" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_7d5d03a883436efb149034ea38e08585" parent="aspace_4a243538396d11a254034082742a286e" type="Folder">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref210" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Early Utopias"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_65f9ede6cb3d03ba08ea9ab46dc55da7" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_70d228f00aabf88828451f88760aec70" parent="aspace_65f9ede6cb3d03ba08ea9ab46dc55da7" type="Folder">36</container>
+            </did>
+          </c>
+          <c id="aspace_ref189" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"European Syndicalism"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_0a54be2323449c850deb0c009f6fd31d" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_7d9e6d2020ea710c6edb0b1edd0ad984" parent="aspace_0a54be2323449c850deb0c009f6fd31d" type="Folder">37</container>
+            </did>
+          </c>
+          <c id="aspace_ref188" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"European Syndicalism"</unittitle>
+              <unitdate datechar="creation">May 1941</unitdate>
+              <container altrender="Record carton" id="aspace_58301a7c148cc2ab425edcc5a8250c74" label="Mixed Materials [31142062773471]" type="Box">4</container>
+              <container id="aspace_2db264402b50099cf7fa0a091d157cd6" parent="aspace_58301a7c148cc2ab425edcc5a8250c74" type="Folder">38</container>
+            </did>
+          </c>
+          <c id="aspace_ref217" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Goodman's Flag"</unittitle>
+              <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+              <container altrender="Record carton" id="aspace_96821654367331763f8ef28db81abb19" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_0cdf82905c28559276095aff1aa6e6cc" parent="aspace_96821654367331763f8ef28db81abb19" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref196" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Houses: The House We Live In" and notes</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_298e569de0bbe969b7bc93cdf6fd8cc1" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_fc7934627f788c1c7f3f7b8b07f0cfb8" parent="aspace_298e569de0bbe969b7bc93cdf6fd8cc1" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref221" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>JAAC Reviews</unittitle>
+              <unitdate datechar="creation" normal="1962/1970" type="inclusive">1962-1970</unitdate>
+              <container altrender="Record carton" id="aspace_605f0e7646d35d27a94b6c4c10e4c00c" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_0156bc0eda4b9eb98d75d85f814c5646" parent="aspace_605f0e7646d35d27a94b6c4c10e4c00c" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref152" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Miscellaneous notes</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_2b0265e2a435500699389ae04fc512f1" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_b699ffd4396c1dcd7446e623c7cdcf31" parent="aspace_2b0265e2a435500699389ae04fc512f1" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref224" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Moral Responsibilities of Scientists and Scholars"</unittitle>
+              <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+              <container altrender="Record carton" id="aspace_735b9b9fb5f8f167cc7d378beb310ac3" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_cc34d5bee906431a91330272b2c58c30" parent="aspace_735b9b9fb5f8f167cc7d378beb310ac3" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref155" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Musings"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_96816fcbff4f252b0d978651b73fd05f" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_fa3ddd401e7284e9f4122cfa7b04ae6c" parent="aspace_96816fcbff4f252b0d978651b73fd05f" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref149" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Notes on Nestor Makhno</unittitle>
+              <unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate>
+              <container altrender="Record carton" id="aspace_76c157d92cb8419314adf161a2df9af1" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_c5bc1671eadb33773c2c80503abba891" parent="aspace_76c157d92cb8419314adf161a2df9af1" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref153" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Old miscellaneous</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_b353364b2f0fdf282e324216ac743f17" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_f1618f12807f5ff780e499ae562aa523" parent="aspace_b353364b2f0fdf282e324216ac743f17" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref223" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>On Paul Goodman</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_6cea907c01061be3df1f69a5d4b4cf4d" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_96a9a5286db3bd12dbc9d35b9fa1c7c8" parent="aspace_6cea907c01061be3df1f69a5d4b4cf4d" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref212" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Playing Games"</unittitle>
+              <unitdate datechar="creation">1977</unitdate>
+              <container altrender="Record carton" id="aspace_84973d5742589dfd3e3f6f291d5e6dc6" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_07285e50794f797a36d419c653b850dc" parent="aspace_84973d5742589dfd3e3f6f291d5e6dc6" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref220" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Published Essays and Letters</unittitle>
+              <unitdate datechar="creation" normal="1951/1981" type="inclusive">1951-1981</unitdate>
+              <container altrender="Record carton" id="aspace_0da607ffbb36961449ffd2884b5b955f" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_e6bad3771d976dd894f69ae0bec7d2bc" parent="aspace_0da607ffbb36961449ffd2884b5b955f" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref151" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Recent notes</unittitle>
+              <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+              <container altrender="Record carton" id="aspace_c28b30990358dc93fd14c9114d133eff" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_746573dc1a6a71bf81487870597d8c35" parent="aspace_c28b30990358dc93fd14c9114d133eff" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref218" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Remembrance of Giovanni Baldelli"</unittitle>
+              <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+              <container altrender="Record carton" id="aspace_8a937c2b24709342a0b2ecd0e9830a31" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_56cdd25802717536afa7b5985df6471d" parent="aspace_8a937c2b24709342a0b2ecd0e9830a31" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref222" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Science and Reality"</unittitle>
+              <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+              <container altrender="Record carton" id="aspace_1c3b3d022dea8e22fd9c7b3a8f0826a2" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_6987214564c40eaa956d0710c6d4f8a7" parent="aspace_1c3b3d022dea8e22fd9c7b3a8f0826a2" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref214" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Serious Essays"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_e16578ac48d7a3b2f3e4c898bade8404" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_ef63cf557e6a9807b0aff437e50e1655" parent="aspace_e16578ac48d7a3b2f3e4c898bade8404" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref215" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Some Thoughts on Cooperation"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_310a51bae641a0caad1f249d9c4b1d1f" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_7b86970f854e4a8b15509ae154c25f76" parent="aspace_310a51bae641a0caad1f249d9c4b1d1f" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref216" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Somewhat on the Knowledge of Good and Evil"</unittitle>
+              <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+              <container altrender="Record carton" id="aspace_fdbc02180212b7739c843cead3090eab" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_997b1dcd25c53fcb295bf6653903b07d" parent="aspace_fdbc02180212b7739c843cead3090eab" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref211" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"S.E. Asia-Vietnam (WRL Policy, Vietnam, Howe, et al.)"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_ddac23036bb05f01111737fcdf0b5b9e" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_04ce9a3ba60cdfaa78d1afe6c30d1594" parent="aspace_ddac23036bb05f01111737fcdf0b5b9e" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref213" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Strange Anarchy": Review of Film "Anarchism in America"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_fd230c0d128f60413570e5ac50481a89" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_770af69ea516b9774cb1c7f943ed79b1" parent="aspace_fd230c0d128f60413570e5ac50481a89" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref227" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Taoism/Anarchism"</unittitle>
+              <unitdate datechar="creation" normal="1980/1981" type="inclusive">1980-1981</unitdate>
+              <container altrender="Record carton" id="aspace_c0a5d57ed5e0d9307a96c695139e5c45" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_82f52ecc161b77f823d0275466167914" parent="aspace_c0a5d57ed5e0d9307a96c695139e5c45" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref199" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"The Anthracite Mine Strike of 1900 and 1902"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_58023fb37ddbf489c7abea0f924efbf1" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_b62f025cb37a3484f490d1eb385d6b36" parent="aspace_58023fb37ddbf489c7abea0f924efbf1" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref197" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"The Farm"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_eee7966e8808cfed13e987f8a079dbd7" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_35d72fd8c5d65919a9a440e8df07461b" parent="aspace_eee7966e8808cfed13e987f8a079dbd7" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref219" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"The Irrelevance of Intellectuals, or the Madness of a Nation"</unittitle>
+              <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+              <container altrender="Record carton" id="aspace_dd366fa54cbd3db05e68b6b1011ba88f" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_8b984a61febc08b500523f9adc8ecf5a" parent="aspace_dd366fa54cbd3db05e68b6b1011ba88f" type="Folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_ref208" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"The Quest for Liberty"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_79b22d74bf5a885652fa3dae0baf7308" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_105450ef434af09948a40eb5eada06b8" parent="aspace_79b22d74bf5a885652fa3dae0baf7308" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_ref225" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Theses of Anarchism"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_56a1739218d29fea646132986cc67251" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_b64c9eb4d66f795cf90425377ee60cf2" parent="aspace_56a1739218d29fea646132986cc67251" type="Folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_ref154" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Thoreau" [notes for biography]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_d868201cfed2f68111005582fd71d438" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_d39342bb08974c35e4ef74614e0c4510" parent="aspace_d868201cfed2f68111005582fd71d438" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref148" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Untitled [possible course on anarchism]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_ec8bfe05a3bbc38367ad4d61195a964a" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_5d976cc225d1787cde86a80fb21ecb61" parent="aspace_ec8bfe05a3bbc38367ad4d61195a964a" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_ref226" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Visions"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_f85f36294053b89fbce667beb42890cd" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_4465915471e0d349f49351e861576c12" parent="aspace_f85f36294053b89fbce667beb42890cd" type="Folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_ref206" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>On Max Stirner: part 1</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_7ab9b18da1284fc71a025f83d9704440" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_267c58179b64dcff5071b4059073a351" parent="aspace_7ab9b18da1284fc71a025f83d9704440" type="Folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref207" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>On Max Stirner: part 2</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_545027b7092920e72eff1fac9ed78e64" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_573edea0a734430aff5f870017c6c4bb" parent="aspace_545027b7092920e72eff1fac9ed78e64" type="Folder">30</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref228" level="subseries">
+          <did>
+            <unittitle>Subseries F: Writings by Others.</unittitle>
+          </did>
+          <c id="aspace_ref229" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Giovanni Baldelli: "Why Anarchism"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_b11a660f8244d003509f00bcd78be674" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_737573de9d7188877f0b75924ae94fd9" parent="aspace_b11a660f8244d003509f00bcd78be674" type="Folder">31</container>
+            </did>
+          </c>
+          <c id="aspace_ref230" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Giovanni Baldelli: "Menzogne Revoluzionarie e Liberazione Sociale"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_c3c2742d9ee7ec30ba7d8c6c7ba828c5" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_76717dada63f107ac6929fb0c7a70b68" parent="aspace_c3c2742d9ee7ec30ba7d8c6c7ba828c5" type="Folder">32</container>
+            </did>
+          </c>
+          <c id="aspace_ref231" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Giovanni Baldelli: "Man, Woman, and Death" part 1</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_fdd74ee2b459f8deb566d70a1aab657f" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_519ccf76dc6fd56d68677e706fe6dcc8" parent="aspace_fdd74ee2b459f8deb566d70a1aab657f" type="Folder">33</container>
+            </did>
+          </c>
+          <c id="aspace_ref232" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Giovanni Baldelli: "Man, Woman, and Death" part 2</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_cd61819693d7dae700362a7fe03a804c" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_5566b6732d8d6658b167ce2b7c40aa95" parent="aspace_cd61819693d7dae700362a7fe03a804c" type="Folder">34</container>
+            </did>
+          </c>
+          <c id="aspace_ref233" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Giovanni Baldelli: "Man, Woman, and Death" part 3</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_2c6cb2d56b37a5765710479c0ec6bac0" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_479831efd534e9ed672ef691e2f67eb5" parent="aspace_2c6cb2d56b37a5765710479c0ec6bac0" type="Folder">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref234" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Giovanni Baldelli: "Passion Is Brief" Poems</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_1d15fa4505621464b3e6300bf3bb47e5" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_75936d5c119e761dc12c9a81d6194512" parent="aspace_1d15fa4505621464b3e6300bf3bb47e5" type="Folder">36</container>
+            </did>
+          </c>
+          <c id="aspace_ref235" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Giovanni Baldelli: "EMP of the Cloudings"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_f69c497015a2ce113709de2ec6381ee1" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_b17683feae09a7d83009043639807aaa" parent="aspace_f69c497015a2ce113709de2ec6381ee1" type="Folder">37</container>
+            </did>
+          </c>
+          <c id="aspace_ref236" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Giovanni Baldelli: "Not Revolution but Liberation" Vol. One</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_bddf5ce5df5d084f158096ecb2545cbf" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_bbfa91aa9c15640345f10d5a27adc367" parent="aspace_bddf5ce5df5d084f158096ecb2545cbf" type="Folder">38</container>
+            </did>
+          </c>
+          <c id="aspace_ref237" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Giovanni Baldelli: "Not Revolution but Liberation" Vol. Two</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_0fa6911ad5675c3abeeecd61f9c4068c" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_74f928266011d508de7713ca1b10eab2" parent="aspace_0fa6911ad5675c3abeeecd61f9c4068c" type="Folder">39</container>
+            </did>
+          </c>
+          <c id="aspace_ref238" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Giovanni Baldelli: "Not Revolution but Liberation"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_59850d13399cbfda92711978880059c3" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_ec37286f9e12ec21111a16ab882e901d" parent="aspace_59850d13399cbfda92711978880059c3" type="Folder">40</container>
+            </did>
+          </c>
+          <c id="aspace_ref239" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Giovanni Baldelli: front, back covers: "Not Revolution but Liberation", "Man, Woman, and Death", "Menzogne Revoluzionarie e Liberazione Sociale", "Why Anarchism"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_15dd60281510c47032e4138167d67ded" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_edc264be7664b09cab34201e82f44d52" parent="aspace_15dd60281510c47032e4138167d67ded" type="Folder">41</container>
+            </did>
+          </c>
+          <c id="aspace_ref240" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Giovanni Baldelli: "The Positivity of Anarchism"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_be3cadfb98240b9f1e06213812b9fe5f" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_ac7a639516684369e70b0563bc5cbe98" parent="aspace_be3cadfb98240b9f1e06213812b9fe5f" type="Folder">42</container>
+            </did>
+          </c>
+          <c id="aspace_ref241" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Giovanni Baldelli: Miscellaneous</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_07ef8810204ff8b06ac0c6032537538b" label="Mixed Materials [31142062773489]" type="Box">5</container>
+              <container id="aspace_fee95101d7ce99331e2150dc982c1766" parent="aspace_07ef8810204ff8b06ac0c6032537538b" type="Folder">43</container>
+            </did>
+          </c>
+          <c id="aspace_ref242" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Eliot Deutsch: "The End" (a one act play)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_e7d974443152b45fe3a24fa55426adff" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_cbfdd030b89a8d017d99bedfce90ea94" parent="aspace_e7d974443152b45fe3a24fa55426adff" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref243" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Emma Goldman: on Peter Kropotkin</unittitle>
+              <unitdate datechar="creation" normal="1921/1921" type="inclusive">1921</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_f88547760bfbdaada0eae79d2dc364e2" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_7cc252706573ec0b2963afc8ed6855bb" parent="aspace_f88547760bfbdaada0eae79d2dc364e2" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref244" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Emma Goldman: Letter on Violence and Anarchism</unittitle>
+              <unitdate datechar="creation" normal="1938/1938" type="inclusive">1938</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_c2f92f8acd9518d4d79d040dbc1fcd4d" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_0847d3321a7c226495ad8215b87b4ee2" parent="aspace_c2f92f8acd9518d4d79d040dbc1fcd4d" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref245" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Paul Goodman: "Faustina"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_991d019cb3b85725d257a11cc0911cfe" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_7fbb2c3d7026a5542ece163636a0f4e6" parent="aspace_991d019cb3b85725d257a11cc0911cfe" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref246" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Jackson Mac Low: Poetry</unittitle>
+              <unitdate datechar="creation" normal="1943/1988" type="inclusive">1943-1988</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_90dde20f32e17b170477534ccbfd83c6" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_e70b6af36dfea44380c1268a26a3a990" parent="aspace_90dde20f32e17b170477534ccbfd83c6" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref247" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>John Moore: Prophets of the New World; Noam Chomsky, Murray Bookchin and Fredy Perlman</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_771e918d2b72f55e254509c5960ea76d" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_e40735049460c561fb9576ae75f14ffa" parent="aspace_771e918d2b72f55e254509c5960ea76d" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref248" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Sal Restivo: "Science, Sociology of Science, and the Anarchist Tradition"</unittitle>
+              <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_38948d6c3840cd848f6b64dc3a7dc9fa" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_d482d68755ba9031ab0fbc9c502ea725" parent="aspace_38948d6c3840cd848f6b64dc3a7dc9fa" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref249" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>John Schumacher: Conversations between John A. Schumacher and Cedric O. Evans</unittitle>
+              <unitdate datechar="creation">Jul 1976</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7952a55d98ea0813fc1999bbe65a25d8" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_5bdd7a153d635062a6e32bb3b1602971" parent="aspace_7952a55d98ea0813fc1999bbe65a25d8" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref250" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>John Schumacher: "Can We (Only) Reason in an Armchair?"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_43e087180a0c4420101de5e43aa3a230" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_3979c733e60102d0cdbb5423e05b7d3b" parent="aspace_43e087180a0c4420101de5e43aa3a230" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref251" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>John Schumacher: "The Sound of Silence"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_6456514dd4e4888cc13f690d0eda66ab" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_ed015e5228d641796f9622b595688ab9" parent="aspace_6456514dd4e4888cc13f690d0eda66ab" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref252" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>John Schumacher: "Our Responsibility for the Future in Higher Education"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_8c6b1e9eb45b64d7095625862c227b29" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_dace4006df6828e45b23514261a338e7" parent="aspace_8c6b1e9eb45b64d7095625862c227b29" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref253" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>John Schumacher: "Popular Epidemiology, Local Knowledge, and Human Posture"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_939918099b8f405fcdd60add72116e75" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_e564b17138e9542f830f358974352291" parent="aspace_939918099b8f405fcdd60add72116e75" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref254" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>John Schumacher: "The Posture of Persons"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_fac77b5ca22c57f4d50d9cbeaf564f95" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_01662f2ee32c3bacfac09bbef4afa907" parent="aspace_fac77b5ca22c57f4d50d9cbeaf564f95" type="Folder">13</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref255" level="subseries">
+          <did>
+            <unittitle>Subseries G: Agnes Burns Wieck.</unittitle>
+          </did>
+          <c id="aspace_ref256" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Biography</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_46047837075b97c8d73bd06fdb966b8a" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_018e70a425406aafeebf33bda7cc48ca" parent="aspace_46047837075b97c8d73bd06fdb966b8a" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref257" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Correspondence: Amelia Burns</unittitle>
+              <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_18358db3d19586c7bc804ebf11f29176" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_119e85ecbaabccaf5a0f25cff8295ba9" parent="aspace_18358db3d19586c7bc804ebf11f29176" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref258" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Correspondence: John Walker</unittitle>
+              <unitdate datechar="creation" normal="1916/1918" type="inclusive">1916-1918</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_9434b904972044795a4dc8479ad0fd0a" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_52fc98e6c994a09a3badc87edd8d2ba8" parent="aspace_9434b904972044795a4dc8479ad0fd0a" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref259" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>District 12 Address</unittitle>
+              <unitdate datechar="creation" normal="1916/1916" type="inclusive">1916</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_516dc18f32b79ae643159fa17b429cba" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_8be985d08e02525f1a193d35bb6a449a" parent="aspace_516dc18f32b79ae643159fa17b429cba" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref260" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Condemned uv God"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_42de3076a779bd5a1172bccb0d26e678" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_ba12da0c6f10ff97c44e5cab799e0bcd" parent="aspace_42de3076a779bd5a1172bccb0d26e678" type="Folder">18</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref261" level="subseries">
+          <did>
+            <unittitle>Subseries H: Edward Wieck.</unittitle>
+          </did>
+          <c id="aspace_ref262" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Correspondence: Gerry Allard</unittitle>
+              <unitdate datechar="creation" normal="1951/1952" type="inclusive">1951-1952</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_66b4ad74559f9d9bd4968370ce703135" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_65394bb6a6850b0d9df467a99c462161" parent="aspace_66b4ad74559f9d9bd4968370ce703135" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref263" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Correspondence: John Walker</unittitle>
+              <unitdate datechar="creation" normal="1917/1919" type="inclusive">1917-1919</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_64b37e523463dba9e3a528d7a22f6de7" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_1b31a1be3dac6f62000f96c6ee90fbab" parent="aspace_64b37e523463dba9e3a528d7a22f6de7" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref264" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Correspondence (some letters signed or co-signed by Agnes Wieck): Hapgood Family</unittitle>
+              <unitdate datechar="creation" normal="1922/1932" type="inclusive">1922-1932</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_8089c2761caaddb743e76f1f3d6857d5" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_5636accdfe5e3f803fa95af230ea2972" parent="aspace_8089c2761caaddb743e76f1f3d6857d5" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref265" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Journal: "Six Months on the Pit Committee" (UMW Grievance Committee)</unittitle>
+              <unitdate datechar="creation">Oct 22, 1923-Jan 20, 1924</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_e43711d67f73c935d86020ba6bbf9936" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_7a5180ef53fdf378882d99022d2c9400" parent="aspace_e43711d67f73c935d86020ba6bbf9936" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref266" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Journal: "Six Months on the Pit Committee" (UMW Grievance Committee)</unittitle>
+              <unitdate datechar="creation">Jan 21, 1924-May 9, 1924</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_3f7630f222c92b4075c79161f857baa0" label="Mixed Materials [31142062773497]" type="Box">6</container>
+              <container id="aspace_6afae5eb7198bf1966335dfdcb01028a" parent="aspace_3f7630f222c92b4075c79161f857baa0" type="Folder">23</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref273" level="series">
+        <did>
+          <unittitle>Series V: Graphics and Photographs</unittitle>
+          <unitdate datechar="creation" normal="1934/1992" type="inclusive">1934-1992</unitdate>
+        </did>
+        <c id="aspace_ref277" level="file">
+          <did>
+            <unittitle>Artwork I</unittitle>
+            <unitdate datechar="creation" normal="1913/1996" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_630425ddd908e290afcde66e43566c10" label="Mixed Materials [31142062724516]" type="Box">9</container>
+            <container id="aspace_d6a52388fd96cb1a6210913357ed8f94" parent="aspace_630425ddd908e290afcde66e43566c10" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref278" level="file">
+          <did>
+            <unittitle>Artwork II</unittitle>
+            <unitdate datechar="creation" normal="1913/1996" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_961f370422c97859c35dcb3d3a98208a" label="Mixed Materials [31142062724516]" type="Box">9</container>
+            <container id="aspace_0e2bd0fdfdb56adb1d6a71f3c7256f28" parent="aspace_961f370422c97859c35dcb3d3a98208a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref279" level="file">
+          <did>
+            <unittitle>Artwork III</unittitle>
+            <unitdate datechar="creation" normal="1913/1996" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_dccba6a800ff94c4151ed1d0dba2c622" label="Mixed Materials [31142062724516]" type="Box">9</container>
+            <container id="aspace_d3ef609f04f9d40b6a3ae4e7bc28f37b" parent="aspace_dccba6a800ff94c4151ed1d0dba2c622" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref275" level="file">
+          <did>
+            <unittitle>Burns Family: Photographs</unittitle>
+            <unitdate datechar="creation" normal="1913/1996" type="inclusive">1991-1992, undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_b863045320dd190280de1e4b0c82c206" label="Mixed Materials [31142062724516]" type="Box">9</container>
+            <container id="aspace_fd271bca47d507b37f00d200c918af83" parent="aspace_b863045320dd190280de1e4b0c82c206" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref276" level="file">
+          <did>
+            <unittitle>Flyers</unittitle>
+            <unitdate datechar="creation" normal="1913/1996" type="inclusive">undated</unitdate>
+            <container altrender="Flat OS 21" id="aspace_a5f711878a6a0f476d4462fca527b504" label="Mixed Materials [31142062735439]" type="Box">Tamiment Shared XOS003</container>
+            <container id="aspace_f51cb6cac50ffe82e7e91e48fa7fadf7" parent="aspace_a5f711878a6a0f476d4462fca527b504" type="Folder">1</container>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_750816621b725219fa9d74d271455dd2" label="Mixed Materials [31142062724516]" type="Box">9</container>
+            <container id="aspace_13b07b3a196e3033cc7c8b346855802d" parent="aspace_750816621b725219fa9d74d271455dd2" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref280" level="file">
+          <did>
+            <unittitle>Grudin Family: Portrait</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_9ee1ddae4c26891c5d6eaf2127095eb9" label="Mixed Materials [31142062724516]" type="Box">9</container>
+            <container id="aspace_c40ef1a7b8177d3034c2c24300b32ec0" parent="aspace_9ee1ddae4c26891c5d6eaf2127095eb9" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref281" level="file">
+          <did>
+            <unittitle>Koven, David: Portrait</unittitle>
+            <unitdate datechar="creation" normal="1985/1990" type="inclusive">circa 1988</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_5a3b89a5e3a07d0342f6d0e5ed5eecf4" label="Mixed Materials [31142062724516]" type="Box">9</container>
+            <container id="aspace_f04142d7b1d84de39aaf3bd047cf01e9" parent="aspace_5a3b89a5e3a07d0342f6d0e5ed5eecf4" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref282" level="file">
+          <did>
+            <unittitle>Naeve, Lowell: Drawings</unittitle>
+            <unitdate datechar="creation" normal="1913/1996" type="inclusive">1989, undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_6e4bfefd3b7b98ee4c5785e01b671a85" label="Mixed Materials [31142062724516]" type="Box">9</container>
+            <container id="aspace_1642ae585b12fd4694ef16ea23173e2a" parent="aspace_6e4bfefd3b7b98ee4c5785e01b671a85" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref283" level="file">
+          <did>
+            <unittitle>Rensselaer Polytechnic Institute Faculty: Portrait</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_32d94e6f73e399fe882090d6029e621a" label="Mixed Materials [31142062724516]" type="Box">9</container>
+            <container id="aspace_326ba9713cd9510ef1b2fc4586c494a1" parent="aspace_32d94e6f73e399fe882090d6029e621a" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref288" level="file">
+          <did>
+            <unittitle>United Mine Workers of America, 37th Constitutional Convention (Cincinnati, Ohio)</unittitle>
+            <unitdate datechar="creation" normal="1942/1942" type="inclusive">1942</unitdate>
+            <container altrender="Flat OS 21" id="aspace_a36fa3bf18e923c2f551560923432042" label="Mixed Materials [31142062735439]" type="Box">Tamiment Shared XOS003</container>
+            <container id="aspace_c2dbb9021ba8913db095ae41f22b0b77" parent="aspace_a36fa3bf18e923c2f551560923432042" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref284" level="file">
+          <did>
+            <unittitle>Wieck, David Thoreau: Portrait</unittitle>
+            <unitdate datechar="creation" normal="1913/1996" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_5c29d4dd0067b0277a599fd86e3b1d4a" label="Mixed Materials [31142062724516]" type="Box">9</container>
+            <container id="aspace_c54dc636deefff4303c26b792c7388af" parent="aspace_5c29d4dd0067b0277a599fd86e3b1d4a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref285" level="file">
+          <did>
+            <unittitle>Wieck, [Edward?]: Mines and Miners in Alabama and Tennessee</unittitle>
+            <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_2d659590e48e18847a9004ee13e25e1b" label="Mixed Materials [31142062724516]" type="Box">9</container>
+            <container id="aspace_e9f6d0e38671c9ffd6a0909f8f8e554b" parent="aspace_2d659590e48e18847a9004ee13e25e1b" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_2f512053cc0c41833d5eddfb19a2a455" level="file">
+          <did>
+            <unittitle>Broadside: Agnes Burns Wieck lecture, "The Need for Labor Schools"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat Box 11.75 x 15.5" id="aspace_5a3616f5ac594a45c405c6ba62b66639" label="Graphic Materials [31142062882108]" type="Box">Shared Tamiment 011</container>
+            <container id="aspace_fedd63aebdd251eae62e8401c406e07d" parent="aspace_5a3616f5ac594a45c405c6ba62b66639" type="Folder">13</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

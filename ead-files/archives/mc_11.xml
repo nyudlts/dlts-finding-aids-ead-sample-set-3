@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_11">mc_11</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Draper Family Collection <num>MC.11</num></titleproper>
+        <author>Evan Friss</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from an OCR processed document.</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 19:56:03 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>June 2019</date>
+        <item>Updated by Jacqueline Rider for compliance with DACS and ACM Required Elements for Archival Description</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Draper Family Papers</unittitle>
+      <origination label="Creator">
+        <famname source="local">Draper family</famname>
+      </origination>
+      <unitid>MC.11</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">in 3 manuscript boxes and 2 half manuscript boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1836/1985" type="inclusive">1836-1985</unitdate>
+      <physloc id="aspace_e74863263a0f0c2ea732bd91b16350eb">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <abstract id="aspace_4b3e0e94a4be7f6cb5ec5cfb8b8a862d">Several members of the Draper family, including John William Draper and Henry Draper, taught and held admnistrative position at New York University (NYU) during the late nineteenth century. This collection highlights the genealogical history of the family as well as their roles within the NYU community.</abstract>
+      <langmaterial id="aspace_068e53f1a43538b739036d6ef1791753">Materials are in English.</langmaterial>
+    </did>
+    <arrangement id="aspace_b5a09182d18888c0b9da357e16878939">
+      <head>Arrangement</head>
+      <p>Folders are arranged topically.</p>
+    </arrangement>
+    <scopecontent id="aspace_80266c7ee780768efd5b5ec21261abf9">
+      <head>Scope and Content Note</head>
+      <p>The Draper Family Papers consist primarily of printed and published items relating to the Draper Family, its history and genealogy. Information within the collection highlights John William Draper as scientist, photographer, and president of the Medical Faculty, and also contains materials relating to members of his family associated with NYU during the nineteenth and early twentieth century. A significant amount of the collection pertains to Henry Draper's writings and other accomplishments.</p>
+    </scopecontent>
+    <bioghist id="aspace_6252de42e33d320992a41fca1e439e55">
+      <head>Historical/Biographical Note</head>
+      <p>John William Draper (1811-1882) was a scientist, historian, pioneer in photography (credited with the first photograph of the moon, and one of the earliest of the human face), and professor and president of the NYU Medical faculty. Two of his sons were also members of the faculty at NYU: Henry Draper (1837-1882), who constructed a silvered glass telescope and invented the apparatus for celestial photography, and John Christopher Draper (1835-1885), professor of Chemistry and author.</p>
+    </bioghist>
+    <prefercite id="aspace_08651df44764b34084f0e280fa49481a">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date (if known); Draper Family Papers; MC 11; box number; folder number; New York University Archives, New York University Libraries.</p>
+    </prefercite>
+    <userestrict id="aspace_f8abea658afe57cad8d15e73139395cd">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the creator are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from New York University Archives, (212) 998-2646, university-archives@nyu.edu.</p>
+    </userestrict>
+    <accessrestrict id="aspace_cea1a5f39ff82fb110c8efcad0b6c3d3">
+      <head>Access Restrictions</head>
+      <p>Open for research without restrictions.</p>
+    </accessrestrict>
+    <custodhist id="aspace_4baecbe4edd3aefd54d86fafedc67adb">
+      <head>Provenance</head>
+      <p>The Draper Family Papers were accessioned and processed by the University Archives in 1984.</p>
+    </custodhist>
+    <processinfo id="aspace_cd9338298738845717c6f0a2d49a39f2">
+      <head>Processing Information</head>
+      <p>Materials were place in archival folders and boxes. Processing information before 2019 is unavailable.</p>
+    </processinfo>
+    <controlaccess>
+      <subject source="lcsh">Astronomical photography.</subject>
+      <subject source="lcsh">Chemistry -- Study and teaching</subject>
+      <genreform source="aat">Books.</genreform>
+      <subject source="lcsh">Medicine  -- Study and teaching</subject>
+      <subject source="lcsh">Photochemistry.</subject>
+      <genreform source="aat">Articles.</genreform>
+      <subject source="lcsh">Photography</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <corpname source="naf">New York University</corpname>
+      <persname source="naf">Draper, John William, 1893-</persname>
+      <persname rules="dacs" source="local">Draper, John William, 1905-</persname>
+      <persname source="naf">Draper, John William, 1811-1882</persname>
+      <persname source="naf">Draper, Henry, 1837-1882</persname>
+      <persname source="naf">Draper, John C. (John Christopher), 1835-1885</persname>
+      <persname source="naf">Draper, Daniel, 1841-1931</persname>
+      <corpname source="naf">University of the City of New York. Medical Department</corpname>
+      <corpname rules="dacs" source="local">University of the City of New York. School of Analytical and Practical Chemistry</corpname>
+      <persname rules="dacs" source="local">Jones, Theodore Francis, 1885-1968</persname>
+      <corpname source="naf">American Chemical Society</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Biographical data on Draper Family (inclusive)</unittitle>
+          <unitdate datechar="creation" normal="1981/1982" type="inclusive">1981-1982</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_40d6997453f6d5ce2416e2d2a4395d29" label="Mixed Materials [31142063004660]" type="Box">1</container>
+          <container id="aspace_c205b09cdd3714733f4eee210488dfa8" parent="aspace_40d6997453f6d5ce2416e2d2a4395d29" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Draper family genealogy</unittitle>
+          <unitdate datechar="creation" normal="1882/1981" type="inclusive">1882-1981</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_61c2cc945591d3f1905ef9b1888b0fb9" label="Mixed Materials [31142063004660]" type="Box">1</container>
+          <container id="aspace_b7fed7b634f1a763ee5a515d2c395321" parent="aspace_61c2cc945591d3f1905ef9b1888b0fb9" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Biographical and bibliographical data on John W. Draper</unittitle>
+          <unitdate datechar="creation" normal="1878/1981" type="inclusive">1878-1981</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_456ceefd49339ff77c3c222bfb9c98c0" label="Mixed Materials [31142063004660]" type="Box">1</container>
+          <container id="aspace_64456218bf99aaf44cbe1a4071515324" parent="aspace_456ceefd49339ff77c3c222bfb9c98c0" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>John W. Draper as photographer</unittitle>
+          <unitdate datechar="creation" normal="1894/1980" type="inclusive">1894 , 1950-1980</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_bfa6d36ba07d5d12f165d21499eb084a" label="Mixed Materials [31142063004660]" type="Box">1</container>
+          <container id="aspace_63246265f0ebfcead1699723e41c5170" parent="aspace_bfa6d36ba07d5d12f165d21499eb084a" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>John W. Draper as photochemist</unittitle>
+          <unitdate datechar="creation" normal="1844/1982" type="inclusive">1844 , 1928 , 1982</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_68255dddee88d51d6f001b077bfcf138" label="Mixed Materials [31142063004660]" type="Box">1</container>
+          <container id="aspace_9c45e4f8f0b50cf403527c9c835978a9" parent="aspace_68255dddee88d51d6f001b077bfcf138" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>John W. Draper as President of the Medical Faculty</unittitle>
+          <unitdate datechar="creation" normal="1855/1978" type="inclusive">1855 , 1978</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_0a6eee943372508d1e16ff626a47d9cc" label="Mixed Materials [31142063004660]" type="Box">1</container>
+          <container id="aspace_fe867a252f09767bb90a7ed9173ac6d8" parent="aspace_0a6eee943372508d1e16ff626a47d9cc" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>John W. Draper's association with the American Chemical Society; centennial of American Chemical Society</unittitle>
+          <unitdate datechar="creation" normal="1941/1982" type="inclusive">1941-1982</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_8212808ad00fdb655447425732485208" label="Mixed Materials [31142063004660]" type="Box">1</container>
+          <container id="aspace_d4d44fdeef72dce46b7093b8d1e8aaaf" parent="aspace_8212808ad00fdb655447425732485208" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Obituary and funeral of John W. Draper</unittitle>
+          <unitdate datechar="creation" normal="1882/1953" type="inclusive">1882 , 1953</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_d395042d20d456c1a0dd14d7c1ce59b4" label="Mixed Materials [31142063004660]" type="Box">1</container>
+          <container id="aspace_df1963ffc27212a83c5707d5e457834e" parent="aspace_d395042d20d456c1a0dd14d7c1ce59b4" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Draper memorabilia</unittitle>
+          <unitdate datechar="creation" normal="1962/1976" type="inclusive">1962 , 1976</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_8d1f0a31f461f941a39144743b4de774" label="Mixed Materials [31142063004660]" type="Box">1</container>
+          <container id="aspace_06d71daabe979379d39a136fdd2a6c03" parent="aspace_8d1f0a31f461f941a39144743b4de774" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>John W. Draper memorial plaque</unittitle>
+          <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_f6c6d8eab30fd14ca6f71cabfce624d7" label="Mixed Materials [31142063004660]" type="Box">1</container>
+          <container id="aspace_10436dedf8a40692748e568d4ea5eb28" parent="aspace_f6c6d8eab30fd14ca6f71cabfce624d7" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Centenary celebration of John W. Draper's birth</unittitle>
+          <unitdate datechar="creation" normal="1911/1925" type="inclusive">1911 , 1925</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_1d6566f9cec0c9ba3686688d4a71c2c1" label="Mixed Materials [31142063004660]" type="Box">1</container>
+          <container id="aspace_e8a426ef47d2c5d3187cc132ee07f087" parent="aspace_1d6566f9cec0c9ba3686688d4a71c2c1" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Henry Draper (1837-82), son of John W. Draper</unittitle>
+          <unitdate datechar="creation" normal="1882/1981" type="inclusive">1882-1981</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_bf32ab23f7c06f513912a81ef2fc7b37" label="Mixed Materials [31142063004660]" type="Box">1</container>
+          <container id="aspace_c05c2987f97b79ee935e5b31bd2db36f" parent="aspace_bf32ab23f7c06f513912a81ef2fc7b37" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>John William Draper, Ph.D., specialist in English literature, grandson of John W. Draper</unittitle>
+          <unitdate datechar="creation" normal="1948/1976" type="inclusive">1948 , 1976</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_ac76754a33380691a7c6269f3f4786e4" label="Mixed Materials [31142063004660]" type="Box">1</container>
+          <container id="aspace_74c98b0e0099367a180073f09fade222" parent="aspace_ac76754a33380691a7c6269f3f4786e4" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>John W. Draper, M.D., great-grandson of John W. Draper</unittitle>
+          <unitdate datechar="creation" normal="1926/1976" type="inclusive">1926 , 1976</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_6d671cc197052171f6710b30a71ff274" label="Mixed Materials [31142063004660]" type="Box">1</container>
+          <container id="aspace_9b5e327f9d1b147d400fa22b55df65b3" parent="aspace_6d671cc197052171f6710b30a71ff274" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Dr. Daniel Gardner, grandnephew of John W. Draper</unittitle>
+          <unitdate datechar="creation" normal="1948/1950" type="inclusive">1948-1950</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_79e3fd05b3b90e32477f8ac3b9d7d6f9" label="Mixed Materials [31142063004660]" type="Box">1</container>
+          <container id="aspace_2d64c0e2718200282fce687c911605ed" parent="aspace_79e3fd05b3b90e32477f8ac3b9d7d6f9" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Henry Draper Memorial Centennial Symposium</unittitle>
+          <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_6d22b16004cb2bc63f16ac7c912b8a88" label="Mixed Materials [31142063004660]" type="Box">1</container>
+          <container id="aspace_6ffd66600edc7c5590c8f179e3910b71" parent="aspace_6d22b16004cb2bc63f16ac7c912b8a88" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>John W. Draper Addresses</unittitle>
+          <unitdate datechar="creation" normal="1841/1873" type="inclusive">1841-1873</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fd2dd547f41ebe000278ef38343b0925" label="Mixed Materials [31142063004686]" type="Box">2</container>
+          <container id="aspace_500ce63214818d0be555c0f3d2229efd" parent="aspace_fd2dd547f41ebe000278ef38343b0925" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Draper, Henry. Scientific pamphlets by other authors</unittitle>
+          <unitdate datechar="creation" normal="1836/1982" type="inclusive">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8f2230a88d1c5e073abb4a151b2aea88" label="Mixed Materials [31142063004686]" type="Box">2</container>
+          <container id="aspace_9685ee6250aacdc374df908b1767e592" parent="aspace_8f2230a88d1c5e073abb4a151b2aea88" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>Draper, Henry. Inventory of tools, instruments, chemicals, and books</unittitle>
+          <unitdate datechar="creation" normal="1880/1880">1880</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6ead09846208af6cb941d7f6b1ebc7b0" label="Mixed Materials [31142063004686]" type="Box">2</container>
+          <container id="aspace_86f388c463c2ead52c1d48c555a0d2a5" parent="aspace_6ead09846208af6cb941d7f6b1ebc7b0" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Draper, Henry. "On Photographs of the Nebula in Orion"</unittitle>
+          <unitdate datechar="creation">May 1882</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_600d6748bf65e592290c3eafa13c10dd" label="Mixed Materials [31142063004686]" type="Box">2</container>
+          <container id="aspace_098c8c670cc48ca04ea77d188fec89ad" parent="aspace_600d6748bf65e592290c3eafa13c10dd" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Draper, Henry. Memoir, from <emph render="italic">University Quarterly</emph></unittitle>
+          <unitdate datechar="creation" normal="1882/1882" type="inclusive">1882</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_54a40e915eba015d75fd24ef1fa9bcfe" label="Mixed Materials [31142063004686]" type="Box">2</container>
+          <container id="aspace_2ab196d533182356dcfa8233e751991b" parent="aspace_54a40e915eba015d75fd24ef1fa9bcfe" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Draper, Henry. "Diffraction Spectrum Photography"</unittitle>
+          <unitdate datechar="creation">Dec. 1873</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4e05dfaa2d2d0aa09c20dd662a65da31" label="Mixed Materials [31142063004686]" type="Box">2</container>
+          <container id="aspace_c861f540d554e05bd76f281228e59760" parent="aspace_4e05dfaa2d2d0aa09c20dd662a65da31" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Draper, Henry. "Discovery of Oxygen in the Sun by Photography"</unittitle>
+          <unitdate datechar="creation">Aug. 1877</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fb8d39736b5641cca30968983c2e4636" label="Mixed Materials [31142063004686]" type="Box">2</container>
+          <container id="aspace_76959e2b643535fb0dfdbd4890743b9d" parent="aspace_fb8d39736b5641cca30968983c2e4636" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Draper, Henry. "On the use of Carbon Bisulfide in Prisms"</unittitle>
+          <unitdate datechar="creation">Apr. 1885</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ebfeab2f90cb3485b18b5e27967ce84b" label="Mixed Materials [31142063004686]" type="Box">2</container>
+          <container id="aspace_a107ef14be0f36a370f3dd8441ce3ec5" parent="aspace_ebfeab2f90cb3485b18b5e27967ce84b" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Plotkin, H. Colloquium at NYU Physics Department</unittitle>
+          <unitdate datechar="creation">Apr. 1881</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_184c6f25ffba466ea1fa82d2696313c7" label="Mixed Materials [31142063004686]" type="Box">2</container>
+          <container id="aspace_fc3987c19bd60b8d5a877b0ce0a13f3b" parent="aspace_184c6f25ffba466ea1fa82d2696313c7" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Draper, Henry. "On the Construction of a Silvered Glass Telescope"</unittitle>
+          <unitdate datechar="creation" normal="1864/1864" type="inclusive">1864</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f01fba2e19c09b0e38364e82ec273502" label="Mixed Materials [31142063004686]" type="Box">2</container>
+          <container id="aspace_0e5b3cbffbac336976415a8b0406f340" parent="aspace_f01fba2e19c09b0e38364e82ec273502" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Symposium on the Orion Nebula to Honor Henry Draper. <emph render="italic">Annals of the New York Academy of Sciences</emph>, Volume 395</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6597536523e16705a45d8fb9775d7153" label="Mixed Materials [31142063004686]" type="Box">2</container>
+          <container id="aspace_fedf5f2aa46a3e5b1f2b5e65090f36f5" parent="aspace_6597536523e16705a45d8fb9775d7153" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Barker, George F. Memoir of Henry Draper</unittitle>
+          <unitdate datechar="creation" normal="1888/1888" type="inclusive">1888</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_dad4c41d85f4ef6fc4debf4e5a8c798f" label="Mixed Materials [31142063004686]" type="Box">2</container>
+          <container id="aspace_e18f9c4428ff60d4488451a942c245e2" parent="aspace_dad4c41d85f4ef6fc4debf4e5a8c798f" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Plotkin, Howard N. "Henry Draper: A Scientific Biography." Abstract and Bibliography of Ph.D. Dissertation, Johns Hopkins University</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1cd271b11ca5811eeb5396925127cb45" label="Mixed Materials [31142063004686]" type="Box">2</container>
+          <container id="aspace_6a4138dc14d222e1cf5c38b5d48e6937" parent="aspace_1cd271b11ca5811eeb5396925127cb45" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Correspondence (about photography, John W. Draper as a scientist, etc.); 1839 ALS from Draper accepting NYU professorship; letters to and from Theodore F. Jones about Draper; other correspondence on miscellaneous subjects related to Draper and the history of photography</unittitle>
+          <unitdate datechar="creation" normal="1839/1969" type="inclusive">1839-1969</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_800a7c4f0c4ee0903211df4d231d78a4" label="Mixed Materials [31142063004694]" type="Box">3</container>
+          <container id="aspace_8d4e46427277075c7b0355ecaca35885" parent="aspace_800a7c4f0c4ee0903211df4d231d78a4" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Correspondence (about Draper Family); letters between Dr. Jones and John W. Draper (III) about the family's history; extensive correspondence between Dr. Jones and Charles Lennox Wright, a Draper relative, on the same topic</unittitle>
+          <unitdate datechar="creation" normal="1939/1949" type="inclusive">1939-1949</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_a27f6511218f97b7668a3ac38ab28848" label="Mixed Materials [31142063004694]" type="Box">3</container>
+          <container id="aspace_5c80efe64a694db18e11a31715b26ed3" parent="aspace_a27f6511218f97b7668a3ac38ab28848" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>John William Draper: Reprints and typescript articles. "Professor Draper on the Process of Daguerreotype and its application to taking protraits from the life," excerpt from the <emph render="italic">London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science</emph>, v. XVIII, 1840; "Science in America" Inaugural Address of Dr. John W. Draper as President of the American Chemical Society, reprinted from <emph render="italic">American Chemist</emph>, Dec. 1876; and "On the Phosphorograph of a Solar Spectrum and on the Lines in its Infra-red Region," reprinted from the <emph render="italic">Proceedings of the American Academy of Arts and Sciences</emph>, [ca. 1880]</unittitle>
+          <unitdate datechar="creation" normal="1840/1880" type="inclusive">1840 , 1876-1880</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_5398a46bc97e8b1b3336d5c9bc0a9a61" label="Mixed Materials [31142063004694]" type="Box">3</container>
+          <container id="aspace_554d2ba6ebbede961ed7159600d22682" parent="aspace_5398a46bc97e8b1b3336d5c9bc0a9a61" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>John William Draper: Lectures and Addresses. "Concluding Lecuture on the Theory and Phenomena of Heat," Medical Dept.; "An Introductory Lecture on Phosporus," Medical Dept.; and "An Address to the Alumni of the University."</unittitle>
+          <unitdate datechar="creation" normal="1841/1853" type="inclusive">1841 , 1847 , 1853</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_38ac284e1a19551872090954576111b6" label="Mixed Materials [31142063004694]" type="Box">3</container>
+          <container id="aspace_ff62e0aa6572edad649e250072c6b29c" parent="aspace_38ac284e1a19551872090954576111b6" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>John William Draper: Biographical Material. Photocopy of Draper entry from <emph render="italic">Universities and their Sons</emph>; typescript of <emph render="italic">Dictionary of American Biography</emph> entry, written by Ellwood Hendrick.</unittitle>
+          <unitdate datechar="creation" normal="1900/1928" type="inclusive">1900 , 1928</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_69296631f0a5fb7325eca48e5b094ef4" label="Mixed Materials [31142063004694]" type="Box">3</container>
+          <container id="aspace_620b06ff9e84be9fc6bc416aa30f7c71" parent="aspace_69296631f0a5fb7325eca48e5b094ef4" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Henry Draper: Reprints. "On Diffraction Spectrum Photography," reprinted from the <emph render="italic">American Journal of Science and Arts</emph>, vol. VI, Dec. 1873; "The Total Solar Eclipse of July 29, 1878," reprinted from the <emph render="italic">Journal of the Franklin Institute</emph> for Oct. 1878 (2 copies); and "Researches on Astronomical Spectrum"</unittitle>
+          <unitdate datechar="creation" normal="1873/1884" type="inclusive">1873-1884</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_f62afb8dd9665a6d95b45998e023e016" label="Mixed Materials [31142063004694]" type="Box">3</container>
+          <container id="aspace_1671adec20675549964db9fbd372158d" parent="aspace_f62afb8dd9665a6d95b45998e023e016" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Henry Draper: Memorial minute. By Geo. F. Barker, for the <emph render="italic">Proceedings of the American Philosophical Society</emph>.</unittitle>
+          <unitdate datechar="creation" normal="1882/1882" type="inclusive">1882</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_59f969156e68319a1e4b678a581ae1b7" label="Mixed Materials [31142063004694]" type="Box">3</container>
+          <container id="aspace_2c4118fc4e747c00a23b510a0bd10680" parent="aspace_59f969156e68319a1e4b678a581ae1b7" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Articles about John W. Draper, Henry Draper, early photography, etc., (photocopies). "John William Draper's Contributions to Astronomy," by Daniel Norman, <emph render="italic">Telescope V</emph>, (1938); "The Development of Astronomical Photography," by Daniel Norman, <emph render="italic">Osiris V</emph>, (1938); "Virginia Professor Put Click in Photography," by Pat Jones, <emph render="italic">The Record of the Hampden-Sydney Alumni Association</emph>, Spring 1967; "A Great Modern Observatory," by Mabel Loomis Todd, <emph render="italic">The Century Magazine</emph>, v. LIV, 38, n.d.; "Historical Note: Chapter XI: On the Process of Daguerreotype, and its application to taking portraits from life," no title, n.d. (includes part of an article from the <emph render="italic">London and Edinburgh Philosophical Magazine</emph> Sep. 1840)</unittitle>
+          <unitdate datechar="creation" normal="1938/1967" type="inclusive">1938-1967</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_d1d7690d1324b347833d78ed49153a5b" label="Mixed Materials [31142063004694]" type="Box">3</container>
+          <container id="aspace_88d3e53af50585d0246932ad01213383" parent="aspace_d1d7690d1324b347833d78ed49153a5b" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Miscellaneous NYU-related materials (photocopies). Course of instruction; reports to the New York State Assembly; list of "Philosophical Instruments Stolen;" and other related material.</unittitle>
+          <unitdate datechar="creation" normal="1836/1922" type="inclusive">1836-1922</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_72d33322e66a0da1eb31e14f8b1e7cb1" label="Mixed Materials [31142063004694]" type="Box">3</container>
+          <container id="aspace_b381d9c43fd872ab8ff577a8ad5c5f45" parent="aspace_72d33322e66a0da1eb31e14f8b1e7cb1" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Photographs. Removed to LD 20, Draper Collection (Photo Area). Includes one glass plate spectrograph.</unittitle>
+          <unitdate datechar="creation" normal="1836/1982" type="inclusive">undated</unitdate>
+          <container altrender="Manuscript box - Legal - Half" id="aspace_2509f5c4b5926776e1f37865999d65b6" label="Mixed Materials [31142063004694]" type="Box">3</container>
+          <container id="aspace_54ab87fb67fc3db112c5b8b69a202bd7" parent="aspace_2509f5c4b5926776e1f37865999d65b6" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Draper, John William. <emph render="italic">A Treatise on the Forces which Produce the Organization of Plants</emph> (Harper and Brothers: New York, 1844).</unittitle>
+          <unitdate datechar="creation" normal="1844/1844" type="inclusive">1844</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7dd79f8628a95ae3a61a3262ecd2fe14" label="Mixed Materials [31142063004702]" type="Box">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Draper, John W. <emph render="italic">Varia</emph> [collected lectures, addresses and reprints]</unittitle>
+          <unitdate datechar="creation" normal="1841/1881" type="inclusive">1841-1881</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3783f801052196c23b37b54eb482311b" label="Mixed Materials [31142063004702]" type="Box">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Draper, John William. <emph render="italic">Textbook on Chemistry</emph>. Sixth ed. (Harper and Brothers: New York, 1851). Presented to the University of the City of New York by Daniel Draper.</unittitle>
+          <unitdate datechar="creation" normal="1893/1893" type="inclusive">1893</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4a0dbd6958af360f16a3504f0d8af0b3" label="Mixed Materials [31142063004702]" type="Box">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Barker, George F. "Memoir of Henry Draper, 1837-1882." Read before the National Academy.</unittitle>
+          <unitdate datechar="creation" normal="1888/1888" type="inclusive">1888</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_79c2eaf3a1afb601b7ea30cda449cf21" label="Mixed Materials [31142063004702]" type="Box">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle><emph render="italic">The Record of the Hampden-Sydney Alumni Association</emph>, vol. 9, no. 1.</unittitle>
+          <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e16bd227447c216b533d9f650e14aabd" label="Mixed Materials [31142063004702]" type="Box">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref63" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>J.S. Radway, Chemistry Notebook</unittitle>
+          <unitdate datechar="creation" normal="1876/1876" type="inclusive">1876</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_707973354067f01a4c3a5bb457ae532b" label="Mixed Materials [31142063004702]" type="Box">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Draper, Henry. "Human Physiology"</unittitle>
+          <unitdate datechar="creation">1878</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_7d7f7794d2a24bc63d37c5f3c81fdb74" label="Mixed Materials [31142063004710]" type="Box">5</container>
+          <container id="aspace_e6df21c7672907d5bb3cbd1fb12eb67b" parent="aspace_7d7f7794d2a24bc63d37c5f3c81fdb74" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Draper, Henry. "A History of the Intellectual Development of Europe"</unittitle>
+          <unitdate datechar="creation">1864</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_b557c5de57bb059494e17d61a4bb9000" label="Mixed Materials [31142063004710]" type="Box">5</container>
+          <container id="aspace_399fd0189ee4b885e064b82f2091f713" parent="aspace_b557c5de57bb059494e17d61a4bb9000" type="Folder">2</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,2862 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_269">mss_269</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Daniel Goode Papers <num>MSS.269</num></titleproper>
+        <author>Lawrence Giffin in 2011</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>2011</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 21:57:45 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>August 2017</date>
+        <item>Record edited by Rachel Searcy to reflect incorporation of 2017 accretion;</item>
+      </change>
+      <change>
+        <date>December 2017</date>
+        <item>Updated by Megan O'Shea to incorporate artwork being sent to offsite art storage in December 2017;</item>
+      </change>
+      <change>
+        <date>September 2018</date>
+        <item>Edited by Jennifer E. Neal for compliance with DACS and ACM Required Elements for Archival Description</item>
+      </change>
+      <change>
+        <date>September 2019</date>
+        <item>Edited by Rachel Searcy to reflect 2019 accretion</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Daniel Goode Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Goode, Daniel</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="naf">Goode, Daniel</persname>
+      </origination>
+      <unitid>MSS.269</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">11.25 Linear Feet</extent>
+        <extent altrender="carrier">in 4 record cartons, 4 manuscript boxes, 1 half manuscript box, 1 tall manuscript box, 3 small flat boxes, 5 oversize flat boxes, and 2 oversize folders in shared housing</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1950/2016" type="inclusive">1950-2016</unitdate>
+      <unitdate datechar="creation" normal="1974/2004" type="bulk">1974-2004</unitdate>
+      <abstract id="aspace_3471f912eef3612df86a78271e47eab2">Daniel Goode (b. New York, January 24, 1936) is an American composer and clarinetist, whose work as a composer and performer has done much to introduce non-Western styles and tunings to Western audiences and to Western-style ensembles. The Daniel Goode Papers comprises printed scores, spiral-bound stave manuscript books, performance announcements (posters and cards), music programs, periodicals, staple-bound publications by Goode, catalogs, miscellaneous paper materials, videocassettes, cassette tapes, LP records, a reel of magnetic tape, and CDs.</abstract>
+      <physloc id="aspace_00c11e2729b767e41231d047eecfbe26">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_be3b7ed2657adcd972634d9469c3129b">Materials primarily in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_92cfca4b480cc3e9029964e76531c2e0">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_13a206f7c7544a07cb466956c39143f8">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Daniel Goode in 2010; additonal materials were donated in 2017 and 2019. The accession numbers associated with these gifts are 2010.269, 2017.171, and 2019.054.</p>
+    </acqinfo>
+    <arrangement id="aspace_bcbb4658c0f51369343e8f37f7d97e00">
+      <head>Arrangement</head>
+      <p>The collection is arranged into six series, five of which are arranged chronologically. Series VI. has not been arranged by an archivist. All series, subseries, and folder labels were provided by the archivist.</p>
+      <p>Series I. Daniel Goode Scores<lb/>
+Series II. Printed Matter<lb/>
+Series III. Video Recordings<lb/>
+Series IV. Sound Recordings<lb/>
+Series V. Data Disks<lb/>
+Series VI. 2019 Accretion</p>
+    </arrangement>
+    <bioghist id="aspace_2ef683de2998893cd7a89e92dbde9298">
+      <head>Biographical Note</head>
+      <p>Daniel Goode (b. New York, January 24, 1936) is an American composer and clarinetist, whose work as a composer and performer has done much to introduce non-Western styles and tunings to Western audiences and to Western-style ensembles.</p>
+      <p>Goode graduated from Oberlin College in 1957, and received his MA in 1962 from Columbia University, where he studied with Henry Cowell and Otto Luening. Goode also attended the University of San Diego, studying under Kenneth Gaburo and Pauline Oliveros. Goode taught at Livingston College, Rutgers, from 1971 to 1998. While at Rutgers, he founded the Livingston College Electronic Music Studio, serving as its director. Goode's work is influenced by his interest in Indonesian Gamelan and other non-Western modes and techniques, and his work often incorporates extended techniques on clarinet, circular breathing, birdsong, and Nova Scotian and Eastern European folk music. His works are published by Frog Peak Music and Theodore Presser.</p>
+      <p>Since the early 1970s, Goode has founded, composed for, and performed in various ensembles: Sounds out of Silent Spaces (with Philip Cornder, William Hellerman, Tom Johnson, and others) (1972-1979), Gamelan Son of Lion (with Corner, Barbara Benary, and others) (since 1976), DownTown Ensemble (with Hellerman and others) (since 1983),The Flexible Orchestra (since 2004).
+<lb/><lb/><lb/>
+Sources<lb/><lb/>
+"Daniel Goode - About." (2011). Retrieved from http://www.danielsgoode.com/about.html.<lb/><lb/>
+Benary, B. &amp; Sandow, G. (2001). "Daniel Goode." T<emph render="italic">he New Grove Dictionary of Music and Musicians, volume 10.</emph> 2nd Edition. Edited by Stanley Sadie. London: Macmillan Publishers, Ltd.</p>
+    </bioghist>
+    <phystech id="aspace_6ab8e479c2f4a392df99ad6fd1de2c51">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Access to audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact fales.library@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <phystech id="aspace_90548e9b945624656e1f042a0411e200">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Advance notice is required for the use of computer records.  Original physical digital media is restricted. Born-digital materials have not been transferred and may not be available to researchers. Researchers may request access copies.  To request that material be transferred, or if you are unsure if material has been transferred, please contact fales.library@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <prefercite id="aspace_de43f735e913637219576e1977789135">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Daniel Goode Papers; MSS 269; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+    </prefercite>
+    <processinfo id="aspace_bbbcdf32e7efa9bb6ce9624401a8a13c">
+      <head>Processing Information</head>
+      <p>Decisions concerning the arrangement, description, and physical interventions taken on this collection prior to 2017 have not yet been recorded. In 2017 an accretion was rehoused in archival folders and boxes (as Boxes 9-17), and intellectually incorporated into the collection's existing series structure based on format and content. In 2019 an accretion was rehoused in archival folders and boxes (as boxes 18-20) and added to the collection as a separate series.</p>
+    </processinfo>
+    <scopecontent id="aspace_7d9ca321c187b1dca31347c61af71957">
+      <head>Scope and Contents</head>
+      <p>The Daniel Goode Papers consist of materials created and collected by Goode in the course of his musical career between 1950 and 2015, including printed scores, spiral-bound stave manuscript books, performance announcements (posters and cards), music programs, periodicals, staple-bound publications by Goode, catalogs, miscellaneous paper materials, videocassettes, cassette tapes, LP records, a reel of magnetic tape, CDs and CD-Rs.</p>
+    </scopecontent>
+    <separatedmaterial id="aspace_180c9552e36a7f844400591beb7ba76f">
+      <head>Separated Materials</head>
+      <p>The following books were removed and cataloged as part of the Fales Food Studies Book Collection. They can be located by searching "Daniel Goode" in <extref xlink:href="http://library.nyu.edu/">BobCat</extref>, the NYU catalog.
+<lb/><lb/>
+Good, Daniel (Ed.). (1995). <emph render="italic">Frog Peak Rock Music Book</emph>. Lebanon, NH: Frog Peak Music.
+<lb/><lb/>
+Gaburo, Kenneth (Ed.). (1980). <emph render="italic">ALLOS: 'Other' Langauge</emph>. La Jolla, CA: Lingua Press.</p>
+    </separatedmaterial>
+    <userestrict id="aspace_a1be0c9ddcce41a763d419efd1e7e801">
+      <head>Conditions Governing Use</head>
+      <p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">Avant-garde (Music)</subject>
+      <subject source="lcsh">Composers -- United States -- 20th century</subject>
+      <subject source="lcsh">Music -- New York (State) -- New York.</subject>
+      <genreform source="aat">Audiocassettes.</genreform>
+      <subject source="lcsh">Gamelan</subject>
+      <subject source="lcsh">Minimal music.</subject>
+      <genreform source="aat">Phonograph records.</genreform>
+      <genreform source="aat">Magnetic tapes.</genreform>
+      <genreform source="aat">Compact discs.</genreform>
+      <genreform source="aat">Videocassettes.</genreform>
+      <genreform source="lcsh">Scores.</genreform>
+      <subject source="lcsh">Music -- Manuscripts.</subject>
+      <subject source="lcsh">Musicians -- 20th century</subject>
+      <persname role="dnr" source="naf">Goode, Daniel</persname>
+      <corpname source="naf">DownTown Ensemble</corpname>
+      <corpname source="naf">Gamelan Son of Lion</corpname>
+      <persname rules="aacr" source="naf">Corner, Philip</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref6" level="series">
+        <did>
+          <unittitle>Series I: Daniel Goode Scores</unittitle>
+        </did>
+        <arrangement id="aspace_45bab3f240203e500fa4dd3d9c722702">
+          <head>Arrangement</head>
+          <p>Subseries are arranged chronologically. Undated material is arranged alphabetically by folder label and placed after dated material.</p>
+        </arrangement>
+        <scopecontent id="aspace_0e1b003f8117b21d193f0f0808589916">
+          <head>Scope and Contents</head>
+          <p>Series I comprises stave manuscript books of Goode's compositions, as well as printed scores and performance directions.</p>
+        </scopecontent>
+        <c id="aspace_ref10" level="subseries">
+          <did>
+            <unittitle>Subseries A: Scores</unittitle>
+            <unitdate datechar="creation" normal="1974/2004" type="inclusive">1974-2004, undated</unitdate>
+          </did>
+          <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Circular Thoughts for Solo Clarinet"</unittitle>
+              <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+              <container altrender="Record carton" id="aspace_a15937ec87347fb207bcfec412361eb3" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_e9fd4645c0bbd72f474a12a4f9c699e6" parent="aspace_a15937ec87347fb207bcfec412361eb3" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"The Thrush from Upper Dunakin"</unittitle>
+              <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+              <container altrender="Record carton" id="aspace_40666f1e5f3a0b47e5ffc38a5a74b50a" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_f0efb8d08792e9181a2e28d4a864a612" parent="aspace_40666f1e5f3a0b47e5ffc38a5a74b50a" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Phrases of the Hermit Thrush"</unittitle>
+              <unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+              <container altrender="Record carton" id="aspace_31acba792c21e282da48738d63eb7aaf" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_cb28b88840d72bd67d327d10c124f47f" parent="aspace_31acba792c21e282da48738d63eb7aaf" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Two Thrushes - For 2 Woodwinds"</unittitle>
+              <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+              <container altrender="Record carton" id="aspace_4b1d892e7923a072fbc4038816d8c502" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_6ec73f407dd95c08a9fd01cc9c8722b4" parent="aspace_4b1d892e7923a072fbc4038816d8c502" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Paths for Piano," "Piano Concerto"</unittitle>
+              <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+              <container altrender="Record carton" id="aspace_945295d14732d58cb811743bbb8c21da" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_fee8d83ec215b0abd6a2a588fdc97f41" parent="aspace_945295d14732d58cb811743bbb8c21da" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Mozart Was a Performance Artist"</unittitle>
+              <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+              <container altrender="Record carton" id="aspace_c73cc130e826790f2458a0f3e61684a4" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_b674fdc77e6856704c59f766e1d79b5c" parent="aspace_c73cc130e826790f2458a0f3e61684a4" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Hear the Sound of Random Numbers"</unittitle>
+              <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+              <container altrender="Record carton" id="aspace_6c3614d9b46e06fcbf9015e91a5874af" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_ac2536475b16053489996c125445d185" parent="aspace_6c3614d9b46e06fcbf9015e91a5874af" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Circular Thoughts for Gamelan"</unittitle>
+              <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+              <container altrender="Record carton" id="aspace_e2f3abcc11b833bbbde41b7b44eccecf" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_8ac94267ca398b5df0bd65f745ef049e" parent="aspace_e2f3abcc11b833bbbde41b7b44eccecf" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"The Red and White Cows"</unittitle>
+              <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+              <container altrender="Record carton" id="aspace_40049d5f2d140f55d3d6160b72687f07" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_8376dd0f8a069d84c530c978323cfbf6" parent="aspace_40049d5f2d140f55d3d6160b72687f07" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Days of Music"</unittitle>
+              <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+              <container altrender="Record carton" id="aspace_b41f785f675a0a847fa8f7a331e972d2" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_ae6633eaccdcd650ce52b74d1fbcf164" parent="aspace_b41f785f675a0a847fa8f7a331e972d2" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Wind Symphony"</unittitle>
+              <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+              <container altrender="Record carton" id="aspace_c460f8cf12606fdc77a6652d267271b2" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_4c0ab3a45c1a5f6d1992c7c6b35bb237" parent="aspace_c460f8cf12606fdc77a6652d267271b2" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Switch 'N Pivot Processional"</unittitle>
+              <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+              <container altrender="Record carton" id="aspace_2f0110c6a0936da7f77621bbb821758f" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_664788c1108e36613a68134e93eca361" parent="aspace_2f0110c6a0936da7f77621bbb821758f" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Barry's Catches"</unittitle>
+              <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+              <container altrender="Record carton" id="aspace_1e10c9c80130eba5a3d926de864b936d" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_795169374c46bf5d85716d2616b6cb0e" parent="aspace_1e10c9c80130eba5a3d926de864b936d" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Random Chords"</unittitle>
+              <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+              <container altrender="Record carton" id="aspace_4adf727a3227e13153ef7c2b63753321" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_02e67984ac0e21076c11c53d62f0f466" parent="aspace_4adf727a3227e13153ef7c2b63753321" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Nod-Drama"</unittitle>
+              <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+              <container altrender="Record carton" id="aspace_b2194c977a562aa3fbdbc86b3e75ed3b" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_31247869ed7b8692587decd21ac9a60c" parent="aspace_b2194c977a562aa3fbdbc86b3e75ed3b" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Contents of "One Page Pieces; Copies; Notes on"</unittitle>
+              <container altrender="Record carton" id="aspace_6051fcd1df1ac40942629b0c74839f96" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_3baf64322d178c5237b65ee649e6b568" parent="aspace_6051fcd1df1ac40942629b0c74839f96" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Cover of "One Page Pieces; Copies; Notes On"</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container altrender="Record carton" id="aspace_9295a92900c3fb81591f40f3c84282df" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_f9997d772157bd10a779e69b578dfabb" parent="aspace_9295a92900c3fb81591f40f3c84282df" type="Folder">17a</container>
+            </did>
+          </c>
+          <c id="aspace_ref127" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"One Page Pieces" [from <emph render="italic">Frog Peak Rock Music Book</emph>]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_ad658682f22d036e1fabdb4c5acd895c" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_4e5640ef0f4ebb44ac41f62396eee57d" parent="aspace_ad658682f22d036e1fabdb4c5acd895c" type="Folder">17b</container>
+            </did>
+          </c>
+          <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"OoMPAH for Piano"</unittitle>
+              <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+              <container altrender="Record carton" id="aspace_2646e9e9c6dbaa6d99476ff4f3de3867" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_cba84ac1ee8aae6f48297bb628732b09" parent="aspace_2646e9e9c6dbaa6d99476ff4f3de3867" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Pipes, Plates, and High Bars"</unittitle>
+              <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+              <container altrender="Record carton" id="aspace_9f5bd032dd1464b1dc5eb1a683c870d0" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_a9792e038c8b5120cdc72a4a04421608" parent="aspace_9f5bd032dd1464b1dc5eb1a683c870d0" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Interpreting: Text for a Musical Work Composed for the DownTown Ensemble" by Daniel Goode</unittitle>
+              <unitdate datechar="creation" normal="2004/2004" type="inclusive">2004</unitdate>
+              <container altrender="Record carton" id="aspace_967fd0564377a4c30ad8c214db3de21e" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_99572b350d43dea19fcf110cc20fa20a" parent="aspace_967fd0564377a4c30ad8c214db3de21e" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Octave for Jackson"</unittitle>
+              <unitdate datechar="creation" normal="2005/2005" type="inclusive">2005</unitdate>
+              <container altrender="Record carton" id="aspace_c5475e1554e8fcc2b39479d5ae5ca4f5" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_9603a0a4f4c80ebccd6a0d48dac34097" parent="aspace_c5475e1554e8fcc2b39479d5ae5ca4f5" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Toy Symphony" [unrevised]</unittitle>
+              <unitdate datechar="creation" normal="2007/2007" type="inclusive">2007</unitdate>
+              <container altrender="Record carton" id="aspace_49861a6a127122cba613482758b3d402" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_875a54a833bf14ee98881ffd976bf24a" parent="aspace_49861a6a127122cba613482758b3d402" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_58e35cdf041f226d1b1abcf5ca7025e3" level="file">
+            <did>
+              <unittitle>"An Ideal Amen"</unittitle>
+              <unitdate datechar="creation" normal="2014/2014">2014</unitdate>
+              <container altrender="Flat OS Box - 16 x 20.25 x 3.75" id="aspace_bf574e305c6929cee3c55080c2a78c2f" label="Mixed Materials [31142063123346]" type="Box">14</container>
+              <container id="aspace_0301709d1556ee3d3b7fadf0772a26c1" parent="aspace_bf574e305c6929cee3c55080c2a78c2f" type="Folder">4-6</container>
+            </did>
+          </c>
+          <c id="aspace_5bfa2d22e7e587a6beb2538708b074ec" level="file">
+            <did>
+              <unittitle>"Antiphony IV"</unittitle>
+              <unitdate datechar="creation" normal="1960/1980" type="inclusive">undated</unitdate>
+              <container altrender="Flat OS Box - 16 x 20.25 x 3.75" id="aspace_3f844f868e535784838c7f40b573f70e" label="Mixed Materials [31142063123346]" type="Box">14</container>
+              <container id="aspace_f7a1bc8a31f1d38b48df3b68280299b3" parent="aspace_3f844f868e535784838c7f40b573f70e" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Cage's 'Dream' Dreamed"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_5f4ad3fe460941eadd8279f2d5518303" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_1b2a8e919fd46360583e3d150bd4e723" parent="aspace_5f4ad3fe460941eadd8279f2d5518303" type="Folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Caller's Music"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_b206e02dea6a788aa876bdfea63505bc" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_079161c20bfa1887a3ad0b430915f4dd" parent="aspace_b206e02dea6a788aa876bdfea63505bc" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_4755842f338181883869a3a9c1ee5a8f" level="file">
+            <did>
+              <unittitle>"Certain Distilling Processes"</unittitle>
+              <unitdate datechar="creation" normal="1960/1980" type="inclusive">undated</unitdate>
+              <container altrender="Flat OS Box - 16 x 20.25 x 3.75" id="aspace_c551eb558ed0e52bef04bcba14500042" label="Mixed Materials [31142063123346]" type="Box">14</container>
+              <container id="aspace_a3026119e5989e1c5ae832dab2efca9f" parent="aspace_c551eb558ed0e52bef04bcba14500042" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_bddc5c3af53f149b56d7c2d22dc0f0cc" level="file">
+            <did>
+              <unittitle>"The Chaco Wilderness"</unittitle>
+              <unitdate datechar="creation" normal="1960/1980" type="inclusive">undated</unitdate>
+              <container altrender="Flat OS Box - 16 x 20.25 x 3.75" id="aspace_e627eee64c513eba0fd3c5a759acbe6c" label="Mixed Materials [31142063123346]" type="Box">14</container>
+              <container id="aspace_f97622be5a417f0045bb88f397aae1a7" parent="aspace_e627eee64c513eba0fd3c5a759acbe6c" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Dans Music"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_2a90ac18e3817126dc25dabdbbdf6369" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_2625cd06730e5311d088c50a96a9339f" parent="aspace_2a90ac18e3817126dc25dabdbbdf6369" type="Folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Eine Kleine Gamelan Music"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_a39fc8a9be2a7ca7265ba3c5a482eb02" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_2e205cfa3136268d82cb22e478b40a19" parent="aspace_a39fc8a9be2a7ca7265ba3c5a482eb02" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_f08e9f802c244309d2fab2416389fb86" level="file">
+            <did>
+              <unittitle>"Inner Motions" (Part IV)</unittitle>
+              <unitdate datechar="creation" normal="1960/1980" type="inclusive">undated</unitdate>
+              <container altrender="Flat Box - 12 x 15.25" id="aspace_e8899f5c31548134afacb5e7abc85cd3" label="Mixed Materials [31142063123320]" type="Box">12</container>
+              <container id="aspace_d99d281dacc2e35ceefeb7d162d14cca" parent="aspace_e8899f5c31548134afacb5e7abc85cd3" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_f093631d99e48430b539decd005b8491" level="file">
+            <did>
+              <unittitle>"Line Studies"</unittitle>
+              <unitdate datechar="creation" normal="1957/1957">1957</unitdate>
+              <container altrender="Flat OS Box - 16 x 20.25 x 3.75" id="aspace_0c55bb356ac90a81a10124c14ae18e00" label="Mixed Materials [31142063123346]" type="Box">14</container>
+              <container id="aspace_8f746feb3bea4cc27fa1f17e847269ae" parent="aspace_0c55bb356ac90a81a10124c14ae18e00" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"The Red and White Cows"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_5d870c216638c5c2f79b4f0ec4799213" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_8382db240e0b99f64f377ad74d8c4247" parent="aspace_5d870c216638c5c2f79b4f0ec4799213" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Semaphores"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_4c0959a6b728e18358deb183a2427606" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_6e0173bb68a69e07bb2ef1be1a568eb2" parent="aspace_4c0959a6b728e18358deb183a2427606" type="Folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Shaking Music"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_0475dd2e0179d9101251947eb00d0786" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_1622ea1a0262a71ec495068eced211c8" parent="aspace_0475dd2e0179d9101251947eb00d0786" type="Folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Slendro Clarinet," "Clarinet in Pelog"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_f3cb24ee566b25bf98bf018f05e978ab" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_2f2b4e6923ac6d53a281240977742cc7" parent="aspace_f3cb24ee566b25bf98bf018f05e978ab" type="Folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_8f0f1af018a46041ac0cb437071434f2" level="file">
+            <did>
+              <unittitle>"Sonata for Clarinet and Piano"</unittitle>
+              <unitdate datechar="creation" normal="1960/1980" type="inclusive">undated</unitdate>
+              <container altrender="Flat Box - 12 x 15.25" id="aspace_574bc816800a7cef3308603d8e5ea8c5" label="Mixed Materials [31142063123320]" type="Box">12</container>
+              <container id="aspace_fe958a42f40f41d150337f290c370923" parent="aspace_574bc816800a7cef3308603d8e5ea8c5" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_2da5886d55a5d0e354a5f71aa9b36421" level="file">
+            <did>
+              <unittitle>"Symphony No. 1"</unittitle>
+              <unitdate datechar="creation" normal="1960/1980" type="inclusive">undated</unitdate>
+              <container altrender="Flat Box - 12 x 15.25" id="aspace_0f19deca5d96a66f83db5c6a4b6946cf" label="Mixed Materials [31142063123320]" type="Box">12</container>
+              <container id="aspace_67728aeade6b3963065b8e25c20bf33a" parent="aspace_0f19deca5d96a66f83db5c6a4b6946cf" type="Folder">3-4</container>
+            </did>
+          </c>
+          <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Orbits #1"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_6836c19a0c796fd6ca046bc14c24c0d0" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_578379ac6634bff432bdf4162f99456a" parent="aspace_6836c19a0c796fd6ca046bc14c24c0d0" type="Folder">31</container>
+            </did>
+          </c>
+          <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Two Dans Music"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_844ea7d77a97e8e9d60106c98bda657d" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_e2a09509e4135fdfabc69e02c3a5265e" parent="aspace_844ea7d77a97e8e9d60106c98bda657d" type="Folder">32</container>
+            </did>
+          </c>
+          <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Two Noter" [uncorrected]</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_82302b5ca698253b5a6ed5c234ca8627" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_a5332920c2044935c68b3148910f4eb8" parent="aspace_82302b5ca698253b5a6ed5c234ca8627" type="Folder">33</container>
+            </did>
+          </c>
+          <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Untitled"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_8a6d90cf569e8a268323454319bd3201" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_870912eaca2b314ffdd36f8706892f8b" parent="aspace_8a6d90cf569e8a268323454319bd3201" type="Folder">34</container>
+            </did>
+          </c>
+          <c id="aspace_80d3e88411bd7b0313043f1ca576ed08" level="file">
+            <did>
+              <unittitle>Untitled Scores</unittitle>
+              <unitdate datechar="creation" normal="1960/1980" type="inclusive">undated</unitdate>
+              <container altrender="Flat Box - 12 x 15.25" id="aspace_9de1fdb16cba4b87ccbea33ab4d077fb" label="Mixed Materials [31142063123338]" type="Box">13</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref11" level="subseries">
+          <did>
+            <unittitle>Subseries B: Manuscript Books</unittitle>
+            <unitdate datechar="creation" normal="1960/1963" type="inclusive">1960-1963</unitdate>
+          </did>
+          <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Manuscript Book #1 Sept. '58 - June '60<lb/>
+Manuscript Book #2 June - Sept. 1960</unittitle>
+              <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+              <container altrender="Record carton" id="aspace_511e739217c99569a566919881a27e56" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_14f3599c2029dec0f62acd72ff3a2f0e" parent="aspace_511e739217c99569a566919881a27e56" type="Folder">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Manuscript Book #3 Sept. 1960 - Dec. 1960<lb/>
+Manuscript Book #4 Dec. 1960<lb/>
+Manuscript Book #5 Jan. 1961</unittitle>
+              <unitdate datechar="creation" normal="1960/1961" type="inclusive">1960-1961</unitdate>
+              <container altrender="Record carton" id="aspace_4172a63acef51ef406eaf13a15202ad4" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_4bea0010ea4fd4db6e94368b69ae8863" parent="aspace_4172a63acef51ef406eaf13a15202ad4" type="Folder">36</container>
+            </did>
+          </c>
+          <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Manuscript Book #6 Feb 1961<lb/>
+Manuscript Book #7 March 28, 1961<lb/>
+Manuscript Book #9 August 8, 1961</unittitle>
+              <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+              <container altrender="Record carton" id="aspace_920d87232f9b60ffd44b9b5485b43dbf" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_6f219a754e775c376303864469e84889" parent="aspace_920d87232f9b60ffd44b9b5485b43dbf" type="Folder">37</container>
+            </did>
+          </c>
+          <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Manuscript Book #10 Dec 22 1961<lb/>
+Manuscript Book #11 Jan 20 1962<lb/>
+Manuscript Book #12 June 21 1962<lb/></unittitle>
+              <unitdate datechar="creation" normal="1961/1962" type="inclusive">1961-1962</unitdate>
+              <container altrender="Record carton" id="aspace_e9f0e8fca13acac1261d02cdbf4a5b11" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_77755ed0b2682e55a8f03a009f521f6f" parent="aspace_e9f0e8fca13acac1261d02cdbf4a5b11" type="Folder">38</container>
+            </did>
+          </c>
+          <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Manuscript Book #13 Jan. 1963<lb/>
+Manuscript Book #14 Winter '63 (Feb) (Mar)<lb/>
+Manuscript Book #15 July 15 1963<lb/></unittitle>
+              <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+              <container altrender="Record carton" id="aspace_12a1c6dd95b81752b87ea3ffc7444af4" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_6dbccb1d7dc8de3b774c97c37695cf82" parent="aspace_12a1c6dd95b81752b87ea3ffc7444af4" type="Folder">39</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref9" level="series">
+        <did>
+          <unittitle>Series II: Printed Matter</unittitle>
+        </did>
+        <arrangement id="aspace_f2af85a609fc36a934c518be15e02fd7">
+          <head>Arrangement</head>
+          <p>Subseries are arranged chronologically. Undated material is arranged alphabetically by folder label and placed after dated material.</p>
+        </arrangement>
+        <scopecontent id="aspace_080966665c7293ea5ff242e6012009d5">
+          <head>Scope and Contents</head>
+          <p>Series II comprises cards and posters announcing performances, programs from musical performances, periodicals, music company catalogs, and other paper material.</p>
+        </scopecontent>
+        <c id="aspace_ref13" level="subseries">
+          <did>
+            <unittitle>Subseries A: Mailers and Announcements</unittitle>
+            <unitdate datechar="creation" normal="1976/2001" type="inclusive">1976-2001, undated</unitdate>
+          </did>
+          <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Daniel Goode Mailers and Announcements 1 of 2</unittitle>
+              <unitdate datechar="creation" normal="1976/1997" type="inclusive">1976-1997</unitdate>
+              <container altrender="Record carton" id="aspace_0f961c2e35a6ceba463c2690aade57db" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_d79148f0a4127a7ba4ef53e9404c0127" parent="aspace_0f961c2e35a6ceba463c2690aade57db" type="Folder">40</container>
+            </did>
+          </c>
+          <c id="aspace_ref63" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Daniel Goode Mailers and Announcements 2 of 2</unittitle>
+              <unitdate datechar="creation" normal="2000/2009" type="inclusive">2000-2009, undated</unitdate>
+              <container altrender="Record carton" id="aspace_8c205df02c67652a0b0b6214b2278c28" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_57fbc3000967a8e2dbf9c7aae02f178d" parent="aspace_8c205df02c67652a0b0b6214b2278c28" type="Folder">41</container>
+            </did>
+            <odd id="aspace_3f3b29999c652f23e3dd3dee4a0ab977">
+              <head>General</head>
+              <p>Contains some Flexible Orchestra mailers and announcements.</p>
+            </odd>
+          </c>
+          <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Gamelan Son of Lion Mailers and Announcements</unittitle>
+              <unitdate datechar="creation" normal="1989/1991" type="inclusive">1989-1991, undated</unitdate>
+              <container altrender="Record carton" id="aspace_9ae90cd715e7794008b280a1cbb1ec40" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_59e96619f574ac961358c125d7b95a48" parent="aspace_9ae90cd715e7794008b280a1cbb1ec40" type="Folder">42</container>
+            </did>
+          </c>
+          <c id="aspace_ref65" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>DownTown Ensemble Mailers and Announcements</unittitle>
+              <unitdate datechar="creation" normal="1994/2001" type="inclusive">1994, 1995, 2001, undated</unitdate>
+              <container altrender="Record carton" id="aspace_6434cda25788b410b4e35dcbb24f9c26" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_b61985527700a69cbf3bf6cd1ffd6ce1" parent="aspace_6434cda25788b410b4e35dcbb24f9c26" type="Folder">43</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref12" level="subseries">
+          <did>
+            <unittitle>Subseries B: Programs</unittitle>
+            <unitdate datechar="creation" normal="1978/2009" type="inclusive">1978-2009, undated</unitdate>
+          </did>
+          <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Daniel Goode Programs 1 of 7</unittitle>
+              <unitdate datechar="creation" normal="1978/1987" type="inclusive">1978-1987</unitdate>
+              <container altrender="Record carton" id="aspace_b35730f12418dc6dfd0aa5f8dd323912" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_4c2de1d44f4e4a9ad4f8cc2ebbeb1225" parent="aspace_b35730f12418dc6dfd0aa5f8dd323912" type="Folder">44</container>
+            </did>
+          </c>
+          <c id="aspace_ref67" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Daniel Goode Programs 2 of 7</unittitle>
+              <unitdate datechar="creation" normal="1987/1989" type="inclusive">1987-1989</unitdate>
+              <container altrender="Record carton" id="aspace_a84196cb2569d6daf7dd1c0292909743" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_f5d3876782181793d08ada3bd11781b3" parent="aspace_a84196cb2569d6daf7dd1c0292909743" type="Folder">45</container>
+            </did>
+          </c>
+          <c id="aspace_ref68" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Daniel Goode Programs 3 of 7</unittitle>
+              <unitdate datechar="creation" normal="1990/1994" type="inclusive">1990-1994</unitdate>
+              <container altrender="Record carton" id="aspace_249f3822df74a9cd1ca6e3ccb177b131" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_56235e7d564884e216481571424fe661" parent="aspace_249f3822df74a9cd1ca6e3ccb177b131" type="Folder">46</container>
+            </did>
+          </c>
+          <c id="aspace_ref69" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Daniel Goode Programs 4 of 7</unittitle>
+              <unitdate datechar="creation" normal="1994/1997" type="inclusive">1994-1997</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_58c8d8421df5bb9187e74e5587458404" label="Mixed Materials [31142063599651]" type="Box">2</container>
+              <container id="aspace_6f32fc6e3ffb4df7aa384e65c9fc3304" parent="aspace_58c8d8421df5bb9187e74e5587458404" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref70" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Daniel Goode Programs 5 of 7</unittitle>
+              <unitdate datechar="creation" normal="2000/2004" type="inclusive">2000-2004</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_3db46cfcde930714032071e2d3f36238" label="Mixed Materials [31142063599651]" type="Box">2</container>
+              <container id="aspace_774fb47b574630c226fda0d5735c373f" parent="aspace_3db46cfcde930714032071e2d3f36238" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref71" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Daniel Goode Programs 6 of 7</unittitle>
+              <unitdate datechar="creation" normal="2004/2010" type="inclusive">2004-2010</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_c478af52360cbac36dc4a58d42c66fb1" label="Mixed Materials [31142063599651]" type="Box">2</container>
+              <container id="aspace_e6a4dab67dc0281c72a5b8175c7a4686" parent="aspace_c478af52360cbac36dc4a58d42c66fb1" type="Folder">3</container>
+            </did>
+            <odd id="aspace_73adeb267213d8acec7446109213fcdf">
+              <head>General</head>
+              <p>Contains some Flexible Orchestra programs.</p>
+            </odd>
+          </c>
+          <c id="aspace_ref72" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Daniel Goode Programs 7 of 7</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_de50b351bda89850b18f1f7a26ad3053" label="Mixed Materials [31142063599651]" type="Box">2</container>
+              <container id="aspace_5263b8d49e9f48137bd1577e105c8643" parent="aspace_de50b351bda89850b18f1f7a26ad3053" type="Folder">4</container>
+            </did>
+            <odd id="aspace_1ea5a9d8e9578e5c337bb5785009d334">
+              <head>General</head>
+              <p>Contains some Flexible Orchestra programs.</p>
+            </odd>
+          </c>
+          <c id="aspace_ref73" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Gamelan Son of Lion Programs</unittitle>
+              <unitdate datechar="creation" normal="1984/2007" type="inclusive">1984-2007</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_128ccda479ff1afa07c71d1ec9dc715f" label="Mixed Materials [31142063599651]" type="Box">2</container>
+              <container id="aspace_5931d2fe5d55e1d2aee6c60eddd2d38e" parent="aspace_128ccda479ff1afa07c71d1ec9dc715f" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref74" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>DownTown Ensemble Programs</unittitle>
+              <unitdate datechar="creation" normal="1985/2008" type="inclusive">1985-2008, undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_4b4d8bc031a1a012def430f08965dd6e" label="Mixed Materials [31142063599651]" type="Box">2</container>
+              <container id="aspace_a6e2243111af9c3227b60fbd2bf5b17a" parent="aspace_4b4d8bc031a1a012def430f08965dd6e" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref75" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>SoHo Gamelan Walk</unittitle>
+              <unitdate datechar="creation" normal="2009/2009" type="inclusive">2009</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_51ffff2ad89a6f77ad0b0b2dcec2e644" label="Mixed Materials [31142063599651]" type="Box">2</container>
+              <container id="aspace_b1c1953d57cf1ebea62737ebb1ddc7f6" parent="aspace_51ffff2ad89a6f77ad0b0b2dcec2e644" type="Folder">7</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref22" level="subseries">
+          <did>
+            <unittitle>Subseries C: Miscellaneous Papers</unittitle>
+            <unitdate datechar="creation" normal="1993/1999" type="inclusive">1993, 1999, undated</unitdate>
+          </did>
+          <c id="aspace_ref76" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Balkan Music Has No Borders"</unittitle>
+              <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_1ff5292cedf5cfeb2f7927cc2f2bfaf0" label="Mixed Materials [31142063599651]" type="Box">2</container>
+              <container id="aspace_e52d78432c69448d4ff47e2533baf98a" parent="aspace_1ff5292cedf5cfeb2f7927cc2f2bfaf0" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_dd246a42a79bf2874666b45761aa7c1d" level="file">
+            <did>
+              <unittitle><emph render="italic">A Book for Grandmothers</emph> (Ruth Goode)</unittitle>
+              <unitdate datechar="creation" normal="1976/1978" type="inclusive">1976-1978</unitdate>
+              <container altrender="Record carton" id="aspace_560f38523d79aac94bd8a75674a9ea66" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_13679b5726a2f6c8d40f2ce73902f49d" parent="aspace_560f38523d79aac94bd8a75674a9ea66" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_28affcbfb4b22057e03feb5a43b48eab" level="file">
+            <did>
+              <unittitle>Computational Linguistics Notes and Readings</unittitle>
+              <unitdate datechar="creation" normal="1970/1970">1970</unitdate>
+              <container altrender="Record carton" id="aspace_817b20fe5649007a2f396e0c267e5a1d" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_63b9b4af18b211e2574048a77eed2f95" parent="aspace_817b20fe5649007a2f396e0c267e5a1d" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_09b62a877e94ebdbb3997e16becf4214" level="file">
+            <did>
+              <unittitle>Correspondence</unittitle>
+              <unitdate datechar="creation" normal="1952/1970" type="inclusive">1952-1970</unitdate>
+              <container altrender="Record carton" id="aspace_ff370073874c97acfe90e3d57db2d26e" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_fb448574afb014bde1761e342d345c21" parent="aspace_ff370073874c97acfe90e3d57db2d26e" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_28e44aaa8cd94dc6720925c7310a791f" level="file">
+            <did>
+              <unittitle>Downtown Ensemble</unittitle>
+              <unitdate datechar="creation" normal="1950/2015" type="inclusive">undated</unitdate>
+              <container altrender="Record carton" id="aspace_85178159c83520fce86ed6fd8b3e863b" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_cfba2a56fa7460b0b15e6df2f4487202" parent="aspace_85178159c83520fce86ed6fd8b3e863b" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_993977247bd5f92ebf05440d26a3a744" level="file">
+            <did>
+              <unittitle>Electronic Music Notes and Outlines</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_a3201ca01b854adb91ecd045df59c3c6" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_df00858dad296f888ff556f3bfc54324" parent="aspace_a3201ca01b854adb91ecd045df59c3c6" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ae5a60097eba4600d37cbba1484a9ec4" level="file">
+            <did>
+              <unittitle>Peter Garland</unittitle>
+              <unitdate datechar="creation" normal="2015/2015">2015</unitdate>
+              <container altrender="Record carton" id="aspace_e9d8a6dfeaf7db80a4a21e802db4e5ec" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_8ec53f501d12af6ed31c0138fb5dd5d8" parent="aspace_e9d8a6dfeaf7db80a4a21e802db4e5ec" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref77" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Letter from Vienna" by Dan Goode</unittitle>
+              <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_8fdf78c6fe0eb31ec51e701f84c42ac7" label="Mixed Materials [31142063599651]" type="Box">2</container>
+              <container id="aspace_de59b3440a751660607028e55bb4b389" parent="aspace_8fdf78c6fe0eb31ec51e701f84c42ac7" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_04b00bf3928853792eb66949c0d78a8f" level="file">
+            <did>
+              <unittitle>Livingston College Faculty Handbook</unittitle>
+              <unitdate datechar="creation" normal="1973/1974" type="inclusive">1973-1974</unitdate>
+              <container altrender="Record carton" id="aspace_4643c32b4603c690aab66f25b9682e9c" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_aa9d59b3831c87cd838c377b209db7e2" parent="aspace_4643c32b4603c690aab66f25b9682e9c" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_070a4aefcce74ce1c7add3bdad963d9f" level="file">
+            <did>
+              <unittitle>Long Distance Elect Checklist</unittitle>
+              <unitdate datechar="creation" normal="1975/1975">1975</unitdate>
+              <container altrender="Record carton" id="aspace_033963875ec9ece48d6dcc88603c3a6a" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_8db92aaed921e4aede9fe5ce9e9dc516" parent="aspace_033963875ec9ece48d6dcc88603c3a6a" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref78" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"A Long Time Ago, Ann and Daniel Thought..."</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_fa4f40d97aa525c3b7604cbdd0b6b9c6" label="Mixed Materials [31142063599651]" type="Box">2</container>
+              <container id="aspace_d69a77e1019d800f32df2ebd112532a4" parent="aspace_fa4f40d97aa525c3b7604cbdd0b6b9c6" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_b46863139f1d142eac86bd4229e22f2c" level="file">
+            <did>
+              <unittitle>Man and His Body</unittitle>
+              <unitdate datechar="creation" normal="1960/1965" type="inclusive">1960-1965</unitdate>
+              <container altrender="Record carton" id="aspace_ab8e012a0113d937bb53ff84e4a979fe" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_38f27d0f52f88e7f652e7cf069718c09" parent="aspace_ab8e012a0113d937bb53ff84e4a979fe" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_d56c4ed03c72251614135324396cb70f" level="file">
+            <did>
+              <unittitle>Manuscripts</unittitle>
+              <unitdate datechar="creation" normal="1963/1968" type="inclusive">1963-1968</unitdate>
+              <container altrender="Record carton" id="aspace_274c657b1169d96fa5a14791a10a976a" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_2c324f63774121ce82112dc3c3f572c2" parent="aspace_274c657b1169d96fa5a14791a10a976a" type="Folder">10-12</container>
+            </did>
+          </c>
+          <c id="aspace_ref281" level="file">
+            <did>
+              <unittitle>Notebook</unittitle>
+              <unitdate datechar="creation">ca. 1971</unitdate>
+              <container altrender="Record carton" id="aspace_ae2414307221e321e03da2aafe1540cd" label="Mixed Materials [31142063599644]" type="Box">1</container>
+              <container id="aspace_241f0563a0dd2c04d807fd319a7359c2" parent="aspace_ae2414307221e321e03da2aafe1540cd" type="Folder">47</container>
+            </did>
+          </c>
+          <c id="aspace_368d0b18013ebb2915252b90d84c6184" level="file">
+            <did>
+              <unittitle>Notes</unittitle>
+              <unitdate datechar="creation" normal="1950/2015" type="inclusive">undated</unitdate>
+              <container altrender="Record carton" id="aspace_54c173c18a41f1294b35352a0eced73c" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_e5a4e14a495c56c4b4329234d125ffda" parent="aspace_54c173c18a41f1294b35352a0eced73c" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_b5077e3613ac590c606f046d7acc8067" level="file">
+            <did>
+              <unittitle>Oberlin College Yearbook</unittitle>
+              <unitdate datechar="creation" normal="1954/1954">1954</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_f49ab62a390bbc0385fe50850e7b24cf" label="Mixed Materials [31142063123353]" type="Box">15</container>
+            </did>
+          </c>
+          <c id="aspace_614c3a36dd5a124569d57ccf45526299" level="file">
+            <did>
+              <unittitle>Onan's Diary Proposal</unittitle>
+              <unitdate datechar="creation" normal="1977/1977">1977</unitdate>
+              <container altrender="Record carton" id="aspace_8ad19abb16325b02448be8b5fddeefe9" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_782c28c548cc6cf8a585495f38297150" parent="aspace_8ad19abb16325b02448be8b5fddeefe9" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_be9fb43d251b579dd4a3e38e499d4823" level="file">
+            <did>
+              <unittitle>Rejection Letters</unittitle>
+              <unitdate datechar="creation" normal="1979/1980" type="inclusive">1979-1980</unitdate>
+              <container altrender="Record carton" id="aspace_97e45f216c3d2a643aba82bef9dd148d" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_860bc9812088f7bcc9d456ad3ed0b6e3" parent="aspace_97e45f216c3d2a643aba82bef9dd148d" type="Folder">15-16</container>
+            </did>
+          </c>
+          <c id="aspace_eece386cd408f8511fd633ad2d29575b" level="file">
+            <did>
+              <unittitle>Reviews of <emph render="italic">Julie My Nights and Days</emph></unittitle>
+              <unitdate datechar="creation" normal="1974/1974">1974</unitdate>
+              <container altrender="Record carton" id="aspace_3d8b8aa90371dda05c0b89c4345e5591" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_f5a95808b2e4f94e7c580791a7f53a4c" parent="aspace_3d8b8aa90371dda05c0b89c4345e5591" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_d0b10ecc18e86ecef41a7525310981c7" level="file">
+            <did>
+              <unittitle>Rutgers</unittitle>
+              <unitdate datechar="creation" normal="1988/1990" type="inclusive">1988-1990</unitdate>
+              <container altrender="Record carton" id="aspace_b95f9298397f1af0d734d8c6434600fd" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_9eb4853363c3f4e21fc3b48e4ce2dfaa" parent="aspace_b95f9298397f1af0d734d8c6434600fd" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_d9950f353bf74b32f3174a071deee7e5" level="file">
+            <did>
+              <unittitle>Scores by Other Composers</unittitle>
+              <unitdate datechar="creation" normal="1980/2015" type="inclusive">1980s-2000s</unitdate>
+              <container altrender="Record carton" id="aspace_6c66ee775ab1a158cb77f53601f380d5" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_e95f4748733f91bc77225d776f1bdd4a" parent="aspace_6c66ee775ab1a158cb77f53601f380d5" type="Folder">19-25</container>
+            </did>
+          </c>
+          <c id="aspace_d2ace5f503280cbbfd3f867ad4421d5b" level="file">
+            <did>
+              <unittitle>Theatrical Studies</unittitle>
+              <unitdate datechar="creation" normal="1969/1969">1969</unitdate>
+              <container altrender="Record carton" id="aspace_44c9f1b5fd594b6480452a84b3329d21" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_764224efa8b12c573e43bcd434256950" parent="aspace_44c9f1b5fd594b6480452a84b3329d21" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_1a10c63f661c52108a3bca5b0647e570" level="file">
+            <did>
+              <unittitle>Sound Expression Assignments and Student Exercises</unittitle>
+              <unitdate datechar="creation" normal="1970/1979" type="inclusive">1970-1979</unitdate>
+              <container altrender="Record carton" id="aspace_7998d77becd6d5094997844a1e761720" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_6a683b0f0d5dabeab92bad5469190bb6" parent="aspace_7998d77becd6d5094997844a1e761720" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_a98516f03ed972fc6fcaec677abc53ba" level="file">
+            <did>
+              <unittitle>Walking</unittitle>
+              <unitdate datechar="creation" normal="1950/2015" type="inclusive">undated</unitdate>
+              <container altrender="Record carton" id="aspace_41e6a072c067ef1795eb049f26889c59" label="Mixed Materials [31142063123361]" type="Box">16</container>
+              <container id="aspace_a51105f99b3589f815a3b90af180c513" parent="aspace_41e6a072c067ef1795eb049f26889c59" type="Folder">28</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref19" level="subseries">
+          <did>
+            <unittitle>Subseries D: Periodicals, Catalogs</unittitle>
+            <unitdate datechar="creation" normal="1976/2004" type="inclusive">1976-2004, undated</unitdate>
+          </did>
+          <c id="aspace_ref79" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Periodicals 1 of 6</unittitle>
+              <unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_7d669e857b97b091110cd155adb50566" label="Mixed Materials [31142063599669]" type="Box">3</container>
+              <container id="aspace_6d6ecccb0494af323b163e3d13e6bd32" parent="aspace_7d669e857b97b091110cd155adb50566" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref80" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Periodicals 2 of 6</unittitle>
+              <unitdate datechar="creation" normal="1977/1985" type="inclusive">1977, 1985</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_6fcf741c42428666a476a15033843b5e" label="Mixed Materials [31142063599669]" type="Box">3</container>
+              <container id="aspace_5c0851c0f14910307e5ccb29e6f99c5c" parent="aspace_6fcf741c42428666a476a15033843b5e" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref81" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Periodicals 3 of 6</unittitle>
+              <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_51c37bc57bf5ec8a2730a30a25e809dc" label="Mixed Materials [31142063599669]" type="Box">3</container>
+              <container id="aspace_f394d660b6a5d4d2381b94573ac8c90b" parent="aspace_51c37bc57bf5ec8a2730a30a25e809dc" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref82" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Periodicals 4 of 6</unittitle>
+              <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_baff739cd591676ddca8a118d3328479" label="Mixed Materials [31142063599669]" type="Box">3</container>
+              <container id="aspace_a7d0efe8030cd0cc15aeb91544f261ba" parent="aspace_baff739cd591676ddca8a118d3328479" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref83" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Periodicals 5 of 6</unittitle>
+              <unitdate datechar="creation" normal="1991/1992" type="inclusive">1991, 1992</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_6dd36c6c08e4eae03407a91bada8550f" label="Mixed Materials [31142063599669]" type="Box">3</container>
+              <container id="aspace_414e8a3157ca1ef89f516765bec971f9" parent="aspace_6dd36c6c08e4eae03407a91bada8550f" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref84" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Periodicals 6 of 6</unittitle>
+              <unitdate datechar="creation" normal="1997/1999" type="inclusive">1997, 1999</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_c7e150770185630e4398a709ce51c93c" label="Mixed Materials [31142063599669]" type="Box">3</container>
+              <container id="aspace_d48d087eb323ab580a3663c82aeaa1a1" parent="aspace_c7e150770185630e4398a709ce51c93c" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref85" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Catalogs and Brochures</unittitle>
+              <unitdate datechar="creation" normal="1979/2004" type="inclusive">1979, 1997, 2000, 2004, undated</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_b8ff25e62af3446fb553f1890f7e39c5" label="Mixed Materials [31142063599669]" type="Box">3</container>
+              <container id="aspace_236f1b91930db33d94daf50be793c8a1" parent="aspace_b8ff25e62af3446fb553f1890f7e39c5" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_fad838705fd76a772c9d5a50529dfe2e" level="file">
+            <did>
+              <unittitle>Publications -- The Epic of Medicine</unittitle>
+              <unitdate datechar="creation" normal="1962/1962">1962</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_bcdef1f41cbdcd9a94f1c22761e3bd43" label="Mixed Materials [31142063123353]" type="Box">15</container>
+            </did>
+          </c>
+          <c id="aspace_f07ede3fcc452350cc8ec1da32ab7d35" level="file">
+            <did>
+              <unittitle>Publications -- Catalogs</unittitle>
+              <unitdate datechar="creation" normal="1975/1987" type="inclusive">1975-1987</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_e688054193d3f1c224f41889f51465c4" label="Mixed Materials [31142063123353]" type="Box">15</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref1" level="series">
+        <did>
+          <unittitle>Series III: Video recordings</unittitle>
+        </did>
+        <scopecontent id="aspace_a9cfa2a7d57446dfaded4a25f92025ac">
+          <head>Scope and Contents</head>
+          <p>Series III comprises videocassettes.</p>
+        </scopecontent>
+        <c id="aspace_ref111" level="subseries">
+          <did>
+            <unittitle>Subseries A: Video recordings</unittitle>
+          </did>
+          <c id="aspace_ref131" level="item">
+            <did>
+              <unittitle>The Shouting Opera</unittitle>
+              <unitid>ID: 269.0001</unitid>
+              <unitdate datechar="creation">April 4, 1986</unitdate>
+              <container altrender="Record carton" id="aspace_b90c8525d53fe2352be2a94198db8945" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_2768a9a64b01583c6d80331cf56967dd" parent="aspace_b90c8525d53fe2352be2a94198db8945" type="Media">ID: 269.0001</container>
+            </did>
+            <phystech id="aspace_9ed332714c8b1c45b6b63e765eb31533">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref132" level="item">
+            <did>
+              <unittitle>Comp with Sound Finale</unittitle>
+              <unitid>ID: 269.0002</unitid>
+              <unitdate datechar="creation">1986</unitdate>
+              <container altrender="Record carton" id="aspace_48f7ba9046cee0a5e976c3b35ce89461" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_b127ec7c4a7d459b4325de7891f35bdb" parent="aspace_48f7ba9046cee0a5e976c3b35ce89461" type="Media">ID: 269.0002</container>
+            </did>
+            <phystech id="aspace_8be425f18745f5fe17677b53ee52d196">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref133" level="item">
+            <did>
+              <unittitle>Downtown Ensemble and Washington Square Church</unittitle>
+              <unitid>ID: 269.0003</unitid>
+              <unitdate datechar="creation">June 4, 1988</unitdate>
+              <container altrender="Record carton" id="aspace_451d4d972958587cc1bb97db35dcde45" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_d47f6c8c82a2a9d7fd30895b5bfc47ef" parent="aspace_451d4d972958587cc1bb97db35dcde45" type="Media">ID: 269.0003</container>
+            </did>
+            <phystech id="aspace_03665f3422cf90cd80735b591e1a6f45">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: Betamax</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref134" level="item">
+            <did>
+              <unittitle>Gamelan Son of Lion - Digital Master</unittitle>
+              <unitid>ID: 269.0004</unitid>
+              <unitdate datechar="creation">March 8, 1989</unitdate>
+              <container altrender="Record carton" id="aspace_45a350aab05496722570b9d7bae5f02a" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_7c30040b7bcbb24727705d187bd25bf9" parent="aspace_45a350aab05496722570b9d7bae5f02a" type="Media">ID: 269.0004</container>
+            </did>
+            <phystech id="aspace_db3c00c529cdaa17a6ad2654cc9463c2">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: Betamax</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref135" level="item">
+            <did>
+              <unittitle>Karya: create</unittitle>
+              <unitid>ID: 269.0005</unitid>
+              <unitdate datechar="creation">1990</unitdate>
+              <container altrender="Record carton" id="aspace_3be5b115eff12b3651c8f74ab56c7666" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_80cbc57b2926dcc70804304ebeb2fccc" parent="aspace_3be5b115eff12b3651c8f74ab56c7666" type="Media">ID: 269.0005</container>
+              <container altrender="Jewel Case - 5.75" id="aspace_8845c0a9339f7754d0829ee1d1785fb4" label="access dvd [31142063244290]" type="case">269.0005</container>
+            </did>
+            <altformavail id="aspace_ff1d0485748fc2082b6b285edbfbde83">
+              <head>Existence and Location of Copies</head>
+              <p>Access DVD available.</p>
+            </altformavail>
+            <phystech id="aspace_e167ec1f22a429fb9be49605cd09fc38">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+              <p>Duration: 38 minutes. </p>
+            </phystech>
+          </c>
+          <c id="aspace_ref136" level="item">
+            <did>
+              <unittitle>Son of Lion</unittitle>
+              <unitid>ID: 269.0006</unitid>
+              <unitdate datechar="creation">May 1, 1991</unitdate>
+              <container altrender="Record carton" id="aspace_18e566b07208551179ddc9b2e952ec84" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_db15d22c2a2015eeecacd74f5d7febb2" parent="aspace_18e566b07208551179ddc9b2e952ec84" type="Media">ID: 269.0006</container>
+              <container altrender="Jewel Case - 5.75" id="aspace_65b22c2cd3022316514cf29aa9af0057" label="access dvd [31142063244308]" type="case">269.0006</container>
+            </did>
+            <altformavail id="aspace_b4d0d3e987286c3e22f8aff8430985a8">
+              <head>Existence and Location of Copies</head>
+              <p>Access DVD available.</p>
+            </altformavail>
+            <phystech id="aspace_8c44f34b500b965a3d630b594d952605">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+              <p>Duration: 87 minutes. </p>
+            </phystech>
+          </c>
+          <c id="aspace_ref137" level="item">
+            <did>
+              <unittitle>3% Vision</unittitle>
+              <unitid>ID: 269.0007</unitid>
+              <unitdate datechar="creation">1991</unitdate>
+              <container altrender="Record carton" id="aspace_10544d21ae39d6b21b2cda231fda47fa" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_5de9922269a2473e08d2a55f8d638b39" parent="aspace_10544d21ae39d6b21b2cda231fda47fa" type="Media">ID: 269.0007</container>
+            </did>
+            <phystech id="aspace_04ce1c8f6ececeb69b8fc407d6f2ca2d">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+              <p> Standard: PAL</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref138" level="item">
+            <did>
+              <unittitle>Alan's for Daniel</unittitle>
+              <unitid>ID: 269.0008</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_e2cbff918b8a5d0813c79c74ed27b96c" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_15b387498eec60be0360789331abdc02" parent="aspace_e2cbff918b8a5d0813c79c74ed27b96c" type="Media">ID: 269.0008</container>
+            </did>
+            <phystech id="aspace_2183ccfe2a1a5a84f6348763a2e67097">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref139" level="item">
+            <did>
+              <unittitle>V.O.I.D. Pauline de Groot</unittitle>
+              <unitid>ID: 269.0009</unitid>
+              <unitdate datechar="creation">May 12, 1996</unitdate>
+              <container altrender="Record carton" id="aspace_9a25793178e21874c4d46e1170155adf" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_61c4450e282740cff8a3e83a7343c1f5" parent="aspace_9a25793178e21874c4d46e1170155adf" type="Media">ID: 269.0009</container>
+            </did>
+            <phystech id="aspace_04a2dace95c6d784cf306e1896d1599c">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref140" level="item">
+            <did>
+              <unittitle>Alexandra and Jonathan Wedding Day</unittitle>
+              <unitid>ID: 269.0010</unitid>
+              <unitdate datechar="creation">June 22, 1996</unitdate>
+              <container altrender="Record carton" id="aspace_6465079ffabcfab890a82c61afe11096" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_aea6245f3fa2c0442b9d4ca39da937c4" parent="aspace_6465079ffabcfab890a82c61afe11096" type="Media">ID: 269.0010</container>
+            </did>
+            <phystech id="aspace_b7936e043f6f87a8b2c7e4cf0a13236b">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref141" level="item">
+            <did>
+              <unittitle>Re: Sound</unittitle>
+              <unitid>ID: 269.0011</unitid>
+              <unitdate datechar="creation">1/25/1999</unitdate>
+              <container altrender="Record carton" id="aspace_24bbfb8bdf874ec3fb384e355ef66fa9" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_d6f8fa5938c1618da2bd12e110f85659" parent="aspace_24bbfb8bdf874ec3fb384e355ef66fa9" type="Media">ID: 269.0011</container>
+            </did>
+            <phystech id="aspace_b78d88d91f3fb8447eff6b9107f2dc22">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref142" level="item">
+            <did>
+              <unittitle>The Down Town ensemble and Special Guests Conducted by David Gilbert</unittitle>
+              <unitid>ID: 269.0012</unitid>
+              <unitdate datechar="creation">October 4, 2001</unitdate>
+              <container altrender="Record carton" id="aspace_2f0abbc9d03d9da7f59c24fdfca46b97" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_4c9f406141d706726427b3e11a948703" parent="aspace_2f0abbc9d03d9da7f59c24fdfca46b97" type="Media">ID: 269.0012</container>
+            </did>
+            <phystech id="aspace_e7e95d324fca1bdfe087175999a43cac">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref143" level="item">
+            <did>
+              <unittitle>8 Thrushes in Georgia</unittitle>
+              <unitid>ID: 269.0013</unitid>
+              <unitdate datechar="creation">2002</unitdate>
+              <container altrender="Record carton" id="aspace_57ee877f9f30883524cd59e33afeb790" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_b78fde82c26bd8e7497a69384a434aeb" parent="aspace_57ee877f9f30883524cd59e33afeb790" type="Media">ID: 269.0013</container>
+            </did>
+            <phystech id="aspace_cb97b980f3e42d60488d1eed255087af">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref144" level="item">
+            <did>
+              <unittitle>H.A.C. Chorus ("Again + Again"- DG)</unittitle>
+              <unitid>ID: 269.0014</unitid>
+              <unitdate datechar="creation">6/12/2004</unitdate>
+              <container altrender="Record carton" id="aspace_8d9ad66c0a5d17f7e87f74834c8b0109" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_412069282efe7e6e2bb513b7b5934f3f" parent="aspace_8d9ad66c0a5d17f7e87f74834c8b0109" type="Media">ID: 269.0014</container>
+            </did>
+            <phystech id="aspace_4807ebdf01faf0c37666a5f5661700ca">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref145" level="item">
+            <did>
+              <unittitle>[1] Dan's King @ Loft [2] Concepts for Wire Sculpture</unittitle>
+              <unitid>ID: 269.0015</unitid>
+              <unitdate datechar="creation">[1] 2005 [2] Febuary 2006</unitdate>
+              <container altrender="Record carton" id="aspace_55fcdaed0e42f60c3983724466375810" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_c90431d731962814d9c515a1410ea59e" parent="aspace_55fcdaed0e42f60c3983724466375810" type="Media">ID: 269.0015</container>
+            </did>
+            <phystech id="aspace_177a91d3577cef23c0bbaacbb859eefc">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref146" level="item">
+            <did>
+              <unittitle>Gamelan Son of Lion</unittitle>
+              <unitid>ID: 269.0016</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_e40d4b3aec83322bfbd6affa4ac174b1" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_5ab953cfcfa67e5c3d912108d8bf010b" parent="aspace_e40d4b3aec83322bfbd6affa4ac174b1" type="Media">ID: 269.0016</container>
+              <container altrender="Jewel Case - 5.75" id="aspace_689fc129c546bd3ac09e238b201baebf" label="access dvd [31142063244316]" type="case">269.0016</container>
+            </did>
+            <altformavail id="aspace_a0b7ffb564962f25c58b406451d12995">
+              <head>Existence and Location of Copies</head>
+              <p>Access DVD available.</p>
+            </altformavail>
+            <phystech id="aspace_fbd12020639425d41ca3ce83fcd4eb65">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+              <p>Duration: 45 minutes. </p>
+            </phystech>
+          </c>
+          <c id="aspace_ref147" level="item">
+            <did>
+              <unittitle>Untitled</unittitle>
+              <unitid>ID: 269.0017</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_0b2baee9617eccf02c84de2c232ff500" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_0bb7d52975c5758725d49d435922fd42" parent="aspace_0b2baee9617eccf02c84de2c232ff500" type="Media">ID: 269.0017</container>
+            </did>
+            <phystech id="aspace_e86c9a5ec0f517c5182d96aedb3175f9">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref158" level="item">
+            <did>
+              <unittitle>Orbits 1972 at Notre Dame University</unittitle>
+              <unitid>ID: 269.0028</unitid>
+              <unitdate datechar="creation">1972</unitdate>
+              <container altrender="Record carton" id="aspace_f1263033955e9fcc640e0006e88cac0c" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_2c998919d5b714b7fa2b765ce370c649" parent="aspace_f1263033955e9fcc640e0006e88cac0c" type="Media">ID: 269.0028</container>
+            </did>
+            <phystech id="aspace_afcc5a6653be82c3dd8cd05ee96fb9ee">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref173" level="item">
+            <did>
+              <unittitle>Gamelan Son of Lion, Jogja Festival 1996</unittitle>
+              <unitid>ID: 269.0044</unitid>
+              <unitdate datechar="creation">1996</unitdate>
+              <container altrender="Record carton" id="aspace_7434c317fdd6a8ffcaa2bda95833ccbd" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_4e4a5b3460530609c29575f889d6777e" parent="aspace_7434c317fdd6a8ffcaa2bda95833ccbd" type="Media">ID: 269.0044</container>
+            </did>
+            <phystech id="aspace_9ca49be0864f71ed2f47878d7dcd385b">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref178" level="item">
+            <did>
+              <unittitle>Re: Sound</unittitle>
+              <unitid>ID: 269.0049</unitid>
+              <unitdate datechar="creation">February 8, 1999</unitdate>
+              <container altrender="Record carton" id="aspace_769355c99274ea16f7dd0251b6d4e9d5" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_b79ab057159faf7db96bec1890f8a821" parent="aspace_769355c99274ea16f7dd0251b6d4e9d5" type="Media">ID: 269.0049</container>
+            </did>
+            <phystech id="aspace_00969b30c2a93bb5d27ffb27926bdabf">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref184" level="item">
+            <did>
+              <unittitle>Indoor/ Outdoor/ Fluxns/ Action/ Music Art in General</unittitle>
+              <unitid>ID: 269.0055</unitid>
+              <unitdate datechar="creation">December 2, 2001</unitdate>
+              <container altrender="Record carton" id="aspace_4f9d9bec61bd48c97daae74c2c0566d3" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_97e43f6150f704e807824ea518641b17" parent="aspace_4f9d9bec61bd48c97daae74c2c0566d3" type="Media">ID: 269.0055</container>
+            </did>
+            <phystech id="aspace_a2bb9317f1f057a6ccc32de9ab1995ea">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref185" level="item">
+            <did>
+              <unittitle>Soho Gamelan Walk </unittitle>
+              <unitid>ID: 269.0056</unitid>
+              <unitdate datechar="creation">December 2, 2001</unitdate>
+              <container altrender="Record carton" id="aspace_fa2d79d50e9339493885cac51c856e15" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_ad763551965071d828d3367f1833293e" parent="aspace_fa2d79d50e9339493885cac51c856e15" type="Media">ID: 269.0056</container>
+              <container altrender="Jewel Case - 5.75" id="aspace_bca122d9d6f595c07e89bdba85672310" label="access dvd [31142063244324]" type="case">269.0056</container>
+            </did>
+            <altformavail id="aspace_a86afcc25de55d60adf2d086b92c7dfb">
+              <head>Existence and Location of Copies</head>
+              <p>Access DVD available.</p>
+            </altformavail>
+            <phystech id="aspace_d0eaabc09ba264a483aacb2ac36e61ce">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: MiniDV</p>
+              <p>Duration: 51 minutes.</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref186" level="item">
+            <did>
+              <unittitle>Dan at Dartmouth</unittitle>
+              <unitid>ID: 269.0057</unitid>
+              <unitdate datechar="creation">November 20, 2002</unitdate>
+              <container altrender="Record carton" id="aspace_e416cb00e7cdfbd00f8421b551688247" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_013cf8e8953104020c71610e8b6ebe98" parent="aspace_e416cb00e7cdfbd00f8421b551688247" type="Media">ID: 269.0057</container>
+              <container altrender="Jewel Case - 5.75" id="aspace_5dae2655b50f1149d54cf7fdb14a860d" label="access dvd [31142063244332]" type="case">269.0057</container>
+            </did>
+            <altformavail id="aspace_23435c1fc28ee5901fcc5dcaba949fe4">
+              <head>Existence and Location of Copies</head>
+              <p>Access DVD available.</p>
+            </altformavail>
+            <phystech id="aspace_6becfa3a4416970e8c569a4d47c1c5de">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+              <p>Duration: 56 minutes. </p>
+            </phystech>
+          </c>
+          <c id="aspace_ref187" level="item">
+            <did>
+              <unittitle>The Stone, Daniel Goode</unittitle>
+              <unitid>ID: 269.0058</unitid>
+              <unitdate datechar="creation">May 15, 2008</unitdate>
+              <container altrender="Record carton" id="aspace_e0c2361556ee70bdb22937ca54d3f571" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_54073fb17256690b00a17de1312d273a" parent="aspace_e0c2361556ee70bdb22937ca54d3f571" type="Media">ID: 269.0058</container>
+              <container altrender="Jewel Case - 5.75" id="aspace_4898fb51ce60a5b1372f410cafd82ddb" label="access dvd [31142063244340]" type="case">269.0058</container>
+            </did>
+            <altformavail id="aspace_6dfa57db2e238c9000efab86b1c3a392">
+              <head>Existence and Location of Copies</head>
+              <p>Access DVD available.</p>
+            </altformavail>
+            <phystech id="aspace_f701997549de2d62dbd5534e72d837ac">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: MiniDV</p>
+              <p>Duration: 53 minutes. </p>
+            </phystech>
+          </c>
+          <c id="aspace_ref188" level="item">
+            <did>
+              <unittitle>Alan Glovsky</unittitle>
+              <unitid>ID: 269.0059</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_8b1ca255ac86ceabb8095591cbc75408" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_6dc736f9395193bc2251d978e81393e3" parent="aspace_8b1ca255ac86ceabb8095591cbc75408" type="Media">ID: 269.0059</container>
+            </did>
+            <phystech id="aspace_174cc19dffa33e2dd03168c3882afaaa">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref193" level="item">
+            <did>
+              <unittitle>Jody Oberfelder Dance Projects</unittitle>
+              <unitid>ID: 269.0064</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_98a79d850850aa52ec71ef3d7869dbcd" label="media [31142063435419]" type="Box">7</container>
+              <container id="aspace_32b1e9378c9727981d1f3e1977c8400f" parent="aspace_98a79d850850aa52ec71ef3d7869dbcd" type="Media">ID: 269.0064</container>
+              <container altrender="Jewel Case - 5.75" id="aspace_0463fd2e9a7227b55e5e09eeb02c0a18" label="access dvd [31142063244357]" type="case">269.0064</container>
+            </did>
+            <altformavail id="aspace_0bf056b5cdb9c634713a3231c088aede">
+              <head>Existence and Location of Copies</head>
+              <p>Access DVD available.</p>
+            </altformavail>
+            <phystech id="aspace_966b339a908e2709b8df0ee543a1e0b3">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Original format: VHS</p>
+              <p>Duration: 50 minutes. </p>
+            </phystech>
+          </c>
+        </c>
+        <c id="aspace_ref117" level="subseries">
+          <did>
+            <unittitle>Subseries B: Separated Materials</unittitle>
+          </did>
+          <c id="aspace_ref119" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Document Removed from "Pauline de Groot at Danspace" VHS</unittitle>
+              <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_5d7b93b3d4031cd87d5885b6e8d66687" label="Mixed Materials [31142063599669]" type="Box">3</container>
+              <container id="aspace_24fa4a1715c04b237ef8b7c585d9b03c" parent="aspace_5d7b93b3d4031cd87d5885b6e8d66687" type="Folder">8</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref112" level="series">
+        <did>
+          <unittitle>Series IV: Sound recordings</unittitle>
+        </did>
+        <scopecontent id="aspace_402a6029d4a4c791fd46243bfbaee9a2">
+          <head>Scope and Contents</head>
+          <p>Series IV comprises audiocassettes, reels of magnetic tape, compact disks and CD-Rs, and phonograph records.</p>
+        </scopecontent>
+        <c id="aspace_ref114" level="subseries">
+          <did>
+            <unittitle>Subseries A: Sound recordings</unittitle>
+          </did>
+          <c id="aspace_ref200" level="item">
+            <did>
+              <unittitle>Bad Alchemy N2 XXII</unittitle>
+              <unitid>ID: 269.0018</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_da5f7dbdf29dd275576bd6c8f58a5b7a" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_955ee1f7497221364d024c3d3acb3635" parent="aspace_da5f7dbdf29dd275576bd6c8f58a5b7a" type="Media">ID: 269.0018</container>
+            </did>
+            <phystech id="aspace_6e006e8b1ebf8870f16d74726ad1e9c5">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Tape Length: Unknown</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref149" level="item">
+            <did>
+              <unittitle>Excerpts and Condensations from Three Pieces</unittitle>
+              <unitid>ID: 269.0019</unitid>
+              <unitdate datechar="creation">1977 - 1978</unitdate>
+              <container altrender="Record carton" id="aspace_820f9c9ca89a483b5962bb4c91d543ab" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_7117554526cd9dfa6aed9db73e772193" parent="aspace_820f9c9ca89a483b5962bb4c91d543ab" type="Media">ID: 269.0019</container>
+            </did>
+            <phystech id="aspace_03b8db36ea0070184e4dbfe5e2e5166d">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 7.5 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref150" level="item">
+            <did>
+              <unittitle>Music from the Tempest</unittitle>
+              <unitid>ID: 269.0020</unitid>
+              <unitdate datechar="creation">[1964]</unitdate>
+              <container altrender="Record carton" id="aspace_7b39bbab282f30431fccdc94091468a2" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_e70a2d258c04e9676eb246945d664446" parent="aspace_7b39bbab282f30431fccdc94091468a2" type="Media">ID: 269.0020</container>
+            </did>
+            <phystech id="aspace_e6fb59f51cbff89112e97efe330e0507">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 7.5 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref151" level="item">
+            <did>
+              <unittitle>Tempest Part II.</unittitle>
+              <unitid>ID: 269.0021</unitid>
+              <unitdate datechar="creation">1964</unitdate>
+              <container altrender="Record carton" id="aspace_2652449f0c63c2fb5bb90d2ca6c32aae" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_494191cbf0ba80b599b5f70c8c357ae7" parent="aspace_2652449f0c63c2fb5bb90d2ca6c32aae" type="Media">ID: 269.0021</container>
+            </did>
+            <phystech id="aspace_73f462e76e8c4c6fb7d31236f913cdfd">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed:</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref152" level="item">
+            <did>
+              <unittitle>Tempest Tape 26-- I. duet…</unittitle>
+              <unitid>ID: 269.0022</unitid>
+              <unitdate datechar="creation">[1964]</unitdate>
+              <container altrender="Record carton" id="aspace_9ec14615e7d08f60cc3cffc9972c2257" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_d7f5c6a0ad488c5a65e55659ef28ea99" parent="aspace_9ec14615e7d08f60cc3cffc9972c2257" type="Media">ID: 269.0022</container>
+            </did>
+            <phystech id="aspace_e9e660818a94a6db2b9dc56b13a16133">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: Unknown</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref153" level="item">
+            <did>
+              <unittitle>Tape 27-- Tempest Chorus</unittitle>
+              <unitid>ID: 269.0023</unitid>
+              <unitdate datechar="creation">[1964]</unitdate>
+              <container altrender="Record carton" id="aspace_c8d693c82009cbcb30ded68b5d7b7122" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_7f022338b6d1b42c352f5f51c3fa4f79" parent="aspace_c8d693c82009cbcb30ded68b5d7b7122" type="Media">ID: 269.0023</container>
+            </did>
+            <phystech id="aspace_4a0110aa40c4408c1859e20930e5220b">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: Unknown</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref154" level="item">
+            <did>
+              <unittitle>Tape 28-- Tempest I. Trio</unittitle>
+              <unitid>ID: 269.0024</unitid>
+              <unitdate datechar="creation">[1964]</unitdate>
+              <container altrender="Record carton" id="aspace_63e5a0d5d11a74ffdcc662f1264b327e" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_e9dfd78ad18617b0a253659f06a49e58" parent="aspace_63e5a0d5d11a74ffdcc662f1264b327e" type="Media">ID: 269.0024</container>
+            </did>
+            <phystech id="aspace_8d1d769d154b395e26fb1332bb92b254">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: Unknown</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref155" level="item">
+            <did>
+              <unittitle>Music Plus One 1968-- Tape 17</unittitle>
+              <unitid>ID: 269.0025</unitid>
+              <unitdate datechar="creation">1968</unitdate>
+              <container altrender="Record carton" id="aspace_bc28ec2663ce4ad060c4ec520418ff7e" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_45296a359ddc9350d2d9a1d499dc376a" parent="aspace_bc28ec2663ce4ad060c4ec520418ff7e" type="Media">ID: 269.0025</container>
+            </did>
+            <phystech id="aspace_2830f402034178a00761d85758ccc2a4">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: Unknown</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref156" level="item">
+            <did>
+              <unittitle>Short Wave and Geese</unittitle>
+              <unitid>ID: 269.0026</unitid>
+              <unitdate datechar="creation">September 1969</unitdate>
+              <container altrender="Record carton" id="aspace_6876e291887c7b5f85a97b5ca5360e79" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_2127f8ce5ee52346403832315c4640cb" parent="aspace_6876e291887c7b5f85a97b5ca5360e79" type="Media">ID: 269.0026</container>
+            </did>
+            <phystech id="aspace_7c1eaa0622dc4958b59ed4237d16bdae">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 3.75 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref157" level="item">
+            <did>
+              <unittitle>[1]--Cameron Chisolm at Strathslorne Dance [2]-- Bell- Beat Bowed Barn Gong</unittitle>
+              <unitid>ID: 269.0027</unitid>
+              <unitdate datechar="creation">[1] August 18, 1972 [2] undated</unitdate>
+              <container altrender="Record carton" id="aspace_3bf50b6cf2fb5508421db262423787e9" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_9e82da3b85a94fe05ecf7a527ab7d216" parent="aspace_3bf50b6cf2fb5508421db262423787e9" type="Media">ID: 269.0027</container>
+            </did>
+            <phystech id="aspace_14a112286bca12a9c9f7e04bf5fe2ac9">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: Unknown</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref159" level="item">
+            <did>
+              <unittitle>Barn Gongs</unittitle>
+              <unitid>ID: 269.0029</unitid>
+              <unitdate datechar="creation">1972</unitdate>
+              <container altrender="Record carton" id="aspace_755febeee48903a82be514a6014d3acc" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_f97e942bf7f22435a8b3bcd58194876e" parent="aspace_755febeee48903a82be514a6014d3acc" type="Media">ID: 269.0029</container>
+            </did>
+            <phystech id="aspace_bf9e3d10d4fae46a4f95017dcf9155a5">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 7.5 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref160" level="item">
+            <did>
+              <unittitle>[1]-- Hermit Trushes Dunakin [2]-- "Phrases" Bird</unittitle>
+              <unitid>ID: 269.0030</unitid>
+              <unitdate datechar="creation">circa 1973 - 1975</unitdate>
+              <container altrender="Record carton" id="aspace_dec4a2f145c3ccb4e7ac50cf67705121" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_3ca337d7ea7882975fc3ca104aa3ff66" parent="aspace_dec4a2f145c3ccb4e7ac50cf67705121" type="Media">ID: 269.0030</container>
+            </did>
+            <phystech id="aspace_11661dfda0ae62f46bf6471b845066cb">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 3 3/4 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref161" level="item">
+            <did>
+              <unittitle>Thrush Chords (Phrases)</unittitle>
+              <unitid>ID: 269.0031</unitid>
+              <unitdate datechar="creation">July 14,1974</unitdate>
+              <container altrender="Record carton" id="aspace_2a99c4bfb27cd4268bdf22d82495ee24" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_b645b55734e8aba1a36b8849f83e7b01" parent="aspace_2a99c4bfb27cd4268bdf22d82495ee24" type="Media">ID: 269.0031</container>
+            </did>
+            <phystech id="aspace_4e29974f98ee81cdbdf1767d1f03faa2">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 3 3/4 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref162" level="item">
+            <did>
+              <unittitle>Phrases of the Hermit Thrush for calr. Solo, string orchestra, 2 flutes: (two performances)</unittitle>
+              <unitid>ID: 269.0032</unitid>
+              <unitdate datechar="creation">August 11, 1980 and April 10, 1981</unitdate>
+              <container altrender="Record carton" id="aspace_e68e551a05094fbf925270fd417df7c4" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_344b019ac418c68268426c56ac0a74d1" parent="aspace_e68e551a05094fbf925270fd417df7c4" type="Media">ID: 269.0032</container>
+            </did>
+            <phystech id="aspace_aebe990786128fc3f8f78c4a3fe14bcc">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 7.5 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref163" level="item">
+            <did>
+              <unittitle>Phrases of the Hermit Thrush for Clarient, String Orchestra and 2 Flutes</unittitle>
+              <unitid>ID: 269.0033</unitid>
+              <unitdate datechar="creation">April 10, 1981</unitdate>
+              <container altrender="Record carton" id="aspace_938de3e0203ffdef872f7103b68c7e33" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_80521e6c0c908fe40c4067878c011c52" parent="aspace_938de3e0203ffdef872f7103b68c7e33" type="Media">ID: 269.0033</container>
+            </did>
+            <phystech id="aspace_87d30cc12991f9016702f64c5a3c73ee">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 7.5 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref164" level="item">
+            <did>
+              <unittitle>Hermit Thrush - Dub</unittitle>
+              <unitid>ID: 260.0034</unitid>
+              <unitdate datechar="creation">June 18, 1981</unitdate>
+              <container altrender="Record carton" id="aspace_ae139f02481bd53ec791f2726533aea2" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_f87eb9e562bd170bb9c6c295ea58cd94" parent="aspace_ae139f02481bd53ec791f2726533aea2" type="Media">ID: 260.0034</container>
+            </did>
+            <phystech id="aspace_f4ad83d9b83ef982d61a721840217d08">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 15 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref165" level="item">
+            <did>
+              <unittitle>C.B. Concerto: Rutgers Concert Band</unittitle>
+              <unitid>ID: 269.0035</unitid>
+              <unitdate datechar="creation">December 10, 1985</unitdate>
+              <container altrender="Record carton" id="aspace_80b9594825b3698994289c19a4cf2b7c" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_83f5329109f7a66c00c8783949705d70" parent="aspace_80b9594825b3698994289c19a4cf2b7c" type="Media">ID: 269.0035</container>
+            </did>
+            <phystech id="aspace_d37e76b21ef8c1f725b531537a342440">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Tape Length: 90 minutes</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref166" level="item">
+            <did>
+              <unittitle>Bed/ House </unittitle>
+              <unitid>ID: 269.0036</unitid>
+              <unitdate datechar="creation">April 1, 1987</unitdate>
+              <container altrender="Record carton" id="aspace_83552107e66b35f12a05b86a3365a14d" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_9e1270d76e6fc33fdb215a5b305a7002" parent="aspace_83552107e66b35f12a05b86a3365a14d" type="Media">ID: 269.0036</container>
+            </did>
+            <phystech id="aspace_25e009fdb2eec98998793592e09e81be">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Tape Length: [46 minutes]</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref167" level="item">
+            <did>
+              <unittitle>Spain 1990: Sardana/ Cowbellls/ Bird/ Fiesta de el Remedia</unittitle>
+              <unitid>ID: 269.0037</unitid>
+              <unitdate datechar="creation">June 24, 1990</unitdate>
+              <container altrender="Record carton" id="aspace_509f39f4dfe7ec8ec5bdfa82ef03c0d4" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_155f243f652a1c9a7ff36e812251af40" parent="aspace_509f39f4dfe7ec8ec5bdfa82ef03c0d4" type="Media">ID: 269.0037</container>
+            </did>
+            <phystech id="aspace_c29b5ab5b62bc9f278394459a428f70d">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Tape Length: [100 minutes]</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref168" level="item">
+            <did>
+              <unittitle>Spain 1990 Tape 2 Santiage de Compostela/ Cathedral Bell</unittitle>
+              <unitid>ID: 269.0038</unitid>
+              <unitdate datechar="creation">July 7, 1990</unitdate>
+              <container altrender="Record carton" id="aspace_fe72dcb17afcad143424cbb05d3ec558" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_dff828dbc667ec1335a169de741dde92" parent="aspace_fe72dcb17afcad143424cbb05d3ec558" type="Media">ID: 269.0038</container>
+            </did>
+            <phystech id="aspace_c981ef4f423ed089e1b67ad6a08de1ba">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Tape Length: [100 minutes]</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref259" level="item">
+            <did>
+              <unittitle>Yugoslavia</unittitle>
+              <unitid>ID: 269.0039</unitid>
+              <unitdate datechar="creation">1991</unitdate>
+              <container altrender="Record carton" id="aspace_c123550b447caed366f03b4ebc947d72" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_7d85ccb6107decbb5816a6ed47644185" parent="aspace_c123550b447caed366f03b4ebc947d72" type="Media">ID: 269.0039</container>
+            </did>
+            <phystech id="aspace_15d6cabd4f7cadc00570541b3980087f">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Tape Length: 90 minutes</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref169" level="item">
+            <did>
+              <unittitle>Gamelan in the New World</unittitle>
+              <unitid>ID: 269.0040</unitid>
+              <unitdate datechar="creation">1979</unitdate>
+              <container altrender="Record carton" id="aspace_1a24ad949908c27118111566d9c2344e" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_122190fb27373c1608a92e2cea2cfea7" parent="aspace_1a24ad949908c27118111566d9c2344e" type="Media">ID: 269.0040</container>
+            </did>
+            <phystech id="aspace_6e3c1f92739bc397ba0f42620bf584c7">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>TRT: Unknown</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref170" level="item">
+            <did>
+              <unittitle>Gamezlan in the New World</unittitle>
+              <unitid>ID: 269.0041</unitid>
+              <unitdate datechar="creation">1991</unitdate>
+              <container altrender="Record carton" id="aspace_9efb29bde37cb6a6017357e121806fd4" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_ec17bb02a2bbfddd3721b29959396e91" parent="aspace_9efb29bde37cb6a6017357e121806fd4" type="Media">ID: 269.0041</container>
+            </did>
+            <phystech id="aspace_cac4ef176377ba7b67ee089666468359">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>TRT: Unknown</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref171" level="item">
+            <did>
+              <unittitle>Grenada Sampler: 1993/ VLF Short wave</unittitle>
+              <unitid>ID: 269.0042</unitid>
+              <unitdate datechar="creation">1993</unitdate>
+              <container altrender="Record carton" id="aspace_9e965f55eb0849d57f5ac6ec6ac13ecc" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_f601fbec0f3fb400b51dbad4be8ee881" parent="aspace_9e965f55eb0849d57f5ac6ec6ac13ecc" type="Media">ID: 269.0042</container>
+            </did>
+            <phystech id="aspace_be607c721df06787987fb8cb3f49938e">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Tape Length: 90 minutes</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref172" level="item">
+            <did>
+              <unittitle>Grenada 1993 Mel. Proj. VLF, Bird, Short Wave Pros</unittitle>
+              <unitid>ID: 269.0043</unitid>
+              <unitdate datechar="creation">1993</unitdate>
+              <container altrender="Record carton" id="aspace_74b6bf037c852c05b83351a87eb61831" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_32ed14ee5370166b50b25d4303c9ec51" parent="aspace_74b6bf037c852c05b83351a87eb61831" type="Media">ID: 269.0043</container>
+            </did>
+            <phystech id="aspace_921c6161128a5b9bfd41f4fe57a84daf">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Tape Length: 90 minutes</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref174" level="item">
+            <did>
+              <unittitle>Pornography Made Me Do It...Again!</unittitle>
+              <unitid>ID: 269.0045</unitid>
+              <unitdate datechar="creation">1997</unitdate>
+              <container altrender="Record carton" id="aspace_b56fee1fbd27aae22d07fa57eb68735f" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_9290d0200d50cf53725500a71602c6ed" parent="aspace_b56fee1fbd27aae22d07fa57eb68735f" type="Media">ID: 269.0045</container>
+            </did>
+            <phystech id="aspace_cb4e6ad8a51899d4b971bfcb2f7d87bf">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>TRT: 4:09</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref175" level="item">
+            <did>
+              <unittitle>Balkan Music/ Side 2-- a traditional Klezner Clarinet tune</unittitle>
+              <unitid>ID: 269.0046</unitid>
+              <unitdate datechar="creation">November 1998</unitdate>
+              <container altrender="Record carton" id="aspace_5687a8db5f213471884c01351a4ff9ba" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_e935eb854966fa5c319288dee013acf3" parent="aspace_5687a8db5f213471884c01351a4ff9ba" type="Media">ID: 269.0046</container>
+            </did>
+            <phystech id="aspace_8ec2a6220e9178fc3bca8c475a5b4b0e">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 7.5 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref176" level="item">
+            <did>
+              <unittitle>Aviva</unittitle>
+              <unitid>ID: 269.0047</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_06184ec67df994e261f8af9fcd0a8a55" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_9b3b8403faac33e329e237a66152d82e" parent="aspace_06184ec67df994e261f8af9fcd0a8a55" type="Media">ID: 269.0047</container>
+            </did>
+            <phystech id="aspace_9c9a6514ce88b0d6ac3ea058424e299a">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 3 3/4 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref177" level="item">
+            <did>
+              <unittitle>Mocking Bird/ Wood Thrush from Helyan Forest</unittitle>
+              <unitid>ID: 269.0048</unitid>
+              <unitdate datechar="creation">December 1998</unitdate>
+              <container altrender="Record carton" id="aspace_262a7f1d9340bbbe6daebb37e5106793" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_addfd6d2b72f348e5b62497263daac58" parent="aspace_262a7f1d9340bbbe6daebb37e5106793" type="Media">ID: 269.0048</container>
+            </did>
+            <phystech id="aspace_91480c5b4d79474dc58ff929c0ce3b84">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 7.5 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref179" level="item">
+            <did>
+              <unittitle>Water Pipes: 458 W. 20th Street - Februarary 26, 1974</unittitle>
+              <unitid>ID: 269.0050</unitid>
+              <unitdate datechar="creation">February 1999</unitdate>
+              <container altrender="Record carton" id="aspace_953e7dbea9bd7a67fbeb54c125b1e77e" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_7e3957da264b5fe80c7275c9a9c097f6" parent="aspace_953e7dbea9bd7a67fbeb54c125b1e77e" type="Media">ID: 269.0050</container>
+            </did>
+            <phystech id="aspace_a806ac3a8bb442275a4fd5c3908fd101">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 7.5 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref180" level="item">
+            <did>
+              <unittitle>Glendale, Tape III, Sun Night</unittitle>
+              <unitid>ID: 269.0051</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_24d0512df427ad1a23e0678824034330" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_6311ad1d68b5c631d36f4412e9f3af2b" parent="aspace_24d0512df427ad1a23e0678824034330" type="Media">ID: 269.0051</container>
+            </did>
+            <phystech id="aspace_e21ed7df4c7017b99a37dd9d73c8f00e">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: Unknown</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref181" level="item">
+            <did>
+              <unittitle>Phrases of the Hermit Thrush</unittitle>
+              <unitid>ID: 269.0052</unitid>
+              <unitdate datechar="creation">August 1995</unitdate>
+              <container altrender="Record carton" id="aspace_7fbd275b1e1f9792ebd2bbedea6a627a" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_4625a65f5ca71495ebc207dbe05e8a65" parent="aspace_7fbd275b1e1f9792ebd2bbedea6a627a" type="Media">ID: 269.0052</container>
+            </did>
+            <phystech id="aspace_471723185f96e61bd8b846d0fc4d9660">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 7.5 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref182" level="item">
+            <did>
+              <unittitle>Two Thrushes/ Phrases of the Hermit Thrush</unittitle>
+              <unitid>ID: 269.0053</unitid>
+              <unitdate datechar="creation">March 1999</unitdate>
+              <container altrender="Record carton" id="aspace_7786d2a52c27b526a52992af3dadbac2" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_022aa69b2eea046250ca3545206db4ac" parent="aspace_7786d2a52c27b526a52992af3dadbac2" type="Media">ID: 269.0053</container>
+            </did>
+            <phystech id="aspace_d9a4d145ca2b3fced1da7d57a889c6f7">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 7.5 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref183" level="item">
+            <did>
+              <unittitle>Hear the Sound of Random No.s- DG at Beat 1999 Fest</unittitle>
+              <unitid>ID: 269.0054</unitid>
+              <unitdate datechar="creation">1999</unitdate>
+              <container altrender="Record carton" id="aspace_8c6c9e692d577b06c2833189d90d8761" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_85e6d7a01879ff751464136529fd26ce" parent="aspace_8c6c9e692d577b06c2833189d90d8761" type="Media">ID: 269.0054</container>
+            </did>
+            <phystech id="aspace_0e3a1a3cdb416754d23dbf81035cbd71">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audiocassette</p>
+              <p>Tape Length: 90 minutes</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref189" level="item">
+            <did>
+              <unittitle>Environment Tape I</unittitle>
+              <unitid>ID: 269.0060</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_406b20815d3849d5b04865637399358c" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_52883199a11fd8f7c94f0d90ae3c2723" parent="aspace_406b20815d3849d5b04865637399358c" type="Media">ID: 269.0060</container>
+            </did>
+            <phystech id="aspace_41cc81660cbf8fb07b52e4702243dc57">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 7.5 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref190" level="item">
+            <did>
+              <unittitle>Part 4 Take 1</unittitle>
+              <unitid>ID: 269.0061</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_33898cea5c3502fa4b7c4ff237784787" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_e79518a3e7fc3109820bacf6919a0c90" parent="aspace_33898cea5c3502fa4b7c4ff237784787" type="Media">ID: 269.0061</container>
+            </did>
+            <phystech id="aspace_86f1c277825703e78ac7e957c4e2b8f0">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 7.5 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref191" level="item">
+            <did>
+              <unittitle>Tulloch Gorum/ Rankins</unittitle>
+              <unitid>ID: 269.0062</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_927fb7190dbd966ca2e48d47d08b49b2" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_d545561c33eec39d92d9c6c19dac98d7" parent="aspace_927fb7190dbd966ca2e48d47d08b49b2" type="Media">ID: 269.0062</container>
+            </did>
+            <phystech id="aspace_af70991092eb26776d8fbbf619f5ace1">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 3.75 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref192" level="item">
+            <did>
+              <unittitle>Worm</unittitle>
+              <unitid>ID: 269.0063</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_f33d285f66869023732fbe5a829b546d" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_34e7fbcc7467312513c6524346bd1dc3" parent="aspace_f33d285f66869023732fbe5a829b546d" type="Media">ID: 269.0063</container>
+            </did>
+            <phystech id="aspace_ca2f3a3167034188f535035911b722d7">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 7.5 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref194" level="item">
+            <did>
+              <unittitle>Managua-Matagalpa Music</unittitle>
+              <unitid>ID: 269.0065</unitid>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Record carton" id="aspace_3ce6a8d0e49f40e8f6a38754b6f3df13" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_7fd7d754d2d69c2cdb6979f686500fd7" parent="aspace_3ce6a8d0e49f40e8f6a38754b6f3df13" type="Media">ID: 269.0065</container>
+            </did>
+            <phystech id="aspace_1df8ffe1498832381e8cda2caae7c9fb">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 1/4" audio reel</p>
+              <p>Speed: 7.5 ips</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref263" level="item">
+            <did>
+              <unittitle>The Thrush From Upper Dunakyn: St. Joseph's Church, NYC</unittitle>
+              <unitid>data_value_missing_251fef2d880ccf3dd7305494916dfe87</unitid>
+              <unitdate datechar="creation">December 7, 1979</unitdate>
+              <container altrender="Record carton" id="aspace_c3d279d4aa49a916db5f1c0643182d26" label="media [31142063435427]" type="Box">8</container>
+            </did>
+            <phystech id="aspace_4671ebe1c13b23633bc60538e7032fea">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 12" vinyl sound disc</p>
+              <p>Speed: 33 1/3 rpm</p>
+            </phystech>
+          </c>
+          <c id="aspace_ref265" level="item">
+            <did>
+              <unittitle>Sleepers - Lull music by Daniel Goode, Doris Hays, Tom Johnson, Alison Knowles, Annea Lockwood, Ilhan Mimaroglu, Ann Silsbee, Pauline Oliveras</unittitle>
+              <unitid>data_value_missing_c02ff08fe8b98b8d20b60a7f066f67dc</unitid>
+              <unitdate datechar="creation">1985</unitdate>
+              <container altrender="Record carton" id="aspace_917c9ffa9c70694c8df2e6affb747431" label="media [31142063435427]" type="Box">8</container>
+            </did>
+            <phystech id="aspace_fc0594f56347ad65a6c7300a2e6155ef">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: 12" vinyl sound disc</p>
+              <p>Speed: 33 1/3 rpm</p>
+            </phystech>
+          </c>
+          <c id="aspace_3636eb56ce42a787bd614c642ca94dae" level="file">
+            <did>
+              <unittitle>Solo Performance 1/2 Track </unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_fcb221521ceec2cc6fa454ab6c932317" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_23505a4e59ff84c49b435bc820541b77" level="file">
+            <did>
+              <unittitle>Bass Clan and Electronics</unittitle>
+              <unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate>
+              <container altrender="Record carton" id="aspace_ccfda78079b2f2eff7934f8cac9d80fa" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_97250dcc28b0d5a2facddb50c07b6329" level="file">
+            <did>
+              <unittitle>Birds (Part of Selected Chambers)</unittitle>
+              <unitdate datechar="creation" normal="1977/1977">1977</unitdate>
+              <container altrender="Record carton" id="aspace_e0d1680145f36303317b9a6718e72c50" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_d1a5e57d611738ffbcb1fa7795b4f18e" level="file">
+            <did>
+              <unittitle>Water Neshanic in 3 Movements</unittitle>
+              <unitdate datechar="creation" normal="1977/1977">1977</unitdate>
+              <container altrender="Record carton" id="aspace_9a5fcf9e298460802f753a703431076a" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_8f01ae34de214ee5307e78ecfb4aa38b" level="file">
+            <did>
+              <unittitle>Faust Excerpts</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_8057514f58d8f69aa80ac9247a63d4be" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_e74bd86708d7633a7557e768bedb200b" level="file">
+            <did>
+              <unittitle>Faust Excerpts</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_11a1eff38cc389ed4d7269244f48f73b" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_faf72cd3bda99737432e78dbf6f9d7b0" level="file">
+            <did>
+              <unittitle>Orbits</unittitle>
+              <unitdate datechar="creation" normal="1971/1971">1971</unitdate>
+              <container altrender="Record carton" id="aspace_791d9b6e0ebf931b85baf5735dc96ce0" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_7d58a093df88cc8fbc4711b19aa8f950" level="file">
+            <did>
+              <unittitle>Bulgarian Folk</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_531a3ffc297e34ea153e5646f180ee92" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_be86fb7cd78e5199ca868cda1260c0a2" level="file">
+            <did>
+              <unittitle>Walpurgus Rhythym</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_1ef06f00a517590458b0685d736ce40a" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_d866e61a309680c2d78e0060b64da164" level="file">
+            <did>
+              <unittitle>Fontana Loops</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_6ac4044053bb89e80828ad1b149489cf" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_b60b1c2abd91201d61908b1fd87303dc" level="file">
+            <did>
+              <unittitle>Faust's Death (Madras Hymn)</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_cc7415a668216ee06ec9bc2438a7e5bf" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_68e76aefd0cbc07ac9bcec391e271edb" level="file">
+            <did>
+              <unittitle>Traveling Music (Rehearsal Tape)</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_23b53b39b8d4ca0827646521c72062aa" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_3a204f28db51c95234522b9cb945930e" level="file">
+            <did>
+              <unittitle>Macedonian and Bulgarian Dances</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_4b3b50993261fe8f82dc67e4f24c3bef" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_78ef80198b18bc18f7683dfd82f70f83" level="file">
+            <did>
+              <unittitle>Morning Music (with Bill Hellerman and Philip Corner)</unittitle>
+              <unitdate datechar="creation" normal="1978/1978">1978</unitdate>
+              <container altrender="Record carton" id="aspace_c802b7b0e177207f035b183bb6b275b9" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_7e01d0a2e026ad41da4906a338d24442" level="file">
+            <did>
+              <unittitle>Ancient Sleeping</unittitle>
+              <unitdate datechar="creation" normal="1977/1977">1977</unitdate>
+              <container altrender="Record carton" id="aspace_5189341bd1e0c50c9f5c6a573fcf49aa" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_e3eba5cb1cd972ef5540a91ea8c6bcfb" level="file">
+            <did>
+              <unittitle>Pomp and Circumstances</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_138b3f85c6dd123b9aac4ced6e01f522" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_cd05af12a54652677b8fff074e93c738" level="file">
+            <did>
+              <unittitle>Tape Loops</unittitle>
+              <unitdate datechar="creation" normal="1973/1973">1973</unitdate>
+              <container altrender="Record carton" id="aspace_f3bce42f431f221561e66264c169a813" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_5f81b5b3b812ca538614269a2b8fe1a7" level="file">
+            <did>
+              <unittitle>Birds Backwards/Forwards/Several Speeds</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_4fe1edd1cbb4ff2df3dbd19f7a19a0a6" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_a5e1b66864c5189f5c5a6f6b61f83be6" level="file">
+            <did>
+              <unittitle>Gaburo Antiphony II</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_fb4f7718a512a8d8743547fac3ce0cab" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_7610ec3eb71563f5e2fcf6e214eb4f35" level="file">
+            <did>
+              <unittitle>Pacific Sirens Performing</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_f74da130832417bee4769032cddf491d" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_3892940a9cb3a7468621807db26106ef" level="file">
+            <did>
+              <unittitle>Pacific Sirens Made from Filtered Ocean Waves Plus Instruments (Robert Erickson)</unittitle>
+              <unitdate datechar="creation" normal="1969/1969">1969</unitdate>
+              <container altrender="Record carton" id="aspace_a677356b390aa37f59058efa78370f7f" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_0d37231fe69622605b9466bf1e21adf1" level="file">
+            <did>
+              <unittitle>Scrambled Birds</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_722a3d70f81d93ac594b626b9766a671" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_8c2c3781694db4de8435a3468c00d358" level="file">
+            <did>
+              <unittitle>Robert Erickson</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_fccc0e5c9d96fdf82dc644a5d52e2591" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_3e4bfd5cb775869d20c6b8acc0baf735" level="file">
+            <did>
+              <unittitle>Hypnotica Domestica (Performance Tape)</unittitle>
+              <unitdate datechar="creation" normal="1970/1970">1970</unitdate>
+              <container altrender="Record carton" id="aspace_3dea8adb46c503b4e35f5a9df6ca361e" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_0017810d6082075dc4f8b8c477f54ef5" level="file">
+            <did>
+              <unittitle>Faust Patch</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_385b7e97331e3908fa6177b4e343286f" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_e2a63a4400febcd42b18b5c0cd761b44" level="file">
+            <did>
+              <unittitle>River Falls Concert</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_b78e8868e558dd330755e9298bd76973" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_96462a9243783e30d61187e898d91dbf" level="file">
+            <did>
+              <unittitle>Wood Thrush</unittitle>
+              <unitdate datechar="creation" normal="1975/1975">1975</unitdate>
+              <container altrender="Record carton" id="aspace_5975023a30eb71cbe13baaa041c3e5ce" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_c045b7f9ac0f1a266bda4025546abb38" level="file">
+            <did>
+              <unittitle>Amplified Stream Neshanic</unittitle>
+              <unitdate datechar="creation" normal="1977/1977">1977</unitdate>
+              <container altrender="Record carton" id="aspace_a6081ba576ad9643926554fd2213178d" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_509bbdfffcf67573cf4102dbbb4d825e" level="file">
+            <did>
+              <unittitle>Phrases, Scrambled Birds, SOB Laugh</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_7fefd28837ecbfcde3ea3e8c02b861eb" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_81577d81f520cbd5dda7fbfc0e784c93" level="file">
+            <did>
+              <unittitle>Traveling Music (Rehearsal)</unittitle>
+              <unitdate datechar="creation" normal="1974/1974">1974</unitdate>
+              <container altrender="Record carton" id="aspace_b56a45ac061071ae2254075b9465f123" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_81f2b04db433530547355fc3ca56910d" level="file">
+            <did>
+              <unittitle>Angus Chisholm</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_adef105ec700e44a25770ce63be2278e" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_427a5bd124dca1e5c0acefe49450f811" level="file">
+            <did>
+              <unittitle>Hutz, African, Afro-Cuban Jam Session</unittitle>
+              <unitdate datechar="creation" normal="1970/1970">1970</unitdate>
+              <container altrender="Record carton" id="aspace_526037f99e109ae9de3529a9886b0f70" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_3d8c39b37a31b0500ef9cba1e247608b" level="file">
+            <did>
+              <unittitle>Short Discourse on Rhythm</unittitle>
+              <unitdate datechar="creation" normal="1975/1975">1975</unitdate>
+              <container altrender="Record carton" id="aspace_8d6ae281bffa83508aa82c19802d3f53" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_a08563f943f7ff3a6212451c40fe33e5" level="file">
+            <did>
+              <unittitle>Water with Backwards Gamelan</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_096a79154c7133b6a251e9742028d1b1" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_419dfebc17e6c583f1bb9eb89ef38dcd" level="file">
+            <did>
+              <unittitle>Democracy Rains</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_810bf1d0c6c9cb09c4ec68ee172d2e82" label="Mixed Materials [31142063123296]" type="Box">9</container>
+            </did>
+          </c>
+          <c id="aspace_687669ec021b57ab5eb45bb2c590fd7c" level="file">
+            <did>
+              <unittitle>Hermit Thrush</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_b5de344411a3c075d22838d63cecddc5" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_51ecda007f85723ec54b05a8e2f23a04" level="file">
+            <did>
+              <unittitle>Wood Thrush and Bell Rows</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_af2a7b24420bd085c6562e3b5651cce7" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_06ff9b4ee87426389980b2378d83657c" level="file">
+            <did>
+              <unittitle>Space Music II (Stokes)</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_fa64419c5233dc2fbcaf339443bded68" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_d27df39e67580cc7acd8070dfd26c550" level="file">
+            <did>
+              <unittitle>Bell Rows and Phrases of the Hermit Thrush (Circular Thoughts)</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_f1a9c00735ab1b8d14229adfd08919b4" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_bcb9b3070c606a0890ea442a8c402428" level="file">
+            <did>
+              <unittitle>Solo Performance (Master)</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_ef40a4f987490dae39c53d70255c849c" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_e2928768c1a3c3b55f54e32f1de4d219" level="file">
+            <did>
+              <unittitle>Phrases of Hermit Thrush with Listening Centres, Gongs, and Feedback</unittitle>
+              <unitdate datechar="creation" normal="1975/1975">1975</unitdate>
+              <container altrender="Record carton" id="aspace_33bf2ffa95abeb338b241bfe66a3607d" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_4fe02a1be30efe63af2286fa71b3fb1e" level="file">
+            <did>
+              <unittitle>Master - Saul II</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_e752bef5a5067031457cb7d981cf999a" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_ebe4d20281d3d7997d00d9412f32ec78" level="file">
+            <did>
+              <unittitle>Bell Rows -- The Kitchen</unittitle>
+              <unitdate datechar="creation" normal="1974/1974">1974</unitdate>
+              <container altrender="Record carton" id="aspace_db4b8c0cad910a254d49451cafd70abe" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_0386a282b1f4b4a93d7c13f29c8a7356" level="file">
+            <did>
+              <unittitle>Amplified Stream -- M. Lytle's Mix</unittitle>
+              <unitdate datechar="creation" normal="1977/1977">1977</unitdate>
+              <container altrender="Record carton" id="aspace_0561f26af5132b5038e6ff68a6a21ab7" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_45847007f91ccab6f578e45f3e565e9a" level="file">
+            <did>
+              <unittitle>Democracy Rains -- Daniel Goode with Class</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_e2591cdaf8c4e8f57f33d3880ba29aca" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_408775eafd1b509b149ad030349a9a90" level="file">
+            <did>
+              <unittitle>Concert of Daniel Goode and Phil Corner (Carnegie Recital Hall)</unittitle>
+              <unitdate datechar="creation" normal="1976/1976">1976</unitdate>
+              <container altrender="Record carton" id="aspace_d0260786bcb1df15b1cc811e9406d3b3" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_7a79f20b92d433eda28c04dfa78c2ad0" level="file">
+            <did>
+              <unittitle>Paths, Chopin, Erotica, 12 Tone; Bells Rows Part Gamelan I and II</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_1896efabaf9d3b2a52721f1631b30ced" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_9091dcf246ff1b9cef5ccd13ad88884f" level="file">
+            <did>
+              <unittitle>Lukas Foss Echo</unittitle>
+              <unitdate datechar="creation" normal="1968/1968">1968</unitdate>
+              <container altrender="Record carton" id="aspace_b2fc9ca58dfa6e5586a2fc141e9f3fc0" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_cce34bd685405c1e8364cab15deb1ec6" level="file">
+            <did>
+              <unittitle>Echoi?</unittitle>
+              <unitdate datechar="creation" normal="1968/1968">1968</unitdate>
+              <container altrender="Record carton" id="aspace_d5d3ca20bffe1632f1c61e0c2f992ef3" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_fcd08d5752360f84baadd3ed49cb4eaf" level="file">
+            <did>
+              <unittitle>Gallery Concert III</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_a07c623521cb9ad6c8393b95788825b1" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_7ec247e81cc831e89c8bb116d82028c9" level="file">
+            <did>
+              <unittitle>Brant and Goode Round for Two Ensembles</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_aa2cbdf8714b737c06ee40ec2e447677" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_d8bd5c66e7f40937d3d54bc2192dc380" level="file">
+            <did>
+              <unittitle>Glendale Tape I</unittitle>
+              <unitdate datechar="creation" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_48e43da516da576ba076d8c1df65e08d" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_d64cc8f69a2eb6d47dc744589823aecc" level="file">
+            <did>
+              <unittitle>Water Master</unittitle>
+              <unitdate datechar="other" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_5682e0eb6a946def141377059b38656e" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_104daddab17310e0d7ecfb96bac10252" level="file">
+            <did>
+              <unittitle>Rankin Family Music (Cape Breton)</unittitle>
+              <unitdate datechar="other" normal="1972/1972">1972</unitdate>
+              <container altrender="Record carton" id="aspace_a57e49350935e8de817f4e3c03995e0e" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_e29228b61fbfde3eb1fb1070d0b61f01" level="file">
+            <did>
+              <unittitle>Quarter for Horns</unittitle>
+              <unitdate datechar="other" normal="1971/1971">1971</unitdate>
+              <container altrender="Record carton" id="aspace_2fea4d76e599f8a1aab6a46b876c9b8d" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_da55132b5fad0024935f165b8626dd27" level="file">
+            <did>
+              <unittitle>Glendale Tape II (Saturday Night)</unittitle>
+              <unitdate datechar="other" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_9ac2064f1bd1fc42f2f58c8d6e46e8bc" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_d139c5640d3366956a7467b5d55051f1" level="file">
+            <did>
+              <unittitle>Because</unittitle>
+              <unitdate datechar="other" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_87e0a9106e757d263727eee1e0e788c0" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_c5b099d38693adab0d9d97b1887020f5" level="file">
+            <did>
+              <unittitle>Barn Gongs</unittitle>
+              <unitdate datechar="other" normal="1972/1972">1972</unitdate>
+              <container altrender="Record carton" id="aspace_1f911ab7c8c34f44d879fb0738f3af73" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_d6379abfc95b0738979b7aaadfc6d7e1" level="file">
+            <did>
+              <unittitle>Broadcove Concert (Cape Breton) -- Reel 2</unittitle>
+              <unitdate datechar="other" normal="1972/1972">1972</unitdate>
+              <container altrender="Record carton" id="aspace_9130a236b135996bf200d9f2bd76faa4" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_6b15ada2ec7130187c45b30fbc4d09a6" level="file">
+            <did>
+              <unittitle>The Thrush from Upper Dunakin</unittitle>
+              <unitdate datechar="other" normal="1974/1974">1974</unitdate>
+              <container altrender="Record carton" id="aspace_3b011dfd9724c692277bab75eccc0136" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_73f083fd7a1c2b557888d90ff733fa83" level="file">
+            <did>
+              <unittitle>What Does Faust Mean to You?</unittitle>
+              <unitdate datechar="other" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_6d8b091447f456748574bce142173e17" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_0ac10479af4a74938db3cf5a6759e4a3" level="file">
+            <did>
+              <unittitle>Timbre: Ensemble Timbres</unittitle>
+              <unitdate datechar="other" normal="1974/1974">1974</unitdate>
+              <container altrender="Record carton" id="aspace_c60426b76f107c18c061e4cf53f52d13" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_3a80021a2c67b36f569a647fc33e3eae" level="file">
+            <did>
+              <unittitle>Breakfast Before Plane</unittitle>
+              <unitdate datechar="other" normal="1973/1973">1973</unitdate>
+              <container altrender="Record carton" id="aspace_cda79783acb5296594ac568185c5406c" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_754d98502830a0fc7d5823a6e1e2b8a6" level="file">
+            <did>
+              <unittitle>Hermit Thrush Dunakin</unittitle>
+              <unitdate datechar="other" normal="1977/1977">1977</unitdate>
+              <container altrender="Record carton" id="aspace_c85637081a6c0565e58f8842c58685b3" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_b1646e63c7aa7c6af8ce2f30dc5832e0" level="file">
+            <did>
+              <unittitle>Clay Orch in Sound Express</unittitle>
+              <unitdate datechar="other" normal="1971/1972" type="inclusive">1971-1972</unitdate>
+              <container altrender="Record carton" id="aspace_ed6e39b52eecc9084f450284b730a2ca" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_ccb757c1a6b99582df46e316248ae933" level="file">
+            <did>
+              <unittitle>Hermit Thrush (Lower Dunakin)</unittitle>
+              <unitdate datechar="other" normal="1977/1977">1977</unitdate>
+              <container altrender="Record carton" id="aspace_8ea02ae38d713d3c31c40cc2b9c62b6c" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_463376e127df55530aa3242e4e0bd313" level="file">
+            <did>
+              <unittitle>Glendale Tape III (Sunday Night)</unittitle>
+              <unitdate datechar="other" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_7cc500d2546e5f1fa99ab71587bf9136" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_5f1bb9948883948d2e0676732f771c8d" level="file">
+            <did>
+              <unittitle>Bells -- Griggstown</unittitle>
+              <unitdate datechar="other" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Record carton" id="aspace_8d2690b976fac797156c50df600b3239" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_1c14040db5cb113ae937ad9604573a6b" level="file">
+            <did>
+              <unittitle>Phrases of the Hermith Thrush as Duet with Another Thrush (Lower Dunakin)</unittitle>
+              <unitdate datechar="other" normal="1977/1977">1977</unitdate>
+              <container altrender="Record carton" id="aspace_3602d3d8fc3df75ab9614cbb61fac147" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_cdb274357aaa475a3e7792b2af94c556" level="file">
+            <did>
+              <unittitle>Glendale Tape I</unittitle>
+              <unitdate datechar="other" normal="1974/1974">1974</unitdate>
+              <container altrender="Record carton" id="aspace_7d07da2f0ba1dbc6ff8647440db43262" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_9eb1544faffc142033d15b51a03cf04f" level="file">
+            <did>
+              <unittitle>What Does Faust Mean to You? and Avant-Garde Fest</unittitle>
+              <unitdate datechar="other" normal="1974/1974">1974</unitdate>
+              <container altrender="Record carton" id="aspace_3485ae26a87f9a1e011a4e8bf69f3742" label="Mixed Materials [31142063123304]" type="Box">10</container>
+            </did>
+          </c>
+          <c id="aspace_4062e7c8dd235dafa1a29bb1796a1ec7" level="file">
+            <did>
+              <unittitle>Improvisatie op maandag</unittitle>
+              <unitdate datechar="other" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_cb8503e86ba2b79eae5bf4d3cbd33a01" label="Mixed Materials [31142063123312]" type="Box">11</container>
+            </did>
+          </c>
+          <c id="aspace_253ae81677da73e7baa4509b5dbbb4cc" level="file">
+            <did>
+              <unittitle>Fiddle Music from Cape Breton</unittitle>
+              <unitdate datechar="other" normal="1978/1978">1978</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_fa57454beaea6c659bb53123c4fc0552" label="Mixed Materials [31142063123312]" type="Box">11</container>
+            </did>
+          </c>
+          <c id="aspace_5c0905aea9d359e5462b140431095af4" level="file">
+            <did>
+              <unittitle>Circular Thoughts</unittitle>
+              <unitdate datechar="other" normal="1974/1974">1974</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_b2532ec09efa71ebfbb25dc9f2c3e7f5" label="Mixed Materials [31142063123312]" type="Box">11</container>
+            </did>
+          </c>
+          <c id="aspace_ac67a460e44c0f44882ec4f0196bc206" level="file">
+            <did>
+              <unittitle>Circular Thoughts</unittitle>
+              <unitdate datechar="other" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_61176ab2d6a4f74f57217b179e19c5cf" label="Mixed Materials [31142063123312]" type="Box">11</container>
+            </did>
+          </c>
+          <c id="aspace_7dbb4e30babd642caa10c6b9dfc37630" level="file">
+            <did>
+              <unittitle>Phrases of the Hermit Thrush and Circular Thoughts</unittitle>
+              <unitdate datechar="other" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_cfcf7d1da20c45eecbecdd32925adcc0" label="Mixed Materials [31142063123312]" type="Box">11</container>
+            </did>
+          </c>
+          <c id="aspace_7fb0877c2ef30c0c2a07de5221840f20" level="file">
+            <did>
+              <unittitle>Circular Thoughts (Many Takes)</unittitle>
+              <unitdate datechar="other" normal="1970/1980" type="inclusive">1970s</unitdate>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_98c85ab58514797a2bf799b963d06f19" label="Mixed Materials [31142063123312]" type="Box">11</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref118" level="subseries">
+          <did>
+            <unittitle>Subseries B: Separated Materials</unittitle>
+          </did>
+          <c id="aspace_ref120" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Bad Alchemy N2 XXII" Booklet from Envelope with "Bad Alchemy N2 XXII" Cassette Tape</unittitle>
+              <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+              <container altrender="Manuscript box - Legal" id="aspace_5aa5088175fbc6d2f8ce2dfb5d69cda1" label="Mixed Materials [31142063599669]" type="Box">3</container>
+              <container id="aspace_3287ac7c061f8ed5bb76c6ac9b78ac65" parent="aspace_5aa5088175fbc6d2f8ce2dfb5d69cda1" type="Folder">9</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref2" level="series">
+        <did>
+          <unittitle>Series V: Data disks</unittitle>
+        </did>
+        <scopecontent id="aspace_551de55a10968308dee95154cc3a7569">
+          <head>Scope and Contents</head>
+          <p>Series comprises CD-Rs.</p>
+        </scopecontent>
+        <c id="aspace_ref116" level="subseries">
+          <did>
+            <unittitle>Subseries A: Computer media</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          </did>
+          <c id="aspace_ref4" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Sounds Out of Silent Spaces Flyer: 1972?</unittitle>
+              <unitid>ID: 269.3.0001</unitid>
+              <unitdate datechar="creation">1972</unitdate>
+              <container altrender="Record carton" id="aspace_2ed80bbbe5cd8569cdcf907673e09c5b" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_f280e041dd918927ba24ee49190ebce9" parent="aspace_2ed80bbbe5cd8569cdcf907673e09c5b" type="Media">ID: 269.3.0001</container>
+            </did>
+            <odd id="aspace_dc44176c187a298aa98b14fb677c07ef">
+              <head>General</head>
+              <p>Format: CD-Rs<lb/>
+Annotations: Sounds out of silent spaces flyer: 1972(?); flyer designed by Philip Corner<lb/>
+Note: Contains .pdf of flyer in folder X</p>
+            </odd>
+          </c>
+          <c id="aspace_ref267" level="item">
+            <did>
+              <unittitle>Earle Brown: Photos of Perf. Dec. 1952</unittitle>
+              <unitid>ID: 269.3.0002</unitid>
+              <unitdate datechar="creation">1998</unitdate>
+              <container altrender="Record carton" id="aspace_d25e194a45f51daec4c0554c5d98ddb5" label="media [31142063435427]" type="Box">8</container>
+              <container id="aspace_9807a9986129bde29acb8e4951f5a9e3" parent="aspace_d25e194a45f51daec4c0554c5d98ddb5" type="Media">ID: 269.3.0002</container>
+            </did>
+            <phystech id="aspace_8b54196eae5f6d44feb5476c2e0f185d">
+              <head>Physical Characteristics and Technical Requirements</head>
+              <p>Format: CD-R</p>
+            </phystech>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref86" level="series">
+        <did>
+          <unittitle>Oversize Series I: Music</unittitle>
+        </did>
+        <scopecontent id="aspace_984c2702e15896b38a454d542794db5e">
+          <head>Scope and Contents</head>
+          <p>This series contains oversize materials physically separated from Series I.</p>
+        </scopecontent>
+        <c id="aspace_ref93" level="subseries">
+          <did>
+            <unittitle>Oversize Subseries A: Scores</unittitle>
+            <unitdate datechar="creation" normal="1978/1979" type="inclusive">1978, 1979</unitdate>
+          </did>
+          <c id="aspace_ref87" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Symphonic Thoughts"</unittitle>
+              <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+              <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_4b4f6dc3382fefccf8e68341bcf1adf0" label="Mixed Materials [31142063397825]" type="Box">6</container>
+              <container id="aspace_b821e4f33bd08e11bde1e3b554a090b7" parent="aspace_4b4f6dc3382fefccf8e68341bcf1adf0" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref88" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Symphonic Thoughts" Frame Backboard</unittitle>
+              <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+              <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_0cd47214402b6c87dc69fe9698b2c6aa" label="Mixed Materials [31142063397825]" type="Box">6</container>
+              <container id="aspace_5cad4c5569d120bb48407f13bef582c0" parent="aspace_0cd47214402b6c87dc69fe9698b2c6aa" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref89" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>"Phrases of the Hermit Thrush"</unittitle>
+              <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+              <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_6944e1dffeacbb715f9fd596bc85236f" label="Mixed Materials [31142063397825]" type="Box">6</container>
+              <container id="aspace_459ea1da44ad22083f9cb321d4c2b8d2" parent="aspace_6944e1dffeacbb715f9fd596bc85236f" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_6fb78a977ea91d7ee7a10230b8ae8360" level="file">
+            <did>
+              <unittitle>Score (Fluxus pieces)</unittitle>
+              <unitid>cuid6200</unitid>
+              <physdesc altrender="whole">
+                <extent altrender="materialtype spaceoccupied">1 item</extent>
+                <physfacet>one musical score</physfacet>
+              </physdesc>
+              <unitdate datechar="creation" normal="1960/2000" type="inclusive">Undated</unitdate>
+              <container id="aspace_f78950a9fdb2336949b11c514e9faea0" label="Mixed Materials" type="Item">MSS.269.cuid6200</container>
+            </did>
+            <scopecontent id="aspace_4c03766d985d06360baa1e0659eeeefb">
+              <head>Scope and Contents</head>
+              <p>Composer:  Earle Brown</p>
+            </scopecontent>
+            <controlaccess>
+              <genreform source="lcsh">Scores.</genreform>
+            </controlaccess>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref96" level="series">
+        <did>
+          <unittitle>Oversize Series II: Printed Matter</unittitle>
+        </did>
+        <scopecontent id="aspace_3957e628234ff22200b46aefeb78090b">
+          <head>Scope and Contents</head>
+          <p>This series contains oversize materials physically separated from Series II.</p>
+        </scopecontent>
+        <c id="aspace_ref94" level="subseries">
+          <did>
+            <unittitle>Oversize Subseries A: Mailers and Announcements</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993, undated</unitdate>
+          </did>
+          <c id="aspace_ref90" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Gamelan Son of Lion Poster</unittitle>
+              <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+              <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_a787fba6b85b7a664e38ab7bc30ffaad" label="Mixed Materials [31142063397825]" type="Box">6</container>
+              <container id="aspace_cec621aad8c607f40073461110e934ca" parent="aspace_a787fba6b85b7a664e38ab7bc30ffaad" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref91" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Daniel Goode Posters</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_f858a63c11a0e83110cf6fd4a4895806" label="Mixed Materials [31142063397825]" type="Box">6</container>
+              <container id="aspace_7c34e1f1587b361d198aa2305220d59a" parent="aspace_f858a63c11a0e83110cf6fd4a4895806" type="Folder">5</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_479f78492ca5340c0f8bfd2e6eb0e266" level="series">
+          <did>
+            <unittitle>Oversize Subseries C. Miscellaneous Papers</unittitle>
+          </did>
+          <c id="aspace_5e9685527581a12e56a20f75fe442f8a" level="file">
+            <did>
+              <unittitle>"All is Not Well" Signs</unittitle>
+              <unitdate datechar="creation" normal="1950/2015" type="inclusive">undated</unitdate>
+              <container altrender="Flat OS 21" id="aspace_57e20c512db3a23344c03f754e6dbdb6" label="Mixed Materials [31142063123379]" type="Box">17</container>
+            </did>
+          </c>
+          <c id="aspace_da35c43b3f712673b591e191d186bbda" level="file">
+            <did>
+              <unittitle>Event Posters</unittitle>
+              <unitdate datechar="creation" normal="1950/2015" type="inclusive">undated</unitdate>
+              <container altrender="Flat OS 21" id="aspace_029de20047d945a330e353f210e59a8b" label="Mixed Materials [31142063123379]" type="Box">17</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref95" level="subseries">
+          <did>
+            <unittitle>Oversize Subseries D: Periodicals</unittitle>
+            <unitdate datechar="creation" normal="1989/2001" type="inclusive">1989, 2001</unitdate>
+          </did>
+          <c id="aspace_ref92" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Periodicals</unittitle>
+              <unitdate datechar="creation" normal="1989/2001" type="inclusive">1989, 2001</unitdate>
+              <container altrender="Flat OS Box - 21 x 3.5 x 17" id="aspace_49f7314e911aa47d2e9a333caccdff64" label="Mixed Materials [31142063397825]" type="Box">6</container>
+              <container id="aspace_9e78a1aa1cbf375eb25a2f76747532b9" parent="aspace_49f7314e911aa47d2e9a333caccdff64" type="Folder">6</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_3218dd12fdd77d9c862a67daefe3e236" level="series">
+        <did>
+          <unittitle>Series VI. 2019 Accretion</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.75 linear feet</extent>
+            <extent altrender="carrier">in 1 manuscript box, 1 half manuscript box, 1 small flat box, and 2 oversize folders in shared housing</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1954/2016" type="inclusive">1954-2016</unitdate>
+        </did>
+        <scopecontent id="aspace_c684513fa2b8a8830d034fc58eeaaddc">
+          <head>Scope and Contents</head>
+          <p>This accretion to the Daniel Goode Papers consists of performance ephemera, subject files of music research, and Goode's philosophy papers from college. The accretion also includes a set of manuscript scrolls for Philip Corner's "Real Fantastic."</p>
+        </scopecontent>
+        <arrangement id="aspace_b3cbdd85b9f311547d50f71b7e1694bd">
+          <head>Arrangement</head>
+          <p>This accretion has not been arranged by an archivist. The materials are arranged in the order in which they were received from the donor.</p>
+        </arrangement>
+        <c id="aspace_abdfd5bd0df723950a91187fc4748731" level="file">
+          <did>
+            <unittitle>Ephemera</unittitle>
+            <unitdate datechar="creation" normal="1965/1995" type="inclusive">1965-1995</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d04840b0123bd8d723068a72dcb5bc85" label="Mixed Materials [31142067118003]" type="Box">18</container>
+            <container id="aspace_674d44a4c643e1ab96bfecedd25045e3" parent="aspace_d04840b0123bd8d723068a72dcb5bc85" type="Folder">1-2</container>
+          </did>
+        </c>
+        <c id="aspace_68bc26089c4f307bd55875c9e3631d35" level="file">
+          <did>
+            <unittitle>Scottish Music</unittitle>
+            <unitdate datechar="creation" normal="1954/2016" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9318e636c9b15300e22dd3562d2a2001" label="Mixed Materials [31142067118003]" type="Box">18</container>
+            <container id="aspace_38a7dbcad3c2873a722cc46b2e9e2bde" parent="aspace_9318e636c9b15300e22dd3562d2a2001" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_3ba1747c0f63d4d190c0d3b4b96d513e" level="file">
+          <did>
+            <unittitle>Oberlin College</unittitle>
+            <unitdate datechar="creation" normal="1956/1957" type="inclusive">1956-1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1957576c0dfffa01c6524f6d6f43ea28" label="Mixed Materials [31142067118003]" type="Box">18</container>
+            <container id="aspace_13fc1cb62ca60ddca628db34455a1b16" parent="aspace_1957576c0dfffa01c6524f6d6f43ea28" type="Folder">4-5</container>
+          </did>
+        </c>
+        <c id="aspace_72c15efabb3cb5bb5b25d7922ef71b60" level="file">
+          <did>
+            <unittitle>Cornell University</unittitle>
+            <unitdate datechar="creation" normal="1957/1958" type="inclusive">1957-1958</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_493ab6e815b83e79c27fb74860588102" label="Mixed Materials [31142067118003]" type="Box">18</container>
+            <container id="aspace_1cc5c498762f4dd8d584bd254c8ae0d8" parent="aspace_493ab6e815b83e79c27fb74860588102" type="Folder">6-8</container>
+          </did>
+        </c>
+        <c id="aspace_b6ab149e73b4f25a81563ebfdaa23d49" level="file">
+          <did>
+            <unittitle><emph render="italic">Pacific Sirens</emph> by Robert Erickson</unittitle>
+            <unitdate datechar="creation" normal="1969/1969">1969</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bdc8df8dafcbfcb0a5b82ea20574ff34" label="Mixed Materials [31142067118003]" type="Box">18</container>
+            <container id="aspace_506df2a4ec1284308728f538bc7b634f" parent="aspace_bdc8df8dafcbfcb0a5b82ea20574ff34" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_da099d3d7f0c0a2603cccd0670784f90" level="file">
+          <did>
+            <unittitle>2-Noter</unittitle>
+            <unitdate datechar="creation" normal="1954/2019" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_caebb8856a7c5c1700b81f7c977023d2" label="Mixed Materials [31142067118003]" type="Box">18</container>
+            <container id="aspace_be321c443bcdefbe3a26291b2c91dca1" parent="aspace_caebb8856a7c5c1700b81f7c977023d2" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_e2e3b31dff087036b1b36ad5a93b6a10" level="file">
+          <did>
+            <unittitle>Morton Feldman</unittitle>
+            <unitdate datechar="creation" normal="1954/2019" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1b804576f9a35eb21296af58f53ac5ce" label="Mixed Materials [31142067118003]" type="Box">18</container>
+            <container id="aspace_98031fa36c0ace8276cd5d9d7a973ed6" parent="aspace_1b804576f9a35eb21296af58f53ac5ce" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_610761e31f014650fc8f5dc29b340c2b" level="file">
+          <did>
+            <unittitle>Jackson Mac Low</unittitle>
+            <unitdate datechar="creation" normal="1980/2005" type="inclusive">1980-2005</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9f1fae91ea57fa410136d52d57683fd1" label="Mixed Materials [31142067118003]" type="Box">18</container>
+            <container id="aspace_93e8c3b3e701c30eccaa5ab4adb017c5" parent="aspace_9f1fae91ea57fa410136d52d57683fd1" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_bcfa0b7b3c1f9b48d1c6b526371b530b" level="file">
+          <did>
+            <unittitle>Performance Programs</unittitle>
+            <unitdate datechar="creation" normal="1982/2016" type="inclusive">1982-2016</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_699f88a75c52ac5677e0c455cf5363a2" label="Mixed Materials [31142067118003]" type="Box">18</container>
+            <container id="aspace_4a59eae74cbbda8da51e90d7520b4cc4" parent="aspace_699f88a75c52ac5677e0c455cf5363a2" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_b6d4732a7d90a95641d2d6e2484f38d2" level="file">
+          <did>
+            <unittitle>Rutgers Avant-Garde Series</unittitle>
+            <unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_a8cf741ab758d6f60c7152b75128cc03" label="Mixed Materials [31142067118011]" type="Box">19</container>
+            <container id="aspace_5fd44f644e07a2adafe24bc19bccd78f" parent="aspace_a8cf741ab758d6f60c7152b75128cc03" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_7def9938b30b20887da2325d910f22b8" level="file">
+          <did>
+            <unittitle>206 C Project</unittitle>
+            <unitdate datechar="creation" normal="1954/2016" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_311202a0826eb55e793b6d9d701556d2" label="Mixed Materials [31142067118011]" type="Box">19</container>
+            <container id="aspace_142bed69cf4a98abd59f460afc31dc53" parent="aspace_311202a0826eb55e793b6d9d701556d2" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_b7fa04ec08031b0ad6ba19578a14ea97" level="file">
+          <did>
+            <unittitle>Reviews and Announcements</unittitle>
+            <unitdate datechar="creation" normal="1968/1968">1968</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_ce23d768306e02130378bc450ad7e256" label="Mixed Materials [31142067118011]" type="Box">19</container>
+            <container id="aspace_cc9f371e722c52a3d7cd993ddee38f9a" parent="aspace_ce23d768306e02130378bc450ad7e256" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_62b68594ae54f258b66ef525aff067fa" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1965/1973" type="inclusive">1965-1973</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_13c3b89894d7deda9fc32fadf4b2ada9" label="Mixed Materials [31142067118011]" type="Box">19</container>
+            <container id="aspace_cf4b0a0da10c0905b19d072a9c8e70f1" parent="aspace_13c3b89894d7deda9fc32fadf4b2ada9" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_26853c29af159a69896c7211e6bbfc9d" level="file">
+          <did>
+            <unittitle>Terry Riley</unittitle>
+            <unitdate datechar="creation" normal="1964/1964">1964</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_71426c42f52cc0fa1bfacb37c6d33446" label="Mixed Materials [31142067118011]" type="Box">19</container>
+            <container id="aspace_db52a21dbf1e74416c681afe05102f0f" parent="aspace_71426c42f52cc0fa1bfacb37c6d33446" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_aeb3fc063743236332a6e462319ac865" level="file">
+          <did>
+            <unittitle>Contemporary Music Listening Sessions</unittitle>
+            <unitdate datechar="creation" normal="1964/1967" type="inclusive">1964-1967</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_5dee4e7f755aa33df31e9eac0c06230c" label="Mixed Materials [31142067118011]" type="Box">19</container>
+            <container id="aspace_c16c08536210a8a4908781faca40b9a2" parent="aspace_5dee4e7f755aa33df31e9eac0c06230c" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_283e8d9522d00dc7347bda468d83c904" level="file">
+          <did>
+            <unittitle>Livingston College</unittitle>
+            <unitdate datechar="creation" normal="1970/1976" type="inclusive">1970-1976</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_1f7039638ce94c2a55112e98bc67442a" label="Mixed Materials [31142067118011]" type="Box">19</container>
+            <container id="aspace_2c4df4d2d9c7d458117692e9fde478f8" parent="aspace_1f7039638ce94c2a55112e98bc67442a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_1c1e8dfbac8567d86173741cedbf75a9" level="file">
+          <did>
+            <unittitle><emph render="italic">Real Fantastic</emph> Scrolls by Philip Corner</unittitle>
+            <unitdate datechar="creation" normal="1978/1978">1978</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_c0f3aa39b1b71f1403d9e0b47a6f0beb" label="Mixed Materials [31142067118029]" type="Box">20</container>
+          </did>
+        </c>
+        <c id="aspace_9bfc29bf63f458a590efb27f8ff75621" level="file">
+          <did>
+            <unittitle>Posters</unittitle>
+            <container altrender="Rolled Storage - Box 37.5 x 5.5" id="aspace_0196f691540132aacb4d4ab828b52f5c" label="Mixed Materials [31142067118870]" type="Box">21</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

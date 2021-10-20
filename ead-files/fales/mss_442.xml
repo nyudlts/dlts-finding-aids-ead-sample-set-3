@@ -1,0 +1,1875 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_442">mss_442</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Chris Kraus Papers <num>MSS.442</num></titleproper>
+        <author>Megan O'Shea and Jennipher Ambrose</author>
+        <sponsor>Processing of this collection was funded by a grant from the Gladys Krieble Delmas Foundation.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>May 2019</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 21:25:52 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Chris Kraus Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Kraus, Chris, 1963-</persname>
+      </origination>
+      <unitid>MSS.442</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">50 Linear Feet</extent>
+        <extent altrender="carrier">in 68 manuscript boxes, 15 record cartons, 4 half manuscript boxes, 7 flat boxes, 1 media box, and 3 flat file folders</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">215 Reels</extent>
+        <extent altrender="carrier">in 170 Super 8 reels and 45 16mm reels</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">86 audiocassettes</extent>
+        <extent altrender="carrier">in 68 compact audio cassettes, 14 DAT cassettes, and 4 micro-cassettes</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">68 videocassettes</extent>
+        <extent altrender="carrier">in 19 VHS cassettes, 42 UMatic cassettes, 3 Betacam cassettes, 1 Betamax cassette, 2 Hi-8 cassettes, and 1 Mini-DV cassette</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">13 videodiscs (dvd)</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">40 Reels</extent>
+        <extent altrender="carrier">in 40 1/4" audio reels</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">2 videoreels (1 inch)</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">8.6 Gigabytes</extent>
+        <extent altrender="carrier">in 4508 computer files</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">5.3 Gigabytes</extent>
+        <extent altrender="carrier">in 23 email archives containing 74,164 messages</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">44 video disc (dvd) images</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">3 audio files</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1975/2015" type="inclusive">1975-2015</unitdate>
+      <abstract id="aspace_ffdb39c9c119c6e0e67b414c03340bda">Chris Kraus (born 1955) is an American writer, art critic, editor, filmmaker, writing instructor, playwright, and theatre director.  She is best known for her autobiographical novel, <emph render="italic">I Love Dick</emph>.  Her other novels include <emph render="italic">Aliens &amp; Anorexia</emph> and <emph render="italic">Torpor</emph>, and her non-fiction writing includes the collections <emph render="italic">Video Green:  Los Angeles Art and the Triumph of Nothingness</emph> and <emph render="italic">Where Art Belongs</emph>, as well as the biography <emph render="italic">After Kathy Acker</emph>.  Her films include <emph render="italic">The Golden Bowl or Repression</emph> and <emph render="italic">Gravity &amp; Grace</emph>.  The Chris Kraus Papers date from 1975 to 2015 and document Kraus's career as a writer, art critic, editor, filmmaker, playwright, and theatre director.  The collection consists of paper, audiovisual, and born-digital material and includes drafts of Kraus's critical writing and books, audiovisual material documenting all stages of production for her films, research materials for her writing, correspondence with friends and collaborators, and Kraus' personal diaries.</abstract>
+      <physloc id="aspace_f1c99a971b452da9a8dfee16051b5b8b">Some materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_89216632f77e4a04ff6389f08aaf96ce">Materials primarily in English, with some publications in French, German, Spanish, Italian, and Japanese.</langmaterial>
+    </did>
+    <processinfo id="aspace_55754ad29f521884d54ba096e41d150c">
+      <head>Processing Information</head>
+      <p>During the pre-processing survey in 2016, a considerable amount of mold was found in both paper and audiovisual materials.  If mold was spread throughout an entire box of material, that entire box was quarantined.  If mold was contained to part of a box, the moldy material was separated from the non-moldy material and quarantined.  Separation sheets were created for material removed from its original location; copies were placed in the material's original location and with the separated material.  The project archivist worked with Barbara Goldsmith Preservation &amp; Conservation Department staff to distinguish moldy items from dirty items and to return the non-moldy items to their original boxes.  Some moldy paper materials were cleaned by Preservation Department staff and others by an outside vendor.  Once cleaned and returned, the materials were returned to their original boxes by the project archivist.  As of April 2019, some audiovisual items were still in quarantine awaiting cleaning.</p>
+      <p>In 2018, select film, video, and audio materials were separated from the collection by the audiovisual archivist for rehousing and digitization.  The original items were returned once digitization was complete.  As of April 2019, some of these items were still in the Media Preservation Department awaiting rehousing and digitization.</p>
+      <p>Between March and May 2019, the collection was arranged and described by an archivist.  Series were created according to the arrangement in which the collection was received and material was arranged together intellectually within these series. Paper material for each series was brought together physically, with oversized paper materials, audiovisual material, and physical digital media housed together as appropriate. Where necessary, separation sheets were created to sustain the intellectual relationship between materials of different formats that were initially housed together. </p>
+      <p>Paper material was housed in archival folders and boxes. Physical digital media and audiovisual material were housed in archival boxes. Preservation photocopies were created for material originally printed on thermal fax paper.</p>
+      <p>Floppy disks, hard drives, and optical media containing data files were forensically imaged, analyzed, and arranged in Forensic Toolkit.  Video DVDs were imaged and arranged on local storage.  Audio CDs were ripped to the WAV file format and arranged on local storage.  Directories were created for material arranged together intellectually in the collection.</p>
+      <p>
+New York University Libraries follows professional standards and best practices when imaging, ingesting, and processing born-digital material in order to maintain the integrity of the content.</p>
+    </processinfo>
+    <bioghist id="aspace_5cc1df64d50edff61afe33a37052209c">
+      <head>Biographical note</head>
+      <p>Chris Kraus (born 1955) is an American writer, art critic, editor, filmmaker, writing instructor, playwright, and theatre director.  She is best known for her autobiographical novel, <emph render="italic">I Love Dick</emph>.   From the late 1970s to the early 1980s, she worked in New York City as a playwright and theatre director.  She wrote and directed the plays <emph render="italic">Disparate Action/Desperate Action</emph> and <emph render="italic">Readings from the Diaries of Hugo Ball</emph>, and co-wrote <emph render="italic">I Talked about God with Antonin Artaud</emph> with Sylvère Lotringer.  They later collaborated on the film <emph render="italic">How to Shoot a Crime</emph>.  Kraus was married to Lotringer from the late 1980s through the late 1990s.  While working in theatre in the early 1980s, Kraus began to write and produce short films.  These include <emph render="italic">The Golden Bowl or Repression</emph> and <emph render="italic">Gravity and Grace</emph>.  In 1990, she started as co-editor with Lotringer at <emph render="italic">Semiotext(e)</emph>, a journal and small publishing house he founded 1974, and she started the Native Agents Series there at the time.  At the time of this writing (2019), Kraus was still co-editor at <emph render="italic">Semiotext(e)</emph>.   In the late 1990s, she moved to Los Angeles, California and began focusing on art criticism, fiction writing, and teaching.  Some of her notable works include the autobiographical novels <emph render="italic">I Love Dick</emph>, <emph render="italic">Aliens &amp; Anorexia</emph>, and <emph render="italic">Summer of Hate</emph>; the non-fiction collections <emph render="italic">Video Green:  Los Angeles Art and the Triumph of Nothingness</emph> and <emph render="italic">Where Art Belongs</emph>; and the biography <emph render="italic">After Kathy Acker</emph>.</p>
+    </bioghist>
+    <prefercite id="aspace_4847a1e62d4815500025f1737d921891">
+      <head>Preferred Citation</head>
+      <p>Identification of item,  date; Chris Kraus Papers; MSS 442, box number; folder number; Fales Library and Special Collections, New York University.</p>
+    </prefercite>
+    <acqinfo id="aspace_d3f860ce045016b0c991f91d4982657b">
+      <head>Immediate Source of Acquisition</head>
+      <p>Collection received from Chris Kraus in two installments in October 2015; the accession numbers associated with these donations are 2015.442.001 and 2015.442.002. In March 2016, an accretion was added; the accession number associated with this donation is 2016.015. In February and June 2017 two small accretions were added; the accession numbers associated with these donations are 2017.036 and 2018.095.</p>
+    </acqinfo>
+    <relatedmaterial id="aspace_a726b2d51b1e255b8d87029a63dd6bb3">
+      <head>Related Materials</head>
+      <p>For more information on Kraus's work at <emph render="italic">Semiotext(e)</emph>, see the Sylvère Lotringer Papers and <emph render="italic">Semiotext(e)</emph> Archive (MSS 221).</p>
+    </relatedmaterial>
+    <arrangement id="aspace_e87f47d2f672518385d24b838415edd0">
+      <head>Arrangement</head>
+      <p>This collection has been arranged in five series:  Series I. Writing, Series II. Film, Series III. Diaries, Series IV. Correspondence, and Series V. The Chance Event.</p>
+    </arrangement>
+    <accessrestrict id="aspace_3f4e4fd1f1b4d19c8041b3bfd77f8fb0">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions, with the exception of Series III. Diaries, and email and select correspondence in Series IV. Correspondence which require donor permission to access. Please contact the Fales Library &amp; Special Collections, fales.library@nyu.edu, (212) 998-2596.</p>
+    </accessrestrict>
+    <userestrict id="aspace_4a9250bcb8d2ba9281cc4c94e00cefe7">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <scopecontent id="aspace_24d722b8ad2601f125ce8dad159cb24e">
+      <head>Scope and Contents</head>
+      <p>The Chris Kraus Papers document Kraus's career as a writer, art critic, editor, filmmaker, writing instructor, playwright, and theatre director.  The collection dates from 1975 through 2015 and contains paper, born-digital, and audiovisual materials documenting her work through this time.  These materials include drafts of Kraus's plays, films, novels, and critical writings; research materials used in her work; video, audio, and film recordings for her films; correspondence with friends and collaborators; and Kraus's personal diaries.  Well documented in the collection is her work as a writer of fiction and non-fiction, and as a filmmaker.  The collection includes her autobiographical novels <emph render="italic">I Love Dick</emph>, <emph render="italic">Torpor</emph>, and <emph render="italic">Summer of Hate</emph>.  Kraus's work on these novels is documented through paper and born-digital material, including diary entries regarding experiences that served as the basis for the novels, notes and drafts, research and source materials, galley proofs, publicity and reviews, and correspondence regarding all aspects of the creative process.  Similar material for her critical art writing and films is included in the collection, particularly the collections of her critical writing, <emph render="italic">Video Green:  Los Angeles Art and the Triumph of Nothingness</emph> and <emph render="italic">Where Art Belongs</emph>; her biography <emph render="italic">After Kathy Acker</emph>; and her films <emph render="italic">Golden Bowl or Repression</emph> and <emph render="italic">Gravity and Grace</emph>.  Also included in the collection are paper and born-digital typescripts, notes, and publicity materials for her plays and theatre work, as well as video, audio, and film recordings of these performances.  Also in the collection are correspondence, drafts, and notes documenting Kraus's work as a co-editor at <emph render="italic">Semiotext(e)</emph> and material from The Chance Event, a three day event curated by Kraus in Nevada in 1996 that focused on philosophy, music, and culture.</p>
+    </scopecontent>
+    <phystech id="aspace_722007fc677ec12211eeb8286990012e">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Access to audiovisual materials in this collection is available through digitized access copies. Researchers may view an item's original container, but the media themselves are not available for playback because of preservation concerns. Materials that have already been digitized are noted in the collection's finding aid and can be requested in our reading room. Some audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact fales.library@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <phystech id="aspace_d59037df6c9137d34a071a78bf329dbe">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Advance notice is required for the use of computer records.  Original physical digital media is restricted.   </p>
+      <p>An access terminal for born-digital materials in the collection is available by appointment for reading room viewing and listening only. Researchers may view an item's original container and/or carrier, but the physical carriers themselves are not available for use because of preservation concerns.</p>
+    </phystech>
+    <controlaccess>
+      <subject source="lcsh">American fiction -- 20th century.</subject>
+      <genreform source="aat">Audiovisual materials.</genreform>
+      <genreform source="aat">Film (material by form)</genreform>
+      <subject source="lcsh">Independent filmmakers -- United States.</subject>
+      <subject source="lcsh">Art criticism.</subject>
+      <genreform source="aat">Scripts (documents)</genreform>
+      <genreform source="aat">Diaries</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Drafts (documents)</genreform>
+      <genreform source="aat">Videocassettes.</genreform>
+      <genreform source="aat">Audiocassettes.</genreform>
+      <subject source="lcsh">Autobiographical fiction.</subject>
+      <subject source="lcsh">Women novelists, American.</subject>
+      <subject source="lcsh">Independent films -- Production and direction -- United States.</subject>
+      <subject source="lcsh">Women motion picture producers and directors -- United States.</subject>
+      <subject source="lcsh">Women periodical editors.</subject>
+      <corpname rules="dacs" source="local">Semiotexte</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_24601cecd2b5b27630389167ebe46e8d" level="series">
+        <did>
+          <unittitle>Series I. Writing</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">29.5 Linear Feet</extent>
+            <extent altrender="carrier">in 48 manuscript boxes, 1 half manuscript box, 5 record cartons, 5 flat boxes, 1 media box, and 2 flat file folders</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">21 videocassettes</extent>
+            <extent altrender="carrier">in 2 Hi-8 cassettes, 6 VHS cassettes, 1 Mini-DV cassette, and 12 UMatic cassettes</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">6 videodiscs (dvd)</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">8 audiocassettes</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">2 film reels</extent>
+            <extent altrender="carrier">in 2 Super 8 reels</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">6.6 Gigabytes</extent>
+            <extent altrender="carrier">in 4082 computer files</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">36 video disc (dvd) images</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">3 audio files</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1977/2015" type="inclusive">1977-2015</unitdate>
+        </did>
+        <arrangement id="aspace_6e019dfd1b4833657ab6ec272a219b00">
+          <head>Arrangement</head>
+          <p>This series is arranged in alphabetical order by format of material and then by title of work.  The inventory lists box and folder numbers for an alphabetical range of titles, with some titles listed individually when they consist of a large amount of material.</p>
+        </arrangement>
+        <scopecontent id="aspace_d8b5ac33a98741b24ee59ddd059cfbba">
+          <head>Scope and Contents</head>
+          <p>This series represents Kraus's work as a fiction writer, art critic, playwright, theatre director, editor, and creative writing instructor.  The material dates from 1974 through 2015.  Included in this series are paper and born-digital versions of material related to Kraus's work as an author, teacher, and editor at <emph render="italic">Semiotext(e)</emph>; audio and video recordings of performances of her work; and writing about Kraus.  Materials related to Kraus's writings include drafts, research materials, notes, publicity materials, reviews, and correspondence.  The bulk of the series documents Kraus's autobiographical novels and her critical writing on art and includes paper and born-digital materials.  Kraus's books documented in this series include <emph render="italic">I Love Dick</emph>, <emph render="italic">Torpor</emph>, <emph render="italic">Summer of Hate</emph>, <emph render="italic">Aliens &amp; Anorexia</emph>, <emph render="italic">After Kathy Acker</emph>, <emph render="italic">Video Green:  Los Angeles Art and the Triumph of Nothingness</emph>, and <emph render="italic">Where Art Belongs</emph>.  This material consists of paper and born-digital drafts, proofs, published books and magazines, newspaper and magazine clippings, notes, photographs, posters, flyers, correspondence, and audiovisual material.  In addition, the <emph render="italic">I Love Dick</emph> material includes scripts of <emph render="italic">Longing Lasts Longer</emph>, a 1998 play based on <emph render="italic">I Love Dick</emph>, as well as correspondence regarding its production, and photographs and video recordings of the performance.  Also included in this section are some of Kraus and Lotringer's notebooks and letters to Dick used in the creation of the book, and fan mail sent to Kraus after the publication of the book.  Kraus's art writing includes critical writing on artists and their exhibitions in the United States and Europe, and catalog essays for exhibitions.  This work is documented through paper and born-digital drafts, notes, published books and magazines, as well as magazine and newspaper clippings.  Research materials include photocopies and clippings of critical writings by others, exhibit catalogs, and correspondence with artists and editors.  Kraus's essays on topics other than art and her short stories are also included in this series.  </p>
+          <p>This series also documents Kraus's theatre work in New York City in the 1970s and 1980s, including <emph render="italic">Readings from the Diaries of Hugo Ball</emph>, <emph render="italic">Disparate Action/Desperate Action</emph>, and collaborations with Sylvère Lotringer on the works of Antonin Artaud.  This material also documents Kraus's theatre workshops with labor unions and other groups in New York City.  The theatre material includes video and audio recordings of <emph render="italic">Readings from the Diaries of Hugo Ball</emph>, <emph render="italic">I Talked about God with Antonin Artaud</emph>, an untitled performance of Artaud's work at Columbia University, and audio recordings of workshops Kraus held with labor union members.  </p>
+          <p>Also included in this series are materials related to interviews conducted with and by Kraus, writing about her work, awards and grants she received, her speaking engagements, her work as a teacher, her work as an editor at <emph render="italic">Semiotext(e)</emph>, and photographs.  The interviews include those conducted by Kraus with Penny Arcade and Christopher Isherwood, and an interview conducted by Gary Indiana with Kraus.  Writing about Kraus includes reviews of her work, as well as critical interpretations of her writings.  The photographs consist of photographs of Kraus used for publicity materials and of events at which she appeared.  The material related to speaking engagements includes posters, flyers, and catalogs for the events as well as correspondence regarding planning for the events.  The teaching material documents Kraus's work at the European Graduate School and includes syllabi; correspondence regarding the planning of the classes; diary entries about teaching and the class locations; and notes on what the focus of the classes should be, as well as ideas for projects and readings for the students.  Material documenting Kraus's work as an editor at <emph render="italic">Semiotext(e)</emph> includes born-digital correspondence, drafts, and notes regarding publication of works in <emph render="italic">Semiotext(e)</emph>'s Native Agents series as well as their general publishing areas.</p>
+        </scopecontent>
+        <c id="aspace_a8c9908cb4bf61915b5bb1556998e0d2" level="file">
+          <did>
+            <unittitle>Art Writing -- <emph render="italic">After Kathy Acker</emph></unittitle>
+            <unitdate datechar="creation" normal="2013/2015" type="inclusive">2013-2015</unitdate>
+            <container id="aspace_fd5c7ce97522b67782534c54c84e3b61" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_bdfa550cf9cefdf51b6b950252b277d9" parent="aspace_fd5c7ce97522b67782534c54c84e3b61" type="E-records">FA_MSS_442_ER_1</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="&lt;emph render='italic'&gt;After Kathy Acker&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p><emph render="italic">After Kathy Acker</emph>: 2013-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_f57cd46ecec367e53a6d19c7e28f7a46" level="file">
+          <did>
+            <unittitle>Art Writing -- A - C</unittitle>
+            <unitdate datechar="creation" normal="1988/2015" type="inclusive">1988-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e87779097b5c8cfbe7aab5d090eecfdd" label="Mixed Materials [31142062995538]" type="Box">13</container>
+            <container id="aspace_f15d0a4c423ec8694772ac0b98ae6af7" parent="aspace_e87779097b5c8cfbe7aab5d090eecfdd" type="Folder">1-12</container>
+            <container altrender="Manuscript box - Legal" id="aspace_ca9da80cdcdff5be5b6af63d6c4c660a" label="Mixed Materials [31142062995546]" type="Box">14</container>
+            <container id="aspace_9920c88758d3a2dda817a9d4d06c5f14" parent="aspace_ca9da80cdcdff5be5b6af63d6c4c660a" type="Folder">1-12</container>
+            <container altrender="Manuscript box - Legal" id="aspace_469bf8604207044bc9ad7436604b2922" label="Mixed Materials [31142062995579]" type="Box">17</container>
+            <container id="aspace_8ccd7608f4847b98acb223c02f6b4576" parent="aspace_469bf8604207044bc9ad7436604b2922" type="Folder">1-10</container>
+            <container altrender="Manuscript box - Legal" id="aspace_841bf3afa28128168e8c3c0c829fa80a" label="Mixed Materials [31142062995587]" type="Box">18</container>
+            <container id="aspace_3c2cd40a0df0af72531744d9b13fddb3" parent="aspace_841bf3afa28128168e8c3c0c829fa80a" type="Folder">1-7</container>
+            <container id="aspace_ff08f46781196f96d4fac78a9b851af6" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_dae195ecfc52263892215d43ca1c5d86" parent="aspace_ff08f46781196f96d4fac78a9b851af6" type="E-records">FA_MSS_442_ER_31</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Art Writing -- A - C" xlink:type="simple">
+              <daodesc>
+                <p>Art Writing -- A - C: 2010-</p>
+              </daodesc>
+            </dao>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Art Writing -- A - C" xlink:type="simple">
+              <daodesc>
+                <p>Art Writing -- A - C: 2005</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_46f881eddf80f2d235c0ff40477150b5" level="file">
+          <did>
+            <unittitle>Art Writing -- D - J</unittitle>
+            <unitdate datechar="creation" normal="2002/2015" type="inclusive">2002-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6c6b001104f666f0f642200ec59914a8" label="Mixed Materials [31142062995587]" type="Box">18</container>
+            <container id="aspace_83734a41ab9dddc82079ac879a56326e" parent="aspace_6c6b001104f666f0f642200ec59914a8" type="Folder">8-9</container>
+            <container altrender="Manuscript box - Legal" id="aspace_d7a612d70281dd18a1c8b8af865d7d30" label="Mixed Materials [31142062995595]" type="Box">19</container>
+            <container id="aspace_06d3d16c9e060e6193a8ae28ad928d01" parent="aspace_d7a612d70281dd18a1c8b8af865d7d30" type="Folder">1-9</container>
+            <container altrender="Manuscript box - Legal" id="aspace_acbc26b163e9cd25f9c1cfc556d2daab" label="Mixed Materials [31142062995603]" type="Box">20</container>
+            <container id="aspace_0985a64fc4ec4d81b27e73dfcb164bb5" parent="aspace_acbc26b163e9cd25f9c1cfc556d2daab" type="Folder">1-9</container>
+            <container altrender="Manuscript box - Legal" id="aspace_c7a3aeae2f990a4354bfa7d72d864694" label="Mixed Materials [31142062995603]" type="Box">20</container>
+            <container id="aspace_e296309ec7d2e3140e6c8e1727cd612f" parent="aspace_c7a3aeae2f990a4354bfa7d72d864694" type="Folder">1</container>
+            <container id="aspace_ff0a8983bd8ca31af6908feda6c99e91" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_9a68de1e2319b87b5cbfd5158466c6ec" parent="aspace_ff0a8983bd8ca31af6908feda6c99e91" type="E-records">FA_MSS_442_ER_29</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Art Writing -- D - J" xlink:type="simple">
+              <daodesc>
+                <p>Art Writing -- D - J: 2004-2011</p>
+              </daodesc>
+            </dao>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Art Writing -- D - J" xlink:type="simple">
+              <daodesc>
+                <p>Art Writing -- D - J: 2004-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_9f84da1976842918a7b98e428dc6084a" level="file">
+          <did>
+            <unittitle>Art Writing -- K - N</unittitle>
+            <unitdate datechar="creation" normal="1999/2015" type="inclusive">1999-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_19c82c9cb3d16f9dfc00514907915775" label="Mixed Materials [31142062995611]" type="Box">21</container>
+            <container id="aspace_716f53d5c077bde203f506d0acbf1746" parent="aspace_19c82c9cb3d16f9dfc00514907915775" type="Folder">2-8</container>
+            <container altrender="Manuscript box - Legal" id="aspace_928b5563b3c74cc72c293082382e04e9" label="Mixed Materials [31142062995629]" type="Box">22</container>
+            <container id="aspace_8aea9255b092947a4b5dcbcf76a6d69e" parent="aspace_928b5563b3c74cc72c293082382e04e9" type="Folder">1-7</container>
+            <container altrender="Manuscript box - Legal" id="aspace_351f37ff12fab78762b6c1c265e4ace9" label="Mixed Materials [31142062995637]" type="Box">23</container>
+            <container id="aspace_334254fdff06ca95dc98abdddccf3a43" parent="aspace_351f37ff12fab78762b6c1c265e4ace9" type="Folder">1-9</container>
+            <container altrender="Flat OS Box 17" id="aspace_2601b62320429ec0ac3852ea0bb446f1" label="Mixed Materials [31142063269115]" type="Box">Shared Fales 028</container>
+            <container id="aspace_092e3d57d9a609a911abfd7bd2df1f5c" parent="aspace_2601b62320429ec0ac3852ea0bb446f1" type="Folder">2</container>
+            <container altrender="Flat OS Box 17" id="aspace_aed70b5d0d8803996ace318bd0c439e3" label="Mixed Materials [31142063269115]" type="Box">Shared Fales 028</container>
+            <container id="aspace_4f77ecb6f0867ac31ac808b3b20f40cc" parent="aspace_aed70b5d0d8803996ace318bd0c439e3" type="Folder">6</container>
+            <container id="aspace_028afe3f074af8b6d4f27eca76931877" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_08faca142065f643794de876a35adf2b" parent="aspace_028afe3f074af8b6d4f27eca76931877" type="E-records">FA_MSS_442_ER_28</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Art Writing -- K - N" xlink:type="simple">
+              <daodesc>
+                <p>Art Writing -- K - N: 1999-2015</p>
+              </daodesc>
+            </dao>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Art Writing -- K - N" xlink:type="simple">
+              <daodesc>
+                <p>Art Writing -- K - N: 2003-2009</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_da37a743db8293588d3d85e64eeb9785" level="file">
+          <did>
+            <unittitle>Art Writing -- P - S</unittitle>
+            <unitdate datechar="creation" normal="1996/2015" type="inclusive">1996-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2878f7ceaf68e167724e468c5523f26f" label="Mixed Materials [31142062995637]" type="Box">23</container>
+            <container id="aspace_d326f5fdc055ce89637e46734a23f805" parent="aspace_2878f7ceaf68e167724e468c5523f26f" type="Folder">10-11</container>
+            <container altrender="Manuscript box - Legal" id="aspace_bcb2ef6593e0ab43c8c3ac68066630c8" label="Mixed Materials [31142062995645]" type="Box">24</container>
+            <container id="aspace_af333861feee88b09f16f75342789df0" parent="aspace_bcb2ef6593e0ab43c8c3ac68066630c8" type="Folder">1-17</container>
+            <container altrender="Manuscript box - Legal" id="aspace_f88978e9ca69ddeea1b3361291be2623" label="Mixed Materials [31142062995652]" type="Box">25</container>
+            <container id="aspace_ae4e8d843816cb0f3829e7968da6497d" parent="aspace_f88978e9ca69ddeea1b3361291be2623" type="Folder">1-3</container>
+            <container id="aspace_59bd3e27da0329580f92f51eafcaf491" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_32bdb5078c3c29646f8f758b92e736bc" parent="aspace_59bd3e27da0329580f92f51eafcaf491" type="E-records">FA_MSS_442_ER_32</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Art Writing -- P - S" xlink:type="simple">
+              <daodesc>
+                <p>Art Writing -- P - S: 1998-2015</p>
+              </daodesc>
+            </dao>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Art Writing -- P - S" xlink:type="simple">
+              <daodesc>
+                <p>Art Writing -- P - S: 2006-2011</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_530e4144509329b0015b185b33482b5e" level="file">
+          <did>
+            <unittitle>Art Writing -- T - Y</unittitle>
+            <unitdate datechar="creation" normal="2005/2015" type="inclusive">2005-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_599132e065f5cbed122662c04f2430f3" label="Mixed Materials [31142062995652]" type="Box">25</container>
+            <container id="aspace_945e8b0e8d0c6651f9fddb8d78caecda" parent="aspace_599132e065f5cbed122662c04f2430f3" type="Folder">4-10</container>
+            <container altrender="Manuscript box - Legal" id="aspace_909bc12b66321ae4136432b506db57c0" label="Mixed Materials [31142062995660]" type="Box">26</container>
+            <container id="aspace_3c324cab8429dff3ff7e58f0876cd763" parent="aspace_909bc12b66321ae4136432b506db57c0" type="Folder">6</container>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_004619cfa40199a67d08467eb7b7bd69" label="Mixed Materials [31142062995678]" type="Box">27</container>
+            <container id="aspace_9f1352df4cd302175b12340172099d0c" parent="aspace_004619cfa40199a67d08467eb7b7bd69" type="Folder">1-3</container>
+            <container id="aspace_face776c96331ef1cc8a24f0b794004c" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_d84346039bd5d81d6419452f454d5c47" parent="aspace_face776c96331ef1cc8a24f0b794004c" type="E-records">FA_MSS_442_ER_30</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Art Writing -- T - Y" xlink:type="simple">
+              <daodesc>
+                <p>Art Writing -- T - Y: 2008-2015</p>
+              </daodesc>
+            </dao>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Art Writing -- T - Y" xlink:type="simple">
+              <daodesc>
+                <p>Art Writing -- T - Y: 2005-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_feb3fd6750d0cece58a97bdd7799e2bb" level="file">
+          <did>
+            <unittitle>Art Writing -- <emph render="italic">Video Green:  Los Angeles Art and the Triumph of Nothingness</emph></unittitle>
+            <unitdate datechar="creation" normal="1996/2015" type="inclusive">1996-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e66b0131f6c1bc8c72285953c6d88f37" label="Mixed Materials [31142062995884]" type="Box">48</container>
+            <container id="aspace_ce97499beb5644225f26d9ddf7f9625a" parent="aspace_e66b0131f6c1bc8c72285953c6d88f37" type="Folder">1-8</container>
+            <container altrender="Manuscript box - Legal" id="aspace_3ca16b8106ddefc8543d3eebeaddeadd" label="Mixed Materials [31142062995892]" type="Box">49</container>
+            <container id="aspace_aa988901eac0cbd365e011333447c00a" parent="aspace_3ca16b8106ddefc8543d3eebeaddeadd" type="Folder">1-7</container>
+            <container altrender="Manuscript box - Legal" id="aspace_bc1424ecc618e2e08154d666153459d7" label="Mixed Materials [31142062995900]" type="Box">50</container>
+            <container id="aspace_6f8fcec12f3d996cc0e440e32fcac183" parent="aspace_bc1424ecc618e2e08154d666153459d7" type="Folder">1-8</container>
+            <container altrender="Manuscript box - Legal" id="aspace_a1f1eeb1179e9d53751f4a1737a64f4a" label="Mixed Materials [31142062995918]" type="Box">51</container>
+            <container id="aspace_49507463710c53fdfc7596a327aff83e" parent="aspace_a1f1eeb1179e9d53751f4a1737a64f4a" type="Folder">1-7</container>
+            <container altrender="Manuscript box - Legal" id="aspace_a4b705d57e3d9d8e4219c633f8d8e8a5" label="Mixed Materials [31142062995975]" type="Box">57</container>
+            <container id="aspace_63efd17fb947c07b09c9c852fc173d25" parent="aspace_a4b705d57e3d9d8e4219c633f8d8e8a5" type="Folder">7</container>
+            <container id="aspace_3bbee97a10f808dea0e3b42173553ea4" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_ef0f9c9765bd2b4b15ae882e062a4927" parent="aspace_3bbee97a10f808dea0e3b42173553ea4" type="E-records">FA_MSS_442_ER_13</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Art Writing -- &lt;emph render='italic'&gt;Video Green: Los Angeles Art and the Triumph of Nothingness&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p>Art Writing -- <emph render="italic">Video Green: Los Angeles Art and the Triumph of Nothingness</emph>: 2014-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_53bf5d0514f3751bb14ebfb7a9793dfe" level="file">
+          <did>
+            <unittitle>Art Writing -- <emph render="italic">Where Art Belongs</emph></unittitle>
+            <unitdate datechar="creation" normal="2006/2015" type="inclusive">2006-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d8ef5e9be6625d42831d662b62948d62" label="Mixed Materials [31142062995553]" type="Box">15</container>
+            <container id="aspace_c1e4d1ac843d7d5070ee6d6023ea2855" parent="aspace_d8ef5e9be6625d42831d662b62948d62" type="Folder">1-10</container>
+            <container altrender="Manuscript box - Legal" id="aspace_71c089bcd3ceb2e0427e504b8addb34d" label="Mixed Materials [31142062995561]" type="Box">16</container>
+            <container id="aspace_4af6577392cfd1f42dbd3685a40ccc9c" parent="aspace_71c089bcd3ceb2e0427e504b8addb34d" type="Folder">1-11</container>
+            <container id="aspace_d361ef2d0686a2e899105a5e202891a2" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_8f477b0dd8d5ce65430a87e25aba8293" parent="aspace_d361ef2d0686a2e899105a5e202891a2" type="E-records">FA_MSS_442_ER_14</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Art Writing -- &lt;emph render='italic'&gt;Where Art Belongs&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p>Art Writing -- <emph render="italic">Where Art Belongs</emph>: 2010-2015</p>
+              </daodesc>
+            </dao>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Art Writing -- &lt;emph render='italic'&gt;Where Are Belongs&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p>Art Writing -- <emph render="italic">Where Are Belongs</emph>: 2006-2012</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_3201382bdfa925fa60328df485aa49de" level="file">
+          <did>
+            <unittitle>Awards and Grants</unittitle>
+            <unitdate datechar="creation" normal="1985/2015" type="inclusive">1985-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c31e3920e6a8daaa2d8763a337056827" label="Mixed Materials [31142062995728]" type="Box">32</container>
+            <container id="aspace_79a6a6ffc9a7587082946562506f7598" parent="aspace_c31e3920e6a8daaa2d8763a337056827" type="Folder">10-11</container>
+            <container altrender="Manuscript box - Legal" id="aspace_03156b0231d10324e282e0362556bfb3" label="Mixed Materials [31142062995975]" type="Box">57</container>
+            <container id="aspace_e2f1e1258840cec85e408a19e1388d99" parent="aspace_03156b0231d10324e282e0362556bfb3" type="Folder">8-10</container>
+            <container altrender="Manuscript box - Legal" id="aspace_3ec22ab81472ef21cd8c67a42f35b226" label="Mixed Materials [31142062995975]" type="Box">57</container>
+            <container id="aspace_54e0bff02ead538dda3e237c31901093" parent="aspace_3ec22ab81472ef21cd8c67a42f35b226" type="Folder">22</container>
+            <container altrender="Manuscript box - Legal" id="aspace_cf37b6105ee5706706892d008cfeb99b" label="Mixed Materials [31142063003472]" type="Box">79</container>
+            <container id="aspace_5a78a2fe0c5dd6cde36278667e855a35" parent="aspace_cf37b6105ee5706706892d008cfeb99b" type="Folder">7</container>
+            <container id="aspace_1456d1693dfec44de271e913542ff6b9" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_6d63939a8cd91bd231753fe9cb7e4658" parent="aspace_1456d1693dfec44de271e913542ff6b9" type="E-records">FA_MSS_442_ER_4</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Awards and Grants" xlink:type="simple">
+              <daodesc>
+                <p>Awards and Grants: 1998-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_ca69c3dbde6042933b47aaaf582b359f" level="file">
+          <did>
+            <unittitle>Curricula Vitae</unittitle>
+            <unitdate datechar="creation" normal="1991/2015" type="inclusive">1991-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b32cabe544b59b94288995a105710c97" label="Mixed Materials [31142062995975]" type="Box">57</container>
+            <container id="aspace_62a9a1fef82c61f78b39d4c4f6c6cbf8" parent="aspace_b32cabe544b59b94288995a105710c97" type="Folder">23</container>
+            <container id="aspace_ce916fb692cf7e2b7eee9d98d5a13625" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_3d8189a3337f752b713d6b6d0daa3b16" parent="aspace_ce916fb692cf7e2b7eee9d98d5a13625" type="E-records">FA_MSS_442_ER_3</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Curricula Vitae" xlink:type="simple">
+              <daodesc>
+                <p>Curricula Vitae: 1998-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_64bc39921ce58ca796bdf1c08be033ca" level="file">
+          <did>
+            <unittitle>Essays and Short Stories</unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 videodisc (dvd)</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">2 videocassettes (vhs)</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1978/2015" type="inclusive">1978-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7cdd2bd0c1142a0af018dfaabefdccfe" label="Mixed Materials [31142062995686]" type="Box">28</container>
+            <container id="aspace_1a269577177857fa88b039f82df5b277" parent="aspace_7cdd2bd0c1142a0af018dfaabefdccfe" type="Folder">1-14</container>
+            <container altrender="Manuscript box - Legal" id="aspace_362168012a0157815a43fa1180486af6" label="Mixed Materials [31142062995694]" type="Box">29</container>
+            <container id="aspace_73710a40de633911cabbe7c36c1edf21" parent="aspace_362168012a0157815a43fa1180486af6" type="Folder">1-14</container>
+            <container altrender="Manuscript box - Legal" id="aspace_830f3c2b46a61498925b3adcb3132a2f" label="Mixed Materials [31142062995702]" type="Box">30</container>
+            <container id="aspace_044b84b582d8153f4d67148b29edb19e" parent="aspace_830f3c2b46a61498925b3adcb3132a2f" type="Folder">1-9</container>
+            <container altrender="Manuscript box - Legal" id="aspace_af0b2fcc57baf3f00b6e9388129a4780" label="Mixed Materials [31142062995710]" type="Box">31</container>
+            <container id="aspace_681c704f999c17906495427500891739" parent="aspace_af0b2fcc57baf3f00b6e9388129a4780" type="Folder">1-19</container>
+            <container altrender="Record carton" id="aspace_58d437e67d47aeeff7502ee8d67af26f" label="videos [31142063003308]" type="Box">60</container>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_ebfef1b9f68355283f87a7a319ba18ad" label="Mixed Materials [31142063003605]" type="Box">92</container>
+            <container id="aspace_0fb9300615ebe806966dd6c910b73a51" parent="aspace_ebfef1b9f68355283f87a7a319ba18ad" type="Folder">1</container>
+            <container id="aspace_782c14bebbd1a6d4747b3d2c42d12bfa" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_2f8e266fed2db10a8481319a07502d0e" parent="aspace_782c14bebbd1a6d4747b3d2c42d12bfa" type="E-records">FA_MSS_442_ER_12</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Essays and Short Stories" xlink:type="simple">
+              <daodesc>
+                <p>Essays and Short Stories: 1991-2015</p>
+              </daodesc>
+            </dao>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Essays and Short Stories" xlink:type="simple">
+              <daodesc>
+                <p>Essays and Short Stories: 2013-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_606eb30df479daeb19f4815bd4c8587a" level="file">
+          <did>
+            <unittitle>Fiction -- <emph render="italic">Aliens &amp; Anorexia</emph></unittitle>
+            <unitdate datechar="creation" normal="1996/2015" type="inclusive">1996-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7b16157336596a464c36f862b903d325" label="Mixed Materials [31142062995801]" type="Box">40</container>
+            <container id="aspace_37d60df08f995b2a08f03100275eb91b" parent="aspace_7b16157336596a464c36f862b903d325" type="Folder">7-10</container>
+            <container altrender="Manuscript box - Legal" id="aspace_ec1d9ac34ba51cab9cb81816691204d1" label="Mixed Materials [31142062995819]" type="Box">41</container>
+            <container id="aspace_991646ab87a60434a356bd81f93b34f3" parent="aspace_ec1d9ac34ba51cab9cb81816691204d1" type="Folder">1-11</container>
+            <container altrender="Manuscript box - Legal" id="aspace_45a6f72f5d4a1cb7f129c37a1a5431fa" label="Mixed Materials [31142062995827]" type="Box">42</container>
+            <container id="aspace_df69ba800bb9ad8690955b43f68de78c" parent="aspace_45a6f72f5d4a1cb7f129c37a1a5431fa" type="Folder">1-13</container>
+            <container altrender="Manuscript box - Legal" id="aspace_b4019eedc0f6f12f3038f1d1fae56558" label="Mixed Materials [31142062995835]" type="Box">43</container>
+            <container id="aspace_b19b28f31e64815ef158b9fd76380713" parent="aspace_b4019eedc0f6f12f3038f1d1fae56558" type="Folder">1-2</container>
+            <container altrender="Flat OS Box 17" id="aspace_3715ccbe6fb41af65f9797d053ff88b1" label="Mixed Materials [31142063269115]" type="Box">Shared Fales 028</container>
+            <container id="aspace_7319765afaf20a5b107188d5c949c634" parent="aspace_3715ccbe6fb41af65f9797d053ff88b1" type="Folder">1</container>
+            <container id="aspace_c43d5521299feb7a40a41cc628d59e40" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_6f2e6d7fb809a8b4907b64aee80c69e9" parent="aspace_c43d5521299feb7a40a41cc628d59e40" type="E-records">FA_MSS_442_ER_2</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Fiction -- &lt;emph render='italic'&gt;Aliens &amp; Anorexia&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p>Fiction -- <emph render="italic">Aliens &amp; Anorexia</emph>: 1998-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_32c56bfce90176df80572ba97dc867d7" level="file">
+          <did>
+            <unittitle>Fiction -- <emph render="italic">I Love Dick</emph></unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">4 videocassettes</extent>
+              <extent altrender="carrier">in 2 Hi-8 cassettes, 2 VHS cassettes</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1994/2015" type="inclusive">1994-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e4e86367107a5b2fa36722226f82c2c0" label="Mixed Materials [31142062995918]" type="Box">51</container>
+            <container id="aspace_a7cbbc317775e0932236dbbfb8a6af08" parent="aspace_e4e86367107a5b2fa36722226f82c2c0" type="Folder">8-10</container>
+            <container altrender="Manuscript box - Legal" id="aspace_4fa52e7c97074dc554ad44b19eca82a5" label="Mixed Materials [31142062995926]" type="Box">52</container>
+            <container id="aspace_c5b5d03c8aa6dd750fddafce4ad18557" parent="aspace_4fa52e7c97074dc554ad44b19eca82a5" type="Folder">1-8</container>
+            <container altrender="Manuscript box - Legal" id="aspace_1101f47c3f61ab49cdea6d9c82be02e2" label="Mixed Materials [31142062995934]" type="Box">53</container>
+            <container id="aspace_7175b72ba729bbd3eb5f6ff27eb3043e" parent="aspace_1101f47c3f61ab49cdea6d9c82be02e2" type="Folder">1-9</container>
+            <container altrender="Manuscript box - Legal" id="aspace_f7c8b1c0231628db124b215249386b14" label="Mixed Materials [31142062995942]" type="Box">54</container>
+            <container id="aspace_bcf0c86df1369078604b768599af0a85" parent="aspace_f7c8b1c0231628db124b215249386b14" type="Folder">1-8</container>
+            <container altrender="Manuscript box - Legal" id="aspace_eaf27a1ffb2fe2e219f207955d85a3af" label="Mixed Materials [31142062995959]" type="Box">55</container>
+            <container id="aspace_a7fec8721fda0b77ba8cfa26adcbe27c" parent="aspace_eaf27a1ffb2fe2e219f207955d85a3af" type="Folder">1-8</container>
+            <container altrender="Manuscript box - Legal" id="aspace_441b8520bbb4c107e1cec69d9aac5ffa" label="Mixed Materials [31142062995967]" type="Box">56</container>
+            <container id="aspace_f8cace2d6348d90b8fc3bcf02d4a58d7" parent="aspace_441b8520bbb4c107e1cec69d9aac5ffa" type="Folder">1-5</container>
+            <container altrender="Manuscript box - Legal" id="aspace_8a241681f785d7a029a52bcfc3361128" label="Mixed Materials [31142062995975]" type="Box">57</container>
+            <container id="aspace_0c9b2634c62dff24c617c67487ba997a" parent="aspace_8a241681f785d7a029a52bcfc3361128" type="Folder">1-2</container>
+            <container altrender="Record carton" id="aspace_ac56b736e960010b6941c2deef908ed1" label="videos [31142063003308]" type="Box">60</container>
+            <container altrender="Media box 5 x 8 x 5.75" id="aspace_0d76971fae55f5082c4d96430441734c" label="videos [31142063003563]" type="Box">88</container>
+            <container id="aspace_8b287114819d5cd497a91511f67aaf79" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_06dbb02c96227c393a45e8061309a2cc" parent="aspace_8b287114819d5cd497a91511f67aaf79" type="E-records">FA_MSS_442_ER_5</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Fiction -- &lt;emph render='italic'&gt;I Love Dick&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p>Fiction -- <emph render="italic">I Love Dick</emph>: 1999-2015</p>
+              </daodesc>
+            </dao>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Fiction -- &lt;emph render='italic'&gt;I Love Dick&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p>Fiction -- <emph render="italic">I Love Dick</emph>: 1999-2009</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_867946cc9832282914fda7d66f18219b" level="file">
+          <did>
+            <unittitle>Fiction -- <emph render="italic">Summer of Hate</emph></unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 videocassettes (minidv)</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="2003/2015" type="inclusive">2003-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_43ef92a96644674f5a47cacedb1c4716" label="Mixed Materials [31142062995835]" type="Box">43</container>
+            <container id="aspace_ffac101414aa530c4405532e6078ca40" parent="aspace_43ef92a96644674f5a47cacedb1c4716" type="Folder">3-7</container>
+            <container altrender="Manuscript box - Legal" id="aspace_a90f34847624b50acbc0954c6ec33fe4" label="Mixed Materials [31142062995843]" type="Box">44</container>
+            <container id="aspace_74be6d3f1720eb6ebae02bd25b78d695" parent="aspace_a90f34847624b50acbc0954c6ec33fe4" type="Folder">1-8</container>
+            <container altrender="Manuscript box - Legal" id="aspace_b4c1ca8ff3544ab7d548e6d6d30891b1" label="Mixed Materials [31142062995850]" type="Box">45</container>
+            <container id="aspace_9fb94f4d999981354fb87d2a3151ee05" parent="aspace_b4c1ca8ff3544ab7d548e6d6d30891b1" type="Folder">1-7</container>
+            <container altrender="Manuscript box - Legal" id="aspace_f25849e40674ffadc41845922df4a732" label="Mixed Materials [31142062995868]" type="Box">46</container>
+            <container id="aspace_45ea3b70d550e023e8e80e0c940a45fa" parent="aspace_f25849e40674ffadc41845922df4a732" type="Folder">1-8</container>
+            <container altrender="Manuscript box - Legal" id="aspace_e9424d39373f03bab1976fe498775f83" label="Mixed Materials [31142062995876]" type="Box">47</container>
+            <container id="aspace_39ffe975d0438f2e8ceb2d02906527f6" parent="aspace_e9424d39373f03bab1976fe498775f83" type="Folder">1-6</container>
+            <container altrender="Manuscript box - Legal" id="aspace_d8a247f9da8af2989803c6cfaae2a294" label="Mixed Materials [31142062995975]" type="Box">57</container>
+            <container id="aspace_d317ede942f759772331dc95f4c0ecd1" parent="aspace_d8a247f9da8af2989803c6cfaae2a294" type="Folder">5</container>
+            <container altrender="Media box 5 x 8 x 5.75" id="aspace_618a3cda9f4d89fe73ce11dedf8b4ad1" label="videos [31142063003563]" type="Box">88</container>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_bad0341cee18748c0bf12d01e6ab9318" label="Mixed Materials [31142063003605]" type="Box">92</container>
+            <container id="aspace_2b74293929968835d14eeb9779a18a40" parent="aspace_bad0341cee18748c0bf12d01e6ab9318" type="Folder">5</container>
+            <container altrender="Flat OS Box 17" id="aspace_b184e6f5e0ea69aeb8234f7f13b805b2" label="Mixed Materials [31142063269115]" type="Box">Shared Fales 028</container>
+            <container id="aspace_88f53ee52a64047c7308dfcb09332c8a" parent="aspace_b184e6f5e0ea69aeb8234f7f13b805b2" type="Folder">8</container>
+            <container id="aspace_62bcced4efe642595273d2782785b251" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_a505a3a41fb64d39266f4dec8a6df7a6" parent="aspace_62bcced4efe642595273d2782785b251" type="E-records">FA_MSS_442_ER_9</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Fiction -- &lt;emph render='italic'&gt;Summer of Hate&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p>Fiction -- <emph render="italic">Summer of Hate</emph>: 2003-2015</p>
+              </daodesc>
+            </dao>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Fiction -- &lt;emph render='italic'&gt;Summer of Hate&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p>Fiction -- <emph render="italic">Summer of Hate</emph>: 2003-2010</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_17ebed4deb712935e9d3507a8bdfb296" level="file">
+          <did>
+            <unittitle>Fiction -- <emph render="italic">Torpor</emph></unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1997/2015" type="inclusive">1997-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_273cb2b32f61fe7be4d720c45aaedf72" label="Mixed Materials [31142062995769]" type="Box">36</container>
+            <container id="aspace_59efa0d2372bdab868ea2c9f18f4879c" parent="aspace_273cb2b32f61fe7be4d720c45aaedf72" type="Folder">6-13</container>
+            <container altrender="Manuscript box - Legal" id="aspace_3c81c56762b8525f9fdd4d9d4a83831a" label="Mixed Materials [31142062995777]" type="Box">37</container>
+            <container id="aspace_c720ba663113d1d2c723e61e55536d12" parent="aspace_3c81c56762b8525f9fdd4d9d4a83831a" type="Folder">1-9</container>
+            <container altrender="Manuscript box - Legal" id="aspace_e753613436f8dcf4980f3d97f356ed12" label="Mixed Materials [31142062995785]" type="Box">38</container>
+            <container id="aspace_e78e8a9fe49edf32e7c579af805c2c18" parent="aspace_e753613436f8dcf4980f3d97f356ed12" type="Folder">1-12</container>
+            <container altrender="Manuscript box - Legal" id="aspace_e5afeb26681807cbc604366a3fffd95b" label="Mixed Materials [31142062995793]" type="Box">39</container>
+            <container id="aspace_9006c70f71a6dd818d6c4343f2ce113f" parent="aspace_e5afeb26681807cbc604366a3fffd95b" type="Folder">1-7</container>
+            <container altrender="Manuscript box - Legal" id="aspace_aee6185963fb44d13d4a07da32dbcad0" label="Mixed Materials [31142062995801]" type="Box">40</container>
+            <container id="aspace_195f112f9a95afdf268e6e502f7a963b" parent="aspace_aee6185963fb44d13d4a07da32dbcad0" type="Folder">1-6</container>
+            <container altrender="Manuscript box - Legal" id="aspace_d4df88d530159a1372e84b60a17680af" label="Mixed Materials [31142062995975]" type="Box">57</container>
+            <container id="aspace_bef8004c940f892d7f90bf2ff99d13f6" parent="aspace_d4df88d530159a1372e84b60a17680af" type="Folder">6</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_5ac6656ce5f04f4584dad5fa3afe7efa" label="Audio [31142063003530]" type="Box">85</container>
+            <container id="aspace_055e03fb90ac1834fe219fd464da7203" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_0da58403b9da59179918ac1178f8939c" parent="aspace_055e03fb90ac1834fe219fd464da7203" type="E-records">FA_MSS_442_ER_11</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Fiction -- &lt;emph render='italic'&gt;Torpor&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p>Fiction -- <emph render="italic">Torpor</emph>: 1997-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_0c1abe3864c8ce591caa016d4a3d7d80" level="file">
+          <did>
+            <unittitle>Interviews</unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">7 videocassettes</extent>
+              <extent altrender="carrier">in 1 VHS cassette, 4 UMatic cassettes</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">2 audiocassettes</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1982/2015" type="inclusive">1982-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9efa1a70c9bca0c46433118256fe7ceb" label="Mixed Materials [31142062995736]" type="Box">33</container>
+            <container id="aspace_ccbf02877ebcbefd3e3dafd2a7e24b7e" parent="aspace_9efa1a70c9bca0c46433118256fe7ceb" type="Folder">12-14</container>
+            <container altrender="Manuscript box - Legal" id="aspace_d666160dd9438be2e9413210009b7a59" label="Mixed Materials [31142062995744]" type="Box">34</container>
+            <container id="aspace_883d1c57bbff6c2714f3695598999d9d" parent="aspace_d666160dd9438be2e9413210009b7a59" type="Folder">10-16</container>
+            <container altrender="Manuscript box - Legal" id="aspace_a989b5a78c1d0c5e1fd97fee3c1c9f09" label="Mixed Materials [31142062995751]" type="Box">35</container>
+            <container id="aspace_62e2c760cafb963afc602cfba64e07a9" parent="aspace_a989b5a78c1d0c5e1fd97fee3c1c9f09" type="Folder">1-14</container>
+            <container altrender="Manuscript box - Legal" id="aspace_c83c6b00c8ed7ded3f20bee0a5714dea" label="Mixed Materials [31142062995769]" type="Box">36</container>
+            <container id="aspace_c7bc021978dd09cd059e9745286cbd4e" parent="aspace_c83c6b00c8ed7ded3f20bee0a5714dea" type="Folder">1-5</container>
+            <container altrender="Manuscript box - Legal" id="aspace_1ac6a8d10964880685e16b3130bfc743" label="Mixed Materials [31142062995975]" type="Box">57</container>
+            <container id="aspace_40fb78bb0e326f1f4c03dc2c0588301d" parent="aspace_1ac6a8d10964880685e16b3130bfc743" type="Folder">11-12</container>
+            <container altrender="Record carton" id="aspace_4fe83089985717c50f28e83894102d56" label="videos [31142063003308]" type="Box">60</container>
+            <container altrender="Record carton" id="aspace_429509ad84383a435e948ef3c857616b" label="videos [31142063003423]" type="Box">74</container>
+            <container altrender="Manuscript box - Legal" id="aspace_8514037ce9f8344c6a7db54a153edc7b" label="Mixed Materials [31142063003480]" type="Box">80</container>
+            <container id="aspace_785ec2e7ef866a903fc270b947e42955" parent="aspace_8514037ce9f8344c6a7db54a153edc7b" type="Folder">3</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_5f584cfda5ef9f3d6284522cede2b770" label="Audio [31142063003530]" type="Box">85</container>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_3a354a924137298b3d412a5505d1ad2e" label="Mixed Materials [31142063003605]" type="Box">92</container>
+            <container id="aspace_2132d6c2ed9b27b71424e05cf1e93cbe" parent="aspace_3a354a924137298b3d412a5505d1ad2e" type="Folder">3-4</container>
+            <container id="aspace_c720dc4115bd9eb5af23e99eb937002f" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_9cea28dbe9ca57175965c26eda61515e" parent="aspace_c720dc4115bd9eb5af23e99eb937002f" type="E-records">FA_MSS_442_ER_6</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Interviews" xlink:type="simple">
+              <daodesc>
+                <p>Interviews: 2008-2015</p>
+              </daodesc>
+            </dao>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Interviews" xlink:type="simple">
+              <daodesc>
+                <p>Interviews: 2006-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_b2cde8ca543d08ba33f57e93ba031252" level="file">
+          <did>
+            <unittitle>Photographs</unittitle>
+            <unitdate datechar="creation" normal="1978/2015" type="inclusive">1978-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2e1668418a2a7264883c33b85886731c" label="Mixed Materials [31142062995736]" type="Box">33</container>
+            <container id="aspace_cdd3f7af54ddcb128108092eb06f6976" parent="aspace_2e1668418a2a7264883c33b85886731c" type="Folder">6-11</container>
+            <container id="aspace_653cf610242308dd2126356e60a6f5b0" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_d5fc46a5819cbfebb87603788c84f1a4" parent="aspace_653cf610242308dd2126356e60a6f5b0" type="E-records">FA_MSS_442_ER_7</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Photographs" xlink:type="simple">
+              <daodesc>
+                <p>Photographs: 2012-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_98a850ecf6c86c444939f779380ff9c2" level="file">
+          <did>
+            <unittitle><emph render="italic">Semiotext(e)</emph> Files</unittitle>
+            <unitdate datechar="creation" normal="1997/2015" type="inclusive">1997-2015</unitdate>
+            <container id="aspace_50e8eee4e93132fbb1fe2999d8719882" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_6dec36b5b80680e407216435e463243e" parent="aspace_50e8eee4e93132fbb1fe2999d8719882" type="E-records">FA_MSS_442_ER_26</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="&lt;emph render='italic'&gt;Semiotext(e)&lt;/emph&gt; Files" xlink:type="simple">
+              <daodesc>
+                <p><emph render="italic">Semiotext(e)</emph> Files: 1997-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_431c735cb94977902436d65ac46015d9" level="file">
+          <did>
+            <unittitle>Speaking Engagements</unittitle>
+            <unitdate datechar="creation" normal="1980/2015" type="inclusive">1980-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b106e66ae4078798494231b88b76c1a8" label="Mixed Materials [31142062995744]" type="Box">34</container>
+            <container id="aspace_833959db476780d7825dc7122f254c42" parent="aspace_b106e66ae4078798494231b88b76c1a8" type="Folder">2-7</container>
+            <container altrender="Manuscript box - Legal" id="aspace_22e2f35d266ed89e83f736d7878b53e6" label="Mixed Materials [31142062995975]" type="Box">57</container>
+            <container id="aspace_1c89aca196b104d734a16597141d962d" parent="aspace_22e2f35d266ed89e83f736d7878b53e6" type="Folder">24</container>
+            <container altrender="Flat OS Box 17" id="aspace_3dd3fcc2d74094863c5947387d23adee" label="Mixed Materials [31142063269115]" type="Box">Shared Fales 028</container>
+            <container id="aspace_b2a285a1cd2d5f26467067762bb4436f" parent="aspace_3dd3fcc2d74094863c5947387d23adee" type="Folder">7</container>
+            <container altrender="OS Flat Box - 20.25 x 24.5" id="aspace_bd82d0fa9084af3629e012d0bec08017" label="Mixed Materials [31142062673416]" type="Box">Shared Fales 020</container>
+            <container id="aspace_bdf6bcb32d2dc0a6b0900578de4e6624" parent="aspace_bd82d0fa9084af3629e012d0bec08017" type="Folder">8</container>
+            <container altrender="Oversize Folder - 42 x 32" id="aspace_d854957c8bd709ab95042628f403a318" label="Mixed Materials [31142063003282]" type="Flat-File-Folder">5</container>
+            <container id="aspace_4829db036f8edef42969452b3a59389b" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_8bba4356a3935bd9d40fac24f3230c3b" parent="aspace_4829db036f8edef42969452b3a59389b" type="E-records">FA_MSS_442_ER_8</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Speaking Engagements" xlink:type="simple">
+              <daodesc>
+                <p>Speaking Engagements: 2011-2013</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_0a530a02bdfa354e0f12c9687ab358e4" level="file">
+          <did>
+            <unittitle>Teaching Files</unittitle>
+            <unitdate datechar="creation" normal="2007/2015" type="inclusive">2007-2015</unitdate>
+            <container id="aspace_3213487ba16337260969394b9758efaf" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_c42c7df7746d0ecbd863227c8318f411" parent="aspace_3213487ba16337260969394b9758efaf" type="E-records">FA_MSS_442_ER_10</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Teaching Files" xlink:type="simple">
+              <daodesc>
+                <p>Teaching Files: 2007-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_1725362673e2554073b2b7b5602cfcc6" level="file">
+          <did>
+            <unittitle>Theatre -- B - H</unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1979/1982" type="inclusive">1979-1982</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_203ae498b0dc8943415b7057d18651e4" label="Mixed Materials [31142062995983]" type="Box">58</container>
+            <container id="aspace_d865fbbb19f79b2f8665901c9c44e77b" parent="aspace_203ae498b0dc8943415b7057d18651e4" type="Folder">7-15</container>
+            <container altrender="Manuscript box - Legal" id="aspace_bab0cce5f570c0045430aa9af5354ded" label="Mixed Materials [31142063003472]" type="Box">79</container>
+            <container id="aspace_e14c3ea7c0183e7cd141ca513fead4a9" parent="aspace_bab0cce5f570c0045430aa9af5354ded" type="Folder">3</container>
+            <container altrender="Manuscript box - Legal" id="aspace_94d82e9758df1ebf33ea64ec8e13b7ea" label="Mixed Materials [31142063003431]" type="Box">75</container>
+            <container id="aspace_d7442fc5698d8115d09c32d41ceae6d8" parent="aspace_94d82e9758df1ebf33ea64ec8e13b7ea" type="Folder">1-4</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_8dff20eff603c091d8fd65599141fe20" label="Audio [31142063003530]" type="Box">85</container>
+          </did>
+        </c>
+        <c id="aspace_360a8fc6bdb5c2e342dc7ab2a0edd96b" level="file">
+          <did>
+            <unittitle>Theatre -- <emph render="italic">I Talked about God with Antonin Artaud</emph> -- Paper and Audiovisual Materials</unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">3 videodiscs (dvd)</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1985/2011" type="inclusive">1985-2011</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3a5c18e0bb753e627f0cf255245adddb" label="Mixed Materials [31142062995728]" type="Box">32</container>
+            <container id="aspace_0b695a7dac4d7764e2e796a56433781e" parent="aspace_3a5c18e0bb753e627f0cf255245adddb" type="Folder">7-8</container>
+            <container altrender="Manuscript box - Legal" id="aspace_51a16768ab79b38ce2fbc3258423628b" label="Mixed Materials [31142063003431]" type="Box">75</container>
+            <container id="aspace_2ea38a8d8b857c28b5a4f4bc8b278e80" parent="aspace_51a16768ab79b38ce2fbc3258423628b" type="Folder">5-6</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_e047646487397015f4148cac7607bff5" label="Audio [31142063003548]" type="Box">86</container>
+            <container id="aspace_05ffa673986626c5120b975e3b166fb9" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_2b880ef1c7050a940f6f3d8b849ea7cb" parent="aspace_05ffa673986626c5120b975e3b166fb9" type="Item">FA_MSS_442_ER_48</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Theatre -- &lt;emph render='italic'&gt;I Talked about God with Antonin Artaud&lt;/emph&gt; -- Paper and Audiovisual Materials" xlink:type="simple">
+              <daodesc>
+                <p>Theatre -- <emph render="italic">I Talked about God with Antonin Artaud</emph> -- Paper and Audiovisual Materials: 2011-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_1b97e9dc47ce5e1ad74b25ab695de308" level="file">
+          <did>
+            <unittitle>Theatre -- J - Po</unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">2 film reels</extent>
+              <extent altrender="carrier">2 Super 8 film reels</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1981/1988" type="inclusive">1981-1988</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8cd6d57fae7e4fe70a579dee29361b8b" label="Mixed Materials [31142062995728]" type="Box">32</container>
+            <container id="aspace_d0ce2a504f60ceec4714d30a96d69888" parent="aspace_8cd6d57fae7e4fe70a579dee29361b8b" type="Folder">1-3</container>
+            <container altrender="Record carton" id="aspace_2462cb41d9d59647c05852c5d079b0bc" label="film [31142063003415]" type="Box">73</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_b0561e10474cce370e6e4598686d7771" label="Audio [31142063003530]" type="Box">85</container>
+            <container altrender="Flat OS Box 17" id="aspace_9dca85192fa85340b8feee41fb48ef09" label="Mixed Materials [31142063269115]" type="Box">Shared Fales 028</container>
+            <container id="aspace_d505e1b37758b5d0a823951839d036e7" parent="aspace_9dca85192fa85340b8feee41fb48ef09" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_86f86a287bb058c8b57077625ab326b6" level="file">
+          <did>
+            <unittitle>Theatre -- <emph render="italic">Punch-Out</emph> -- Digitized Audio</unittitle>
+            <unitid>cuid7128</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <unitdate datechar="digitized" normal="2018/2018"> </unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_66096842c8dde190bf421e9029f601a5" label="digital_access_copy" type="Box">Electronic Records</container>
+            <container id="aspace_1bdbd9df01777dbeeeccdbd3e4a377aa" parent="aspace_66096842c8dde190bf421e9029f601a5" type="file">MSS.442.cuid7128</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_ca35399687b6683e502bcaa8c4ba8ee0" label="Audio [31142063003548]" type="Box">86</container>
+            <container id="aspace_4af3225bb2caf889a4ab05d67d87b626" parent="aspace_ca35399687b6683e502bcaa8c4ba8ee0" type="Cassette">mss.442.cuid7128</container>
+          </did>
+          <phystech id="aspace_fef13d96dc89154979deb198c9f975c1">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>1/8" audiocassette, 49 min.</p>
+          </phystech>
+        </c>
+        <c id="aspace_19b6a249dc32ad30b0451d24f93460ee" level="file">
+          <did>
+            <unittitle>Theatre -- <emph render="italic">Punch-Out</emph> -- Paper Materials</unittitle>
+            <unitdate datechar="creation" normal="1980/1981" type="inclusive">1980-1981</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2e4e2bf527f593efd41983f14386105f" label="Mixed Materials [31142062995728]" type="Box">32</container>
+            <container id="aspace_af0bd6d262f52e0e4e23b63a0f2a2383" parent="aspace_2e4e2bf527f593efd41983f14386105f" type="Folder">4-6</container>
+            <container altrender="Manuscript box - Legal" id="aspace_560e8d346fb8727c7da8df783d1c809c" label="Mixed Materials [31142062995975]" type="Box">57</container>
+            <container id="aspace_a66c4db4cd32e1ddefa196dfb32455cf" parent="aspace_560e8d346fb8727c7da8df783d1c809c" type="Folder">20-21</container>
+            <container altrender="Flat OS Box 17" id="aspace_afdd2ba385ce4755a92178e5366ba616" label="Mixed Materials [31142063269115]" type="Box">Shared Fales 028</container>
+            <container id="aspace_af3138fe992369a473c004a1eacf5c85" parent="aspace_afdd2ba385ce4755a92178e5366ba616" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_9c045941e4579d0d2e8a3b35dc8de555" level="file">
+          <did>
+            <unittitle>Theatre -- <emph render="italic">Readings from the Diaries of Hugo Ball</emph></unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">5 videocassettes</extent>
+              <extent altrender="carrier">in 1 VHS cassette, 4 UMatic cassettes</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">2 videodiscs (dvd)</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1983/2011" type="inclusive">1983-2011</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2015ff85b970b6687f5067727aa5db9e" label="Mixed Materials [31142062995975]" type="Box">57</container>
+            <container id="aspace_f3de7c6b848ecf35518a4bd1f554aaaa" parent="aspace_2015ff85b970b6687f5067727aa5db9e" type="Folder">25-27</container>
+            <container altrender="Manuscript box - Legal" id="aspace_52354bbb13dffeed30f36a3420531041" label="Mixed Materials [31142062995983]" type="Box">58</container>
+            <container id="aspace_c6167dd4d076597228880b057bd79956" parent="aspace_52354bbb13dffeed30f36a3420531041" type="Folder">1-6</container>
+            <container altrender="Record carton" id="aspace_da670fc04f724bd94d2d0adee178dd26" label="videos [31142063003308]" type="Box">60</container>
+            <container altrender="Record carton" id="aspace_acebd250ef360ef0a78eded0ce6b8cd5" label="videos [31142063003399]" type="Box">71</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_95b54d8111f5c0a9a8626a273d8b1cdf" label="Audio [31142063003530]" type="Box">85</container>
+            <container altrender="Oversize Folder - 42 x 32" id="aspace_4300f7b75a71db81fa397c2335df611b" label="Mixed Materials [31142063003274]" type="Flat-File-Folder">2</container>
+            <container id="aspace_274982058b86a2b79b2312261d9483c3" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_b1a8c6fa3e437bcaee96d198828e35a7" parent="aspace_274982058b86a2b79b2312261d9483c3" type="Item">FA_MSS_442_ER_52</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Theatre -- &lt;emph render='italic'&gt;Readings from the Diaries of Hugo Ball&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p>Theatre -- <emph render="italic">Readings from the Diaries of Hugo Ball</emph>: 2011-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_c5917709a5e294d788f74201e2096745" level="file">
+          <did>
+            <unittitle>Theatre -- <emph render="italic">Things Happen But They Change</emph> -- Digitized Audio</unittitle>
+            <unitid>cuid7127</unitid>
+            <unitdate datechar="creation">undated</unitdate>
+            <unitdate datechar="digitized" normal="2018/2018"> </unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_a195ea1e487127f7cebea1b3f5abf261" label="digital_access_copy" type="Box">Electronic Records</container>
+            <container id="aspace_e0d9273c297ce2c50d83f66a80d4c4a0" parent="aspace_a195ea1e487127f7cebea1b3f5abf261" type="file">MSS.442.cuid7127</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_8fc0e91d3cf7c2ba40703dc17d6e4052" label="Audio [31142063003548]" type="Box">86</container>
+            <container id="aspace_53dc1095e645fb2af4cc665ca10eafe7" parent="aspace_8fc0e91d3cf7c2ba40703dc17d6e4052" type="Cassette">mss.442.cuid7127</container>
+          </did>
+          <phystech id="aspace_95600ae065dc8c6aaec6ccc6e478fbd8">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>1/8" audiocassette, 39 min.</p>
+          </phystech>
+        </c>
+        <c id="aspace_f60335733c9f7c544e2fb2b41629ecce" level="file">
+          <did>
+            <unittitle>Theatre -- <emph render="italic">Things Happen But They Change</emph> -- Paper Materials</unittitle>
+            <unitdate datechar="creation" normal="1981/1981">1981</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e947798728e8acff925af518e9057a64" label="Mixed Materials [31142062995736]" type="Box">33</container>
+            <container id="aspace_f8ba53ad8acf3ff1fb83ce198905c5a1" parent="aspace_e947798728e8acff925af518e9057a64" type="Folder">4-5</container>
+          </did>
+        </c>
+        <c id="aspace_e32cf96354804c61c6aa49bcca9f9846" level="file">
+          <did>
+            <unittitle>Theatre -- Unidentified Antonin Artaud Performance  at Columbia University [1 of 3] -- Digitized Video</unittitle>
+            <unitid>cuid7124</unitid>
+            <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+            <unitdate datechar="digitized" normal="2018/2018"> </unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_8b18f50454868d0bac59fb62d634472f" label="digital_access_copy" type="Box">Electronic Records</container>
+            <container id="aspace_603b70a53dc6cf1654944ffb006e09a4" parent="aspace_8b18f50454868d0bac59fb62d634472f" type="file">MSS.442.cuid7124</container>
+            <container altrender="Record carton" id="aspace_4b245d74402a402a479fb582c2b306ae" label="videos [31142063003381]" type="Box">70</container>
+            <container id="aspace_48c4110cb546320d0efb2b1faa26f4f6" parent="aspace_4b245d74402a402a479fb582c2b306ae" type="Cassette">mss.442.cuid7124</container>
+          </did>
+          <scopecontent id="aspace_02f93036c2bada06f1979c6d8a8be5f2">
+            <head>Scope and Contents</head>
+            <p>Housing annotations read: David Rattray</p>
+          </scopecontent>
+          <phystech id="aspace_62e6768aca61dc18a5d675a2dc42eb66">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Format: 3/4" Umatic, Duration: 61 min.</p>
+          </phystech>
+        </c>
+        <c id="aspace_a60778fc2788e5a7079c3c78acbf47be" level="file">
+          <did>
+            <unittitle>Theatre -- Unidentified Antonin Artaud Performance at Columbia University [2 of 3] -- Digitized Video</unittitle>
+            <unitid>cuid7125</unitid>
+            <unitdate datechar="creation" normal="1985/1985">1985</unitdate>
+            <unitdate datechar="digitized" normal="2018/2018"> </unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_8abbc5cb2151eae230aea8a8393e107f" label="digital_access_copy" type="Box">Electronic Records</container>
+            <container id="aspace_638185e66edceb94043130834d3de49b" parent="aspace_8abbc5cb2151eae230aea8a8393e107f" type="file">MSS.442.cuid7125</container>
+            <container altrender="Record carton" id="aspace_13dd63bebdefb5047c13d9a0a6985738" label="videos [31142063003381]" type="Box">70</container>
+            <container id="aspace_a6555234d9893dd466d9864ba2a3dcdf" parent="aspace_13dd63bebdefb5047c13d9a0a6985738" type="Cassette">mss.442.cuid7125</container>
+          </did>
+          <phystech id="aspace_768a4781bf48f0f59e0c55ca5fdc8b1e">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Format: 3/4" Umatic, Duration: 44 min.</p>
+          </phystech>
+        </c>
+        <c id="aspace_c5ab93f8c67f2a15634d84721e6e64b2" level="file">
+          <did>
+            <unittitle>Theatre -- Unidentified Antonin Artaud Performance at Columbia University [3 of 3] -- Digitized Video</unittitle>
+            <unitid>cuid7126</unitid>
+            <unitdate datechar="creation" normal="1986/1986">1986</unitdate>
+            <unitdate datechar="digitized" normal="2018/2018"> </unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_28e3c0aa269390836b58bced9acffcb4" label="digital_access_copy" type="Box">Electronic Records</container>
+            <container id="aspace_ead236d1300579201a0c77bcb22b81c4" parent="aspace_28e3c0aa269390836b58bced9acffcb4" type="file">MSS.442.cuid7126</container>
+            <container altrender="Record carton" id="aspace_ece05d9a8544be10790099f8bc802a3f" label="videos [31142063003381]" type="Box">70</container>
+            <container id="aspace_c6ed39e15015a2a3c6af3e20b02182e6" parent="aspace_ece05d9a8544be10790099f8bc802a3f" type="Cassette">mss.442.cuid7126</container>
+          </did>
+          <phystech id="aspace_d23b74fe1c35e387283f2051724133e2">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Format: 3/4" Umatic [Master], Duration: 52 min.</p>
+          </phystech>
+        </c>
+        <c id="aspace_7e975c913c6e61f81b9f402af9c66e6f" level="file">
+          <did>
+            <unittitle>Writing about Kraus</unittitle>
+            <unitdate datechar="creation" normal="1982/2015" type="inclusive">1982-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_51914a2309b363b2acd49bcc41a3201d" label="Mixed Materials [31142062995728]" type="Box">32</container>
+            <container id="aspace_7376c6a3bce6c0eee28e39a494a2a988" parent="aspace_51914a2309b363b2acd49bcc41a3201d" type="Folder">12-13</container>
+            <container altrender="Manuscript box - Legal" id="aspace_c5a7308b933f02185bf124090861d0a0" label="Mixed Materials [31142062995736]" type="Box">33</container>
+            <container id="aspace_cd58102938a93e56e9daae1e574e075e" parent="aspace_c5a7308b933f02185bf124090861d0a0" type="Folder">1-3</container>
+            <container altrender="Manuscript box - Legal" id="aspace_3ff8ffc909bcde37dfeb6bef199b887f" label="Mixed Materials [31142062995744]" type="Box">34</container>
+            <container id="aspace_2fa4dee9bf30b5200fe0ceb276ebc21a" parent="aspace_3ff8ffc909bcde37dfeb6bef199b887f" type="Folder">8-9</container>
+            <container id="aspace_e63873acdeaf79586405e3608f8f9e49" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_f5daf5889cf15a6f44475dfc30d8ea1a" parent="aspace_e63873acdeaf79586405e3608f8f9e49" type="E-records">FA_MSS_442_ER_15</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Writing about Kraus" xlink:type="simple">
+              <daodesc>
+                <p>Writing about Kraus: 2011-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_dcf772ffdf0f08d7bc9880bb25462e11" level="series">
+        <did>
+          <unittitle>Series II. Films</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">24 Linear Feet</extent>
+            <extent altrender="carrier">in 15 record cartons, 10 manuscript boxes, 7 flat boxes, 1 media box, and 1 flat file folder</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">77 audiocassettes</extent>
+            <extent altrender="carrier">in 60 compact audio cassettes, 14 DAT cassettes, and 3 micro-cassettes</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">45 videocassettes</extent>
+            <extent altrender="carrier">in 11 VHS cassettes, 30 Umatic cassettes, 3 Betacam cassettes, 1 Betamax cassette</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">7 videodiscs (dvd)</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">40 Reels</extent>
+            <extent altrender="carrier">in 40 1/4" audio reels</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">2 videoreels (1 inch)</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">213 film reels</extent>
+            <extent altrender="carrier">in 45 16 mm reels and 168 Super 8 reels</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">1.7 Gigabytes</extent>
+            <extent altrender="carrier">in 383 computer files</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">8 video disc (dvd) images</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1980/2015" type="inclusive">1980-2015</unitdate>
+        </did>
+        <arrangement id="aspace_6bfe1c514b9f8249ddbf6d738951e643">
+          <head>Arrangement</head>
+          <p>This series is arranged in alphabetical order by title of work or by format of material.</p>
+        </arrangement>
+        <scopecontent id="aspace_ae70028d13c75e69c21a1e1eea5ef350">
+          <head>Scope and Contents</head>
+          <p>This series contains paper, born-digital, and audiovisual material documenting Kraus's career as a filmmaker from the early 1980s through the mid 1990s.  The series dates from 1980-2015 and includes scripts, notes, publicity materials, correspondence, film, video, and audio recordings.  The bulk of this series consists of materials for <emph render="italic">Gravity and Grace</emph>, <emph render="italic">The Golden Bowl or Repression</emph>, and <emph render="italic">How to Shoot a Crime</emph>.  The film, video, and audio recordings in this series document all stages of production of the films and include final prints used for screenings.  The paper and born-digital material in this series includes finished and draft scripts, production materials, correspondence, and press material.  The production materials include notes, receipts, grant applications, crew lists and resumes, and correspondence regarding aspects of production.  Topics in the correspondence include issues with filming locations, screenings, as well as funding for the film.  Press materials include reviews, stationery, postcards, posters, and stickers.  Photographs include production stills and candids taken during production.  Other films documented in this series include <emph render="italic">Sadness at Leaving</emph>, <emph render="italic">Traveling at Night</emph>, <emph render="italic">Voyage to Rodez</emph>, <emph render="italic">Foolproof Illusion</emph>, and <emph render="italic">In Order to Pass</emph>.  This series also documents Kraus's participation in film exhibitions and conferences through paper and born-digital correspondence, exhibition catalogs, and posters.</p>
+        </scopecontent>
+        <c id="aspace_899c4ffe9094cea2734e8d93c9a08ebe" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Arnette the Absolute</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1990/1991" type="inclusive">1990-1991</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cfc8c4a015057d1ddbf2cb877e17de1c" label="Mixed Materials [31142063003498]" type="Box">81</container>
+            <container id="aspace_554c19905e0638e95588548b16616a81" parent="aspace_cfc8c4a015057d1ddbf2cb877e17de1c" type="Folder">3-5</container>
+            <container id="aspace_23737caca7d9cc0e4d2cf29e861d0c78" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_33cb78268bf0fadef5960a0b73af759f" parent="aspace_23737caca7d9cc0e4d2cf29e861d0c78" type="E-records">FA_MSS_442_ER_35</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="&lt;emph render='italic'&gt;Arnette the Absolute&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p><emph render="italic">Arnette the Absolute</emph>: 1991-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_cf4752b419d6dfeedc6581dcdae80975" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Bonsai</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1993/1993">1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_202df789309a1cc9af0b0e6d9be4b76c" label="Mixed Materials [31142063003498]" type="Box">81</container>
+            <container id="aspace_f43b87da42a9077e55a8de8e2a7d809a" parent="aspace_202df789309a1cc9af0b0e6d9be4b76c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_e8341704a1d62009b58a05087c51dd1a" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Dead Sky Scrawl</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1980/1989" type="inclusive">Undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7369175e0f4d13250a798349440489a9" label="Mixed Materials [31142063003498]" type="Box">81</container>
+            <container id="aspace_07832cceb049d528051d6aeb77b95e08" parent="aspace_7369175e0f4d13250a798349440489a9" type="Folder">7-9</container>
+          </did>
+        </c>
+        <c id="aspace_036fb83e247465012d52d43383cbb13e" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The Department</emph>
+            </unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1980/1989" type="inclusive">Undated</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_8b5a1dc5bbf74f9336aee6b70fe5d5e0" label="Audio [31142063003530]" type="Box">85</container>
+          </did>
+        </c>
+        <c id="aspace_1ba9505f98034327f1ec1491d999fcd3" level="file">
+          <did>
+            <unittitle>Film Exhibitions</unittitle>
+            <unitdate datechar="creation" normal="1992/2015" type="inclusive">1992-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e2765c70e588da58ac6d46484cee3f85" label="Mixed Materials [31142063003472]" type="Box">79</container>
+            <container id="aspace_ae78963d11e84a86475d092a6e1582d4" parent="aspace_e2765c70e588da58ac6d46484cee3f85" type="Folder">16-19</container>
+            <container altrender="Manuscript box - Legal" id="aspace_816a7c335b4a0186ff5698c90474fb72" label="Mixed Materials [31142063003480]" type="Box">80</container>
+            <container id="aspace_a0ee3ae89a8e025d087706708ac25551" parent="aspace_816a7c335b4a0186ff5698c90474fb72" type="Folder">1-2</container>
+            <container altrender="Flat OS Box 17" id="aspace_b9dc3dc0f1594f9d4ee3b4fc0da45561" label="Mixed Materials [31142063269115]" type="Box">Shared Fales 028</container>
+            <container id="aspace_e53f6c8286b71b8ae7dc956c8a51e5f6" parent="aspace_b9dc3dc0f1594f9d4ee3b4fc0da45561" type="Folder">4</container>
+            <container id="aspace_cc37bdc1a9a862ead31e4e122c9dd75b" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_d2469c9787f5d4578385ad5e021a41c1" parent="aspace_cc37bdc1a9a862ead31e4e122c9dd75b" type="E-records">FA_MSS_442_ER_16</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Film Exhibitions" xlink:type="simple">
+              <daodesc>
+                <p>Film Exhibitions: 2008-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_2af31a8e0e37d65f344da60dd061b202" level="file">
+          <did>
+            <unittitle>Film Reviews</unittitle>
+            <unitdate datechar="creation" normal="1982/2015" type="inclusive">1982-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e140c01e280762c07f7204a0ce970b3a" label="Mixed Materials [31142063003480]" type="Box">80</container>
+            <container id="aspace_45bca4cf44c097d752412f2dc903cf49" parent="aspace_e140c01e280762c07f7204a0ce970b3a" type="Folder">7-13</container>
+            <container altrender="Manuscript box - Legal" id="aspace_b8d0eafff321e72e7460d162b01951b3" label="Mixed Materials [31142063003498]" type="Box">81</container>
+            <container id="aspace_d64d969354a1f5d0d6f11e1519893f4a" parent="aspace_b8d0eafff321e72e7460d162b01951b3" type="Folder">1-2</container>
+          </did>
+        </c>
+        <c id="aspace_2c24aa16eb152f31ad3b2df10be608ae" level="file">
+          <did>
+            <unittitle><emph render="italic">Foolproof Illusion</emph> -- "Artaud Dungeon Scenes"  [1 of 2] -- Digitized Video</unittitle>
+            <unitid>cuid7003</unitid>
+            <unitdate datechar="creation" normal="1984/1986" type="inclusive">Undated</unitdate>
+            <unitdate datechar="digitized" normal="2018/2018"> </unitdate>
+            <container id="aspace_ece5d1d4b407759f457301383a50d8f9" label="digital_access_copy" type="Box">Electronic Records</container>
+            <container id="aspace_249edbc8f1b13cc9c6e6d01fc22f5d93" parent="aspace_ece5d1d4b407759f457301383a50d8f9" type="file">MSS.442.cuid7003</container>
+            <container altrender="Record carton" id="aspace_cc5bb8e0e8eae5de0d9b5795f095c205" label="videos [31142063003399]" type="Box">71</container>
+            <container id="aspace_a00c596754915506fdfa675f743a91e9" parent="aspace_cc5bb8e0e8eae5de0d9b5795f095c205" type="Cassette">mss.442.cuid7003</container>
+          </did>
+          <scopecontent id="aspace_f9e5eb63d54be3d71a24be8349d9e732">
+            <head>Scope and Contents</head>
+            <p>Housing annotations read: "Artaud Dungeon Scenes; Session 1 - Total Garbage; Marat/Sade + Terry's worm speech in midshot; bandage knife + blood"</p>
+          </scopecontent>
+          <phystech id="aspace_51d620babbcfea1ac032165f8c492b71">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Format: 3/4" umatic, Duration: 22 min.</p>
+          </phystech>
+        </c>
+        <c id="aspace_0e76ffd0635fb573eb1c9dcd6eae85c0" level="file">
+          <did>
+            <unittitle><emph render="italic">Foolproof Illusion</emph> -- Paper and Video Materials</unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 videocassettes (vhs)</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">2 videodiscs (dvd)</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1986/1986">1986</unitdate>
+            <container altrender="Record carton" id="aspace_2150e6d9495573baebaff1ef8e9bf743" label="videos [31142063003308]" type="Box">60</container>
+            <container altrender="Manuscript box - Legal" id="aspace_677ae753ce6605a25937bc70ecdf2db7" label="Mixed Materials [31142063003514]" type="Box">83</container>
+            <container id="aspace_80f1442c63b24f440a145cf22b3ea4a5" parent="aspace_677ae753ce6605a25937bc70ecdf2db7" type="Folder">5</container>
+            <container id="aspace_82bb249233bba9c6147033da52b44259" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_76520edf1826be25bb031a89c24a07a6" parent="aspace_82bb249233bba9c6147033da52b44259" type="file">FA_MSS_442_ER_41</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="&lt;emph render='italic'&gt;Foolproof Illusion&lt;/emph&gt; -- Paper and Video Materials" xlink:type="simple">
+              <daodesc>
+                <p><emph render="italic">Foolproof Illusion</emph> -- Paper and Video Materials: 1987-1988</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_9819209426703fe8d708b4d0a41f169b" level="file">
+          <did>
+            <unittitle><emph render="italic">Foolproof Illusion</emph> -- Quarantined Video</unittitle>
+            <unitid>cuid6993</unitid>
+            <unitdate datechar="creation" normal="1987/1987">1987</unitdate>
+            <container altrender="Record carton" id="aspace_9ed42294e151be8340d49359552fa491" label="videos [31142062673770]" type="Box">96</container>
+            <container id="aspace_717f1816bc875eb46dab515b8f0a22fb" parent="aspace_9ed42294e151be8340d49359552fa491" type="Cassette">MSS.442.cuid6993</container>
+          </did>
+          <phystech id="aspace_31ebd3470f26cc5590875b3df747a7fc">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>3/4" Umatic, 20 min.</p>
+          </phystech>
+        </c>
+        <c id="aspace_a145219496fca3834db34e18b49356a1" level="file">
+          <did>
+            <unittitle><emph render="italic">Foolproof Illusion</emph> -- Snow Scene -- Nontransferable Video</unittitle>
+            <unitid>cuid6999</unitid>
+            <unitdate datechar="creation" normal="1986/1986">1986</unitdate>
+            <unitdate datechar="digitized" normal="2018/2018"> </unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_1d67a67c0fb50a858686f688a0c58a5a" label="videos [31142063003399]" type="Box">71</container>
+            <container id="aspace_c7e61b48ce8fc8259c3e7b6f9bc4b9ca" parent="aspace_1d67a67c0fb50a858686f688a0c58a5a" type="Cassette">MSS.442.cuid6999</container>
+          </did>
+          <scopecontent id="aspace_9896cfbfc5e491e3adb595e2e1c66ee8">
+            <head>Scope and Contents</head>
+            <p>Housing annotations read: "Chris Kraus as Suzan Cooper; Camera: Bart Friedman; Media Bus, Saugerties NY, February 1986. Includes Rodez titles and Terrorist credits"</p>
+          </scopecontent>
+          <phystech id="aspace_1a6825ed61467ae58f079c25ef3f82a2">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Format: 3/4" Umatic, Duration: 15 min.</p>
+          </phystech>
+        </c>
+        <c id="aspace_01109b2191dcee3cdef20e186a46991e" level="file">
+          <did>
+            <unittitle><emph render="italic">The Golden Bowl or Repression</emph> -- 16mm Film Reel</unittitle>
+            <unitid>cuid6292</unitid>
+            <unitdate datechar="creation" normal="1984/1988" type="inclusive">1984-1988</unitdate>
+            <container id="aspace_8e1e5994abff65c88a650e345c0067a2" label="film" type="reel">MSS.442.cuid6292</container>
+          </did>
+          <phystech id="aspace_6008a37d7754932c5f101bf9f8219e1f">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>16mm film [Print], Sound, Color, 12 min. 30 sec.</p>
+          </phystech>
+        </c>
+        <c id="aspace_71c93d85174851926b27ebecbe6bd649" level="file">
+          <did>
+            <unittitle><emph render="italic">The Golden Bowl or Repression</emph> -- Digitized Video</unittitle>
+            <unitid>cuid6293</unitid>
+            <unitdate datechar="other" normal="1984/1988" type="inclusive">1984-1988</unitdate>
+            <unitdate datechar="digitized" normal="2018/2018"> </unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_3b849d7565719c66ed6e570b71d9fec7" label="digital_access_copy" type="Box">Electronic Records</container>
+            <container id="aspace_1409ce5bd3ff1c665f4864ebc331b7b6" parent="aspace_3b849d7565719c66ed6e570b71d9fec7" type="file">MSS.442.cuid6293</container>
+            <container altrender="Record carton" id="aspace_29f7cc58142c6b7c599ab72916228ff7" label="videos [31142063003381]" type="Box">70</container>
+          </did>
+          <phystech id="aspace_fed88482f0519462f97d03a65b095cc5">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>3/4" Umatic [Master], 13 min.</p>
+          </phystech>
+        </c>
+        <c id="aspace_5c6e14e8c74596d66de3162a61457b31" level="file">
+          <did>
+            <unittitle><emph render="italic">The Golden Bowl or Repression</emph> -- Paper and Audiovisual Materials</unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">9 audiocassettes</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">29 film reels</extent>
+              <extent altrender="carrier">in 3 16mm film reels, 26 Super 8 film reels</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">2 videocassettes</extent>
+              <extent altrender="carrier">1 UMatic, 1 VHS</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 reel</extent>
+              <extent altrender="carrier">in 1 1/4" audio reel</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">4 videodiscs (dvd)</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1984/2011" type="inclusive">1984-2011</unitdate>
+            <container altrender="Record carton" id="aspace_3b2ff75b1dc6538386998f005f197362" label="videos [31142063003308]" type="Box">60</container>
+            <container altrender="Record carton" id="aspace_1f5ba2d55601f2fc589a3748b928733a" label="Audio [31142063003316]" type="Box">61</container>
+            <container altrender="Record carton" id="aspace_32540a80cb6624ec48fb06872e615c42" label="film [31142063003324]" type="Box">62</container>
+            <container altrender="Record carton" id="aspace_978241326e2a88af37b227e8259df99b" label="film [31142063003340]" type="Box">66</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_ae6059594c77d481eded6828879848bc" label="Audio [31142063003530]" type="Box">85</container>
+            <container altrender="Manuscript box - Legal" id="aspace_b4586278fde44b6ea77cf468b97733ec" label="Mixed Materials [31142063003506]" type="Box">82</container>
+            <container id="aspace_9b794d982238529078f66ad8403d0c74" parent="aspace_b4586278fde44b6ea77cf468b97733ec" type="Folder">9-12</container>
+            <container altrender="Manuscript box - Legal" id="aspace_ceef6a386185cab056f786a712c80949" label="Mixed Materials [31142063003514]" type="Box">83</container>
+            <container id="aspace_54394fcfd61b46e0944fa56f4ee0a652" parent="aspace_ceef6a386185cab056f786a712c80949" type="Folder">1-3</container>
+            <container id="aspace_0a727ca2e46312bedf1849626fbfc65f" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_26fbe509f85acbf18c9943dca24cfe21" parent="aspace_0a727ca2e46312bedf1849626fbfc65f" type="file">FA_MSS_442_ER_36</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="&lt;emph render='italic'&gt;The Golden Bowl or Repression&lt;/emph&gt; -- Paper and Audiovisual Materials" xlink:type="simple">
+              <daodesc>
+                <p><emph render="italic">The Golden Bowl or Repression</emph> -- Paper and Audiovisual Materials: 2011-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_70c4b3c4fcd377562dee97fd521d5b72" level="file">
+          <did>
+            <unittitle><emph render="italic">Gravity and Grace</emph> -- Paper, Born-digital, and Audiovisual Materials</unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">19 film reels</extent>
+              <extent altrender="carrier">in 19 16mm film reels</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">18 audiocassettes</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">15 videocassettes</extent>
+              <extent altrender="carrier">in 5 VHS cassettes, 7 UMatic cassettes, 3 Betacam cassettes</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 videoreels (1 inch)</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">37 sound tape reels</extent>
+              <extent altrender="carrier">in 37 1/4" audio reels</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">13 sound cassettes (dat)</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1992/2015" type="inclusive">1992-2015</unitdate>
+            <container altrender="Record carton" id="aspace_7acca8874ce9295646491798024a0c28" label="videos [31142063003290]" type="Box">59</container>
+            <container altrender="Record carton" id="aspace_e2b6274cdb49a21d79ff7b7f60a74306" label="videos [31142063003308]" type="Box">60</container>
+            <container altrender="Record carton" id="aspace_e16b383566e868452453cfc41c11d3c3" label="Audio [31142063003316]" type="Box">61</container>
+            <container altrender="Record carton" id="aspace_37d0bd4716c6bb12f676e8910a101926" label="film [31142063275195]" type="Box">63</container>
+            <container altrender="Record carton" id="aspace_3ae97723ad37c4d33ede340c92897d4b" label="film [31142063269230]" type="Box">64</container>
+            <container altrender="Record carton" id="aspace_657bc4e1d540ff2ab0a227b7696c3784" label="videos [31142063003332]" type="Box">65</container>
+            <container altrender="Record carton" id="aspace_e20b62e334152ea2ca09282d9d637ba4" label="film [31142063003340]" type="Box">66</container>
+            <container altrender="Flat OS Box 17" id="aspace_53965e06046fd1648dcaecd79a38bd62" label="film [31142063003365]" type="Box">68</container>
+            <container altrender="Manuscript box - Legal" id="aspace_235a779c511d6d66dba7a47d8ea32a1a" label="Mixed Materials [31142063003456]" type="Box">77</container>
+            <container id="aspace_cabd2a44b359a955e8603b83a99a2d91" parent="aspace_235a779c511d6d66dba7a47d8ea32a1a" type="Folder">9-12</container>
+            <container altrender="Manuscript box - Legal" id="aspace_c7b158dad98cc7479359203ea689b411" label="Mixed Materials [31142063003464]" type="Box">78</container>
+            <container id="aspace_cb9580b0b79ec9bebdb5697af0c578b1" parent="aspace_c7b158dad98cc7479359203ea689b411" type="Folder">1-13</container>
+            <container altrender="Manuscript box - Legal" id="aspace_78914bd9a9efd250c75afacdf240d4cb" label="Mixed Materials [31142063003472]" type="Box">79</container>
+            <container id="aspace_1f27c84c77002a348fc985a27af0ec43" parent="aspace_78914bd9a9efd250c75afacdf240d4cb" type="Folder">1-2</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_b88a6d2fb2b18eb1040c86325a32b600" label="Audio [31142063003548]" type="Box">86</container>
+            <container altrender="Media box 5 x 8 x 5.75" id="aspace_7f23eb4418c0a08b4aa679c6aa090ccc" label="Audio [31142063003563]" type="Box">88</container>
+            <container altrender="Flat OS Box 17" id="aspace_5de7033dd69ef846595401043d5a68aa" label="Mixed Materials [31142063269115]" type="Box">Shared Fales 028</container>
+            <container id="aspace_f3a533b7fc096048cd6cbe560e67d6cb" parent="aspace_5de7033dd69ef846595401043d5a68aa" type="Folder">3</container>
+            <container altrender="OS Flat Box - 20.25 x 24.5" id="aspace_d57953b82f22c85ee5ff8cc660d3efb8" label="Mixed Materials [31142062673416]" type="Box">Shared Fales 020</container>
+            <container id="aspace_f3bffcad70b3388fadafa3ae69edd1d3" parent="aspace_d57953b82f22c85ee5ff8cc660d3efb8" type="Folder">5-6</container>
+            <container id="aspace_3dc845a94fd36d6fc9319f36546c2c5a" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_11f5d7db1609e1a04d2aa5ea87eefa3f" parent="aspace_3dc845a94fd36d6fc9319f36546c2c5a" type="E-records">FA_MSS_442_ER_17</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="&lt;emph render='italic'&gt;Gravity and Grace&lt;/emph&gt; -- Paper, Born-digital, and Audiovisual Materials" xlink:type="simple">
+              <daodesc>
+                <p><emph render="italic">Gravity and Grace</emph> -- Paper, Born-digital, and Audiovisual Materials: 1998-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_10b73ef52fa45c3d41dcaa1ce7e9408c" level="file">
+          <did>
+            <unittitle><emph render="italic">Gravity and Grace</emph> -- Video Reel</unittitle>
+            <unitid>cuid7006</unitid>
+            <unitdate datechar="creation" normal="1995/1995">1995</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_93d80af03a5cc5fad78e643e68809c4f" label="videos [31142063003290]" type="Box">59</container>
+            <container id="aspace_b98336d2b42c8d2876416ea54d7cc9ec" parent="aspace_93d80af03a5cc5fad78e643e68809c4f" type="reel">MSS.442.cuid7006</container>
+          </did>
+          <phystech id="aspace_aec1b43891ab88f3a6437242d97673e0">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Original Format: 1" Type C Open Reel Video [Master], Duration: 88 min., Color, Sound</p>
+          </phystech>
+        </c>
+        <c id="aspace_411c0b7d9829272ae85edb59ce598617" level="file">
+          <did>
+            <unittitle><emph render="italic">How to Shoot a Crime</emph> -- Paper, Born-digital, and Audiovisual Materials</unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">5 audiocassettes</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 videodisc (dvd)</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">3 videocassettes</extent>
+              <extent altrender="carrier">2 VHS cassettes, 1 UMatic cassette</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 film reels</extent>
+              <extent altrender="carrier">in 1 Super 8 reel</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1982/2015" type="inclusive">1982-2015</unitdate>
+            <container altrender="Record carton" id="aspace_71443830bd0dc6fe1ace2a4bc0f6143e" label="videos [31142063003308]" type="Box">60</container>
+            <container altrender="Record carton" id="aspace_95f85bbed675f71987bf00649f96796e" label="film [31142063003324]" type="Box">62</container>
+            <container altrender="Manuscript box - Legal" id="aspace_d5568ff5de7bc6414750b8d69eccb923" label="Mixed Materials [31142063003514]" type="Box">83</container>
+            <container id="aspace_991cd42ab2d8286e5169eca34c70a7af" parent="aspace_d5568ff5de7bc6414750b8d69eccb923" type="Folder">11-20</container>
+            <container altrender="Manuscript box - Legal" id="aspace_8e92ca6fa93c3c83d5dd596b44876f19" label="Mixed Materials [31142063003522]" type="Box">84</container>
+            <container id="aspace_578cb316ecb073e832986ea674e8a7e4" parent="aspace_8e92ca6fa93c3c83d5dd596b44876f19" type="Folder">1</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_8bc685048c848c03e8bde894407432f5" label="Audio [31142063003548]" type="Box">86</container>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_536bbb3c67d8b7569b68584ee773046c" label="Mixed Materials [31142063003605]" type="Box">92</container>
+            <container id="aspace_db5a5ff62c9dad090b92d198f5190ac8" parent="aspace_536bbb3c67d8b7569b68584ee773046c" type="Folder">2</container>
+            <container altrender="Oversize Folder - 42 x 32" id="aspace_8d5d6dab59c2a1d3c1f58bde042dbe5e" label="Mixed Materials [31142063003266]" type="Flat-File-Folder">3</container>
+            <container id="aspace_951bbec861449d7946e0463b598ac632" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_674a2b7c7232e29a3df1abace7e4ffc9" parent="aspace_951bbec861449d7946e0463b598ac632" type="E-records">FA_MSS_442_ER_18</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="&lt;emph render='italic'&gt;How to Shoot a Crime&lt;/emph&gt; -- Paper, Born-digital, and Audiovisual Materials" xlink:type="simple">
+              <daodesc>
+                <p><emph render="italic">How to Shoot a Crime</emph> -- Paper, Born-digital, and Audiovisual Materials: 2008-2015</p>
+              </daodesc>
+            </dao>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="&lt;emph render='italic'&gt;How to Shoot a Crime&lt;/emph&gt; -- Paper, Born-digital, and Audiovisual Materials" xlink:type="simple">
+              <daodesc>
+                <p><emph render="italic">How to Shoot a Crime</emph> -- Paper, Born-digital, and Audiovisual Materials: 2011-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_4a88c2f841a9c0cf3a38ec866f478b2b" level="file">
+          <did>
+            <unittitle><emph render="italic">In Order to Pass</emph> -- Damages [Optical Print] -- Film Reel</unittitle>
+            <unitid>cuid6298</unitid>
+            <unitdate datechar="creation" normal="1982/1982">1982</unitdate>
+            <container id="aspace_353b0c430fc332da736ccfce9a821846" label="film" type="reel">MSS.442.cuid6298</container>
+          </did>
+          <phystech id="aspace_dbab73b165060e93f933793fdaa60d50">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>16mm [Print], Silent</p>
+          </phystech>
+        </c>
+        <c id="aspace_0cad9a4d0017885d8dbe6636b9b35d83" level="file">
+          <did>
+            <unittitle><emph render="italic">In Order to Pass</emph> -- Digitized Video</unittitle>
+            <unitid>cuid6299</unitid>
+            <unitdate datechar="other" normal="1982/1982">1982</unitdate>
+            <unitdate datechar="digitized" normal="2018/2018"> </unitdate>
+            <container id="aspace_e21efb4bc93df159f04b0b414a72ad22" label="digital_access_copy" type="Box">Electronic Records</container>
+            <container id="aspace_b392375ab7150b3799d1176b4fe0d6f3" parent="aspace_e21efb4bc93df159f04b0b414a72ad22" type="file">MSS.442.cuid6299</container>
+            <container altrender="Record carton" id="aspace_227d73ec0823e93412c631ad6880d411" label="videos [31142063003332]" type="Box">65</container>
+            <container id="aspace_981818290e6ff79e73f5ad8abefd3525" parent="aspace_227d73ec0823e93412c631ad6880d411" type="Cassette">mss.442.cuid6299</container>
+          </did>
+          <scopecontent id="aspace_1fe445f5538e876feca4078a28ef795a">
+            <head>Scope and Contents</head>
+            <p>Housing annotations read: Pt. 2 Transfer master.</p>
+          </scopecontent>
+          <phystech id="aspace_0d16b622fb1ebbe823d3db4bc37b7199">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>3/4" Umatic [Master], 8 min.</p>
+          </phystech>
+        </c>
+        <c id="aspace_6f46711a83511f0a48688207e2b2cd89" level="file">
+          <did>
+            <unittitle><emph render="italic">In Order to Pass</emph> -- Paper and Born-digital Materials, and Films</unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">6 film reels</extent>
+              <extent altrender="carrier">6 Super 8 film reels</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1982/2015" type="inclusive">1982-2015</unitdate>
+            <container altrender="Record carton" id="aspace_8b8f182ed8e55e6259d7aaacbdd61f83" label="film [31142063003324]" type="Box">62</container>
+            <container altrender="Manuscript box - Legal" id="aspace_73fd9370e53f99dc5dfb4272cac1c4b7" label="Mixed Materials [31142063003514]" type="Box">83</container>
+            <container id="aspace_4905a305c7d6b4a1db03f40c212da452" parent="aspace_73fd9370e53f99dc5dfb4272cac1c4b7" type="Folder">6-10</container>
+            <container altrender="Flat OS Box 17" id="aspace_52474735fe081f0ed1e761f11df6e51d" label="Mixed Materials [31142063269115]" type="Box">Shared Fales 028</container>
+            <container id="aspace_fdcbd438e965f47f217e3cf17cb27e07" parent="aspace_52474735fe081f0ed1e761f11df6e51d" type="Folder">5</container>
+            <container id="aspace_30662f5041ab53f20530a4b2593f851f" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_8fbdf2bca14f313b8e2e2155c339eff5" parent="aspace_30662f5041ab53f20530a4b2593f851f" type="E-records">FA_MSS_442_ER_19</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="&lt;emph render='italic'&gt;In Order to Pass&lt;/emph&gt; -- Paper and Born-digital Materials, and Films" xlink:type="simple">
+              <daodesc>
+                <p><emph render="italic">In Order to Pass</emph> -- Paper and Born-digital Materials, and Films: 2008-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_e574a4f436e87d4e2c7003e178989c49" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Looking for Suzanne</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="2011/2015" type="inclusive">2011-2015</unitdate>
+            <container id="aspace_e0e5f1fd2dd4091a85febfb0487f838f" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_b93cb3fd909f1d56701d826594fe3420" parent="aspace_e0e5f1fd2dd4091a85febfb0487f838f" type="E-records">FA_MSS_442_ER_50</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="&lt;emph render='italic'&gt;Looking for Suzanne&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p><emph render="italic">Looking for Suzanne</emph>: 2014-2015</p>
+              </daodesc>
+            </dao>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="&lt;emph render='italic'&gt;Looking for Suzanne&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p><emph render="italic">Looking for Suzanne</emph>: 2011-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_c57718cdef2aeb43066fc57bd58c1d9b" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Message Units</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1992/1992">1992</unitdate>
+            <container id="aspace_3a3248bb4ebba8734c60dfc51a72b980" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_4b2b85afef3f1bb2c2855cb6d0bf2bd3" parent="aspace_3a3248bb4ebba8734c60dfc51a72b980" type="E-records">FA_MSS_442_ER_33</container>
+            <container altrender="Manuscript box - Legal" id="aspace_f58ed570f7c689146208633ae0a0bdb0" label="Mixed Materials [31142063003472]" type="Box">79</container>
+            <container id="aspace_61b3ed2614dfc2677c34672eee078a99" parent="aspace_f58ed570f7c689146208633ae0a0bdb0" type="Folder">6</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="&lt;emph render='italic'&gt;Message Units&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p><emph render="italic">Message Units</emph>: 1992-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_3e5d7c9863b84f6b6fdf94ff5ba4a21d" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The Middle Ages</emph>
+            </unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">2 videocassettes (u-matic)</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1986/1986">1986</unitdate>
+            <container altrender="Record carton" id="aspace_9747e4889013c75f42568bfaee2d95af" label="videos [31142063003381]" type="Box">70</container>
+          </did>
+        </c>
+        <c id="aspace_ad78cd1cf1ae22291da72c0ada66bd60" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The Pact</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1992/2015" type="inclusive">1992-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_47074dc1b95431eec10b97e71d356516" label="Mixed Materials [31142063003506]" type="Box">82</container>
+            <container id="aspace_e8603128b644a2bad049a8f8de2173d4" parent="aspace_47074dc1b95431eec10b97e71d356516" type="Folder">1-7</container>
+            <container id="aspace_db02eaef50c61703d47cf80fe2061055" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_302e5bd4df80c533b03b5e0f0606ae76" parent="aspace_db02eaef50c61703d47cf80fe2061055" type="E-records">FA_MSS_442_ER_22</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="&lt;emph render='italic'&gt;The Pact&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p><emph render="italic">The Pact</emph>: 1992-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_8b199ef76fcf53025fd98441fd086ee9" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Party</emph>
+            </unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">2 film reels</extent>
+              <extent altrender="carrier">in 2 Super 8 film reels</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">2 videocassettes (u-matic)</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1980/1989" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_84d8055bf0c9d4c93ead4beccfa33cd6" label="videos [31142063003399]" type="Box">71</container>
+            <container altrender="Record carton" id="aspace_2f102779f3fefd57326a3ca834e44fb2" label="film [31142063003415]" type="Box">73</container>
+          </did>
+        </c>
+        <c id="aspace_72293a8f4cb7a4b39a71336d98a3a81b" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Sadness at Leaving</emph>
+            </unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">2 videocassettes</extent>
+              <extent altrender="carrier">in 1 UMatic cassette, 1 VHS cassette</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">7 audiocassettes</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 sound cassettes (dat)</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1987/1993" type="inclusive">1987-1993</unitdate>
+            <container altrender="Record carton" id="aspace_0a568d7f68d8d0b0aed7540a6371c04c" label="videos [31142063003308]" type="Box">60</container>
+            <container altrender="Manuscript box - Legal" id="aspace_598cb243486bdc7601a7e50b2b867665" label="Mixed Materials [31142063003431]" type="Box">75</container>
+            <container id="aspace_3c815fe3dfd3a21661ea16d1051b34a6" parent="aspace_598cb243486bdc7601a7e50b2b867665" type="Box">8-14</container>
+            <container altrender="Manuscript box - Legal" id="aspace_907caccc7099851f5cadbcb75f37837c" label="Mixed Materials [31142063003449]" type="Box">76</container>
+            <container id="aspace_4e1470daecfb32d675cd97ccd0361761" parent="aspace_907caccc7099851f5cadbcb75f37837c" type="Folder">1-9</container>
+            <container altrender="Manuscript box - Legal" id="aspace_28d234a01e61b5aab25e285299fea4d3" label="Mixed Materials [31142063003456]" type="Box">77</container>
+            <container id="aspace_e82e6d3e0363b6f02f8ee796e4bf491d" parent="aspace_28d234a01e61b5aab25e285299fea4d3" type="Folder">1-8</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_aa2153b1876b22bdd4e76bd996da2cbc" label="Audio [31142063003548]" type="Box">86</container>
+            <container id="aspace_3a2c1d643505ccaedd4486b42640a678" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_e97e14a6ff622dc989760c14614fb707" parent="aspace_3a2c1d643505ccaedd4486b42640a678" type="E-records">FA_MSS_442_ER_20</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="&lt;emph render='italic'&gt;Sadness at Leaving&lt;/emph&gt;" xlink:type="simple">
+              <daodesc>
+                <p><emph render="italic">Sadness at Leaving</emph>: 1989-1992</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_7b1d22f5b2cf3aa1900a7704b3236400" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">Simone Weil</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_07a799b153d5bd3466caec12995a1ad3" label="Mixed Materials [31142063003498]" type="Box">81</container>
+            <container id="aspace_cf76e51ff2a03ca3f2a0f9e4a453779b" parent="aspace_07a799b153d5bd3466caec12995a1ad3" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_09fb3ae831a039c1d156cabe1356ca91" level="file">
+          <did>
+            <unittitle>Speaking Engagements</unittitle>
+            <unitdate datechar="creation" normal="2007/2007">2007</unitdate>
+            <container id="aspace_a065ccbad0ea53b39b3a5fb0df7e0ca2" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_a80a941d8fb889622b7c25d8cf825fbd" parent="aspace_a065ccbad0ea53b39b3a5fb0df7e0ca2" type="E-records">FA_MSS_442_ER_21</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Speaking Engagements" xlink:type="simple">
+              <daodesc>
+                <p>Speaking Engagements: 2007-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_f71452dbfdca6559ae5e518b375c6aac" level="file">
+          <did>
+            <unittitle><emph render="italic">Terrorists in Love</emph> -- Film Reel</unittitle>
+            <unitid>cuid6295</unitid>
+            <unitdate datechar="other" normal="1983/1983">1983</unitdate>
+            <container id="aspace_c9418119478008f13adb702bb16578a4" label="film" type="reel">MSS.442.cuid6295</container>
+          </did>
+          <phystech id="aspace_a09b5084bbc28f3a19e0ca164adc016c">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>16mm [Print], Sound, Color, 5 min. 30 sec.</p>
+          </phystech>
+        </c>
+        <c id="aspace_4cffc81037ad0b5c422b0f42f5e0a903" level="file">
+          <did>
+            <unittitle><emph render="italic">Terrorists in Love</emph> -- Film Reel</unittitle>
+            <unitid>cuid6294</unitid>
+            <unitdate datechar="creation" normal="1983/1983">1983</unitdate>
+            <container id="aspace_4b85d97336dd3d9038eb5bf89a5d0bcf" label="film" type="reel">MSS.442.cuid6294</container>
+          </did>
+          <phystech id="aspace_c34994ac4772c330def3fc8a341de244">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>Super8mm [Print], Silent, BW, 5 min. 30 sec.</p>
+          </phystech>
+        </c>
+        <c id="aspace_57424288d0fbb0d36732c75db77805ee" level="file">
+          <did>
+            <unittitle><emph render="italic">Terrorists in Love</emph> -- Paper and Film Materials</unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 Reels</extent>
+              <extent altrender="carrier">in 1 16mm film reel</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1980/1989" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_080b84083afdae0a1a14bfd2a45b6be6" label="film [31142063003340]" type="Box">66</container>
+            <container altrender="Manuscript box - Legal" id="aspace_6e785161c414d14d6b8af04844f694a6" label="Mixed Materials [31142063003506]" type="Box">82</container>
+            <container id="aspace_887824c0abf475ce1a7fc1ec61c5d62c" parent="aspace_6e785161c414d14d6b8af04844f694a6" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_6509ed0a4f4e144f0a4af14d95f3838a" level="file">
+          <did>
+            <unittitle><emph render="italic">Terrorists in Love</emph> -- Quarantined Video</unittitle>
+            <unitid>cuid7002</unitid>
+            <unitdate datechar="creation" normal="1983/1983">1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_fb6a1b83d50c475b2cb0fb95a1f8f299" label="videos [31142062673770]" type="Box">96</container>
+            <container id="aspace_6c90f25b786412e7d6bc06de09011e1d" parent="aspace_fb6a1b83d50c475b2cb0fb95a1f8f299" type="Cassette">MSS.442.cuid7002</container>
+          </did>
+          <phystech id="aspace_8928e4fba5c227502427cc67cad6b6e2">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>3/4" Umatic, 5 min.</p>
+          </phystech>
+          <accessrestrict id="aspace_c43821301215a038f495aa0d9178007c">
+            <head>Conditions Governing Access</head>
+            <p>Preservation note: "video is in quarantine for mold treatment".</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_143fb3dc1ac03a3475f3878bdeec35aa" level="file">
+          <did>
+            <unittitle><emph render="italic">Terrorists in Love</emph> and <emph render="italic">A True Story</emph> -- Digitized Video</unittitle>
+            <unitid>cuid6296</unitid>
+            <unitdate datechar="other" normal="1983/1983">1983</unitdate>
+            <unitdate datechar="digitized" normal="2018/2018">2018</unitdate>
+            <container id="aspace_5247e5e5d26818175deec900d1650a45" label="digital_access_copy" type="Box">Electronic Records</container>
+            <container id="aspace_d7a4135108540b09324104760539d9dd" parent="aspace_5247e5e5d26818175deec900d1650a45" type="file">MSS.442.cuid6296</container>
+            <container altrender="Record carton" id="aspace_57a9c028d624bde13ce6ea318a27a509" label="videos [31142063003381]" type="Box">70</container>
+          </did>
+          <scopecontent id="aspace_889c8ab1d09e45f0341b63d67a6bdc5b">
+            <head>Scope and Contents</head>
+            <p>Housing annotations read: "original formats: 'Terrorists', S8; 'True Story', 16mm".</p>
+          </scopecontent>
+          <phystech id="aspace_729c8fa500441be4fc468056dd262b2e">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>3/4" Umatic [Master], 20 min.</p>
+          </phystech>
+        </c>
+        <c id="aspace_6d4049d55a1560fdf7841da1bd37a64f" level="file">
+          <did>
+            <unittitle><emph render="italic">Travelling at Night</emph> -- Paper and Audiovisual Materials</unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 videocassettes (vhs)</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">2 audiocassettes</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1980/1991" type="inclusive">1980-1991</unitdate>
+            <container altrender="Record carton" id="aspace_c3c373359f2282ed23fd6b2be0ac209f" label="videos [31142063003308]" type="Box">60</container>
+            <container altrender="Manuscript box - Legal" id="aspace_6ab86713b72877f26c5ed056ee8444bc" label="Mixed Materials [31142063003480]" type="Box">80</container>
+            <container id="aspace_8be7166c8dae9d75b21f6870b4e911bf" parent="aspace_6ab86713b72877f26c5ed056ee8444bc" type="Folder">5-6</container>
+            <container altrender="Manuscript box - Legal" id="aspace_f2fccdfe677d1e02348fd05a4f7611a2" label="Mixed Materials [31142063003522]" type="Box">84</container>
+            <container id="aspace_35e538be1f4ea2c4186e2329d5018ca9" parent="aspace_f2fccdfe677d1e02348fd05a4f7611a2" type="Folder">2-8</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_fa540c8fa982352e753274932c66108e" label="Audio [31142063003530]" type="Box">85</container>
+          </did>
+        </c>
+        <c id="aspace_91fa068201b972194db40f263c7f0b7e" level="file">
+          <did>
+            <unittitle><emph render="italic">Travelling at Night</emph> -- Videocassette</unittitle>
+            <unitid>cuid7123</unitid>
+            <unitdate datechar="creation" normal="1990/1990">1990</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Record carton" id="aspace_77cf1b58d13cdbbeb7d3c62fa803bbed" label="videos [31142062673770]" type="Box">96</container>
+            <container id="aspace_bd7196338de020e28e40187270b29586" parent="aspace_77cf1b58d13cdbbeb7d3c62fa803bbed" type="Cassette">MSS.442.cuid7123</container>
+          </did>
+          <phystech id="aspace_1bdb2ef9ec09ad0bff7c384ada46ce1e">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>3/4" Umatic, 60 min.</p>
+          </phystech>
+        </c>
+        <c id="aspace_6c5507f2812a24f9ed145484db9062d4" level="file">
+          <did>
+            <unittitle>Unidentified Films -- Audiovisual and Born-digital Materials</unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">20 audiocassettes</extent>
+              <extent altrender="carrier">in 17 compact audio cassettes, 3 micro-cassettes</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">130 film reels</extent>
+              <extent altrender="carrier">in 17 16mm film reels, 112 Super 8 film reels</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">5 videocassettes</extent>
+              <extent altrender="carrier">1 Betamax cassette, 4 UMatic cassettes</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">2 sound tape reels</extent>
+              <extent altrender="carrier">in 2 1/4" reels</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1980/1991" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_b5e7720e14330ba65925f0667a5206ff" label="Audio [31142063003316]" type="Box">61</container>
+            <container altrender="Record carton" id="aspace_aa790e3244c4ba71345ed3ac89072cae" label="film [31142063003357]" type="Box">67</container>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_aeae268c6727e48b924fbb46bf798f3c" label="film [31142063003373]" type="Box">69</container>
+            <container altrender="Record carton" id="aspace_bb7117459ca6d745bee2cb32c6bfda78" label="film [31142063003407]" type="Box">72</container>
+            <container altrender="Record carton" id="aspace_84f222749e32fa86d128381169d06bce" label="film [31142063003415]" type="Box">73</container>
+            <container altrender="Record carton" id="aspace_13c84ba90299a22fa32e50bc9884fd1f" label="videos [31142063003423]" type="Box">74</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_d3c1803c52bb0ade6c26d37922684d25" label="Audio [31142063003530]" type="Box">85</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_29287b0354c777396b6b054729bcafed" label="Audio [31142063003548]" type="Box">86</container>
+            <container id="aspace_6bdb6620607e182a83674e5b756a8da5" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_6afbacdc5ad8608426982cf15a860cbc" parent="aspace_6bdb6620607e182a83674e5b756a8da5" type="E-records">FA_MSS_442_ER_34</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Unidentified Films -- Audiovisual and Born-digital Materials" xlink:type="simple">
+              <daodesc>
+                <p>Unidentified Films -- Audiovisual and Born-digital Materials: 1991-</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_850bbc9e868db9dadf1445369ad1ef93" level="file">
+          <did>
+            <unittitle><emph render="italic">Voyage to Rodez</emph> -- Film Reel</unittitle>
+            <unitid>cuid6297</unitid>
+            <unitdate datechar="other" normal="1986/1986">1986</unitdate>
+            <container id="aspace_5a0407681b0109a49f158ad8b318eed6" label="film" type="reel">MSS.442.cuid6297</container>
+          </did>
+          <phystech id="aspace_67ddf74e914b72e7a84ef2bc25168440">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>16mm [Print], Sound, BW, 14 min.</p>
+          </phystech>
+        </c>
+        <c id="aspace_783bafc643befc8b7ba863f7e351c194" level="file">
+          <did>
+            <unittitle><emph render="italic">Voyage to Rodez</emph> -- Paper and Audiovisual Materials</unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">17 film reels</extent>
+              <extent altrender="carrier">in 17 Super 8 film reels</extent>
+            </physdesc>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
+            </physdesc>
+            <container altrender="Record carton" id="aspace_785983949145706f6170b65c315d92e8" label="film [31142063003324]" type="Box">62</container>
+            <container altrender="Manuscript box - Legal" id="aspace_b17bee25bd78496186f8a77b4116d731" label="Mixed Materials [31142063003514]" type="Box">83</container>
+            <container id="aspace_634675abd022ed8bbfba069129662333" parent="aspace_b17bee25bd78496186f8a77b4116d731" type="Folder">4</container>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_0fe60aef736e8007f995b20b6db60876" label="Audio [31142063003530]" type="Box">85</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_01215e99649453941401437514b0096e" level="series">
+        <did>
+          <unittitle>Series III.  Diaries</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">6.5 Linear Feet</extent>
+            <extent altrender="carrier">in 12 manuscript boxes, 1 half manuscript box, and 1 record carton</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">2 videocassettes (vhs)</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">277 kilobytes</extent>
+            <extent altrender="carrier">in 9 documents</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1975/2015" type="inclusive">1975-2015</unitdate>
+        </did>
+        <accessrestrict id="aspace_dc830afe9fa3041d1cb5ad7c4adebb9c">
+          <head>Conditions Governing Access</head>
+          <p>Donor permission is required for access. Please contact the Fales Library &amp; Special Collections, fales.library@nyu.edu, (212) 998-2596.</p>
+        </accessrestrict>
+        <arrangement id="aspace_caf542a2e6efbaf32ba559eb307fb4a7">
+          <head>Arrangement</head>
+          <p>This series is arranged in chronological order.</p>
+        </arrangement>
+        <scopecontent id="aspace_b7b8be045d2174bf8c8b44cc446aec90">
+          <head>Scope and Contents</head>
+          <p>This series contains over 80 diaries documenting Kraus's life from 1975 through 2015.  This series consists mainly of paper diaries in bound volumes, with some loose paper entries, born-digital entries, and video recordings.  The diaries include her feelings about her personal and professional lives and early notes and drafts of her work.  Included in this series are some of Kraus's diaries created during the project between Kraus and Lotringer that led to the publication of <emph render="italic">I Love Dick</emph>; diaries kept during her work on other publications, including <emph render="italic">Torpor</emph>; and diaries kept during the production of her film <emph render="italic">Gravity and Grace</emph>.  Some diaries contain a few entries and some are completely filled with entries.  Kraus identified some diaries by date spans, some by location, and others by project title.</p>
+        </scopecontent>
+        <c id="aspace_3b4e8d0d855c2e132d66a595cb05507b" level="file">
+          <did>
+            <unittitle>Diaries -- 1970s</unittitle>
+            <unitdate datechar="creation" normal="1975/1979" type="inclusive">1975-1979</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c42e0a46a92a8db7587d655048ed770d" label="Mixed Materials [31142062995413]" type="Box">1</container>
+            <container id="aspace_c533bec1f120d2b9e808da2c59bff3fe" parent="aspace_c42e0a46a92a8db7587d655048ed770d" type="Folder">1-9</container>
+            <container altrender="Manuscript box - Legal" id="aspace_4e61f5c300e36defc16dfab4b40efaae" label="Mixed Materials [31142062995660]" type="Box">26</container>
+            <container id="aspace_6dc9e6b6382d5b22f1b331bca0742e3b" parent="aspace_4e61f5c300e36defc16dfab4b40efaae" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_901efa460eabb7567b9b6b3f4c4b351f" level="file">
+          <did>
+            <unittitle>Diaries -- 1980s</unittitle>
+            <unitdate datechar="creation" normal="1981/1989" type="inclusive">1981-1989</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_73012c184c26c9cd67ac287cfac83ea9" label="Mixed Materials [31142062995421]" type="Box">2</container>
+            <container id="aspace_9e627652a745dc7a59061fb851a00187" parent="aspace_73012c184c26c9cd67ac287cfac83ea9" type="Folder">1-11</container>
+            <container altrender="Manuscript box - Legal" id="aspace_de3c38994b9ed337bac2ff694c556cbe" label="Mixed Materials [31142062995660]" type="Box">26</container>
+            <container id="aspace_04bb127d1ff4a666af4a4d194c6429fe" parent="aspace_de3c38994b9ed337bac2ff694c556cbe" type="Folder">1-4</container>
+          </did>
+        </c>
+        <c id="aspace_328801fb7f5077c2429fd4966a1a3567" level="file">
+          <did>
+            <unittitle>Diaries -- 1990s</unittitle>
+            <unitdate datechar="creation" normal="1990/2015" type="inclusive">1990-1999</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_de608dd57ec1dd65586a5da7c107801a" label="Mixed Materials [31142062995439]" type="Box">3</container>
+            <container id="aspace_52262ebfb7efd14c45b836909144bb0e" parent="aspace_de608dd57ec1dd65586a5da7c107801a" type="Folder">1-11</container>
+            <container altrender="Manuscript box - Legal" id="aspace_750d9e4bf7103ee31390e64221d82d43" label="Mixed Materials [31142062995447]" type="Box">4</container>
+            <container id="aspace_5a6411263c36306cd41de7a32826dff8" parent="aspace_750d9e4bf7103ee31390e64221d82d43" type="Folder">1-8</container>
+            <container altrender="Manuscript box - Legal" id="aspace_79a865ac6bd479c6fcc2a810f21051cb" label="Mixed Materials [31142062995454]" type="Box">5</container>
+            <container id="aspace_4743c26681a2be449d4919a661cba449" parent="aspace_79a865ac6bd479c6fcc2a810f21051cb" type="Folder">1-9</container>
+            <container altrender="Manuscript box - Legal" id="aspace_a6e74804e2e7deb5f44253934e8ca3a9" label="Mixed Materials [31142062995462]" type="Box">6</container>
+            <container id="aspace_b1b43b0e69b7cc7faf6cc9e90be35714" parent="aspace_a6e74804e2e7deb5f44253934e8ca3a9" type="Folder">1-3</container>
+            <container id="aspace_d6c3e5aa95169641543f61f2812bed1f" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_4c925f2af793996d3b46ea6d0e5c6b4d" parent="aspace_d6c3e5aa95169641543f61f2812bed1f" type="E-records">FA_MSS_442_ER_23</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Diaries -- 1990s" xlink:type="simple">
+              <daodesc>
+                <p>Diaries -- 1990s: 1992-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_1d8784674edeef04830a88fcd2a7cdba" level="file">
+          <did>
+            <unittitle>Diaries -- 2000s</unittitle>
+            <unitdate datechar="creation" normal="2000/2015" type="inclusive">2000-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_657498bae99862594c2ea12d072d78d1" label="Mixed Materials [31142062995462]" type="Box">6</container>
+            <container id="aspace_95efc28720112145de709dd690685fa3" parent="aspace_657498bae99862594c2ea12d072d78d1" type="Folder">4-6</container>
+            <container altrender="Manuscript box - Legal" id="aspace_56e59d8dd72c658a62b0a95a17758460" label="Mixed Materials [31142062995470]" type="Box">7</container>
+            <container id="aspace_263be7f6355cdfc1336ffda5e97dd393" parent="aspace_56e59d8dd72c658a62b0a95a17758460" type="Folder">1-6</container>
+            <container altrender="Manuscript box - Legal" id="aspace_4cebe6310550f5a4804f32bc58a2cc84" label="Mixed Materials [31142062995488]" type="Box">8</container>
+            <container id="aspace_becb99c03ea8ead359da28722c82325d" parent="aspace_4cebe6310550f5a4804f32bc58a2cc84" type="Folder">1-6</container>
+            <container altrender="Manuscript box - Legal" id="aspace_f16cd702189f55b863b56702f5d8e012" label="Mixed Materials [31142062995496]" type="Box">9</container>
+            <container id="aspace_64db81f781e97bd6b6e72d22653cb18c" parent="aspace_f16cd702189f55b863b56702f5d8e012" type="Folder">1-6</container>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_ff77d9012fd9435f9df6768d04e5c283" label="Mixed Materials [31142062995504]" type="Box">10</container>
+            <container id="aspace_69e4eb0532395e9e8ec028e2a593fe96" parent="aspace_ff77d9012fd9435f9df6768d04e5c283" type="Folder">1-5</container>
+            <container altrender="Manuscript box - Legal" id="aspace_0c7b838d64a7bb2e2ebcf5b785036eb2" label="Mixed Materials [31142062995512]" type="Box">11</container>
+            <container id="aspace_2851dff206aff306c3f2e745bc68012b" parent="aspace_0c7b838d64a7bb2e2ebcf5b785036eb2" type="Folder">1-7</container>
+            <container altrender="Manuscript box - Legal" id="aspace_761b93434547ae254c2e8f2486f7b427" label="Mixed Materials [31142062995520]" type="Box">12</container>
+            <container id="aspace_48f79b4f962cd41385fa8ac78d51eede" parent="aspace_761b93434547ae254c2e8f2486f7b427" type="Folder">1-9</container>
+            <container id="aspace_31a4d20d49483ebc90ce363aa226c0cd" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_c20d78671a5805545294bae5448750ac" parent="aspace_31a4d20d49483ebc90ce363aa226c0cd" type="E-records">FA_MSS_442_ER_24</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Diaries -- 2000s" xlink:type="simple">
+              <daodesc>
+                <p>Diaries -- 2000s: 2000-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_fea666467ffcbfada1d0c292bd53439b" level="file">
+          <did>
+            <unittitle>Diaries -- Video</unittitle>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">2 videocassettes (vhs)</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1990/1999" type="inclusive">Undated</unitdate>
+            <container altrender="Record carton" id="aspace_46aa7567deef2017616a6b47de00c3ed" label="videos [31142063003308]" type="Box">60</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_8ad3f850000110f6a224870d8b267a0b" level="series">
+        <did>
+          <unittitle>Series IV. Correspondence</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+            <extent altrender="carrier">in 4 manuscript boxes and 1 half manuscript box</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">273.5 Megabytes</extent>
+            <extent altrender="carrier">in 34 computer files</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">5.3 Gigabytes</extent>
+            <extent altrender="carrier">in 23 email archives</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1976/2015" type="inclusive">1976-2015</unitdate>
+        </did>
+        <accessrestrict id="aspace_ef22b4471f6d3f910ebd06b16c564748">
+          <head>Conditions Governing Access</head>
+          <p>Donor permission is required for access to correspondence in box 91 and to all email files. Please contact the Fales Library &amp; Special Collections, fales.library@nyu.edu, (212) 998-2596.</p>
+        </accessrestrict>
+        <arrangement id="aspace_d42f234cde0bfa8d7b8e2d2460291b61">
+          <head>Arrangement</head>
+          <p>Paper material in this series was brought together physically, but has not been further arranged by an archivist.  Email files in this series have not been arranged by an archivist and are in the order in which they were received from the donor.</p>
+        </arrangement>
+        <scopecontent id="aspace_eb3710fd16cf3e469960d8b88bac59fa">
+          <head>Scope and Contents</head>
+          <p>This series consists of general correspondence between Kraus and friends, collaborators, and acquaintances, spanning from 1975 to 2015.  These include paper and email correspondence, as well as word processing drafts of letters.  Topics include daily life, as well as current and proposed projects.  Correspondents include Hedi El Kholti, Justin Cavin, Tamar Brott, David Farrar, Ruth Novaczek, Moyra Davey, Jim Fletcher, Bernadette Van Huy and John Kelsey (Bernadette Corporation), Bob Glück, Gary Indiana, Sylvère Lotringer, Eileen Myles, Lynne Tillman, Penny Arcade, and Sheila Heti.</p>
+        </scopecontent>
+        <c id="aspace_939dc1df36f4fc0f2e156b2dd47115f3" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1976/2015" type="inclusive">1976-2015</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a0c7ffaeb11d9032ce05d345cad26e8d" label="Mixed Materials [31142063003472]" type="Box">79</container>
+            <container id="aspace_18f75628977cf2244b089b680ad32bec" parent="aspace_a0c7ffaeb11d9032ce05d345cad26e8d" type="Folder">8-15</container>
+            <container altrender="Manuscript box - Legal" id="aspace_f01f08468f5f30086baa5ef7ca22454f" label="Mixed Materials [31142063003522]" type="Box">84</container>
+            <container id="aspace_652b29898fee13357fd0000bfe388ca3" parent="aspace_f01f08468f5f30086baa5ef7ca22454f" type="Folder">9-16</container>
+            <container altrender="Manuscript box - Legal" id="aspace_ab0f6fe23517725d8837ac8cc861c108" label="Mixed Materials [31142063003555]" type="Box">87</container>
+            <container id="aspace_9bd5a58dba0c176ed007e68676d891f6" parent="aspace_ab0f6fe23517725d8837ac8cc861c108" type="Folder">1-16</container>
+            <container altrender="Manuscript box - Legal" id="aspace_8067ac586ab714d71223d9e3ece7fdc4" label="Mixed Materials [31142063003571]" type="Box">89</container>
+            <container id="aspace_bd65a63118e351c1c43f6aed41b97682" parent="aspace_8067ac586ab714d71223d9e3ece7fdc4" type="Folder">1-9</container>
+            <container id="aspace_11a22155ca37756827d08ef475df957b" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_c1091795890c3ba10acc561809f26600" parent="aspace_11a22155ca37756827d08ef475df957b" type="E-records">FA_MSS_442_ER_25</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Correspondence" xlink:type="simple">
+              <daodesc>
+                <p>Correspondence: 1991-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+        </c>
+        <c id="aspace_301e6d9a0bcb5319e8b58def9741956e" level="file">
+          <did>
+            <unittitle>Email Files</unittitle>
+            <unitdate datechar="creation" normal="2004/2015" type="inclusive">2004-2015</unitdate>
+            <container id="aspace_5629d9c44d26bd3205192fb07dfcec05" label="electronic records" type="Box">Electronic Records</container>
+            <container id="aspace_f1391b697eb70122aecd4b07da1e7df8" parent="aspace_5629d9c44d26bd3205192fb07dfcec05" type="E-records">FA_MSS_442_ER_27</container>
+            <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/fales/mss_442.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Email Files" xlink:type="simple">
+              <daodesc>
+                <p>Email Files: 2004-2015</p>
+              </daodesc>
+            </dao>
+          </did>
+          <accessrestrict id="aspace_2cb58cb783d2646103e29cb98dc25c57">
+            <head>Conditions Governing Access</head>
+            <p>Donor permission required for access.  Please contact the Fales Library &amp; Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+          </accessrestrict>
+        </c>
+        <c id="aspace_c632dcb7d4f911d0a88e03f7a8a2c994" level="file">
+          <did>
+            <unittitle>Restricted Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1985/2003" type="inclusive">1985-2003</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_13c8c0cb1606ee042332f13c03fb5bb1" label="Mixed Materials [31142063003597]" type="Box">91</container>
+            <container id="aspace_e183df48ab382c5b7354c130ab22be0a" parent="aspace_13c8c0cb1606ee042332f13c03fb5bb1" type="Folder">1-2</container>
+          </did>
+          <accessrestrict id="aspace_47c0ce2f7645564a62a8df0fe4962b0e">
+            <head>Conditions Governing Access</head>
+            <p>Donor permission is required for access. Please contact the Fales Library &amp; Special Collections, fales.library@nyu.edu, (212) 998-2596.</p>
+          </accessrestrict>
+        </c>
+      </c>
+      <c id="aspace_c8405386a2c2c58ef8b9924f5705a252" level="series">
+        <did>
+          <unittitle>Series V. The Chance Event</unittitle>
+          <physdesc altrender="whole">
+            <extent altrender="materialtype spaceoccupied">1.7 Linear Feet</extent>
+            <extent altrender="carrier">in 1 manuscript box, 1 half manuscript box, and 2 flat boxes</extent>
+          </physdesc>
+          <physdesc altrender="part">
+            <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
+            <extent altrender="carrier">in 1 micro-cassette</extent>
+          </physdesc>
+          <unitdate datechar="creation" normal="1993/2015" type="inclusive">1993-2015</unitdate>
+        </did>
+        <arrangement id="aspace_21ca1d5cd455df75fde868477d9fa5bc">
+          <head>Arrangement</head>
+          <p>Material in this series was brought together physically and rehoused, but has not been further arranged by an archivist.</p>
+        </arrangement>
+        <bioghist id="aspace_6767a5dc3abb92a1c52be8b1a87de0b1">
+          <head>Historical Note</head>
+          <p>The Chance Event was a festival curated by Kraus and held in Nevada in 1996.  The focus of the event focused on the idea of chance and included discussions and performances with visual artists, musicians, and others, including Jean Baudrillard, Rosanne Allucquère Stone, DJ Spooky, and Diane DiPrima.</p>
+        </bioghist>
+        <scopecontent id="aspace_5bce9a772844149d111da4fe944089fc">
+          <head>Scope and Contents</head>
+          <p>This series contains paper material and an audio recording documenting The Chance Event, particularly the planning of the event by Kraus in 1996.  The series includes a catalog of sessions at the event, drafts of material used in the event, photographs of the event, and a mini audio cassette from Kraus' answering machine with messages from event participants.</p>
+        </scopecontent>
+        <c id="aspace_b518b2be258adafb0d620b318c4e0071" level="file">
+          <did>
+            <unittitle>The Chance Event</unittitle>
+            <physdesc altrender="part">
+              <extent altrender="materialtype spaceoccupied">1 audiocassette</extent>
+              <extent altrender="carrier">in 1 micro-cassette</extent>
+            </physdesc>
+            <unitdate datechar="creation" normal="1993/2015" type="inclusive">1993-2015</unitdate>
+            <container altrender="Hollinger Cassette Box 9.5" id="aspace_f3703555f416bc59c1c24fa8fa3c4b3a" label="Audio [31142063003548]" type="Box">86</container>
+            <container altrender="Manuscript box - Legal" id="aspace_31af23b4ea220d0e11a23ef2e4370ad7" label="Mixed Materials [31142063003571]" type="Box">89</container>
+            <container id="aspace_81fb1173ecf7d8a574847f07e2294961" parent="aspace_31af23b4ea220d0e11a23ef2e4370ad7" type="Folder">10-14</container>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_a40e702a1bfe4fd0786c2542057ab8b1" label="Mixed Materials [31142063003589]" type="Box">90</container>
+            <container id="aspace_73b67327b19bf34ae509b8c49cc4890b" parent="aspace_a40e702a1bfe4fd0786c2542057ab8b1" type="Folder">1-5</container>
+            <container altrender="OS Flat Box - 20.25 x 24.5" id="aspace_24bfeb1b0b075d5d5b7df72b7089026f" label="Mixed Materials [31142062673416]" type="Box">Shared Fales 020</container>
+            <container id="aspace_9e5a1eeee8cd11c5d1acfc3b015d715c" parent="aspace_24bfeb1b0b075d5d5b7df72b7089026f" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_043">tam_043</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Congress of American Professors Records <num>TAM.043</num></titleproper>
+        <author>Tamiment staff, 2008</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from congress american professors.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 04:00:42 -0400</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Congress of American Professors Records</unittitle>
+      <origination label="Creator">
+        <corpname rules="dacs" source="local">Congress of American Professors</corpname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Fields, George</persname>
+      </origination>
+      <unitid>TAM.043</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+        <extent altrender="carrier">(1 box)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1967/1967">1967</unitdate>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <acqinfo id="aspace_2c79102c5312a44e72c60e1b222d6c2d">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by George Fields in 1970. The accession number associated with this gift is 1970.004.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_5b41a31d7c734203aec1df4fe9f08099">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_55b054652305ded2f2e25ba9a4297b00">
+      <head>Historical/Biographical Note</head>
+      <p>The Congress of American Professors, a New Left group, was organized in 1967 to consider policy and action alternatives in key areas of vital national concern. The center of activity was Columbia University, where Professor Seymour Melman played a prominent role.</p>
+    </bioghist>
+    <scopecontent id="aspace_f03b4ad73fe6a328578e33fdc4016e06">
+      <head>Scope and Content Note</head>
+      <p>The records contain correspondence, calls for a conference scheduled for December 1967, statements of purpose, minutes, lists of supporters and material from conferences and meetings, including a preparatory meeting at Columbia University's Mudd Hall, in March 1967.</p>
+    </scopecontent>
+    <arrangement id="aspace_7d99a2318dd5958a97bb1c32bd459497">
+      <head>Arrangement</head>
+      <p>The folders are arranged alphabetically.</p>
+      <p>The files are grouped into one series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>I, Records, 1967</item>
+      </list>
+    </arrangement>
+    <userestrict id="aspace_ac2ea1269a0f03b47f2e25b4c547afd4">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by the Congress of American Professors, was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <prefercite id="aspace_f0775d64f5534091079788b209e4ebfa">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Congress of American Professors Records; TAM 043; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="lcsh">College teachers -- Political activity -- United States.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <subject source="lcsh">New Left -- United States.</subject>
+      <corpname rules="dacs" source="local">Congress of American Professors</corpname>
+      <persname source="naf">Melman, Seymour</persname>
+      <persname role="dnr" rules="dacs" source="local">Fields, George</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13" level="series">
+        <did>
+          <unittitle>Series I: Records, 1967.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Address Lists: New York and Planning Committees</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f9e7763f15a528f26a27dc5764509b55" label="Mixed Materials [31142062774156]" type="Box">1</container>
+            <container id="aspace_ea0c73c71b677eae50a95df7a2447cdf" parent="aspace_f9e7763f15a528f26a27dc5764509b55" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Call (May) Drafts</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cec45e8810f3e5ea7dcf8d06f033337b" label="Mixed Materials [31142062774156]" type="Box">1</container>
+            <container id="aspace_3a55539901bd13ce00b40599279397b7" parent="aspace_cec45e8810f3e5ea7dcf8d06f033337b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Call (May) Replies</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c2136f1e456663dfa9e93a851f635460" label="Mixed Materials [31142062774156]" type="Box">1</container>
+            <container id="aspace_7b7082adec72dd244b5e0150d89645cc" parent="aspace_c2136f1e456663dfa9e93a851f635460" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Call (August) Mailing</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a5f00d32afcf9f25cdac68d1dd936888" label="Mixed Materials [31142062774156]" type="Box">1</container>
+            <container id="aspace_71f6695c83a9b580ed1e6b00a9e58e3a" parent="aspace_a5f00d32afcf9f25cdac68d1dd936888" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Columbia University: Mudd Hall Conference (March)</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e6cc2816bf62c999a9454a7823f17f7d" label="Mixed Materials [31142062774156]" type="Box">1</container>
+            <container id="aspace_2ca1324b530be0862447a9d2e494a1d5" parent="aspace_e6cc2816bf62c999a9454a7823f17f7d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Correspondence: General</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_394c7d450047f8def1a9ff4c4fcae037" label="Mixed Materials [31142062774156]" type="Box">1</container>
+            <container id="aspace_69b549cec984138c7a70121d51ada47a" parent="aspace_394c7d450047f8def1a9ff4c4fcae037" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Correspondence: "Nita" (Seymour Melman's Secretary)</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_19aa9bcd036d9bb774bc303e6c4c0562" label="Mixed Materials [31142062774156]" type="Box">1</container>
+            <container id="aspace_d94d931852af60d124a3db8ead1ab713" parent="aspace_19aa9bcd036d9bb774bc303e6c4c0562" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Contacts outside New York</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a4941aaa36b3700df4f76c21eade862f" label="Mixed Materials [31142062774156]" type="Box">1</container>
+            <container id="aspace_0fe1d58f168692b6141cb1881a7ed963" parent="aspace_a4941aaa36b3700df4f76c21eade862f" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Letters to Call Signers (September)</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5efdee0934b7601aa53128a0f498a8a8" label="Mixed Materials [31142062774156]" type="Box">1</container>
+            <container id="aspace_f0f152f55da48e9a7e97e158916a77c2" parent="aspace_5efdee0934b7601aa53128a0f498a8a8" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>New York Committee (September)</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ed6e6840c989750a9a5885a11581094f" label="Mixed Materials [31142062774156]" type="Box">1</container>
+            <container id="aspace_fde330b53abcde3e8145616adab487be" parent="aspace_ed6e6840c989750a9a5885a11581094f" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>New York Group Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8ecc4e9f46274fbbdba269e7458c9d7c" label="Mixed Materials [31142062774156]" type="Box">1</container>
+            <container id="aspace_36aea5e74a677a131cca978b901fae89" parent="aspace_8ecc4e9f46274fbbdba269e7458c9d7c" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>New York Group Meetings</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ec27271828f979fb0c514be2a29b89e0" label="Mixed Materials [31142062774156]" type="Box">1</container>
+            <container id="aspace_2f1720741cf69ba4b1204d1897904670" parent="aspace_ec27271828f979fb0c514be2a29b89e0" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Newsletter (plans before first issue)</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7608288dd78eaad34623804105b4bbd0" label="Mixed Materials [31142062774156]" type="Box">1</container>
+            <container id="aspace_a4bc905ea4443a4244e2ab2fed8ba902" parent="aspace_7608288dd78eaad34623804105b4bbd0" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Other Organizations, Information on</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_db90597f4a58dca5d1fc722b4cfd5af0" label="Mixed Materials [31142062774156]" type="Box">1</container>
+            <container id="aspace_0f14c035d07ec06c115675fb503182d3" parent="aspace_db90597f4a58dca5d1fc722b4cfd5af0" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Outside Appeals</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_758cd4ecbfd54fa074eb1441f07be4ae" label="Mixed Materials [31142062774156]" type="Box">1</container>
+            <container id="aspace_5b1711f303c48374a596edb7a2e52d41" parent="aspace_758cd4ecbfd54fa074eb1441f07be4ae" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Plans for December Conference</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3f484be7c5c4007d215c35c30c70c601" label="Mixed Materials [31142062774156]" type="Box">1</container>
+            <container id="aspace_757fbdc393d4cfb91d3f78f1e4ecedbb" parent="aspace_3f484be7c5c4007d215c35c30c70c601" type="Folder">16</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

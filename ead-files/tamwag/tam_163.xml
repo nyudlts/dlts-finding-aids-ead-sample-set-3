@@ -1,0 +1,2132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_163">tam_163</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Agnese Nelms Haury Papers <num>TAM.163</num></titleproper>
+        <author>Evan Daniel</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from haury.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 04:29:29 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>November 2017</date>
+        <item>Edited by Heather Mulliner to reflect the incorporation of 2017 accretion</item>
+      </change>
+      <change>
+        <date>November 2018</date>
+        <item>Updated by Samantha Rowe to include materials from accession number 2018.133.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Agnese Nelms Haury Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Haury, A. N. (Agnese Nelms)</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" source="naf">Lyons, Patrick D., 1969-</persname>
+      </origination>
+      <unitid>TAM.163</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">8 Linear Feet</extent>
+        <extent altrender="carrier">in 7 record cartons and 2 manuscript boxes</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">9 videocassettes (vhs)</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">1 videocassettes (betamax)</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">2 audiocassettes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1925/2012" type="inclusive">1925-2012</unitdate>
+      <abstract id="aspace_3dd834b9d33aaddd2a635a309997fa6c">Agnese Nelms Haury (1923- ) a researcher, editor, author and philanthropist, has worked in and supported the work of others in a wide range of fields, including archaeology, anthropology, international affairs, Latin American studies, human rights, and the arts. She met Alger Hiss in the 1940s when he was president of the Carnegie Endowment for International Peace and she was working in the Endowment's Publications Department. They became close associates and, from the time of Hiss's trials of the late 1940s and early 50s, she worked strenuously in the cause of his defense. The Haury Papers contain correspondence and subject files relating to the Agnese N. Lindley Foundation, the Community Foundation of Southern Arizona, The Nation Institute, and to research conducted by Tony Hiss, Bruce Craig, Jeff Kisseloff, John Lowenthal, and William A. Reuben on the Hiss defense and Hiss related research. The collection also documents the establishment of the Alger Hiss Archive, Alger Hiss Fellowship, and "The Alger Hiss Story" website. The collection also features audio visual sound and video recordings of interviews, television programs, and more pertaining to the Alger Hiss trial and Whittaker Chambers.</abstract>
+      <physloc id="aspace_314bdaff2803a136f527c1918ed24e3a">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_71920366bf0624a5d96340cd88335fc2">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_7579bb2a64e828e58668cbb1e5138d3e">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_f8ff8e18690cb3b5edc1adf910e06bed">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Agnese Nelms Haury in 2005. Haury donated a portion of her papers to the University of Arizona. In 2017 and 2018, the University of Arizona sent a donation of Haury's papers on Alger Hiss research to NYU; the accession numbers associated with these gifts are 2005.002, 2017.060 and 2018.133.</p>
+    </acqinfo>
+    <arrangement id="aspace_64117effbd8f700b4d1b3ddc2845ad5b">
+      <head>Arrangement</head>
+      <p>Folders arranged alphabetically by topic in both series.</p>
+      <p>The files are grouped into two series:</p>
+      <p>I. Alger Hiss Materials, 1948-2004</p>
+      <p>II. Subject Files, 1925-2004</p>
+    </arrangement>
+    <bioghist id="aspace_25b0296bac179d193a535d51b29f119f">
+      <head>Biographical Note</head>
+      <p>Agnese Haury (née Nelms) was born in Houston, Texas, in 1923. Educated in Fontainbleau, France; Houston, Texas; and Greenwich, Connecticut, she graduated from Bryn Mawr College in 1946 with a degree in history. She soon went to work in the Publications Department of the Carnegie Endowment for International Peace. While there she worked closely with Alger Hiss, who became president of the Endowment in 1947. At the Endowment she wrote and edited numerous reports and articles. She became assistant editor of International Conciliation (Carnegie Endowment) and associate editor of Intercom (Foreign Policy Association). From 1954 to 1959 she traveled to Bolivia, Peru, Ecuador, Libya, and Burma on special assignment for the Carnegie Endowment, making three surveys of technical assistance of the United Nations and its Specialized Agencies and of bilateral national programs. She was the author of Indians of the Andes (1956); Libya, Building a Desert Economy (1957); and The Burma Road to Pyidawtha (1958), all published by the Endowment.</p>
+      <p>Agnese Nelms married Manice deForest Lockwood 3rd in 1950. The two remained married until 1976. She was married to Denver Lindley from 1978 to 1982, and to Emil W. Haury from 1990 to 1992. After her years at the Carnegie Endowment, she held a variety of positions, including editor of several United Nations publications, editor of Anthropological Papers of the University of Arizona, and work on the Snaketown Archaeological Project.</p>
+      <p>The Agnese N. Lindley Foundation was established in the late 1970s to support projects in the fields of education, scientific advancement, the arts, human and civil rights, and the environment, as well as professional training related to these fields. She asked Alger Hiss to join the Board of Trustees of the Lindley Foundation when it was founded, and the two consulted closely on Foundation affairs for a number of years. She was a benefactor of the University of Arizona, where she established the Emil Haury Graduate Fellowship program in the Department of Anthropology, the Agnese Haury Institute for Court Interpretation, the A. N. Haury Fund for dendochronological studies, and the Haury Ceramic Heritage Fund at the Arizona State Museum. The University awarded her an honorary doctorate in 1999.</p>
+      <p>From the moment that Whittaker Chambers' accusations against Alger Hiss were first made public, Agnese Nelms became a researcher for and staunch supporter of Hiss's defense team. Her efforts on Hiss's behalf continued over the next half-century and more, and included the establishment in 1981 of the Alger Hiss Distinguished Professorship at Bard College, and assistance to the National Emergency Civil Liberties Committee, The Nation Institute, and the National Security Archive.</p>
+    </bioghist>
+    <otherfindaid id="aspace_8415f0a1254be503037bda84155b68fe">
+      <head>Other Finding Aids</head>
+      <p>The microfilmed portion of this collection (Series I, Boxes 1 and 2) and the microfilmed portions of several other collections related to Alger Hiss at this repository form the microfilm edition of the Papers of Alger Hiss (comprised of Film R-7771B, R-7771C, R-7771D, and R-7771E). A published guide to the Papers of Alger Hiss microfilm edition is available at this repository (call number REF E743.5.H55 P38 2006).</p>
+    </otherfindaid>
+    <prefercite id="aspace_f73e40dff2f86deae74951b50726cd93">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Agnese Nelms Haury Papers; TAM 163; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_1330e9d2ec4433d048e5d7c37728f8f6">
+      <head>Processing Information</head>
+      <p>Processing decisions made prior to 2017 have not been recorded. In 2017 four boxes of files related to Haury's support of Alger Hiss research were added to Series I: Alger Hiss Materials. At the time of accessioning these materials were added to the file list in Series I in rough groupings by topic. They have not been arranged by the archivist and are in the order in which they were received by the donor.</p>
+      <p>In 2018, materials were placed in acid-free folders and boxes. At the time of accessioning, these materials were added to the file list in Series I. They have not been arranged by the archivist and are in the order in which they were received by the donor.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_65cb78b3795d3663d28d404e12a33914">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>Related materials providing biographical information on Alger Hiss and information on the Hiss case can be found in the following collections in this repository (researchers must use microfilm where indicated):  </p>
+      <p>John Lowenthal Papers (TAM 190) (Series 1, Boxes 1-5 on microfilm, Film R-7771C)</p>
+      <p>Alger Hiss Family Papers (TAM 314) (on microfilm, Film R-7771B: Series 1, Boxes 1-3; Series 2, Boxes 4-5; and Series 3, Box 6)</p>
+      <p>William A. Reuben Papers (TAM 289) (Series 1, Box 1 on microfilm, Film R-7771E)</p>
+      <p>A published guide to the microfilmed portions of these collections is available at this repository (call number REF E743.5.H55 P38 2006).</p>
+      <p>The Alger Hiss Defense Collection housed at the Harvard Law School Library, Harvard University consists of 115 boxes of materials amassed by Hiss's lawyers and additional materials related to Hiss's defense donated by Hiss researchers and supporters. The first three series of the Alger Hiss Defense Collection (Hiss Defense Files Series I, Hiss Defense Files Series II, and Hiss-Chambers Subject Files) are available at this repository on microfilm (Film R-7771A) and have an associated published guide (call number REF E743.5.H55 P37 2006). Materials excluded from the microfilm are available to researchers who use the collection on site at the Harvard Law School Library at Harvard University.</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_55713d8564860abfa1b48772ce2aadda">
+      <head>Scope and Contents</head>
+      <p>The Agnese Nelms Haury Papers include research materials into the Alger Hiss perjury trials and charitable foundations supported by Agnese Haury. Haury's files on Alger Hiss include personal correspondence with Hiss and his family, biographical information, and materials pertaining to the allegations against Hiss and the Hiss perjury trials. Materials related to the trials include Haury's handwritten notes, files on Bruce Craig's HUAC research, the Defense Fund for Alger Hiss, the "Pumpkin Papers," the Venona Papers and General Dmitri Volkogonov, the Woodstock typewriter, and the unsealing of 1948-49 Federal Grand Jury records. Among the correspondents represented are Alger and Tony Hiss, John Lowenthal, William A. Reuben, Allen Weinstein, and Bruce Craig. Files from Haury's charitable work include correspondence, notes, clippings, and background material related to the Agnese N. Lindley Foundation, the Community Foundation of Southern Arizona, The Nation Institute, the Alger Hiss archival collection at New York University, the Alger Hiss Fellowship, and "The Alger Hiss Story: Search for the Truth" website. The collection also contains clippings and research materials regarding President Richard Nixon, Sam Tanenhaus, Allen Weinstein, the Venona Cables, and issues concerning access to government documents.</p>
+      <p>Materials added to the collection in 2017 include additional Hiss research files and charitable donations in Hiss's name. They largely pertain to Haury's support of the Nation Institute's Alger Hiss Project, the Alger Hiss Endowed Chair at Bard College, and New York University's Center for the Cold War. These materials largely consist of organizing files related to these projects, but also include personal correspondence between Haury and Tony Hiss and John Lowenthal, both of whom were heavily involved in Hiss related research projects. Also included in these materials are copies of Hiss's petition for reinstatement to the Massachusetts Bar in 1975. In 2018, sound and video recordings were added to the collection, which consist of interviews, television programs, and more pertaining to the Alger Hiss trial and Whittaker Chambers. </p>
+    </scopecontent>
+    <phystech id="aspace_05ec3a45a98c08c05f5b149bb6c2263d">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Series I, Boxes 1 and 2 of the collection are available on microfilm (Film R-7771D) for use in this repository only. Researchers must use microfilm for this portion of the collection.</p>
+    </phystech>
+    <userestrict id="aspace_111aa847d4f56e1f8568f37ce532a8c4">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by Agnese Nelms Haury, the creator of this collection, were transferred to New York University in 2003. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library and Robert F. Wagner Labor Archive. Please contact tamiment.wagner@nyu.edu.</p>
+    </userestrict>
+    <phystech id="aspace_d1156d9506fc04568b9e21e1747acfc8">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact tamiment.wagner@nyu.edu with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <custodhist id="aspace_867008051e578e24294e956c5a6101ac">
+      <head>Custodial History</head>
+      <p>The Agnese Nelms Haury Papers was donated to the Tamiment Library/Robert F. Wagner Labor Archives by Agnese Nelms Haury in 2005. Haury donated a portion of her papers to the University of Arizona. 
+In 2017, the University of Arizona sent a donation of Haury's papers on Alger Hiss research to NYU. 
+In July 2018, the Arizona State Museum, University of Arizona sent a donation of 12 audio visual recordings relating to Alger Hiss and Whittaker Chambers. The accession number associated with these gifts are 2005.002, 2017.060, and 2018.133.</p>
+    </custodhist>
+    <controlaccess>
+      <genreform source="aat">Articles.</genreform>
+      <genreform source="aat">Drafts (documents)</genreform>
+      <genreform source="aat">Personal papers.</genreform>
+      <subject source="lcsh">Trials (Perjury) -- United States.</subject>
+      <subject source="lcsh">Trials (Espionage) -- United States.</subject>
+      <subject source="lcsh">Cold War.</subject>
+      <subject source="lcsh">Anti-communist movements -- United States -- 20th century</subject>
+      <genreform source="aat">Interviews.</genreform>
+      <genreform source="aat">Sound recordings.</genreform>
+      <genreform source="aat">Video recordings.</genreform>
+      <persname source="naf">Lockwood, Agnese Nelms</persname>
+      <persname source="naf">Hiss, Alger</persname>
+      <persname source="naf">Navasky, Victor S.</persname>
+      <persname rules="dacs" source="naf">Rabinowitz, Victor</persname>
+      <persname source="naf">Volkogonov, Dmitri Antonovich.</persname>
+      <persname source="naf">Reuben, William A.</persname>
+      <persname rules="dacs" source="local">Smith, John Chabot</persname>
+      <persname rules="aacr" source="naf">Weinstein, Allen</persname>
+      <persname source="naf">Lowenthal, John, 1925-2003</persname>
+      <persname source="local">Hiss, Priscilla Fansler</persname>
+      <corpname rules="aacr" source="naf">Nation Institute (U.S.)</corpname>
+      <persname rules="aacr" source="naf">Kisseloff, Jeff</persname>
+      <persname source="naf">Hiss, Tony</persname>
+      <corpname source="local">Agnese N. Lindley Foundation</corpname>
+      <persname source="naf">Craig, R. Bruce.</persname>
+      <persname role="dnr" source="naf">Lyons, Patrick D., 1969-</persname>
+      <persname source="naf">Chambers, Whittaker</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref14" level="series">
+        <did>
+          <unittitle>Series I: Alger Hiss Materials, 1948-2004</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_fcbf86eadea588bb4d8d9143dfdc5608">
+          <head>Scope and Contents</head>
+          <p>This series contains original Hiss and Hiss family correspondence, biographical information on Alger Hiss and materials pertaining to the Hiss Case, including Haury's handwritten notes and files on Bruce Craig's HUAC research, the Defense Fund for Alger Hiss, the "Pumpkin Papers," the Venona Papers and Gen. Dmitri Volkogonov, the Woodstock typewriter, and the unsealing of 1948-49 Federal Grand Jury records. Among the correspondents represented are Alger and Tony Hiss, John Lowenthal, William A. Reuben, Allen Weinstein, and Bruce Craig. The series also contains materials pertaining to the Agnese M. Lindley Foundation, the Community Foundation of Southern Arizona, the Cold War International History Project, the National Emergency Civil Liberties Foundation, The Nation Institute, the National Security Archive, and the Public Citizen Litigation Group. Note: This series has been microfilmed as part of the Thomson-Gale Publishers collection, "Alger Hiss Papers at the Tamiment Library." Researchers should use the microfilm; consult archives staff for reel numbers.</p>
+        </scopecontent>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Agnese N. Lindley Foundation</unittitle>
+            <unitdate datechar="creation" normal="1981/1988" type="inclusive">1981-1988</unitdate>
+            <container altrender="Record carton" id="aspace_050adb22fa18e2efb6b57c1a6348f863" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_7eae2242934c0126fb6c775cfd3debf2" parent="aspace_050adb22fa18e2efb6b57c1a6348f863" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>The Alger Hiss Story: Search for the Truth: Website</unittitle>
+            <unitdate datechar="creation" normal="1998/2004" type="inclusive">1998-2004</unitdate>
+            <container altrender="Record carton" id="aspace_0a33519b7b0962268df6c87f4352cf77" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_ebda1b8297a26ec3ef4fd9d1eb9ca891" parent="aspace_0a33519b7b0962268df6c87f4352cf77" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Aronson, James: WBAI Broadcast on Hiss</unittitle>
+            <unitdate datechar="creation">Feb 1986</unitdate>
+            <container altrender="Record carton" id="aspace_77a7634619f0c178cf522eeddaed1513" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_c8bc50a7c8c3f9b2040dd48b94b327c4" parent="aspace_77a7634619f0c178cf522eeddaed1513" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_70ce18f477f7e137dc751f20ec5bd9e7" level="file">
+          <did>
+            <unittitle>Bard College: Alger Hiss Endowed Chair</unittitle>
+            <unitdate datechar="creation" normal="1981/2002" type="inclusive">1981-2002</unitdate>
+            <container altrender="Record carton" id="aspace_081a5a4a457eecc576bd6a06509b7d8c" label="Mixed Materials [31142063133717]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Blumenthal, Joe</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container altrender="Record carton" id="aspace_3aa189cc2853dc7443e0011c37ae9666" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_5cd8b837061b27842e56bd9e9971644d" parent="aspace_3aa189cc2853dc7443e0011c37ae9666" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Buttenweiser, Helen: Weinstein Case</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container altrender="Record carton" id="aspace_9cde262473cb4478f52b181e5b91c9f5" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_e97666da7fe8221eb3165aac7a394677" parent="aspace_9cde262473cb4478f52b181e5b91c9f5" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Cantwell, Robert</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container altrender="Record carton" id="aspace_d7386254176c69ade1c38cf9144dd2df" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_3f70f7f5a96de60912fed63971d9cbd4" parent="aspace_d7386254176c69ade1c38cf9144dd2df" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Carnegie Endowment for International Peace: James Shotwell</unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Record carton" id="aspace_355c278eb6209123ee03a6e2a17fca9d" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_c0779136336801cd6384cf859ed022ea" parent="aspace_355c278eb6209123ee03a6e2a17fca9d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Chambers, Whittaker</unittitle>
+            <unitdate datechar="creation" normal="1975/1997" type="inclusive">1975-1976 , 1981 , 1984-1997</unitdate>
+            <container altrender="Record carton" id="aspace_94cbe72a1e991560cc6d308742c190f3" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_1413e8ac90b818a97f431146594c6e5e" parent="aspace_94cbe72a1e991560cc6d308742c190f3" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Chervonnaya, Svetlana: Re: Vitaliy Pavlov</unittitle>
+            <unitdate datechar="creation">Mar 2001-Jun 2002</unitdate>
+            <container altrender="Record carton" id="aspace_389fae5ed95a91dab0bd9cf39117c9c3" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_bc25820480add1a8000bfd2e925017a3" parent="aspace_389fae5ed95a91dab0bd9cf39117c9c3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Chervonnaya, Svetlana: Re: Vitaliy Pavlov</unittitle>
+            <unitdate datechar="creation">Aug 2002-Dec 2002</unitdate>
+            <container altrender="Record carton" id="aspace_83319918b0d1951c2395f04ff94fdd05" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_d59edceae89a272673a4f6b196f15206" parent="aspace_83319918b0d1951c2395f04ff94fdd05" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Chervonnaya, Svetlana: Re: Vitaliy Pavlov</unittitle>
+            <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container altrender="Record carton" id="aspace_07dda4023529f800e82cee4f105e20bb" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_c39bf877c6a4026a7719f447b5cb09a2" parent="aspace_07dda4023529f800e82cee4f105e20bb" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Chronology of FBI Relations with Henry Julian Wadleigh</unittitle>
+            <unitdate datechar="creation">Dec 15, 1976</unitdate>
+            <container altrender="Record carton" id="aspace_ad93a7130e58a0e4f35685a22fe63418" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_4a9b057b39a35f445416d230c72d3b6e" parent="aspace_ad93a7130e58a0e4f35685a22fe63418" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Clippings: Re: Hiss Case</unittitle>
+            <unitdate datechar="creation" normal="1950/1958" type="inclusive">1950 , 1957-1958</unitdate>
+            <container altrender="Record carton" id="aspace_f0b9f091e0399470dc1e322d47aa6b7b" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_e37bd7d5177d6c987c0cebc12025453e" parent="aspace_f0b9f091e0399470dc1e322d47aa6b7b" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Clippings: Re: Hiss Case</unittitle>
+            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+            <container altrender="Record carton" id="aspace_572b0234dc389f1ad616bf9ba269b726" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_e5e06ceb6b14c2bb0c8cf9850cb24757" parent="aspace_572b0234dc389f1ad616bf9ba269b726" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Clippings: Re: Hiss Case</unittitle>
+            <unitdate datechar="creation" normal="1972/1979" type="inclusive">1972-1979</unitdate>
+            <container altrender="Record carton" id="aspace_b588b5ba0bd0d8c2f5f478f9f31af6cb" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_80f95eb5db2d77b0fb3dec99364fd479" parent="aspace_b588b5ba0bd0d8c2f5f478f9f31af6cb" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Clippings: Re: Hiss Case</unittitle>
+            <unitdate datechar="creation" normal="1980/1983" type="inclusive">1980-1983</unitdate>
+            <container altrender="Record carton" id="aspace_b0c943f731c1bfae31834632d3d8f6dd" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_c8768b5dbd2c313ecb935a725c52661d" parent="aspace_b0c943f731c1bfae31834632d3d8f6dd" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Clippings: Re: Hiss Case</unittitle>
+            <unitdate datechar="creation" normal="1984/1995" type="inclusive">1984 , 1986-1995</unitdate>
+            <container altrender="Record carton" id="aspace_8feb6cc1f7b384475af3ff9d96fd2206" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_c93ee18302190fc72fe2854824d956e2" parent="aspace_8feb6cc1f7b384475af3ff9d96fd2206" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Clippings: Re: Hiss Case  </unittitle>
+            <unitdate datechar="creation" normal="1996/1999" type="inclusive">1996-1999</unitdate>
+            <container altrender="Record carton" id="aspace_026cffed5600cdd5d02e2f6fc038eb76" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_0567c7cd190837bb847a3eeaf6ac647d" parent="aspace_026cffed5600cdd5d02e2f6fc038eb76" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Cold War International History Project and National Security Archive: Hiss Project</unittitle>
+            <unitdate datechar="creation" normal="1995/2000" type="inclusive">1995-2000</unitdate>
+            <container altrender="Record carton" id="aspace_4a0b56601c08ee513f93b30e7624e21b" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_96f1a775b4301ef08976a87f8fc30a59" parent="aspace_4a0b56601c08ee513f93b30e7624e21b" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Community Foundation of Southern Arizona: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="2000/2002" type="inclusive">2000 , 2002</unitdate>
+            <container altrender="Record carton" id="aspace_4adbc65b6e3e07e5ec8320b490d04388" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_556ccaeedce25f40cb4c2bb34faa70db" parent="aspace_4adbc65b6e3e07e5ec8320b490d04388" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_7675f079f4a8c1763654110afc1c5607" level="file">
+          <did>
+            <unittitle>Community Foundation of Southern Arizona</unittitle>
+            <unitdate datechar="creation" normal="2001/2001">2001</unitdate>
+            <container altrender="Record carton" id="aspace_982f91737c1dcdb7c630bd9d738e82a3" label="Mixed Materials [31142063133725]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Cook, Fred</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Record carton" id="aspace_063f4bbb7e401bef876db0f8532eedd8" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_d46d1e6a5c325ac77adb9c3639cb00d7" parent="aspace_063f4bbb7e401bef876db0f8532eedd8" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1964/1972" type="inclusive">1964-1972</unitdate>
+            <container altrender="Record carton" id="aspace_b5d38c100b0cf504a2a3e004796ec38a" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_2a2ea12bbda86185ed41d74ab651bb84" parent="aspace_b5d38c100b0cf504a2a3e004796ec38a" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1973/1975" type="inclusive">1973-1975</unitdate>
+            <container altrender="Record carton" id="aspace_388c24951c4cfe7f50695261a1919dbb" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_9b1c35dbe59738aa442c7b5e433d774e" parent="aspace_388c24951c4cfe7f50695261a1919dbb" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Record carton" id="aspace_a35c32f1ef7405f0d0a21e5383a00d2a" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_391174d2cd3476b97eb81ce696459770" parent="aspace_a35c32f1ef7405f0d0a21e5383a00d2a" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1977/1979" type="inclusive">1977-1979</unitdate>
+            <container altrender="Record carton" id="aspace_677103987054301d2f991005b02ab8fd" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_d68765ccabe426ab8f04210e3d42e265" parent="aspace_677103987054301d2f991005b02ab8fd" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1980/1983" type="inclusive">1980-1983</unitdate>
+            <container altrender="Record carton" id="aspace_567bcc7f00850e861414cfc01d00e3e5" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_358d7f89f69adf984324c90b7ca4c7f6" parent="aspace_567bcc7f00850e861414cfc01d00e3e5" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1984/1989" type="inclusive">1984-1989</unitdate>
+            <container altrender="Record carton" id="aspace_084176d2b02271cfb4a1794b127bbcce" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_c5ec601eae47382f642b87a7215f781a" parent="aspace_084176d2b02271cfb4a1794b127bbcce" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1990/1999" type="inclusive">1990-1999</unitdate>
+            <container altrender="Record carton" id="aspace_bba0c4e82ed80ef2653039856437a4be" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_e3a34d4756d1d59b317862355a27b875" parent="aspace_bba0c4e82ed80ef2653039856437a4be" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Corry, Katherine</unittitle>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+            <container altrender="Record carton" id="aspace_fade24d4e4c8dded71312b85fb512a59" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_04b756525e531c49a77bda62dfc8f340" parent="aspace_fade24d4e4c8dded71312b85fb512a59" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Cowles, Russell</unittitle>
+            <unitdate datechar="creation">Sep 13, 1956</unitdate>
+            <container altrender="Record carton" id="aspace_ee3ea4769eecde21dfb154adfb582d6f" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_081a5e3b4a565b5a583b8727b7d0c68e" parent="aspace_ee3ea4769eecde21dfb154adfb582d6f" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Craig, Bruce: "Ales"/Pierce Research</unittitle>
+            <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+            <container altrender="Record carton" id="aspace_95a0268584a84df553a57822e8891280" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_50d95cf9725fd58c0644f536c1fb2551" parent="aspace_95a0268584a84df553a57822e8891280" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Craig, Bruce: Baltimore Documents re: Hiss, Microscopy</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container altrender="Record carton" id="aspace_63e28b2cccfe9a6c4f6d842bbebebd19" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_cb5acee564d0a6681c62af94bb527185" parent="aspace_63e28b2cccfe9a6c4f6d842bbebebd19" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Craig, Bruce: Chambers-Trotsky Connection  </unittitle>
+            <unitdate datechar="creation" normal="1998/2000" type="inclusive">1998-2000</unitdate>
+            <container altrender="Record carton" id="aspace_87fb8c801f3cd07f62b4f3139e954d5a" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_fa5a37546543d2d63f877ed3f5b3c5e3" parent="aspace_87fb8c801f3cd07f62b4f3139e954d5a" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Craig, Bruce: Craig v. USA</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container altrender="Record carton" id="aspace_df938c573eeafc3bd4588eafe4c43bdc" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_47654d4dd1ed370a14f0dec6dd6f9640" parent="aspace_df938c573eeafc3bd4588eafe4c43bdc" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Craig, Bruce: HUAC Research re: Hiss</unittitle>
+            <unitdate datechar="creation" normal="1999/2002" type="inclusive">1999-2002</unitdate>
+            <container altrender="Record carton" id="aspace_db9a02d072e4fddffe4e66a35056ec39" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_124ee4352186ef2b9e45796bc622cb43" parent="aspace_db9a02d072e4fddffe4e66a35056ec39" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Cross, Claude: Chief Counsel for Hiss's Second Trial</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container altrender="Record carton" id="aspace_82cbfa8faa25633b49c483a688b3e124" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_e3a19a80fa15159f60838dc69bc95896" parent="aspace_82cbfa8faa25633b49c483a688b3e124" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Day, Anthony: Los Angeles Times, Editor</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Record carton" id="aspace_4c5ffa354dc642dfebffaae56c2244d9" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_9ae410c717bc5bbbe7a22914cfc21386" parent="aspace_4c5ffa354dc642dfebffaae56c2244d9" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Defense Fund for Alger Hiss</unittitle>
+            <unitdate datechar="creation" normal="1925/2004" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_2cff6cf399774136ff1e722f592852db" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_495f18ea8a44620800790ddafc79f9cb" parent="aspace_2cff6cf399774136ff1e722f592852db" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Defense Fund for Alger Hiss: Contributors</unittitle>
+            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
+            <container altrender="Record carton" id="aspace_95be70d462bd456a1ba08f9bd9719f5e" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_cabd11fdeaab6bdffedaa7e4aaccde55" parent="aspace_95be70d462bd456a1ba08f9bd9719f5e" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Defense Fund for Alger Hiss: Contributors</unittitle>
+            <unitdate datechar="creation" normal="1950/1952" type="inclusive">1950 , 1952</unitdate>
+            <container altrender="Record carton" id="aspace_6ae9d71fed2b00efd719a51d2955bcca" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_720e57bfc601f81c28fccc46b24108f2" parent="aspace_6ae9d71fed2b00efd719a51d2955bcca" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Defense Fund for Alger Hiss: Richard Field</unittitle>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+            <container altrender="Record carton" id="aspace_29ec146e2ae76f67f848bb6a66263172" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_78d67ccd2f923b5e9e7359cc98a691c6" parent="aspace_29ec146e2ae76f67f848bb6a66263172" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Draper, Theodore: Review Articles on Hiss Case (New York Review of Books)</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container altrender="Record carton" id="aspace_a0a4d1644a6e98c94ed621c5181c48b5" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_13117759859e2acbbeb18d69ad3fed1d" parent="aspace_a0a4d1644a6e98c94ed621c5181c48b5" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Eddy, George: Correspondence re: Manuscript</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container altrender="Record carton" id="aspace_92659cff5e4c622844d3161395c6568b" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_f208eb26c228e8a525f0afb88692475d" parent="aspace_92659cff5e4c622844d3161395c6568b" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_01fd4b57f329859fca26c0b04243be29" level="file">
+          <did>
+            <unittitle>Eddy, George: Draft of Manuscript (Agnese Nelms Haury copy)</unittitle>
+            <unitdate datechar="creation" normal="1997/1997">1997</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4d3ed6f98cadb07a92901fed078cbb23" label="Mixed Materials [31142063133741]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Emergency Civil Liberties Committee: Alger Hiss Case, Fundraising</unittitle>
+            <unitdate datechar="creation" normal="1975/1979" type="inclusive">1975-1979</unitdate>
+            <container altrender="Record carton" id="aspace_515c5e765d3821c22d32aba98358f9d2" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_5999c53c219e1767061e1bf0f73c9056" parent="aspace_515c5e765d3821c22d32aba98358f9d2" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Field, Richard</unittitle>
+            <unitdate datechar="creation" normal="1925/2004" type="inclusive">undated , 1950 , 1974</unitdate>
+            <container altrender="Record carton" id="aspace_f7de04f809bd09234f6eaa0ed2321814" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_aa255b716b8f9222b75320716794b584" parent="aspace_f7de04f809bd09234f6eaa0ed2321814" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Fish, Hamilton</unittitle>
+            <unitdate datechar="creation" normal="1978/1987" type="inclusive">1978 , 1987</unitdate>
+            <container altrender="Record carton" id="aspace_a6f001fe7bbb847450ccd1ea6bc62931" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_24e69780247e7e0382cb393fb6430063" parent="aspace_a6f001fe7bbb847450ccd1ea6bc62931" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Freedom of Information Act (FOIA) Request re: Alger Hiss</unittitle>
+            <unitdate datechar="creation" normal="1976/1996" type="inclusive">1976 , 1996</unitdate>
+            <container altrender="Record carton" id="aspace_df968b8b7da8c433a0796a8e02bde41f" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_e427f07469cf9f64ce1fe7eff365350c" parent="aspace_df968b8b7da8c433a0796a8e02bde41f" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>FOIA Requests re: Whittaker Chambers</unittitle>
+            <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+            <container altrender="Record carton" id="aspace_e5bcc4171eea32d12edb148a2799cfa5" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_40d33563d4ea8d21607fa6ac52f03c76" parent="aspace_e5bcc4171eea32d12edb148a2799cfa5" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Goodyear, Steve: Harvard Law Record Material</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container altrender="Record carton" id="aspace_46ce3c714bd800a8e9eb6eb4ccaabb51" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_1a8f37a6d8796fc20187e9f40846be30" parent="aspace_46ce3c714bd800a8e9eb6eb4ccaabb51" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Halsey, Margaret</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Record carton" id="aspace_be7a4cd3a39ceb98daec11bd393f1ec8" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_a45a3bf499fd91dcaf06713eeb62b1ed" parent="aspace_be7a4cd3a39ceb98daec11bd393f1ec8" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Harvard Law Library</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container altrender="Record carton" id="aspace_fbda5dba98bbc6c603701efaaedbc3b2" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_7ffa3047a2b0f7f7d07fc81d69cac302" parent="aspace_fbda5dba98bbc6c603701efaaedbc3b2" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Hinson, Kathryn</unittitle>
+            <unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+            <container altrender="Record carton" id="aspace_e12de6251144086401edde3987d56c2d" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_05b73ad84e776409aa3f72bc2cdef853" parent="aspace_e12de6251144086401edde3987d56c2d" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Hiss, Alger: Apartment and Care</unittitle>
+            <unitdate datechar="creation" normal="1993/1996" type="inclusive">1993-1996</unitdate>
+            <container altrender="Record carton" id="aspace_92e12e0cb318b5707adadaf4aa8eedbd" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_019ba3e65f36a2b8e4da056bf07cabdb" parent="aspace_92e12e0cb318b5707adadaf4aa8eedbd" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Hiss, Alger: Articles by</unittitle>
+            <unitdate datechar="creation" normal="1973/1980" type="inclusive">1973 , 1980</unitdate>
+            <container altrender="Record carton" id="aspace_31cfb64bd9d8a0307c50e698bd02e308" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_ac149ccd01764f20fab93280ffa8db96" parent="aspace_31cfb64bd9d8a0307c50e698bd02e308" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Hiss, Alger: Biographical Information</unittitle>
+            <unitdate datechar="creation" normal="1973/1981" type="inclusive">1973 , 1981</unitdate>
+            <container altrender="Record carton" id="aspace_e2f02978174661e70cb6583b51b3606d" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_709ca5487e8ba7d6c50a0b396baaa2bf" parent="aspace_e2f02978174661e70cb6583b51b3606d" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Hiss, Alger: Correspondence </unittitle>
+            <unitdate datechar="creation" normal="1958/1973" type="inclusive">1958 , 1962-1973</unitdate>
+            <container altrender="Record carton" id="aspace_1fbfe6ada29166ff1506d692a6a79d06" label="Mixed Materials [31142063412277]" type="Box">1</container>
+            <container id="aspace_5f73111ac77967213b8303e90fa08184" parent="aspace_1fbfe6ada29166ff1506d692a6a79d06" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Hiss, Alger: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1974/1979" type="inclusive">1974-1979</unitdate>
+            <container altrender="Record carton" id="aspace_2cd89d937a73812c5577fe8b3d48b5f7" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_65e21bee5532998160e647d972c7d37e" parent="aspace_2cd89d937a73812c5577fe8b3d48b5f7" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Hiss, Alger: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1980/1995" type="inclusive">1980-1984 , 1989-1995</unitdate>
+            <container altrender="Record carton" id="aspace_5f17c570663b2297c86f3c9521734d68" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_aed9edbc0481c4ffddc50df482f8e58d" parent="aspace_5f17c570663b2297c86f3c9521734d68" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Hiss, Alger: Estate of</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container altrender="Record carton" id="aspace_8c210921c5b0a22c56dac20d318866ec" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_0ad0651ebc057aa44b73b773ee849e9b" parent="aspace_8c210921c5b0a22c56dac20d318866ec" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Hiss, Alger: Funeral</unittitle>
+            <unitdate datechar="creation">Nov 1996-Dec 1996</unitdate>
+            <container altrender="Record carton" id="aspace_eef95e705c05e9d0e89a4e998ce9db84" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_f73cddb1a2cf56b1a87398d390740f72" parent="aspace_eef95e705c05e9d0e89a4e998ce9db84" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Hiss, Alger: Interviews</unittitle>
+            <unitdate datechar="creation" normal="1974/1984" type="inclusive">1974 , 1978 , 1984</unitdate>
+            <container altrender="Record carton" id="aspace_be523745f858d51c850f4706c165d995" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_fe90145354fd0d9e9866a1b00a246762" parent="aspace_be523745f858d51c850f4706c165d995" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Hiss, Alger: Letters of Support to Hiss (Copies)</unittitle>
+            <unitdate datechar="creation">Aug 1948</unitdate>
+            <container altrender="Record carton" id="aspace_d35dc81546a00e3dd82f09d88db0b8b2" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_c0a3f7bd372ff8b5e0796d45a0d094c2" parent="aspace_d35dc81546a00e3dd82f09d88db0b8b2" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Hiss, Alger: Letters to the Editor</unittitle>
+            <unitdate datechar="creation" normal="1984/1986" type="inclusive">1984 , 1986</unitdate>
+            <container altrender="Record carton" id="aspace_9da45bf59440d531eef560c60030b9f5" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_77220befedb26480e0c7ee862fafdd97" parent="aspace_9da45bf59440d531eef560c60030b9f5" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Hiss, Alger: Obituaries</unittitle>
+            <unitdate datechar="creation">Nov 1996-Dec 1996</unitdate>
+            <container altrender="Record carton" id="aspace_fb9d56d70eb73946552530b9e05de976" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_3aad3b670bc219bd2a3a5d4185dbda21" parent="aspace_fb9d56d70eb73946552530b9e05de976" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Hiss, Alger: Recollections of a Life (Comments, etc.)</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+            <container altrender="Record carton" id="aspace_312f66ac2de1dc7c4f98af4fae0a2063" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_505e9e76ae095202ef364e86c0058357" parent="aspace_312f66ac2de1dc7c4f98af4fae0a2063" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Hiss, Alger: Reinstatement to Massachusetts State Bar</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container altrender="Record carton" id="aspace_d9d306e04926120861e8cda088c97426" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_f5c2a9b64a32b4a35a310c3280a54577" parent="aspace_d9d306e04926120861e8cda088c97426" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Hiss, Alger: Schedule</unittitle>
+            <unitdate datechar="creation" normal="1976/1980" type="inclusive">1976 , 1979-1980</unitdate>
+            <container altrender="Record carton" id="aspace_0f34d746f15bc91f2757a4266867794f" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_f0d9a817066a5ff377be9ee3d3944811" parent="aspace_0f34d746f15bc91f2757a4266867794f" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Hiss, Alger: "Yalta," Pocket Book Magazine</unittitle>
+            <unitdate datechar="creation">Sep 1955</unitdate>
+            <container altrender="Record carton" id="aspace_568430bf25510e7faadd6a12fb468330" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_59e292ed23e25e11c8e5140124e94d4e" parent="aspace_568430bf25510e7faadd6a12fb468330" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Hiss, Anna</unittitle>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+            <container altrender="Record carton" id="aspace_eebb23077470d34df3ae5f669a332171" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_580e0f2df8b6c6a5c655faaf93a7d628" parent="aspace_eebb23077470d34df3ae5f669a332171" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Hiss Case: Hand-written Notes </unittitle>
+            <unitdate datechar="creation" normal="1973/1976" type="inclusive">1973 , 1975-1976</unitdate>
+            <container altrender="Record carton" id="aspace_b2869a32b16c299d10c062f9bb29e28f" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_b3dba343407ae652c129f0f8b6e73837" parent="aspace_b2869a32b16c299d10c062f9bb29e28f" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Hiss Case: "Pumpkin Papers"</unittitle>
+            <unitdate datechar="creation" normal="1986/1997" type="inclusive">1975 , 1986 , 1989-1997</unitdate>
+            <container altrender="Record carton" id="aspace_26cc28706c07848aabd03dcadf4ad8bf" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_8ce7195364e84402cd072df31e512616" parent="aspace_26cc28706c07848aabd03dcadf4ad8bf" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Hiss Case: Theater and Television</unittitle>
+            <unitdate datechar="creation">Mar 1984-Oct 1984</unitdate>
+            <container altrender="Record carton" id="aspace_7fb571dc47b83428f88cb23a2e3aaa7e" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_f3d8d9c45b2e599dd29a6cade4ae0023" parent="aspace_7fb571dc47b83428f88cb23a2e3aaa7e" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Hiss Case: Typewriter</unittitle>
+            <unitdate datechar="creation" normal="1952/1984" type="inclusive">1952 , 1958 , 1962-1984</unitdate>
+            <container altrender="Record carton" id="aspace_20e26091f4d89490caebc7642743d9f4" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_b9cdc3a2ff9ff3f3b93f82c345cdc07e" parent="aspace_20e26091f4d89490caebc7642743d9f4" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Hiss Case: Unsealing Federal Grand Jury Records</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container altrender="Record carton" id="aspace_d8a210eebf0f67254a10c356ceadf3b0" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_3330480383329b6b8a9719d90af6e1ac" parent="aspace_d8a210eebf0f67254a10c356ceadf3b0" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Hiss Case: Unsealing Federal Grand Jury Records</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container altrender="Record carton" id="aspace_530a2b0b67812a57ad60aa870efbe8d8" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_cab6da080198a22bea195b18d19f1918" parent="aspace_530a2b0b67812a57ad60aa870efbe8d8" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Hiss, Donald</unittitle>
+            <unitdate datechar="creation" normal="1972/1996" type="inclusive">1972-1974 , 1989 , 1996</unitdate>
+            <container altrender="Record carton" id="aspace_57d35e5a7fe2606b5549504fabc1c4af" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_b8e9f14dab2dfdf664b9a2f431f26a9f" parent="aspace_57d35e5a7fe2606b5549504fabc1c4af" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Hiss, Isabel Johnson</unittitle>
+            <unitdate datechar="creation" normal="1967/2000" type="inclusive">1967 , 1970s , 2000</unitdate>
+            <container altrender="Record carton" id="aspace_6676bfd81046cf7f58e68e9253e56dcb" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_9c6dd2022a2a15559591131f8007ee1b" parent="aspace_6676bfd81046cf7f58e68e9253e56dcb" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Hiss, Mary</unittitle>
+            <unitdate datechar="creation" normal="1950/1972" type="inclusive">1950 , 1972</unitdate>
+            <container altrender="Record carton" id="aspace_5fba639639cc01f1bbc2e140c9573031" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_a3178f291d77963ac6ea9af4ae4c2d75" parent="aspace_5fba639639cc01f1bbc2e140c9573031" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Hiss, Priscilla</unittitle>
+            <unitdate datechar="creation" normal="1978/1984" type="inclusive">1978 , 1984</unitdate>
+            <container altrender="Record carton" id="aspace_feddd17397ebacd388ecdbff91b00fc8" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_0b5176f52e3b90961d5e0c2e641b98fa" parent="aspace_feddd17397ebacd388ecdbff91b00fc8" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Hiss, Tony: Alger Hiss Research and Education Project</unittitle>
+            <unitdate datechar="creation" normal="1999/2003" type="inclusive">1999-2003</unitdate>
+            <container altrender="Record carton" id="aspace_9e82bbb95cfc00eb9eba0f76bc7f9c57" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_4d18a3992afe8e62a3d2bbe8ac021a02" parent="aspace_9e82bbb95cfc00eb9eba0f76bc7f9c57" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Hiss, Tony: Articles re: Tony Hiss</unittitle>
+            <unitdate datechar="creation" normal="1925/2004" type="inclusive">undated , 1996</unitdate>
+            <container altrender="Record carton" id="aspace_1bc9bb1e75c3465220de8d97460097ea" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_28bd3c12f2f08d247e6935f166c7a918" parent="aspace_1bc9bb1e75c3465220de8d97460097ea" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Hiss, Tony: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1971/2003" type="inclusive">1971 , 1976 , 1982- 2003</unitdate>
+            <container altrender="Record carton" id="aspace_4895f869c850ffdd060f486fa5ce2cd2" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_c724cac7ccdaafa6ee1a1b2ec267890d" parent="aspace_4895f869c850ffdd060f486fa5ce2cd2" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_cbd1b044512811e48b693dcf977b1d2a" level="file">
+          <did>
+            <unittitle>Hiss, Tony: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1990/1996" type="inclusive">1990-1996</unitdate>
+            <container altrender="Record carton" id="aspace_56ad5f10470ce46a7cb37078640ba59b" label="Mixed Materials [31142063133733]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Hiss, Tony: "I Call on Alger," Interview with Alger Hiss (Rolling Stone)</unittitle>
+            <unitdate datechar="creation">Sep 13, 1973</unitdate>
+            <container altrender="Record carton" id="aspace_0bbed2d9bf6c5563c375b3b181a50d76" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_b5fe8b9d4b47cc5e8e8438ec583b7582" parent="aspace_0bbed2d9bf6c5563c375b3b181a50d76" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>Hobson, Timothy</unittitle>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container altrender="Record carton" id="aspace_8e064b99de49f850010fff44556d7fff" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_17751bff20d91cf1e20426e6d483cd4f" parent="aspace_8e064b99de49f850010fff44556d7fff" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Horwitz, Sari</unittitle>
+            <unitdate datechar="creation">Jan 1997</unitdate>
+            <container altrender="Record carton" id="aspace_67267a7c273034fdf2e1f8e27ee03110" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_07d7090e6079341cfd33eed685ba2844" parent="aspace_67267a7c273034fdf2e1f8e27ee03110" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>Kisseloff, Jeff: "The Hiss Case Revisited"</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Record carton" id="aspace_5b9f84e727c02675dc31dc9cbd0747be" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_ec5262aa2297c29577ccea31c3f62c97" parent="aspace_5b9f84e727c02675dc31dc9cbd0747be" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Kisseloff, Jeff: "New Debate on the Hiss Case"</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+            <container altrender="Record carton" id="aspace_4372de5b86d67f05032b5e13f863a06c" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_9ad9ee50e41f757075ca1595e07f7fd5" parent="aspace_4372de5b86d67f05032b5e13f863a06c" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Krieger, Sam</unittitle>
+            <unitdate datechar="creation" normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container altrender="Record carton" id="aspace_98edd4ba84a91b69f6ac08350c89ac36" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_d2652e8dae971a6c4a3b759da916fa23" parent="aspace_98edd4ba84a91b69f6ac08350c89ac36" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Kursh, Harry</unittitle>
+            <unitdate datechar="creation">Jun 1961-Sep 1961</unitdate>
+            <container altrender="Record carton" id="aspace_ff755d69d8b41973b94bc2d4e36396fd" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_439a5d66a0c919ba576b620f72392b5c" parent="aspace_ff755d69d8b41973b94bc2d4e36396fd" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>Langer, Elinor: "Witness" (Grand Street, Vol. 3 No. 4)</unittitle>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+            <container altrender="Record carton" id="aspace_a7eb7502965a79ef88a5c26297cc7684" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_6a7a8271392fa5dfcff6ffe2d27c74ee" parent="aspace_a7eb7502965a79ef88a5c26297cc7684" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Levin, David</unittitle>
+            <unitdate datechar="creation" normal="1975/1997" type="inclusive">1975-1976 , 1996-1997</unitdate>
+            <container altrender="Record carton" id="aspace_033ed603aa55db0911ebf9df7fe238dd" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_7d583ec995dae522932f9de93f7728e3" parent="aspace_033ed603aa55db0911ebf9df7fe238dd" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Lowenthal, John</unittitle>
+            <unitdate datechar="creation" normal="1975/1999" type="inclusive">1975-1976 , 1992-1999</unitdate>
+            <container altrender="Record carton" id="aspace_b76307f42d902201e9b7e17368f524b2" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_e12d31178cfb67f1c62738895868534b" parent="aspace_b76307f42d902201e9b7e17368f524b2" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_4ad34074d4e62ab229d0ea315c4715ce" level="file">
+          <did>
+            <unittitle>Lowenthal, John: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1983/2003" type="inclusive">1983-2003</unitdate>
+            <container altrender="Record carton" id="aspace_d973b7d835cdacd22f19c582258099c6" label="Mixed Materials [31142063133717]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Lowenthal, John: Hiss Film Project</unittitle>
+            <unitdate datechar="creation">Jul 1977-Aug 1977</unitdate>
+            <container altrender="Record carton" id="aspace_f663186fd20c051663016785bc249d6a" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_7c8ab9e5c859730e8bde8448916f8ef2" parent="aspace_f663186fd20c051663016785bc249d6a" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Lowenthal, John: "The Trials of Alger Hiss"</unittitle>
+            <unitdate datechar="creation" normal="1980/1984" type="inclusive">1980-1981 , 1984</unitdate>
+            <container altrender="Record carton" id="aspace_5e6f733ad20f3a4c7148efdc1f2b8a1e" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_f9ab37b0d52a1334a74923e6fde04bd6" parent="aspace_5e6f733ad20f3a4c7148efdc1f2b8a1e" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Marbury, William: Obituary (New York Times)</unittitle>
+            <unitdate datechar="creation">Mar 7, 1988</unitdate>
+            <container altrender="Record carton" id="aspace_a14d205667e4749d27b808c1b2e9536b" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_a2eab573527f89aa0b95b66c29e227e4" parent="aspace_a14d205667e4749d27b808c1b2e9536b" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Marks, Jack A.: Tape Transcript</unittitle>
+            <unitdate datechar="creation">Jul 1, 1973</unitdate>
+            <container altrender="Record carton" id="aspace_0cbe0eb6f51f9aadefe91f9a7c3a2495" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_a86a07e79180eb8e67f1a0403f3e02b4" parent="aspace_0cbe0eb6f51f9aadefe91f9a7c3a2495" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>McLean, Edward  </unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container altrender="Record carton" id="aspace_62861d13aeb19df3e0e26c00e6e8b3aa" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_fabcd66b8238a33f3e80f3b542d4579b" parent="aspace_62861d13aeb19df3e0e26c00e6e8b3aa" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Metzger, Lois</unittitle>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+            <container altrender="Record carton" id="aspace_b406dd1ef8cf0f447d6cb032f1300550" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_a62a6671a633ddfe92a1c049e71a492c" parent="aspace_b406dd1ef8cf0f447d6cb032f1300550" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Moore, William</unittitle>
+            <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
+            <container altrender="Record carton" id="aspace_09f37e53df642df43f52300f90889ff3" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_78c270a42416cc835c80b3ba2a2a03c4" parent="aspace_09f37e53df642df43f52300f90889ff3" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Murphy, Franklin: Los Angeles Times, Chairman</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container altrender="Record carton" id="aspace_70baf4adee23f4b6fa3f3702a5696975" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_b554e82058871a249f111009fdb600d8" parent="aspace_70baf4adee23f4b6fa3f3702a5696975" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Nation Institute: Press Conference re: Alger Hiss</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+            <container altrender="Record carton" id="aspace_8a156ee558ca88e160df9da8da2962f3" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_6144040340a6ea38bd8c25d78a319c1a" parent="aspace_8a156ee558ca88e160df9da8da2962f3" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_7a1033cceacec62a9a9c5cc3798f1c77" level="file">
+          <did>
+            <unittitle>Nation Institute: "Press Reactions to the Nation Institute's Cold War Archive Project" </unittitle>
+            <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9a425109b2e3a2dbe43d0ed855ef7634" label="Mixed Materials [31142063133741]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_f79f31ee35c579aa6ae89b25102b0063" level="file">
+          <did>
+            <unittitle>Nation Institute: The Alger Hiss Project</unittitle>
+            <unitdate datechar="creation" normal="1998/2012" type="inclusive">1998-2012</unitdate>
+            <container altrender="Record carton" id="aspace_a672908ca34898c498e1237479a8a4aa" label="Mixed Materials [31142063133725]" type="Box">6</container>
+            <container altrender="Record carton" id="aspace_defa714df7049571f59fb42798e31ea7" label="Mixed Materials [31142063133733]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>National Emergency Civil Liberties Foundation: Re: Alger Hiss</unittitle>
+            <unitdate datechar="creation" normal="1975/1983" type="inclusive">1975-1980 , 1983</unitdate>
+            <container altrender="Record carton" id="aspace_bfc5259ebfabff5f895d275743c122d0" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_03eba693d2751b83fcac0e1acd4c6feb" parent="aspace_bfc5259ebfabff5f895d275743c122d0" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Navasky, Victor S.</unittitle>
+            <unitdate datechar="creation" normal="1973/2001" type="inclusive">1973 , 1978 , 1997-2001</unitdate>
+            <container altrender="Record carton" id="aspace_f025ff3a64a28998cc2ad4f6cfb3657f" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_8e1cc003c7a26a2c45fcf5e91de47ba0" parent="aspace_f025ff3a64a28998cc2ad4f6cfb3657f" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_a242053aac31310546ba214a0b8f935d" level="file">
+          <did>
+            <unittitle>New York University: Alger Hiss Collection</unittitle>
+            <unitdate datechar="creation" normal="2006/2008" type="inclusive">2006-2008</unitdate>
+            <container altrender="Record carton" id="aspace_de6481d1d5ac838b40408ee37d66b2a6" label="Mixed Materials [31142063133717]" type="Box">5</container>
+          </did>
+        </c>
+        <c id="aspace_0a95b8b454b23d537e36a548938333e0" level="file">
+          <did>
+            <unittitle>New York University: Hiss Archival Collection and Center for the United States and the Cold War</unittitle>
+            <unitdate datechar="creation" normal="2002/2007" type="inclusive">2002-2007</unitdate>
+            <container altrender="Record carton" id="aspace_3d68e4293eb2f42ed13357724d3e4199" label="Mixed Materials [31142063133733]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Nixon, Richard: Testimony re: Alger Hiss</unittitle>
+            <unitdate datechar="creation">Nov 13, 1948</unitdate>
+            <container altrender="Record carton" id="aspace_7d8b04472d5738a378ac1665d4f1724c" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_6b9b11ad7bd1a99cb93a6177c0df81f9" parent="aspace_7d8b04472d5738a378ac1665d4f1724c" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Popkin, Richard</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container altrender="Record carton" id="aspace_3ac3aec431dba9000ec6768960aa7662" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_a0373d21816926b471621926cf96824b" parent="aspace_3ac3aec431dba9000ec6768960aa7662" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Public Citizen Litigation Group: Alger Hiss Case</unittitle>
+            <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+            <container altrender="Record carton" id="aspace_0c60c7eb69c663b65119392c3f0937e9" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_2d7c95f1201ce6a6b209858167e39646" parent="aspace_0c60c7eb69c663b65119392c3f0937e9" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Public Citizen Litigation Group: Press Conference re: Alger Hiss Grand Jury Records</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container altrender="Record carton" id="aspace_0defd5ffe530d2f42f54982b70268129" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_c91a1cd00f61ce1103b240db8a6f6ab3" parent="aspace_0defd5ffe530d2f42f54982b70268129" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>Public Citizen Litigation Group: Request for Alger Hiss Grand Jury Records</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container altrender="Record carton" id="aspace_19ca14a1d9cc24d2b02978029193a147" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_5c9e81d7c6c528a6ff24d08419f5fc35" parent="aspace_19ca14a1d9cc24d2b02978029193a147" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Rabinowitz, Victor: Freedom of Information Act (FOIA) Request, etc.</unittitle>
+            <unitdate datechar="creation" normal="1995/1997" type="inclusive">1995-1997</unitdate>
+            <container altrender="Record carton" id="aspace_bbf7fe14f62fb07a022b82749cabc114" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_a5df9ffc9ea1ac2e0122f5a16613d979" parent="aspace_bbf7fe14f62fb07a022b82749cabc114" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Rabinowitz, Victor: FOIA Request, etc.</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container altrender="Record carton" id="aspace_9b515efcb4e6c1106b3590905bdd1453" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_00d7c4c46c41185c092a2420c1765f85" parent="aspace_9b515efcb4e6c1106b3590905bdd1453" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>Rabinowitz, Victor: FOIA Request, etc.</unittitle>
+            <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+            <container altrender="Record carton" id="aspace_7533b6b88dede7ebd14abc3a027bdf20" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_cc12dd8015635b1e190b0f7fb1e6b807" parent="aspace_7533b6b88dede7ebd14abc3a027bdf20" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ae5c94a01b38255afd93454db0964690" level="file">
+          <did>
+            <unittitle>Recordings of Interviews and Television Programs</unittitle>
+            <unitdate datechar="creation" normal="1978/2002" type="inclusive">1978-2002</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a8e077dcba643fa6149ec68c81f3a842" label="Mixed Materials [31142063584463]" type="Box">9</container>
+            <container id="aspace_2e3b5e070f4c80840fd9c8daccd02cba" parent="aspace_a8e077dcba643fa6149ec68c81f3a842" type="Folder">1-2</container>
+          </did>
+          <phystech id="aspace_99e772cd985248fcecd6252367c3621b">
+            <head>Physical Characteristics and Technical Requirements</head>
+            <p>The box contains 9 VHS tapes, 1 Video Cassette (BETA), and 2 audio cassette tapes.</p>
+          </phystech>
+        </c>
+        <c id="aspace_bd7e973e01b94122a62a31f2b5817810" level="file">
+          <did>
+            <unittitle>Reinstatement to Massachusetts Bar</unittitle>
+            <unitdate datechar="creation" normal="1975/1975">1975</unitdate>
+            <container altrender="Record carton" id="aspace_80645e203b26efe88695e13148a6ef27" label="Mixed Materials [31142063133725]" type="Box">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>Salant, Stephen: "First Crisis, First 'Tapes': Did Nixon Obstruct Justice in the Hiss Case?"</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container altrender="Record carton" id="aspace_5931ed5e8b41c5c8017a0935b92703af" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_b7d1710c7d12f56a6db8dac8545a8fc6" parent="aspace_5931ed5e8b41c5c8017a0935b92703af" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>Shepherd, Peter</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container altrender="Record carton" id="aspace_76994b9dbe5dc8bbcf8e0f41c8082576" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_55a0f24b140c76c496361f70f3b533eb" parent="aspace_76994b9dbe5dc8bbcf8e0f41c8082576" type="Folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>Smith, John Chabot</unittitle>
+            <unitdate datechar="creation" normal="1974/1992" type="inclusive">1974-1979 , 1992</unitdate>
+            <container altrender="Record carton" id="aspace_f68c8273dc3a0fb229026410e6213aa5" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_874dffd3bb620c3aa8e8b089b2d58173" parent="aspace_f68c8273dc3a0fb229026410e6213aa5" type="Folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>Tanenhaus, Sam</unittitle>
+            <unitdate datechar="creation" normal="1992/1999" type="inclusive">1992-1999</unitdate>
+            <container altrender="Record carton" id="aspace_c34e5e400231e6add46e7563995e27fa" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_23cfc906cce5849c813df940719be2c8" parent="aspace_c34e5e400231e6add46e7563995e27fa" type="Folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_6d49ca97117f3e6998b3835ddbe93b9b" level="file">
+          <did>
+            <unittitle>Tiger, Edith: <emph render="italic">In Re: Alger Hiss</emph> (Agnese Haury copy, signed by Tiger and Alger Hiss)</unittitle>
+            <unitdate datechar="creation" normal="1978/1978">1978</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8afa92a6e90debe76c2795d8d01337b0" label="Mixed Materials [31142063133741]" type="Box">8</container>
+          </did>
+        </c>
+        <c id="aspace_dc022ca53563aa92adc6d3fef49c77fc" level="file">
+          <did>
+            <unittitle>Transcripts of Road to Middle East Peace Conference</unittitle>
+            <unitdate datechar="creation" normal="1989/1989">1989</unitdate>
+            <container altrender="Record carton" id="aspace_c8b88c449e3d5360b84bf6f7e4ee2253" label="Mixed Materials [31142063133725]" type="Box">6</container>
+            <container altrender="Record carton" id="aspace_9d1f8af2ef5c1c078cab20a5413defbb" label="Mixed Materials [31142063133733]" type="Box">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="file">
+          <did>
+            <unittitle>Volkogonov, Dmitri</unittitle>
+            <unitdate datechar="creation" normal="1992/1995" type="inclusive">1992-1995</unitdate>
+            <container altrender="Record carton" id="aspace_786105e5a57c095714014a4fca7d21db" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_2825ecc11483602f6cf94d75b8b8bc77" parent="aspace_786105e5a57c095714014a4fca7d21db" type="Folder">60</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="file">
+          <did>
+            <unittitle>Weinstein, Allen</unittitle>
+            <unitdate datechar="creation" normal="1973/1979" type="inclusive">1973-1979</unitdate>
+            <container altrender="Record carton" id="aspace_ce47249afc2af3708db46a8c6e786114" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_fe94a5f96d7a08b48118a853b7627482" parent="aspace_ce47249afc2af3708db46a8c6e786114" type="Folder">61</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>Weinstein, Allen: Perjury</unittitle>
+            <unitdate datechar="creation" normal="1978/1998" type="inclusive">1978 , 1998</unitdate>
+            <container altrender="Record carton" id="aspace_031422435b4149ff833fc7becd81d9d1" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_9e87d33d2a7b8b380884e72184162197" parent="aspace_031422435b4149ff833fc7becd81d9d1" type="Folder">62</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>Whitman, Alden: New York Times</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container altrender="Record carton" id="aspace_c87af089f4214e139250edfa5ea1ba22" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_a20988c05ea0791d4b290183c5bef8fe" parent="aspace_c87af089f4214e139250edfa5ea1ba22" type="Folder">63</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>Zeligs, Meyer</unittitle>
+            <unitdate datechar="creation" normal="1960/1974" type="inclusive">1960 , 1967 , 1974</unitdate>
+            <container altrender="Record carton" id="aspace_63e98899f6d41999db4baf52997fa8ac" label="Mixed Materials [31142063412285]" type="Box">2</container>
+            <container id="aspace_6995368582d24ea3acecd79a98efe703" parent="aspace_63e98899f6d41999db4baf52997fa8ac" type="Folder">64</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref135" level="series">
+        <did>
+          <unittitle>Series II: Subject Files, 1925-2003.</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_d8f987c996d8e1dd158a13fb23488fd2">
+          <head>Scope and Contents</head>
+          <p>This series contains correspondence, notes, clippings, and background material related to the Agnese N. Lindley Foundation, the Community Foundation of Southern Arizona, The Nation Institute, and other topics. Some files relate to research conducted by Tony Hiss, Bruce Craig, Jeff Kisseloff, John Lowenthal, and William A. Reuben on the Hiss Case; other materials document the establishment of the Alger Hiss Archive, the Alger Hiss Fellowship and "The Alger Hiss Story: Search for the Truth" website. The collection also contains clippings and research materials regarding President Richard Nixon, Sam Tanenhaus, Allen Weinstein, the Venona Cables, and issues concerning access to government documents.</p>
+        </scopecontent>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>Agnese N. Lindley Foundation</unittitle>
+            <unitdate datechar="creation" normal="1986/1988" type="inclusive">1986 , 1988</unitdate>
+            <container altrender="Record carton" id="aspace_8c19e8dcc0a135466d14d9b955a079c2" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_566785179ded0063c037d58313f31bdd" parent="aspace_8c19e8dcc0a135466d14d9b955a079c2" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>Alger Hiss Archive</unittitle>
+            <unitdate datechar="creation" normal="1925/2004" type="inclusive">undated , 2002</unitdate>
+            <container altrender="Record carton" id="aspace_217cc0878e25e54c1a415c24da41d810" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_dd4721a16ea308225ba75de7227da144" parent="aspace_217cc0878e25e54c1a415c24da41d810" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>Alger Hiss Fellowship</unittitle>
+            <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+            <container altrender="Record carton" id="aspace_3786c71ead52b75d5ed9139cd3a1d6a1" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_5a2fba774032c7894837033bfec8fd44" parent="aspace_3786c71ead52b75d5ed9139cd3a1d6a1" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>The Alger Hiss Story: Website</unittitle>
+            <unitdate datechar="creation" normal="2001/2003" type="inclusive">2001-2003</unitdate>
+            <container altrender="Record carton" id="aspace_889bbda8ace20e3cf4ff0609ddb6dc24" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_cc3769273cc66e53f7a3fdad061245c3" parent="aspace_889bbda8ace20e3cf4ff0609ddb6dc24" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="file">
+          <did>
+            <unittitle>Blumenthal, Joe</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container altrender="Record carton" id="aspace_5892c7e86c6e267a32edf6996497213c" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_56a89f95aa1598e7f9bf2c8222e48f39" parent="aspace_5892c7e86c6e267a32edf6996497213c" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>Brower, Brock: "Spying's Dirty Little Secret," Money</unittitle>
+            <unitdate datechar="creation">Jul 1987</unitdate>
+            <container altrender="Record carton" id="aspace_4eec3bfcccc4eba84ce0a7765d1e7122" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_a1291901e3125be4a275744c42e9ed50" parent="aspace_4eec3bfcccc4eba84ce0a7765d1e7122" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="file">
+          <did>
+            <unittitle>Buttenweiser, Helen: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container altrender="Record carton" id="aspace_cd759ea3734814a91e7033492ed5c3bb" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_3d96d93dc5f6b281b2b7c1b15831ea8b" parent="aspace_cd759ea3734814a91e7033492ed5c3bb" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref143" level="file">
+          <did>
+            <unittitle>Cameron, Agnes: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container altrender="Record carton" id="aspace_6c19318c9801f296ee288851a3cf3f00" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_c159a229d63eba12be6b6fb47daa87f8" parent="aspace_6c19318c9801f296ee288851a3cf3f00" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="file">
+          <did>
+            <unittitle>Challener, Richard: "New Light on a Turning Point in U.S. History," University</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container altrender="Record carton" id="aspace_ea2933deccafcafdc34a069b5998828e" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_e73c5297ccdc15a6fc2df5a87cd9f8b2" parent="aspace_ea2933deccafcafdc34a069b5998828e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref145" level="file">
+          <did>
+            <unittitle>Clayton, W.L.: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+            <container altrender="Record carton" id="aspace_fb36e46d741cd3d1001e82a970ed28ab" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_ba0f7b29325a747aa26e60e0f84e41a0" parent="aspace_fb36e46d741cd3d1001e82a970ed28ab" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref146" level="file">
+          <did>
+            <unittitle>Committee on the Judiciary, United States Senate: "Scope of Soviet Activity in the United States, Part 66"</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container altrender="Record carton" id="aspace_a8b2dcd9ab0b1e33867cb63b4e5afb74" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_b8e679c9922bf0799086063a6e2839eb" parent="aspace_a8b2dcd9ab0b1e33867cb63b4e5afb74" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="file">
+          <did>
+            <unittitle>Community Foundation of Southern Arizona (CFSA): Alger Hiss Research and Educational Program</unittitle>
+            <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+            <container altrender="Record carton" id="aspace_5056411d6d83e7cf56bb593fca62537a" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_e7263454b924fe6d020e5ed8a02c54a2" parent="aspace_5056411d6d83e7cf56bb593fca62537a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="file">
+          <did>
+            <unittitle>CFSA: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="2000/2003" type="inclusive">2000-2003</unitdate>
+            <container altrender="Record carton" id="aspace_e5b6cb964fa4c9639d7e931d7232a8c3" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_01f0107e5761a58c95e10317465481a8" parent="aspace_e5b6cb964fa4c9639d7e931d7232a8c3" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="file">
+          <did>
+            <unittitle>CFSA: Financial Data</unittitle>
+            <unitdate datechar="creation" normal="1998/2003" type="inclusive">1998-2003</unitdate>
+            <container altrender="Record carton" id="aspace_4afbe5fa0ea1f1b13b7f51218eccffc7" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_7220b1197a047a56ae69722c107546a9" parent="aspace_4afbe5fa0ea1f1b13b7f51218eccffc7" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="file">
+          <did>
+            <unittitle>CFSA: Funding</unittitle>
+            <unitdate datechar="creation" normal="1997/2001" type="inclusive">1997-2001</unitdate>
+            <container altrender="Record carton" id="aspace_a576da37f8e31d2f643fcd9cc1044b11" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_f893e597db04ebe630e5d91b7ecbc77d" parent="aspace_a576da37f8e31d2f643fcd9cc1044b11" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref151" level="file">
+          <did>
+            <unittitle>CFSA: Christopher Richards/Hiss Research</unittitle>
+            <unitdate datechar="creation" normal="2001/2003" type="inclusive">2001-2003</unitdate>
+            <container altrender="Record carton" id="aspace_ad94ef15f4bd6f12094283747a85cc4e" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_5e7ce0119761f0d99c5ebbe1c37fcf3e" parent="aspace_ad94ef15f4bd6f12094283747a85cc4e" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="file">
+          <did>
+            <unittitle>CFSA: Jeannie McCloskey/Hiss Research</unittitle>
+            <unitdate datechar="creation">2001-2003</unitdate>
+            <container altrender="Record carton" id="aspace_987d48506a84d71d004cc6d83fdc64e4" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_e9d2f68b91319e40a2eeb5d2a42bbcec" parent="aspace_987d48506a84d71d004cc6d83fdc64e4" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="file">
+          <did>
+            <unittitle>Cook, Fred: Articles in The Nation re: Hiss</unittitle>
+            <unitdate datechar="creation">Sep 1957-Oct 1957</unitdate>
+            <container altrender="Record carton" id="aspace_d94c671913062973290509c60a5d01f9" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_e49a3ac4487a334ad42b06bfb5338c3c" parent="aspace_d94c671913062973290509c60a5d01f9" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1925/2004" type="inclusive">undated , 1950 , 1956-1965</unitdate>
+            <container altrender="Record carton" id="aspace_4ff300e0b3383679be04b9c6d09cb207" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_eaf5e11407680cda8c4a9f9419120921" parent="aspace_4ff300e0b3383679be04b9c6d09cb207" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref155" level="file">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1973/2001" type="inclusive">1973-1976 , 1996-2001</unitdate>
+            <container altrender="Record carton" id="aspace_f270a8f9bacc0047062dfda07d704b75" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_3a5f7ab758f6a2e406743dcdd8ee6fd0" parent="aspace_f270a8f9bacc0047062dfda07d704b75" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="file">
+          <did>
+            <unittitle>Craig, Bruce: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1997/2002" type="inclusive">1997-2002</unitdate>
+            <container altrender="Record carton" id="aspace_fdd34311c0fa0f5244ccdeb6d4ae322a" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_d081206746c36b814c6efd88b32e0b10" parent="aspace_fdd34311c0fa0f5244ccdeb6d4ae322a" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref157" level="file">
+          <did>
+            <unittitle>Craig, Bruce: Chambers-Trotsky Connection</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container altrender="Record carton" id="aspace_143b606f9c0ba2c1686b1e4d1b405ef0" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_ef2decca48d8a1797851cd85c8c5dc63" parent="aspace_143b606f9c0ba2c1686b1e4d1b405ef0" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref158" level="file">
+          <did>
+            <unittitle>Craig, Bruce: "The Hiss-Chambers Controversy: Records of the HUAC"</unittitle>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container altrender="Record carton" id="aspace_a92e56e15c92ee6836217225c75100ec" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_280b31c166a01167d863135033d651e1" parent="aspace_a92e56e15c92ee6836217225c75100ec" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref159" level="file">
+          <did>
+            <unittitle>Craig, Bruce: Nixon Tapes Re: Hiss</unittitle>
+            <unitdate datechar="creation" normal="1999/2003" type="inclusive">1999 , 2003</unitdate>
+            <container altrender="Record carton" id="aspace_03b353cffcda7d51ed1ff43163caf28f" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_eb6978e38a2f384eba3281b7eb44a2de" parent="aspace_03b353cffcda7d51ed1ff43163caf28f" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref160" level="file">
+          <did>
+            <unittitle>Craig, Bruce: "Trip Report: Edward R. Stettinius Papers, University of Virginia"</unittitle>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container altrender="Record carton" id="aspace_5fc2ce6bf5d94a0d2fbe7b0e4493ec1d" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_3f916299d759408d605282d0b6dea120" parent="aspace_5fc2ce6bf5d94a0d2fbe7b0e4493ec1d" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref161" level="file">
+          <did>
+            <unittitle>Danenberg, Leigh: Correspondence</unittitle>
+            <unitdate datechar="creation">Jun 10, 1950</unitdate>
+            <container altrender="Record carton" id="aspace_b65c66996f7433486785da54437b0d22" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_608fbae1a4e594cc8c3dfa6a7435da56" parent="aspace_b65c66996f7433486785da54437b0d22" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="file">
+          <did>
+            <unittitle>Douglas, William O.: Go East, Young Man (excerpts)</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container altrender="Record carton" id="aspace_9ab7ce04d56c38efbbe5bbab5a3dfdb0" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_177f51869bcfce246b2fae5557f2d6ad" parent="aspace_9ab7ce04d56c38efbbe5bbab5a3dfdb0" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref163" level="file">
+          <did>
+            <unittitle>Duberman, Martin: "A Fellow Traveling," Review of Ronald Radosh's Commies in The Nation</unittitle>
+            <unitdate datechar="creation">Jul 16, 2001</unitdate>
+            <container altrender="Record carton" id="aspace_fee28494a4f5c881e6ac8bef3155944e" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_2c0f276c7bd5316a8e57b1b575fa3380" parent="aspace_fee28494a4f5c881e6ac8bef3155944e" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref164" level="file">
+          <did>
+            <unittitle>Emergency Civil Liberties Committee: Alger Hiss Tribute</unittitle>
+            <unitdate datechar="creation" normal="1996/1998" type="inclusive">1996-1998</unitdate>
+            <container altrender="Record carton" id="aspace_d163832f6b5ad004494addbffcc4325f" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_dbf462f860ff08ef7e3fd93129758ddf" parent="aspace_d163832f6b5ad004494addbffcc4325f" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref165" level="file">
+          <did>
+            <unittitle>Faulk, John Henry: "John Henry's Moving On," Austin American Statesman</unittitle>
+            <unitdate datechar="creation">Apr 14, 1974</unitdate>
+            <container altrender="Record carton" id="aspace_293de1d6fed8e444675aa4a842343a6d" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_b073921efe2c0adfd46f900e195df7c6" parent="aspace_293de1d6fed8e444675aa4a842343a6d" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref166" level="file">
+          <did>
+            <unittitle>Federal Bureau of Investigation: Henry Julian Wadleigh</unittitle>
+            <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+            <container altrender="Record carton" id="aspace_964623e7431e9de617da828a857fec6d" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_519b2fea2132fdb83dc64c2114292d33" parent="aspace_964623e7431e9de617da828a857fec6d" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref167" level="file">
+          <did>
+            <unittitle>FOIA Request</unittitle>
+            <unitdate datechar="creation" normal="1998/2000" type="inclusive">1998-2000</unitdate>
+            <container altrender="Record carton" id="aspace_60134d9bef8845ddc71a60ee2a02190e" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_6cbdc561046610b57d9c5fd1a9b26780" parent="aspace_60134d9bef8845ddc71a60ee2a02190e" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref168" level="file">
+          <did>
+            <unittitle>Goldstein, Alvin H.: "The Unquiet Death of Julius and Ethel Rosenberg," Television Program</unittitle>
+            <unitdate datechar="creation">Feb 25, 1974</unitdate>
+            <container altrender="Record carton" id="aspace_b5c7a943371bc90257c928c50c5fcbda" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_54af256317f6accd91f9d1f51cc883b0" parent="aspace_b5c7a943371bc90257c928c50c5fcbda" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref169" level="file">
+          <did>
+            <unittitle>Goutchkoff, Jean</unittitle>
+            <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+            <container altrender="Record carton" id="aspace_7c1b03f79b617018b2648ac302a7aea9" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_d4c04f5d9078200680fd8b47d8f3d930" parent="aspace_7c1b03f79b617018b2648ac302a7aea9" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref170" level="file">
+          <did>
+            <unittitle>Government Records: Access</unittitle>
+            <unitdate datechar="creation" normal="1998/2003" type="inclusive">1998-2003</unitdate>
+            <container altrender="Record carton" id="aspace_fb919c85e8b442d658575c5bb4a5a17b" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_7201433e918129c5487c62a404fd0654" parent="aspace_fb919c85e8b442d658575c5bb4a5a17b" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref171" level="file">
+          <did>
+            <unittitle>Greene, Graham: The Human Factor, Book Review (excerpt)</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Record carton" id="aspace_56b3f9c958a42655356ff721e582f086" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_8ea1a8b5046d960e3dbdd9af43342d8a" parent="aspace_56b3f9c958a42655356ff721e582f086" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref172" level="file">
+          <did>
+            <unittitle>Handwritten Notes: Re: Alger and Donald Hiss, John Lowenthal, etc.</unittitle>
+            <unitdate datechar="creation" normal="1975/1996" type="inclusive">1975-1977 , 1994-1996</unitdate>
+            <container altrender="Record carton" id="aspace_83d1bbfdc9d08429e08c76dfdd4dc3a5" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_ee717fa205ba4005f8c6df5ee13400c6" parent="aspace_83d1bbfdc9d08429e08c76dfdd4dc3a5" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref173" level="file">
+          <did>
+            <unittitle>Harvard University Law Library: Hiss-Chambers case</unittitle>
+            <unitdate datechar="creation">Mar 26, 1985</unitdate>
+            <container altrender="Record carton" id="aspace_10795934b7e44d5316abf9898204bdfd" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_4835622911072d033d422737ecc81e9f" parent="aspace_10795934b7e44d5316abf9898204bdfd" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref174" level="file">
+          <did>
+            <unittitle>Hersh, Seymour M.: "Nixon's Last Cover-Up: The Tapes He Wants the Archives to Suppress," The New Yorker</unittitle>
+            <unitdate datechar="creation">Dec 14, 1992</unitdate>
+            <container altrender="Record carton" id="aspace_c195c2517a2faf95657090d8f4d9c7da" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_8888481ad5a7ca9c6f31e5b57faf066e" parent="aspace_c195c2517a2faf95657090d8f4d9c7da" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref175" level="file">
+          <did>
+            <unittitle>Hiss Case: Court Documents (Brief, Memoranda, etc.)</unittitle>
+            <unitdate datechar="creation" normal="1950/1983" type="inclusive">1950 , 1977 , 1980-1983</unitdate>
+            <container altrender="Record carton" id="aspace_77244d32ee60b766a1be6d99bfe971c8" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_35bbbf0bf16b0d956f29c1051de16c99" parent="aspace_77244d32ee60b766a1be6d99bfe971c8" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref176" level="file">
+          <did>
+            <unittitle>Hiss, Tony: Coordinator of Alger Hiss Projects, The Writers Room</unittitle>
+            <unitdate datechar="creation" normal="1991/1997" type="inclusive">1991 , 1997</unitdate>
+            <container altrender="Record carton" id="aspace_0a0a7ee641e9b80e8e2d72397be99350" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_7d4f83cbaf74966da5128fb49b15d692" parent="aspace_0a0a7ee641e9b80e8e2d72397be99350" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref177" level="file">
+          <did>
+            <unittitle>Hiss, Tony: Coordinator of Alger Hiss Projects, The Writers Room</unittitle>
+            <unitdate datechar="creation" normal="1998/2000" type="inclusive">1998-2000</unitdate>
+            <container altrender="Record carton" id="aspace_efeea90a8efcc642cdb3125c797e7871" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_02aef93e508ea6f19773055444b7aab7" parent="aspace_efeea90a8efcc642cdb3125c797e7871" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref178" level="file">
+          <did>
+            <unittitle>Hiss, Tony: Laughing Last, Book Reviews</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container altrender="Record carton" id="aspace_23ddcfe4866a27d89d76ddcf954bccd3" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_99ac63d42fdfa7d430787f7cacecd95a" parent="aspace_23ddcfe4866a27d89d76ddcf954bccd3" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref179" level="file">
+          <did>
+            <unittitle>Hiss, Tony: The View from Alger's Window, Book Reviews</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container altrender="Record carton" id="aspace_1ff9e688c1376cbd0bb06423be45f9d9" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_2328fa7514ad0ca3d9b70e7ae910e452" parent="aspace_1ff9e688c1376cbd0bb06423be45f9d9" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref180" level="file">
+          <did>
+            <unittitle>Hiss, Tony: Writings</unittitle>
+            <unitdate datechar="creation" normal="1970/2001" type="inclusive">1970-1977 , 1983 , 1987-2001</unitdate>
+            <container altrender="Record carton" id="aspace_8cb24a74d9d29d9eca477121ed5e9ef9" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_f8c047d007a21e80a132eea1f8e4e4ac" parent="aspace_8cb24a74d9d29d9eca477121ed5e9ef9" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref181" level="file">
+          <did>
+            <unittitle>Hiss Case: FBI Forgeries</unittitle>
+            <unitdate datechar="creation" normal="1997/1998" type="inclusive">1997-1998</unitdate>
+            <container altrender="Record carton" id="aspace_96cd15205e6a004c3acedc93220042d2" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_20da6fc98dedae87bf725f31f797110a" parent="aspace_96cd15205e6a004c3acedc93220042d2" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref182" level="file">
+          <did>
+            <unittitle>Hiss Files: Harvard Collection (from William Reuben)</unittitle>
+            <unitdate datechar="creation" normal="1949/1974" type="inclusive">1949-1974</unitdate>
+            <container altrender="Record carton" id="aspace_d9e07cef07b0bc261eb8a92f52144083" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_4f79e4790dbe3772fe696b73e1092f68" parent="aspace_d9e07cef07b0bc261eb8a92f52144083" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref183" level="file">
+          <did>
+            <unittitle>Kalugin, Oleg: Clipping</unittitle>
+            <unitdate datechar="creation">Aug 13, 1992</unitdate>
+            <container altrender="Record carton" id="aspace_2583df59c6ba91d0d78551ffd8113897" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_2122353aa7ca6d052b1ee4540ad81b06" parent="aspace_2583df59c6ba91d0d78551ffd8113897" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref184" level="file">
+          <did>
+            <unittitle>Kisseloff, Jeff: Alger Hiss Website</unittitle>
+            <unitdate datechar="creation" normal="1997/2000" type="inclusive">1997-2000</unitdate>
+            <container altrender="Record carton" id="aspace_9d6f04e3aa7498ea3bc7f390872b22c5" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_1fb03166545145149668b75cf98eb525" parent="aspace_9d6f04e3aa7498ea3bc7f390872b22c5" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref185" level="file">
+          <did>
+            <unittitle>Kisseloff, Jeff: Alger Hiss Website</unittitle>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container altrender="Record carton" id="aspace_1bd959b97732362f5b50a57918e1051d" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_c40067ca136bc3e87b075aa8a8b72b00" parent="aspace_1bd959b97732362f5b50a57918e1051d" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref186" level="file">
+          <did>
+            <unittitle>Kisseloff, Jeff: Alger Hiss Website</unittitle>
+            <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+            <container altrender="Record carton" id="aspace_ec1e1c285110f93e68897ff4594df7a4" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_a9bb61d80d6455cd6507047a644eab4b" parent="aspace_ec1e1c285110f93e68897ff4594df7a4" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref187" level="file">
+          <did>
+            <unittitle>Kisseloff, Jeff: Alger Hiss Website</unittitle>
+            <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container altrender="Record carton" id="aspace_9b1f89a33169e9746d786c5da5ba640e" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_13642958bd8c8b484e5df1af89334d88" parent="aspace_9b1f89a33169e9746d786c5da5ba640e" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref188" level="file">
+          <did>
+            <unittitle>Kisseloff, Jeff: Articles</unittitle>
+            <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+            <container altrender="Record carton" id="aspace_3144348668899276e52f69b60ddf64d8" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_92e24f0d8d10c44ff506582025e89feb" parent="aspace_3144348668899276e52f69b60ddf64d8" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref189" level="file">
+          <did>
+            <unittitle>Kisseloff, Jeff: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+            <container altrender="Record carton" id="aspace_c6f7d98ea409fd9d90b7a211f0b359cb" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_bcadd886f39cea988af51ba6f75dbcd4" parent="aspace_c6f7d98ea409fd9d90b7a211f0b359cb" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref190" level="file">
+          <did>
+            <unittitle>Kisseloff, Jeff: Inquiries and Research re: Alger Hiss</unittitle>
+            <unitdate datechar="creation" normal="1999/2004" type="inclusive">1999-2004</unitdate>
+            <container altrender="Record carton" id="aspace_6db5407a43bfd5f005f6e6fb77f910d9" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_1297f995cb1fa68f1e6b49ea0a23889d" parent="aspace_6db5407a43bfd5f005f6e6fb77f910d9" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref191" level="file">
+          <did>
+            <unittitle>Lee, Duncan</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container altrender="Record carton" id="aspace_9a69202dd0caaee4831e43c8f74bf3a6" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_86a91a65f05951f5cce0b2b02aa68c56" parent="aspace_9a69202dd0caaee4831e43c8f74bf3a6" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref192" level="file">
+          <did>
+            <unittitle>Lesar, James: Lesar-Lowenthal Litigation with FBI</unittitle>
+            <unitdate datechar="creation" normal="1999/2003" type="inclusive">1999 , 2003</unitdate>
+            <container altrender="Record carton" id="aspace_fbb3218f7a1600ef0423f10d21fa261d" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_3e106fb3bf70342ee0db411dd9efaa51" parent="aspace_fbb3218f7a1600ef0423f10d21fa261d" type="Folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_ref193" level="file">
+          <did>
+            <unittitle>Lowenthal, John: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1996/2003" type="inclusive">1996 , 2000 , 2003</unitdate>
+            <container altrender="Record carton" id="aspace_f0ba8c52ea537f8518689a483f710060" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_e6203f15e7f49000429ae268dcb0a965" parent="aspace_f0ba8c52ea537f8518689a483f710060" type="Folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref194" level="file">
+          <did>
+            <unittitle>McClosky, Jeannie: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container altrender="Record carton" id="aspace_f6798edab785ca852de635c12cf8d3e6" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_8a765de79340882a5b3eb469a81c55c7" parent="aspace_f6798edab785ca852de635c12cf8d3e6" type="Folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_ref195" level="file">
+          <did>
+            <unittitle>McClosky, Jeannie: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="2002/2003" type="inclusive">2002-2003</unitdate>
+            <container altrender="Record carton" id="aspace_5585b009490bd0d412dd7bdc8b2c7ba2" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_1586e0ebd420960cc910ce21235e9aaf" parent="aspace_5585b009490bd0d412dd7bdc8b2c7ba2" type="Folder">60</container>
+          </did>
+        </c>
+        <c id="aspace_ref196" level="file">
+          <did>
+            <unittitle>The Nation</unittitle>
+            <unitdate datechar="creation" normal="1962/1964" type="inclusive">1962-1964</unitdate>
+            <container altrender="Record carton" id="aspace_65ffe9c576e81bab04e122c46065776a" label="Mixed Materials [31142063412293]" type="Box">3</container>
+            <container id="aspace_2e9d1c53e064870cc4c2e5b611ad7000" parent="aspace_65ffe9c576e81bab04e122c46065776a" type="Folder">61</container>
+          </did>
+        </c>
+        <c id="aspace_ref197" level="file">
+          <did>
+            <unittitle>Nation Institute: Alger Hiss Soviet Archives Project</unittitle>
+            <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <container altrender="Record carton" id="aspace_4ffc315c06960f8ea01eff00feab7820" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_59b786490ae66f804480ec52f456eaad" parent="aspace_4ffc315c06960f8ea01eff00feab7820" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref198" level="file">
+          <did>
+            <unittitle>Nation Institute: Publications and Research re: Hiss, Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1992/1998" type="inclusive">1992 , 1997-1998</unitdate>
+            <container altrender="Record carton" id="aspace_735139baa6283b4e6ebeea5511860da5" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_f13ab55c1a4aa7a3491c1c2cca36ca2f" parent="aspace_735139baa6283b4e6ebeea5511860da5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref199" level="file">
+          <did>
+            <unittitle>Nation Institute: Publications and Research re: Hiss, Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1999/2003" type="inclusive">1999-2003</unitdate>
+            <container altrender="Record carton" id="aspace_70a3f65594b8e26953ebc565f7ea98d6" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_fbb2ea1405e43362956f628852586da6" parent="aspace_70a3f65594b8e26953ebc565f7ea98d6" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref200" level="file">
+          <did>
+            <unittitle>Nation Institute: Publications and Research re: Hiss, Expenditure Reports</unittitle>
+            <unitdate datechar="creation" normal="1999/2001" type="inclusive">1999-2001</unitdate>
+            <container altrender="Record carton" id="aspace_861cb4bec7781e367e4afa08fe0a6cb2" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_685e1773a21f46f6e3b64a1a86f40815" parent="aspace_861cb4bec7781e367e4afa08fe0a6cb2" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref201" level="file">
+          <did>
+            <unittitle>National Emergency Civil Liberties Foundation</unittitle>
+            <unitdate datechar="creation" normal="1977/1990" type="inclusive">1977-1980 , 1990</unitdate>
+            <container altrender="Record carton" id="aspace_561091b5eedeec76bd0ff6dc1550bf15" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_2a116eabd022d0c7576d4e617a4c74aa" parent="aspace_561091b5eedeec76bd0ff6dc1550bf15" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref202" level="file">
+          <did>
+            <unittitle>National Security Archive</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">1999</unitdate>
+            <container altrender="Record carton" id="aspace_be00fc8556ac40d424b1b615e8784df0" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_c8825d7732961822065fe61bcdd203b5" parent="aspace_be00fc8556ac40d424b1b615e8784df0" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref203" level="file">
+          <did>
+            <unittitle>National Security Archive</unittitle>
+            <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+            <container altrender="Record carton" id="aspace_f8e15857e47e313d7a783c3d3d6b7d58" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_f7d1590435567cc4f2356a13929e317f" parent="aspace_f8e15857e47e313d7a783c3d3d6b7d58" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref204" level="file">
+          <did>
+            <unittitle>National Security Archive: Correspondence re: Maria Schmidt, Noel Field and Jay Peters</unittitle>
+            <unitdate datechar="creation" normal="1999/2000" type="inclusive">1999-2000</unitdate>
+            <container altrender="Record carton" id="aspace_ab3d788f8eca8d2c7cdeec5fc4b8457c" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_b9e9ba60cab9fec1f8f81c7401a8effd" parent="aspace_ab3d788f8eca8d2c7cdeec5fc4b8457c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref205" level="file">
+          <did>
+            <unittitle>National Security Archive: Investigation Results from Archives in Hungary re: Noel Field</unittitle>
+            <unitdate datechar="creation" normal="1925/1958" type="inclusive">1925-1931 , 1946-1958</unitdate>
+            <container altrender="Record carton" id="aspace_3a76961b574ae24ae02bf5c3c39cdff4" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_6f4ba9b7fabda1f41f9a4944db528080" parent="aspace_3a76961b574ae24ae02bf5c3c39cdff4" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref206" level="file">
+          <did>
+            <unittitle>Navasky, Victor</unittitle>
+            <unitdate datechar="creation" normal="1984/2001" type="inclusive">1984 , 1987 , 1991-2001</unitdate>
+            <container altrender="Record carton" id="aspace_b70103b0a58c35aabbc17581757461fc" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_30bf7f343eaad3408bad51344689d1af" parent="aspace_b70103b0a58c35aabbc17581757461fc" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref207" level="file">
+          <did>
+            <unittitle>Nelson, Anna Katsen: Review of The Haunted Wood and Venona</unittitle>
+            <unitdate datechar="creation">Jun 25, 1999</unitdate>
+            <container altrender="Record carton" id="aspace_7047a93ea2bc88589b2679490d980750" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_a15cf75b9d96f3aeb6d92c45b8b4b387" parent="aspace_7047a93ea2bc88589b2679490d980750" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref208" level="file">
+          <did>
+            <unittitle>New York Times: Op-Eds</unittitle>
+            <unitdate datechar="creation" normal="1991/1998" type="inclusive">1991-1993 , 1998</unitdate>
+            <container altrender="Record carton" id="aspace_de55ea54d5d89ddda81e1fc545927e7d" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_f915c3348204974ff6937d6b4a640a28" parent="aspace_de55ea54d5d89ddda81e1fc545927e7d" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref209" level="file">
+          <did>
+            <unittitle>New York University: Arthur Garfield Hays Civil Liberties Program</unittitle>
+            <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+            <container altrender="Record carton" id="aspace_5f0db3fad62a2f28b06828a4e4b7450c" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_786766ac2b78b9282f2abb5ee4f749e5" parent="aspace_5f0db3fad62a2f28b06828a4e4b7450c" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref210" level="file">
+          <did>
+            <unittitle>Nixon, Richard: Clippings</unittitle>
+            <unitdate datechar="creation" normal="1973/1997" type="inclusive">1973-1976 , 1987-1997</unitdate>
+            <container altrender="Record carton" id="aspace_ba54a89a20cf3040419c5cbb0e891a3b" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_b682e60be908d3c54e58487ca5a70ba4" parent="aspace_ba54a89a20cf3040419c5cbb0e891a3b" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref211" level="file">
+          <did>
+            <unittitle>Nixon, Richard: "The Strange Case of Alger Hiss," Reader's Digest</unittitle>
+            <unitdate datechar="creation">Nov 1962</unitdate>
+            <container altrender="Record carton" id="aspace_04c9c50a0a955322e66c58d90ce41025" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_07eba828d14f9d4d77616ebf03483bad" parent="aspace_04c9c50a0a955322e66c58d90ce41025" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref212" level="file">
+          <did>
+            <unittitle>Northern Arizona University: Center for Sustainable Environment</unittitle>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container altrender="Record carton" id="aspace_eaad4b620dba3bbc340d95fe00c7b2f9" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_32aada8670344ec2297249b0db241295" parent="aspace_eaad4b620dba3bbc340d95fe00c7b2f9" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref213" level="file">
+          <did>
+            <unittitle>Pavlov, Vasili: Operation Snow</unittitle>
+            <unitdate datechar="creation" normal="1999/2001" type="inclusive">1999-2001</unitdate>
+            <container altrender="Record carton" id="aspace_d82d8d4fcba704240c94ab966bbf86d2" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_1cfd932b86d8a48e7d01e1163234bf54" parent="aspace_d82d8d4fcba704240c94ab966bbf86d2" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref214" level="file">
+          <did>
+            <unittitle>Park, Rosemary: Correspondence</unittitle>
+            <unitdate datechar="creation">Dec 4, 1950</unitdate>
+            <container altrender="Record carton" id="aspace_19a2f63768c1f9f18d9e742f912f6465" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_f06adeb5b4df47064127984b5bc90bf9" parent="aspace_19a2f63768c1f9f18d9e742f912f6465" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref215" level="file">
+          <did>
+            <unittitle>Policy Review</unittitle>
+            <unitdate datechar="creation" normal="1992/1993" type="inclusive">1992-1993</unitdate>
+            <container altrender="Record carton" id="aspace_7bededc19348bd07a2453154140f3f51" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_a15e9d2394a72e01e08e5b52eb035ad0" parent="aspace_7bededc19348bd07a2453154140f3f51" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref216" level="file">
+          <did>
+            <unittitle>Popkin, Richard H and Barry Glassner: "Is Robert F. Bennett 'Deep Throat'," United Press International, Typescript</unittitle>
+            <unitdate datechar="creation">May 1975</unitdate>
+            <container altrender="Record carton" id="aspace_f03dc9625f4ac88ec7587a32906f660c" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_fb8dc1991b223cda7bdd4db1084480b5" parent="aspace_f03dc9625f4ac88ec7587a32906f660c" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref217" level="file">
+          <did>
+            <unittitle>Rabinowitz, Victor: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1996/1998" type="inclusive">1996 , 1998</unitdate>
+            <container altrender="Record carton" id="aspace_f96df64ebba14b4218f2d2781fea8704" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_517e77ee0b729b65877b58def22cdf46" parent="aspace_f96df64ebba14b4218f2d2781fea8704" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref218" level="file">
+          <did>
+            <unittitle>Reuben, William: Book, Re: Hiss</unittitle>
+            <unitdate datechar="creation" normal="2003/2004" type="inclusive">2003-2004</unitdate>
+            <container altrender="Record carton" id="aspace_258cc391df675f83d350a480debf23cd" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_abcc3b8397ef0e5808833effe325b98c" parent="aspace_258cc391df675f83d350a480debf23cd" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref219" level="file">
+          <did>
+            <unittitle>Reuben, William: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1980/1998" type="inclusive">1980 , 1990 , 1993-1998</unitdate>
+            <container altrender="Record carton" id="aspace_63c7dde1f43f584fd4db7cb822287bfc" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_5ec32e8bc706aeef44e4df964b3f8e7d" parent="aspace_63c7dde1f43f584fd4db7cb822287bfc" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref220" level="file">
+          <did>
+            <unittitle>Reuben, William: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1999/2003" type="inclusive">1999-2003</unitdate>
+            <container altrender="Record carton" id="aspace_0ec5086437db009fd22cf4aac3dbb508" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_2349c56a2350829126ca601def04b43c" parent="aspace_0ec5086437db009fd22cf4aac3dbb508" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref221" level="file">
+          <did>
+            <unittitle>Reuben, William: Oral History, Re: Hiss</unittitle>
+            <unitdate datechar="creation" normal="1984/2001" type="inclusive">1984 , 2000-2001</unitdate>
+            <container altrender="Record carton" id="aspace_49653e89ecdb5f9ae01e862e0178204a" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_cb3676e3f7dd2ff49220c675853931de" parent="aspace_49653e89ecdb5f9ae01e862e0178204a" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref222" level="file">
+          <did>
+            <unittitle>Richards, Christopher: Alger Hiss Archive</unittitle>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container altrender="Record carton" id="aspace_dbde1692ecdf0b0261fd4ee9cff61284" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_a910973cf4fd41088dc057da4486e20f" parent="aspace_dbde1692ecdf0b0261fd4ee9cff61284" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref223" level="file">
+          <did>
+            <unittitle>Richards, Christopher: Alger Hiss Archive, Annual and Monthly Reports</unittitle>
+            <unitdate datechar="creation" normal="2001/2004" type="inclusive">2001-2004</unitdate>
+            <container altrender="Record carton" id="aspace_510d0192cafb32ffa41e752be796868b" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_b32ee006973d0d1632fc359fa8d50f28" parent="aspace_510d0192cafb32ffa41e752be796868b" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref224" level="file">
+          <did>
+            <unittitle>Richards, Christopher: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="2002/2004" type="inclusive">2002-2004</unitdate>
+            <container altrender="Record carton" id="aspace_9258981677cdce5ab71489ef2e2415b6" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_642bc966a95e782e8dfcd0c2752402ab" parent="aspace_9258981677cdce5ab71489ef2e2415b6" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref225" level="file">
+          <did>
+            <unittitle>Richter, David: Correspondence</unittitle>
+            <unitdate datechar="creation">Jan 8, 1985</unitdate>
+            <container altrender="Record carton" id="aspace_7cc0081b242c27ad44bbf183c3575ba2" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_e093604bc570a59605ab89e19991a392" parent="aspace_7cc0081b242c27ad44bbf183c3575ba2" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref226" level="file">
+          <did>
+            <unittitle>Riesman, David: Individualism Reconsidered and Other Essays (excerpts)</unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+            <container altrender="Record carton" id="aspace_647bd387c638c2c4abe00048fde463ad" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_846c5caec18dd9105ba51dc3249256a1" parent="aspace_647bd387c638c2c4abe00048fde463ad" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref227" level="file">
+          <did>
+            <unittitle>Society of American Archivists: Statement re: Alger Hiss</unittitle>
+            <unitdate datechar="creation" normal="1925/2004" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_7cbaf42fd8fc886fc779d120f7d6ac56" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_9696789e5e6446acb2ef51b5852fdedc" parent="aspace_7cbaf42fd8fc886fc779d120f7d6ac56" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref228" level="file">
+          <did>
+            <unittitle>Some Questions and Answers Concerning Mr. Hiss and His Fordham Visit</unittitle>
+            <unitdate datechar="creation">Nov 30, 1976</unitdate>
+            <container altrender="Record carton" id="aspace_11354fb5b242d759f6c6dd36403cea30" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_8f12876d94515ca5e9d7c5105c441d9e" parent="aspace_11354fb5b242d759f6c6dd36403cea30" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref229" level="file">
+          <did>
+            <unittitle>Symposia: Georgetown, Harvard and New York University</unittitle>
+            <unitdate datechar="creation" normal="1978/2000" type="inclusive">1978 , 1999-2000</unitdate>
+            <container altrender="Record carton" id="aspace_c879ae048ee69ceee29a668471c797f3" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_dfdd6e0836d9c45a7081ac5a9a01f609" parent="aspace_c879ae048ee69ceee29a668471c797f3" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref230" level="file">
+          <did>
+            <unittitle>Tanenhaus, Sam: Re: Whittaker Chambers</unittitle>
+            <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+            <container altrender="Record carton" id="aspace_b721d0843cfedce0387cb945a910e0c3" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_e0c2909b09ba37afb4ee9a715e33d065" parent="aspace_b721d0843cfedce0387cb945a910e0c3" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref231" level="file">
+          <did>
+            <unittitle>Tiger, Edith: In Re: Alger Hiss</unittitle>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+            <container altrender="Record carton" id="aspace_1c0e893e6ac444a6b7160a3473771f44" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_a8fb0b7946e831995828c82687f71391" parent="aspace_1c0e893e6ac444a6b7160a3473771f44" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref232" level="file">
+          <did>
+            <unittitle>United Nations: Correspondence</unittitle>
+            <unitdate datechar="creation">May 7, 1996</unitdate>
+            <container altrender="Record carton" id="aspace_dda4ae9f3c9e35da9a97622974e5f031" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_c5965efc287e62fa7b9a2fa8cb91ced1" parent="aspace_dda4ae9f3c9e35da9a97622974e5f031" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref233" level="file">
+          <did>
+            <unittitle>University of Texas at Austin: Jamail Center for Legal Research</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+            <container altrender="Record carton" id="aspace_40f2a1488b5734f323d488c3cd72c408" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_65e05d269e8ae460deb552b995df23ee" parent="aspace_40f2a1488b5734f323d488c3cd72c408" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref234" level="file">
+          <did>
+            <unittitle>Venona Article: Mailing</unittitle>
+            <unitdate datechar="creation" normal="2000/2002" type="inclusive">2000-2002</unitdate>
+            <container altrender="Record carton" id="aspace_4f3becd87ceacca889472dcf6d1a7dbc" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_092ed865c7b2608444599ac3207d19a4" parent="aspace_4f3becd87ceacca889472dcf6d1a7dbc" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref235" level="file">
+          <did>
+            <unittitle>Venona Cables: Re: "Ales"</unittitle>
+            <unitdate datechar="creation" normal="1996/2002" type="inclusive">1996 , 1999-2002</unitdate>
+            <container altrender="Record carton" id="aspace_ab7ce3310b5aaaba6862f83965c3a74b" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_4bf90fb9cd10d898e93ec623624a3f55" parent="aspace_ab7ce3310b5aaaba6862f83965c3a74b" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref236" level="file">
+          <did>
+            <unittitle>Venona Cables: Re: Hiss</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container altrender="Record carton" id="aspace_1fda0972b88c88be972645c56c3fe1ff" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_d7ba687617348d28f25e2660a3c21a52" parent="aspace_1fda0972b88c88be972645c56c3fe1ff" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref237" level="file">
+          <did>
+            <unittitle>Venona Conference</unittitle>
+            <unitdate datechar="creation" normal="1996/1996" type="inclusive">1996</unitdate>
+            <container altrender="Record carton" id="aspace_5218e650521b835b119e567b5878a18c" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_61b181f79406dfdb2dbbbc0123bd78f9" parent="aspace_5218e650521b835b119e567b5878a18c" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref238" level="file">
+          <did>
+            <unittitle>Wadleigh, Henry Julian: FBI File</unittitle>
+            <unitdate datechar="creation" normal="1948/1976" type="inclusive">1948-1976</unitdate>
+            <container altrender="Record carton" id="aspace_f5199bd1070d02bea423eeee94d86ae1" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_f1427aad6ff987d8e27f27254b5412ae" parent="aspace_f5199bd1070d02bea423eeee94d86ae1" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref239" level="file">
+          <did>
+            <unittitle>Watergate: Clippings and Nixon Interview on "Behind the Lines"</unittitle>
+            <unitdate datechar="creation" normal="1973/1997" type="inclusive">1973-1974 , 1993-1994 , 1997</unitdate>
+            <container altrender="Record carton" id="aspace_355e0cd4e68c926f36dff48b6eecc1d6" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_494447fb6a925573d7953197775f4e5e" parent="aspace_355e0cd4e68c926f36dff48b6eecc1d6" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref240" level="file">
+          <did>
+            <unittitle>Weinstein, Allen: Clippings and Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1976/1999" type="inclusive">May 29, 1905 , 1984 , 1995-1999</unitdate>
+            <container altrender="Record carton" id="aspace_2c222c0068cee926c204a61f67a28e3c" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_6c09bb36e37defc8645f50e2e338f896" parent="aspace_2c222c0068cee926c204a61f67a28e3c" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref241" level="file">
+          <did>
+            <unittitle>Weiss, Louis: Correspondence</unittitle>
+            <unitdate datechar="creation">Oct 9, 1950</unitdate>
+            <container altrender="Record carton" id="aspace_2a0a6696f17ad1d040d3a52b33af93d4" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_5dfae44f542db9d33cbbb6cff7528abd" parent="aspace_2a0a6696f17ad1d040d3a52b33af93d4" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref242" level="file">
+          <did>
+            <unittitle>White, G. Edward: Writings re: Alger Hiss</unittitle>
+            <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+            <container altrender="Record carton" id="aspace_a5257efc37a7813312373a729529c33e" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_5f30fdb973f31779f921535d85d54b3a" parent="aspace_a5257efc37a7813312373a729529c33e" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref243" level="file">
+          <did>
+            <unittitle>White, Theodore: "Breach of Faith: The Fall of Richard Nixon" (condensed in Reader's Digest)</unittitle>
+            <unitdate datechar="creation">1975</unitdate>
+            <container altrender="Record carton" id="aspace_62a93c10159fefcf634f0c42d3e00463" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_1d4c6f8ec686694b304ff7c18a52c9f4" parent="aspace_62a93c10159fefcf634f0c42d3e00463" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref244" level="file">
+          <did>
+            <unittitle>Yalta: Clipping re: Hiss</unittitle>
+            <unitdate datechar="creation">Jul 2, 1974</unitdate>
+            <container altrender="Record carton" id="aspace_22d78d4df28ec55891cbd154c03ea3e8" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_499a9546462f2d8827c4e49d9043b4c8" parent="aspace_22d78d4df28ec55891cbd154c03ea3e8" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref245" level="file">
+          <did>
+            <unittitle>Zeligs, Meyer</unittitle>
+            <unitdate datechar="creation" normal="1925/2004" type="inclusive">undated , 1960 , 1967</unitdate>
+            <container altrender="Record carton" id="aspace_935c95946f374afb055ae2797e60c5fe" label="Mixed Materials [31142063412301]" type="Box">4</container>
+            <container id="aspace_6ff08e775d3949a788593f8828176cd7" parent="aspace_935c95946f374afb055ae2797e60c5fe" type="Folder">49</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

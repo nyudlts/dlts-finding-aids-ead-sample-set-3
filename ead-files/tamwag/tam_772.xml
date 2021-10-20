@@ -1,0 +1,2104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_772">tam_772</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Tamiment Library and Robert F. Wagner Labor Archives Collection of Arts and Media Serials <num>TAM.772</num></titleproper>
+        <author>Megan O'Shea and Alexa Logush</author>
+        <sponsor>The arrangement, description, and encoding of this collection has been made possible in part by a major grant from the National Endowment for the Humanities: Exploring the human endeavor.</sponsor>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>January 2019</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 04:03:57 -0400</date>.</creation>
+      <langusage>Finding aid written in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>May 2019</date>
+        <item>Updated by Jennipher Ambrose to incorporate material omitted during initial processing of the collection</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Tamiment Library and Robert F. Wagner Labor Archives Collection of Arts and Media Serials</unittitle>
+      <origination label="Creator">
+        <corpname source="local">Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </origination>
+      <unitid>TAM.772</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">10 Linear Feet</extent>
+        <extent altrender="carrier">in 18 manuscript boxes and 9 flat boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1893/2013" type="inclusive">1893-2013</unitdate>
+      <unitdate datechar="creation" normal="1960/1989" type="bulk">1960-1989</unitdate>
+      <abstract id="aspace_28d6045df7b27aa2044c78e1da211d69">The Tamiment Library and Robert F. Wagner Labor Archives Collection of Arts and Media Serials contains over 200 titles on arts and media in the United States, Europe, and other countries in the 19th and 20th centuries.  The collection dates between 1893 and 2013, with the bulk of the material dating from the 1960s through the 1980s.  Topics include literature, broadcast media, journalism, theater, and literature and communication studies in colleges and universities.</abstract>
+      <physloc id="aspace_7f8e7dc59105cc665d8d7357fdcdb768">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_85944d27f73eb2f2a551fc0536a99c16">Materials primarily in English, with some publications in French, German, Spanish, and Yiddish.</langmaterial>
+    </did>
+    <arrangement id="aspace_03ee58e8e4fe903af48944f7a50eb128">
+      <head>Arrangement</head>
+      <p>Serials in this collection are arranged alphabetically by title.</p>
+    </arrangement>
+    <accessrestrict id="aspace_c7152893e2c6ed83e292787be3ae05a3">
+      <head>Conditions Governing Access</head>
+      <p>Open to users without restriction.</p>
+    </accessrestrict>
+    <userestrict id="aspace_efca541802d119b273272f3eab9cfa82">
+      <head>Conditions Governing Use</head>
+      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Tamiment Library &amp; Robert F. Wagner Labor Archives is not authorized to grant permission to publish or reproduce materials from this collection.</p>
+    </userestrict>
+    <acqinfo id="aspace_cb1eb25919d0596d3bce2d812ab54c93">
+      <head>Immediate Source of Acquisition</head>
+      <p>This collection combines serials relating to arts and media drawn from two discrete groups of material held by the Tamiment Library. The first was a partially inventoried backlog of serials, received by the library through donations, subscriptions, and in archival collections. The second group consisted of around 1,700 serials, newspapers, and magazines, organized by title as an artificial collection, referred to as Periodicals.001 or Boxed Newspapers. This material was combined, inventoried, and arranged and described in subject-based categories in 2017. The accession number related to this collection is 2017.049.</p>
+    </acqinfo>
+    <prefercite id="aspace_2a2705de517ec9d7fa4068d8c47685d4">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Tamiment Library and Robert F. Wagner Labor Archives Collection of Arts and Media Serials; TAM 772; box number; folder number; Tamiment Library &amp; Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_51abd4827cb410cab6977731b2395663">
+      <head>Processing Information</head>
+      <p>The material in this collection was assembled from various backlogs of uncataloged material held by the Tamiment Library. This material was inventoried, separated according to its subject matter, and arranged in a series of subject-based artificial collections. Accumulations of material relating to arts and media were identified and brought together physically. Materials were housed in archival folders and boxes according to size. The inventory is arranged alphabetically by title of publication, with publishing organization and place of publication listed when known.</p>
+    </processinfo>
+    <scopecontent id="aspace_80c8c2ecac62c2d895c4c6f2ae3055a6">
+      <head>Scope and Contents</head>
+      <p>The Tamiment Library and Robert F. Wagner Labor Archives Collection of Arts and Media Serials contains over 200 titles on arts and media in the United States (US), Europe, and other countries in the 20th century.  The collection dates between 1912 and 2013, with the bulk of the material dating from the 1960s through the 1980s.  Topics include the study of American, European, Asian, and African literature and theater, as well as criticism written on these topics, mainly in the US, France, and Canada in the 20th century.  Other topics include issues surrounding broadcast media, journalism, communication studies in colleges and universities, community access television, and public radio in New York, California, and other US states in the 20th century.  Large runs of titles include <emph render="italic">The Staff</emph> and <emph render="italic">Zamlungen</emph>.</p>
+    </scopecontent>
+    <controlaccess>
+      <subject source="lcsh">Literature, Modern -- History and criticism.</subject>
+      <subject source="lcsh">Literature, Modern -- Study and teaching.</subject>
+      <genreform source="aat">Serials (publications)</genreform>
+      <subject source="lcsh">Journalism -- United States -- 20th century.</subject>
+      <subject source="lcsh">Mass media and culture.</subject>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_b41d7cf8308a21773c2e0afad951d827" level="file">
+        <did>
+          <unittitle><emph render="italic">A Mario Rapisardi</emph> : Italian Printing Co., Pittsburgh, PA</unittitle>
+          <unitdate datechar="creation" normal="1912/1912" type="inclusive">1912</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_975d7150c222c823ff1afb4ccb46a78d" label="Mixed Materials [31142063007689]" type="Box">1</container>
+          <container id="aspace_3599469acceb85354e4a6d5ca6110829" parent="aspace_975d7150c222c823ff1afb4ccb46a78d" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_bad152411ba535521ac818d4c680de15" level="file">
+        <did>
+          <unittitle><emph render="italic">Aardvark</emph> : Aardvark Publications, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3140264c08cf51502d852cd8df145817" label="Mixed Materials [31142063007689]" type="Box">1</container>
+          <container id="aspace_e8f0e6576b9de608f7538d634b2856c2" parent="aspace_3140264c08cf51502d852cd8df145817" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_c3b334341bbf06add29bacf857f6b423" level="file">
+        <did>
+          <unittitle><emph render="italic">Access</emph> : National Citizens Committee for Broadcasting, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1981/1983" type="inclusive">1981-1983</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_b67508330031c5c7319d761d0e35a8f6" label="Mixed Materials [31142063007853]" type="Box">18</container>
+          <container id="aspace_04b831b492dfeda4eb9f3d64fa8c9c8e" parent="aspace_b67508330031c5c7319d761d0e35a8f6" type="Folder">2-3</container>
+        </did>
+      </c>
+      <c id="aspace_82b13759ca4444fcd0dfa15928d3b285" level="file">
+        <did>
+          <unittitle><emph render="italic">ACRATA</emph> : Acrata, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_64fea661abaf6dbd04e9bfb80edf5451" label="Mixed Materials [31142063007689]" type="Box">1</container>
+          <container id="aspace_5936f9a055aa8b3309ef74dcff8134ab" parent="aspace_64fea661abaf6dbd04e9bfb80edf5451" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ea26bd1956c9420b3016b2f1bc3cf3fc" level="file">
+        <did>
+          <unittitle><emph render="italic">Action Poetique</emph> : Action Poetique, Paris, France</unittitle>
+          <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9495e7bc7e75f6c4098a103238d4f1a6" label="Mixed Materials [31142063007689]" type="Box">1</container>
+          <container id="aspace_b2cf2827ceb7c39b863ebc9c904a1f93" parent="aspace_9495e7bc7e75f6c4098a103238d4f1a6" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_a67008a9c6f20117606b4abf34ed7e47" level="file">
+        <did>
+          <unittitle><emph render="italic">ACUCAA</emph> : Association of College, University and Community Arts Adminstrators, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7b0d37b248292da53681c9c8ac8615f3" label="Mixed Materials [31142063007689]" type="Box">1</container>
+          <container id="aspace_42310450950d8156e13ece967ec0b142" parent="aspace_7b0d37b248292da53681c9c8ac8615f3" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_e31af5865faf95247b1e615993973242" level="file">
+        <did>
+          <unittitle><emph render="italic">ACUCAA Bulletin</emph> : Association of College, University and Community Arts Adminstrators, Madison, WI</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c31bf8c9ba1ef7716cd4eae25cab5ccf" label="Mixed Materials [31142063007689]" type="Box">1</container>
+          <container id="aspace_4ff778c099c78b9c96f6365c0aebd23a" parent="aspace_c31bf8c9ba1ef7716cd4eae25cab5ccf" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_28300342214e1a861e7acbce5c321ebe" level="file">
+        <did>
+          <unittitle><emph render="italic">Advice</emph> : Center for the Study of Commercialism, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1992/1995" type="inclusive">1992-1995</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c6d977241ce551ae44391165ec915e39" label="Mixed Materials [31142063007689]" type="Box">1</container>
+          <container id="aspace_a6cbef7d380151ec93233e3634755c7d" parent="aspace_c6d977241ce551ae44391165ec915e39" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_a9f3e0933c373cd830a5ff006738b74d" level="file">
+        <did>
+          <unittitle><emph render="italic">Afro-Asian Writings</emph> : Permanent Bureau of Afro-Asian Writers, Cairo, Egypt</unittitle>
+          <unitdate datechar="creation" normal="1967/1973" type="inclusive">1967-1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b91f93038f8977dacb16ac66e0b9151f" label="Mixed Materials [31142063007689]" type="Box">1</container>
+          <container id="aspace_06f929083eeac3e505c972b726fc26f7" parent="aspace_b91f93038f8977dacb16ac66e0b9151f" type="Folder">8-11</container>
+          <container altrender="Manuscript box - Legal" id="aspace_7e3c0aaf39dded0248902a023ec7e9c2" label="Mixed Materials [31142063007697]" type="Box">2</container>
+          <container id="aspace_63d9d4b9dfe2c4bcebe9966657aead8d" parent="aspace_7e3c0aaf39dded0248902a023ec7e9c2" type="Folder">1-4</container>
+        </did>
+      </c>
+      <c id="aspace_6a7f60f52b213c719e2967ca5d97cee2" level="file">
+        <did>
+          <unittitle><emph render="italic">Agency Regulations</emph> : Screen Actors Guild, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6137db4e80b6b9d7679e181bc60ab84b" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_4d6f14626ba25c5135a0046300f85a19" parent="aspace_6137db4e80b6b9d7679e181bc60ab84b" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_e034c447a982b664bb47638e5e2f5a84" level="file">
+        <did>
+          <unittitle><emph render="italic">Agni</emph> : The Agni Review, Inc., Boston, MA</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5866cc4ee07763225a27954755838b82" label="Mixed Materials [31142063007697]" type="Box">2</container>
+          <container id="aspace_706990d8c1ad8a1a09b1c89f3d5c23a2" parent="aspace_5866cc4ee07763225a27954755838b82" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_533059a272910e70406238a7772d6c65" level="file">
+        <did>
+          <unittitle><emph render="italic">Ajoblanco</emph> : Ajoblanco, Barcelona, Spain</unittitle>
+          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_431049338a90437832ef12812bf39416" label="Mixed Materials [31142063007705]" type="Box">3</container>
+          <container id="aspace_bd8ce494659ab7c28bafa25f09a7453f" parent="aspace_431049338a90437832ef12812bf39416" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_cce9eab9c41dc6c9d8a14c082704fda6" level="file">
+        <did>
+          <unittitle><emph render="italic">ALA Newsletter</emph> : African Literature Association, University Park, PA</unittitle>
+          <unitdate datechar="creation" normal="1976/1978" type="inclusive">1976-1978</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8153040729abb6e5942b412343d46812" label="Mixed Materials [31142063007705]" type="Box">3</container>
+          <container id="aspace_a1cd20516bb5fe00ba29083c0b2a5036" parent="aspace_8153040729abb6e5942b412343d46812" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_4887d2ea1369bed8ee711510e31576e6" level="file">
+        <did>
+          <unittitle><emph render="italic">Alternative Theatre</emph> : Theatre Project, Antioch College, Baltimore, MD</unittitle>
+          <unitdate datechar="creation" normal="1975/1976" type="inclusive">1975-1976</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_06df229de0e45918ccab9180afc9b953" label="Mixed Materials [31142063007887]" type="Box">21</container>
+          <container id="aspace_42e036aa18fd0a22d9dbba8b99710af8" parent="aspace_06df229de0e45918ccab9180afc9b953" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_0a088aab72abfa307073611de9b40205" level="file">
+        <did>
+          <unittitle><emph render="italic">American Spectator</emph> : The American Spectator, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1930/1939" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c5c9783376fa1e27c57f3e0bccf1695f" label="Mixed Materials [31142063007705]" type="Box">3</container>
+          <container id="aspace_8d4632d25f5507e8ad390d260fbe81d0" parent="aspace_c5c9783376fa1e27c57f3e0bccf1695f" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_82a26c5f49ec1477c095527d880cb13d" level="file">
+        <did>
+          <unittitle><emph render="italic">And Then</emph> : The Magic Circle Printing Co., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1989/1993" type="inclusive">1989-1993</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cc3f99df4b9527dd4dd866bb13918c8c" label="Mixed Materials [31142063007705]" type="Box">3</container>
+          <container id="aspace_5dc3d35018afd2ee018edc2a5025b5f5" parent="aspace_cc3f99df4b9527dd4dd866bb13918c8c" type="Folder">4-5</container>
+        </did>
+      </c>
+      <c id="aspace_fb9acf928999a3d1aa305ded8c5e7289" level="file">
+        <did>
+          <unittitle><emph render="italic">Anvil : The Proletarian Fiction Magazine</emph> : Jack Conroy and Walter Snow, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d144837d00400e3dcb81cdb4e1747bda" label="Mixed Materials [31142063007705]" type="Box">3</container>
+          <container id="aspace_d5f1c922a494eeec98a6c50640ce8c9e" parent="aspace_d144837d00400e3dcb81cdb4e1747bda" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_6261b813499a3614c4d9b08799b4386f" level="file">
+        <did>
+          <unittitle><emph render="italic">Arbeitshefte</emph> : Academy of Arts of the German Democratic Republic, Berlin, Germany</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ac552f4c68c9f8ae3362bad972a6e38c" label="Mixed Materials [31142063007705]" type="Box">3</container>
+          <container id="aspace_3cde0c5277a9a4e68cc3dcad824a8b8e" parent="aspace_ac552f4c68c9f8ae3362bad972a6e38c" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_3ce0ddb299371113b0c99fd8648cd4ec" level="file">
+        <did>
+          <unittitle><emph render="italic">Arena : A Literary Magazine</emph> : Fore Publications, Ltd., London, UK</unittitle>
+          <unitdate datechar="creation" normal="1940/1949" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4e2a333a4dc920cf2ade8799cf40c5a6" label="Mixed Materials [31142063007705]" type="Box">3</container>
+          <container id="aspace_f8db3f349503a56091839d44c7559112" parent="aspace_4e2a333a4dc920cf2ade8799cf40c5a6" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_514dc9f3c432f6e65acd7f6628ae671a" level="file">
+        <did>
+          <unittitle><emph render="italic">Arena: A Magazine of Modern Literature</emph> : Kenion Press, Ltd., London, UK</unittitle>
+          <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a3395b0a82ecf012593a1c5f7e50ab3c" label="Mixed Materials [31142063007705]" type="Box">3</container>
+          <container id="aspace_2b339fda0bdec1ad7c02d8578426ec24" parent="aspace_a3395b0a82ecf012593a1c5f7e50ab3c" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_11f6cfc720be50de30b4936eedbb24fa" level="file">
+        <did>
+          <unittitle><emph render="italic">Art Meets Labor</emph> : Art Meets Labor, Oak Park, IL</unittitle>
+          <unitdate datechar="creation" normal="1980/1989" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_884739d753c0c2c796485983268dcfb7" label="Mixed Materials [31142063007705]" type="Box">3</container>
+          <container id="aspace_9240a7b464e786d0b3a83db79a0acc9b" parent="aspace_884739d753c0c2c796485983268dcfb7" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_9c5fc97e863a93c445ea9217e922aa37" level="file">
+        <did>
+          <unittitle><emph render="italic">Art Review</emph> : Art Review Inc, Canada</unittitle>
+          <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_34d6e30a8d07fcaf9e3a8e3f72e9ee00" label="Mixed Materials [31142063007705]" type="Box">3</container>
+          <container id="aspace_f9657d5d879c7031d7dfdeb3754bc5e5" parent="aspace_34d6e30a8d07fcaf9e3a8e3f72e9ee00" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_539cf02b776991344b93792052c42e3b" level="file">
+        <did>
+          <unittitle><emph render="italic">Arts in Society</emph> : Regents of the University of Wisconsin System, Madison, WI</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b36b9a96a71ba55be8b3be03ce10f819" label="Mixed Materials [31142063007705]" type="Box">3</container>
+          <container id="aspace_91f0505acd283ce5c0f281e2808d64b8" parent="aspace_b36b9a96a71ba55be8b3be03ce10f819" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_851965b3ea4c091d879aa777cff3ae9b" level="file">
+        <did>
+          <unittitle><emph render="italic">Artscene</emph> : Arts Council at Freeport, Freeport, NY</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_bd5cf8df88d91a4c5101d415abebe9a6" label="Mixed Materials [31142063007887]" type="Box">21</container>
+          <container id="aspace_0dbfe4adf7e899f33776c8ddcd3197c9" parent="aspace_bd5cf8df88d91a4c5101d415abebe9a6" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_fd77f498ca12297a6041868e05473f3e" level="file">
+        <did>
+          <unittitle><emph render="italic">Artsnews</emph> : Westchester Arts Council, White Plains, NY</unittitle>
+          <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_2a3825d3a34f7dc884c99b3830c3c848" label="Mixed Materials [31142063007853]" type="Box">18</container>
+          <container id="aspace_dc20da0dad5fa6ea9aaecfd740424fa6" parent="aspace_2a3825d3a34f7dc884c99b3830c3c848" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_0d23c14c599828caa74ff11934d2b778" level="file">
+        <did>
+          <unittitle><emph render="italic">Artweek</emph> : Spaulding-Devlin, Inc., San Jose, CA</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_bf0992e26380eb3ffb7f398b640f9453" label="Mixed Materials [31142063007853]" type="Box">18</container>
+          <container id="aspace_e1f3863d98ea8e5ffdcfb4f347488e59" parent="aspace_bf0992e26380eb3ffb7f398b640f9453" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_c1f92bb6bdfd7442f59da6539801354e" level="file">
+        <did>
+          <unittitle><emph render="italic">Atlas</emph> : World Press Company, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fe283a4e46e83e3e012f479ca0f2f4e6" label="Mixed Materials [31142063007705]" type="Box">3</container>
+          <container id="aspace_06bb6a48db6d127345f110f860b920a7" parent="aspace_fe283a4e46e83e3e012f479ca0f2f4e6" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_64bbbea8f4ca07f4e1998edd9daffa68" level="file">
+        <did>
+          <unittitle><emph render="italic">Attitude</emph> : Dance Giant Steps, Inc., Brooklyn, NY</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6f909ebfba5372fb337f2865c653cae9" label="Mixed Materials [31142063007705]" type="Box">3</container>
+          <container id="aspace_c3f913931854373c335ebb16bb121b35" parent="aspace_6f909ebfba5372fb337f2865c653cae9" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_30256f584281b9d6269211c420270dec" level="file">
+        <did>
+          <unittitle><emph render="italic">au - arquitectura y urbanismo</emph> : Higher Politechnical Institute Jose Antonio Echeverria, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3523c82956adfe351263a79ef6b162fa" label="Mixed Materials [31142063007705]" type="Box">3</container>
+          <container id="aspace_1d9c31145fac3ea3e7d9c362b53125ac" parent="aspace_3523c82956adfe351263a79ef6b162fa" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_cd65c5709e8ee9723b23a58c23d8c7fe" level="file">
+        <did>
+          <unittitle><emph render="italic">Beatniks from Space</emph> : The Neither/Nor Press, Ann Arbor, MI</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_adb8966b05b0e59be03f504ed4c58e4d" label="Mixed Materials [31142063007887]" type="Box">21</container>
+          <container id="aspace_3a5122a2ab85d7226934356e7187a142" parent="aspace_adb8966b05b0e59be03f504ed4c58e4d" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_63c71b297a31e2e96f6d74da6a671190" level="file">
+        <did>
+          <unittitle><emph render="italic">Beats the News</emph> : Jump Cut, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1980/1989" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4dcafd7b1ba8812947e0f4b6fb30d6d9" label="Mixed Materials [31142063007713]" type="Box">4</container>
+          <container id="aspace_1194a368b1e6114c55698b470cec0c49" parent="aspace_4dcafd7b1ba8812947e0f4b6fb30d6d9" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_9ccf0b9fc9465f56b1b0cd12034cd5cd" level="file">
+        <did>
+          <unittitle><emph render="italic">Bertolt Brecht</emph> : The Drama Review, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_840b6d6476a8a63a09f97134e863c6b0" label="Mixed Materials [31142063007713]" type="Box">4</container>
+          <container id="aspace_b56c17dc26b81c0f9d5425b7d81e9327" parent="aspace_840b6d6476a8a63a09f97134e863c6b0" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_4c5449d8ffedbc2b9ff477783152292a" level="file">
+        <did>
+          <unittitle><emph render="italic">Bertolt Brecht : Theatre Complet</emph> : L'Arche Editeur, Paris, France</unittitle>
+          <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5f58a3d2cb1de033d09a357f588908df" label="Mixed Materials [31142063007713]" type="Box">4</container>
+          <container id="aspace_4c531a4b7541766039ad19a567c7280f" parent="aspace_5f58a3d2cb1de033d09a357f588908df" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_28ee4301163d4495740d6f8bbb1512fe" level="file">
+        <did>
+          <unittitle><emph render="italic">Bertolt Brecht Der gute Mensch von Sezuan</emph> : Suhrkamp Verlag, Berlin, Germany</unittitle>
+          <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_049ff80fd47b09c6e2aeccdb1e7eff00" label="Mixed Materials [31142063007713]" type="Box">4</container>
+          <container id="aspace_fbb0e485c4f0b19e90873aebd9ed0266" parent="aspace_049ff80fd47b09c6e2aeccdb1e7eff00" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ec9043aecda03d07aabcea61cc22e601" level="file">
+        <did>
+          <unittitle><emph render="italic">Bertolt Brecht Schriften zum Theater</emph> : Suhrkamp Verlag, Berlin, Germany</unittitle>
+          <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b4fc30b12a8906a8c60a3e8c86371d81" label="Mixed Materials [31142063007713]" type="Box">4</container>
+          <container id="aspace_0c98ffe4cbcf0e0e17986d0cb5d2fbbd" parent="aspace_b4fc30b12a8906a8c60a3e8c86371d81" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_030127a00f312fb1c61c04269bace8d8" level="file">
+        <did>
+          <unittitle><emph render="italic">Bertolt Brecht : The Days of the Commune</emph> : Dunster Drama Review, Cambridge, MA</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e6151b20a3b050c18bb9ceed2cd91dc7" label="Mixed Materials [31142063007713]" type="Box">4</container>
+          <container id="aspace_709cb379307b99323908cc023d0e0718" parent="aspace_e6151b20a3b050c18bb9ceed2cd91dc7" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_8a7492abdea881b57b65c7bddc8273ce" level="file">
+        <did>
+          <unittitle><emph render="italic">Bertolt Brechts Gedichte und Lieder</emph> : Suhrkamp Verlag, Berlin, Germany</unittitle>
+          <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5e7bb2b218a567516feadb9dac2899c1" label="Mixed Materials [31142063007713]" type="Box">4</container>
+          <container id="aspace_cc6d90abc4f996d4d00069fe70e1d520" parent="aspace_5e7bb2b218a567516feadb9dac2899c1" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_9768d696209451452ffa9acbb1313f15" level="file">
+        <did>
+          <unittitle><emph render="italic">Black Ascensions</emph> : King Publishing Co., Cleveland, OH</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4624ee363cc18ed5684bd94e1cb7fe64" label="Mixed Materials [31142063007713]" type="Box">4</container>
+          <container id="aspace_6594ce282fcb129223486c2cb65fa7b5" parent="aspace_4624ee363cc18ed5684bd94e1cb7fe64" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_df7c0db4988471d20e92d6195a8b3d36" level="file">
+        <did>
+          <unittitle><emph render="italic">Black Books Bulletin</emph> : The Institute of Positive Education, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_710a055ddcb42633827b91dce2963fc3" label="Mixed Materials [31142063007713]" type="Box">4</container>
+          <container id="aspace_ba8ce31c2cf089041890bc1d60cfbeca" parent="aspace_710a055ddcb42633827b91dce2963fc3" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_2011727d5ab65c7dda1b606fcc89bd68" level="file">
+        <did>
+          <unittitle><emph render="italic">Black Graphics International on Literature and Art</emph> : Black Graphics International, Detroit, MI</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_12d9d85229a59b0ec399835ce04df768" label="Mixed Materials [31142063007713]" type="Box">4</container>
+          <container id="aspace_bbbcbdfb44b802d8f8cc36eea9082fa9" parent="aspace_12d9d85229a59b0ec399835ce04df768" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_d7152d4cd102771378c46732bc9e7f3d" level="file">
+        <did>
+          <unittitle><emph render="italic">Blues</emph> : Lew Ney, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_576c36835ce13aa4d1f3cd04d03a0466" label="Mixed Materials [31142063007713]" type="Box">4</container>
+          <container id="aspace_e74d1438959541393ef24209997d1566" parent="aspace_576c36835ce13aa4d1f3cd04d03a0466" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_76a0de7e6b963134dfe9c71f4dfe7c4e" level="file">
+        <did>
+          <unittitle><emph render="italic">Bone</emph> : The Bone, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_133bdb84d60b2d49e0dc41314d99de6a" label="Mixed Materials [31142063007721]" type="Box">5</container>
+          <container id="aspace_98fdcba6639c1f862a9678e2359a3ef9" parent="aspace_133bdb84d60b2d49e0dc41314d99de6a" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_e94a6f97a8d36dc09d8d8b4a9cb3c6e7" level="file">
+        <did>
+          <unittitle><emph render="italic">Boog City</emph> : Boog City, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="2006/2006" type="inclusive">2006</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_665f3bfdb4876523cc93fedcc1e3c456" label="Mixed Materials [31142063007853]" type="Box">18</container>
+          <container id="aspace_f62eb4accf79b07eadc0a104281292c7" parent="aspace_665f3bfdb4876523cc93fedcc1e3c456" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_85cc1dd1758fc627c99c26aceff3d155" level="file">
+        <did>
+          <unittitle><emph render="italic">Book League Monthly</emph> : Book League of America, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7975db2c9d4c663c4c3b2f61e45aa1f5" label="Mixed Materials [31142063007721]" type="Box">5</container>
+          <container id="aspace_2944f97b16c768fbdfdaeea869aa3f00" parent="aspace_7975db2c9d4c663c4c3b2f61e45aa1f5" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_b79a0e6c2e7bd89f3cae1c11de22e22c" level="file">
+        <did>
+          <unittitle><emph render="italic">Book Peddler</emph> : National Yiddish Book Center, South Hadley, MA</unittitle>
+          <unitdate datechar="creation" normal="1994/1996" type="inclusive">1994-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bc87a269ac16c5f1679303d58a0059c6" label="Mixed Materials [31142063007721]" type="Box">5</container>
+          <container id="aspace_1580094b2fe2a6d7dc8b30f3f47cadef" parent="aspace_bc87a269ac16c5f1679303d58a0059c6" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_df1f6fb700a77425868a54eed68bc763" level="file">
+        <did>
+          <unittitle><emph render="italic">Booktab</emph> : Booktab, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1942/1943" type="inclusive">1942-1943</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_b54a76a6b253ac116bec6b7a436a32df" label="Mixed Materials [31142063007853]" type="Box">18</container>
+          <container id="aspace_a135002c66d7396add9d36a017c39b27" parent="aspace_b54a76a6b253ac116bec6b7a436a32df" type="Folder">5-7</container>
+        </did>
+      </c>
+      <c id="aspace_0de2fdda2a93b89df23ba8923f7214c4" level="file">
+        <did>
+          <unittitle><emph render="italic">Brecht Versuche</emph> : Suhrkamp Verlag, Berlin, Germany</unittitle>
+          <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1b43aeef9cde253043b47a261592814f" label="Mixed Materials [31142063007721]" type="Box">5</container>
+          <container id="aspace_6164251243b15276ff506f8e1f1d5816" parent="aspace_1b43aeef9cde253043b47a261592814f" type="Folder">4-5</container>
+        </did>
+      </c>
+      <c id="aspace_8255486f7f67223dc795c34531e14b20" level="file">
+        <did>
+          <unittitle><emph render="italic">Briv un Redes Fun I.L. Peretz</emph> : N. Meisel, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8210577a833d0464db2fab791efd2a8f" label="Mixed Materials [31142063007721]" type="Box">5</container>
+          <container id="aspace_f31cc3f5e8e0669ffafdf2fdccc6b964" parent="aspace_8210577a833d0464db2fab791efd2a8f" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_1fd133f00bb118b7bdca4e7e24348a9a" level="file">
+        <did>
+          <unittitle><emph render="italic">Broadside</emph> : Broadside, Ltd., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1984/1987" type="inclusive">1984-1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_662b6e74ceb29ea15eadb40a08498019" label="Mixed Materials [31142063007721]" type="Box">5</container>
+          <container id="aspace_81dbed2f12ff593238ca576e151fbfa4" parent="aspace_662b6e74ceb29ea15eadb40a08498019" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_5317cd16c6b94626589ed1a8ed071ad3" level="file">
+        <did>
+          <unittitle><emph render="italic">Bronx Arts</emph> : Bronx Council On The Arts, Bronx, NY</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_26cf6e7ea5618940d23e563fddd75237" label="Mixed Materials [31142063007853]" type="Box">18</container>
+          <container id="aspace_715ab8515d5499ab0a2e0af0af6a725e" parent="aspace_26cf6e7ea5618940d23e563fddd75237" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_d2bfd6b89a96c2af3111746908ee801a" level="file">
+        <did>
+          <unittitle><emph render="italic">Bulletin</emph> : National Theatre Conference, Cleveland, OH</unittitle>
+          <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ce72406e559f9a5c628df6123b610db4" label="Mixed Materials [31142063007721]" type="Box">5</container>
+          <container id="aspace_0e70338ce1c63f644585a6fae69b9c09" parent="aspace_ce72406e559f9a5c628df6123b610db4" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_9e2cd22b5c647e1ae9b20972496a59fe" level="file">
+        <did>
+          <unittitle><emph render="italic">Bulletin</emph> : The Association of Performing Arts Presenters, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f33de236e02efff3101cfca9bfb1e698" label="Mixed Materials [31142063007721]" type="Box">5</container>
+          <container id="aspace_8ec66e8537de731447665af00dbafea0" parent="aspace_f33de236e02efff3101cfca9bfb1e698" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_da11531acbc3e1b84530c05b6e2f719b" level="file">
+        <did>
+          <unittitle><emph render="italic">By Your Side</emph> : Mezhdunarodnaja Kniga, Moscow, Russia</unittitle>
+          <unitdate datechar="creation" normal="1940/1999" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b4b9dd5c8968a2abd929af0917ea7ca3" label="Mixed Materials [31142063007705]" type="Box">3</container>
+          <container id="aspace_89f4216ea0d3cdbae63cd5215edf3911" parent="aspace_b4b9dd5c8968a2abd929af0917ea7ca3" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_9cd7c240da60b1b428438bd5cf27f6e3" level="file">
+        <did>
+          <unittitle><emph render="italic">C.W. Bulletin</emph> : Contemporary Writers, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6513a9eb3ddc8db2d39c8e33fb3e6a8a" label="Mixed Materials [31142063007739]" type="Box">6</container>
+          <container id="aspace_edb05f69305ca9b4b1bb10e52500cb21" parent="aspace_6513a9eb3ddc8db2d39c8e33fb3e6a8a" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_4b6f5a0b121629611aef23ac2035cfc0" level="file">
+        <did>
+          <unittitle><emph render="italic">Call Sheet</emph> : Screen Actors Guild, Hollywood, CA</unittitle>
+          <unitdate datechar="creation" normal="1994/1996" type="inclusive">1994-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c3ec83ff6e0c26a0e945755de1f4524c" label="Mixed Materials [31142063007721]" type="Box">5</container>
+          <container id="aspace_a425cf068af245f001d3e72575c4d067" parent="aspace_c3ec83ff6e0c26a0e945755de1f4524c" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_b5649c57ca36a67ff2bf6d4e92b0ff8f" level="file">
+        <did>
+          <unittitle><emph render="italic">Cine Vue : A Publication of Asian CineVision</emph> : Asian CineVision, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1986/1989" type="inclusive">1986-1989</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_0b0b0f8ea592f99768011514831e20dc" label="Mixed Materials [31142063007887]" type="Box">21</container>
+          <container id="aspace_d60fdd57d5ffb7b15f535da6dbe59d64" parent="aspace_0b0b0f8ea592f99768011514831e20dc" type="Folder">4-6</container>
+        </did>
+      </c>
+      <c id="aspace_026b63a050904f0eca7c4e0ebb3cb338" level="file">
+        <did>
+          <unittitle><emph render="italic">Community Access TV</emph> : Community Access Television, Santa Cruz, CA</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8284fd404a510857b087088f369d27cd" label="Mixed Materials [31142063007721]" type="Box">5</container>
+          <container id="aspace_2fb196b6019c15f26306ac0397943247" parent="aspace_8284fd404a510857b087088f369d27cd" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_386aa6e06b9d7e66c01feb9fedd8b188" level="file">
+        <did>
+          <unittitle><emph render="italic">Community Radio Report</emph> : Concerned Friends of WBAI, Brooklyn, NY</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_626a266fcd961b0eba115176b64a16a4" label="Mixed Materials [31142063007853]" type="Box">18</container>
+          <container id="aspace_786e7570777e1be56da662ed5d19801e" parent="aspace_626a266fcd961b0eba115176b64a16a4" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_7a1ce10d31c36861ca4c899007feb69a" level="file">
+        <did>
+          <unittitle><emph render="italic">Compages</emph> : Union of Left Writers, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_203d4da58147d508318c5e5a3db0d91e" label="Mixed Materials [31142063007721]" type="Box">5</container>
+          <container id="aspace_61c1eac4a8c47163cc0af8156de8c37a" parent="aspace_203d4da58147d508318c5e5a3db0d91e" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_a7df8f84d73fea71b616062deedcaa55" level="file">
+        <did>
+          <unittitle><emph render="italic">CompuMentor</emph> : CompuMentor Project, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e601f772e0c0a98e51f5869ea8e14817" label="Mixed Materials [31142063007739]" type="Box">6</container>
+          <container id="aspace_49bec8b7c7ca4708e2afc2f1609b79db" parent="aspace_e601f772e0c0a98e51f5869ea8e14817" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_a16c8c943eddc78c07d0f11028224107" level="file">
+        <did>
+          <unittitle><emph render="italic">Concatenator</emph> : Western Indexing, Victoria, BC</unittitle>
+          <unitdate datechar="creation" normal="1996/1997" type="inclusive">1996-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_15177292871bd441e0aa3bfd4078e00e" label="Mixed Materials [31142063007739]" type="Box">6</container>
+          <container id="aspace_7bea0c3adf226e69dfb78f3d1b627b01" parent="aspace_15177292871bd441e0aa3bfd4078e00e" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_af2c369b2a95c48c693c152e0b882c8b" level="file">
+        <did>
+          <unittitle><emph render="italic">Concerned Theater Japan</emph> : Concerned Theater Japan Co., Ltd., Tokyo, Japan</unittitle>
+          <unitdate datechar="creation" normal="1969/1970" type="inclusive">1969-1970</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_22719f818682131ecb317cfff06d8607" label="Mixed Materials [31142063007739]" type="Box">6</container>
+          <container id="aspace_bd241a71f1657ad628d6be4f1e6a699e" parent="aspace_22719f818682131ecb317cfff06d8607" type="Folder">4-6</container>
+        </did>
+      </c>
+      <c id="aspace_d6d9f29ed2bbfab3b5f8ac5d4c5e90f7" level="file">
+        <did>
+          <unittitle><emph render="italic">Contempo</emph> : Contempo, Chapel Hill, NC</unittitle>
+          <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_c97f1a708fee748c8da6c75aa8a31401" label="Mixed Materials [31142063007853]" type="Box">18</container>
+          <container id="aspace_73f7f0da084f7b9e10abb0245153e37f" parent="aspace_c97f1a708fee748c8da6c75aa8a31401" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_d5dc284ee04764be14e821d8612779e7" level="file">
+        <did>
+          <unittitle><emph render="italic">Contemporaries</emph> : Action/Image Media Group, Union City, NJ</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_64cdd685820f28ff88fa9613616669b6" label="Mixed Materials [31142063007739]" type="Box">6</container>
+          <container id="aspace_b4b7eb625c43757aae277559fb434afa" parent="aspace_64cdd685820f28ff88fa9613616669b6" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_07b9e876f91effd30ccd6af6493f2b23" level="file">
+        <did>
+          <unittitle><emph render="italic">Coronet</emph> : David A. Smart, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8a9019a049bab34878bccde346e67547" label="Mixed Materials [31142063007739]" type="Box">6</container>
+          <container id="aspace_6f1bdfcf5de1e86d1306af306b8472e6" parent="aspace_8a9019a049bab34878bccde346e67547" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_e4efb79af91450bb4db15ae43faf34f8" level="file">
+        <did>
+          <unittitle><emph render="italic">Creations</emph> : Creations Magazine, Roslyn, NY</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_67b1185b2e9a08f3720c0ce2839e031b" label="Mixed Materials [31142063007853]" type="Box">18</container>
+          <container id="aspace_df381dee62fac068c490ec9de2a4c78c" parent="aspace_67b1185b2e9a08f3720c0ce2839e031b" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_8b8f3220afb2f2d36ad92eefa5394da6" level="file">
+        <did>
+          <unittitle><emph render="italic">Critics Group Series</emph> : Critics Group, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1936/1938" type="inclusive">1936-1938</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_02057be707f7d39353d572b314dc6f22" label="Mixed Materials [31142063007713]" type="Box">4</container>
+          <container id="aspace_55adf13d468d608e5108bb0c819445da" parent="aspace_02057be707f7d39353d572b314dc6f22" type="Folder">1</container>
+          <container altrender="Manuscript box - Legal" id="aspace_9a7b53b8abfa28f1ccbc36b23fe99723" label="Mixed Materials [31142063007739]" type="Box">6</container>
+          <container id="aspace_caaf4285f0a68965861dbe2e64ef68ae" parent="aspace_9a7b53b8abfa28f1ccbc36b23fe99723" type="Folder">1</container>
+          <container altrender="Manuscript box - Legal" id="aspace_4885bf023e4619bef8f570737b577b11" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_bb4a9c6c986b5104ce2ac9dba610b4e9" parent="aspace_4885bf023e4619bef8f570737b577b11" type="Folder">15</container>
+          <container altrender="Manuscript box - Legal" id="aspace_86841c8cebba3ff7411b02d7a04103bc" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_a085beb4b39bfb323d963b8ecfdfae3f" parent="aspace_86841c8cebba3ff7411b02d7a04103bc" type="Folder">5</container>
+          <container altrender="Manuscript box - Legal" id="aspace_a51ad0aeac5228b77b8fde7387b2da69" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_497630138e0e146c7525aab6c595c4c8" parent="aspace_a51ad0aeac5228b77b8fde7387b2da69" type="Folder">16</container>
+          <container altrender="Manuscript box - Legal" id="aspace_1f87518c7952a6cfe7aa9bd07a44574b" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_47c9fd5a1e8bc1c6a228eb8ffdd2c417" parent="aspace_1f87518c7952a6cfe7aa9bd07a44574b" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_25c0dd4fb52e3f2887c42bb85eff7159" level="file">
+        <did>
+          <unittitle><emph render="italic">Current Controversy</emph> : K.R. Publishing Corp., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1935/1935" type="inclusive">1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4383bc3845493d2aadb5144b3300b09e" label="Mixed Materials [31142063007739]" type="Box">6</container>
+          <container id="aspace_019389fc3dcb5982b546928e9ddc5555" parent="aspace_4383bc3845493d2aadb5144b3300b09e" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_3c2c623eb058aa225deaec2afc1d9c0d" level="file">
+        <did>
+          <unittitle><emph render="italic">Cutting Through</emph> : Channel L Working Group, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_38f9f20fb70810cb9248c24aef8c65a6" label="Mixed Materials [31142063007739]" type="Box">6</container>
+          <container id="aspace_a9d0d0633c25850f25808775ee854da1" parent="aspace_38f9f20fb70810cb9248c24aef8c65a6" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_cef5f4da1f6dcc6d77829ace31726e51" level="file">
+        <did>
+          <unittitle><emph render="italic">Cyrano's Journal</emph> : New England Communications Task Force, Inc, Westport, CT</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_cecd863d3975e284d168a5bd2c616686" label="Mixed Materials [31142063007853]" type="Box">18</container>
+          <container id="aspace_b3449e0bb171e2af3af7b2e29d2f91e6" parent="aspace_cecd863d3975e284d168a5bd2c616686" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_3977987eea025270dcf00c3e2487c2a0" level="file">
+        <did>
+          <unittitle><emph render="italic">D.C. Free Press</emph> : D.C. Independent Media Center, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="2001/2002" type="inclusive">2001-2002</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_e4e9985b71112774e5c6e778d08f0e43" label="Mixed Materials [31142063007853]" type="Box">18</container>
+          <container id="aspace_f394674b888b76c21bd47e6feda80773" parent="aspace_e4e9985b71112774e5c6e778d08f0e43" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_c4d9453c6f7f15464b42b71c5e6522dd" level="file">
+        <did>
+          <unittitle><emph render="italic">Daily Ruckus</emph> : Creative Time, Inc., New York, NY </unittitle>
+          <unitdate datechar="creation" normal="1975/1975">1975</unitdate>
+          <container altrender="OS Flat Box - 14.75 x 17.75" id="aspace_ebe5eaa3bf558ba5ead51372f10e9383" label="Mixed Materials [31142062673895]" type="Box">Shared Tamiment 061</container>
+          <container id="aspace_ef49d67cf8984becb2567f56c65c1b73" parent="aspace_ebe5eaa3bf558ba5ead51372f10e9383" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_3f1b58121c11e2892be157471dd72f01" level="file">
+        <did>
+          <unittitle><emph render="italic">Dania Polyglotta : Repertoire Bibliographique Annuel des Ouvrages, Articles, Resumes, etc. en Langues Etrangeres Parus en Danemark</emph> : Institut Danois des Echanges Internationaux de Publications Scientifiques et Litteraires, Copenhagen, Denmark</unittitle>
+          <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d51d2097b2cf0463ad1d41f438aa877f" label="Mixed Materials [31142063007739]" type="Box">6</container>
+          <container id="aspace_42e46a31af055dd6b0d4650db821fadb" parent="aspace_d51d2097b2cf0463ad1d41f438aa877f" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_d57cf6eea1372ad62e7f5ebebd784169" level="file">
+        <did>
+          <unittitle><emph render="italic">Das Wort Literarische Monatsschrift</emph> : Meshdunarodnaja Kniga Moskau, Moscow, USSR</unittitle>
+          <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_46e38b28d2beab0e88f9fe5e774c40fd" label="Mixed Materials [31142063007739]" type="Box">6</container>
+          <container id="aspace_81be18b87431556435e3c9e6c63bf762" parent="aspace_46e38b28d2beab0e88f9fe5e774c40fd" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_539a1c0f779978d47ad9cf82dc1e86ae" level="file">
+        <did>
+          <unittitle><emph render="italic">David</emph> : The David, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8b9b0f271cc2d2a903d00deb29c72fb5" label="Mixed Materials [31142063007739]" type="Box">6</container>
+          <container id="aspace_2a70304a43e04e2cdecca3a8ec5549e5" parent="aspace_8b9b0f271cc2d2a903d00deb29c72fb5" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ad20d136224931af0ae2b8b017d4ff2d" level="file">
+        <did>
+          <unittitle><emph render="italic">Democratic Communique</emph> : Union of Democratic Communications, Oakland, CA</unittitle>
+          <unitdate datechar="creation" normal="1986/1993" type="inclusive">1986-1993</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4e6f6366601ecc8271b09175aff896e5" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_ada3472a2a06351e9af8e02db2ba986b" parent="aspace_4e6f6366601ecc8271b09175aff896e5" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_e621a813d6120f04e23aff64ee5053a3" level="file">
+        <did>
+          <unittitle><emph render="italic">Dialectics and Humanism</emph> : Polish Scientific Publishers, Warsaw, Poland</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6b5be4895d58488dd50bbd8f1eb1ac65" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_ef91c694ec77fb40903167311f68e168" parent="aspace_6b5be4895d58488dd50bbd8f1eb1ac65" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_0a86dc06ef79f53b395319c11d01189f" level="file">
+        <did>
+          <unittitle><emph render="italic">Diego Rivera</emph> : Universidad Nacional de Mexico, Mexico City, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_e5afec770e7567a1e304fbc6526e15c8" label="Mixed Materials [31142063007853]" type="Box">18</container>
+          <container id="aspace_df5295602d3cee815c7c75601881dee3" parent="aspace_e5afec770e7567a1e304fbc6526e15c8" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_dfb46bb078ae02513fa10228575b0224" level="file">
+        <did>
+          <unittitle><emph render="italic">Directions</emph> : Program on Communication and Development Studies, Northwestern University, Evanston, IL</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d159b6f6b966cb2491f1b4ebbf2c1206" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_7b98327b8d7505380831f29e0fa6b5e2" parent="aspace_d159b6f6b966cb2491f1b4ebbf2c1206" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_226462df58f27111c0dff5b79642bb29" level="file">
+        <did>
+          <unittitle><emph render="italic">Dissenting Student</emph> : Students Against Social Injustice</unittitle>
+          <unitdate datechar="creation" normal="1960/1969" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_08380de73214e62b2377a3536c530fe2" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_4ca31cc16f1f1a2547fc9c6ba6bc5208" parent="aspace_08380de73214e62b2377a3536c530fe2" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_85a5ed95dd763330b46f85ae3bf8486f" level="file">
+        <did>
+          <unittitle><emph render="italic">Dots and Dashes</emph> : Morse Telegraph Club, Inc, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1980/1982" type="inclusive">1980-1982</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_f80f608d0c752ef260f3048535459715" label="Mixed Materials [31142063007887]" type="Box">21</container>
+          <container id="aspace_1c0d6733abb866506e58244611e9b070" parent="aspace_f80f608d0c752ef260f3048535459715" type="Folder">7-8</container>
+        </did>
+      </c>
+      <c id="aspace_0c4113b0e6be9de59d8cbcf37c67e267" level="file">
+        <did>
+          <unittitle><emph render="italic">Down Below : Surrealist Research &amp; Development Monograph Series</emph> : Radical America / Surrealist Group, Cambridge, MA</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cc859399741b00802e18c3a3791d4d61" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_6329c3b430990cd0583e7600705b4ba9" parent="aspace_cc859399741b00802e18c3a3791d4d61" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_b230a8db667ea82ffc996b7dfead85df" level="file">
+        <did>
+          <unittitle><emph render="italic">E.A.T. News</emph> : Experiments in Art and Technology, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a1c442f77da108f596c44e24edd9371d" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_1f96400976d2e07ce398aeccbbf78391" parent="aspace_a1c442f77da108f596c44e24edd9371d" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_eac1a16ddf3945ff5b07a5480724819d" level="file">
+        <did>
+          <unittitle><emph render="italic">Editor &amp; Publisher, The Fourth Estate</emph> : Editor &amp; Publisher Co., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_447c9ac7d9303c83c9bcca2b9e189b9f" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_3eccbece319d62384198395a35124d43" parent="aspace_447c9ac7d9303c83c9bcca2b9e189b9f" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_81b8ea5d06f4a58aa4f17d15fba32ca1" level="file">
+        <did>
+          <unittitle><emph render="italic">El Caiman Barbudo</emph> : El Caiman Barbudo, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1990/1999" type="inclusive">Undated</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_f83121d2fe6bf7f1d81c5a08a5236f0b" label="Mixed Materials [31142063007853]" type="Box">18</container>
+          <container id="aspace_7e66e4bfe3f8e6db33b6050cf897dba0" parent="aspace_f83121d2fe6bf7f1d81c5a08a5236f0b" type="Folder">16-17</container>
+        </did>
+      </c>
+      <c id="aspace_5d5fb470b5bdc40f7906ff2fbc6b6810" level="file">
+        <did>
+          <unittitle><emph render="italic">ENClitic</emph> : enclitic, inc, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_62424da8d178f53a2e27c3e813e9a963" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_f2af1aded1c55c64030c19c0cf836e64" parent="aspace_62424da8d178f53a2e27c3e813e9a963" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_f8e73e98f013e931f500390ff4f0eb95" level="file">
+        <did>
+          <unittitle><emph render="italic">Encore</emph> : Encore Press, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_83a26b4642a99638ba5468452c4fd73f" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_f62714c14bc8c59e62e3b429266e04d6" parent="aspace_83a26b4642a99638ba5468452c4fd73f" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_822010db125ebfe9d177bcb9307b2e16" level="file">
+        <did>
+          <unittitle><emph render="italic">Equity</emph> : Actors' Equity Association, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1994/1994" type="inclusive">1994</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8f5b3497bc1c37e43862a915db60e573" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_b758a1cffd9aea60f76f8d0fcd63395d" parent="aspace_8f5b3497bc1c37e43862a915db60e573" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_c9a6a3aef0aad54dc01a8cc3983a8f7a" level="file">
+        <did>
+          <unittitle><emph render="italic">European Media Business &amp; Finance</emph> : EMB&amp;F, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3e21da1a66d61e4e09fd16815d9c9e77" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_2b697bf98b7da43da189b56bed7599b5" parent="aspace_3e21da1a66d61e4e09fd16815d9c9e77" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_3b2c2554c7bc7557574a98ea79b20332" level="file">
+        <did>
+          <unittitle><emph render="italic">Evergreen</emph> : Evergreen Review, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_522154b6f37e4cdb07c838348b14a1de" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_d0d816a578d76044388a587bb35b3407" parent="aspace_522154b6f37e4cdb07c838348b14a1de" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_f0474c627407c54e0b9620e939d09d7a" level="file">
+        <did>
+          <unittitle><emph render="italic">Exagéré : Archives de l'Avenir</emph> : L'Exagere, Paris, France</unittitle>
+          <unitdate datechar="creation" normal="1987/1988" type="inclusive">1987-1988</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_25fff2f16e98434610a9ae65f36d419f" label="Mixed Materials [31142063007853]" type="Box">18</container>
+          <container id="aspace_0d2b1fd6612c64e1f365e3abd2deaf32" parent="aspace_25fff2f16e98434610a9ae65f36d419f" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_419488452cb353ca11c5807d63db3f59" level="file">
+        <did>
+          <unittitle><emph render="italic">Exit Nine</emph> : Exit Nine, New Brunswick, NJ</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_6748cc575aeb086ffee6eb52458bc123" label="Mixed Materials [31142063007861]" type="Box">19</container>
+          <container id="aspace_a780c9a689596d6bec72e71f2feb30d2" parent="aspace_6748cc575aeb086ffee6eb52458bc123" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_11e18cdd766e49522c09f6d60cc18cae" level="file">
+        <did>
+          <unittitle><emph render="italic">FACE</emph> : FaGaGaGa, Youngstown, OH</unittitle>
+          <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7d1a026862f423f32980b527598e7f29" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_a06152152a3d970267e0a3357b51d376" parent="aspace_7d1a026862f423f32980b527598e7f29" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_d371b28349485e9b6cd04d8ff785ed86" level="file">
+        <did>
+          <unittitle><emph render="italic">Federal Theatre News</emph> : FTP Locals of the City Projects Council, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4ca8cae392de400341bf00acf67fa7e7" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_b7b4adec8c50020284bab5c518f153c7" parent="aspace_4ca8cae392de400341bf00acf67fa7e7" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_67b6b3f9aa75d3cd1443370e4bcac91a" level="file">
+        <did>
+          <unittitle><emph render="italic">Fight to Save WBAI</emph> : Friends of WBAI, New Vernon, NJ</unittitle>
+          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0ec737694a894b88d9eee12ea0129f2e" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_16a5c98e1cd89cacc282d0b06bed10cb" parent="aspace_0ec737694a894b88d9eee12ea0129f2e" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_4d8470fdef18349c4bcbb6254ab366a5" level="file">
+        <did>
+          <unittitle><emph render="italic">Film &amp; Television Technician (FIT)</emph> : Association of Cinematograph, Television and Allied Technicians, London, UK</unittitle>
+          <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_82946f7cf69d4d05aacf69d2e3e95b41" label="Mixed Materials [31142063007887]" type="Box">21</container>
+          <container id="aspace_407a44818558008b2f771381de8c8169" parent="aspace_82946f7cf69d4d05aacf69d2e3e95b41" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_8249b6591e24f6d17b71e108b70fb5f2" level="file">
+        <did>
+          <unittitle><emph render="italic">Film Culture - Expanded Arts</emph> : Expanded Arts Center, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1966/1966">1966</unitdate>
+          <container altrender="OS Flat Box - 14.75 x 17.75" id="aspace_227e33be1ce90d93781a38c3dfdb2619" label="Mixed Materials [31142062673895]" type="Box">Shared Tamiment 061</container>
+          <container id="aspace_abe54c195276a0c2812b646049bd9dde" parent="aspace_227e33be1ce90d93781a38c3dfdb2619" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_52aeeceb93e332ce960dc5c9e88f2229" level="file">
+        <did>
+          <unittitle><emph render="italic">First Stage</emph> : First Stage, Lafayette, IN</unittitle>
+          <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ff9fcd2f21a05dd92d09cbca06d72ac0" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_1d005b4ac26a44cadc48d5d0a88c0d95" parent="aspace_ff9fcd2f21a05dd92d09cbca06d72ac0" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_53d29354ea8d952bc1b3894c9df41e1a" level="file">
+        <did>
+          <unittitle><emph render="italic">Flashes from Hollywood!</emph> : Film Technicians of the Motion Picture Industry, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a532686e73d1aa155e5f847de862f5ef" label="Mixed Materials [31142063007747]" type="Box">7</container>
+          <container id="aspace_784cd6bb675fcb56414f5feb5627a630" parent="aspace_a532686e73d1aa155e5f847de862f5ef" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_893b04dd36ea967883f3485c0646fe6a" level="file">
+        <did>
+          <unittitle><emph render="italic">Flourish : Royal Shakespeare Company Newspaper</emph> : Royal Shakespeare Company, Stratford-upon-Avon, UK</unittitle>
+          <unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_c9b0e798884635b87168d781d1dbd9bb" label="Mixed Materials [31142063007861]" type="Box">19</container>
+          <container id="aspace_ba4f3340fbd40a194c6c06fd555d3827" parent="aspace_c9b0e798884635b87168d781d1dbd9bb" type="Folder">4-5</container>
+        </did>
+      </c>
+      <c id="aspace_e0ecb86ed97a8e91f8b70897f0007dd2" level="file">
+        <did>
+          <unittitle><emph render="italic">Foreign Press News</emph> : Foreign Press Association, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1955/1961" type="inclusive">1955-1961</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2ced7c7f5e7b5677ff30ed3be750b0e8" label="Mixed Materials [31142063007754]" type="Box">8</container>
+          <container id="aspace_cee42c36736bf44b58b801611ef3a226" parent="aspace_2ced7c7f5e7b5677ff30ed3be750b0e8" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_61d3d7c057144e11d2f1d7d1a49bcc7d" level="file">
+        <did>
+          <unittitle><emph render="italic">Fourth Network : A Study by the Network Project</emph> : The Network Project, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_aa1c53f80d41e2ab7e5705c5c78a0f8c" label="Mixed Materials [31142063007754]" type="Box">8</container>
+          <container id="aspace_a21cddeb04958b8778b077751705b798" parent="aspace_aa1c53f80d41e2ab7e5705c5c78a0f8c" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_f177ecf4c82ce45eb70e74815b6e8c95" level="file">
+        <did>
+          <unittitle><emph render="italic">FRA</emph> : Elbert Hubbard, East Aurora, NY</unittitle>
+          <unitdate datechar="creation" normal="1916/1916" type="inclusive">1916</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ad2279d41e3618eb4e5289377587b3f1" label="Mixed Materials [31142063007754]" type="Box">8</container>
+          <container id="aspace_8e6323151b56d2af94918310dcabfd02" parent="aspace_ad2279d41e3618eb4e5289377587b3f1" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_7ab2a0c1dc65b5f5fc48cb75f7151f24" level="file">
+        <did>
+          <unittitle><emph render="italic">Freethought History</emph> : People's Culture, Kansas City, KS</unittitle>
+          <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e7bf29a5b6589732880bac66a1013863" label="Mixed Materials [31142063007754]" type="Box">8</container>
+          <container id="aspace_4b8dfb5b4a60752e7540c1fbb49d1f0c" parent="aspace_e7bf29a5b6589732880bac66a1013863" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_d8d33f16a4b0fd0ac36152b46a6df930" level="file">
+        <did>
+          <unittitle><emph render="italic">Friends of IMA</emph> : Institute for Media Analysis, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_00f6bf53850fbdc0c7c6cf45c3cf019c" label="Mixed Materials [31142063007754]" type="Box">8</container>
+          <container id="aspace_8a977dcfb617d1ad28a1c1b0dd786ea2" parent="aspace_00f6bf53850fbdc0c7c6cf45c3cf019c" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_9ec6daf89536b27b54b9c88044dd2284" level="file">
+        <did>
+          <unittitle><emph render="italic">Fuse Magazine</emph> : Arton's Cultural Affairs Society and Publishing Inc., Toronto, Ontario</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5a5e0431d1712a56b71d52b171ba1a79" label="Mixed Materials [31142063007754]" type="Box">8</container>
+          <container id="aspace_1fc4b5d7dc9a53f894d251568c3e8197" parent="aspace_5a5e0431d1712a56b71d52b171ba1a79" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_897e2598eb123a5493ebf2dd240f8508" level="file">
+        <did>
+          <unittitle><emph render="italic">FYI (For Your Information)</emph> : The Center for Arts Information, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1986/1992" type="inclusive">1986-1992</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5900cd609e298551443e10c4f818ec1e" label="Mixed Materials [31142063007754]" type="Box">8</container>
+          <container id="aspace_e65d920cf4536d1d4a5257e16c5999a5" parent="aspace_5900cd609e298551443e10c4f818ec1e" type="Folder">7</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_0ff07c874b003237111191f5612be5b7" label="Mixed Materials [31142063007861]" type="Box">19</container>
+          <container id="aspace_930eca561b5654828a79b0191a93aae5" parent="aspace_0ff07c874b003237111191f5612be5b7" type="Folder">2-3</container>
+        </did>
+      </c>
+      <c id="aspace_4edf7f3d9658fa9108e7365c6cc0b03a" level="file">
+        <did>
+          <unittitle><emph render="italic">Global Village</emph> : Global Village / National Endowment for the Arts, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1980/1989" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c86ca0bc016639a917c06ab2a612ed44" label="Mixed Materials [31142063007754]" type="Box">8</container>
+          <container id="aspace_e69dd28266dcd69b0fc1d25928997ec4" parent="aspace_c86ca0bc016639a917c06ab2a612ed44" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_21831a23689c44fdda63b807b539db17" level="file">
+        <did>
+          <unittitle><emph render="italic">Harvard Yard Journal</emph> : Harvard Yard, Cambridge, MA</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_adf065bd86865f2126017b3e10543b4e" label="Mixed Materials [31142063007754]" type="Box">8</container>
+          <container id="aspace_b110b7d445f894fc8c4416e1f76ae62c" parent="aspace_adf065bd86865f2126017b3e10543b4e" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_75013175c7acfefc29d96de6fbd953a8" level="file">
+        <did>
+          <unittitle><emph render="italic">Heirs</emph> : Garcia Litho &amp; Printing Service, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1a6f944d2cf809efbc9a73f6151a7358" label="Mixed Materials [31142063007754]" type="Box">8</container>
+          <container id="aspace_cc555c5ba63b30ddb18eb84b03ac1bb3" parent="aspace_1a6f944d2cf809efbc9a73f6151a7358" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_28d81c81cddbf236481ff109feadb4e1" level="file">
+        <did>
+          <unittitle><emph render="italic">Hora de Espana: Revista Mensual</emph> : Vinetas de Ramon Gaya, Valencia, Spain</unittitle>
+          <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ba76d07e89528ac091b953587f2898d2" label="Mixed Materials [31142063007754]" type="Box">8</container>
+          <container id="aspace_76f3599b5592345c8e5954f1894f24e6" parent="aspace_ba76d07e89528ac091b953587f2898d2" type="Folder">11-12</container>
+        </did>
+      </c>
+      <c id="aspace_895dabb5a9fe08c0deeb82b78ffcab4b" level="file">
+        <did>
+          <unittitle><emph render="italic">Horns of Plenty : Malcolm Cowley and his Generation</emph> : Horns of Plenty, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_85f2e9fc3d5a32285ef43c0197334e27" label="Mixed Materials [31142063007754]" type="Box">8</container>
+          <container id="aspace_1e88adae49698050ea386166797c6c63" parent="aspace_85f2e9fc3d5a32285ef43c0197334e27" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_e359ee356f507a9995458a6b13e30670" level="file">
+        <did>
+          <unittitle><emph render="italic">Houston Radio Report</emph> : KFPT, Houston, TX</unittitle>
+          <unitdate datechar="creation" normal="1972/2001" type="inclusive">1972, 2001</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_2a9825bc49f9245d5781218dbbb3013d" label="Mixed Materials [31142063007861]" type="Box">19</container>
+          <container id="aspace_34b6dd515ebc5b1bf7eea9310542ed5a" parent="aspace_2a9825bc49f9245d5781218dbbb3013d" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_782a0157361281a381e1c8468ea6c52b" level="file">
+        <did>
+          <unittitle><emph render="italic">Humanitarian</emph> : Caulon Press / Swan Sonnenschein and Co., New York, NY / London, UK</unittitle>
+          <unitdate datechar="creation" normal="1893/1893" type="inclusive">1893</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2743008e866471c24c28a5202f2e2851" label="Mixed Materials [31142063007754]" type="Box">8</container>
+          <container id="aspace_9bf49fd9d8261dc9c081fc82ea64d3ac" parent="aspace_2743008e866471c24c28a5202f2e2851" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_3ecfbf94bf18c797427e8ef1d509af4f" level="file">
+        <did>
+          <unittitle><emph render="italic">Impact Visuals</emph> : Photo &amp; Graphics, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1989/1992" type="inclusive">1989-1992</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4e17cfcf39e49dde975ba20226a067df" label="Mixed Materials [31142063007754]" type="Box">8</container>
+          <container id="aspace_a56fe99455b53f3aac1d5edb23897d47" parent="aspace_4e17cfcf39e49dde975ba20226a067df" type="Folder">15-18</container>
+        </did>
+      </c>
+      <c id="aspace_42978fed30fb96560cc848e8f8343bdf" level="file">
+        <did>
+          <unittitle><emph render="italic">In Media's Feces</emph> : Strolling Dog Press, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1a5099582f12512b3736bdf95ff53e07" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_f605c0acf4f74e4844c61e321b766ff1" parent="aspace_1a5099582f12512b3736bdf95ff53e07" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_7c805b21b3a53e29b8145b9ccd08ab3c" level="file">
+        <did>
+          <unittitle><emph render="italic">Indian Literature</emph> : People's Publishing, Bombay, India</unittitle>
+          <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8aa0b4b8443145386cde04f979155a08" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_3c77cbd0f499bdf1f4431b79001d25d6" parent="aspace_8aa0b4b8443145386cde04f979155a08" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_2c6e565e41a9a0378051c24b1eeb62ea" level="file">
+        <did>
+          <unittitle><emph render="italic">Ink Reader</emph> : Independent Press Association, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1998/1999" type="inclusive">1998-1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7a1c7c6ecc9097816df25b5de1920448" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_abf9638ce36f2946882be7fb6ae4d1b8" parent="aspace_7a1c7c6ecc9097816df25b5de1920448" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_f4cf37e6e3714f1df72d1e5047110c6b" level="file">
+        <did>
+          <unittitle><emph render="italic">Inside Arts</emph> : Association of Performing Arts Presenters, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1990/1991" type="inclusive">1990-1991</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c7e7d2306ba4ce35d1fb519c560a7dd5" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_d96e42d15db167d8ca1a409c977f7662" parent="aspace_c7e7d2306ba4ce35d1fb519c560a7dd5" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_12b9ef75cc413982029617b93edb67eb" level="file">
+        <did>
+          <unittitle><emph render="italic">Inter Actra</emph> : ACTRA, Toronto, Ontario</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a3fdd0e84140e9f54f3d2dd9c9ebc02b" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_310c2fc84ee3ad5ec243835dcac5ee1c" parent="aspace_a3fdd0e84140e9f54f3d2dd9c9ebc02b" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_73cf1f255e07ca6834bafdd944494d94" level="file">
+        <did>
+          <unittitle><emph render="italic">International Humanism</emph> : International Humanist and Ethical Union, Utrecht, Netherlands</unittitle>
+          <unitdate datechar="creation" normal="1966/1973" type="inclusive">1966-1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_18fdd6c1f340003a0bd84e0620095a0f" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_a550213584018cf28833abd5bc03c327" parent="aspace_18fdd6c1f340003a0bd84e0620095a0f" type="Folder">6-8</container>
+        </did>
+      </c>
+      <c id="aspace_e58bf8980fc1bdae2f4fd94cfa045919" level="file">
+        <did>
+          <unittitle><emph render="italic">IRE Journal</emph> : Investigative Reporters &amp; Editors, Inc., Columbia, MO</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6fbdea5f46ac2b56ad0e18ee7120bc13" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_41210becaddbe40a8648a44152ae3c2b" parent="aspace_6fbdea5f46ac2b56ad0e18ee7120bc13" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_5e9dd6998a76fc68d2b0081bcebe2ce9" level="file">
+        <did>
+          <unittitle><emph render="italic">Jacobin Books</emph> : Jacobin Books, Brooklyn, NY</unittitle>
+          <unitdate datechar="creation" normal="1986/1988" type="inclusive">1986-1988</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_dad3bf84f9bda11adffe5b6a86a17d9b" label="Mixed Materials [31142063007861]" type="Box">19</container>
+          <container id="aspace_bb51fe1d8ab39118d2bbc07abf52bd44" parent="aspace_dad3bf84f9bda11adffe5b6a86a17d9b" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_caee2d5bee54b569f08631bc42046bab" level="file">
+        <did>
+          <unittitle><emph render="italic">Keynote : The Progressive Music Quarterly</emph> : The Workers Music Association, London, UK</unittitle>
+          <unitdate datechar="creation" normal="1945/1946" type="inclusive">1945-1946</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f521d6c003f3deeb9e1bd6280c93adbb" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_5b7b8d910fce716c78482a35dbcbbf82" parent="aspace_f521d6c003f3deeb9e1bd6280c93adbb" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_791f24dca979db357ff19ea15fbcfa76" level="file">
+        <did>
+          <unittitle><emph render="italic">KMFB</emph> : Austrian Trade Union, Vienna, Austria</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9ba1e3764a9518af9a371583d36939eb" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_e5b9f5aad11f08702fb432737e837d78" parent="aspace_9ba1e3764a9518af9a371583d36939eb" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_591fd936adac68bd3403ee85cb8042f7" level="file">
+        <did>
+          <unittitle><emph render="italic">KRAB News</emph> : Jack Straw Memorial Foundation, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1984/1987" type="inclusive">1984-1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ba169f4dc59f40a2d780d0cbc1a74d83" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_854c379cd35ff40a6b11aaf2841bd0f2" parent="aspace_ba169f4dc59f40a2d780d0cbc1a74d83" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_65079ebc2e5dabc00e1537223b71376b" level="file">
+        <did>
+          <unittitle><emph render="italic">La Banera</emph> : Literatura Todo, Barcelona, Spain</unittitle>
+          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_40ac4084d21097c12854a569f46bf0d4" label="Mixed Materials [31142063007861]" type="Box">19</container>
+          <container id="aspace_600488a894f39fac46173c991f87850f" parent="aspace_40ac4084d21097c12854a569f46bf0d4" type="Folder">8-9</container>
+        </did>
+      </c>
+      <c id="aspace_d266c7a11d21bb6911af7108b87cfb38" level="file">
+        <did>
+          <unittitle><emph render="italic">Lame Monkey Manifesto</emph> : Argyle Gargyle, Knoxville, TN</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_a509a508559f957da70f012507d3fa40" label="Mixed Materials [31142063007861]" type="Box">19</container>
+          <container id="aspace_54d4d5efd8fbd7eaa9ce9c61d4b440c9" parent="aspace_a509a508559f957da70f012507d3fa40" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_e95e0e150ae53d52d3f348564024ddb8" level="file">
+        <did>
+          <unittitle><emph render="italic">Language</emph> : Circuit Magazine, London, UK</unittitle>
+          <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_588e89ab80a13a3170016d9ec8f92244" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_a74cb3e1d6e50875184e0e9e053dd557" parent="aspace_588e89ab80a13a3170016d9ec8f92244" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_8b055184707b846a368754e9607d650a" level="file">
+        <did>
+          <unittitle><emph render="italic">Leschetizky Association News Bulletin</emph> : The Leschetizky Association, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="2000/2001" type="inclusive">2000-2001</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b9763ad17058d218e85b233614e8f6eb" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_c8109de567c1918e4fd1907903462f41" parent="aspace_b9763ad17058d218e85b233614e8f6eb" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_00d99d6e4f0684516ef8bd8e043b093f" level="file">
+        <did>
+          <unittitle><emph render="italic">Lie Nailed ... But The Daily News Carries on</emph> : Anti-Defamation League of B'Nai B'Rith, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e168b4283b8e13998a57b264c08af3ef" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_8416da10500846f4bbbdf90bc052b1f9" parent="aspace_e168b4283b8e13998a57b264c08af3ef" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_6f9ac557bbfd9496397621374f55ff7c" level="file">
+        <did>
+          <unittitle><emph render="italic">Literary World</emph> : Literary World, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1934/1934" type="inclusive">1934</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_518cafa6df7c5d1ebb3bb4bcf5611963" label="Mixed Materials [31142063007887]" type="Box">21</container>
+          <container id="aspace_29b0e926cb20b99a433117843a9ba317" parent="aspace_518cafa6df7c5d1ebb3bb4bcf5611963" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_02b7bacafe1c8b9ee6ba12cde4be5aa3" level="file">
+        <did>
+          <unittitle><emph render="italic">Looking Forward</emph> : The Humanists, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_19f3991ec32826ef04c55165e2a111c9" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_6103df1499d248e193a77afe60096527" parent="aspace_19f3991ec32826ef04c55165e2a111c9" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_faef1867a6d8a6aa847d889b5c6aabb3" level="file">
+        <did>
+          <unittitle><emph render="italic">Los Supermachos</emph> : Editorial Meridiano, Mexico City, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_89f1a19def7d7fad90110bcf5aa66aa2" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_5d436713934f6e7c511449b5c921054d" parent="aspace_89f1a19def7d7fad90110bcf5aa66aa2" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_96c175c13998bbada7f6be874e45bc42" level="file">
+        <did>
+          <unittitle><emph render="italic">LTTR no 1</emph> : LTTR, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d94ccc79f3f6de12851c0c432a9620b7" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_0321a027c05832c77a80f86c467fa048" parent="aspace_d94ccc79f3f6de12851c0c432a9620b7" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_108964fbd5399107f6d60e029d035e83" level="file">
+        <did>
+          <unittitle><emph render="italic">Mac Bird</emph> : Grassy Knoll Press, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e52dde4c6d6ebb36d247e11ac8b546c6" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_05d3611c119327e89e6eeb7d812f3c68" parent="aspace_e52dde4c6d6ebb36d247e11ac8b546c6" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_c06f98e9b033f921b8c75da3f5d1a04a" level="file">
+        <did>
+          <unittitle><emph render="italic">Maine Commons</emph> : Maine Independent Media Center, Waterville, ME</unittitle>
+          <unitdate datechar="creation" normal="2002/2005" type="inclusive">2002-2005</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_a9136088801ad34ef0f5f81ee176f1d5" label="Mixed Materials [31142063007861]" type="Box">19</container>
+          <container id="aspace_8ae4f35647b1db2fadb0173d948a9107" parent="aspace_a9136088801ad34ef0f5f81ee176f1d5" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_da4165fa0ce3353ba48b3e5d764a7dd5" level="file">
+        <did>
+          <unittitle><emph render="italic">Media Culture Review</emph> : Institute for Alternative Journalism, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fde1ca692038e479a58ee9c26adbde40" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_8b054f268f07dc51a142adc5317b47bd" parent="aspace_fde1ca692038e479a58ee9c26adbde40" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_6bae5a583f7a411fa56304394fa7488e" level="file">
+        <did>
+          <unittitle><emph render="italic">Menschen</emph> : Verlag der Menschen, Leipzig, Germany</unittitle>
+          <unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_dcf1f4927a3baf05bd40d3d201e1ef48" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_8280754959ea0cffb00675e65c851801" parent="aspace_dcf1f4927a3baf05bd40d3d201e1ef48" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_aeffcc42cbf5d082b6a9ca15ed37d444" level="file">
+        <did>
+          <unittitle><emph render="italic">Midwest Alliance</emph> : J. Crawford, H. Ehlers, and T. James, Wichita, KS</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e90a7439415b94c5d8104439da3cafda" label="Mixed Materials [31142063007762]" type="Box">9</container>
+          <container id="aspace_9e16ea85e82eb7447fdf95a305f4854a" parent="aspace_e90a7439415b94c5d8104439da3cafda" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_baaabeeca9a935c4e8f33a2840aec9b5" level="file">
+        <did>
+          <unittitle><emph render="italic">Migrant Theater Bulletin</emph> : The Drama Review, Berkeley, CA</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ac9ae5cddd8e9b69d1ea4bcab45ccc82" label="Mixed Materials [31142063007770]" type="Box">10</container>
+          <container id="aspace_7abd7f6d0f4d3777b671a79546586265" parent="aspace_ac9ae5cddd8e9b69d1ea4bcab45ccc82" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_0ca8cc78c79e586fdce14b4b44d5190b" level="file">
+        <did>
+          <unittitle><emph render="italic">Minnesota Review</emph> : The Minnesota Review, Milwaukee, WI</unittitle>
+          <unitdate datechar="creation" normal="1973/1980" type="inclusive">1973-1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e9a90ea52998188a5be76ac7509b7f06" label="Mixed Materials [31142063007770]" type="Box">10</container>
+          <container id="aspace_4381b603a94f00fe6e79ad8927ea40cf" parent="aspace_e9a90ea52998188a5be76ac7509b7f06" type="Folder">2-5</container>
+        </did>
+      </c>
+      <c id="aspace_a7d5fca32ee70e78e1a4d58b451fc4b4" level="file">
+        <did>
+          <unittitle><emph render="italic">Modern Drama</emph> : The Artcraft Press, Columbia, MO</unittitle>
+          <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9d402bec9d7b37df3d6e44363606adc1" label="Mixed Materials [31142063007770]" type="Box">10</container>
+          <container id="aspace_6215ab36f27679ae479ca33c05f38c8a" parent="aspace_9d402bec9d7b37df3d6e44363606adc1" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_becb448d2a3ecc2b2735b4d8ab0e289f" level="file">
+        <did>
+          <unittitle><emph render="italic">Modern Music : A Quarterly Review</emph> : League of Composers, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_509add16f2585793be24a3a3e35d9f60" label="Mixed Materials [31142063007770]" type="Box">10</container>
+          <container id="aspace_985b8f06079d6a2b5391fc96f6b61129" parent="aspace_509add16f2585793be24a3a3e35d9f60" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_e701f09375ec329edc6ca80fa701810c" level="file">
+        <did>
+          <unittitle><emph render="italic">Monogram</emph> : Monogram Publications, London, UK</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6ec27cabefe44401925e9357536b9984" label="Mixed Materials [31142063007770]" type="Box">10</container>
+          <container id="aspace_084068483bd2a1e2d231200443566ced" parent="aspace_6ec27cabefe44401925e9357536b9984" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_6bd8f007038e574a3eba8550bfa20789" level="file">
+        <did>
+          <unittitle><emph render="italic">Monthly Review Press</emph> : Monthly Review Foundation, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1993/1993" type="inclusive">1993</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_30a33cf744a94006a2b07b28c8c713b1" label="Mixed Materials [31142063007770]" type="Box">10</container>
+          <container id="aspace_f87d47c78b91521f086237ea129f76cf" parent="aspace_30a33cf744a94006a2b07b28c8c713b1" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_baf5ec725b9026e66c0708f6b60c00b1" level="file">
+        <did>
+          <unittitle><emph render="italic">More (A Journalism Review)</emph> : Rosebud Associates, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1972/1975" type="inclusive">1972-1975</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_dfae3e190e6f80477f1027a0113faa87" label="Mixed Materials [31142063007861]" type="Box">19</container>
+          <container id="aspace_8d5e4fab4bb44488924f720328ba49bd" parent="aspace_dfae3e190e6f80477f1027a0113faa87" type="Folder">12-14</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_a7d9fdbfaa272288943cfec3a01358bd" label="Mixed Materials [31142063007879]" type="Box">20</container>
+          <container id="aspace_9c1245edc5004d79c2b18bbaea26cd87" parent="aspace_a7d9fdbfaa272288943cfec3a01358bd" type="Folder">15-16</container>
+        </did>
+      </c>
+      <c id="aspace_45ddd2fb5507e4a64c4bb8968daed098" level="file">
+        <did>
+          <unittitle><emph render="italic">Music &amp; Life</emph> : Music Group of the Communist Party, London, UK</unittitle>
+          <unitdate datechar="creation" normal="1961/1963" type="inclusive">1961-1963</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e196b52c6f2555596ae1c7fefcb474c6" label="Mixed Materials [31142063007788]" type="Box">11</container>
+          <container id="aspace_2967780519b3e7787f99d71c885fa7c1" parent="aspace_e196b52c6f2555596ae1c7fefcb474c6" type="Folder">1-2</container>
+        </did>
+      </c>
+      <c id="aspace_05ea07ba040bb21efdc6ee8565631fff" level="file">
+        <did>
+          <unittitle><emph render="italic">Music Front</emph> : Pierre Degeyter Music Club of New York, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1930/1939" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ee5ce762bc0388eece88f42a7d905060" label="Mixed Materials [31142063007770]" type="Box">10</container>
+          <container id="aspace_f803878434be0997072c295b9c01dbed" parent="aspace_ee5ce762bc0388eece88f42a7d905060" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_41bfb0d6570d1b9db67d6dcd335999c7" level="file">
+        <did>
+          <unittitle><emph render="italic">Music is Dangerous : Surrealist Research &amp; Development Monograph Series</emph> : Radical America, Cambridge, MA</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b5db97334b4ea4637cc33f3eb8100a38" label="Mixed Materials [31142063007770]" type="Box">10</container>
+          <container id="aspace_f76ef402696a97e0ff189cb2c221935f" parent="aspace_b5db97334b4ea4637cc33f3eb8100a38" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_047e2fccd642a0ae8d4e36f9029c3293" level="file">
+        <did>
+          <unittitle><emph render="italic">N.Y.S. Museum News</emph> : The New York State Museum Associates, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ecda86d266efea3270992c7f40f96143" label="Mixed Materials [31142063007788]" type="Box">11</container>
+          <container id="aspace_a2a423b740a1aeaaec41131dd166de54" parent="aspace_ecda86d266efea3270992c7f40f96143" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_91b493cfa0c6ce0c74b19ccb017d8caf" level="file">
+        <did>
+          <unittitle><emph render="italic">National Board of Review Magazine</emph> : National Board of Review of Motion Pictures, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1933/1933" type="inclusive">1933</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fa3542353171437a2e98da113b436de1" label="Mixed Materials [31142063007788]" type="Box">11</container>
+          <container id="aspace_e5d39aebad88545acd564e1ae0e5adb1" parent="aspace_fa3542353171437a2e98da113b436de1" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_3e3ecb433f0a5726169f656b8a5be4ed" level="file">
+        <did>
+          <unittitle><emph render="italic">National Theatre Conference Quarterly Bulletin</emph> : National Theatre Conference, Cleveland, OH</unittitle>
+          <unitdate datechar="creation" normal="1942/1942" type="inclusive">1942</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0acbf39ab3d53deadcce834a9fba1826" label="Mixed Materials [31142063007788]" type="Box">11</container>
+          <container id="aspace_89aff799860811ab3eb1c4b304a252d9" parent="aspace_0acbf39ab3d53deadcce834a9fba1826" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_fb2f4a313f512039858ce8590a64755f" level="file">
+        <did>
+          <unittitle><emph render="italic">Network Project Notebooks</emph> : The Network Project, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1972/1974" type="inclusive">1972-1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_809fc12031d898c88b22a169498485c3" label="Mixed Materials [31142063007788]" type="Box">11</container>
+          <container id="aspace_ff983abbbf90f15faa8afe17fe469697" parent="aspace_809fc12031d898c88b22a169498485c3" type="Folder">5-6</container>
+        </did>
+      </c>
+      <c id="aspace_422a523e679fc4b636bdcb0318da2111" level="file">
+        <did>
+          <unittitle><emph render="italic">Neue Deutsche Blatter : Monatschrift Fur Literatur un Kritik</emph> : Neue Deutsche Blatter, Prague, Czechoslovakia</unittitle>
+          <unitdate datechar="creation" normal="1934/1935" type="inclusive">1934-1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6cd1828d1cccca909f47a7664ee341c6" label="Mixed Materials [31142063007788]" type="Box">11</container>
+          <container id="aspace_f1c28ba653647c8eda5c6cdbc699d383" parent="aspace_6cd1828d1cccca909f47a7664ee341c6" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_2f7660408a50a6972ce81381323d969d" level="file">
+        <did>
+          <unittitle><emph render="italic">New America : A Review</emph> : American Studies at University of New Mexico, Albuquerque, New Mexico</unittitle>
+          <unitdate datechar="creation" normal="1975/1976" type="inclusive">1975-1976</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_571e1686f16fe9ed44d8cbd69ae46c43" label="Mixed Materials [31142063007788]" type="Box">11</container>
+          <container id="aspace_0fa6ae595af5999b59bf506f4c91e181" parent="aspace_571e1686f16fe9ed44d8cbd69ae46c43" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_d6e9e4c7156c76ef4311b67d096b3d4f" level="file">
+        <did>
+          <unittitle><emph render="italic">New Democracy</emph> : National Economy and the Arts, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1933/1934" type="inclusive">1933-1934</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_76d02dfc45b9693efa3c3584dae2437b" label="Mixed Materials [31142063007861]" type="Box">19</container>
+          <container id="aspace_3e99917618b25616e4375b1564204e14" parent="aspace_76d02dfc45b9693efa3c3584dae2437b" type="Folder">16-17</container>
+        </did>
+      </c>
+      <c id="aspace_e16668919aef6f960acbd480ff9f48bc" level="file">
+        <did>
+          <unittitle><emph render="italic">New Federal One</emph> : Center for Government, Society, and the Arts, Fairfax, VA</unittitle>
+          <unitdate datechar="creation" normal="1994/1996" type="inclusive">1994-1996</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_16a37eef0981718ef5d09af76971e5e6" label="Mixed Materials [31142063007788]" type="Box">11</container>
+          <container id="aspace_3b6f4becf3a00c5607934818d1456bf5" parent="aspace_16a37eef0981718ef5d09af76971e5e6" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_e6d4ff57f27a086e93b48ba2372f308d" level="file">
+        <did>
+          <unittitle><emph render="italic">New York Actor</emph> : Screen Actors Guild New York, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="2000/2000" type="inclusive">2000</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_10e5506a876383c0ba6d4ebf5e1b5dc4" label="Mixed Materials [31142063007887]" type="Box">21</container>
+          <container id="aspace_6ed4636393cf71644d1271be18d14855" parent="aspace_10e5506a876383c0ba6d4ebf5e1b5dc4" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_7285edda4c0f7bd368479ad81a14d6e8" level="file">
+        <did>
+          <unittitle><emph render="italic">New York Artist</emph> : Cultural Committee of the United American Artists, Local 60, UOPWA, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f609980f40869fbb422ae9e0986bf46e" label="Mixed Materials [31142063007788]" type="Box">11</container>
+          <container id="aspace_5a08fa204eebb99e95df3d1b2eb77f76" parent="aspace_f609980f40869fbb422ae9e0986bf46e" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_15973e33a7931e0d9bef09cd9771b158" level="file">
+        <did>
+          <unittitle><emph render="italic">New York Hangover</emph> : New York Hangover, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1998/1998" type="inclusive">1998</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_f654821a872f77e20ab12a548ece9f9a" label="Mixed Materials [31142063007887]" type="Box">21</container>
+          <container id="aspace_3d20ac2bc653558afe170dba48a28312" parent="aspace_f654821a872f77e20ab12a548ece9f9a" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_5a5df637dbca94b552a3d8898bcc2de6" level="file">
+        <did>
+          <unittitle><emph render="italic">News &amp; Notes</emph> : Union for Democratic Communications, Long Beach, CA</unittitle>
+          <unitdate datechar="creation" normal="1982/1984" type="inclusive">1982-1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_89916089988d4643c68edf7732d6aae6" label="Mixed Materials [31142063007812]" type="Box">14</container>
+          <container id="aspace_5a5df1f6a69d755445ee95de968af3f7" parent="aspace_89916089988d4643c68edf7732d6aae6" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_8ccbf66b7012d491daaf3f6061ace9ea" level="file">
+        <did>
+          <unittitle><emph render="italic">News from the Working Theatre</emph> : The Working Theatre, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2099c7ddcce53a88982baf3b7c2276ca" label="Mixed Materials [31142063007788]" type="Box">11</container>
+          <container id="aspace_797663e919d5ab7d0039c7632f0f7db7" parent="aspace_2099c7ddcce53a88982baf3b7c2276ca" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_e03840506481fafbdcabd1f80044b97a" level="file">
+        <did>
+          <unittitle><emph render="italic">newsART</emph> : Generalist Association, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_728823755d5a369b02f50cca4ff66ecc" label="Mixed Materials [31142063007887]" type="Box">21</container>
+          <container id="aspace_d62fbe74e9f19a71ab55ff68c880484d" parent="aspace_728823755d5a369b02f50cca4ff66ecc" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_550dbe8cb787e7cd2e08498fae07f189" level="file">
+        <did>
+          <unittitle><emph render="italic">Newsletter</emph> : The Dramatists Guild, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1992/1997" type="inclusive">1992-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_58b6bff4f83eb379deebc567b4ea6cc3" label="Mixed Materials [31142063007788]" type="Box">11</container>
+          <container id="aspace_ac6fc8d4541e503e478c5dcb83c1c564" parent="aspace_58b6bff4f83eb379deebc567b4ea6cc3" type="Folder">8-9</container>
+        </did>
+      </c>
+      <c id="aspace_2f8acc5cf793d69192260d04506154e3" level="file">
+        <did>
+          <unittitle><emph render="italic">Nightwatch</emph> : AKA, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1973/1974" type="inclusive">1973-1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c0352f5e5d437b3b488ae3ae8095d88d" label="Mixed Materials [31142063007788]" type="Box">11</container>
+          <container id="aspace_1100db8d86a377340c79ceb019c5b843" parent="aspace_c0352f5e5d437b3b488ae3ae8095d88d" type="Folder">16</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_3e4900b6bd085d94a29b86a90500bcc0" label="Mixed Materials [31142063007861]" type="Box">19</container>
+          <container id="aspace_30d590361018c940dd612753362eccd1" parent="aspace_3e4900b6bd085d94a29b86a90500bcc0" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_fd42bf056e7c4349e7246cd0ca5a93ab" level="file">
+        <did>
+          <unittitle><emph render="italic">Noetics</emph> : Fugitive Press, Syracuse, NY</unittitle>
+          <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_60376ab0e0ba3a9f9029c829ee8987bd" label="Mixed Materials [31142063007788]" type="Box">11</container>
+          <container id="aspace_94af109d44caa966904ef9cead9fe1d1" parent="aspace_60376ab0e0ba3a9f9029c829ee8987bd" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_19ef17f37596be861e8d6a860c974cb1" level="file">
+        <did>
+          <unittitle><emph render="italic">North Coast Times Eagle</emph> : R.S. Need and D.H. Lardy, Wheeler, OR</unittitle>
+          <unitdate datechar="creation" normal="1987/1987">1987</unitdate>
+          <container altrender="OS Flat Box - 14.75 x 17.75" id="aspace_11c4dfeb2c600aca6e67e37a34e28e0d" label="Mixed Materials [31142062673895]" type="Box">Shared Tamiment 061</container>
+          <container id="aspace_631cd124d6e56bc61964560be215537e" parent="aspace_11c4dfeb2c600aca6e67e37a34e28e0d" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_565ef81d9f74c9bc2918f5c4a753c6fc" level="file">
+        <did>
+          <unittitle><emph render="italic">Official Bulletin</emph> : International Alliance of Theatrical Stage Employees and Moving Picture Machine Operators of the United States and Canada, Newark, NJ</unittitle>
+          <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4fa9217ccade1781e257510ceefdc5f0" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_10d4b419ab170af01a7d7de7eaba7c03" parent="aspace_4fa9217ccade1781e257510ceefdc5f0" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_c0f93d82656cb02ecb24dfd6fdf420af" level="file">
+        <did>
+          <unittitle><emph render="italic">Open Dialogue</emph> : Association of American Cultures, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1987/1997" type="inclusive">1987-1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_62f1dc17b53119c27fe530637151dbcc" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_cee02ae3b74b605b7fdea48d6f1f8ef6" parent="aspace_62f1dc17b53119c27fe530637151dbcc" type="Folder">2</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_5197006f1a033835be65cb37d3402536" label="Mixed Materials [31142063007879]" type="Box">20</container>
+          <container id="aspace_68b0df3b69b9c08e3fa595290249aadd" parent="aspace_5197006f1a033835be65cb37d3402536" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_6ef13d56dea04f8ada46b58550efc83b" level="file">
+        <did>
+          <unittitle><emph render="italic">Optimist</emph> : Comic Collective, London, UK</unittitle>
+          <unitdate datechar="creation" normal="1980/1989" type="inclusive">Undated</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_a8f11736d3b7be72faed3a3f40d7eaa3" label="Mixed Materials [31142063007879]" type="Box">20</container>
+          <container id="aspace_61fed5a74f173b8e0438c07e9fad3202" parent="aspace_a8f11736d3b7be72faed3a3f40d7eaa3" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_fa166d5c320dee8e704f5b827925e451" level="file">
+        <did>
+          <unittitle><emph render="italic">Overload</emph> : New People Media Project, Berkeley, CA</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_95ef4ac999fa25b864fbeb9c5248774b" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_34dd52309c6c477573fbfa13e672493b" parent="aspace_95ef4ac999fa25b864fbeb9c5248774b" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_0f075ae298a06daed4f34c89acb7eaca" level="file">
+        <did>
+          <unittitle><emph render="italic">Pacific Northwest Newspaper Guild</emph> : Pacific Northwest Newspaper Guild, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ebe0a357eae60ffa014488bf1ed1e0fb" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_a39babbdaaec67c6cdaa222644ce60e9" parent="aspace_ebe0a357eae60ffa014488bf1ed1e0fb" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_4a569aa322c5d59bb6d7a39297dadb4d" level="file">
+        <did>
+          <unittitle><emph render="italic">Pajaro Cascabel</emph> : Pajaro Cascabel, Mexico City, Mexico</unittitle>
+          <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5a6b3738decf3a93a508b0f265e59ff5" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_572abcc23728561e667136b758ca0d8e" parent="aspace_5a6b3738decf3a93a508b0f265e59ff5" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_1e737a3a8da36da089cbc2d49eab17ea" level="file">
+        <did>
+          <unittitle><emph render="italic">Pakn Treger</emph> : National Yiddish Book Center, Amherst, MA</unittitle>
+          <unitdate datechar="creation" normal="1997/1999" type="inclusive">1997-1999</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9e0adb7d20f0599ca3672b26cfdb51e5" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_2c54efa86a2a45337da48961f91fc0da" parent="aspace_9e0adb7d20f0599ca3672b26cfdb51e5" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_e7aa23a9ad01162b9d314ae336a6b04a" level="file">
+        <did>
+          <unittitle><emph render="italic">Palaver</emph> : African and Afro-American Research Institute, Austin, TX</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_72edee814acc7a142bb064efc9900793" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_0425a15e98d383a2f1cffce023614980" parent="aspace_72edee814acc7a142bb064efc9900793" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_a1497e31b9bb09b8bb02b5abbd1b1a63" level="file">
+        <did>
+          <unittitle><emph render="italic">People's Symphony Concerts</emph> : People's Symphony, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1997/1997" type="inclusive">1997</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cb1ca95aa5c0aba782bee5297e8cb783" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_2c8509fd2fd4e8d80dafb6d0e6f1db74" parent="aspace_cb1ca95aa5c0aba782bee5297e8cb783" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_6cd39e074dfc91fbacb3b99fabb88601" level="file">
+        <did>
+          <unittitle><emph render="italic">Phantasm</emph> : Heidelberg Graphics, Chico, CA</unittitle>
+          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8973e34f85363f8a73ac66d6b122d9cf" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_702bd39a5084446a4428df6b705d2ae6" parent="aspace_8973e34f85363f8a73ac66d6b122d9cf" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_344c29603d0ce8365535533ac53036c8" level="file">
+        <did>
+          <unittitle><emph render="italic">Philadelphia Journalism Review</emph> : Philadelphia Journalism Associates, Philadelphia, PA</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d22fffb5ba73740ccc66eb53f68c4f0f" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_40897de59f424f32d8e821a4c144af25" parent="aspace_d22fffb5ba73740ccc66eb53f68c4f0f" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_407d7aa61d83d02ae8c5ab3954c0c865" level="file">
+        <did>
+          <unittitle><emph render="italic">Photo Reporter</emph> : March of Time, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_bff771a9929bc243b24b613f8976d49b" label="Mixed Materials [31142063007887]" type="Box">21</container>
+          <container id="aspace_c19b33205d02aceb3b7d34d5c4bc5756" parent="aspace_bff771a9929bc243b24b613f8976d49b" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_4cec15126daaf791fda675d6466b58f1" level="file">
+        <did>
+          <unittitle><emph render="italic">Pivot</emph> : Pivot, Trinidad and Tobago</unittitle>
+          <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_ef2186a2659f5c6676782082c2d42a48" label="Mixed Materials [31142063007879]" type="Box">20</container>
+          <container id="aspace_05eb906eb52cf59f8925b99733196195" parent="aspace_ef2186a2659f5c6676782082c2d42a48" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_54d2b6b7175bf3d8575877bc926b0751" level="file">
+        <did>
+          <unittitle><emph render="italic">Prairie</emph> : Prairie, Milwaukee, WI</unittitle>
+          <unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8a19eddde4b3e9e37878e47c5f0d694d" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_24ca36a835cab32f04bb82c1c6433d9f" parent="aspace_8a19eddde4b3e9e37878e47c5f0d694d" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_33b6101d8405652ded50d3b3b0475100" level="file">
+        <did>
+          <unittitle><emph render="italic">Prairie Fire</emph> : Regina Community Media Project, Saskatchewan</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_6793faff0a838ebadff09700d385e293" label="Mixed Materials [31142063007887]" type="Box">21</container>
+          <container id="aspace_d139e992570f3ed70b5f0c21a8b0f8d7" parent="aspace_6793faff0a838ebadff09700d385e293" type="Folder">15-16</container>
+        </did>
+      </c>
+      <c id="aspace_493c67ecc50308ce703698d5c83bd8c7" level="file">
+        <did>
+          <unittitle><emph render="italic">Prompt </emph> : University College London Dramatic Society, London, UK</unittitle>
+          <unitdate datechar="creation" normal="1964/1966" type="inclusive">1964-1966</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_89464cf25d17296bfa5c218b7e8d5be3" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_153210ca3714d5064e8036aa29890d09" parent="aspace_89464cf25d17296bfa5c218b7e8d5be3" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_73e391ddc8cdb407a5f1daae6386e01a" level="file">
+        <did>
+          <unittitle><emph render="italic">Propaganda Review</emph> : Media Alliance, San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1987/1991" type="inclusive">1987-1991</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d2defdcdc6ea75527e2e9a809ed2b62a" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_cba48aaa1ab5f67993e1cb108807313f" parent="aspace_d2defdcdc6ea75527e2e9a809ed2b62a" type="Folder">14-15</container>
+        </did>
+      </c>
+      <c id="aspace_4b0b5ec275811e5cac0ac3a07b2ea51f" level="file">
+        <did>
+          <unittitle><emph render="italic">Public</emph> : Urbana-Champaign Independent Media Center, Urbana-Champaign, IL</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_e50abd7e52d8ceba75720d2f4b2b9e38" label="Mixed Materials [31142063007879]" type="Box">20</container>
+          <container id="aspace_43b9e8ef7c74d15b4cda52fe205a1839" parent="aspace_e50abd7e52d8ceba75720d2f4b2b9e38" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_e0ae3171e86f2eb9f2e57687cf0e3aa1" level="file">
+        <did>
+          <unittitle><emph render="italic">Real People's Music Occasional</emph> : Real People's Music, Oak Park, IL</unittitle>
+          <unitdate datechar="creation" normal="2013/2013" type="inclusive">2013</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fc4f30a4f0d8331e2fd86f272d28e4ea" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_345bdc7c78b372a364ad90bd2d4196ed" parent="aspace_fc4f30a4f0d8331e2fd86f272d28e4ea" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_3d60366baee1800aa89c0bfc66f86871" level="file">
+        <did>
+          <unittitle><emph render="italic">Red Bass</emph> : Red Bass Productions, Inc., New Orleans, LA</unittitle>
+          <unitdate datechar="creation" normal="1989/1989" type="inclusive">1989</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_fb6082d7b00935f66a883293e676fb2b" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_65e4e34d9c81fcf32deefd926dd131f7" parent="aspace_fb6082d7b00935f66a883293e676fb2b" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_383e2f4fb42de9f0cd5afe70bc09a369" level="file">
+        <did>
+          <unittitle><emph render="italic">Red Bass</emph> : Red Bass Productions, Inc., Tallahassee, FL</unittitle>
+          <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_a3ce97a8525b0f5c5e7bd9127564b44d" label="Mixed Materials [31142063007879]" type="Box">20</container>
+          <container id="aspace_0f10c9cfa065729c15fc4f9e45036a54" parent="aspace_a3ce97a8525b0f5c5e7bd9127564b44d" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_481c1830ac59105901ccb4699517bd48" level="file">
+        <did>
+          <unittitle><emph render="italic">Red Earth</emph> : Red Earth, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_47dcf171b6df01ff056e9ecb3c94ec13" label="Mixed Materials [31142063007879]" type="Box">20</container>
+          <container id="aspace_460335ae06cb0c7d7637d8cefc9c6191" parent="aspace_47dcf171b6df01ff056e9ecb3c94ec13" type="Folder">6</container>
+          <container altrender="Flat OS Box 17" id="aspace_2c72186b6184d647b2f1256611306d06" label="Mixed Materials [31142063007895]" type="Box">22</container>
+          <container id="aspace_f2fb2e3e50842be1621aab517d170202" parent="aspace_2c72186b6184d647b2f1256611306d06" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_da439be0930c4957d00bd98488408b61" level="file">
+        <did>
+          <unittitle><emph render="italic">Red Letter Days</emph> : Political Art Documentation/Distribution (P.A.D.D.), New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1983/1984" type="inclusive">1983-1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_01e6560a7a2441198033520fe47c754c" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_1c7ad2b078782f4157518f02a8c1963c" parent="aspace_01e6560a7a2441198033520fe47c754c" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_1351b82ce95893e75109253b39f68fbb" level="file">
+        <did>
+          <unittitle><emph render="italic">Redletter</emph> : Redbook, Cambridge, MA</unittitle>
+          <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4675ca763b39f213221b25b789ea60fe" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_500fbec1f831b9491932bbecf0064cf4" parent="aspace_4675ca763b39f213221b25b789ea60fe" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_2f818e11bb4e4e74b9704babc8e590a9" level="file">
+        <did>
+          <unittitle><emph render="italic">Reel 1</emph> : Screen Actors Guild, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e8a015e8db27d6cb019a27202db8016a" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_befefbf172f7f39ac629ec79ed61012f" parent="aspace_e8a015e8db27d6cb019a27202db8016a" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_b5566cd40a9693dcb788eb83ccca3d2b" level="file">
+        <did>
+          <unittitle><emph render="italic">Reprints from Sing Out!</emph> : Oak Publications, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1959/1964" type="inclusive">1959-1964</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7f4719ed5fd68ef5d9820b9b86af11a6" label="Mixed Materials [31142063007796]" type="Box">12</container>
+          <container id="aspace_d537665adde3b61c68b91898588d0829" parent="aspace_7f4719ed5fd68ef5d9820b9b86af11a6" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_60db2021b064bec443336fa66ba092eb" level="file">
+        <did>
+          <unittitle><emph render="italic">Resources for People's Culture : A Bibliographic Newsletter of Art and Politics</emph> : Muriel Hogan, Milwaukee, WI</unittitle>
+          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b541b5e2f8bb762348f2a23e6ad1df8e" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_9422761414535adcdc7fa0e4b4acd752" parent="aspace_b541b5e2f8bb762348f2a23e6ad1df8e" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_66678fcd5c6020d64a1ff7fcf6ccc49f" level="file">
+        <did>
+          <unittitle><emph render="italic">Revelations</emph> : Fernand Nathan, Paris, France</unittitle>
+          <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1101014cfba9b404a59b1d0297c8bccf" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_3209a8a56d0e58e1421ace37f3ea8b2a" parent="aspace_1101014cfba9b404a59b1d0297c8bccf" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_b6df24d9aa1ac260a722262b2a2659b6" level="file">
+        <did>
+          <unittitle><emph render="italic">Review1 (Monthly Review Supplement)</emph> : Monthly Review, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_704adb5469ba4710fb8c9ab68cc0a55b" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_3a8d1667b3896ad4b42c111c2e6b4866" parent="aspace_704adb5469ba4710fb8c9ab68cc0a55b" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_92409bc0421fe8fa23cb68fc8d10fccb" level="file">
+        <did>
+          <unittitle><emph render="italic">Revolucion y Cultura</emph> : Ministerio de Cultura, Havana, Cuba</unittitle>
+          <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a9c16e5cdcdeee3a7c829be6cdeb24fd" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_99f0e179101c67108f9e56e5761fc8b5" parent="aspace_a9c16e5cdcdeee3a7c829be6cdeb24fd" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_40f430c1fe7d4c0f0427b96bf6d1b22b" level="file">
+        <did>
+          <unittitle><emph render="italic">Right of Aesthetic Realism to Be Known</emph> : Aesthetic Realism Foundation, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1988/2005" type="inclusive">1988, 2005</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_24f9037fac3f7373a8ab90584f9212b1" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_510b75ac7fc7863e718beb44d6ee6b67" parent="aspace_24f9037fac3f7373a8ab90584f9212b1" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_6c0012c0e43494fdecd2b5c6239efff1" level="file">
+        <did>
+          <unittitle><emph render="italic">Rolanroc</emph> : Alternative Press Syndicate, Buenos Aires, Argentina</unittitle>
+          <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_6ca521c50e4343fc9af4337b3d514f20" label="Mixed Materials [31142063007879]" type="Box">20</container>
+          <container id="aspace_075385705e129d65dd44f5b0300347ab" parent="aspace_6ca521c50e4343fc9af4337b3d514f20" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_e071de2fdf251a5a5ee1ff77f733f5cd" level="file">
+        <did>
+          <unittitle><emph render="italic">Ronnie Rat Show</emph> : Ink Works, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d2d2d4560172eede6157e477d440a8fe" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_2b0e96049a794cc51432dc17bd0a22df" parent="aspace_d2d2d4560172eede6157e477d440a8fe" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_4be3d858e7db5da7f0826df507b4a9f9" level="file">
+        <did>
+          <unittitle><emph render="italic">Roustabout Reporter</emph> : Bindlestaff Family Circus; Autonomadic Bookmobile, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1997/1998" type="inclusive">1997-1998</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c5469d92eac55bfe4c742af6b646b066" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_84b4ee03d78a773fa4522f8d1b1cadc2" parent="aspace_c5469d92eac55bfe4c742af6b646b066" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_074532d979163c432d855260dc6ec28c" level="file">
+        <did>
+          <unittitle><emph render="italic">SCW (Syracuse Cultural Workers)</emph> : Syracuse Cultural Workers, Syracuse, NY</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_68e51c7ce400e340feff6c6f3d6a1241" label="Mixed Materials [31142063007879]" type="Box">20</container>
+          <container id="aspace_f945536f06d668cec995497f293d721a" parent="aspace_68e51c7ce400e340feff6c6f3d6a1241" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_5b3561e2f64fbc109a15a5671964a355" level="file">
+        <did>
+          <unittitle><emph render="italic">Section III</emph> : Section III, Seattle, WA</unittitle>
+          <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_595be3f09985a1d670ee1bb7c35fa41f" label="Mixed Materials [31142063007895]" type="Box">22</container>
+          <container id="aspace_a65023fafd7c3c5e04a788aa7d67190e" parent="aspace_595be3f09985a1d670ee1bb7c35fa41f" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_04a8c6e9f432638abacf7d3337939e7b" level="file">
+        <did>
+          <unittitle><emph render="italic">ShowBiz West</emph> : ShowBiz West, Hollywood, CA</unittitle>
+          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cbdacd349984c5184ae0cc553afd07ac" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_4166bc55e6bf3ef4b7550b25a221fe81" parent="aspace_cbdacd349984c5184ae0cc553afd07ac" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_cb7c1a06153fb6a189034dc049ff8421" level="file">
+        <did>
+          <unittitle><emph render="italic">Sibyl-Child</emph> : Sibyl-Child, Baltimore, MD</unittitle>
+          <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9824d8c96368232a26ee1194f238661d" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_7a79bf48bab23e17c188ad7c83a1bcdd" parent="aspace_9824d8c96368232a26ee1194f238661d" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_9fd5c505de4444a3476912823e83a79e" level="file">
+        <did>
+          <unittitle><emph render="italic">Slate</emph> : Slate, Berkeley, CA</unittitle>
+          <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6a9c8286aea79c1ab8900b16461b86c2" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_16937dfd850496257b3c3b6d7a07a043" parent="aspace_6a9c8286aea79c1ab8900b16461b86c2" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_8edcb61547f8e9fc3670e2668b1e6134" level="file">
+        <did>
+          <unittitle><emph render="italic">Slug &amp; Lettuce</emph> : Slug &amp; Lettuce, Richmond, VA</unittitle>
+          <unitdate datechar="creation" normal="2003/2003" type="inclusive">2003</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_efb5a12c72478eb88c7595d780787daf" label="Mixed Materials [31142063007879]" type="Box">20</container>
+          <container id="aspace_7b38c565b77a57f676e41166d7dd32c3" parent="aspace_efb5a12c72478eb88c7595d780787daf" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_2a573cabc9c9e40677e52304156e0675" level="file">
+        <did>
+          <unittitle><emph render="italic">Soldier</emph> : Art Young's First Quarterly, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1922/1922" type="inclusive">1922</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0ea15a54f7f4b60aa9e96fe210d44f52" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_9122c0c9ccf52d14f91925f335246e29" parent="aspace_0ea15a54f7f4b60aa9e96fe210d44f52" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_82fc1e54cbfc9ad912f7bfab8ff45668" level="file">
+        <did>
+          <unittitle><emph render="italic">Solidarity</emph> : New Day Films, Franklin Lakes, NJ</unittitle>
+          <unitdate datechar="creation" normal="1970/1979" type="inclusive">Undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4b7767899d532352c71f4225696d5dc8" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_2a4cf0e8132827114c192ace44b42cb3" parent="aspace_4b7767899d532352c71f4225696d5dc8" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_51311b7ecc5ac01d56c67b8538a8a962" level="file">
+        <did>
+          <unittitle><emph render="italic">South End Press newsletter</emph> : Institute for Social and Cultural Change, Boston, MA</unittitle>
+          <unitdate datechar="creation" normal="1984/1987" type="inclusive">1984-1987</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_41f989284e3fffe1b994d7a152f92dc4" label="Mixed Materials [31142063007879]" type="Box">20</container>
+          <container id="aspace_de1147ef08579a526c97a170ca866145" parent="aspace_41f989284e3fffe1b994d7a152f92dc4" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_cff20802e210e56fbf8b3c7b28e7aa67" level="file">
+        <did>
+          <unittitle><emph render="italic">Soṿeṭish Heymland</emph> : Mosḳve, Soveṭsḳi Pisaṭel, Russia</unittitle>
+          <unitdate datechar="creation" normal="1969/1972" type="inclusive">1969-1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_98564c2f022c076b5488f6ac3b6b2d78" label="Mixed Materials [31142062673903]" type="Box">25</container>
+          <container id="aspace_7037ebca10b42cbf541111d8b07357a3" parent="aspace_98564c2f022c076b5488f6ac3b6b2d78" type="Folder">1-5</container>
+        </did>
+      </c>
+      <c id="aspace_ef06092aa85a3b6f6b4cc317c802ef6c" level="file">
+        <did>
+          <unittitle><emph render="italic">Special Issue</emph> : Vermont Alternative Media Project (VAMP), Vermont</unittitle>
+          <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_fb7eba7ecfeecca2776d3e7b39660bb2" label="Mixed Materials [31142063007895]" type="Box">22</container>
+          <container id="aspace_40547bc4de8e0a3b41a548a78cbecafd" parent="aspace_fb7eba7ecfeecca2776d3e7b39660bb2" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_166eda1ab6eee92e89d16ad64b814f10" level="file">
+        <did>
+          <unittitle><emph render="italic">Staff</emph> : The Staff, Los Angeles, CA</unittitle>
+          <unitdate datechar="creation" normal="1971/1973" type="inclusive">1971-1973</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_6585a3503f37685e90285f86a170036d" label="Mixed Materials [31142063007895]" type="Box">22</container>
+          <container id="aspace_57af50f7ca4a99317f187ed7f9b711d0" parent="aspace_6585a3503f37685e90285f86a170036d" type="Folder">4-10</container>
+          <container altrender="Flat OS Box 17" id="aspace_b76388f4c2a48096615f39470f8827b6" label="Mixed Materials [31142063007903]" type="Box">23</container>
+          <container id="aspace_df42295cbcbf2d38f557cd2ae7de21be" parent="aspace_b76388f4c2a48096615f39470f8827b6" type="Folder">1-8</container>
+          <container altrender="Flat OS Box 17" id="aspace_1757c1112deae30e0cbc91529950fba9" label="Mixed Materials [31142063007911]" type="Box">24</container>
+          <container id="aspace_4e330e6f00b22ae6448e52ad858e1b52" parent="aspace_1757c1112deae30e0cbc91529950fba9" type="Folder">1-7</container>
+        </did>
+      </c>
+      <c id="aspace_28b4be2201d3bad07afd6216ef104ca5" level="file">
+        <did>
+          <unittitle><emph render="italic">Strategies</emph> : Strategies for Media Literacy, Inc., San Francisco, CA</unittitle>
+          <unitdate datechar="creation" normal="1991/1991" type="inclusive">1991</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ae5b3f3afdb8ff32cb78b8b805cc57fc" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_ca8d8bf8ba74cceed39757c588a3baff" parent="aspace_ae5b3f3afdb8ff32cb78b8b805cc57fc" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ad32a04b1954a8a506382a6805f09ea6" level="file">
+        <did>
+          <unittitle><emph render="italic">Sunspots</emph> : SUN Symphony Society, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1988/1988" type="inclusive">1988</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_48b2dded8bb7c10aa8b39152dcc4364f" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_c1b4f1fbc9da94aa8d5fe5da45813070" parent="aspace_48b2dded8bb7c10aa8b39152dcc4364f" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_09f22657446e01ee7c989fc19667ed69" level="file">
+        <did>
+          <unittitle><emph render="italic">Supplement</emph> : Association of Performing Arts Presenters, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1988/1990" type="inclusive">1988-1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f091ee668a80ec0e6acab42dbf9c5f0f" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_234796eead0e7ec6252146e981742e96" parent="aspace_f091ee668a80ec0e6acab42dbf9c5f0f" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_164f800abbdcab65858a90f50b531e93" level="file">
+        <did>
+          <unittitle><emph render="italic">Surrealism : The Octopus Typewriter</emph> : Surrealist Movement, Chicago, IL</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_1615f63a1c9250da63140fa4abdb8c41" label="Mixed Materials [31142063007879]" type="Box">20</container>
+          <container id="aspace_d8836f65e078be6cfdb1a0e58fd011e5" parent="aspace_1615f63a1c9250da63140fa4abdb8c41" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_6907701d581f18f97fd8dd2a8e0cb53e" level="file">
+        <did>
+          <unittitle><emph render="italic">Syntheses : Revue Mensuelle Europeenne</emph> : Editions Syntheses, Brussels, Belgium</unittitle>
+          <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_cac77c00efeee664ffe614b9b5790817" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_ae1da70a2dbacbeb8727f10cf15f4f34" parent="aspace_cac77c00efeee664ffe614b9b5790817" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_612bd86676a219c10bf0df6c229e5b44" level="file">
+        <did>
+          <unittitle><emph render="italic">Tabloid</emph> : Tabloid, Stanford, CA</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7f6a265032c38f7a710f0f035134d452" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_e2ce43fefe29ed9136451a574d6d8d9b" parent="aspace_7f6a265032c38f7a710f0f035134d452" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_8d8fbb9e9bfb70a4a1a08ab3a295b01e" level="file">
+        <did>
+          <unittitle><emph render="italic">Techne</emph> : Experiments in Arts and Technology, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_85340649c18a6fc706f5c4eb33e72233" label="Mixed Materials [31142063007879]" type="Box">20</container>
+          <container id="aspace_cbd477735af148398990aeea26e7d10e" parent="aspace_85340649c18a6fc706f5c4eb33e72233" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_6c2c8d1f5206dca3e5c4e890f26f5f49" level="file">
+        <did>
+          <unittitle><emph render="italic">This Quarter</emph> : Ray Long &amp; Richard R. Smith, Inc., New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1930/1932" type="inclusive">1930-1932</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_523ce8a8e2c76c9a24751272a039a7ed" label="Mixed Materials [31142063007804]" type="Box">13</container>
+          <container id="aspace_1d2d1df4862fa98a0d316e1524b995ba" parent="aspace_523ce8a8e2c76c9a24751272a039a7ed" type="Folder">20-21</container>
+          <container altrender="Manuscript box - Legal" id="aspace_a5628c45d664133367bd0cd245a90deb" label="Mixed Materials [31142063007812]" type="Box">14</container>
+          <container id="aspace_88b2572cfd0627653b532098afd7b995" parent="aspace_a5628c45d664133367bd0cd245a90deb" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_5eae46686554d1b0863a205999c4cab0" level="file">
+        <did>
+          <unittitle><emph render="italic">Thomas Carlyle's Philosophy of Clothes</emph> : Haldeman-Julius Company, Girard, Kansas</unittitle>
+          <unitdate datechar="creation" normal="1923/1923" type="inclusive">1923</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_27501f269b124218315205879975dec0" label="Mixed Materials [31142063007812]" type="Box">14</container>
+          <container id="aspace_f8aff8533e96bcb4d4d6c3643c1e7027" parent="aspace_27501f269b124218315205879975dec0" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_2342b543b5fe65ccc2778ee5f852f874" level="file">
+        <did>
+          <unittitle><emph render="italic">Toronto Clarion</emph> : Western Gap Communications Co-Operative, Toronto, Ontario</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_9a43ca6f77a7859c088a02684c315258" label="Mixed Materials [31142063007911]" type="Box">24</container>
+          <container id="aspace_0f898c00b705ab7d9c0e394e29f67439" parent="aspace_9a43ca6f77a7859c088a02684c315258" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_00da4ca4362717c37668f33c04f3f2eb" level="file">
+        <did>
+          <unittitle><emph render="italic">Travail Theatral</emph> : La Cite, Lausanne, Switzerland</unittitle>
+          <unitdate datechar="creation" normal="1970/1972" type="inclusive">1970-1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5475a1ee1ec7a9007b3cb4f29b39b37e" label="Mixed Materials [31142063007812]" type="Box">14</container>
+          <container id="aspace_6fbc838c5c4671121ed759b14f6f9825" parent="aspace_5475a1ee1ec7a9007b3cb4f29b39b37e" type="Folder">3-4</container>
+        </did>
+      </c>
+      <c id="aspace_757edc904c2b6434d4d3f47e5c832dbf" level="file">
+        <did>
+          <unittitle><emph render="italic">Tupamaros</emph> : NACLA, Berkeley, CA</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e7287fd68dd646b41c339dbbc813cfe7" label="Mixed Materials [31142063007812]" type="Box">14</container>
+          <container id="aspace_923f7b210dfb4677a6d0a3c547a13575" parent="aspace_e7287fd68dd646b41c339dbbc813cfe7" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_12bde027928a72524b48361f7f6ed60f" level="file">
+        <did>
+          <unittitle><emph render="italic">Twice a Year : A Semi-Annual Journal of Literature, the Arts, and Civil Liberties</emph> : Twice a Year, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1e0f8fc4f9f3a3cfc0e3529040ed79d4" label="Mixed Materials [31142063007812]" type="Box">14</container>
+          <container id="aspace_604a98e7c378647e76aed081170e1f75" parent="aspace_1e0f8fc4f9f3a3cfc0e3529040ed79d4" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_e8f50de43118f65c92568962771bbbfc" level="file">
+        <did>
+          <unittitle><emph render="italic">Umbra's Blackworks</emph> : Society of Umbra, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_487f6307fc3bc279184b626b11390c7d" label="Mixed Materials [31142063007911]" type="Box">24</container>
+          <container id="aspace_4b15c56f15998beacb632c9b50cfc3a8" parent="aspace_487f6307fc3bc279184b626b11390c7d" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_3af5e8b451998f2aeeeb507270d4480c" level="file">
+        <did>
+          <unittitle><emph render="italic">Unconvention</emph> : Independent Media Center of Philadelphia, Philadelphia, PA</unittitle>
+          <unitdate datechar="creation" normal="2002/2002" type="inclusive">2002</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_7a13066960979db549823d9c84c3587e" label="Mixed Materials [31142063007911]" type="Box">24</container>
+          <container id="aspace_db139efa8479f7da0b63d6217bfb1fac" parent="aspace_7a13066960979db549823d9c84c3587e" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_0171260aecef446ef2ad5cfadc22acd3" level="file">
+        <did>
+          <unittitle><emph render="italic">Uptown Beat Literary Quarterly</emph> : East Harlem Writing Center, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c87273ee7025f16f76fc56394469b27d" label="Mixed Materials [31142063007812]" type="Box">14</container>
+          <container id="aspace_9686de6ae73a19a70c0f15fa1339a6ea" parent="aspace_c87273ee7025f16f76fc56394469b27d" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_b10941fe8e52ed3f9e6f7e4542256f37" level="file">
+        <did>
+          <unittitle><emph render="italic">Voices</emph> : Redwood Records Cultural and Educational Fund, Oakland, CA</unittitle>
+          <unitdate datechar="creation" normal="1984/1987" type="inclusive">1984-1987</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_88ac768b7a7a51b050195c5eb2a377b8" label="Mixed Materials [31142063007812]" type="Box">14</container>
+          <container id="aspace_010dd9b130e1c8af6ddab7382cce626e" parent="aspace_88ac768b7a7a51b050195c5eb2a377b8" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_488ddbce148c98e9214befc808286c96" level="file">
+        <did>
+          <unittitle><emph render="italic">Voices : A Quarterly on Poetry</emph> : E. L. Vinal, Brattleboro, VT</unittitle>
+          <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_087d3ebdbf88e7e26eb44366c5b1dda1" label="Mixed Materials [31142063007812]" type="Box">14</container>
+          <container id="aspace_24a62d1b99ecf3b79cb29ded4777082e" parent="aspace_087d3ebdbf88e7e26eb44366c5b1dda1" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_d7340ae21e5f16046109349d27ce9d27" level="file">
+        <did>
+          <unittitle><emph render="italic">Washington Book Review</emph> : Washington Book Review, Inc., Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1981/1981" type="inclusive">1981</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_79d0b8434382ba3818c0d4746fc9c8db" label="Mixed Materials [31142063007820]" type="Box">15</container>
+          <container id="aspace_1fa5e83cd6ec6739438b4fc0ad477058" parent="aspace_79d0b8434382ba3818c0d4746fc9c8db" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_56432a4f0b0c03bc64618d49b0a4ae78" level="file">
+        <did>
+          <unittitle><emph render="italic">Wedge</emph> : Wedge, London, UK</unittitle>
+          <unitdate datechar="creation" normal="1978/1978" type="inclusive">1978</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b9147cfe5a9e6b2b2e9b2e59a1e9e3ba" label="Mixed Materials [31142063007820]" type="Box">15</container>
+          <container id="aspace_dcce4040a2a12f2bc2bb3c774f6c74e9" parent="aspace_b9147cfe5a9e6b2b2e9b2e59a1e9e3ba" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_c3886928b91ec20665a8421c970e7a27" level="file">
+        <did>
+          <unittitle><emph render="italic">Weimarer Beitrage</emph> : Aufbau - Verlag, Berlin, Germany</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_23b1affbfc9b8c9d96f4a19c2f54fedd" label="Mixed Materials [31142063007820]" type="Box">15</container>
+          <container id="aspace_defe442eec686ce5379a9d51673a830d" parent="aspace_23b1affbfc9b8c9d96f4a19c2f54fedd" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_8dbf776ce4496996e19014c499395f13" level="file">
+        <did>
+          <unittitle><emph render="italic">Westchester Artsnews</emph> : Council for the Arts in Westchester, White Plains, NY</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_b41412999beb2fe499011f89150b988c" label="Mixed Materials [31142063007879]" type="Box">20</container>
+          <container id="aspace_f8fb768bc7a1c13cda480b44542ed14e" parent="aspace_b41412999beb2fe499011f89150b988c" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_fa1fd7e216d5e760bd6f297fa972eaaa" level="file">
+        <did>
+          <unittitle><emph render="italic">What Are You Going to Do About It?</emph> : Chicago Surrealist Group, Evanston, IL</unittitle>
+          <unitdate datechar="creation" normal="1992/1992" type="inclusive">1992</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ee8c6dd134d66bc3068cf38d90d7a22a" label="Mixed Materials [31142063007820]" type="Box">15</container>
+          <container id="aspace_b73e619899d00248cc6233e0ffc53a5e" parent="aspace_ee8c6dd134d66bc3068cf38d90d7a22a" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_1ab9e0932c0e6fb5c474190213bfb7ff" level="file">
+        <did>
+          <unittitle><emph render="italic">Whirl</emph> : El Estudio Press, Santa Fe, NM</unittitle>
+          <unitdate datechar="creation" normal="1930/1930" type="inclusive">1930</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_37e676c1843e902ade4e1fe0760c6474" label="Mixed Materials [31142063007820]" type="Box">15</container>
+          <container id="aspace_9ca6d46db35275aac8d1cee68b8fecd7" parent="aspace_37e676c1843e902ade4e1fe0760c6474" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_35efcc603222fa8e0d8966fb1a1513d6" level="file">
+        <did>
+          <unittitle><emph render="italic">Wireless : WEFT 90.1 FM Program Guide</emph> : WEFT / Prairie Air, Champaign, IL</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_63cd1a20ea95316212fc8841bdb38f33" label="Mixed Materials [31142063007820]" type="Box">15</container>
+          <container id="aspace_5fd1747c162b5abfc8f9e60f68677367" parent="aspace_63cd1a20ea95316212fc8841bdb38f33" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ee589192a358755c435651e6e8b22ab0" level="file">
+        <did>
+          <unittitle><emph render="italic">Witness</emph> : Witness Publishers, Inc., Farmington Hills, MI</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_91f105a44e8b82e8808ce3993c4f473c" label="Mixed Materials [31142063007820]" type="Box">15</container>
+          <container id="aspace_28b70ae4916cb17d03a332996dd41a91" parent="aspace_91f105a44e8b82e8808ce3993c4f473c" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ab589d078a7160b2a072a35d5dc0f10d" level="file">
+        <did>
+          <unittitle><emph render="italic">Women &amp; Film</emph> : Women &amp; Film, Santa Monica, CA</unittitle>
+          <unitdate datechar="creation" normal="1972/1975" type="inclusive">1972-1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d5490d8b551a7f8095b1b8e93d6902f1" label="Mixed Materials [31142063007820]" type="Box">15</container>
+          <container id="aspace_90fbca1449a6c670f4983f97b6a4b416" parent="aspace_d5490d8b551a7f8095b1b8e93d6902f1" type="Folder">7-8</container>
+        </did>
+      </c>
+      <c id="aspace_e6d0006da18e2e6090a413802b7311ba" level="file">
+        <did>
+          <unittitle><emph render="italic">Women and Art Supplement on Art and Society</emph> : Women and Art Supplement</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_9c17694263e7fea0305b25c1dc5fa510" label="Mixed Materials [31142063007879]" type="Box">20</container>
+          <container id="aspace_cfd4e712048e2cab8cf6e49d87888fd8" parent="aspace_9c17694263e7fea0305b25c1dc5fa510" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_696acb7e74c7274f5536d379ef4419f0" level="file">
+        <did>
+          <unittitle><emph render="italic">World's Word</emph> : World's Word, Washington, DC</unittitle>
+          <unitdate datechar="creation" normal="1984/1985" type="inclusive">1984-1985</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_84463402530bb40d80578b4329bc78b3" label="Mixed Materials [31142063007820]" type="Box">15</container>
+          <container id="aspace_11e9e5c04ecc383bda8b01754a746d1d" parent="aspace_84463402530bb40d80578b4329bc78b3" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_8bd0ff896c56f7c7dbf1d3c0c5805f91" level="file">
+        <did>
+          <unittitle><emph render="italic">Writer's Monthly</emph> : Writer's Monthly, Springfield, MA</unittitle>
+          <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_aed31ce15c23b8e5fd1d1566cabb1ce6" label="Mixed Materials [31142063007820]" type="Box">15</container>
+          <container id="aspace_85fb0a77cc65ff3511276b02187818a7" parent="aspace_aed31ce15c23b8e5fd1d1566cabb1ce6" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_45782987725ac4d584affd2860b01720" level="file">
+        <did>
+          <unittitle><emph render="italic">Yellow Springs Review</emph> : Yellow Springs Institute, Chester Springs, PA</unittitle>
+          <unitdate datechar="creation" normal="1990/1990" type="inclusive">1990</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7e647e679a56437811a569c8ac978ad5" label="Mixed Materials [31142063007820]" type="Box">15</container>
+          <container id="aspace_1d5a9a20d3f6f816b95309274e3e609a" parent="aspace_7e647e679a56437811a569c8ac978ad5" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_bf2ed10090948c985e200e66f5b53c1b" level="file">
+        <did>
+          <unittitle><emph render="italic">Zamlungen : A Literary Quarterly</emph> : Jewish Writers Organization of the YKUF, New York, NY</unittitle>
+          <unitdate datechar="creation" normal="1954/1977" type="inclusive">1954-1977</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_56c9d74251e9fdbd82e01ef9ec40814e" label="Mixed Materials [31142063007820]" type="Box">15</container>
+          <container id="aspace_c1c238b51756be1fabc576b5120fdf3a" parent="aspace_56c9d74251e9fdbd82e01ef9ec40814e" type="Folder">12</container>
+          <container altrender="Manuscript box - Legal" id="aspace_c6e16c649f659aabecc00baaec39ef9e" label="Mixed Materials [31142063007838]" type="Box">16</container>
+          <container id="aspace_0f0552d49cbd4c8db3611e39c95adaee" parent="aspace_c6e16c649f659aabecc00baaec39ef9e" type="Folder">1-6</container>
+          <container altrender="Manuscript box - Legal" id="aspace_5b04e1985b004ebac311b4b3807cf1cb" label="Mixed Materials [31142063007846]" type="Box">17</container>
+          <container id="aspace_be57a3a1e01ea663edcd2b9deab1d913" parent="aspace_5b04e1985b004ebac311b4b3807cf1cb" type="Folder">1-6</container>
+        </did>
+      </c>
+      <c id="aspace_6660c43a23fcc31d8e856446ab990e4f" level="file">
+        <did>
+          <unittitle><emph render="italic">Литературная газета : орган Правления Союза советских писателей СССР</emph> (<emph render="italic">Literary Gazette: Board of the Union of Soviet Writers of the USSR</emph>) : Тип. Гудок Moskva : Tip. Gudok, Russia</unittitle>
+          <unitdate datechar="creation" normal="1956/1956">1956</unitdate>
+          <container altrender="Flat OS Box 17" id="aspace_4ba36f9b84e0dc6ad5ba4e716706ed45" label="Mixed Materials [31142046746791]" type="Box">Shared Tamiment 048</container>
+          <container id="aspace_aadce3357a7c6bfc99223558088a632d" parent="aspace_4ba36f9b84e0dc6ad5ba4e716706ed45" type="Folder">13</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

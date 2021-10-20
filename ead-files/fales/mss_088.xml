@@ -1,0 +1,2930 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_088">mss_088</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Redtape Archive <num>MSS.088</num></titleproper>
+        <author>Jane Gorzhevskaya, January-April 1998. Updated 2011 by Laura Newsome.</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from redtape Finding Aid.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+        <p>
+          <date>1998</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 21:54:28 -0400</date>.</creation>
+      <langusage>Description is in <language>English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Redtape Archive</unittitle>
+      <origination label="Creator">
+        <corpname source="local">Redtape</corpname>
+      </origination>
+      <unitid>MSS.088</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+        <extent altrender="carrier">in 4 boxes.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1972/1992" type="inclusive">ca. 1972-1992</unitdate>
+      <abstract id="aspace_2c87f7c1dd2bcb037b1db196b14691fb">Redtape, edited and published by Michael Carter, was an East Village "zine" which throughout its run espoused innovative visual and literary expression while encouraging interplay between those two forms. The magazine, featuring comics, poetry, fiction, graphic art, and photography, provided a venue for both established and emerging writers and artists of the downtown scene. The collection includes a complete run of the magazine, mock-up copies and galleys, original art work, copies of art work, photographs, manuscripts and related correspondence, newspaper clippings, posters and flyers for readings, benefit parties and other events organized by Redtape participants.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <custodhist id="aspace_583a2e76463da8db1563355193c05ad3">
+      <head>Provenance</head>
+      <p>The Redtape Archive was acquired via purchase from its editor, Michael Carter in 1996. The collection was sorted by Marvin J. Taylor once it arrived at NYU. Archival materials were sorted into a series and processed later.</p>
+    </custodhist>
+    <accessrestrict id="aspace_bbbd8acf0b97a868c5f3fbf9bb3a6bf2">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <userestrict id="aspace_6302cdd314ed627217128acee4261bd5">
+      <head>Use Restrictions</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <prefercite id="aspace_f62b4c30a4f2e9fcae4b5e0bb911c28d">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form:<lb/><lb/>Identification of item, date (if known); The Redtape Archive; MSS 088; box number; folder number; <address><addressline>Fales Library and Special Collections</addressline></address> , New York University Libraries.</p>
+    </prefercite>
+    <bioghist id="aspace_633a9fc5af9de630977fefe8362dbc32">
+      <head>Historical Note:</head>
+      <p>Redtape, one of the East Village "zines", employing a magazine form to communicate innovative artistic ideas, divided its pages between literature and graphics, encouraging an interplay between writers and visual artists. According to the editor and publisher of Redtape Michael Carter the purpose of the magazine was "to explore new possibilities and forms of expression, to develop craft and technique without becoming sequestered in an intellectual or academic ivory tower". The magazine, featuring comics, poetry, fiction, graphic art, and photography, provided a venue for both established and emerging writers and artists of the downtown scene.</p>
+      <p>Intended initially as a quarterly publication, Redtape released seven issues in 10 years, each having a unique format and organized around specific theme: 'For the Left Side of Your Brain' (1982), 'Assemblage' (1982), 'Redtape: Double Summer Issue' (1983) , 'ArtDamaged' (1984), 'White Lies' ( 1984), 'The Cracked Mirror' (1986) and 'Tragicomix' (1992). Issue No. 3 was the first time Carter consciously reached out to the art community. Since then, every issue expanded the list of contributors and the scope of the publication, making the magazine a part and product of the Lower East Side scene. From the fourth issue onwards, the magazine was published on glossy paper, capable of high-quality graphic reproduction.</p>
+      <p>Contributors to the magazine included Kathy Acker, Peter Chereches, Constance De Jong, John Farris, Richard Hambleton, Greer Lankton, Patrick McGrath, Lynne Tillman and David Wojnarowicz among many others.</p>
+    </bioghist>
+    <scopecontent id="aspace_88a256be33ede3894cc426990d89fed1">
+      <head>Scope and Content Note</head>
+      <p>The collection includes a complete run of the magazine (including all variants), mock-up copies and gallows, original art work, copies of art work, photographs, manuscripts and related correspondence, newspaper clippings, ads, and posters and flyers for readings, benefit parties and other events organized by Redtape participants. The earliest materials submitted to the publication are dated 1972; however, the bulk of the material spans 1980-1992 (the period of the magazine's publication). The Collection contains many undated and/or unsigned documents, which, whenever possible, were identified using the published issues of the magazine and filed accordingly. Oversized archival materials from the various series are located in an oversize box at the end of the collection. All posters are located in the map case.</p>
+      <p>NOTE: Oversized material is in the numerical sequence of the series to which it belongs, though contained in separate boxes. </p>
+      <p>SERIES DESCRIPTIONS</p>
+      <p>
+        <list>
+          <item> Series I: Writings - contains poetry and fiction submitted for publication in Redtape. Materials are arranged alphabetically by author. Some folders include related correspondence. </item>
+          <item> Series II: Art/Comix - contains original artwork and photocopies. The original artwork consists of watercolors, drawings, graphic art, collages and transparencies. Some photocopies are signed and/or have handwritten titles. Whenever handwritten text on the photocopy was not intended as a part of the image, the work was considered a copy. However, if the image itself was modified in any way, the work was considered original. Subseries A contains the original work and subseries B contains copies </item>
+          <item> Series III: Photography - contains photographic prints submitted for publication in Redtape. Some of the photographs are original, while others reproduce the artwork present in the collection (Mike Cockrill) </item>
+          <item> Series IV: Production files - contains copies of magazine issues, drafts, mock-up copies and magazine page designs and layouts. </item>
+          <item> Series V: Events - contains ads, fliers and postcards announcing performances, art exhibits and readings by the authors, Redtape pre-publication celebrations and benefits parties. </item>
+          <item> Series VI: Miscellaneous - contains small-scale publications of Redtape contributors, 1 folder containing Michael Carter's incoming and outgoing correspondence relating to the magazine, and newspaper clippings of articles written by Michael Carter or mentioning Redtape magazine </item>
+          <item> Oversize: One flat oversize box at the end of the collection contains oversize materials from series 1, 2, 3, 4, and 5. </item>
+        </list>
+      </p>
+    </scopecontent>
+    <arrangement id="aspace_d0f1c960cd16c5f6e36a06fd7027222a">
+      <head>Arrangement</head>
+      <p>Folders are arranged alphabetically by subject/author heading.</p>
+      <p> The files are grouped into six subject-based series.</p>
+      <list type="ordered">
+        <item>Series I: Correspondence</item>
+        <item>Series II: Art/Comix</item>
+        <item>Series III: Photography</item>
+        <item>Series IV: Production Files</item>
+        <item>Series V: Events</item>
+        <item>Series VI: Miscellaneous</item>
+        <item>Oversize - Series I: Correspondence</item>
+        <item>Oversize - Series II: Art/Comix</item>
+        <item>Oversize - Series III: Photography</item>
+        <item>Oversize - Series IV: Production Files</item>
+        <item>Oversize - Series V: Events</item>
+        <item>Oversize - Series VI: Miscellaneous</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_39eb2a0308ab540734465dbe8c8f8f8b">
+      <head>Related Material at the Fales Library and Special Collections</head>
+      <p>Ron Kolm Papers (MSS.079)</p>
+      <p>Tommy Turner Film Collection (MSS.099)</p>
+      <p>John Hall Papers (MSS.098)</p>
+      <p>Tim Dlugos Papers (MSS.087)</p>
+      <p>Between C&amp; D Archive (MSS.084)</p>
+      <p>David Wojnarowicz Papers (MSS.092)</p>
+    </relatedmaterial>
+    <separatedmaterial id="aspace_c3a0a15306585fd7f160a4b41b29af26">
+      <head>Separated Material</head>
+      <p>There is no information about materials that are associated by provenance to the described materials that have been physically separated or removed.</p>
+    </separatedmaterial>
+    <controlaccess>
+      <subject source="lcsh">American literature -- 20th century.</subject>
+      <subject source="lcsh">Small presses -- New York (State) -- New York.</subject>
+      <genreform source="aat">Magazines (Periodicals)</genreform>
+      <genreform source="aat">Photographs.</genreform>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <subject source="lcsh">Authors, American -- 20th century.</subject>
+      <subject source="lcsh">Avant-garde (Aesthetics)</subject>
+      <subject source="lcsh">Literature, Experimental.</subject>
+      <geogname source="lcsh">Lower East Side (New York, N.Y.) -- Fiction.</geogname>
+      <genreform source="aat">Scripts (documents)</genreform>
+      <subject source="lcsh">Artists and community -- United States</subject>
+      <geogname source="lcsh">New York (N.Y.) |v Fiction.</geogname>
+      <genreform source="aat">Posters.</genreform>
+      <subject source="lcsh">American fiction -- 20th century.</subject>
+      <geogname source="lcsh">New York (N.Y.).</geogname>
+      <geogname source="lcsh">New York (N.Y.) -- Intellectual life -- 20th century.</geogname>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">American fiction -- New York (State) -- New York.</subject>
+      <genreform source="aat">Business records.</genreform>
+      <genreform source="aat">Fliers (printed matter)</genreform>
+      <genreform source="aat">Comics (documents).</genreform>
+      <persname source="naf">Tillman, Lynne</persname>
+      <persname source="naf">Acker, Kathy, 1948-1997</persname>
+      <persname source="naf">McGrath, Patrick, 1950-</persname>
+      <persname source="naf">Kolm, Ron</persname>
+      <persname source="naf">DeJong, Constance</persname>
+      <persname source="naf">Carter, Michael</persname>
+      <persname source="naf">Sanders, Ed</persname>
+      <persname source="naf">Wojnarowicz, David</persname>
+      <corpname source="local">Redtape</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref11" level="series">
+        <did>
+          <unittitle>Series I: Correspondence</unittitle>
+        </did>
+        <c id="aspace_ref12" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Unidentified</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7452b440e7ad5c6d59ef0a213e026bdb" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_e063d05d3f7bfd80a68e0ab2297a0c02" parent="aspace_7452b440e7ad5c6d59ef0a213e026bdb" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Kathy Acker</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_753cec054558f25b4f29a1a29689bcd3" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_2ccec244497ccc7e8e29a4743084061d" parent="aspace_753cec054558f25b4f29a1a29689bcd3" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Lester Afflick</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5ac4d56b50dd5d3dd579d3d0c575d352" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_38eee0a0099c85e9b4f3445fb382a172" parent="aspace_5ac4d56b50dd5d3dd579d3d0c575d352" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Daniel Aherne</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_945dd4a7498f8911a37768a91667cf2a" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_ef8b4e8e4e2397fd6399e4b1bd11465d" parent="aspace_945dd4a7498f8911a37768a91667cf2a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Neil Alers</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c070d949671d7870416090b60ffe9d42" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_dd9f55ed1cfd2b226506b9dc685a68f8" parent="aspace_c070d949671d7870416090b60ffe9d42" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Alfonso Akeela</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4cd597387aa83a693e0b26a6dbb47e7f" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_f2f0132c6d9ced920efcba3c54273a79" parent="aspace_4cd597387aa83a693e0b26a6dbb47e7f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Richard Armijo</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0bf4f92342f3f591ada0ea1ff383b481" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_6680ebc7cc1c149e8a96eef14d4eb181" parent="aspace_0bf4f92342f3f591ada0ea1ff383b481" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Paul Barry</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_175d1d20a621c5c9c3091b564b4cbf74" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_4b72b0e7985a655e10071848dc15af05" parent="aspace_175d1d20a621c5c9c3091b564b4cbf74" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Erica Baum</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_f66a7d10eba195e3c38d90a4ed7d6c81" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_bc58d38a5ebd437d26a9492849b003f6" parent="aspace_f66a7d10eba195e3c38d90a4ed7d6c81" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>David Biddle</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_295a4bd7dc2fb5bdf33b5436bbe571c3" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_ad8319786695f73bfa144f78aaeec073" parent="aspace_295a4bd7dc2fb5bdf33b5436bbe571c3" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Beth Biegler</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a0a1c93556b7cddcd812752f63b61254" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_d3dd0d44eb620a071685e6547311a975" parent="aspace_a0a1c93556b7cddcd812752f63b61254" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Star Black</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_46c905ebc5ed70f2a8888cb24e46780e" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_d07beb901cea9549aa3e338854a207bd" parent="aspace_46c905ebc5ed70f2a8888cb24e46780e" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Max Blagg</unittitle>
+            <unitdate datechar="creation">1991</unitdate>
+            <container id="aspace_e90bca0a4b68bf45111a7f1c3f8f67ad" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_6afd94b846b72f28100a0b68b566c083" parent="aspace_e90bca0a4b68bf45111a7f1c3f8f67ad" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Les Bridges</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_a0f0f2710196a6ec6584bc95474cb7f7" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_51ca48a7f231bf6bb88e71aa5925e70a" parent="aspace_a0f0f2710196a6ec6584bc95474cb7f7" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Ronnie Burk</unittitle>
+            <unitdate datechar="creation">1981 - 1984</unitdate>
+            <container id="aspace_7ea4bea81e0d2ffb9d43727c8fe351b8" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_c99da94acad619a52726f06889b48fdc" parent="aspace_7ea4bea81e0d2ffb9d43727c8fe351b8" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Kathe Burkhart</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_13716b05d94c120f9619c55d1b88ab88" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_0d7569f4217d4a02f5731c93db21b3e6" parent="aspace_13716b05d94c120f9619c55d1b88ab88" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Steve Cannon</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8a4dabe55d575093cac40ca92cbb004d" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_40de0291392a09e3db52841f8a479043" parent="aspace_8a4dabe55d575093cac40ca92cbb004d" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Lawrence Caputo</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_9d4bb424274d071b13ca430b05d8da4f" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_71e9ae6bdfa10cd5dc8456235ea6234e" parent="aspace_9d4bb424274d071b13ca430b05d8da4f" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Michael Carter (aka Charles Perry?)</unittitle>
+            <unitdate datechar="creation">1982 - 1992</unitdate>
+            <container id="aspace_e395ea362d99fddcc6cc73ffb8dfda63" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_1ced7cd619721327d81716b24ecfa892" parent="aspace_e395ea362d99fddcc6cc73ffb8dfda63" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Peter Cherches</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8230cccd2382d2a79fd89550dad89e34" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_3c1ea9e32d2fc039b1b92e253a8462d4" parent="aspace_8230cccd2382d2a79fd89550dad89e34" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bill Considine</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_cb8a6ad56b22ff18c8b9eb253ff56187" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_79e4afd434172f3140ea5336df8e997f" parent="aspace_cb8a6ad56b22ff18c8b9eb253ff56187" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Robert Costa</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e9f234864452218fe3a2ea489178a6bf" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_aa54604c3447246db3e14b877050f4d6" parent="aspace_e9f234864452218fe3a2ea489178a6bf" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Eric Darton</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c3060750bcc7e23afedde0cd444bd163" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_2ef4d6163971f811ba8f694180c5e642" parent="aspace_c3060750bcc7e23afedde0cd444bd163" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Simone Davis</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_f955db40e3db2aeaaff14e8c727ae6d1" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_16f2049711413839712ae381d01449fe" parent="aspace_f955db40e3db2aeaaff14e8c727ae6d1" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Constance DeJong</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_48c44ace0d6b27610d60da19a1f11659" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_97ddf4e1baa29ca00d8516ef815b7788" parent="aspace_48c44ace0d6b27610d60da19a1f11659" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Dana Delibovi</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b4a891844a57b26aa7051ba8d5a9e44d" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_eaa9c9ae61bf51534a05aede3536b079" parent="aspace_b4a891844a57b26aa7051ba8d5a9e44d" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mark Dery</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_975d52b9b6fdf7c3f469e41a51a72230" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_c438f3fcc50e8f9e232e17312853fa42" parent="aspace_975d52b9b6fdf7c3f469e41a51a72230" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Tom DeVenti</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0b4f5408a03f81c6b2f1e84a6b6efa51" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_2e9c4413a498f27f7bf210e7a899e092" parent="aspace_0b4f5408a03f81c6b2f1e84a6b6efa51" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Philip Dray</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b9e92c06b752b9f14886e3dd171bfd35" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_97f0ccca09d71a4ae584a955d0b8a134" parent="aspace_b9e92c06b752b9f14886e3dd171bfd35" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Russell Epprecht</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_82479ceed3f52be03923400f39522bec" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_3c387157852c896a23872402ae4c77c8" parent="aspace_82479ceed3f52be03923400f39522bec" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Stacy Erra</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2d376b2801d49b80479524586dfc4837" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_c737877a23d09e4282b2dcbab07fe350" parent="aspace_2d376b2801d49b80479524586dfc4837" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Maggie Estep</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0151e119465a8db43b907daac8daa196" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_56777c74a4dbdc860fae207aa2aac00a" parent="aspace_0151e119465a8db43b907daac8daa196" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>John Farris</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6a8dfdce2c7416b7332dc0e3ddd72c57" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_89d1ac874ee1866b0e49bfdce7c35e1d" parent="aspace_6a8dfdce2c7416b7332dc0e3ddd72c57" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jim Feast</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5cf5b70f4e98bfa7cb181e0027bbd286" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_0824ca0831ace61a54a5f26c000f5f43" parent="aspace_5cf5b70f4e98bfa7cb181e0027bbd286" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Orion Isaak Feig</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_165e8903b19d42f526e5b4a54afb95a3" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_1057b9fa0426c884b3ac5603f0a3d123" parent="aspace_165e8903b19d42f526e5b4a54afb95a3" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Cheryl Fish</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8b05d1184169c91f2b93fbdd01f1d16e" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_5b89aea374eed8c3a759f16672f26c71" parent="aspace_8b05d1184169c91f2b93fbdd01f1d16e" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Dorothy Friedman</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e33795e0e69e5a114cecb7bfbb7f29f9" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_f8f462748338fed14292abb248605b5c" parent="aspace_e33795e0e69e5a114cecb7bfbb7f29f9" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Rachel Garmez</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3852fe263cb8153fb5980d57feae1b2f" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_0abb837bd1810531c36ae34b87c8ca1c" parent="aspace_3852fe263cb8153fb5980d57feae1b2f" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mike Golden</unittitle>
+            <unitdate datechar="creation">1979 - 1989</unitdate>
+            <container id="aspace_056772381c77e9b5a92472862b377ed4" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_0f8bbc24614fdf2f7d071ea298808be4" parent="aspace_056772381c77e9b5a92472862b377ed4" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Joshua Golding</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c8858692a96f28d9feb68f56e095877a" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_918885b41ab1449f3f20b71194529447" parent="aspace_c8858692a96f28d9feb68f56e095877a" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Steve Greber</unittitle>
+            <unitdate datechar="creation">1979 - 1985</unitdate>
+            <container id="aspace_e7e1c9551d77046675a8e48b33a90d12" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_73850ac0fa02b4e64dff3e4369b11ad0" parent="aspace_e7e1c9551d77046675a8e48b33a90d12" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jacek Gulla</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_70239162d9f8b672efcb2576d8880c88" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_635f39fde223c48abd9e58dc3e52e962" parent="aspace_70239162d9f8b672efcb2576d8880c88" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>John Hall</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_68eb07dbce826ddc0245ac041b9c04fe" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_70b1be69cbd9826c89c4b2f17a3f3291" parent="aspace_68eb07dbce826ddc0245ac041b9c04fe" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Robert Craig Hardin</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_59cb33a98dab2549ac81fc2662c7560b" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_ae062396477167910066b6522bb4156a" parent="aspace_59cb33a98dab2549ac81fc2662c7560b" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Christine Hatfull</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_10622364ecabf259aaaffe84864d468b" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_046d42d12d426363f5dacd1a261db73b" parent="aspace_10622364ecabf259aaaffe84864d468b" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Barbara Holland</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4fb6866b6c0476420f355c84b3aa772b" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_9c594906332dd952cb6edd658f70e36f" parent="aspace_4fb6866b6c0476420f355c84b3aa772b" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Michael Horowitz</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8836d063a3ade8f78c859e2f4424e150" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_57c21f6934a6c9782661cda34e232b20" parent="aspace_8836d063a3ade8f78c859e2f4424e150" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>David Huberman</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ea5535036819e58efbc3af79d3863593" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_da019753adb59e20f95eaa89d906805d" parent="aspace_ea5535036819e58efbc3af79d3863593" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Christian X. Hunter</unittitle>
+            <unitdate datechar="creation">1990 - 1991</unitdate>
+            <container id="aspace_e47977a1cbaa22ab2fafe8211f679798" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_175e864b5e6400e10520b0d2862b8352" parent="aspace_e47977a1cbaa22ab2fafe8211f679798" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jennifer Kabat</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_39e883c8c26503f438a3ea1da6702825" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_4dd61cfb664163b83f0e0f18aeb82be3" parent="aspace_39e883c8c26503f438a3ea1da6702825" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Kold</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7684c30343a1ad500ed0c57290e6dc44" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_5ecf6136f52d01164d0f6ef11f281869" parent="aspace_7684c30343a1ad500ed0c57290e6dc44" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Ron Kolm</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_de0d1e3199d32d57a7acf7b0e241ff25" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_e755b21d04db93aed81409d1c7413205" parent="aspace_de0d1e3199d32d57a7acf7b0e241ff25" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Susan Kouguell</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container id="aspace_1c402e588305b8cac7120b2635fd9842" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_9180fae64834018274444f433b6a6a1b" parent="aspace_1c402e588305b8cac7120b2635fd9842" type="Folder">57</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Elmer Lang</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a7e1bf807688de0ce78b76584d6a7df6" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_8045f1e2d63e9faad84cb42e5dfd4ea0" parent="aspace_a7e1bf807688de0ce78b76584d6a7df6" type="Folder">58</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Lisa Lepore</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_0d0f9c8befd8a4413d085ef02752452b" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_79e3ee51132768c2e9a38e7b34536756" parent="aspace_0d0f9c8befd8a4413d085ef02752452b" type="Folder">59</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Sebastian Lockwood</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d5b332b9f36bee2662ff95115ae48e4b" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_801c6ba4bfe42caff6c9aa951547bcda" parent="aspace_d5b332b9f36bee2662ff95115ae48e4b" type="Folder">60</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Marian Lupo (aka Ravage)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_01b8c25fc2049dd058b66b1e335958bb" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_098843186c84463c5dcb0d141e948f4a" parent="aspace_01b8c25fc2049dd058b66b1e335958bb" type="Folder">61</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Ann Marlowe</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_17c7626fcced187e4fa64f9aeed44565" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_77d4f8408dace26f09db8dc0f084b996" parent="aspace_17c7626fcced187e4fa64f9aeed44565" type="Folder">62</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Patrick McGrath</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5b9dad7aea83c42f58a950ce7e5036d6" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_008409ad3869897a7860479ac039cf82" parent="aspace_5b9dad7aea83c42f58a950ce7e5036d6" type="Folder">63</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bernard Meisler</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_d06ba2c623095a6540c7025e0dce5df4" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_7c4247d3b7dc6f67a95edb14ecb8babe" parent="aspace_d06ba2c623095a6540c7025e0dce5df4" type="Folder">64</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Sharon Mesmer</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a12914516e07e4115bec70704927a5be" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_335bc39fe1c4acd1652ddfd04c952d24" parent="aspace_a12914516e07e4115bec70704927a5be" type="Folder">65</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Raymond Metrulis</unittitle>
+            <unitdate datechar="creation">1972 - 1977</unitdate>
+            <container id="aspace_063af8453b2dc1486dc654c9fe985a51" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_96d47df8c09b5cd627d34f5965311b6e" parent="aspace_063af8453b2dc1486dc654c9fe985a51" type="Folder">66</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Larry Miller</unittitle>
+            <unitdate datechar="creation">1989</unitdate>
+            <container id="aspace_09c8cb382ba5ae91017dfc84b7351c4d" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_a1cc86d2ca21e714c41033dbafba0101" parent="aspace_09c8cb382ba5ae91017dfc84b7351c4d" type="Folder">67</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Stephen Miller</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5e73612148929fd01048418026d8ff30" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_ae7b98ba64a6bb5cac210ccb84ff8f72" parent="aspace_5e73612148929fd01048418026d8ff30" type="Folder">68</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Josheph Nechvatal</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b4fdb1a92eda38975d7d37643f781b6d" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_11210f44f59cdac2d64a542501f2f81a" parent="aspace_b4fdb1a92eda38975d7d37643f781b6d" type="Folder">69</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Negro</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_8208661275129df24e1917bb5da27dd7" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_06a2650df81a39695b4c0292ea9a1b85" parent="aspace_8208661275129df24e1917bb5da27dd7" type="Folder">70</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Sheryl Noethe</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ee2a66c4e317a28e6cc0cd81599c68d4" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_f6169e53328d1630d355e8867a77116a" parent="aspace_ee2a66c4e317a28e6cc0cd81599c68d4" type="Folder">71</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Michael O'Donoghue</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b45ff50b4d0f0b6e2da039317bdec732" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_2c60a7b05aa7f7f35946b8da8470384e" parent="aspace_b45ff50b4d0f0b6e2da039317bdec732" type="Folder">72</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mike Osterhorit</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_cd36f55bfd30b1d368f81242725c309f" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_751f8d8653931fac054a1b37b250dde5" parent="aspace_cd36f55bfd30b1d368f81242725c309f" type="Folder">73</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Eve Packer</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_3ca00ca5eb8bd3bfb92608b7069aba8e" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_af47bb30a17f0ad79a3a0662b7b83b2c" parent="aspace_3ca00ca5eb8bd3bfb92608b7069aba8e" type="Folder">74</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jose Padua</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5653a3e9524ad170e36751a4da385e30" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_b2bcef883d34470a54a7e2ab712ab1d1" parent="aspace_5653a3e9524ad170e36751a4da385e30" type="Folder">75</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Eddy Paris</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a4add0936349f9ba21424efb4be8d444" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_1fec18318b6634c9c8dd6e536f982021" parent="aspace_a4add0936349f9ba21424efb4be8d444" type="Folder">76</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Allan Pearlman</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ef08cef5fa0bee91df25b3de64bbb094" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_8c7c3e7a6a499b330664b58767d0c249" parent="aspace_ef08cef5fa0bee91df25b3de64bbb094" type="Folder">77</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Angela Perri</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container id="aspace_d387f4baa5e5ef46596291531b508c0f" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_c10328b706a1b0e20606d2aa91bc18e8" parent="aspace_d387f4baa5e5ef46596291531b508c0f" type="Folder">78</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Miguel Pi</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_036195fd7cdffb9f865b7352cd44c8aa" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_bf72d9d048949e51627d23d9dabed4e2" parent="aspace_036195fd7cdffb9f865b7352cd44c8aa" type="Folder">79</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Deborah Pintonelli</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8a726df4d8436c45d5b37dd93b8690e1" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_58ccfc45476c83517cb6cd91f4ace3f1" parent="aspace_8a726df4d8436c45d5b37dd93b8690e1" type="Folder">80</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Wanda Phipps</unittitle>
+            <unitdate datechar="creation">1991</unitdate>
+            <container id="aspace_3f9009236461238141e68139b3d7dacd" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_5e3577d21379304e0b13fd472c9b06e3" parent="aspace_3f9009236461238141e68139b3d7dacd" type="Folder">81</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bart Plantenga</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a4102fd141cb63e23c5dc843e5b20689" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_c33b2246ed136ad63d5e7f5a501eb1c4" parent="aspace_a4102fd141cb63e23c5dc843e5b20689" type="Folder">82</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Victor Poison-T</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_73fa8f01f7f2b49b61b8391d49242acf" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_d3f70345dd030c53f57afc7c19952f79" parent="aspace_73fa8f01f7f2b49b61b8391d49242acf" type="Folder">83</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jonathan Prosser</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_e122d2609d3d1fee5f34658a620e869c" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_320f55da9aa5206abed518d8d7ff5d8d" parent="aspace_e122d2609d3d1fee5f34658a620e869c" type="Folder">84</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Michael Randal</unittitle>
+            <unitdate datechar="creation">1991</unitdate>
+            <container id="aspace_80df6cdbfa90c6fe2a57bfe461d6104c" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_1e9c5bb78101facb7d74e877bfaa3e55" parent="aspace_80df6cdbfa90c6fe2a57bfe461d6104c" type="Folder">85</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jill Rappaport</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e76239a73b9eba7f8a748b075263caca" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_8f10cdb2237b65cd41398f5de3a40065" parent="aspace_e76239a73b9eba7f8a748b075263caca" type="Folder">86</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>David Rattray</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1da54a5a4d80b6fb25478eb8f67e6d37" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_7e9451dea5b832d9c1a6e8a2d8b42272" parent="aspace_1da54a5a4d80b6fb25478eb8f67e6d37" type="Folder">87</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>John Read</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_ab1e03f09dc358fb29bd1d6754c8c073" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_5b1232d8a785224c89a89cd0e36cf610" parent="aspace_ab1e03f09dc358fb29bd1d6754c8c073" type="Folder">88</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Joel Rose</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_11640f4cdd5e355e3d9f18a9feea943b" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_2d6ca03c07e372fa6f20d75914bfaa68" parent="aspace_11640f4cdd5e355e3d9f18a9feea943b" type="Folder">89</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Thadeus Rutkowski</unittitle>
+            <unitdate datechar="creation">1984 - 1991</unitdate>
+            <container id="aspace_830df582cf1c8ba3ed8b54beabbb45c3" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_d26bc5dc4ab459ab4ef044f728400878" parent="aspace_830df582cf1c8ba3ed8b54beabbb45c3" type="Folder">90</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Ari Salant</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_250b288024e7062cd9a5467568062dae" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_931a05f7f97a72c85f734202cd6fb46a" parent="aspace_250b288024e7062cd9a5467568062dae" type="Folder">91</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Ed Sanders</unittitle>
+            <unitdate datechar="creation">1991</unitdate>
+            <container id="aspace_98395ed121cd1760c61ff515e88b50a8" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_4da699168a39332447f6528430865d86" parent="aspace_98395ed121cd1760c61ff515e88b50a8" type="Folder">92</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Tom Savage</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_6c021e50a846810383155612625455dc" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_a0eec22f54c4c8267be958537ae4be30" parent="aspace_6c021e50a846810383155612625455dc" type="Folder">93</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gail Shilke</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2475c6eb7f5d24769ee6b6631d0815f2" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_c9b87cb1604f67bd33e9e5013af52ee9" parent="aspace_2475c6eb7f5d24769ee6b6631d0815f2" type="Folder">94</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Giulie Schuitzler</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5b6fce587908271ce65b2eb4dfa655e9" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_df629ff88f8db517f94ca7d62e243ef3" parent="aspace_5b6fce587908271ce65b2eb4dfa655e9" type="Folder">95</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>JoAnn Schuman</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_5feac84322158a114863c999cfc8cee4" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_a8b5b2de0cf6e451e4b993aa5683946e" parent="aspace_5feac84322158a114863c999cfc8cee4" type="Folder">96</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jonathan Seliger</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_420406a759e38303c012a7898b69fbb1" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_4e1cd750e17c548a8622b65738ac3bd3" parent="aspace_420406a759e38303c012a7898b69fbb1" type="Folder">97</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Joe Semenovich</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container id="aspace_bd78817e21abe3c9ef151ccc9024f23e" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_cff7c9698e4fd636e75240ed91529a16" parent="aspace_bd78817e21abe3c9ef151ccc9024f23e" type="Folder">98</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Hal Sirowitz</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7cc28fa96f8881ccf8771e457e80d1c5" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_6b3cbb402f0da2a328fd04a72ddec056" parent="aspace_7cc28fa96f8881ccf8771e457e80d1c5" type="Folder">99</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Dr. Snakeskin (aka Darius James)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_97fb2d2e1be26750003293ae2057de75" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_bd1c6a3dd90c1475715f5b34538c4204" parent="aspace_97fb2d2e1be26750003293ae2057de75" type="Folder">100</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Sparrow</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a86e3bdcea60e4d5d4840b96d31818f9" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_72fa7c382aba4660348f523ffdce9ff7" parent="aspace_a86e3bdcea60e4d5d4840b96d31818f9" type="Folder">101</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Steven Taylor</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_538e4f45e0c0fb35761663eb4327344e" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_f6c9a0f5fdac03f745ff9ae17bea62b7" parent="aspace_538e4f45e0c0fb35761663eb4327344e" type="Folder">102</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Evie Teitlebaum</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_febc751734371a7d7141a922e4796efa" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_a29700520c0ea5694f0a1e1f1cb2d161" parent="aspace_febc751734371a7d7141a922e4796efa" type="Folder">103</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fiona Templeton</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_346841fae9da5f4025bbe2357983bdee" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_eb89af3e268d07935198a3a341963a25" parent="aspace_346841fae9da5f4025bbe2357983bdee" type="Folder">104</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jack Thomas</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_87bcf0f745c51bdfc1e7b2d40d438066" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_2d9703237719667dd0e597be39670ab1" parent="aspace_87bcf0f745c51bdfc1e7b2d40d438066" type="Folder">105</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Lynne Tillman</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d57f6054b96b98e921b0bf36b3338b90" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_f0842769a5d12d364cc25939cc38cf82" parent="aspace_d57f6054b96b98e921b0bf36b3338b90" type="Folder">106</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Kate Thompson</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9aa27dd912115f40ea142c5d1a56dbb7" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_2e24ae5403e54d9d15a1ebfad1d10a7d" parent="aspace_9aa27dd912115f40ea142c5d1a56dbb7" type="Folder">107</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jim Tobin</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_fec31b1f9c4b40d8df05d5ed3db193a8" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_0147923d29da46e7296963493345b6c4" parent="aspace_fec31b1f9c4b40d8df05d5ed3db193a8" type="Folder">108</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mike Topp</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a8949891a003e1885e5be7d9b34f6c48" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_37ebacdd06de0b6a773a3ed94f7b63ca" parent="aspace_a8949891a003e1885e5be7d9b34f6c48" type="Folder">109</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bill Trela</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_bc643e313fe41b784b3b717d83242e1c" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_f496d1555e973c0f7205bb8607e8eb0e" parent="aspace_bc643e313fe41b784b3b717d83242e1c" type="Folder">110</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>David Ulin</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_29f6779beac6708f6ab4df0d61133a43" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_9efa3a2b14aff93b99004376f994317a" parent="aspace_29f6779beac6708f6ab4df0d61133a43" type="Folder">111</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>David Ulin &amp; Steven Kane</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ea7e35bfba62486d4602225f32ffd128" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_37e5919dce5ec08867100ef94376b483" parent="aspace_ea7e35bfba62486d4602225f32ffd128" type="Folder">112</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Cecilia Vicu</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_d2aba08b94dc4c8b148b815ef048264d" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_a12f02da73b7b1a2248433467893930d" parent="aspace_d2aba08b94dc4c8b148b815ef048264d" type="Folder">113</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Vindaloo, Z.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0911ff041e55ebc3257d62cf3b8db40b" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_e17a2b41c012e5111843154c29b88629" parent="aspace_0911ff041e55ebc3257d62cf3b8db40b" type="Folder">114</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Matthew Waldman</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_61177fc0b6e898bf91380b012e387001" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_1bf789a6403f36369b34f3cda54a00ba" parent="aspace_61177fc0b6e898bf91380b012e387001" type="Folder">116</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Diane Ward</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e506ffdf86df703714feec1b4f986ebd" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_3b26ef8ec961478c3f7126845d5d2ec4" parent="aspace_e506ffdf86df703714feec1b4f986ebd" type="Folder">117</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jennifer Waters</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_0f28bbb835de6c4ac10c38a6aa395113" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_fbad8cdbbba34972fc20ec9a679c457e" parent="aspace_0f28bbb835de6c4ac10c38a6aa395113" type="Folder">118</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Carl Watson</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b8c8bf31f5776f98f92d3353381ac1df" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_53bb4a293bd0ebf14c7e88c723f7e7e2" parent="aspace_b8c8bf31f5776f98f92d3353381ac1df" type="Folder">119</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Lauren Weber</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_117be68eb9c9d7321ae3702fb58f33f6" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_4597ccc5f3e9b1bd5a5224860d40c4e1" parent="aspace_117be68eb9c9d7321ae3702fb58f33f6" type="Folder">120</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Penelope Weholi</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a3ff20f59f5ef64d4acfd7ec25d7f9dc" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_a042935ff4f1e58a404fd7c4fb44caa7" parent="aspace_a3ff20f59f5ef64d4acfd7ec25d7f9dc" type="Folder">121</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Enos Williams</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_cac8819a97d7ff8b68d29e6688ce8a71" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_adfe89631163793d141902e25f5bc6f0" parent="aspace_cac8819a97d7ff8b68d29e6688ce8a71" type="Folder">122</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jeff Wright</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_75d6871a276ce4f021153de1a83a9c52" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_0cdab9bf8c7ce26ff4fc139cfef7bee7" parent="aspace_75d6871a276ce4f021153de1a83a9c52" type="Folder">123</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Emily XYZ</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a7858b684ae1af5c79075583ae200b31" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_2853f8c76f1e7da2e3c9e84c41f0c2e8" parent="aspace_a7858b684ae1af5c79075583ae200b31" type="Folder">124</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Don Yorty</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_37c6b288d18e4a67f35f75987da193c2" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_4eeee971cfe119d36f1b804669d3ef7b" parent="aspace_37c6b288d18e4a67f35f75987da193c2" type="Folder">125</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Nina Zivancevic</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c470034bebf796ac22f288d93752352e" label="Mixed Materials [31142042242688]" type="Box">1</container>
+            <container id="aspace_2763d7b567edebec5227fbaa6d2b5550" parent="aspace_c470034bebf796ac22f288d93752352e" type="Folder">126</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref134" level="series">
+        <did>
+          <unittitle>Series II: Art/Comix</unittitle>
+        </did>
+        <c id="aspace_ref135" level="subseries">
+          <did>
+            <unittitle>Subseries A: Original Art</unittitle>
+          </did>
+          <c id="aspace_ref136" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Oversize Folder - Full Case" id="aspace_84a51079d45d9fd5a849b48764931f74" label="Mixed Materials [31142062892123]" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref137" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>John Carey - 1 of 2</unittitle>
+              <unitdate datechar="creation">1986</unitdate>
+              <container id="aspace_740c9013587b48aee782e9d14eb8e9e3" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_b736003794600c1b30ec0111eb517f97" parent="aspace_740c9013587b48aee782e9d14eb8e9e3" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref138" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>John Carey - 2 of 2</unittitle>
+              <unitdate datechar="creation">1992</unitdate>
+              <container id="aspace_3c65e4a02d991b8cf61de514a1bc64b0" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_e11ab1063567794f624aa7e1916a3a74" parent="aspace_3c65e4a02d991b8cf61de514a1bc64b0" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref139" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Mike Cockrill - 1 of 4</unittitle>
+              <unitdate datechar="creation">1991</unitdate>
+              <container id="aspace_038d07e05a0d8ca95929d694f1e68283" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_a871e75bb90ac36c9b5a674d44999a7d" parent="aspace_038d07e05a0d8ca95929d694f1e68283" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref140" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Mike Cockrill - 2 of 4</unittitle>
+              <unitdate datechar="creation">1991</unitdate>
+              <container id="aspace_55aa819efbe8a6556a8b6327d7bbf4e4" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_0caaca36f46aa773cc79d115d4b18943" parent="aspace_55aa819efbe8a6556a8b6327d7bbf4e4" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref141" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Thom Corn</unittitle>
+              <unitdate datechar="creation">1991</unitdate>
+              <container id="aspace_28da9c92b630c312b78114e5b46aad78" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_e6d56ea760910920a3f327b71a5fedb4" parent="aspace_28da9c92b630c312b78114e5b46aad78" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref142" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>David Life</unittitle>
+              <unitdate datechar="creation">1982</unitdate>
+              <container id="aspace_c4f3eb9c31eb30f2fdfa74880cf0a974" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_39820a7da4923374668e5d72315c3fa7" parent="aspace_c4f3eb9c31eb30f2fdfa74880cf0a974" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref143" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>John Drury</unittitle>
+              <unitdate datechar="creation">1991</unitdate>
+              <container id="aspace_b64a8e8f9fc4b0d5013729493c0ec3fd" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_30a842eb83f8129db517b8c4e18903fc" parent="aspace_b64a8e8f9fc4b0d5013729493c0ec3fd" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref144" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>John Ekhart</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_a20c47fd76d64eceb92098876bd77c8e" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_a7077c73a5f00193552d76c67e83b338" parent="aspace_a20c47fd76d64eceb92098876bd77c8e" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref145" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Max Fish</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_349c58b8adba5409b71737e70faea43d" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_8fa18a419e99c9c6b3379488acb40913" parent="aspace_349c58b8adba5409b71737e70faea43d" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref146" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Geoff "Gizmo" Gilmore - "Insomnia Bar"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_5a29e57f48d51e4548a01d639a462304" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_6c2e31da18b817bfb34c05ba4ad4aae6" parent="aspace_5a29e57f48d51e4548a01d639a462304" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref147" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Geoff "Gizmo" Gilmore - "Mars Bar"</unittitle>
+              <unitdate datechar="creation">1992</unitdate>
+              <container id="aspace_69fd4d4053a38f9d9a226c7cde45acb0" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_45a8d20d233d854648eae0eb76f31084" parent="aspace_69fd4d4053a38f9d9a226c7cde45acb0" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref148" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Gustav Hagglund</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_4f82f9e8ee64fa3874ff8dc7ab36c1cd" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_72825468019194de5befeab15109965a" parent="aspace_4f82f9e8ee64fa3874ff8dc7ab36c1cd" type="Folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_ref149" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Richard Hofman</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_5b3a27672feaf6f3328332e127558525" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_57ec173d5513c84109b6e831c0aef2b4" parent="aspace_5b3a27672feaf6f3328332e127558525" type="Folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_ref150" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Patrick Howe - 1 of 7</unittitle>
+              <unitdate datechar="creation">1982</unitdate>
+              <container id="aspace_ead06e97840d26802f5f54269744da03" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_3bf66a0677a26e167b408ecd97871470" parent="aspace_ead06e97840d26802f5f54269744da03" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref151" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Patrick Howe - 2 of 7</unittitle>
+              <unitdate datechar="creation">1982</unitdate>
+              <container id="aspace_698646a2078d818f5e585a3e7dab7e9b" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_6a4b734cece56b964db8f73b5c8f6b57" parent="aspace_698646a2078d818f5e585a3e7dab7e9b" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_ref152" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Patrick Howe - 3 of 7</unittitle>
+              <unitdate datechar="creation">1982</unitdate>
+              <container id="aspace_3b361a154501ff3d469e552dd0434c22" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_515357033ec0972719315ff20939d3fb" parent="aspace_3b361a154501ff3d469e552dd0434c22" type="Folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_ref153" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Patrick Howe - 4 of 7</unittitle>
+              <unitdate datechar="creation">1983</unitdate>
+              <container id="aspace_ec874c297ecfc61588c6707a5e707107" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_dde6243ec24c0aed39878ee7082e340a" parent="aspace_ec874c297ecfc61588c6707a5e707107" type="Folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref154" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Patrick Howe - 5 of 7</unittitle>
+              <unitdate datechar="creation">1983</unitdate>
+              <container id="aspace_a76a56cec3f7e39bc91039fef827edd3" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_d049be7375891125d3b98cb088bbbc60" parent="aspace_a76a56cec3f7e39bc91039fef827edd3" type="Folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_ref155" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Christof Kohlhofer</unittitle>
+              <unitdate datechar="creation">1986</unitdate>
+              <container id="aspace_c8e0c8b9b5497fae4166fae08fae95ee" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_0cf660007b2b7a8baec5220d0d7905f6" parent="aspace_c8e0c8b9b5497fae4166fae08fae95ee" type="Folder">34</container>
+            </did>
+          </c>
+          <c id="aspace_ref156" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Milton Knight Jr.</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_ce42d17f9f19cd40d538b0df4126c1e4" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_06d7b85ef1fac2b66d8b037af064adee" parent="aspace_ce42d17f9f19cd40d538b0df4126c1e4" type="Folder">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref157" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>D. L.</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_f9048383a1ee1f4ced40d7390f7b6e7d" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_97f1f7612c12f01e6399fd362f446079" parent="aspace_f9048383a1ee1f4ced40d7390f7b6e7d" type="Folder">36</container>
+            </did>
+          </c>
+          <c id="aspace_ref158" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Neil Martinson</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_9d93409e66c098d70b92242b5445585b" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_9b36deab18459fd463c2fba34a4d7f99" parent="aspace_9d93409e66c098d70b92242b5445585b" type="Folder">37</container>
+            </did>
+          </c>
+          <c id="aspace_ref159" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Tom Marsan</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_f53d06b628e91827adb54ac913e6862d" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_9c98357c355239aeac94fd34f8fd5ab1" parent="aspace_f53d06b628e91827adb54ac913e6862d" type="Folder">38</container>
+            </did>
+          </c>
+          <c id="aspace_ref160" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Tom McGlynn</unittitle>
+              <unitdate datechar="creation">1992</unitdate>
+              <container id="aspace_592eba0dee43970b195023897e0fb21e" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_93f23f74a4885c92f0e85c8f61b92422" parent="aspace_592eba0dee43970b195023897e0fb21e" type="Folder">41</container>
+            </did>
+          </c>
+          <c id="aspace_ref161" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Taylor Mead</unittitle>
+              <unitdate datechar="creation">1991</unitdate>
+              <container id="aspace_2855e61603ac66336874fee9aa22a907" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_35da8f7d19978d8cf0cd9d5174d67b24" parent="aspace_2855e61603ac66336874fee9aa22a907" type="Folder">42</container>
+            </did>
+          </c>
+          <c id="aspace_ref162" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Kembra Pfahler - 1 of 2</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_5a1a57f712229ea08d048742c804c7e5" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_1e32da27f47dcb54b7d80ea711392829" parent="aspace_5a1a57f712229ea08d048742c804c7e5" type="Folder">45</container>
+            </did>
+          </c>
+          <c id="aspace_ref163" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Tim Ray</unittitle>
+              <unitdate datechar="creation">1991</unitdate>
+              <container id="aspace_853f2c5c4813e10f86fa79d71f3029af" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_a5dd8bad2baea4779890ae9344317035" parent="aspace_853f2c5c4813e10f86fa79d71f3029af" type="Folder">47</container>
+            </did>
+          </c>
+          <c id="aspace_ref164" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Michael Roman - 1 of 5</unittitle>
+              <unitdate datechar="creation">1992</unitdate>
+              <container id="aspace_f7658452c10185af4f01f0fc71e798e8" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_5914eff33f62f659fdcac262b77020a7" parent="aspace_f7658452c10185af4f01f0fc71e798e8" type="Folder">50</container>
+            </did>
+          </c>
+          <c id="aspace_ref165" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Leslie Rowe</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_a0dc182ec0f9df28330bcd2d176461b0" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_3e6e920d2deb1a674dc5c09997527329" parent="aspace_a0dc182ec0f9df28330bcd2d176461b0" type="Folder">55</container>
+            </did>
+          </c>
+          <c id="aspace_ref166" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Shalom</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_b618e115340d327194e835064cd00754" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_85c9be76fb36b8efdc1082d219bb3d50" parent="aspace_b618e115340d327194e835064cd00754" type="Folder">58</container>
+            </did>
+          </c>
+          <c id="aspace_ref167" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Siobhan</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_233dfa310b32eec438506db61bcae99a" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_57bd8ade848037463d5e3d22527878ee" parent="aspace_233dfa310b32eec438506db61bcae99a" type="Folder">60</container>
+            </did>
+          </c>
+          <c id="aspace_ref168" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Leslie Sternbergh</unittitle>
+              <unitdate datechar="creation">1992</unitdate>
+              <container id="aspace_a98a37a0b96e1780482035514cf5e386" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_8b41878b7b0cabc73dc9d0668ab2f09d" parent="aspace_a98a37a0b96e1780482035514cf5e386" type="Folder">62</container>
+            </did>
+          </c>
+          <c id="aspace_ref169" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Daryl Trivieri</unittitle>
+              <unitdate datechar="creation">1984</unitdate>
+              <container id="aspace_49ed19b320986719038cd12e7996f740" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_5fb616b99767f0d123a433b565f8d86c" parent="aspace_49ed19b320986719038cd12e7996f740" type="Folder">65</container>
+            </did>
+          </c>
+          <c id="aspace_ref170" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Kevin Wendall (aka Fa-Q)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_b4a00da61f88539cf75f7315457c5ba5" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_17092e9fe1a44031bd4afb4af2118a3d" parent="aspace_b4a00da61f88539cf75f7315457c5ba5" type="Folder">67</container>
+            </did>
+          </c>
+          <c id="aspace_ref171" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>David West</unittitle>
+              <unitdate datechar="creation">1984</unitdate>
+              <container id="aspace_859ecce0c7f59e31721cd1b280cd4a04" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_c5127e424636cdcb3aa99f3ea64bd084" parent="aspace_859ecce0c7f59e31721cd1b280cd4a04" type="Folder">68</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref173" level="subseries">
+          <did>
+            <unittitle>Subseries B: Copy</unittitle>
+          </did>
+          <c id="aspace_ref174" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Richard Armijo</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_c6c44c1c73e6fae0b6abdb546b0707db" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_e72d25b3ebbd28d04351fc358e5eb8be" parent="aspace_c6c44c1c73e6fae0b6abdb546b0707db" type="Folder">1</container>
+            </did>
+          </c>
+          <c id="aspace_ref175" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Jane Baumer</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_060481d2030bcf3c10e568ba62a92b58" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_ce65790460140db5d8b7f9b7ea15ebe4" parent="aspace_060481d2030bcf3c10e568ba62a92b58" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref176" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Fred Bertucci</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_1db366038f40892c3c91126a365d81eb" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_53b703702da55c59aaa0bbbadf0b32c0" parent="aspace_1db366038f40892c3c91126a365d81eb" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref177" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Edward Brezinski</unittitle>
+              <unitdate datechar="creation">1983</unitdate>
+              <container id="aspace_4f7d54f429b56c92e43da677b0666858" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_3d2ce5199339203cae12d339b9a67325" parent="aspace_4f7d54f429b56c92e43da677b0666858" type="Folder">5</container>
+            </did>
+          </c>
+          <c id="aspace_ref178" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Stacie J. Brown</unittitle>
+              <unitdate datechar="creation">1990</unitdate>
+              <container id="aspace_9a0b0e4834c765bebb96e331ef6572ba" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_442c92c6269f0e6189a71f597859710c" parent="aspace_9a0b0e4834c765bebb96e331ef6572ba" type="Folder">6</container>
+            </did>
+          </c>
+          <c id="aspace_ref179" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Jonh Carey</unittitle>
+              <unitdate datechar="creation">1986</unitdate>
+              <container id="aspace_8ce319adc3a5eb1acf60fb35c4692138" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_c8658702a3b0a77f80623bd7d0c3dbcd" parent="aspace_8ce319adc3a5eb1acf60fb35c4692138" type="Folder">7</container>
+            </did>
+          </c>
+          <c id="aspace_ref180" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Michael Carter</unittitle>
+              <unitdate datechar="creation">1985</unitdate>
+              <container id="aspace_fcf90da4edbf2098c2b6b8010491de5e" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_50b4c36fbd53e1d6e3b699f38c4142fa" parent="aspace_fcf90da4edbf2098c2b6b8010491de5e" type="Folder">8</container>
+            </did>
+          </c>
+          <c id="aspace_ref181" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Steve Cerio</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_d7091623f5c21e0bb9cde90129103284" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_55896feb66459b793f9e3ba744e08fbb" parent="aspace_d7091623f5c21e0bb9cde90129103284" type="Folder">9</container>
+            </did>
+          </c>
+          <c id="aspace_ref182" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Bob Cook - 1 of 2</unittitle>
+              <unitdate datechar="creation">1986</unitdate>
+              <container id="aspace_66e09af31a8f99969a2aa1043e2cbbee" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_3d346690fb7ff1ae9b537fa0b05331cd" parent="aspace_66e09af31a8f99969a2aa1043e2cbbee" type="Folder">10</container>
+            </did>
+          </c>
+          <c id="aspace_ref183" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Bob Cook/Jack David</unittitle>
+              <unitdate datechar="creation">1991</unitdate>
+              <container id="aspace_db41070225fd933f4ce9c874362f5104" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_5b9e5a92ae3ee27f2f1faa67e36bb6d0" parent="aspace_db41070225fd933f4ce9c874362f5104" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref184" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Scott Cunningham</unittitle>
+              <unitdate datechar="creation">1992</unitdate>
+              <container id="aspace_50ec38f2d351f3aeb8a4e281712b78e7" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_728ca6e8158bbf058278d712b7dce03f" parent="aspace_50ec38f2d351f3aeb8a4e281712b78e7" type="Folder">13</container>
+            </did>
+          </c>
+          <c id="aspace_ref185" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Eric Drooker</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_12131f0c1532d2a9a67776eee2f40c9a" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_aa36a43d86b6cc85b1bc6be4fd4cc083" parent="aspace_12131f0c1532d2a9a67776eee2f40c9a" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref186" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Jennifer ExBowen</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_cfc0836b99681654547e69f31a739385" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_5c81ebe2f297625e7c26707b377db2c1" parent="aspace_cfc0836b99681654547e69f31a739385" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref187" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Gustav Hagglund - "The Agony of Marble Bones"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_eec667bacc901e51903f6eabf4886c01" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_cb4e602e4728ca61e1cdf6ba803c07ca" parent="aspace_eec667bacc901e51903f6eabf4886c01" type="Folder">18</container>
+            </did>
+          </c>
+          <c id="aspace_ref188" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Gustav Hagglund - "Oracle Bones"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_ad5d3581cc5c69dc2376c8a09e6a48c9" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_06a219f0649702e458bafdd08ebd44db" parent="aspace_ad5d3581cc5c69dc2376c8a09e6a48c9" type="Folder">19</container>
+            </did>
+          </c>
+          <c id="aspace_ref189" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Gustav Hagglund - "Cop Shot Dream"</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_53e8df3a8af08115f4a1b6f90eeb6ef0" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_933befcd48ab4cca35d51c3e1fa828ca" parent="aspace_53e8df3a8af08115f4a1b6f90eeb6ef0" type="Folder">20</container>
+            </did>
+          </c>
+          <c id="aspace_ref190" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Gustav Hagglund - Miscellaneous</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_8db0f8ab744e7397747aa79588aa2bca" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_1b1fab231116b73cce04d24e63ae05e3" parent="aspace_8db0f8ab744e7397747aa79588aa2bca" type="Folder">21</container>
+            </did>
+          </c>
+          <c id="aspace_ref191" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Richard Hambleton</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_f6782a0d31aada6600ed739f2531c1c0" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_cf5b487e93fa0bc6871081e714307993" parent="aspace_f6782a0d31aada6600ed739f2531c1c0" type="Folder">22</container>
+            </did>
+          </c>
+          <c id="aspace_ref192" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Danny Hellman - 1 of 2</unittitle>
+              <unitdate datechar="creation">1991</unitdate>
+              <container id="aspace_d51056d5edac1f8518e5c32351b75b73" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_4793e5fe576b84b5115142bb458542e6" parent="aspace_d51056d5edac1f8518e5c32351b75b73" type="Folder">23</container>
+            </did>
+          </c>
+          <c id="aspace_ref193" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Pamela Hobbs</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_2601c51eb82d8628ce66d37202fd61b7" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_4a56798e1864bc766cdf661fcdb31dc7" parent="aspace_2601c51eb82d8628ce66d37202fd61b7" type="Folder">25</container>
+            </did>
+          </c>
+          <c id="aspace_ref194" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Partick Howe</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_3805eb5c53e1163227a824653e7401e0" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_44afc98dfd3929db416510be8ffc6b25" parent="aspace_3805eb5c53e1163227a824653e7401e0" type="Folder">26</container>
+            </did>
+          </c>
+          <c id="aspace_ref195" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Krystyna Jachniewicz</unittitle>
+              <unitdate datechar="creation">1988</unitdate>
+              <container id="aspace_371638e12b6f0187494302465719238e" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_f50128502647d64be809d4443282172f" parent="aspace_371638e12b6f0187494302465719238e" type="Folder">27</container>
+            </did>
+          </c>
+          <c id="aspace_ref196" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Michael Kupperman</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_6fa1d81516444c7eca86a57c1d03827f" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_c6288f27546355b2724a7e77be21b364" parent="aspace_6fa1d81516444c7eca86a57c1d03827f" type="Folder">29</container>
+            </did>
+          </c>
+          <c id="aspace_ref197" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Andrew Listfield</unittitle>
+              <unitdate datechar="creation">1983</unitdate>
+              <container id="aspace_f84f0c7e44bd0773ec9a77e142960d4c" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_b55d9c69c07c17b3db7c59ab80453f2c" parent="aspace_f84f0c7e44bd0773ec9a77e142960d4c" type="Folder">30</container>
+            </did>
+          </c>
+          <c id="aspace_ref198" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Tom Marsan</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_afa75b19bd05b9587000b418d6f476c3" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_97d573c4f5002a06f790f56f4cc5b0b2" parent="aspace_afa75b19bd05b9587000b418d6f476c3" type="Folder">31</container>
+            </did>
+          </c>
+          <c id="aspace_ref199" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Arnold Mesches</unittitle>
+              <unitdate datechar="creation">1991</unitdate>
+              <container id="aspace_63b95375e58e6e5d78c9860f0f3e33b1" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_921333c16a6c21a1b6c84944c9f0fa21" parent="aspace_63b95375e58e6e5d78c9860f0f3e33b1" type="Folder">33</container>
+            </did>
+          </c>
+          <c id="aspace_ref200" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Tony Millioaire/Julius Klein</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_4975db61cb05d27e6317565f92cb1e50" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_8795ee1b133a5b1646bf512ad62af37d" parent="aspace_4975db61cb05d27e6317565f92cb1e50" type="Folder">34</container>
+            </did>
+          </c>
+          <c id="aspace_ref201" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Gary Panter</unittitle>
+              <unitdate datechar="creation">1991</unitdate>
+              <container id="aspace_aac20bdd6e363acac39a24a8eb41b30d" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_c030e8a44febb6e2df52ac064e49fb4a" parent="aspace_aac20bdd6e363acac39a24a8eb41b30d" type="Folder">35</container>
+            </did>
+          </c>
+          <c id="aspace_ref202" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Robert Petrick</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_98dd7ca4e88a35ea56deec64b32ef709" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_3cc0b75f53a412976d11e418b428d1ea" parent="aspace_98dd7ca4e88a35ea56deec64b32ef709" type="Folder">36</container>
+            </did>
+          </c>
+          <c id="aspace_ref203" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Rick Prol</unittitle>
+              <unitdate datechar="creation">1992</unitdate>
+              <container id="aspace_07915c3c36608e9663f72f662232ed65" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_f6bdac1bd5c2e4ce98432b41e836384d" parent="aspace_07915c3c36608e9663f72f662232ed65" type="Folder">37</container>
+            </did>
+          </c>
+          <c id="aspace_ref204" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>James Romberger / David Wojnarowicz</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_d82eaa1d3686ce5bf9652af6c9ffdb4c" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_fc3ac79a2041ae4b36643eb726222e3b" parent="aspace_d82eaa1d3686ce5bf9652af6c9ffdb4c" type="Folder">40</container>
+            </did>
+          </c>
+          <c id="aspace_ref205" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Salon Bon Ton</unittitle>
+              <unitdate datechar="creation">1984</unitdate>
+              <container id="aspace_742341b7866c18a543e588d7f85b3039" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_1b0ae5e996d3ba7c8ea8dc8cec51091f" parent="aspace_742341b7866c18a543e588d7f85b3039" type="Folder">41</container>
+            </did>
+          </c>
+          <c id="aspace_ref206" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>David Sandlin</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_1206b3512074d3a0a3f41b144af2af6a" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_fa81c701b2bf86034d632af1c4071b9a" parent="aspace_1206b3512074d3a0a3f41b144af2af6a" type="Folder">42</container>
+            </did>
+          </c>
+          <c id="aspace_ref207" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Lorraine Schein</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_a9b23c5e0381282e408e3cb6c6cedd8d" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_7f281fda4a3923069735ee43be0f7599" parent="aspace_a9b23c5e0381282e408e3cb6c6cedd8d" type="Folder">43</container>
+            </did>
+          </c>
+          <c id="aspace_ref208" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Shalom</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_90098f858274430049916ec9e0a29acc" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_d252c89ca953c437cbd78d99942428fd" parent="aspace_90098f858274430049916ec9e0a29acc" type="Folder">44</container>
+            </did>
+          </c>
+          <c id="aspace_ref209" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Siobhan</unittitle>
+              <unitdate datechar="creation">1990</unitdate>
+              <container id="aspace_4fc69598001290688e2f925fb2cbe685" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_76c6feed8ca98bbade352eee8c46c131" parent="aspace_4fc69598001290688e2f925fb2cbe685" type="Folder">45</container>
+            </did>
+          </c>
+          <c id="aspace_ref210" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Walter Sipster</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_b22288a30771eca25f3c36bf4e82ae49" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_dc538ad0bb1c6c7ec400d8377caebbea" parent="aspace_b22288a30771eca25f3c36bf4e82ae49" type="Folder">46</container>
+            </did>
+          </c>
+          <c id="aspace_ref211" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Art Spiegelman</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_31cf91fe17debe37a437d275ead29574" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_0ca7a82953d5816fc9bfacbdba7daa5e" parent="aspace_31cf91fe17debe37a437d275ead29574" type="Folder">47</container>
+            </did>
+          </c>
+          <c id="aspace_ref212" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Mick Stern</unittitle>
+              <unitdate datechar="creation">1982</unitdate>
+              <container id="aspace_91e5f720d9ed95c5b8d72edf595cb592" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_9e173f51c12d13997eb5c69e66038f92" parent="aspace_91e5f720d9ed95c5b8d72edf595cb592" type="Folder">48</container>
+            </did>
+          </c>
+          <c id="aspace_ref213" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Jim Tobin</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_795bf3031c37ab4c5b42a5393581483e" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_295d7d4e7d93b37e397eba2b0f1013b5" parent="aspace_795bf3031c37ab4c5b42a5393581483e" type="Folder">50</container>
+            </did>
+          </c>
+          <c id="aspace_ref214" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Chumley Twist/Anne Autre</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_343b65f3e85806923faa92278d7e325d" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_ae8477c97e4edd5fce89428cbc98101e" parent="aspace_343b65f3e85806923faa92278d7e325d" type="Folder">51</container>
+            </did>
+          </c>
+          <c id="aspace_ref215" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Mick Zedd</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container id="aspace_43ecdc4c3c5ade34a883f42e4c604713" label="Mixed Materials [31142042242696]" type="Box">2</container>
+              <container id="aspace_7388585324a412bc1bd29267c67b466d" parent="aspace_43ecdc4c3c5ade34a883f42e4c604713" type="Folder">54</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref217" level="series">
+        <did>
+          <unittitle>Series III: Photography</unittitle>
+        </did>
+        <c id="aspace_ref218" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Unidentified photographs</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1cc730c312186159351b0e47afa816a6" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_fd13f55471c039f1854ae6305d4207b9" parent="aspace_1cc730c312186159351b0e47afa816a6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref219" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Gary Azon</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_5e03e6eecd2682cd0884e2e53fced44a" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_a6561a9abe9752954f69fcdc139fb0be" parent="aspace_5e03e6eecd2682cd0884e2e53fced44a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref220" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Alan Belcher</unittitle>
+            <unitdate datechar="creation">1989</unitdate>
+            <container id="aspace_e01dc21c3f6b068ea973af302eeda6d6" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_72eb10a13111a6872fbe046d83d79017" parent="aspace_e01dc21c3f6b068ea973af302eeda6d6" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref221" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jim C. - negative of Edward Brezinski's "Bianca Jagger"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c059a5d46c3f8238f17449bc79cadf2d" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_aacd341617ffff22275abef084f78892" parent="aspace_c059a5d46c3f8238f17449bc79cadf2d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref222" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jim C.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_f00b9c5ffbf4ddef82af54f4d9eb23e6" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_e6be1b1f8ab199440e967f52fd3c9c5f" parent="aspace_f00b9c5ffbf4ddef82af54f4d9eb23e6" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref223" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Michael Carter - Photo of David Wojnarovicz</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_73a6924567f45effb1001acbdacbbffe" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_d609eab0688803e9d3a8cb7aa11c0fd7" parent="aspace_73a6924567f45effb1001acbdacbbffe" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref224" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mike Cockrill - 1of 3</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_9382523fbe843de339570441042a8f75" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_e4b20dc3eb59d56d2e488e7a42ac9b62" parent="aspace_9382523fbe843de339570441042a8f75" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref225" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mike Cockrill - 2of 3</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_3f41d3bc5e092bae2316bb0ae57e2ce3" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_ae4b3d7702fe53b301bb18e43589d684" parent="aspace_3f41d3bc5e092bae2316bb0ae57e2ce3" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref226" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Mike Cockrill - 3of 3</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_2ddeb10405c84c543e9d09041056e681" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_8f7f48b30549a5985b1907273b4b9c80" parent="aspace_2ddeb10405c84c543e9d09041056e681" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref227" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Tom Cott - "White Lies"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c93fec79693abdd3a19fd1b37bfcf60d" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_524368e0397628645e11194bd5807236" parent="aspace_c93fec79693abdd3a19fd1b37bfcf60d" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref228" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Ivan Dalla Tana</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_8430f87eca9a7bfac05ad3be2bff7d70" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_6dd4a735ca4ba28433697202944fb33e" parent="aspace_8430f87eca9a7bfac05ad3be2bff7d70" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref229" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Efraim Gonzalez - 1 of 2</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_0b5a029fddf9873176493b6b5b8393ec" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_5aef3a482912488bf618abf5f09ead6c" parent="aspace_0b5a029fddf9873176493b6b5b8393ec" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref230" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Efraim Gonzalez - 2 of 2</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_f3274804ad1eee03345eb8855a236b1e" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_62c0065b91722cb9f024d54599f28dde" parent="aspace_f3274804ad1eee03345eb8855a236b1e" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref231" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Richard Hambleton</unittitle>
+            <unitdate datechar="creation">1979</unitdate>
+            <container id="aspace_0419a6f9e062117ec3c73205549a21ab" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_9b356bc32b771b2669c05a5ba69737b4" parent="aspace_0419a6f9e062117ec3c73205549a21ab" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref232" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Richard Hambleton "Sunset"</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_970465db42e2d4a496d98336f4c64d5b" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_ab2543d911d38b77eecc2192a7f4d0d5" parent="aspace_970465db42e2d4a496d98336f4c64d5b" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref233" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jim Kellough - 1 of 2</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b048703104f2fa1ba09a392591af5d89" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_33cb12c73888d73e375c1fa98ad7a3d0" parent="aspace_b048703104f2fa1ba09a392591af5d89" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref234" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jim Kellough - 2 of 2</unittitle>
+            <unitdate datechar="creation">1979</unitdate>
+            <container id="aspace_8d96ac6b8584198951121addedffc47c" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_525a1c1ffd83ac330440588b4575d80d" parent="aspace_8d96ac6b8584198951121addedffc47c" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref235" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Greer Lankton - 1 of 7</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_2da22562e53bdbdc88b60340780dc65f" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_e6458cc389faa540c43b68b319679ee1" parent="aspace_2da22562e53bdbdc88b60340780dc65f" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref236" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Greer Lankton - 2 of 7</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_f37b96696fe375541c67d76c9b8ce2d5" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_35adea1a460ba9f357191d3c284db51e" parent="aspace_f37b96696fe375541c67d76c9b8ce2d5" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref237" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Greer Lankton - 3 of 7</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_bff52ab303cff530e1c4103d5dbcd20c" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_4cbfac637b6b3a876ca84a47fcf59c1b" parent="aspace_bff52ab303cff530e1c4103d5dbcd20c" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref238" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Greer Lankton - 4 of 7</unittitle>
+            <unitdate datechar="creation">1986</unitdate>
+            <container id="aspace_b608d539245261ca213746d2a0c0be49" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_2a21a1d17f31bca3739300f0db6034ee" parent="aspace_b608d539245261ca213746d2a0c0be49" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref239" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Greer Lankton - 5 of 7</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2e477f492dbf5098a975f904b72d9a71" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_a934f4b96203f254252434bfaab4b52a" parent="aspace_2e477f492dbf5098a975f904b72d9a71" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref240" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Greer Lankton - 6 of 7</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_35ec97a108ada056a60631a635f49c84" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_dfac1aeca483459c153677eea3fd5b67" parent="aspace_35ec97a108ada056a60631a635f49c84" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref241" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Greer Lankton - 7 of 7</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_517e2406a7428f81d410af7c33fc0d9e" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_0374387b3fe75ebf379575e679d8ad6b" parent="aspace_517e2406a7428f81d410af7c33fc0d9e" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref242" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Tina Paul</unittitle>
+            <unitdate datechar="creation">1981</unitdate>
+            <container id="aspace_e2865b431603f0666a6b6e1a0acf38ae" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_3f308fb943bbab7e6928014c73fa684c" parent="aspace_e2865b431603f0666a6b6e1a0acf38ae" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref243" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pelka/Noble Photography - Gretchen Bender, "Untitled"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_60bd54ca90af7ff42cb2248087f26e43" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_b383a9563b1916197c468b6af88a8b4d" parent="aspace_60bd54ca90af7ff42cb2248087f26e43" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref244" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Franc Plaia</unittitle>
+            <unitdate datechar="creation">1991</unitdate>
+            <container id="aspace_ed907713c0204e70b576b778fa2a108b" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_c1f33588f18394dcf6aed61c0d55069a" parent="aspace_ed907713c0204e70b576b778fa2a108b" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref245" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Marie Ruggirello</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_768b899a1fccdd7bc6ff4f58980df2bd" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_240023e8e5e55e91cba1838850ac9a2e" parent="aspace_768b899a1fccdd7bc6ff4f58980df2bd" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref246" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Marion S. - 1 of 3</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9dea3d8ab88032d8c6d7f94fb4d99655" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_4c629c1eebb541f179b91c3ee5773a5c" parent="aspace_9dea3d8ab88032d8c6d7f94fb4d99655" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref247" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Marion S. - 2 of 3</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_01435fc0f61a4a1b06e3db37b4848df6" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_eb229997fba4c36fb9d2817000295b96" parent="aspace_01435fc0f61a4a1b06e3db37b4848df6" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref248" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Marion S. - 3 of 3</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_af5e67f5cf3969d668bb3b8f96dac2af" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_021c40b7aac562ce78bc55cbd289b097" parent="aspace_af5e67f5cf3969d668bb3b8f96dac2af" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref249" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Walter Sipster</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6931d1816537a41b29315ecd8ba08690" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_00f39df405ed640b193b959c95f4d81e" parent="aspace_6931d1816537a41b29315ecd8ba08690" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref250" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Andreas Sterzing</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_b6e2a0a12d68ac7198ca1dbf7f78aa81" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_d4d4eef10203f96355164fd2af95aeca" parent="aspace_b6e2a0a12d68ac7198ca1dbf7f78aa81" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref251" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Susan Strande</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7736c75539212ea570dca49debc35a4d" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_7f2b1583560ec2754e9c60f8846f6440" parent="aspace_7736c75539212ea570dca49debc35a4d" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref252" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Toyo - "from Bill Considine's Electra"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ce902e38b4c7f4368cc97692691bea16" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_8d3ae4b5faef566290f00212ba9a3ec2" parent="aspace_ce902e38b4c7f4368cc97692691bea16" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref253" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Toyo - Kembra Phahler, "Murder Mysteries" - 1 of 2</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_4701fd3793dc7a05c6b98ef17906a071" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_94ede7ace660e42f749a5ec827b6645c" parent="aspace_4701fd3793dc7a05c6b98ef17906a071" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref254" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Toyo - Kembra Phahler, "Murder Mysteries" - 1 of 2</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_935eaf933d131ad091b734460637f70e" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_09676b1cda4b865f28dc0a5ef46c6b96" parent="aspace_935eaf933d131ad091b734460637f70e" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref255" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Toyo - Richard Armjo - untitled</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8b3f2aceeb00ed1b799d4d9bdda526fa" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_16f9939061e6e3ba0b5abbf14094d646" parent="aspace_8b3f2aceeb00ed1b799d4d9bdda526fa" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref256" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Toyo -Painting by Jed Jackson</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6befa959a158f20567e35b0762592207" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_6c08d70924909c1ec912aeaed19f6786" parent="aspace_6befa959a158f20567e35b0762592207" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref257" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Toyo - Painting by Nadia Coen - 1 of 2</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_824b91cb10c42882b3b4d12a3f7f314a" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_f99ccbee727fb5aa589e3364831ae869" parent="aspace_824b91cb10c42882b3b4d12a3f7f314a" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref258" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Toyo - Painting by Nadia Coen - 2 of 2</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_41aba95f8b0c505a7f4316d6dc112637" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_ee0e1b3203b66a65272d21e1ede5287f" parent="aspace_41aba95f8b0c505a7f4316d6dc112637" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref259" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Toyo - Triptych - 1 of 3</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_17a621ffca2f9fe907c405f08ce8b1e8" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_4e0b725cd11962cdedb5ce63dd632b4c" parent="aspace_17a621ffca2f9fe907c405f08ce8b1e8" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref260" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Toyo - Triptych - 2 of 3</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_c8f218ae80fb362a626a89f00d4d6aa9" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_14f9a2ff6aeddbf72a9f19263de25c85" parent="aspace_c8f218ae80fb362a626a89f00d4d6aa9" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref261" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Toyo - Triptych - 3 of 3</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4895ab10f7d9c118bfef2db6fc8c14ba" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_f355a3e16a6ebbd947e2471308801d81" parent="aspace_4895ab10f7d9c118bfef2db6fc8c14ba" type="Folder">49</container>
+          </did>
+        </c>
+        <c id="aspace_ref262" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Toyo - Untitled</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a0243d06e10105c95d1d30fb7ff762c9" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_ac74ad3e1f4e72d8312ab3381585246b" parent="aspace_a0243d06e10105c95d1d30fb7ff762c9" type="Folder">50</container>
+          </did>
+        </c>
+        <c id="aspace_ref263" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Tom Warren - 1 of 4</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_a2937d268fb0671f7ba1cead754fe8ba" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_0ce478e3f8bc67874416d7c25879d3c2" parent="aspace_a2937d268fb0671f7ba1cead754fe8ba" type="Folder">51</container>
+          </did>
+        </c>
+        <c id="aspace_ref264" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Tom Warren - 2 of 4</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e18baee5543b5e59a83b96cbbbe9f35c" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_7406214c47a6245205c8f425ad81383f" parent="aspace_e18baee5543b5e59a83b96cbbbe9f35c" type="Folder">52</container>
+          </did>
+        </c>
+        <c id="aspace_ref265" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Tom Warren - 3 of 4</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e62b6afc7140829cd691b5f26eccfb1a" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_72b784c7db2de50b2eacc04662d6499e" parent="aspace_e62b6afc7140829cd691b5f26eccfb1a" type="Folder">53</container>
+          </did>
+        </c>
+        <c id="aspace_ref266" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Tom Warren - 4 of 4</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9a9ff9f2314e97b90e2dfe580fb40be9" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_f897a802c63816db74e5cd51188bcb58" parent="aspace_9a9ff9f2314e97b90e2dfe580fb40be9" type="Folder">54</container>
+          </did>
+        </c>
+        <c id="aspace_ref267" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>David Wojnarowicz</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e05be996e1ec8d74b683fc8227719838" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_bd72accc6eb2ed44a10c9ca11f56a4ca" parent="aspace_e05be996e1ec8d74b683fc8227719838" type="Folder">55</container>
+          </did>
+        </c>
+        <c id="aspace_ref268" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Kryzysztof Zarebski - 1 of 2</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e2bb88ec0dbe7aa59d6c17b4844cf7c5" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_235cda93e1de9723710111f215285658" parent="aspace_e2bb88ec0dbe7aa59d6c17b4844cf7c5" type="Folder">56</container>
+          </did>
+        </c>
+        <c id="aspace_ref269" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Kryzysztof Zarebski - 1 of 2</unittitle>
+            <unitdate datechar="creation">1985</unitdate>
+            <container id="aspace_d5e8a00fab61d68d5806401bba2d0791" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_0ae5c026d863c7db8ed39e0e0215f3ca" parent="aspace_d5e8a00fab61d68d5806401bba2d0791" type="Folder">57</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref271" level="series">
+        <did>
+          <unittitle>Series IV: Production Files</unittitle>
+        </did>
+        <c id="aspace_ref272" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 1 - 2 copies</unittitle>
+            <unitdate datechar="creation">1982</unitdate>
+            <container id="aspace_157f48bf72d5220cc44aa2a0612b71c2" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_fe4a8f5b8bcde5b7bafae343c56a61ce" parent="aspace_157f48bf72d5220cc44aa2a0612b71c2" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref273" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 1 - General</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_8bda9d5fb340f72eb04043b29249f13b" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_c87614dae6b68abbc35c8a652dd67e7c" parent="aspace_8bda9d5fb340f72eb04043b29249f13b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref274" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 2 - 1 copy</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_1d60e96d731ae26c5f2075008bc36166" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_9179dccf37cc4e8100f2e82363f00eb2" parent="aspace_1d60e96d731ae26c5f2075008bc36166" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref275" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 3 - 2 copies</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_974bb46e45e7143c07f56d42c2683a57" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_5e45a146ffd10899f47088f1b954765c" parent="aspace_974bb46e45e7143c07f56d42c2683a57" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref276" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 3 - General</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_828776ab85932a95343bca91d0506305" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_bd1eb91fd9c79bf4e2d57c57a0268ea6" parent="aspace_828776ab85932a95343bca91d0506305" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref277" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 4 - 1 copy (cmp w/real)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7fa704f8c7fb4c454948c27b9e168fc2" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_341996ba0a274ffb1db3b7128b2aefec" parent="aspace_7fa704f8c7fb4c454948c27b9e168fc2" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref278" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 4 - General</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_80bf9f57e027f864034b37a68afd5fe1" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_91e40c0c5071fffd220b4fff45e40a97" parent="aspace_80bf9f57e027f864034b37a68afd5fe1" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref279" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 5 - 3 copies without covers</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_dffd4f34e0c3258a901635305c4ffff7" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_dcfa72127feecb26f4447af959c31e4a" parent="aspace_dffd4f34e0c3258a901635305c4ffff7" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref280" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 5 - General</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_2755ed8ce5f637c388ed7c685303ba1a" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_90f00388af06d4d04e08dacf30fd2171" parent="aspace_2755ed8ce5f637c388ed7c685303ba1a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref281" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 5 - Pre-publication edition</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_36587a1fc5875eca09e291cf58beb452" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_71b8b713dc370ec850ab88e00a4fd990" parent="aspace_36587a1fc5875eca09e291cf58beb452" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref282" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 7 - Mock-up copy</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a0926958e894161d692556eb2bec017d" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_83759542404bed1604e05e65abcc3f5b" parent="aspace_a0926958e894161d692556eb2bec017d" type="Folder">16</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref284" level="series">
+        <did>
+          <unittitle>Series V: Events</unittitle>
+        </did>
+        <c id="aspace_ref285" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 1</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7fb00b277493c466d89ed38807c89c88" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_a4cea3aafbfb09a20870d94a4f273a3f" parent="aspace_7fb00b277493c466d89ed38807c89c88" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref286" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 2</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_259cd24480e252c32ec62d419c78666e" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_833c289250ea946fb9e0e950c46e31df" parent="aspace_259cd24480e252c32ec62d419c78666e" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref287" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 3</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7cadde7da2d6bc7b7c5796f619d0d375" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_841956b7207a186efe6610933028b9ac" parent="aspace_7cadde7da2d6bc7b7c5796f619d0d375" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref288" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 4</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_fffc90c189630e4011548ad88df712a7" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_6fba04d83feef3e564ae71acfede9531" parent="aspace_fffc90c189630e4011548ad88df712a7" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref289" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 5</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_f0cbe04ec90783de35134cb98b0f5744" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_317deea1ef91a6f64ac7aa9cb7dd27a6" parent="aspace_f0cbe04ec90783de35134cb98b0f5744" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref290" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 7</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_e165d75a1dd29b1ae44b528aa56e659d" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_d826d98d232a24ca1bb2829c7501f68c" parent="aspace_e165d75a1dd29b1ae44b528aa56e659d" type="Folder">7</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref292" level="series">
+        <did>
+          <unittitle>Series VI: Miscellaneous</unittitle>
+        </did>
+        <c id="aspace_ref293" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Michael Carter - miscellaneous</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_7d5c847ef6a897c0a6a35ba135a53fa8" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_183f95ad19d838617cd9b53461fc8a7a" parent="aspace_7d5c847ef6a897c0a6a35ba135a53fa8" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref294" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_34eada5af5a863ba150398e81a9f1e97" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_4f03e532dff07c4034ecffca144e5f1c" parent="aspace_34eada5af5a863ba150398e81a9f1e97" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref295" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Ron English, Art is a Horrible Waste of Imagination</unittitle>
+            <unitdate datechar="creation">1988</unitdate>
+            <container id="aspace_f933b200155efe5e5f97bd887ae420a1" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_ab986eb8c1573a35ef75665b652b472e" parent="aspace_f933b200155efe5e5f97bd887ae420a1" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref296" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Danny Hellman/Geoff Gilmore, Coffee Drinkin' Man</unittitle>
+            <unitdate datechar="creation">1990</unitdate>
+            <container id="aspace_d36dba36410a8f1b5d8d869d51855bf0" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_29cf178b81b5f345e0de3db8aae6df5d" parent="aspace_d36dba36410a8f1b5d8d869d51855bf0" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref297" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pinched Nerves</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_275838be4eaeb8172825b312177f056f" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_1a773ab118b73cd6e8295e196c68537c" parent="aspace_275838be4eaeb8172825b312177f056f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref298" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pink Tape</unittitle>
+            <unitdate datechar="creation">1983</unitdate>
+            <container id="aspace_ec50e1caac34add023ed1a5fc4695dad" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_598893113dd19ba0618216722c87394c" parent="aspace_ec50e1caac34add023ed1a5fc4695dad" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref299" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Smirk</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_6519a1894c70a1c5840c550e09151325" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_41304e74e8eba183d606742ad0651f63" parent="aspace_6519a1894c70a1c5840c550e09151325" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref300" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Tom Warren - postcard</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_20e749bb684ff288880e7dd01831598c" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_4084b18cd7ddfea76d958572b7ac7a51" parent="aspace_20e749bb684ff288880e7dd01831598c" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref301" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Photo of David Wojnarowicz</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9048e0d9f6fd6384543343985fa4076c" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_2230ef5dfadb4c359a20a80b1b4abf48" parent="aspace_9048e0d9f6fd6384543343985fa4076c" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref302" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>David Wojnarowicz, In the Shadow of Forward Motion, notes by Felix Guattari</unittitle>
+            <unitdate datechar="creation">1989</unitdate>
+            <container id="aspace_8596bc9e99bcb3d9add2007b0b58fbfb" label="Mixed Materials [31142042242696]" type="Box">2</container>
+            <container id="aspace_da02a15ec07bd1f9c11ae7f7cf1de5f4" parent="aspace_8596bc9e99bcb3d9add2007b0b58fbfb" type="Folder">10</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref304" level="series">
+        <did>
+          <unittitle>Oversize - Series I: Correspondence</unittitle>
+        </did>
+        <c id="aspace_ref305" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Holly Anderson (Oversized+)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_1e42168557e5ff4b4313415eec738e65" label="Mixed Materials [31142054896900]" type="Box">3</container>
+            <container id="aspace_31450ffc8c686374ca74fed7db9d79e9" parent="aspace_1e42168557e5ff4b4313415eec738e65" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref306" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Don Deering (Oversized)</unittitle>
+            <unitdate datechar="creation">1984</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_3586a69c9a2dfd62c25eb351603447e5" label="Mixed Materials [31142054896900]" type="Box">3</container>
+            <container id="aspace_cf75a7db995b02ba6276d8151e038696" parent="aspace_3586a69c9a2dfd62c25eb351603447e5" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref307" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Norman Douglas (Oversized)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_6261700fd591dde3e75ede3acf139540" label="Mixed Materials [31142054896900]" type="Box">3</container>
+            <container id="aspace_cb7ddfc2ef1e244bfb0bbb9ac165a3b5" parent="aspace_6261700fd591dde3e75ede3acf139540" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref308" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Dumas (Oversized)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_cadeeff70a36794f3d04ff1885c5d7d6" label="Mixed Materials [31142054896900]" type="Box">3</container>
+            <container id="aspace_79a359ebdb55cf91eba794c3b3378d27" parent="aspace_cadeeff70a36794f3d04ff1885c5d7d6" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref309" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>David Wojnarowicz (Oversized)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_a280fa90423e964ea0f9c8f2c882f055" label="Mixed Materials [31142054896900]" type="Box">3</container>
+            <container id="aspace_6cf20898116765867c6178d18a9f7dd3" parent="aspace_a280fa90423e964ea0f9c8f2c882f055" type="Folder">115</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref311" level="series">
+        <did>
+          <unittitle>Oversize - Series II: Art/Comix</unittitle>
+        </did>
+        <c id="aspace_ref312" level="subseries">
+          <did>
+            <unittitle>Subseries A: Original Art</unittitle>
+          </did>
+          <c id="aspace_ref313" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Ads - Danceteria (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_af234b80098b5662571784cb937b2b29" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_11e7a4bf9193742db0c8169a2692e5e5" parent="aspace_af234b80098b5662571784cb937b2b29" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref314" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Richard Armijo (Oversized)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_721e55550e7d3b8d135e5af1b31a0c35" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_bdd8af3a01382a30b7d9cfb3a6d3997b" parent="aspace_721e55550e7d3b8d135e5af1b31a0c35" type="Folder">3</container>
+            </did>
+          </c>
+          <c id="aspace_ref315" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Jane Bauman - 1 of 2 (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_96098e08975875020aba07df41cc5401" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_c5bb3098487804c6193157efaa3afe4a" parent="aspace_96098e08975875020aba07df41cc5401" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_213d69e3a0c6c628eb29d7908a6be796" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Jane Bauman</unittitle>
+              <unitdate datechar="creation" normal="1984/1984">1984</unitdate>
+              <container altrender="Oversize Folder - Full Case" id="aspace_7f09e378c5c9c6d358243532225502fd" label="Mixed Materials [31142062892149]" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_74bd80f5f2926cd7247d77307f11daf9" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Brezinski</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Oversize Folder - Full Case" id="aspace_f904c5363060f4d07c59650827c7e52a" label="Mixed Materials [31142062892149]" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref316" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Mike Cockrill - 3 of 4 (Oversized+ , very fragile)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_a6c83933b5e5bc7c4fee894f48820514" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_e8e8a67911f09ad1ef527044c064b35a" parent="aspace_a6c83933b5e5bc7c4fee894f48820514" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref317" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Mike Cockrill - 4 of 4 (Oversized+ , very fragile)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_aa82ceaee4ffc5afcfddb00b58f53356" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_dd6aeeba3f1bf275b1fca57b214382e0" parent="aspace_aa82ceaee4ffc5afcfddb00b58f53356" type="Folder">12</container>
+            </did>
+          </c>
+          <c id="aspace_ref318" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Linus Corragio - 1 of 2 (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_8bff1ca4126f61f5af915aca5ee8e811" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_941c29208e98b70838142265305db0de" parent="aspace_8bff1ca4126f61f5af915aca5ee8e811" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref319" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Linus Corragio - 2 of 2 (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_28db18e0da159dc75e7ac0e4e7922f40" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_38e8f6072869fc4088bba9c0e04c8de4" parent="aspace_28db18e0da159dc75e7ac0e4e7922f40" type="Folder">15</container>
+            </did>
+          </c>
+          <c id="aspace_ref320" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Daze (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_f376245665de663cab909d5faab70119" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_47c70ccc45bd285ee55c30f7d41342c9" parent="aspace_f376245665de663cab909d5faab70119" type="Folder">17</container>
+            </did>
+          </c>
+          <c id="aspace_ref321" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Richard Hofman (Oversized)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_1c0cce22b18be6d5af979f6c404b64e0" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_4cdc5853b4d2d3b43888d89ad5d95542" parent="aspace_1c0cce22b18be6d5af979f6c404b64e0" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_ref322" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Patrick Howe - 6 of 7 (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_e96537cb4721ccfafe1026dd9cbc73a5" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_8df5e03cdefee46855e50c482a004dcf" parent="aspace_e96537cb4721ccfafe1026dd9cbc73a5" type="Folder">31</container>
+            </did>
+          </c>
+          <c id="aspace_ref323" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Patrick Howe - 7 of 7 (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_2b5f5bae350042c2b40526ed75930350" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_030feaafce03d121b3197e6e36e12e4e" parent="aspace_2b5f5bae350042c2b40526ed75930350" type="Folder">32</container>
+            </did>
+          </c>
+          <c id="aspace_ref324" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>James (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_52559d9e4c8101f65688ea3955c961f9" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_08a18a9702be715686f8c2f5f2dda06c" parent="aspace_52559d9e4c8101f65688ea3955c961f9" type="Folder">33</container>
+            </did>
+          </c>
+          <c id="aspace_ref325" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Tom Marsan / Nick D. (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_10d036d5ea946bfe30694200a2c0ba00" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_0c321b51721e3e5e9eee040e752aa4f1" parent="aspace_10d036d5ea946bfe30694200a2c0ba00" type="Folder">39</container>
+            </did>
+          </c>
+          <c id="aspace_ref326" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Mitti Masden (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_097b496a005481756c67baee269b01c6" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_e25a34f91bc255138b6942e1a3b94c1d" parent="aspace_097b496a005481756c67baee269b01c6" type="Folder">40</container>
+            </did>
+          </c>
+          <c id="aspace_ref327" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Joseph Nechvatal (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_c69461bd1f4fed318f5f22b5862a61d6" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_10a5bd84d5253f011d6b19792a374b4e" parent="aspace_c69461bd1f4fed318f5f22b5862a61d6" type="Folder">43</container>
+            </did>
+          </c>
+          <c id="aspace_ref328" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Paulette Nenner "Underwolf" (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_22fb623fdc09353da849b6e29160b04c" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_9b8a1807c23568d81dbb776bd4296cd0" parent="aspace_22fb623fdc09353da849b6e29160b04c" type="Folder">44</container>
+            </did>
+          </c>
+          <c id="aspace_ref329" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Kembra Pfahler - 2 of 2 (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_be6821aa8b3e4b187dddacd73756b056" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_8b244f7c00bb439b17ef442ce57eeba0" parent="aspace_be6821aa8b3e4b187dddacd73756b056" type="Folder">46</container>
+            </did>
+          </c>
+          <c id="aspace_ref330" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Michael Rheingold - Sofas (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_16f9da81cc18bfbfe2d748736dfaaa27" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_9176ec8438236d73b74cb4aecb700876" parent="aspace_16f9da81cc18bfbfe2d748736dfaaa27" type="Folder">48</container>
+            </did>
+          </c>
+          <c id="aspace_ref331" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Michael Rheingold - Dogs (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_eabe26041103434c212c866d9c40ece5" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_159956201ea6b7a1bc827a9c8c6936bc" parent="aspace_eabe26041103434c212c866d9c40ece5" type="Folder">49</container>
+            </did>
+          </c>
+          <c id="aspace_ref332" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Michael Roman - 2 of 5(Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_b5d7d229d74f98aed9f1d6831dbf2d27" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_bca703749085cb9c103062dbaaeb50cf" parent="aspace_b5d7d229d74f98aed9f1d6831dbf2d27" type="Folder">51</container>
+            </did>
+          </c>
+          <c id="aspace_ref333" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Michael Roman - 3 of 5 (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_d573c5d41feb5bf69fbd80e5dbafd77c" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_c12194b69ab5b49c53471e3ee3a252af" parent="aspace_d573c5d41feb5bf69fbd80e5dbafd77c" type="Folder">52</container>
+            </did>
+          </c>
+          <c id="aspace_ref334" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Michael Roman - 4 of 5 (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_0df4df1a9204e90a567609a147cbb379" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_9deccee0d0d2c3f566fb7f534ded0a68" parent="aspace_0df4df1a9204e90a567609a147cbb379" type="Folder">53</container>
+            </did>
+          </c>
+          <c id="aspace_ref335" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Michael Roman - 5 of 5 (Oversized++)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Oversize Folder - Full Case" id="aspace_19174747c682e12880976f30dde16d16" label="Mixed Materials [31142062892131]" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref336" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>John Rosis "Clown Control" (Oversized +)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_ce3a913e05a7b4dc6ba8333bd6705e48" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_030c9365133c8aa0ff0f22e2ed7561af" parent="aspace_ce3a913e05a7b4dc6ba8333bd6705e48" type="Folder">56</container>
+            </did>
+          </c>
+          <c id="aspace_ref337" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Leslie Rowe (Oversized +)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_d0308929a6cb751e44594430fc2e4cdb" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_8a9647b755acd77e928efdadd2d476b0" parent="aspace_d0308929a6cb751e44594430fc2e4cdb" type="Folder">57</container>
+            </did>
+          </c>
+          <c id="aspace_ref338" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Lorie Sheridan (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_33e72afe0cb6b3340d35f8d9afaed4dc" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_57c8ab3c6ef30db1ab02031497593325" parent="aspace_33e72afe0cb6b3340d35f8d9afaed4dc" type="Folder">59</container>
+            </did>
+          </c>
+          <c id="aspace_ref339" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Walter Sipster (Oversized +)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_4090f4dcbec75aed38778a5e9349465c" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_52c51b978082d09d14503b295034a668" parent="aspace_4090f4dcbec75aed38778a5e9349465c" type="Folder">61</container>
+            </did>
+          </c>
+          <c id="aspace_ref340" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>John Terhorst (Oversized +)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_3db60783b167b0e22baece4d6cfe4a44" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_27416850c33351860ae523228cb942b4" parent="aspace_3db60783b167b0e22baece4d6cfe4a44" type="Folder">63</container>
+            </did>
+          </c>
+          <c id="aspace_ref341" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Seth Tobolman (Oversized)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_e8708fd1d79a4a3144f3f2b91abe4015" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_cfd84254aa2976d6642b9d3a7ac916c1" parent="aspace_e8708fd1d79a4a3144f3f2b91abe4015" type="Folder">64</container>
+            </did>
+          </c>
+          <c id="aspace_ref342" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Conrad Vogel (Oversized)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_e4e9cc8da532d5a10e6ea61a91ca2c33" label="Mixed Materials [31142054896900]" type="Box">3</container>
+              <container id="aspace_f3379ba1c03bfc41a6adca6596db83a6" parent="aspace_e4e9cc8da532d5a10e6ea61a91ca2c33" type="Folder">66</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref344" level="subseries">
+          <did>
+            <unittitle>Oversize - Subseries B: Copy</unittitle>
+          </did>
+          <c id="aspace_ref345" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Scot Borofsky (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_d85637d2a371410f840bad92ccb595dd" label="Mixed Materials [31142054896918]" type="Box">4</container>
+              <container id="aspace_0643dd5d856fbd0378e0c1d4a84064c6" parent="aspace_d85637d2a371410f840bad92ccb595dd" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref346" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Bob Cook - 2 of 2 (Oversized)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_0a7e8d9fddb2a462c6b7820e948a2302" label="Mixed Materials [31142054896918]" type="Box">4</container>
+              <container id="aspace_35987a41168544f7f7697e7e36c78637" parent="aspace_0a7e8d9fddb2a462c6b7820e948a2302" type="Folder">11</container>
+            </did>
+          </c>
+          <c id="aspace_ref347" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Mike Diana (Oversize ?)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_1ba3376f790f0d366d7625d118d2c215" label="Mixed Materials [31142054896918]" type="Box">4</container>
+              <container id="aspace_e02814daba8965569470d1d32d4e1263" parent="aspace_1ba3376f790f0d366d7625d118d2c215" type="Folder">14</container>
+            </did>
+          </c>
+          <c id="aspace_ref348" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Cheryl Dyer (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_eef48d16f451a3180b2e4b6fa17cc06e" label="Mixed Materials [31142054896918]" type="Box">4</container>
+              <container id="aspace_d59acd44a402e3737c04c882d01f7fce" parent="aspace_eef48d16f451a3180b2e4b6fa17cc06e" type="Folder">16</container>
+            </did>
+          </c>
+          <c id="aspace_ref349" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Danny Hellman - 2 of 2 (Oversized)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_acdb24d6e13abea97de92e47402217f3" label="Mixed Materials [31142054896918]" type="Box">4</container>
+              <container id="aspace_ad6593ea26450fbec9ff095b28a95604" parent="aspace_acdb24d6e13abea97de92e47402217f3" type="Folder">24</container>
+            </did>
+          </c>
+          <c id="aspace_ref350" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Julius Klein (Oversized +)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_01fd5decd51eaac50ebf68c2f4a018ee" label="Mixed Materials [31142054896918]" type="Box">4</container>
+              <container id="aspace_59c2a5891a8d9983c386f64c5af1d68f" parent="aspace_01fd5decd51eaac50ebf68c2f4a018ee" type="Folder">28</container>
+            </did>
+          </c>
+          <c id="aspace_ref351" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Tom Marsan (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_3d87bc078a016a7cd074c6d26c21cb77" label="Mixed Materials [31142054896918]" type="Box">4</container>
+              <container id="aspace_1249f1abe40748990270c2cb16894a64" parent="aspace_3d87bc078a016a7cd074c6d26c21cb77" type="Folder">32</container>
+            </did>
+          </c>
+          <c id="aspace_ref352" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Calvin Reid (Oversized)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_42e9caadf3f4b592b46131da94ce0fd3" label="Mixed Materials [31142054896918]" type="Box">4</container>
+              <container id="aspace_4b806dabdc889571fed3a28b10c42b21" parent="aspace_42e9caadf3f4b592b46131da94ce0fd3" type="Folder">38</container>
+            </did>
+          </c>
+          <c id="aspace_ref353" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Michael Roman - (Oversized+)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_84bf18577c80b39acf3924ba9a75532e" label="Mixed Materials [31142054896918]" type="Box">4</container>
+              <container id="aspace_bf715af0a21fda06145d40c05f4006a4" parent="aspace_84bf18577c80b39acf3924ba9a75532e" type="Folder">39</container>
+            </did>
+          </c>
+          <c id="aspace_ref354" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Marguerite Van Cook (Oversized)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_8114a677ac6ba5330afd80045331e423" label="Mixed Materials [31142054896918]" type="Box">4</container>
+              <container id="aspace_00d01bf5ec07f1ffc98d2454a3f67cd4" parent="aspace_8114a677ac6ba5330afd80045331e423" type="Folder">52</container>
+            </did>
+          </c>
+          <c id="aspace_ref355" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Jack Vengrow (Oversized)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_4a98e16c8c7b04948b4f2665cc4a2ef5" label="Mixed Materials [31142054896918]" type="Box">4</container>
+              <container id="aspace_c277b3a9fa61959662bff636303f6e4c" parent="aspace_4a98e16c8c7b04948b4f2665cc4a2ef5" type="Folder">53</container>
+            </did>
+          </c>
+          <c id="aspace_ref356" level="otherlevel" otherlevel="unspecified">
+            <did>
+              <unittitle>Unidentified (Oversized +)</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_a850b242f4b4a6fd910b2dd28ae03d6d" label="Mixed Materials [31142054896918]" type="Box">4</container>
+              <container id="aspace_761de2b342e146ab70a8fb7844bad8ed" parent="aspace_a850b242f4b4a6fd910b2dd28ae03d6d" type="Folder">55</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref358" level="series">
+        <did>
+          <unittitle>Oversize - Series III: Photography</unittitle>
+        </did>
+        <c id="aspace_ref359" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Eder (Oversized+)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_308faf2e526590d872f1177623fe2c9d" label="Mixed Materials [31142054896918]" type="Box">4</container>
+            <container id="aspace_015bef0ead31d8f7c0f9ce7422592db5" parent="aspace_308faf2e526590d872f1177623fe2c9d" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref360" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Tom Ladd (Oversized+)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_48d2b92b0cbc6f7a4c8bb5905dd98e53" label="Mixed Materials [31142054896918]" type="Box">4</container>
+            <container id="aspace_d9fbf393680f3cc12aa8a06ae89fbf0a" parent="aspace_48d2b92b0cbc6f7a4c8bb5905dd98e53" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref361" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Joseph Nechvatal - 1 of 2 (Oversized+)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_6bb6c6f560006b9bafb0a013eed6eb01" label="Mixed Materials [31142054896918]" type="Box">4</container>
+            <container id="aspace_ea4523df39076290704bf5988a1f7d5c" parent="aspace_6bb6c6f560006b9bafb0a013eed6eb01" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref362" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Joseph Nechvatal - 2 of 2 (Oversized+)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_4f4b4822b2ab3a4f48e42acd6cc744f3" label="Mixed Materials [31142054896918]" type="Box">4</container>
+            <container id="aspace_8c24ad7589572a742cbdaa9c81f7316d" parent="aspace_4f4b4822b2ab3a4f48e42acd6cc744f3" type="Folder">28</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref364" level="series">
+        <did>
+          <unittitle>Oversize - Series IV: Production Files</unittitle>
+        </did>
+        <c id="aspace_ref365" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 2 - Assemblages (Oversized+)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_6e9f5fd66b46430b894abb4584de7596" label="Mixed Materials [31142054896918]" type="Box">4</container>
+            <container id="aspace_5c34e7310a65631d5de515f38269b58b" parent="aspace_6e9f5fd66b46430b894abb4584de7596" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref366" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 6 - 1 Copy (Oversized +)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_f4a6b25fe56e041e394bd96f2e39f391" label="Mixed Materials [31142054896918]" type="Box">4</container>
+            <container id="aspace_8f2bf7c72c72b101bfae0ab189debce5" parent="aspace_f4a6b25fe56e041e394bd96f2e39f391" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref367" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 6 -General (Oversized+)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_b95bf2ebbe563280a6d55e96037698e8" label="Mixed Materials [31142054896918]" type="Box">4</container>
+            <container id="aspace_bb010351f64950c181fcfb0cacd638f3" parent="aspace_b95bf2ebbe563280a6d55e96037698e8" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref368" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 6 - the galley (Oversized +)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_dee6a31c7cc34e494a085626b8f28e37" label="Mixed Materials [31142054896918]" type="Box">4</container>
+            <container id="aspace_dddbe496c6e0ddc31b0b7f6fde4e47ca" parent="aspace_dee6a31c7cc34e494a085626b8f28e37" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref369" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Redtape 7 - General (Oversized)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_95a2c0590cf665b77c29779538cf4b4f" label="Mixed Materials [31142054896918]" type="Box">4</container>
+            <container id="aspace_b89c0ba8c45c64ce382a9476a5922793" parent="aspace_95a2c0590cf665b77c29779538cf4b4f" type="Folder">15</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref371" level="series">
+        <did>
+          <unittitle>Oversize - Series V: Events</unittitle>
+        </did>
+        <c id="aspace_ref372" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>General (Oversized+)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_d5da4d948ed1703fa3972cea7e9cb34a" label="Mixed Materials [31142054896918]" type="Box">4</container>
+            <container id="aspace_18d0fc0d6472a455178ad5fd7c2f99c0" parent="aspace_d5da4d948ed1703fa3972cea7e9cb34a" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref374" level="series">
+        <did>
+          <unittitle>Oversize - Series VI: Miscellaneous</unittitle>
+        </did>
+        <c id="aspace_ref375" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newspaper Clippings (Oversized)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat OS Box - 19.5 x 25.25" id="aspace_a9388064280822f5f3098f284ea3907b" label="Mixed Materials [31142054896918]" type="Box">4</container>
+            <container id="aspace_716e2a82a4dddab9f04af8a56d1a8343" parent="aspace_a9388064280822f5f3098f284ea3907b" type="Folder">11</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

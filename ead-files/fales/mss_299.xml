@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F" url="http://dlib.nyu.edu/findingaids/html/fales/mss_299/">mss_299</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Gary Ware Collection of Martin Wong Letters <num>MSS.299</num></titleproper>
+        <author>Fales library staff. Finding aid was edited by Nicholas Martin in October 2017.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 22:07:06 -0400</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Gary Ware Collection of Martin Wong Letters</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Ware, Gary</persname>
+      </origination>
+      <unitid>MSS.299</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+        <extent altrender="carrier">in 1 manuscript box</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1966/1979" type="inclusive">1966-1979</unitdate>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <scopecontent id="aspace_2362247853dd6d51a58b153309f5d972">
+      <head>Scope and Content</head>
+      <p>This collection consists of letters written by Martin Wong to Gary Ware from 1962 to 1975. The letters range in topic from personal affairs to California counterculture to art production.</p>
+    </scopecontent>
+    <arrangement id="aspace_2ffb0ef7eff50f098e34a3947bde1815">
+      <head>Arrangement</head>
+      <p>The letters are arranged chronlogically. When no specific date within a year is known, the letters are arranged by year.</p>
+    </arrangement>
+    <custodhist id="aspace_e3fa4a13f3b9cc3979741f87762fe75c">
+      <head>Provenance</head>
+      <p>Gary Ware donated these letters to Fales in 2010.</p>
+    </custodhist>
+    <prefercite id="aspace_c89e66116c446a8be31637ff53077950">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the
+following form:<lb/><lb/>
+Identification of item,  date (if known); Gary Ware Collection of Martin Wong Letters; MSS 299; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+    </prefercite>
+    <accessrestrict id="aspace_436223dbd3135f98ee05c736f7e3bb7d">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <userestrict id="aspace_ea57e51cb24ddc569250a6e237da462a">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <relatedmaterial id="aspace_89ab4cacd66b1a4401295d349c94a895">
+      <head>The Martin Wong Papers</head>
+      <p>The Martin Wong Papers</p>
+    </relatedmaterial>
+    <controlaccess>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Artists and community -- United States</subject>
+      <persname source="naf">Wong, Martin</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref3" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_51296078e2faf0039087de5fffb9d42c" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_61b701918465567b035dce2dd8ce2b98" parent="aspace_51296078e2faf0039087de5fffb9d42c" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref1" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation">August, 1966</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_eb8e730194fd63b3192f0b83bb2c5264" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_8abc8c857e0ba994ee324890e729793f" parent="aspace_eb8e730194fd63b3192f0b83bb2c5264" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref2" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation">October, 1966</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_becd13dfb901580ce569f8453aa1db49" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_20f7b73578f3e84d5dd00707133f5a52" parent="aspace_becd13dfb901580ce569f8453aa1db49" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref4" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_90be6fbe1870aa3896a9768ad704b801" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_2e71c348f3b3ec14fc558921a4c676b8" parent="aspace_90be6fbe1870aa3896a9768ad704b801" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref5" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8d0c54b01eda7b14d65fe6bb1b1a80c4" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_ed5ec491da2f227c904975e361bad9ae" parent="aspace_8d0c54b01eda7b14d65fe6bb1b1a80c4" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref6" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d6313834ecdcdb51cce3d66112f8b72f" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_7ea7be0e33101003a2dc493576cf8f0a" parent="aspace_d6313834ecdcdb51cce3d66112f8b72f" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref7" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_75d84572e54226a0105b4681104fb001" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_aaeecdcdb0d54f9345ca8e88a99f4696" parent="aspace_75d84572e54226a0105b4681104fb001" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref8" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d2f854c5cd1716609ce7d557b2131d2f" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_0f1440813620dda94c84aef5343cfe96" parent="aspace_d2f854c5cd1716609ce7d557b2131d2f" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref9" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_24c0fefb04d513b6a548bb0fd0703b64" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_cdd48b56781fff441dec2a15afabbd1e" parent="aspace_24c0fefb04d513b6a548bb0fd0703b64" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1fc911ac38be40504942dee63d50f058" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_9ebb92fec1dc6023b55099fd859c6077" parent="aspace_1fc911ac38be40504942dee63d50f058" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref11" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c1c924deef326843c9621836cd1535e7" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_cdfc91dbafda0af329ddaf49c74b159f" parent="aspace_c1c924deef326843c9621836cd1535e7" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b848116211cbf235bda61ef0fa4aafb4" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_5dc4fc619853e87d7545dde48def85d9" parent="aspace_b848116211cbf235bda61ef0fa4aafb4" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b9187dd5ad127603842b3cfcf5503aa0" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_30f76194c1bfddf08e033dfeb230c000" parent="aspace_b9187dd5ad127603842b3cfcf5503aa0" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b18cfee1289648a6a02a6728f9859165" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_e815b4c6f8f68072dbc3a39d95a84974" parent="aspace_b18cfee1289648a6a02a6728f9859165" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0146f4589cba7ddf88f62f0477e23fde" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_461b75a9a62bee42be53a61ae31ad22b" parent="aspace_0146f4589cba7ddf88f62f0477e23fde" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bbdc1d17e0fc2d71ec4efcefd19c4b4c" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_a5875a8365729d8a4cd9fa223293467e" parent="aspace_bbdc1d17e0fc2d71ec4efcefd19c4b4c" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation">July, 1967</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b391cbef0a891c34f34ecc78bb50d917" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_4bb301e7856b8c3be0fec57c7e430348" parent="aspace_b391cbef0a891c34f34ecc78bb50d917" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_18f9c2d40bfd8408c15c9c6ced055cdb" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_1a00a10e565c165a8de108d9e0c41e01" parent="aspace_18f9c2d40bfd8408c15c9c6ced055cdb" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation">January, 1969</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_82fda66af0f97d6f777e27f42060b49e" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_b6333df6a680625f884ab4e136109edb" parent="aspace_82fda66af0f97d6f777e27f42060b49e" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation">February, 1969</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5fd1393a3e344a37ad3af3f41fdf31f4" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_e0568e1c91cec163d5112c37a5b45399" parent="aspace_5fd1393a3e344a37ad3af3f41fdf31f4" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation">February, 1969</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8c4caadbe0a94e802a008eed0545610b" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_c8d829cca963175f94eb987b3ae4c8d7" parent="aspace_8c4caadbe0a94e802a008eed0545610b" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_af7dde17089159583002cef526dafe34" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_4d2946ebe7e636b20b88fda31a379710" parent="aspace_af7dde17089159583002cef526dafe34" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4e912ea3efad0fe9b8a4a0fb61818e60" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_8df18a35a298a9559b923731bb800e4d" parent="aspace_4e912ea3efad0fe9b8a4a0fb61818e60" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8ca8d7637cb2a527f6995f70a92a197b" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_139426942de58a94b0deaf5c2d7c0930" parent="aspace_8ca8d7637cb2a527f6995f70a92a197b" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b219071b973c97cb1d156d5525641cf1" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_55b46c831149a81e930054d503af5c90" parent="aspace_b219071b973c97cb1d156d5525641cf1" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_801e9fc35dfcc272d690c7cd4162b5ef" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_12853dfe466022215810c5264be278f1" parent="aspace_801e9fc35dfcc272d690c7cd4162b5ef" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a53222f8d70fd2a3f7da0b9bbcf8c4d3" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_98639a0abc5d7458c7190c63f619ca01" parent="aspace_a53222f8d70fd2a3f7da0b9bbcf8c4d3" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_92a8bb8f689b595c23b805af0a969caa" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_18d5fcd5615cb8dbeaf839d4210fa51c" parent="aspace_92a8bb8f689b595c23b805af0a969caa" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_773ee4af9059cd3cf6342b1ec758cc2f" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_83309f62f5d7232c460cbcb23bd11fe0" parent="aspace_773ee4af9059cd3cf6342b1ec758cc2f" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5d8e88f71a8ad48ddcd322c8794d9145" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_7a0e1c14ccfca9073ede2c31210745e9" parent="aspace_5d8e88f71a8ad48ddcd322c8794d9145" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1c5698423743a2dda0d14b3ab9231ad3" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_266f94cc8e7f47377ccf81d196692f40" parent="aspace_1c5698423743a2dda0d14b3ab9231ad3" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ca0ac3ce9c3f0d7446f7492c51670874" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_7c90ccc71539cd7599dfe8195c906c63" parent="aspace_ca0ac3ce9c3f0d7446f7492c51670874" type="Folder">32</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2bf7f97693f51ac6671697df54c17da6" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_c4a7a258a005d4eb5c3e68f442c0626e" parent="aspace_2bf7f97693f51ac6671697df54c17da6" type="Folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation">April, 1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_df429a8ca8aab243d29209ffb0bc276c" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_d8fd88e7ef57708f00210aa42ca52a66" parent="aspace_df429a8ca8aab243d29209ffb0bc276c" type="Folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1a2849313f386ac0d7b7b6f3b4fdbb29" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_81b2e52cd4f1a2a42f2a7ef1a083cabf" parent="aspace_1a2849313f386ac0d7b7b6f3b4fdbb29" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation">May, 1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4834421addd654fedde894ba65bd3425" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_acf01e322bb55fafbac60cae5fe10f46" parent="aspace_4834421addd654fedde894ba65bd3425" type="Folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_20ea5d65c67ffd3f2920f2b95cbff8fa" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_489a7f750ea60b98ca458fe2a97e2a41" parent="aspace_20ea5d65c67ffd3f2920f2b95cbff8fa" type="Folder">37</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle>From Martin Wong to Gary Ware</unittitle>
+          <unitdate datechar="creation">January, 1975</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f9b759c3af7a530bde7020161813eb54" label="Mixed Materials [31142063605714]" type="Box">1</container>
+          <container id="aspace_7a435449edd6b3d8961fcef4e7974e22" parent="aspace_f9b759c3af7a530bde7020161813eb54" type="Folder">38</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

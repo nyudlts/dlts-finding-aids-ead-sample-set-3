@@ -1,0 +1,688 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_100">mc_100</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the John "The Cop" Quigley Collection <num>MC.100</num></titleproper>
+        <author>Leslie Barnes.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+        <p>
+          <date>n.d.</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 19:55:11 -0400</date>.</creation>
+      <langusage>English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>July 2019</date>
+        <item>Edited by Makoroba Sow for compliance with DACS and ACM Required Elements for Archival Description</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>John "The Cop" Quigley Collection</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Rose, Oscar</persname>
+      </origination>
+      <unitid>MC.100</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+        <extent altrender="carrier">in 1 manuscript box</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1935/1937" type="inclusive">1935-1937</unitdate>
+      <abstract id="aspace_133e2c5c861cf5afed4541182cc33edf">This collection contains correspondence and questionnaires regarding life at the University Heights campus of New York University and John "the Cop" Quigley (1872-1943), the campus' senior patrolman and a popular figure at the school. John Quigley was an officer at the University Heights campus for 47 years. The secretary of the Committee on Publication, Oscar Rose, elicited anecdotes, stories, and photographs from alumnus about Quigley in preparation for <emph render="italic">Forty Years of John the Cop</emph>, a book that celebrated Quigley's fortieth anniversary at the University Heights campus.</abstract>
+      <physloc id="aspace_ea66875dbfdf0eb8ec0f6132392f1a94">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <langmaterial id="aspace_1c5d2b756e12bfc9553851ce3d0379bf">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_5281bdc41088d5db82d5b96dfeda66b2">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_6e804efe4129ae13254e56b9ed7e817d">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Daniel Quilty, Director of Athletics. The accession number associated with this collection is 82.022.</p>
+    </acqinfo>
+    <arrangement id="aspace_8e4653c9c36887f08c39d821e4ecaa57">
+      <head>Arrangement</head>
+      <p>Original order was preserved. The materials in this collection do not appear to be arranged chronologically. Each respondent or correspondent has been given a folder.</p>
+    </arrangement>
+    <bioghist id="aspace_68484c79ccc8a4381b0b774d4e37ce2c">
+      <head>Historical note</head>
+      <p>John Quigley (1872-1943), also known as "John the Cop," was the senior patrolman of the University Heights campus of New York University. Quigley immigrated to the United States from Tipperary, Ireland in 1892. He began working at NYU's University Heights campus in 1896 and served as the senior patrolman of the campus for 47 years. Quigley was a popular and memorable figure on campus. </p>
+      <p>In 1935, Oscar Rose, the Secretary of the Committee on Publication and a member of the New York University Arts and Engineering Alumni Association, began compiling information for John Quigley's biography, <emph render="italic">Forty Years of John the Cop</emph>. Rose's general letter to University Heights alumni is included in the collection. </p>
+      <p>The University Heights campus, located in the Bronx, was a male-only undergraduate campus. It was opened in the late nineteenth-century and sold in 1973.</p>
+    </bioghist>
+    <prefercite id="aspace_dec159a2b9fad6b682711c5b6d747bda">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; John "The Cop" Quigley Collection; MC 100; box number; folder number or item identifier; New York University Archives, New York University.</p>
+    </prefercite>
+    <scopecontent id="aspace_15a61a554b0bb2dda76f82350608cb65">
+      <head>Scope and Contents</head>
+      <p>This collection is comprised of correspondence and questionnaires collected by Oscar Rose between 1935 and 1938 for a proposed biography of John ""the Cop" Quigley. Quigley was a senior patrolman and guardian of the University Heights campus. The correspondence and questionnaires pertain to both John Quigley and life at the University Heights campus of New York University.</p>
+    </scopecontent>
+    <userestrict id="aspace_957d9bc463555ed69b19bd90792e8075">
+      <head>Conditions Governing Use</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by Oscar Rose are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact the New York University Archives at university-archives@nyu.edu.</p>
+    </userestrict>
+    <processinfo id="aspace_0fa7c143b15113fa40a3377885ee7c3a">
+      <head>Processing Information</head>
+      <p>Decisions regarding arrangement, description, and physical interventions for this collection prior to 2019 have not yet been recorded.</p>
+    </processinfo>
+    <controlaccess>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Questionnaires.</genreform>
+      <persname source="local">John Quigley, 1872-1943</persname>
+      <corpname rules="dacs" source="local">New York University. University Heights</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref2" level="file">
+        <did>
+          <unittitle>James Dalton - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_f7512db86ac1bba94aaa4f38fd74c163" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_fc87a070fafd2eade9f10d40489b42ff" parent="aspace_f7512db86ac1bba94aaa4f38fd74c163" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref3" level="file">
+        <did>
+          <unittitle>NYU Bureau of Public Information - Announcement of John Quigley's death</unittitle>
+          <unitdate datechar="creation">July 20, 1943</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_76e1cdf1a37af0e729c21f5f2fb898f3" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_3e9105bf8a1c9ca0041e4f5e6cb6c23f" parent="aspace_76e1cdf1a37af0e729c21f5f2fb898f3" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref4" level="file">
+        <did>
+          <unittitle>Edward B. Willing - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1ca7fb878a6b13662929e6b0801a76cb" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_53c0ea22caca77a1a0218f25c3b1f7fe" parent="aspace_1ca7fb878a6b13662929e6b0801a76cb" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref5" level="file">
+        <did>
+          <unittitle>E. H. Hamilton - Letter and Anecdotes about John Quigley</unittitle>
+          <unitdate datechar="creation">July 16, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_21906d8417e7ee7309ee1352da2c6ff5" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_8a1f7d64c5227b975c832fd821672e65" parent="aspace_21906d8417e7ee7309ee1352da2c6ff5" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref6" level="file">
+        <did>
+          <unittitle>Leonard Eckman - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">June 12, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_7163c0ce6b2255bd54df51bdb477e2dc" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_e5323f77f0d596600543989e5b940553" parent="aspace_7163c0ce6b2255bd54df51bdb477e2dc" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref7" level="file">
+        <did>
+          <unittitle>W. O. Partisch - Letter and Questionnaire</unittitle>
+          <unitdate datechar="creation">June 26, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a4174661cf159ad002bb8e835d2f9ba8" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_53202737bdae22a244c54da6e11f690b" parent="aspace_a4174661cf159ad002bb8e835d2f9ba8" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref8" level="file">
+        <did>
+          <unittitle>H. F. Watson - Excerpts from an N.Y.U. Diary and Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">October 4, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_de33b72f3896c958fd1fdf42086b8842" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_81f3c0c988ffb714c64acd7a0527ccf7" parent="aspace_de33b72f3896c958fd1fdf42086b8842" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref9" level="file">
+        <did>
+          <unittitle>Irving E. Mansback - Anecdotes related to John Quigley and Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">April 22, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_627b9ff1df9010575e0fe0821922b3a6" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_2c396c3a0fb31e8b7c2b3f4b5c2b12bf" parent="aspace_627b9ff1df9010575e0fe0821922b3a6" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref10" level="file">
+        <did>
+          <unittitle>John E. Longua - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">June 7, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a441c34629beaed804c82e68ff7ff444" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_a2c85502d61bc66cba3adf04536834cb" parent="aspace_a441c34629beaed804c82e68ff7ff444" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref11" level="file">
+        <did>
+          <unittitle>Irving E. Mansback - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_38e195083e8b6a9da795e9860bd7d3d3" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_78e7a7ed91261be99eef39b472805274" parent="aspace_38e195083e8b6a9da795e9860bd7d3d3" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref12" level="file">
+        <did>
+          <unittitle>Sidney Feildrey - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">June 7, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5e799e28540984d2317e7916d6e3f323" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_8f357292f650ebac887a4360736dd274" parent="aspace_5e799e28540984d2317e7916d6e3f323" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Freeman Woodbridge - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">June 7, 1935</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_d41e0380a771a3cd646321e34916e901" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_d568d3d39f33ea830974e7a825897968" parent="aspace_d41e0380a771a3cd646321e34916e901" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>E. H. Hamilton - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">July 10. 1935</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_265ae146219d04fd0fbfc90d50025f7f" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_749492b7b359457254b09175fb8367d9" parent="aspace_265ae146219d04fd0fbfc90d50025f7f" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Bill Luasha - Questionnaire and Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">June 6, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_186f7f7f2bc0dc02553adbfd20b9cd10" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_3d736584c8d5c8bc6878ce23437790b0" parent="aspace_186f7f7f2bc0dc02553adbfd20b9cd10" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>W. Elstad - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_b4c91299247147a66c3b88fbbc95af2f" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_5828f419cea5be92b12185ec033a8eb1" parent="aspace_b4c91299247147a66c3b88fbbc95af2f" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Chas D. Humphey - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_79af26b971f81521aca3abf9cf9e9db7" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_96d169254211501d987bc3f119ac22da" parent="aspace_79af26b971f81521aca3abf9cf9e9db7" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Charles A. Tonsor - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">January 21, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_3bbda704b7f68702e04993371afc5e2e" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_c1a5081f224b213cf2f1350c5363e356" parent="aspace_3bbda704b7f68702e04993371afc5e2e" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Joe Hickey - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">July 30, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e31b6806780a20351d3b3251d44e423b" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_147fccfe2725dd647214747e184dbb62" parent="aspace_e31b6806780a20351d3b3251d44e423b" type="Folder">18</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Richard A. Lynch Jr.  - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">July 30, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f32bb01050b06fd8124b5336c19c6917" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_d1edaa9bf775087b84fa9c47333554ab" parent="aspace_f32bb01050b06fd8124b5336c19c6917" type="Folder">19</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Rudolph Macy - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5a653d71c2e68e839f1440ac4b1d02ae" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_85b690b760eac9bd28bb3b350c4da710" parent="aspace_5a653d71c2e68e839f1440ac4b1d02ae" type="Folder">20</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>A. W. Odgen - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_88c628b54002d5829a241de498eb848a" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_4c6583b93befee0c4727d7349a10d3c3" parent="aspace_88c628b54002d5829a241de498eb848a" type="Folder">21</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>T. Jiel - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e3ec0f47e90e6a8c6728797ec8b3718e" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_13093ddabe6a016f307b897bbd718901" parent="aspace_e3ec0f47e90e6a8c6728797ec8b3718e" type="Folder">22</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Benjamin A. Ross - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">May 5, 1936</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ea45bdfa586ef1b9e519a0b3a399bfaf" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_2c8d07ddf6f033187241be3ebfb57b21" parent="aspace_ea45bdfa586ef1b9e519a0b3a399bfaf" type="Folder">23</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>Anon. - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_db073c6f42e37c487357ec9cea63a78f" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_b017ee84f6b34899ffa939cbed4e5a82" parent="aspace_db073c6f42e37c487357ec9cea63a78f" type="Folder">24</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Edward J. McKary - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0b878c952bc4b56a4560136ed410acd2" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_6975de0eaa9320ce45079380957a9f3e" parent="aspace_0b878c952bc4b56a4560136ed410acd2" type="Folder">25</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>Anon. - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2979b3bb6ab43d77edc69b6f80ef65a5" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_be3bef9d2dfee7bc42f69adc86b542de" parent="aspace_2979b3bb6ab43d77edc69b6f80ef65a5" type="Folder">26</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>John M. Laughran - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_68be96d224e84e406299ed25774c43b5" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_cc6464bc9bc9ec81f3c682e26b6882dc" parent="aspace_68be96d224e84e406299ed25774c43b5" type="Folder">27</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>Robert S. Whightman - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9b122ab1f21b03ed46b1f4d5dde2fc5a" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_ad9075db75beda780907a21e664ce90e" parent="aspace_9b122ab1f21b03ed46b1f4d5dde2fc5a" type="Folder">28</container>
+        </did>
+      </c>
+      <c id="aspace_ref30" level="file">
+        <did>
+          <unittitle>Lindorf - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0d52ffee4b259fd653f63aa4af3fedfc" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_fefc5d728ca5d24f7fcfb788faaaccd2" parent="aspace_0d52ffee4b259fd653f63aa4af3fedfc" type="Folder">29</container>
+        </did>
+      </c>
+      <c id="aspace_ref31" level="file">
+        <did>
+          <unittitle>Theodore A. Distler - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">June 21, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f4967a4f5fc89b731d5555d714f83ad7" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_854a64bcdee5e1800bdc7567a56e3fc8" parent="aspace_f4967a4f5fc89b731d5555d714f83ad7" type="Folder">30</container>
+        </did>
+      </c>
+      <c id="aspace_ref32" level="file">
+        <did>
+          <unittitle>Hoyt Hostutter - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_24a68cb0d2682be1b413ecb115a6cc03" label="Microform [31142063004140]" type="Box">1</container>
+          <container id="aspace_df13162aade231f9b12fd19f40f099ec" parent="aspace_24a68cb0d2682be1b413ecb115a6cc03" type="Folder">31</container>
+        </did>
+      </c>
+      <c id="aspace_ref33" level="file">
+        <did>
+          <unittitle>Arthur J. O'dea - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">July 11, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0574a2cabde0bfcf02e8cbc1fa21de27" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_bacec5fdd520791a02a8aa8e0c321536" parent="aspace_0574a2cabde0bfcf02e8cbc1fa21de27" type="Folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_ref34" level="file">
+        <did>
+          <unittitle>Richard D. Pilieasteru - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_d7df5b6c2eab426aaf6875a35841d632" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_eb8327a9ade0fda1419ace64b9eb9a64" parent="aspace_d7df5b6c2eab426aaf6875a35841d632" type="Folder">33</container>
+        </did>
+      </c>
+      <c id="aspace_ref35" level="file">
+        <did>
+          <unittitle>Harold Lenz - Questionnaire</unittitle>
+          <unitdate datechar="creation">June 11, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f4b59c12eca19d75a3fd098cc43077e5" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_997af0b74ae2319db6f899a7c629d152" parent="aspace_f4b59c12eca19d75a3fd098cc43077e5" type="Folder">34</container>
+        </did>
+      </c>
+      <c id="aspace_ref36" level="file">
+        <did>
+          <unittitle>Dr. Frank J. Goff - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_6e9022e59c44cd2c4c93b483871e256d" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_8dc602a559ab2c628de3f73a83f7a0ae" parent="aspace_6e9022e59c44cd2c4c93b483871e256d" type="Folder">35</container>
+        </did>
+      </c>
+      <c id="aspace_ref37" level="file">
+        <did>
+          <unittitle>Seymour Male - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_22fd2c67d53db316358ed839eb56e74b" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_9c46bae97ec0ef8dccc1a08b0fb94285" parent="aspace_22fd2c67d53db316358ed839eb56e74b" type="Folder">36</container>
+        </did>
+      </c>
+      <c id="aspace_ref38" level="file">
+        <did>
+          <unittitle>Charles P. Murphy - Letter to Lawrence Lang</unittitle>
+          <unitdate datechar="creation">July 10, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_40a08aff8d09308970b1c2345509092d" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_ea72235766472342ac28a97389bef0fa" parent="aspace_40a08aff8d09308970b1c2345509092d" type="Folder">37</container>
+        </did>
+      </c>
+      <c id="aspace_ref39" level="file">
+        <did>
+          <unittitle>Oscar Rose - Letter to Alumnus</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2fd24178caf2878367fb5af945d27c3f" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_8c79df4fb5549766f67fc3353adfd015" parent="aspace_2fd24178caf2878367fb5af945d27c3f" type="Folder">38</container>
+        </did>
+      </c>
+      <c id="aspace_ref40" level="file">
+        <did>
+          <unittitle>C. A. Bill - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2dd97e5f31a8fc1a1f88705674752e81" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_71bbbd7ad63bb39cea353b1169b41793" parent="aspace_2dd97e5f31a8fc1a1f88705674752e81" type="Folder">39</container>
+        </did>
+      </c>
+      <c id="aspace_ref41" level="file">
+        <did>
+          <unittitle>H. F. Watson - Letter to Oscar Rose and Questionnaire</unittitle>
+          <unitdate datechar="creation">June 15, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_75e50e854a84f528f4e26f5339628b0f" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_b283d771a5ee292e7388c4cfc44d4b0f" parent="aspace_75e50e854a84f528f4e26f5339628b0f" type="Folder">40</container>
+        </did>
+      </c>
+      <c id="aspace_ref42" level="file">
+        <did>
+          <unittitle>Munro G. Rieser - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2010c809cbc500a0f9de785361b27fe0" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_a3acdfb2985623169f6e0a72b13e8820" parent="aspace_2010c809cbc500a0f9de785361b27fe0" type="Folder">41</container>
+        </did>
+      </c>
+      <c id="aspace_ref43" level="file">
+        <did>
+          <unittitle>Donald F. Brown - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a56b47134dbd6a580e2a1ca187373d66" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_8f1366ca645264f6b26eec595b3a4201" parent="aspace_a56b47134dbd6a580e2a1ca187373d66" type="Folder">42</container>
+        </did>
+      </c>
+      <c id="aspace_ref44" level="file">
+        <did>
+          <unittitle>J. F. Rockwatt - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d4f954bebd863dbac1424f6789c5f2c1" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_c6de95db0d8f3ca52a469f3d26a12d80" parent="aspace_d4f954bebd863dbac1424f6789c5f2c1" type="Folder">43</container>
+        </did>
+      </c>
+      <c id="aspace_ref45" level="file">
+        <did>
+          <unittitle>Julian N. Henriques - Questionaire and Letter</unittitle>
+          <unitdate datechar="creation">June 17, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4db77324498ba0b18af539eb546d1bb1" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_a947945ef72f4832479e35a8bb92eef7" parent="aspace_4db77324498ba0b18af539eb546d1bb1" type="Folder">44</container>
+        </did>
+      </c>
+      <c id="aspace_ref46" level="file">
+        <did>
+          <unittitle>Dr. S. Bernard Wortis - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_129580184d60ab6385ee73fcb7b53eaf" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_c6c739f44bccf71855449b155282c75e" parent="aspace_129580184d60ab6385ee73fcb7b53eaf" type="Folder">45</container>
+        </did>
+      </c>
+      <c id="aspace_ref47" level="file">
+        <did>
+          <unittitle>Dr. George A. Simons - Questionnaire and Pamphlets</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_73e91da9b3790eff2f1d3e7b7a0572cc" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_869f13185ea530021c96d2984133adde" parent="aspace_73e91da9b3790eff2f1d3e7b7a0572cc" type="Folder">46</container>
+        </did>
+      </c>
+      <c id="aspace_ref48" level="file">
+        <did>
+          <unittitle>Erwin H. Hamilton - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e327a99dbc6740abf94214455038fa98" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_ea1e3c5beeb6f3c3a9282042ca6681e3" parent="aspace_e327a99dbc6740abf94214455038fa98" type="Folder">47</container>
+        </did>
+      </c>
+      <c id="aspace_ref49" level="file">
+        <did>
+          <unittitle>Charles P. Murphy - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1bb65bf2b28c2b7747ac16923914621b" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_7f0aca4044b3b106e01bf4b3d7233cd9" parent="aspace_1bb65bf2b28c2b7747ac16923914621b" type="Folder">48</container>
+        </did>
+      </c>
+      <c id="aspace_ref50" level="file">
+        <did>
+          <unittitle>Stanley Kenward - Questionnaire and Photographs</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_43dad84d482a556ed1b385e80f75776c" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_f0dbb371896e8a06355d6c7de87df2ec" parent="aspace_43dad84d482a556ed1b385e80f75776c" type="Folder">49</container>
+        </did>
+      </c>
+      <c id="aspace_ref51" level="file">
+        <did>
+          <unittitle>Erwin H. Hamilton - Letter to Oscar Rose and Anecdotes</unittitle>
+          <unitdate datechar="creation">August 21, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_96b243dee2d481d7b4c38c8b6edef9df" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_92fc2d70d7883df758db699f5b733da3" parent="aspace_96b243dee2d481d7b4c38c8b6edef9df" type="Folder">50</container>
+        </did>
+      </c>
+      <c id="aspace_ref52" level="file">
+        <did>
+          <unittitle>Jules W. Goldschmidt - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_ed91a9af6cdbfd1c510f4a56def7288a" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_097c45710d0954a32ae6e2a1acd96fb0" parent="aspace_ed91a9af6cdbfd1c510f4a56def7288a" type="Folder">51</container>
+        </did>
+      </c>
+      <c id="aspace_ref53" level="file">
+        <did>
+          <unittitle>Anon. - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_065d25062c2eaee0f586a1f1895219c4" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_95b5a6f5ef64f73382a3494b65a0c2b9" parent="aspace_065d25062c2eaee0f586a1f1895219c4" type="Folder">52</container>
+        </did>
+      </c>
+      <c id="aspace_ref54" level="file">
+        <did>
+          <unittitle>Harold H. Ball - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_607556c6cc7891745746be94c89b8c47" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_8898a567847bc4897f55b77368abe93f" parent="aspace_607556c6cc7891745746be94c89b8c47" type="Folder">53</container>
+        </did>
+      </c>
+      <c id="aspace_ref55" level="file">
+        <did>
+          <unittitle>Philip Finkelstein - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_34fa944099bd1e978952b2fd8f4e0af9" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_29f026a09baac906a32f382a3e1340d6" parent="aspace_34fa944099bd1e978952b2fd8f4e0af9" type="Folder">54</container>
+        </did>
+      </c>
+      <c id="aspace_ref56" level="file">
+        <did>
+          <unittitle>D. H. Elineweisch - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f7cc58566a8db86468b162f2d9ff1d35" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_57f757f35e0c2edf0ba38c31506082f1" parent="aspace_f7cc58566a8db86468b162f2d9ff1d35" type="Folder">55</container>
+        </did>
+      </c>
+      <c id="aspace_ref57" level="file">
+        <did>
+          <unittitle>M. L. Bettcher - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_c8cefdd8e4d7cbbf00624b9ac6e646db" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_99eca46772d5e05b886966fffa99bb7d" parent="aspace_c8cefdd8e4d7cbbf00624b9ac6e646db" type="Folder">56</container>
+        </did>
+      </c>
+      <c id="aspace_ref58" level="file">
+        <did>
+          <unittitle>Ernest Larson - Letter to Oscar Rose and Questionnaire</unittitle>
+          <unitdate datechar="creation">June 11, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_03f9e9727404d73463151e9361391ac4" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_aac3c4e42b49c68444db61359bd9fe5b" parent="aspace_03f9e9727404d73463151e9361391ac4" type="Folder">57</container>
+        </did>
+      </c>
+      <c id="aspace_ref59" level="file">
+        <did>
+          <unittitle>Richard A. Lynch, Jr. - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_01a73e9c9ec354fc4ecc28795662c2f2" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_57e7397045b72e19c0990ae0686272b3" parent="aspace_01a73e9c9ec354fc4ecc28795662c2f2" type="Folder">58</container>
+        </did>
+      </c>
+      <c id="aspace_ref60" level="file">
+        <did>
+          <unittitle>Joseph W. Roe - Letter to Oscar Rose and Questionnaire</unittitle>
+          <unitdate datechar="creation">June 6, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4224f37bf05a96810129f77b87664d68" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_fffadd76198ec424223a928e80d4ca7f" parent="aspace_4224f37bf05a96810129f77b87664d68" type="Folder">59</container>
+        </did>
+      </c>
+      <c id="aspace_ref61" level="file">
+        <did>
+          <unittitle>John P. Phillips - Letter to Oscar Rose and Questionnaire</unittitle>
+          <unitdate datechar="creation">June 18, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_20cbef89c2046ec33809860370a6cda8" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_84b97346555b9c6109ae3401bd4a3626" parent="aspace_20cbef89c2046ec33809860370a6cda8" type="Folder">60</container>
+        </did>
+      </c>
+      <c id="aspace_ref62" level="file">
+        <did>
+          <unittitle>Walter S. L. Cleverdon - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_77b801bf4c69696cf1703fd0640c629d" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_9ab642cbe6d3af26056e5479715430a0" parent="aspace_77b801bf4c69696cf1703fd0640c629d" type="Folder">61</container>
+        </did>
+      </c>
+      <c id="aspace_ref63" level="file">
+        <did>
+          <unittitle>George J. Viertel - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2cd2a68a40c327b145f5eda91915db7b" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_f37acebb7ce6866f753f5329fae8b64a" parent="aspace_2cd2a68a40c327b145f5eda91915db7b" type="Folder">62</container>
+        </did>
+      </c>
+      <c id="aspace_ref64" level="file">
+        <did>
+          <unittitle>C. Raymond Kramer - Letter to Oscar Rose and Questionnaire</unittitle>
+          <unitdate datechar="creation">June 11, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_bbf62e171adf4683bb23df5e9539ac6e" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_56ef39f2fd470aa06c62a16542287c2a" parent="aspace_bbf62e171adf4683bb23df5e9539ac6e" type="Folder">63</container>
+        </did>
+      </c>
+      <c id="aspace_ref65" level="file">
+        <did>
+          <unittitle>A. L. Borton - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_4af24fbf530f8ebaf018413c183dc718" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_2a1c88169dd48501d0b7c60d09219523" parent="aspace_4af24fbf530f8ebaf018413c183dc718" type="Folder">64</container>
+        </did>
+      </c>
+      <c id="aspace_ref66" level="file">
+        <did>
+          <unittitle>Sam M. Hollander - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">July 10, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2a41a8dbbcd829d5873a72b1aff3e1c5" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_72cfd675f144bf48916a0778eb34a953" parent="aspace_2a41a8dbbcd829d5873a72b1aff3e1c5" type="Folder">65</container>
+        </did>
+      </c>
+      <c id="aspace_ref67" level="file">
+        <did>
+          <unittitle>Cayuga Press - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">February 15, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8c23928527c887edb5ae85a32f81d360" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_5792dcc944fc5dc97cd1ccdd82f9286f" parent="aspace_8c23928527c887edb5ae85a32f81d360" type="Folder">66</container>
+        </did>
+      </c>
+      <c id="aspace_ref68" level="file">
+        <did>
+          <unittitle>Ben Ross - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">January 11, 1938</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_5a239a5fa6cd7f1d229d86e22e3ca840" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_629a61c0197c5703a2b4260fdff301f3" parent="aspace_5a239a5fa6cd7f1d229d86e22e3ca840" type="Folder">67</container>
+        </did>
+      </c>
+      <c id="aspace_ref69" level="file">
+        <did>
+          <unittitle>Sam M. Hollander - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">August 27, 1937</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8a280a484d2f844c681e174d757ee73d" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_a58cb26fcdf231708cdcf5cf0af79048" parent="aspace_8a280a484d2f844c681e174d757ee73d" type="Folder">68</container>
+        </did>
+      </c>
+      <c id="aspace_ref70" level="file">
+        <did>
+          <unittitle>Eugene R. Canudo - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">January 6, 1933</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_1c259393e0268b21c18800ce2d843166" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_040e0cc7dd2cb3b309f403c4ac39d732" parent="aspace_1c259393e0268b21c18800ce2d843166" type="Folder">69</container>
+        </did>
+      </c>
+      <c id="aspace_ref71" level="file">
+        <did>
+          <unittitle>Ben Ross - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">March 28, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_9919ebb3fb3835775cb8ea90af83df49" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_e42925ff2e5442de404954e5cb88b239" parent="aspace_9919ebb3fb3835775cb8ea90af83df49" type="Folder">70</container>
+        </did>
+      </c>
+      <c id="aspace_ref72" level="file">
+        <did>
+          <unittitle>Arthur H. Nason - Letter to Oscar Rose and Questionnaire</unittitle>
+          <unitdate datechar="creation">June 6, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_72625b18a18de98a42920e59c2b86b6f" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_3ba0b63b89de3556aed8de08ef3d0e43" parent="aspace_72625b18a18de98a42920e59c2b86b6f" type="Folder">71</container>
+        </did>
+      </c>
+      <c id="aspace_ref73" level="file">
+        <did>
+          <unittitle>Stanley Harte - Questionnaire</unittitle>
+          <unitdate datechar="creation">c. 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2ed49b88fe0748ee20c504b6fd75a2c4" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_8100ad4b5da78f7234cc446e38c18fa1" parent="aspace_2ed49b88fe0748ee20c504b6fd75a2c4" type="Folder">72</container>
+        </did>
+      </c>
+      <c id="aspace_ref74" level="file">
+        <did>
+          <unittitle>Sam M. Hollander - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">June 3, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_63e3d7aee1490d9d949d254580728318" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_87bdd7579669a9d6cf25b16034bdc873" parent="aspace_63e3d7aee1490d9d949d254580728318" type="Folder">73</container>
+        </did>
+      </c>
+      <c id="aspace_ref75" level="file">
+        <did>
+          <unittitle>Deems Taylor - Letter to Oscar Rose</unittitle>
+          <unitdate datechar="creation">October 16, 1935</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_475b7353e3c6cff0684484090a87bead" label="Mixed Materials [31142063004140]" type="Box">1</container>
+          <container id="aspace_b6f8eeb763d647e98cd93dcc3889de6f" parent="aspace_475b7353e3c6cff0684484090a87bead" type="Folder">74</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

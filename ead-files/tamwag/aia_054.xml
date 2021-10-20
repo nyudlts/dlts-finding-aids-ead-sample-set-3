@@ -1,0 +1,1808 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/aia_054">aia_054</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Sylvia O'Brien Papers <num>AIA.054</num></titleproper>
+        <author>Rachel Searcy</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>02/21/2014</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 02:21:27 -0400</date>.</creation>
+      <langusage>Finding aid is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Sylvia O'Brien Papers</unittitle>
+      <origination label="Creator">
+        <persname source="local">O'Brien, Sylvia, 1924-2006</persname>
+      </origination>
+      <unitid>AIA.054</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">15.5 Linear Feet</extent>
+        <extent altrender="carrier">in 15 record cartons and 1 manuscript box</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1940/2008" type="inclusive">1940-2008</unitdate>
+      <unitdate datechar="creation" normal="1955/1995" type="bulk">1955-1995</unitdate>
+      <abstract id="aspace_6a7c1d02b4740eef23f4f5172cbb6c52">Sylvia O'Brien (1924-2006) was a Dublin-born, New York-based actress who starred in Broadway theater productions, as well as commercials and television programs. A member of Actor's Equity Association, the Screen Actors Guild, and the American Federation of Television and Radio Artists (AFTRA), O'Brien appeared in numerous Broadway productions, including a role as Mrs. Peace in the 20th anniversary production of <emph render="italic">My Fair Lady</emph>. This collection consists of diaries, playbills, photographs, correspondence, memoranda, newspaper clippings, original writings, and scripts for various performances. The majority of the collection documents her professional career as an actress, including contracts, photographs, correspondence, newspaper clippings, a large collection of playbills, and files on individual productions she participated in. The collection also documents her personal life, including diaries, correspondence, a large number of personal photographs and photograph albums, and her original poetry and short stories.</abstract>
+      <physloc id="aspace_e6d8e2e5f013acc4fa411f25341d27b1">Materials are stored off-site and advance notice is required for use. Please contact tamiment.wagner@nyu.edu at least two days prior to research visit.</physloc>
+      <langmaterial id="aspace_7b3f2f03d8b76584900b5f27e66941a5">Materials are in English.</langmaterial>
+    </did>
+    <bioghist id="aspace_1952a42107109794a6d47a8f2e166874">
+      <head>Historical/Biographical Note</head>
+      <p>Sylvia O'Brien (1924-2006) was a Dublin-born, New York-based actress who starred in Broadway theater productions, as well as commercials and television programs. O'Brien was born in the Rathmines suburb of Dublin, Ireland in 1924 and emigrated to the United States in 1959 following her involvement with the travelling Irish Festival Singers. In 1959, she married Richard Seadar, the American road manager for the Irish Festival Singers tour. A member of Actor's Equity Association, the Screen Actors Guild, and the American Federation of Television and Radio Artists (AFTRA), O'Brien appeared in numerous Broadway productions, including a role as Mrs. Peace in the 20th anniversary production of <emph render="italic">My Fair Lady</emph>. In addition to her acting career, O'Brien also wrote poetry and short stories, many of which were published in American and Canadian magazines. She died in 2006.</p>
+    </bioghist>
+    <scopecontent id="aspace_8801eba6bf1f5dac84b40ded9477e954">
+      <head>Scope and Content Note</head>
+      <p>This collection documents the personal and professional life of Sylvia O'Brien, and consists of diaries, playbills, photographs, correspondence, memoranda, newspaper clippings, original writings, and scripts for various performances. The majority of the collection documents her professional career as an actress, including contracts, photographs, correspondence, newspaper clippings, a large collection of playbills, and files on individual productions she participated in. The collection also documents her personal life, including diaries, correspondence, a large number of personal photographs and photograph albums, and her original poetry and short stories.</p>
+    </scopecontent>
+    <accessrestrict id="aspace_a94bacfe7d03d2cf48fe22e64c4fc6eb">
+      <head>Access Restrictions</head>
+      <p>Open for research without restrictions.</p>
+    </accessrestrict>
+    <userestrict id="aspace_3b8f9579a5ecb56e23ebf694620dd2b1">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by Sylvia O'Brien, the creator of this collection, were transferred to New York University in 2010 by Bruce Seadar. Permission to publish or reproduce materials in this collection must be secured from the Tamiment Library.</p>
+    </userestrict>
+    <acqinfo id="aspace_cfeaf20fe71b57dda8ec0fcdf4c5a75e">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Bruce Seadar, Sylvia O'Brien's husband's nephew and the executor of her estate, in 2010.  The accession number associated with this gift is 2010.038.</p>
+    </acqinfo>
+    <processinfo id="aspace_84027880919604e9e86764c2aa70652b">
+      <head>Processing Information Note</head>
+      <p>Upon receipt, the collection contained several distinct types of materials, but no consistent overall arrangement. Similar types of materials (i.e. playbills, scripts) were often grouped together, but not uniformly. The majority of materials were in folders, some of which had accurate titles, but were in no discernable order; other materials were loose and unfoldered. All materials were rehoused in acid-free folders and boxes, grouped into three series, and arranged alphabetically. Original folder titles were used, with descriptive clarifications as necessary, when present. When no original folder title existed, one was supplied by the archivist. Framed photographs were removed from their frames.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_4b21ddd7d50e9b1b265f44e3ac30daf0">
+      <head>Related Archival Materials</head>
+      <p>Actors' Equity Association Records (WAG 011)</p>
+      <p>American Federation of Television and Radio Artists (AFTRA) New York Local Records (WAG 282)</p>
+    </relatedmaterial>
+    <separatedmaterial id="aspace_08202c21ebff0babefaca59d66e31e21">
+      <head>Separated Materials</head>
+      <p>Approximately 1 linear foot of published books were separated to the library collection for cataloging.</p>
+    </separatedmaterial>
+    <prefercite id="aspace_a5d460bc845e0156e06178587dec506b">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Sylvia O'Brien Papers; AIA 054; box number; folder number; <lb/>Archives of Irish America, Tamiment Library <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <arrangement id="aspace_852a9abb7c62c8aeedfa85ef7102e7a5">
+      <head>Arrangement</head>
+      <p>Materials are organized into three series, all of which are arranged alphabetically:</p>
+      <p>Series I. Theater Files</p>
+      <p>Series II. Personal Materials</p>
+      <p>Series III. Original Writings</p>
+    </arrangement>
+    <controlaccess>
+      <genreform source="aat">Color photographs.</genreform>
+      <genreform source="aat">Scripts (documents)</genreform>
+      <genreform source="aat">Black-and-white photographs.</genreform>
+      <genreform source="aat">Diaries</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Actresses -- United States.</subject>
+      <subject source="lcsh">Irish Americans.</subject>
+      <genreform source="aat">Writings (document genre)</genreform>
+      <genreform source="aat">Playbills.</genreform>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref9" level="series">
+        <did>
+          <unittitle>Series I. Theater Files</unittitle>
+          <unitdate datechar="creation" normal="1942/1994" type="inclusive">1942-1994</unitdate>
+        </did>
+        <scopecontent id="aspace_d39d34e80d5496b626a8b020ba5eb4e9">
+          <head>Scope and Content Note</head>
+          <p>This series documents O'Brien's professional life as an actress and her interest in the performing arts, beginning with her involvement in the Irish Festival Singers to her later Broadway roles. Major productions include Da, Me and My Girl, and My Fair Lady. Materials include playbills, photographs, correspondence, newspaper clippings, and scripts for various performances.</p>
+        </scopecontent>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Broadcasting (Radio Eireann)</unittitle>
+            <unitdate datechar="creation" normal="1954/1963" type="inclusive">1954-1963</unitdate>
+            <container id="aspace_f125f4757888223ad973ad6dcd55d489" label="Mixed Materials [31142054628592]" type="Box">1</container>
+            <container id="aspace_1147d7b25ab1fdbc3e613ec3974f19a8" parent="aspace_f125f4757888223ad973ad6dcd55d489" type="Folder">1-4</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Commercials</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">Sep 1976</unitdate>
+            <container id="aspace_20ab33a18156b8c2c98141410c43c3fe" label="Mixed Materials [31142054628592]" type="Box">1</container>
+            <container id="aspace_bc4c3a918bacb381ebe4d99545b01890" parent="aspace_20ab33a18156b8c2c98141410c43c3fe" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Dressing Room Door Plate for <emph render="italic">Da</emph></unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_8f07b4322844193ca26bdc472e43d30a" label="Mixed Materials [31142054628592]" type="Box">1</container>
+            <container id="aspace_3af5b2c76d2d77c0e2217d2df3a40886" parent="aspace_8f07b4322844193ca26bdc472e43d30a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Dublin Programs</unittitle>
+            <unitdate datechar="creation" normal="1942/1957" type="inclusive">1942-1957</unitdate>
+            <container id="aspace_fa53150990b7bdb46e6f871b2cf09145" label="Mixed Materials [31142054628592]" type="Box">1</container>
+            <container id="aspace_9a3e3abd173f168ac542f09e377b7702" parent="aspace_fa53150990b7bdb46e6f871b2cf09145" type="Folder">7-8</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>"Imagination" Radio Series on Irish Writers</unittitle>
+            <unitdate datechar="creation" normal="1972/1975" type="inclusive">1972-1975</unitdate>
+            <container id="aspace_68e9771e3b5fbcfd4903ff47e5e0dfb3" label="Mixed Materials [31142054628592]" type="Box">1</container>
+            <container id="aspace_e8a20e970d8d94bd4fcb56341e1657c6" parent="aspace_68e9771e3b5fbcfd4903ff47e5e0dfb3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Irish Festival Singers</unittitle>
+            <unitdate datechar="creation" normal="1955/1993" type="inclusive">1955-1993</unitdate>
+            <container id="aspace_27753c9dd70d565e7d21be5f18971155" label="Mixed Materials [31142054628592]" type="Box">1</container>
+            <container id="aspace_d5c26800eb03cadc30f4b1c469013d24" parent="aspace_27753c9dd70d565e7d21be5f18971155" type="Folder">10-13</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Photographs: Cast Photographs and Headshots</unittitle>
+            <unitdate datechar="creation" normal="1955/1979" type="inclusive">1955-1979</unitdate>
+            <container id="aspace_f890b18b20bd8f1b54e624572777d79c" label="Mixed Materials [31142054628592]" type="Box">1</container>
+            <container id="aspace_c1cb1087f5df6028cee5072a80554c14" parent="aspace_f890b18b20bd8f1b54e624572777d79c" type="Folder">14-15</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Photographs: Dressing Room</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_13319ac9ac508f3c905f1c7449c695f5" label="Mixed Materials [31142054628592]" type="Box">1</container>
+            <container id="aspace_6092f7b58113064458a3ccd9a7db3d89" parent="aspace_13319ac9ac508f3c905f1c7449c695f5" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Photographs: Theater</unittitle>
+            <unitdate datechar="creation" normal="1958/1979" type="inclusive">1958-1979</unitdate>
+            <container id="aspace_a43db5da533ac7d16f5125ec4c128796" label="Mixed Materials [31142054628592]" type="Box">1</container>
+            <container id="aspace_0cbd08400fde58e67917b4a29a54453e" parent="aspace_a43db5da533ac7d16f5125ec4c128796" type="Folder">17-18</container>
+            <container altrender="Oversize Folder - 40 x 30" id="aspace_90afba4c829bf73c273b28b009e1f712" label="Mixed Materials [31142063013182]" type="Flat-File-Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Photographs: Theater Photo Album</unittitle>
+            <unitdate datechar="creation" normal="1944/1977" type="inclusive">1944-1977</unitdate>
+            <container id="aspace_5bdfcced97f24ee56e0f9f636a125638" label="Mixed Materials [31142054628592]" type="Box">1</container>
+            <container id="aspace_c47e9dde51b1cdc5bc3cd799cd1a60ea" parent="aspace_5bdfcced97f24ee56e0f9f636a125638" type="Folder">19-20</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Playbills: #s</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_b713df1c5d683a17992b0e38e409b87b" label="Mixed Materials [31142054628592]" type="Box">1</container>
+            <container id="aspace_550dd0fac813286776f12bdf0e88e04f" parent="aspace_b713df1c5d683a17992b0e38e409b87b" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Playbills: A</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_f696a0e0ca797575d2011f869ebfe41d" label="Mixed Materials [31142054628592]" type="Box">1</container>
+            <container id="aspace_e94b56b0a29327a94bfd3769e3f49217" parent="aspace_f696a0e0ca797575d2011f869ebfe41d" type="Folder">22-28</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Playbills: B</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_0cd8b5caaa29c193ff5ca4cc27c6a308" label="Mixed Materials [31142054628600]" type="Box">2</container>
+            <container id="aspace_4346918fbbd024f733dc8f9cab7d6f08" parent="aspace_0cd8b5caaa29c193ff5ca4cc27c6a308" type="Folder">1-7</container>
+            <container id="aspace_c8252773446f84ddb92fe5247dfe0ee1" label="Mixed Materials [31142054628592]" type="Box">1</container>
+            <container id="aspace_3011429e9a754725b04245432de18026" parent="aspace_c8252773446f84ddb92fe5247dfe0ee1" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Playbills: C</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_ddbe81eaa9b15a9bfd9de83dc74be4d9" label="Mixed Materials [31142054628600]" type="Box">2</container>
+            <container id="aspace_a82094c78a3ba28b73036ce0a3da6f3a" parent="aspace_ddbe81eaa9b15a9bfd9de83dc74be4d9" type="Folder">8-18</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Playbills: D</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_68628cc9228804815675cd76619e9833" label="Mixed Materials [31142054628600]" type="Box">2</container>
+            <container id="aspace_0977b514e68cdbf5d6446c9d4295f24c" parent="aspace_68628cc9228804815675cd76619e9833" type="Folder">19-25</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Playbills: E</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_59fa7e54d0dac9f24812600ac014b16d" label="Mixed Materials [31142054628600]" type="Box">2</container>
+            <container id="aspace_d77e7216e1f589c1436e2d4ae6c0a2ea" parent="aspace_59fa7e54d0dac9f24812600ac014b16d" type="Folder">26-27</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Playbills: F</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_3685529c55dd7acdaab2fa85a26e1da0" label="Mixed Materials [31142054628618]" type="Box">3</container>
+            <container id="aspace_93002bf8e3a33e67c5c2128cd4d193fe" parent="aspace_3685529c55dd7acdaab2fa85a26e1da0" type="Folder">1-6</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Playbills: G</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_e558942e9318fbe44746ada7275b9518" label="Mixed Materials [31142054628618]" type="Box">3</container>
+            <container id="aspace_6d984bfbf4f32c875190917fb7c0e56f" parent="aspace_e558942e9318fbe44746ada7275b9518" type="Folder">7-13</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Playbills: H</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_a98136d52fae5e677c8d6ab418afb58b" label="Mixed Materials [31142054628618]" type="Box">3</container>
+            <container id="aspace_1ce8f4fcee08e7afdf46e9fb32451ca8" parent="aspace_a98136d52fae5e677c8d6ab418afb58b" type="Folder">14-19</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Playbills: I</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_683df4b645aa158cf15c44fb2fdc723b" label="Mixed Materials [31142054628618]" type="Box">3</container>
+            <container id="aspace_c0fb5549caca77a4e91eb552c84c06bb" parent="aspace_683df4b645aa158cf15c44fb2fdc723b" type="Folder">20-23</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Playbills: J</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_a9279759ce5bfd35e82fa148a3088c0d" label="Mixed Materials [31142054628626]" type="Box">4</container>
+            <container id="aspace_9a6c5df287dd878510529c7240b75b83" parent="aspace_a9279759ce5bfd35e82fa148a3088c0d" type="Folder">1</container>
+            <container id="aspace_89aa00742af003dc8b23a8452e43a412" label="Mixed Materials [31142054628618]" type="Box">3</container>
+            <container id="aspace_3d71f5ba930b4468a12cf27e54016a28" parent="aspace_89aa00742af003dc8b23a8452e43a412" type="Folder">24-25</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Playbills: K</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_61b3b905d1458314e89823f18eb0f4ee" label="Mixed Materials [31142054628626]" type="Box">4</container>
+            <container id="aspace_7c24cb699bb274a9b6446503b18f6c9f" parent="aspace_61b3b905d1458314e89823f18eb0f4ee" type="Folder">2-3</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Playbills: L</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_70205db2f6d662d7e1c1ae679a9cbdad" label="Mixed Materials [31142054628626]" type="Box">4</container>
+            <container id="aspace_3c38ed9c7e9eec87294a96c47441ad57" parent="aspace_70205db2f6d662d7e1c1ae679a9cbdad" type="Folder">4-10</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Playbills: M</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_57ece9b187e6c34cafdf89c33d71d64d" label="Mixed Materials [31142054628626]" type="Box">4</container>
+            <container id="aspace_42e626e8a8116c53b487f888b2646181" parent="aspace_57ece9b187e6c34cafdf89c33d71d64d" type="Folder">11-19</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Playbills: N</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_65f4e48820cc0677e15fbd9263627326" label="Mixed Materials [31142054628626]" type="Box">4</container>
+            <container id="aspace_c857a6a919c96e00d4934b0694dc81f5" parent="aspace_65f4e48820cc0677e15fbd9263627326" type="Folder">20-21</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Playbills: O</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_1c428f686ddc09801373a411f3fb8949" label="Mixed Materials [31142054628634]" type="Box">5</container>
+            <container id="aspace_e5af7923bdd1929d2f6a2c3c16631036" parent="aspace_1c428f686ddc09801373a411f3fb8949" type="Folder">1</container>
+            <container id="aspace_ef027b80902e7086643a3f839afc0c98" label="Mixed Materials [31142054628626]" type="Box">4</container>
+            <container id="aspace_14fe67a2f32b83a39bbdb89681b4494b" parent="aspace_ef027b80902e7086643a3f839afc0c98" type="Folder">22-24</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Playbills: P</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_52899fcd1ea6da8bacba60fd2d91c8b9" label="Mixed Materials [31142054628634]" type="Box">5</container>
+            <container id="aspace_f4468fc17f253a1745184ffbfc163033" parent="aspace_52899fcd1ea6da8bacba60fd2d91c8b9" type="Folder">2-5</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Playbills: R</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_3021d8a4c910a65baac2ae61490f1e5f" label="Mixed Materials [31142054628634]" type="Box">5</container>
+            <container id="aspace_de54ac25878a89ce7c2fe072ec04c344" parent="aspace_3021d8a4c910a65baac2ae61490f1e5f" type="Folder">6-12</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Playbills: S</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_cb904e5a1f3556843794d089eeb12d01" label="Mixed Materials [31142054628634]" type="Box">5</container>
+            <container id="aspace_144001ef0d80aed1cc1152fcb2ed9e79" parent="aspace_cb904e5a1f3556843794d089eeb12d01" type="Folder">13-29</container>
+            <container id="aspace_29869df5b520f2776e640f8392446727" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_e34e7c9ddf8d59511351be026056e7d6" parent="aspace_29869df5b520f2776e640f8392446727" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Playbills: T</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_40a41e0493382ab442da2a89d535c1b7" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_0f4a0b4b9488fb51ec6c09b493b17e9d" parent="aspace_40a41e0493382ab442da2a89d535c1b7" type="Folder">2-6</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Playbills: U</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_cf18606729899a6e2ad5dff3b09e2138" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_1c24dbf06c0eacf8b11a898e419fc28e" parent="aspace_cf18606729899a6e2ad5dff3b09e2138" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Playbills: V</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_bc05b89b8183425f80def4768e340c9f" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_8a2d49246d6463d35d001809daff2f19" parent="aspace_bc05b89b8183425f80def4768e340c9f" type="Folder">8-9</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Playbills: W</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_d9d2de79ac974498cb513b776ea8dfd3" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_315bb955c91f14321d668712357bf096" parent="aspace_d9d2de79ac974498cb513b776ea8dfd3" type="Folder">10-15</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Playbills: Y</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_397b7cabee7c2cc2746e92d2962ade46" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_51a0da3f52da25a4401a92b851512cf4" parent="aspace_397b7cabee7c2cc2746e92d2962ade46" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Playbills: Z</unittitle>
+            <unitdate datechar="creation">circa 1950-1999</unitdate>
+            <container id="aspace_06c99629bf3ff0f7628743c09033b2e3" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_58d7fac59fd2702891c2029d98f86f7c" parent="aspace_06c99629bf3ff0f7628743c09033b2e3" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Print Work</unittitle>
+            <unitdate datechar="creation" normal="1966/1970" type="inclusive">1966-1970</unitdate>
+            <container id="aspace_4bcd240364cccbad0dc89a6318cb0e38" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_c736b16b0b5727d28acd4dfc734b52fa" parent="aspace_4bcd240364cccbad0dc89a6318cb0e38" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Anta</emph></unittitle>
+            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_07a0adc68fad2de0794e0c796023b650" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_f53159e7cd7d3f8c0501e75d07f4b81d" parent="aspace_07a0adc68fad2de0794e0c796023b650" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Beggar's Opera</emph></unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">Oct 1964</unitdate>
+            <container id="aspace_e473ccaac7a6587163623f0bbd304868" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_63dd27f5a4cb90c327b3ae25ba192ded" parent="aspace_e473ccaac7a6587163623f0bbd304868" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Cabaret</emph></unittitle>
+            <unitdate datechar="creation" normal="1977/1978" type="inclusive">1977-1978</unitdate>
+            <container id="aspace_75bf0945253632c61d4561fddd927fab" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_5542e2193b1543d1162e6ea7f0fab8c5" parent="aspace_75bf0945253632c61d4561fddd927fab" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Conduct UnBecoming</emph></unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">Oct 1970</unitdate>
+            <container id="aspace_728b3032eff2faa1b1c81114fa81daf4" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_4571a41cc9e0410e4df23834acf45ce5" parent="aspace_728b3032eff2faa1b1c81114fa81daf4" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Da</emph></unittitle>
+            <unitdate datechar="creation" normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container id="aspace_56f4041b4f52501b279570f91662bc95" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_14c4cad3d49d0cb5097802df7c7bd3b1" parent="aspace_56f4041b4f52501b279570f91662bc95" type="Folder">23-26</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Dear Oscar</emph></unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_eb97d444ba80407c0da1149a3a39016b" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_a21c5f181d1db730944db33522b7e990" parent="aspace_eb97d444ba80407c0da1149a3a39016b" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Every Other Evil</emph></unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_8b0583ec6c9352f8ce4cf392b2e0b98d" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_3271a733e0b6dbcc39f82bfb3b28fb65" parent="aspace_8b0583ec6c9352f8ce4cf392b2e0b98d" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">The G.B.Essence of Woman</emph></unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">Dec 1964</unitdate>
+            <container id="aspace_531122ca39f967f09db2f685d4655164" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_4944684f060d2bf0b82eb622e45946f6" parent="aspace_531122ca39f967f09db2f685d4655164" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Hadrian VII</emph></unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_ae95a388cfb30c5f5788b88445d5e007" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_4968483a2071852152f4769e5d5bff23" parent="aspace_ae95a388cfb30c5f5788b88445d5e007" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Harlequinade</emph></unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">Dec 1960</unitdate>
+            <container id="aspace_7d94caaf0213c6b87d5bde366d593eed" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_0f786f7e9ba526c878d97787a164a639" parent="aspace_7d94caaf0213c6b87d5bde366d593eed" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Hedda Gabler</emph></unittitle>
+            <unitdate datechar="creation" normal="1981/1994" type="inclusive">1981, 1994</unitdate>
+            <container id="aspace_d39e407bf033152c5e8aaa0e22e87116" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_63536265e4ee24817458c73b6992730b" parent="aspace_d39e407bf033152c5e8aaa0e22e87116" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">How to Survive a Marriage</emph></unittitle>
+            <unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+            <container id="aspace_52b79434c3d23636ab7159922fd409ff" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_8c481d13271a24f36c9e4c5d30977fd4" parent="aspace_52b79434c3d23636ab7159922fd409ff" type="Folder">1</container>
+            <container id="aspace_6ad9671e8714e517e3c8edcf8d03ed99" label="Mixed Materials [31142054628642]" type="Box">6</container>
+            <container id="aspace_13fce5252b105b8391b733b191fd144d" parent="aspace_6ad9671e8714e517e3c8edcf8d03ed99" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">The Killing of Sister George</emph></unittitle>
+            <unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate>
+            <container id="aspace_7c672847dadee79125ce85bb7680d77a" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_00edba2edc958e2483bd4d1c5b809f85" parent="aspace_7c672847dadee79125ce85bb7680d77a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Law and Order</emph></unittitle>
+            <unitdate datechar="creation" normal="1998/2002" type="inclusive">1998-2002</unitdate>
+            <container id="aspace_4aa64d4ebff89eec240cb9e554a84d3d" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_0285b06a8a3215090175536463aba132" parent="aspace_4aa64d4ebff89eec240cb9e554a84d3d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">The Loves of Cass McGuire</emph></unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_31666b45987812c70881d344a38a14d4" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_276a0713f10fb5e885a947583d96a9cb" parent="aspace_31666b45987812c70881d344a38a14d4" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">McBain</emph></unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">Oct 1995</unitdate>
+            <container id="aspace_10efdc179f7f605f5df91942c7ee2b5b" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_e256399cfb1d2f213f030cfca0f7ca6d" parent="aspace_10efdc179f7f605f5df91942c7ee2b5b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Me and My Girl</emph>: Broadway</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">Jan 1989-Sep 1989</unitdate>
+            <container id="aspace_58abcf8af7067966a88cf70431f5d360" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_009e009fa52dda9cb79ef8e13f44b8ff" parent="aspace_58abcf8af7067966a88cf70431f5d360" type="Folder">6-7</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Me and My Girl</emph>: National Tour</unittitle>
+            <unitdate datechar="creation" normal="1988/1989" type="inclusive">1988-1989</unitdate>
+            <container id="aspace_5f090777d639236db72bf0b0dfa660c2" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_224c20083aff41f020c875addc8717a7" parent="aspace_5f090777d639236db72bf0b0dfa660c2" type="Folder">8-10</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Molly Maguires</emph></unittitle>
+            <unitdate datechar="creation" normal="1965/1968" type="inclusive">1965-1968</unitdate>
+            <container id="aspace_149606a481edbcb0b3785fafaf391cdc" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_ba791cf798acf63fb5416005825cb234" parent="aspace_149606a481edbcb0b3785fafaf391cdc" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">The Mundy Scheme</emph></unittitle>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_7fe7c63a1657d6d080bef8e6696a308b" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_c0866ae03d33b57b961b1aab5cfde642" parent="aspace_7fe7c63a1657d6d080bef8e6696a308b" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">My Fair Lady</emph>: Art Park</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">1987</unitdate>
+            <container id="aspace_2705055164fc6482edf332497b4b64ce" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_7e4bd944994d5c2c603de487f443a3cc" parent="aspace_2705055164fc6482edf332497b4b64ce" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">My Fair Lady</emph>: Papermill</unittitle>
+            <unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate>
+            <container id="aspace_8ee92d822fcfbc60fd2ce523925a20fd" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_5f4b06419638e587a4481397546ba658" parent="aspace_8ee92d822fcfbc60fd2ce523925a20fd" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">The Natural Look</emph></unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_465943dd5967377109256bb8d0d77265" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_015c7fd4c4d6de4c767b6323c69853ba" parent="aspace_465943dd5967377109256bb8d0d77265" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">O Marry Me</emph></unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">Oct 1961</unitdate>
+            <container id="aspace_be10b5185c4f752b95a8500c5f8633d1" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_66595c5e16fc50f38c41079072421098" parent="aspace_be10b5185c4f752b95a8500c5f8633d1" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Poetry in 3D</emph></unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_8f54625538f95c46a283e4e9a9017441" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_abda26b583417b0ab488a3f3dd000081" parent="aspace_8f54625538f95c46a283e4e9a9017441" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Possession</emph></unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">1986</unitdate>
+            <container id="aspace_8b92bf68c8a803b7e93ad62bd0f76514" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_db226664f108d840bbb80e9f950d3e5f" parent="aspace_8b92bf68c8a803b7e93ad62bd0f76514" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Returnings</emph></unittitle>
+            <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+            <container id="aspace_2b32af6a774a8cbb7c505e6507bce6fc" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_9b23e0b347987dd8f13d869a9ee2b02c" parent="aspace_2b32af6a774a8cbb7c505e6507bce6fc" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">The Right Honourable Gentleman</emph></unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_56954ea05f9c08dd08bdd7869a50a262" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_f18cabb81b8e02aa15ef23e8efed73eb" parent="aspace_56954ea05f9c08dd08bdd7869a50a262" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Sylvia Carroll's Broadway</emph></unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_7ba7f5493b815136508b2009a26d7634" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_95e0566a25eb318834933b50ff851bee" parent="aspace_7ba7f5493b815136508b2009a26d7634" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Two's Company</emph>: Series 1</unittitle>
+            <unitdate datechar="creation" normal="1957/1958" type="inclusive">1957-1958</unitdate>
+            <container id="aspace_e4e6d052f41a626dd34c976259d0be3d" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_3629851190f3f009ad1de513834eceb6" parent="aspace_e4e6d052f41a626dd34c976259d0be3d" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Two's Company</emph>: Series 2</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_a549b29daea0a8de3007172f441011ce" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_b3f8a1fcff616637409f20e104f0ad92" parent="aspace_a549b29daea0a8de3007172f441011ce" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Productions: <emph render="italic">Two's Company</emph>: Series 3</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_1d99457e59abdf38f5583fa96f2499e7" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_019761631dbfc046785df7b404830d9f" parent="aspace_1d99457e59abdf38f5583fa96f2499e7" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Scrapbook</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_4661e520135d48fbff8ec0d30c04f1c0" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_b141c5511e96368548cf53ec9992f1eb" parent="aspace_4661e520135d48fbff8ec0d30c04f1c0" type="Folder">25-26</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Scripts: <emph render="italic">Beginning to End</emph> (Jack MacGowan)</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_77d88a636180f625ae02b487a9ecd2c1" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_9717c6a2d456c6398ec4ff15e88798ac" parent="aspace_77d88a636180f625ae02b487a9ecd2c1" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Scripts: <emph render="italic">A Corner of the Bed</emph> (Allan Jack Lewis)</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_e1a090202cfd4711d84c5f82a33545c4" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_221897b004f04d9479cbfcda7bb63a00" parent="aspace_e1a090202cfd4711d84c5f82a33545c4" type="Folder">28-29</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Scripts: <emph render="italic">Cry, Tiger</emph> (Mel Weiser)</unittitle>
+            <unitdate datechar="creation" normal="2008/2008" type="inclusive">2008</unitdate>
+            <container id="aspace_0f619ca195e118b55abdccf57203b195" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_7665db121f9ea7737be33e431cf0f1ef" parent="aspace_0f619ca195e118b55abdccf57203b195" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Scripts: <emph render="italic">Currer Bell, Esquire</emph> (William Luce)</unittitle>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_f2de70c15c51d58190eed0ff4a1985e6" label="Mixed Materials [31142054628659]" type="Box">7</container>
+            <container id="aspace_b16c195c0b7fe87e3b14f9226973909e" parent="aspace_f2de70c15c51d58190eed0ff4a1985e6" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Scripts: <emph render="italic">Dolly West's Kitchen</emph> (Frank McGuinness)</unittitle>
+            <unitdate datechar="creation" normal="1999/1999" type="inclusive">circa 1999</unitdate>
+            <container id="aspace_497c9911956b7b99d3186671c2ffc257" label="Mixed Materials [31142054628667]" type="Box">8</container>
+            <container id="aspace_9949ad1e602d64d86663f3bca36c74e6" parent="aspace_497c9911956b7b99d3186671c2ffc257" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Scripts: <emph render="italic">The Duel</emph> (Jack Dell)</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_6cfa280fdc6958bcb16cad8f76f2f0d8" label="Mixed Materials [31142054628667]" type="Box">8</container>
+            <container id="aspace_8547f4c0f554a3e4b6dacd041d81ba7a" parent="aspace_6cfa280fdc6958bcb16cad8f76f2f0d8" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Scripts: <emph render="italic">Esther the Queen</emph> ("Abel Drugger")</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_5e3944b1fdc65221bd4ee6d8e2fc589e" label="Mixed Materials [31142054628667]" type="Box">8</container>
+            <container id="aspace_d6390db30ce68fac0e3ca5018e348efa" parent="aspace_5e3944b1fdc65221bd4ee6d8e2fc589e" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Scripts: <emph render="italic">Hedda Gabler</emph> (Henrik Ibsen/Rolf Fjelde)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_9a50211f13c14616772a9c4b546fc84d" label="Mixed Materials [31142054628667]" type="Box">8</container>
+            <container id="aspace_4c43faa44dffbbee96701fab4d7abc7c" parent="aspace_9a50211f13c14616772a9c4b546fc84d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Scripts: <emph render="italic">Hold Out Your Hand</emph></unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_889f4a3b8255271bed6ba41cb1994c6c" label="Mixed Materials [31142054628667]" type="Box">8</container>
+            <container id="aspace_3edce757126696162d9c0e91029d17e5" parent="aspace_889f4a3b8255271bed6ba41cb1994c6c" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Scripts: <emph render="italic">The Killing of Sister George</emph> (Frank Marcus)</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_7b470586a7d794bd6f80088efd94b463" label="Mixed Materials [31142054628667]" type="Box">8</container>
+            <container id="aspace_44f9051d10b95a17940ef3d78cecd037" parent="aspace_7b470586a7d794bd6f80088efd94b463" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Scripts: <emph render="italic">The Loves of Cass McGuire</emph> (Brian Friel)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_337a99616dcef0747d57e1ce081d9bc5" label="Mixed Materials [31142054628667]" type="Box">8</container>
+            <container id="aspace_fdc23b869800c1412fbf16c035cf81a4" parent="aspace_337a99616dcef0747d57e1ce081d9bc5" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Scripts: <emph render="italic">The Natural Look</emph> (Lee Thuna)</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_15a0b83355aac70488f2e2b06675215f" label="Mixed Materials [31142054628667]" type="Box">8</container>
+            <container id="aspace_eb889f519d796b653ed9c5772399bed9" parent="aspace_15a0b83355aac70488f2e2b06675215f" type="Folder">8-9</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Scripts: <emph render="italic">The Passion of Josef D.</emph> (Paddy Chayefsky)</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_86b51f32291dd23c79b93e5832d8dd3c" label="Mixed Materials [31142054628667]" type="Box">8</container>
+            <container id="aspace_92ed21338cc632ea7af767b7405bfcc5" parent="aspace_86b51f32291dd23c79b93e5832d8dd3c" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Scripts: <emph render="italic">Returnings</emph> (Richie Allan)</unittitle>
+            <unitdate datechar="creation" normal="1985/1985" type="inclusive">1985</unitdate>
+            <container id="aspace_8afe0bf57465d66a2989831c3c7092cd" label="Mixed Materials [31142054628667]" type="Box">8</container>
+            <container id="aspace_8de446665ef4473b028edd61b05c20c1" parent="aspace_8afe0bf57465d66a2989831c3c7092cd" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Scripts: <emph render="italic">The Right Honourable Gentleman</emph> (Michael Dyne)</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_d0173353b827df098daf9c7f3cf6a529" label="Mixed Materials [31142054628667]" type="Box">8</container>
+            <container id="aspace_a3083126afa010d1635c63fb7f8f5d52" parent="aspace_d0173353b827df098daf9c7f3cf6a529" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Scripts: <emph render="italic">Toys in the Attic</emph> (Lillian Hellman)</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_14883b7cf20006f9e94b8cda90330a8f" label="Mixed Materials [31142054628667]" type="Box">8</container>
+            <container id="aspace_93a3259719c3ef0b2ce08075218c4ebf" parent="aspace_14883b7cf20006f9e94b8cda90330a8f" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Sheet Music</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_67cec93b6f52f26abb2c246d68f6768a" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_4f124f89b03d44fdae2fcbc8f5d5f50e" parent="aspace_67cec93b6f52f26abb2c246d68f6768a" type="Folder">1-2</container>
+            <container id="aspace_dfca05d0e5e6b9dd30277faad93a657b" label="Mixed Materials [31142054628667]" type="Box">8</container>
+            <container id="aspace_80a7f47a9b724d9b7bd0526f445588fe" parent="aspace_dfca05d0e5e6b9dd30277faad93a657b" type="Folder">14-17</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Soap Operas</unittitle>
+            <unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate>
+            <container id="aspace_79a363a81e5e6cbfd8a392ea7c67f0d4" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_b044523e6d9ece9efa66361037c594d4" parent="aspace_79a363a81e5e6cbfd8a392ea7c67f0d4" type="Folder">3-4</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Theatrical Reviews</unittitle>
+            <unitdate datechar="creation" normal="1960/1973" type="inclusive">1960-1973</unitdate>
+            <container id="aspace_b8953175201752412fc1a947f67bd959" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_3054f8927f91028b6b692f903937ec93" parent="aspace_b8953175201752412fc1a947f67bd959" type="Folder">5-6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref98" level="series">
+        <did>
+          <unittitle>Series II. Personal Materials</unittitle>
+          <unitdate datechar="creation" normal="1945/2000" type="inclusive">1945-2000</unitdate>
+        </did>
+        <scopecontent id="aspace_1f4956214d498f5fd7fe06b42f6364c1">
+          <head>Scope and Content Note</head>
+          <p>This series consists of diaries, correspondence, memoranda, photographs, newspaper clippings, and other materials documenting O'Brien's personal life and interests. The majority of the series consists of 40 years of her diaries, which she entitled "Sylvia's Musings." In her diaries, O'Brien discusses both personal and professional matters, including her daily activities, marriage, friendships, vacations, family history, and social activities; her thoughts of various current events and social issues; and her reflections of professional matters, including auditions, particular aspects of individual productions, as well as interactions with cast members, crew, and theatrical management. The series also includes biographical and genealogical information, scrapbooks, personal photographs, and subject files on issues of interest to O'Brien.</p>
+        </scopecontent>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle><emph render="italic">50 Art Songs</emph> (Schirmer)</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_48a30a102fda7b80a951d8fb893897c0" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_05d928addc198b3ee7289cb68451190a" parent="aspace_48a30a102fda7b80a951d8fb893897c0" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle><emph render="italic">Ais-Eiri</emph> Interview</unittitle>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_1e4d2a34a84fb46329abc9b5135026ea" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_4f05e84bbead66bd5ddb9c26801138c8" parent="aspace_1e4d2a34a84fb46329abc9b5135026ea" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>Biographical Information</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_a347b023fea26523963a31304514bbfa" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_41c5a807f632956f19522c9792ba30fc" parent="aspace_a347b023fea26523963a31304514bbfa" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>Correspondence: Birthday Cards</unittitle>
+            <unitdate datechar="creation" normal="1945/1954" type="inclusive">1945-1954</unitdate>
+            <container id="aspace_8fe3f609b091d55f1347f6eaf6d1f7b2" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_d3f69bca32ad6798a1eb240af5ca8a3b" parent="aspace_8fe3f609b091d55f1347f6eaf6d1f7b2" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>Correspondence: Christmas Cards</unittitle>
+            <unitdate datechar="creation" normal="1984/2000" type="inclusive">1984-2000</unitdate>
+            <container id="aspace_2ac5a29fdfaa7aa17648e926821d5d2c" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_368cf6dc344ec2825ecc9bf7a1fa3776" parent="aspace_2ac5a29fdfaa7aa17648e926821d5d2c" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>Correspondence: General</unittitle>
+            <unitdate datechar="creation" normal="1990/2004" type="inclusive">1990-2004</unitdate>
+            <container id="aspace_12d4a20209dfd5895c57b8223e35f50e" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_ff262a2c128f0699320327688423e575" parent="aspace_12d4a20209dfd5895c57b8223e35f50e" type="Folder">12-14</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Diaries: Jun 1955-Aug 1955</unittitle>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">Jun 1955-Aug 1955</unitdate>
+            <container id="aspace_076bf678a8306a41936c97b9ed13b528" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_d8af0a05f714bdf7177930c93ca3124e" parent="aspace_076bf678a8306a41936c97b9ed13b528" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>Diaries: Aug 1959-Dec 1966</unittitle>
+            <unitdate datechar="creation" normal="1959/1966" type="inclusive">Aug 1959-Dec 1966</unitdate>
+            <container id="aspace_6f1ef5d030cb01044e6ed77c36f44352" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_fa4975c1a78d6609ccd28c17d8ccdbf6" parent="aspace_6f1ef5d030cb01044e6ed77c36f44352" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>Diaries: May 1961-Aug 1961</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">May 1961-Aug 1961</unitdate>
+            <container id="aspace_97d85d213f4bbaf3b2f60466b24976d0" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_bc04b5905990397607e281b1d7ad57e7" parent="aspace_97d85d213f4bbaf3b2f60466b24976d0" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Diaries: Apr 1962-May 1967</unittitle>
+            <unitdate datechar="creation" normal="1962/1967" type="inclusive">Apr 1962-May 1967</unitdate>
+            <container id="aspace_0231eb8e02f34a2d78896fb38df4bf1c" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_346fd3978123ec32c5d0cfb4ef710b02" parent="aspace_0231eb8e02f34a2d78896fb38df4bf1c" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>Diaries: Jul 1966</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">Jul 1966</unitdate>
+            <container id="aspace_a3c96082abe8119a5fd498e6be54b241" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_eab34d00e0a70918a87ec6d5c60445a9" parent="aspace_a3c96082abe8119a5fd498e6be54b241" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>Diaries: Jun 1967-Dec 1968</unittitle>
+            <unitdate datechar="creation" normal="1967/1968" type="inclusive">Jun 1967-Dec 1968</unitdate>
+            <container id="aspace_3c352dc1c4c7da07fdc655553f3a6877" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_a68f90ac6933a0a1bfddcf6b8dadd0a2" parent="aspace_3c352dc1c4c7da07fdc655553f3a6877" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Diaries: Mar 1969-Oct 1970</unittitle>
+            <unitdate datechar="creation" normal="1969/1970" type="inclusive">Mar 1969-Oct 1970</unitdate>
+            <container id="aspace_ddf265ba7568637e2fa8d0f5c67a227b" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_c125181d09036657b22a7beb7b857211" parent="aspace_ddf265ba7568637e2fa8d0f5c67a227b" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref112" level="file">
+          <did>
+            <unittitle>Diaries: Feb 1971-Dec 1971</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_8ffdf8617d01020f5fe4c4bc9edad296" label="Mixed Materials [31142054628675]" type="Box">9</container>
+            <container id="aspace_17cc19d3d0cfa62451363450f0e2da0c" parent="aspace_8ffdf8617d01020f5fe4c4bc9edad296" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref113" level="file">
+          <did>
+            <unittitle>Diaries: Feb 1971-Feb 1972</unittitle>
+            <unitdate datechar="creation">Feb 1971-Feb 1972</unitdate>
+            <container id="aspace_91221e90a22c9d12a54b37956c0272e4" label="Mixed Materials [31142054628683]" type="Box">10</container>
+            <container id="aspace_4c2555bf19e85eb73d55366f649470f5" parent="aspace_91221e90a22c9d12a54b37956c0272e4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Diaries: Feb 1972-May 1973</unittitle>
+            <unitdate datechar="creation" normal="1972/1973" type="inclusive">Feb 1972-May 1973</unitdate>
+            <container id="aspace_d285d1b344bca0b82f1e928892012ffe" label="Mixed Materials [31142054628683]" type="Box">10</container>
+            <container id="aspace_fe2e9763e54cf7ef7cb3801b45d824e7" parent="aspace_d285d1b344bca0b82f1e928892012ffe" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref115" level="file">
+          <did>
+            <unittitle>Diaries: Jul 1973-Aug 1973</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">Jul 1973-Aug 1973</unitdate>
+            <container id="aspace_9018771907dca45c433fda265852b259" label="Mixed Materials [31142054628683]" type="Box">10</container>
+            <container id="aspace_cdca7865e5410cf24f0b93982f2f2b4c" parent="aspace_9018771907dca45c433fda265852b259" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref116" level="file">
+          <did>
+            <unittitle>Diaries: Mar 1974-Dec 1975</unittitle>
+            <unitdate datechar="creation" normal="1974/1975" type="inclusive">Mar 1974-Dec 1975</unitdate>
+            <container id="aspace_70f3e95a2d47571cd2e5547480bfb131" label="Mixed Materials [31142054628683]" type="Box">10</container>
+            <container id="aspace_c1b77e6b962ed4fa912edb52a7e668bd" parent="aspace_70f3e95a2d47571cd2e5547480bfb131" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Diaries: May 1975-Dec 1975</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">May 1975-Dec 1975</unitdate>
+            <container id="aspace_f81d086d0a44b9f9621e571b9476c767" label="Mixed Materials [31142054628683]" type="Box">10</container>
+            <container id="aspace_323718d7609cda88cb6ac0955593047d" parent="aspace_f81d086d0a44b9f9621e571b9476c767" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref118" level="file">
+          <did>
+            <unittitle>Diaries: 1976</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_dcaab8b9579d8a8bfaa52eea15edadf3" label="Mixed Materials [31142054628683]" type="Box">10</container>
+            <container id="aspace_f4cc27def1c342c1ef9a02ba31d14695" parent="aspace_dcaab8b9579d8a8bfaa52eea15edadf3" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref119" level="file">
+          <did>
+            <unittitle>Diaries: Mar 1978-Nov 1978</unittitle>
+            <unitdate datechar="creation" normal="1978/1978" type="inclusive">Mar 1978-Nov 1978</unitdate>
+            <container id="aspace_ee84a68c8688ea6be7224ce45912a360" label="Mixed Materials [31142054628683]" type="Box">10</container>
+            <container id="aspace_f656cf721e82ec78da35c5c9b213ea85" parent="aspace_ee84a68c8688ea6be7224ce45912a360" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Diaries: Nov 1978-Apr 1979</unittitle>
+            <unitdate datechar="creation" normal="1978/1979" type="inclusive">Nov 1978-Apr 1979</unitdate>
+            <container id="aspace_34b6084c90496397a4323f7f52a44975" label="Mixed Materials [31142054628683]" type="Box">10</container>
+            <container id="aspace_4ae12c33c75e2ae4fd8091542a4acf68" parent="aspace_34b6084c90496397a4323f7f52a44975" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref121" level="file">
+          <did>
+            <unittitle>Diaries: Apr 1979</unittitle>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">Apr 1979</unitdate>
+            <container id="aspace_69f83cd24e4b0ae72870f6bf2527f4d1" label="Mixed Materials [31142054628683]" type="Box">10</container>
+            <container id="aspace_6db302770c96dd19ef5b802fb785f0d9" parent="aspace_69f83cd24e4b0ae72870f6bf2527f4d1" type="Folder">9-10</container>
+          </did>
+        </c>
+        <c id="aspace_ref122" level="file">
+          <did>
+            <unittitle>Diaries: 1980</unittitle>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">1980</unitdate>
+            <container id="aspace_69a925e3e4ba15e43daf51d16cee3611" label="Mixed Materials [31142054628683]" type="Box">10</container>
+            <container id="aspace_c627372f547ba94c39543a9089cb4422" parent="aspace_69a925e3e4ba15e43daf51d16cee3611" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Diaries: Mar 1980</unittitle>
+            <unitdate datechar="creation" normal="1980/1980" type="inclusive">Mar 1980</unitdate>
+            <container id="aspace_3efb0b38139ca160e87f8a1eb3e5185f" label="Mixed Materials [31142054628683]" type="Box">10</container>
+            <container id="aspace_63d322cfe3d88710a06f6dc2fa2c76bd" parent="aspace_3efb0b38139ca160e87f8a1eb3e5185f" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref124" level="file">
+          <did>
+            <unittitle>Diaries: Jan 1981-Oct 1981</unittitle>
+            <unitdate datechar="creation" normal="1981/1981" type="inclusive">Jan 1981-Oct 1981</unitdate>
+            <container id="aspace_80c969c561b142b6096aaaf6d7c99a08" label="Mixed Materials [31142054628683]" type="Box">10</container>
+            <container id="aspace_fb46662033e739999d2e7eab423bf50f" parent="aspace_80c969c561b142b6096aaaf6d7c99a08" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref125" level="file">
+          <did>
+            <unittitle>Diaries: Jan 1982-Nov 1982</unittitle>
+            <unitdate datechar="creation" normal="1982/1982" type="inclusive">Jan 1982-Nov 1982</unitdate>
+            <container id="aspace_f50f7aee1234e5eabea0927632f5e1fd" label="Mixed Materials [31142054628683]" type="Box">10</container>
+            <container id="aspace_f1c52b5bdc9cb7959f408d57bcc5491c" parent="aspace_f50f7aee1234e5eabea0927632f5e1fd" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>Diaries: Jun 1982 (Ireland)</unittitle>
+            <unitdate datechar="creation" normal="1982/1982" type="inclusive">Jun 1982</unitdate>
+            <container id="aspace_bf0a76ec0e791d6e61bba691a478ba19" label="Mixed Materials [31142054628683]" type="Box">10</container>
+            <container id="aspace_93093c90a3c2d394735ac57b96ac25b7" parent="aspace_bf0a76ec0e791d6e61bba691a478ba19" type="Folder">15</container>
+            <container id="aspace_729365aa388f3df6c8a8a4badf507795" label="Mixed Materials [31142054628691]" type="Box">11</container>
+            <container id="aspace_074fa135494c3f5147e7982198b817bd" parent="aspace_729365aa388f3df6c8a8a4badf507795" type="Folder">1-2</container>
+          </did>
+        </c>
+        <c id="aspace_ref127" level="file">
+          <did>
+            <unittitle>Diaries: Sep 1981-Nov 1982</unittitle>
+            <unitdate datechar="creation" normal="1981/1982" type="inclusive">Sep 1981-Nov 1982</unitdate>
+            <container id="aspace_b1feb0070ba9c7735eff5893e6d234ef" label="Mixed Materials [31142054628691]" type="Box">11</container>
+            <container id="aspace_f6d3605db757ea366f99f6fcabc5f032" parent="aspace_b1feb0070ba9c7735eff5893e6d234ef" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref128" level="file">
+          <did>
+            <unittitle>Diaries: Jun 1982-Jul 1984</unittitle>
+            <unitdate datechar="creation" normal="1982/1984" type="inclusive">Jun 1982-Jul 1984</unitdate>
+            <container id="aspace_aee211bec147147486e0ea024e6dc1b9" label="Mixed Materials [31142054628691]" type="Box">11</container>
+            <container id="aspace_501edb511b112eae6744b3a428bd157a" parent="aspace_aee211bec147147486e0ea024e6dc1b9" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>Diaries: Oct 1982</unittitle>
+            <unitdate datechar="creation" normal="1982/1982" type="inclusive">Oct 1982</unitdate>
+            <container id="aspace_865fb904ff694459d83ade19d036a6a2" label="Mixed Materials [31142054628691]" type="Box">11</container>
+            <container id="aspace_8e4df0ef1bf9447a945380bdd75cdf61" parent="aspace_865fb904ff694459d83ade19d036a6a2" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref130" level="file">
+          <did>
+            <unittitle>Diaries: 1982</unittitle>
+            <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+            <container id="aspace_75e8f101efa641b3d7f186168ede93f6" label="Mixed Materials [31142054628691]" type="Box">11</container>
+            <container id="aspace_7dcb3fa9efc482e2f6f5f19a881e23f4" parent="aspace_75e8f101efa641b3d7f186168ede93f6" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref131" level="file">
+          <did>
+            <unittitle>Diaries: Mar 1983-Oct 1983</unittitle>
+            <unitdate datechar="creation" normal="1983/1983" type="inclusive">Mar 1983-Oct 1983</unitdate>
+            <container id="aspace_57e4aca1d7fa3ad97380e523ce4fbfa9" label="Mixed Materials [31142054628691]" type="Box">11</container>
+            <container id="aspace_25ca1eed6c92a2a81ba83cf04bd81a9a" parent="aspace_57e4aca1d7fa3ad97380e523ce4fbfa9" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>Diaries: Oct 1983-Nov 1983</unittitle>
+            <unitdate datechar="creation" normal="1983/1983" type="inclusive">Oct 1983-Nov 1983</unitdate>
+            <container id="aspace_51ec65ebc78aa5cb27de4b584d5cd7b6" label="Mixed Materials [31142054628691]" type="Box">11</container>
+            <container id="aspace_ed4ccad35af5cf97a5d2861e153329e3" parent="aspace_51ec65ebc78aa5cb27de4b584d5cd7b6" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref133" level="file">
+          <did>
+            <unittitle>Diaries: 1984</unittitle>
+            <unitdate datechar="creation" normal="1984/1984" type="inclusive">1984</unitdate>
+            <container id="aspace_ea67bcc86a6fd758accf90cf241c10ee" label="Mixed Materials [31142054628691]" type="Box">11</container>
+            <container id="aspace_ec5298d40f2e739c0deba80dfdc8e705" parent="aspace_ea67bcc86a6fd758accf90cf241c10ee" type="Folder">9-10</container>
+          </did>
+        </c>
+        <c id="aspace_ref134" level="file">
+          <did>
+            <unittitle>Diaries: Jan 1985-Apr 1985</unittitle>
+            <unitdate datechar="creation" normal="1985/1985" type="inclusive">Jan 1985-Apr 1985</unitdate>
+            <container id="aspace_15abe526e6173e3307fa1beb14ee59e4" label="Mixed Materials [31142054628691]" type="Box">11</container>
+            <container id="aspace_387bfb0e79d6c60e26f38f9db9de6f9f" parent="aspace_15abe526e6173e3307fa1beb14ee59e4" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>Diaries: May 1985-Sep 1985</unittitle>
+            <unitdate datechar="creation" normal="1985/1985" type="inclusive">May 1985-Sep 1985</unitdate>
+            <container id="aspace_530a28f6105edacdff8c99850b34a791" label="Mixed Materials [31142054628691]" type="Box">11</container>
+            <container id="aspace_dc1002ecc979de58690ab9966020df57" parent="aspace_530a28f6105edacdff8c99850b34a791" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref136" level="file">
+          <did>
+            <unittitle>Diaries: Oct 1985-Dec 1985</unittitle>
+            <unitdate datechar="creation" normal="1985/1985" type="inclusive">Oct 1985-Dec 1985</unitdate>
+            <container id="aspace_16e1e849a97a17dda7f605274569dd3b" label="Mixed Materials [31142054628691]" type="Box">11</container>
+            <container id="aspace_de8545c5bc1c1282adc6248da70d321e" parent="aspace_16e1e849a97a17dda7f605274569dd3b" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref137" level="file">
+          <did>
+            <unittitle>Diaries: Jan 1986-May 1986</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">Jan 1986-May 1986</unitdate>
+            <container id="aspace_acf6c324756085fcb89fc60b3abf6e8d" label="Mixed Materials [31142054628691]" type="Box">11</container>
+            <container id="aspace_80a48eb260324e0c4676d9ff1fc7d42d" parent="aspace_acf6c324756085fcb89fc60b3abf6e8d" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>Diaries: Jun 1986-Dec 1986</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">Jun 1986-Dec 1986</unitdate>
+            <container id="aspace_a2facb539b4726ad6a2f7082c49a01f4" label="Mixed Materials [31142054628709]" type="Box">12</container>
+            <container id="aspace_3bbf50acf9aa49411074c729abd782f1" parent="aspace_a2facb539b4726ad6a2f7082c49a01f4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref139" level="file">
+          <did>
+            <unittitle>Diaries: Sep 1986-Oct 1986</unittitle>
+            <unitdate datechar="creation" normal="1986/1986" type="inclusive">Sep 1986-Oct 1986</unitdate>
+            <container id="aspace_f2d28f95362ec0247cb254849af265bc" label="Mixed Materials [31142054628709]" type="Box">12</container>
+            <container id="aspace_a4877ab5e7cdb505679d731abf2af658" parent="aspace_f2d28f95362ec0247cb254849af265bc" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref140" level="file">
+          <did>
+            <unittitle>Diaries: Jan 1987-Apr 1987</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">Jan 1987-Apr 1987</unitdate>
+            <container id="aspace_b97ca75f7b12fc6fc1b888a059d9ab9c" label="Mixed Materials [31142054628709]" type="Box">12</container>
+            <container id="aspace_a2d3fc7f33104b4d1dc00860c1150c4e" parent="aspace_b97ca75f7b12fc6fc1b888a059d9ab9c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>Diaries: May 1987-Aug 1987</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">May 1987-Aug 1987</unitdate>
+            <container id="aspace_49abe3613427cfd7943bb82fb3dbb4af" label="Mixed Materials [31142054628709]" type="Box">12</container>
+            <container id="aspace_14247725f01819419af628ab0e0cd32b" parent="aspace_49abe3613427cfd7943bb82fb3dbb4af" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref142" level="file">
+          <did>
+            <unittitle>Diaries: Aug 1987-Sep 1987</unittitle>
+            <unitdate datechar="creation" normal="1987/1987" type="inclusive">Aug 1987-Sep 1987</unitdate>
+            <container id="aspace_48d2f52ef4da8e7237a7189d1fbe2524" label="Mixed Materials [31142054628709]" type="Box">12</container>
+            <container id="aspace_ae8fc8e8f906dfabedd09c70e112a6ac" parent="aspace_48d2f52ef4da8e7237a7189d1fbe2524" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref143" level="file">
+          <did>
+            <unittitle>Diaries: Sep 1987-Feb 1988</unittitle>
+            <unitdate datechar="creation" normal="1987/1988" type="inclusive">Sep 1987-Feb 1988</unitdate>
+            <container id="aspace_f433468f32329d0619d8fdfe263766c9" label="Mixed Materials [31142054628709]" type="Box">12</container>
+            <container id="aspace_d1659ca7d938a07b0e4dc46f7175a3f6" parent="aspace_f433468f32329d0619d8fdfe263766c9" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="file">
+          <did>
+            <unittitle>Diaries: Feb 1988-Apr 1988</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">Feb 1988-Apr 1988</unitdate>
+            <container id="aspace_624331c3f80c9f71675b44553ab157cd" label="Mixed Materials [31142054628709]" type="Box">12</container>
+            <container id="aspace_11a3ae76d5daf8fb96c130dbafd80235" parent="aspace_624331c3f80c9f71675b44553ab157cd" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref145" level="file">
+          <did>
+            <unittitle>Diaries: May 1988-Jul 1988</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">May 1988-Jul 1988</unitdate>
+            <container id="aspace_cd6fec272fd138f7353bbfa316edc436" label="Mixed Materials [31142054628709]" type="Box">12</container>
+            <container id="aspace_697328f1210e1862a393418fc4769cab" parent="aspace_cd6fec272fd138f7353bbfa316edc436" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref146" level="file">
+          <did>
+            <unittitle>Diaries: Jul 1988-Dec 1988</unittitle>
+            <unitdate datechar="creation" normal="1988/1988" type="inclusive">Jul 1988-Dec 1988</unitdate>
+            <container id="aspace_210d70550ec59dcbcc8d9bfcbf6b61e3" label="Mixed Materials [31142054628709]" type="Box">12</container>
+            <container id="aspace_40af110f5191b92751149dd74f5d3dfb" parent="aspace_210d70550ec59dcbcc8d9bfcbf6b61e3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="file">
+          <did>
+            <unittitle>Diaries: Nov 1988-Jan 1989</unittitle>
+            <unitdate datechar="creation" normal="1988/1989" type="inclusive">Nov 1988-Jan 1989</unitdate>
+            <container id="aspace_0d0d02586b0bd588ef8afdedb4149cf0" label="Mixed Materials [31142054628709]" type="Box">12</container>
+            <container id="aspace_75e2f34b69f1be340342c660f11ef43c" parent="aspace_0d0d02586b0bd588ef8afdedb4149cf0" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref148" level="file">
+          <did>
+            <unittitle>Diaries: Jan 1989-Aug 1989</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">Jan 1989-Aug 1989</unitdate>
+            <container id="aspace_70e01bfce9ceecdb34a7e7bfd0117e07" label="Mixed Materials [31142054628709]" type="Box">12</container>
+            <container id="aspace_b37c2f2fb39aedc5b3daa0e15d0ed163" parent="aspace_70e01bfce9ceecdb34a7e7bfd0117e07" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref149" level="file">
+          <did>
+            <unittitle>Diaries: Sep 1989-Dec 1989</unittitle>
+            <unitdate datechar="creation" normal="1989/1989" type="inclusive">Sep 1989-Dec 1989</unitdate>
+            <container id="aspace_acd7926129d65188430ac2a6a4788203" label="Mixed Materials [31142054628709]" type="Box">12</container>
+            <container id="aspace_42c59db5ee2b9bb32d9ed585bd943417" parent="aspace_acd7926129d65188430ac2a6a4788203" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="file">
+          <did>
+            <unittitle>Diaries: Jan 1990-May 1990</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">Jan 1990-May 1990</unitdate>
+            <container id="aspace_6c0e6d0a6b823db876e2ae083339d8de" label="Mixed Materials [31142054628709]" type="Box">12</container>
+            <container id="aspace_4b8b6551a8d6e31fe9824432ac4c8459" parent="aspace_6c0e6d0a6b823db876e2ae083339d8de" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref151" level="file">
+          <did>
+            <unittitle>Diaries: May 1990-Jun 1990 (Greece)</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">May 1990-Jun 1990</unitdate>
+            <container id="aspace_7ffc63f5b2431fec128c981de7150198" label="Mixed Materials [31142054628709]" type="Box">12</container>
+            <container id="aspace_19e15289b8c0f7776c94b4f7ceb9fccd" parent="aspace_7ffc63f5b2431fec128c981de7150198" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref152" level="file">
+          <did>
+            <unittitle>Diaries: Jun 1990</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">Jun 1990</unitdate>
+            <container id="aspace_a8c3f17b6c59546c1f5ae16bac8579c4" label="Mixed Materials [31142054628717]" type="Box">13</container>
+            <container id="aspace_3d1699c7fbf791536a3e6cd26137e0e2" parent="aspace_a8c3f17b6c59546c1f5ae16bac8579c4" type="Folder">1-2</container>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="file">
+          <did>
+            <unittitle>Diaries: Jul 1990-Sep 1990</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">Jul 1990-Sep 1990</unitdate>
+            <container id="aspace_546660ca84c62ee26735ab451b35676f" label="Mixed Materials [31142054628717]" type="Box">13</container>
+            <container id="aspace_22f288cc77d0d28b09735e7af7cc40ce" parent="aspace_546660ca84c62ee26735ab451b35676f" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref154" level="file">
+          <did>
+            <unittitle>Diaries: Oct 1990-Dec 1990</unittitle>
+            <unitdate datechar="creation" normal="1990/1990" type="inclusive">Oct 1990-Dec 1990</unitdate>
+            <container id="aspace_87a9626f8feac283f2ef04446096c465" label="Mixed Materials [31142054628717]" type="Box">13</container>
+            <container id="aspace_fa2e32db86aebcd1ea18cdface2dd2cf" parent="aspace_87a9626f8feac283f2ef04446096c465" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref155" level="file">
+          <did>
+            <unittitle>Diaries: Jan 1991-May 1991</unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">Jan 1991-May 1991</unitdate>
+            <container id="aspace_76e2e89f9b88568cf7d5dd9e463a4a08" label="Mixed Materials [31142054628717]" type="Box">13</container>
+            <container id="aspace_3d59567bb4853988039af700a26640e0" parent="aspace_76e2e89f9b88568cf7d5dd9e463a4a08" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="file">
+          <did>
+            <unittitle>Diaries: May 1991-Sep 1991</unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">May 1991-Sep 1991</unitdate>
+            <container id="aspace_f1c5a6110d0c2808fe692ad35acdc789" label="Mixed Materials [31142054628717]" type="Box">13</container>
+            <container id="aspace_8cf115961842478cb8ee23df23529a99" parent="aspace_f1c5a6110d0c2808fe692ad35acdc789" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref157" level="file">
+          <did>
+            <unittitle>Diaries: Oct 1991-Dec 1991</unittitle>
+            <unitdate datechar="creation" normal="1991/1991" type="inclusive">Oct 1991-Dec 1991</unitdate>
+            <container id="aspace_e7398160d7cdee240853ba5d2acd6d00" label="Mixed Materials [31142054628717]" type="Box">13</container>
+            <container id="aspace_d1a332e8e95a156de75a0463503754db" parent="aspace_e7398160d7cdee240853ba5d2acd6d00" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref158" level="file">
+          <did>
+            <unittitle>Diaries: Jan 1992-Mar 1992</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">Jan 1992-Mar 1992</unitdate>
+            <container id="aspace_8ed2426d8b6b6de0cc69397dfa973f50" label="Mixed Materials [31142054628717]" type="Box">13</container>
+            <container id="aspace_e626ebe2f074857391178a6d527dfb5b" parent="aspace_8ed2426d8b6b6de0cc69397dfa973f50" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref159" level="file">
+          <did>
+            <unittitle>Diaries: Jun 1992-Nov 1992</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">Jun 1992-Nov 1992</unitdate>
+            <container id="aspace_d49d9156201e41cf6f11e96184d41ba0" label="Mixed Materials [31142054628717]" type="Box">13</container>
+            <container id="aspace_6716362feb1a6aaec48752125a9e1750" parent="aspace_d49d9156201e41cf6f11e96184d41ba0" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref160" level="file">
+          <did>
+            <unittitle>Diaries: Nov 1992-Dec 1992 (South Pacific)</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">Nov 1992-Dec 1992</unitdate>
+            <container id="aspace_2ee746470098e9137ac06e8a43570c0d" label="Mixed Materials [31142054628717]" type="Box">13</container>
+            <container id="aspace_e3674c6568378e21bd2ff55646228a2a" parent="aspace_2ee746470098e9137ac06e8a43570c0d" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref161" level="file">
+          <did>
+            <unittitle>Diaries: Dec 1992</unittitle>
+            <unitdate datechar="creation" normal="1992/1992" type="inclusive">Dec 1992</unitdate>
+            <container id="aspace_edec218e20368d5d72854872e32f5d78" label="Mixed Materials [31142054628717]" type="Box">13</container>
+            <container id="aspace_f9fb2bc930fc4b4f2d85f2587c2b89a4" parent="aspace_edec218e20368d5d72854872e32f5d78" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="file">
+          <did>
+            <unittitle>Diaries: Dec 1992-Jan 1993 (South Pacific)</unittitle>
+            <unitdate datechar="creation" normal="1992/1993" type="inclusive">Dec 1992-Jan 1993</unitdate>
+            <container id="aspace_1954572f02a6dbb85b8a263f8d1a8f79" label="Mixed Materials [31142054628717]" type="Box">13</container>
+            <container id="aspace_7b344293000e99e87c033df20744ee38" parent="aspace_1954572f02a6dbb85b8a263f8d1a8f79" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref163" level="file">
+          <did>
+            <unittitle>Diaries: Jan 1993-Jun 1993</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">Jan 1993-Jun 1993</unitdate>
+            <container id="aspace_a0af77210fa7f524820252f412fc09df" label="Mixed Materials [31142054628717]" type="Box">13</container>
+            <container id="aspace_346004524ee0a5f3dff28763ae7bb952" parent="aspace_a0af77210fa7f524820252f412fc09df" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref164" level="file">
+          <did>
+            <unittitle>Diaries: Jul 1993-Dec 1993</unittitle>
+            <unitdate datechar="creation" normal="1993/1993" type="inclusive">Jul 1993-Dec 1993</unitdate>
+            <container id="aspace_ff60c144b2076a26c5986a5b2dafe3db" label="Mixed Materials [31142054628717]" type="Box">13</container>
+            <container id="aspace_2c7ee0c49f02c5bedcee1df32f7ec1b8" parent="aspace_ff60c144b2076a26c5986a5b2dafe3db" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref165" level="file">
+          <did>
+            <unittitle>Diaries: Jan 1994-Jun 1994</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">Jan 1994-Jun 1994</unitdate>
+            <container id="aspace_19206594bdbdb47bc2751d7e7400bf28" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_512fee2736d311d80b0fe241511d56ed" parent="aspace_19206594bdbdb47bc2751d7e7400bf28" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref166" level="file">
+          <did>
+            <unittitle>Diaries: Jun 1994-Aug 1994</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">Jun 1994-Aug 1994</unitdate>
+            <container id="aspace_0522a20cff042ccc12b4806ec2738333" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_126d78d9bc15c0301dc748559f16871f" parent="aspace_0522a20cff042ccc12b4806ec2738333" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref167" level="file">
+          <did>
+            <unittitle>Diaries: Sep 1994-Dec 1994</unittitle>
+            <unitdate datechar="creation" normal="1994/1994" type="inclusive">Sep 1994-Dec 1994</unitdate>
+            <container id="aspace_d114fdf6bdfa184cc3474f7e2e328964" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_9627071722eeef9e0412b7996bc1aab2" parent="aspace_d114fdf6bdfa184cc3474f7e2e328964" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref168" level="file">
+          <did>
+            <unittitle>Diaries: Jan 1995-Jun 1995</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">Jan 1995-Jun 1995</unitdate>
+            <container id="aspace_3fb141c1522a6a12147612e2f6b83f2c" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_4b13f295dd2ff991eb0e8c66a058a51a" parent="aspace_3fb141c1522a6a12147612e2f6b83f2c" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref169" level="file">
+          <did>
+            <unittitle>Dockrell, Maurice</unittitle>
+            <unitdate datechar="creation" normal="1960/1968" type="inclusive">1960-1968</unitdate>
+            <container id="aspace_4078cb5e7af6d3c63e3b6e31c7247041" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_5cad2c8a375242e807d1f22338aa2ed1" parent="aspace_4078cb5e7af6d3c63e3b6e31c7247041" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref170" level="file">
+          <did>
+            <unittitle>Feis Scrapbook</unittitle>
+            <unitdate datechar="creation" normal="1950/1953" type="inclusive">1950-1953</unitdate>
+            <container id="aspace_c8b811216640ea75358947d563f30d08" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_1d75bdf4f67bdc2ddc729f4ea63a9546" parent="aspace_c8b811216640ea75358947d563f30d08" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref171" level="file">
+          <did>
+            <unittitle>Genealogy: Grey Family Documentation</unittitle>
+            <unitdate datechar="creation" normal="1964/1987" type="inclusive">1964-1987</unitdate>
+            <container id="aspace_ddf7422361068e894e83085cb5221f04" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_21d7ae6604197bb4111d18d97028c0d3" parent="aspace_ddf7422361068e894e83085cb5221f04" type="Folder">7-10</container>
+          </did>
+        </c>
+        <c id="aspace_ref172" level="file">
+          <did>
+            <unittitle>Genealogy: Immigration Documents</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">Sep 1960</unitdate>
+            <container id="aspace_0bd212ae10c453253baec1b3ed509b45" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_fc3bf872b727279ca052bc75a760728e" parent="aspace_0bd212ae10c453253baec1b3ed509b45" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref173" level="file">
+          <did>
+            <unittitle>Genealogy: Leo O'Brien Marriage</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container id="aspace_fb226a9c1eb1c0df0472c99c519aab0b" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_5fae0a3399f89e147aa641b22edc2a6b" parent="aspace_fb226a9c1eb1c0df0472c99c519aab0b" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref174" level="file">
+          <did>
+            <unittitle>Lady Gregory</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_99a4b1db3c97ddd6ce534778bf3102cc" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_510d248be90b8b06acf3a9827ff1d78e" parent="aspace_99a4b1db3c97ddd6ce534778bf3102cc" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref175" level="file">
+          <did>
+            <unittitle>Howth Castle Research</unittitle>
+            <unitdate datechar="creation" normal="1985/1985" type="inclusive">May 1985</unitdate>
+            <container id="aspace_0ad02c2aea627afaf4ef7b5199b9d426" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_aaa6e2264bf231d34abccf1717425403" parent="aspace_0ad02c2aea627afaf4ef7b5199b9d426" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref176" level="file">
+          <did>
+            <unittitle>Irish American Organizations</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_ac73829974eeb83062216715e5dbb1f3" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_93fad45604fa0c4bd2934c2a921f1fa4" parent="aspace_ac73829974eeb83062216715e5dbb1f3" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref177" level="file">
+          <did>
+            <unittitle>Journal of Books Read</unittitle>
+            <unitdate datechar="creation" normal="1953/2003" type="inclusive">1953-2003</unitdate>
+            <container id="aspace_ef15ae843f4408f85bd3c447e3f4fdcb" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_bf9894484796201ed70df34a7f19ccb4" parent="aspace_ef15ae843f4408f85bd3c447e3f4fdcb" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref178" level="file">
+          <did>
+            <unittitle>Joyce, James</unittitle>
+            <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982, undated</unitdate>
+            <container id="aspace_5a1b78b57713041378a4c4ff74b7e5d8" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_21944059050cb6beea77fe2c80c57794" parent="aspace_5a1b78b57713041378a4c4ff74b7e5d8" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref179" level="file">
+          <did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1988/1997" type="inclusive">1988-1997</unitdate>
+            <container id="aspace_c115b884a1f23e0ebf007bbeb1e4e385" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_991dff46adafd5dfdbaa6d966a13b842" parent="aspace_c115b884a1f23e0ebf007bbeb1e4e385" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref180" level="file">
+          <did>
+            <unittitle>Obituaries</unittitle>
+            <unitdate datechar="creation" normal="1991/2006" type="inclusive">1991-2006</unitdate>
+            <container id="aspace_2c4736c8120b9b1389e1fd1b9f731adf" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_9ff4eeaaa7d6630c681a03f97d2c2014" parent="aspace_2c4736c8120b9b1389e1fd1b9f731adf" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref181" level="file">
+          <did>
+            <unittitle>O'Casey, Sean</unittitle>
+            <unitdate datechar="creation" normal="1977/1997" type="inclusive">1977-1997</unitdate>
+            <container id="aspace_c107a6a134c47b3f3e6abc0818fce155" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_a0eb85b762fe88cd39f60ed48dc6d06f" parent="aspace_c107a6a134c47b3f3e6abc0818fce155" type="Folder">20-21</container>
+          </did>
+        </c>
+        <c id="aspace_ref182" level="file">
+          <did>
+            <unittitle>O'Neill, Moira</unittitle>
+            <unitdate datechar="creation" normal="1971/1973" type="inclusive">1971-1973</unitdate>
+            <container id="aspace_bfa905b8bd2eee409e21fe2be1da13ea" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_ec7f96fce5261008a80105c131c683c0" parent="aspace_bfa905b8bd2eee409e21fe2be1da13ea" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref183" level="file">
+          <did>
+            <unittitle>Photographs: Personal</unittitle>
+            <unitdate datechar="creation" normal="1946/1966" type="inclusive">1946-1966</unitdate>
+            <container id="aspace_164351f902d0b0fd4e2f9d1fecbe4e38" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_7f817996ffc937b789a0b67af4f4a3a0" parent="aspace_164351f902d0b0fd4e2f9d1fecbe4e38" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref184" level="file">
+          <did>
+            <unittitle>Photographs: Personal</unittitle>
+            <unitdate datechar="creation" normal="1944/1984" type="inclusive">1944-1984</unitdate>
+            <container id="aspace_6b5d5861c959db195f83591bc8738a87" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_bb1a58f0cc05929dfbdcedbbb88c62a3" parent="aspace_6b5d5861c959db195f83591bc8738a87" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref185" level="file">
+          <did>
+            <unittitle>Photographs: Personal</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_c65a0ef8cb8acfd0030b39734f036ace" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_a4a274878b7d0d1e887ad4b3d741ccc4" parent="aspace_c65a0ef8cb8acfd0030b39734f036ace" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref186" level="file">
+          <did>
+            <unittitle>Photographs: Personal</unittitle>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_d36d99d824bad69489daaca2ac2a17a0" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_4ff75efbbd8e244ad0274c185c6afebe" parent="aspace_d36d99d824bad69489daaca2ac2a17a0" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref187" level="file">
+          <did>
+            <unittitle>Photographs: Personal</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_6570d3077b4651176534f3810506108c" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_77684cf255a7fe900e7436a351c2d4bd" parent="aspace_6570d3077b4651176534f3810506108c" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref188" level="file">
+          <did>
+            <unittitle>Photographs: Personal</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_51f4a1f659c42e2f2970d58ae4700cd2" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_1d25c5a4df312e866cb6b6719d83668a" parent="aspace_51f4a1f659c42e2f2970d58ae4700cd2" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref190" level="file">
+          <did>
+            <unittitle>Photographs: Personal (Dios Class)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_73d7de09bf711c6050b0a15881b1775b" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_acdd2cc1f25aa76c15619493a5fa1cf1" parent="aspace_73d7de09bf711c6050b0a15881b1775b" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref189" level="file">
+          <did>
+            <unittitle>Photographs: Personal (Florida and Caribbean)</unittitle>
+            <unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate>
+            <container id="aspace_fa9a3ccc41b8497a3bf89177003780aa" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_e07f8e0696381f537e7ccf48b26d9517" parent="aspace_fa9a3ccc41b8497a3bf89177003780aa" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref191" level="file">
+          <did>
+            <unittitle>Photographs: Personal (Vacations)</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960, undated</unitdate>
+            <container id="aspace_fd5b1143f639ac5c4899ce6fcba9da8b" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_e20be1e4b2dcac1f40ed9fdd31d6e2f2" parent="aspace_fd5b1143f639ac5c4899ce6fcba9da8b" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref192" level="file">
+          <did>
+            <unittitle>Photographs: Photo Album</unittitle>
+            <unitdate datechar="creation" normal="1940/1948" type="inclusive">1940-1948</unitdate>
+            <container id="aspace_f4c2e6a947b7edacdde48d6184e75c0c" label="Mixed Materials [31142054628725]" type="Box">14</container>
+            <container id="aspace_83f9ad88dd959e3e965103309108fc22" parent="aspace_f4c2e6a947b7edacdde48d6184e75c0c" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref193" level="file">
+          <did>
+            <unittitle>Photographs: Photo Album</unittitle>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_0028bdc3dd7265fe2c949b358b8f80de" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_666479c6d4d1c31807c99dc27ccee385" parent="aspace_0028bdc3dd7265fe2c949b358b8f80de" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref194" level="file">
+          <did>
+            <unittitle>Photographs: Photo Albums</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_12d6c26a35510e6d99e46a90f748ac87" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_c3327788ef2f4d998fdc8e439030e7d0" parent="aspace_12d6c26a35510e6d99e46a90f748ac87" type="Folder">2-5</container>
+          </did>
+        </c>
+        <c id="aspace_ref195" level="file">
+          <did>
+            <unittitle>Political Affiliations and Opinions</unittitle>
+            <unitdate datechar="creation" normal="2003/2005" type="inclusive">2003-2005</unitdate>
+            <container id="aspace_f4d935f8bd5abf87f45d0998ac003dc7" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_b8d65e4c6d72de9bf686e924be2a50b2" parent="aspace_f4d935f8bd5abf87f45d0998ac003dc7" type="Folder">6-7</container>
+          </did>
+        </c>
+        <c id="aspace_ref196" level="file">
+          <did>
+            <unittitle>"Song Tour of Ireland"</unittitle>
+            <unitdate datechar="creation" normal="1955/1957" type="inclusive">1955-1957</unitdate>
+            <container id="aspace_be8248a1c551156d21a8aa213d996548" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_0e41afb943bd017b24ff4c0ad055731c" parent="aspace_be8248a1c551156d21a8aa213d996548" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref197" level="file">
+          <did>
+            <unittitle>Sugihara, Yukiko</unittitle>
+            <unitdate datechar="creation" normal="1995/1995" type="inclusive">1995</unitdate>
+            <container id="aspace_34c936cb8381c297ef5aac071e27905f" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_e69ba63d16048f6879e98986682ed75d" parent="aspace_34c936cb8381c297ef5aac071e27905f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref198" level="file">
+          <did>
+            <unittitle>Tree Planting for Kitty O'Callaghan</unittitle>
+            <unitdate datechar="creation" normal="1986/1987" type="inclusive">1986-1987</unitdate>
+            <container id="aspace_f2ffd0b84e101daaeda5c7558efbfc12" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_66d129712355c445e92652c173109bde" parent="aspace_f2ffd0b84e101daaeda5c7558efbfc12" type="Folder">10-11</container>
+          </did>
+        </c>
+        <c id="aspace_ref199" level="file">
+          <did>
+            <unittitle>Val Vousden Recitations</unittitle>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">circa 1945</unitdate>
+            <container id="aspace_01d68d0d11e1c88470586b0c0f4aac1a" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_d1939d1717f8db6bd691aa96a57a8590" parent="aspace_01d68d0d11e1c88470586b0c0f4aac1a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref200" level="file">
+          <did>
+            <unittitle>Yeats, William Butler</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">Apr 1975</unitdate>
+            <container id="aspace_6a025902a473c4dbe7fa3c4818f85479" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_29b25c5672ef528f367774dc6e96550d" parent="aspace_6a025902a473c4dbe7fa3c4818f85479" type="Folder">13</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref201" level="series">
+        <did>
+          <unittitle>Series III. Original Writings</unittitle>
+          <unitdate datechar="creation" normal="1960/1987" type="inclusive">1960-1987</unitdate>
+        </did>
+        <scopecontent id="aspace_cd5a18cf586de918c8fd344d2bbec9de">
+          <head>Scope and Content Note</head>
+          <p>This series consists of research notes, drafts, typescripts, and published versions of O'Brien's articles, poetry, and short stories.</p>
+        </scopecontent>
+        <c id="aspace_ref202" level="file">
+          <did>
+            <unittitle>Article on Dublin</unittitle>
+            <unitdate datechar="creation" normal="1973/1987" type="inclusive">1973-1987</unitdate>
+            <container id="aspace_8d87e692611791ac8884bf5fbfe163b1" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_b21a3decdda697620f922d1b6301d8cf" parent="aspace_8d87e692611791ac8884bf5fbfe163b1" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref203" level="file">
+          <did>
+            <unittitle>Article on Sean O'Casey</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_fc95ccda38172cf5c8b21a98d4a6aeeb" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_755c512d4d9af8842505b54aebbb635b" parent="aspace_fc95ccda38172cf5c8b21a98d4a6aeeb" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref204" level="file">
+          <did>
+            <unittitle>Articles (Published)</unittitle>
+            <unitdate datechar="creation" normal="1960/1970" type="inclusive">1960-1970</unitdate>
+            <container id="aspace_c91c7cf12853e60042ab361683e3b2f7" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_28eb0d2326884b24667c0c183bfc4e09" parent="aspace_c91c7cf12853e60042ab361683e3b2f7" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref205" level="file">
+          <did>
+            <unittitle>Creative Writing Class</unittitle>
+            <unitdate datechar="creation" normal="1985/1985" type="inclusive">Feb 1985-Mar 1985</unitdate>
+            <container id="aspace_5494b47ee6a0bcf93b53efee75da2b31" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_0711989008d148696a03639ec400ee41" parent="aspace_5494b47ee6a0bcf93b53efee75da2b31" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref206" level="file">
+          <did>
+            <unittitle>Early Drafts</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_63419a85a4b8c05e186784d5c1fd2e10" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_9c812fb90a4c51575e4e4d0afcacdeca" parent="aspace_63419a85a4b8c05e186784d5c1fd2e10" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref207" level="file">
+          <did>
+            <unittitle>"Kate and the Spider"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_321d2fa8be1e52896fa802eca5df2acf" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_275d1fee0b8f121d306ed71894343479" parent="aspace_321d2fa8be1e52896fa802eca5df2acf" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref208" level="file">
+          <did>
+            <unittitle>"Music"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_de6052152836ce45a92fd935c5bd825b" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_02e0024b3c26f943f1490794758dee69" parent="aspace_de6052152836ce45a92fd935c5bd825b" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref209" level="file">
+          <did>
+            <unittitle>Poetry: General</unittitle>
+            <unitdate datechar="creation" normal="1985/1987" type="inclusive">1985-1987</unitdate>
+            <container id="aspace_28f4f6f704aa719f8a75bc5fee65c717" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_3a7f6960263f7ea805c7616a0f71d60a" parent="aspace_28f4f6f704aa719f8a75bc5fee65c717" type="Folder">21-23</container>
+          </did>
+        </c>
+        <c id="aspace_ref210" level="file">
+          <did>
+            <unittitle>Poetry: Published</unittitle>
+            <unitdate datechar="creation" normal="1985/2001" type="inclusive">1985-2001</unitdate>
+            <container id="aspace_1b155203c868aaefc3e3305c35a2d203" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_0a7532cdb50104028c26055095dd6d05" parent="aspace_1b155203c868aaefc3e3305c35a2d203" type="Folder">24-26</container>
+          </did>
+        </c>
+        <c id="aspace_ref211" level="file">
+          <did>
+            <unittitle>Publication Acceptances</unittitle>
+            <unitdate datechar="creation" normal="1984/1986" type="inclusive">1984-1986</unitdate>
+            <container id="aspace_4198058dcd99adbb7987044bc2357188" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_2e7f166bf225b917088d6e1eebec9036" parent="aspace_4198058dcd99adbb7987044bc2357188" type="Folder">27-28</container>
+          </did>
+        </c>
+        <c id="aspace_ref212" level="file">
+          <did>
+            <unittitle>Short Stories</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_19533bd63e886a3dcd6bf44447379b08" label="Mixed Materials [31142054628741]" type="Box">16</container>
+            <container id="aspace_4b22f6d71db867c2cf12d25f05309c66" parent="aspace_19533bd63e886a3dcd6bf44447379b08" type="Folder">1-3</container>
+            <container id="aspace_d151a05b4aae574d15d0dff2ac8d5aab" label="Mixed Materials [31142054628733]" type="Box">15</container>
+            <container id="aspace_ba0cfc0e4622b3ac6a27d3e9a76cb37f" parent="aspace_d151a05b4aae574d15d0dff2ac8d5aab" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref213" level="file">
+          <did>
+            <unittitle>"Speaking"</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container id="aspace_677090d3813a78c70dd45a1171f5bf44" label="Mixed Materials [31142054628741]" type="Box">16</container>
+            <container id="aspace_d899b815ad25ce856a8f1f3ae54014ff" parent="aspace_677090d3813a78c70dd45a1171f5bf44" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref214" level="file">
+          <did>
+            <unittitle>"Vacancy" (Short Story Version)</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_d30cfda6570f5bfdcc19c030e3997fa9" label="Mixed Materials [31142054628741]" type="Box">16</container>
+            <container id="aspace_3d32fb15ff179c71d3f5223538b09edc" parent="aspace_d30cfda6570f5bfdcc19c030e3997fa9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref215" level="file">
+          <did>
+            <unittitle>"Vacancy" (Teleplay Version)</unittitle>
+            <unitdate datechar="creation" normal="1974/1976" type="inclusive">1974-1976</unitdate>
+            <container id="aspace_df51ce66d927bc49ac6f88d41871d29e" label="Mixed Materials [31142054628741]" type="Box">16</container>
+            <container id="aspace_455c3276bb6581228ea92aadc450b0a5" parent="aspace_df51ce66d927bc49ac6f88d41871d29e" type="Folder">6-7</container>
+          </did>
+        </c>
+        <c id="aspace_ref216" level="file">
+          <did>
+            <unittitle>Writings in Progress</unittitle>
+            <unitdate datechar="creation" normal="1979/1979" type="inclusive">1979, undated</unitdate>
+            <container id="aspace_ea12871efc44025d2ead2abc1d4f8268" label="Mixed Materials [31142054628741]" type="Box">16</container>
+            <container id="aspace_e0d3635f2726d666e9413b1ff51f0da0" parent="aspace_ea12871efc44025d2ead2abc1d4f8268" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_00e8dad98ff4826a0a259ab335270a65" level="series">
+        <did>
+          <unittitle>Unprocessed</unittitle>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_4be1bb4d2210c87e7ee798cd5ddddf33" label="Mixed Materials [31142063119187]" type="Box">20</container>
+          <container altrender="OS Flat Box - 15x19x3" id="aspace_c4b3fadbd6c2697fe2cab79a3bb27383" label="Mixed Materials [31142063119195]" type="Box">21</container>
+          <container altrender="Record carton" id="aspace_b56d51020f6e2af1fcd20a7c47bced08" label="Mixed Materials [31142063119229]" type="Box">17</container>
+          <container altrender="Manuscript box - Legal" id="aspace_e1d6c26271d1090f05501b3e8e4ae5ea" label="Mixed Materials [31142063119211]" type="Box">18</container>
+          <container altrender="Manuscript box - Legal" id="aspace_598f0a1d492c51f2a8a645f31ee2b775" label="Mixed Materials [31142063119203]" type="Box">19</container>
+          <container altrender="OS Flat Box - 32 x 23.5" id="aspace_1b11cf13f968f1d26d90c1600924da7c" label="Mixed Materials [31142063130739]" type="Box">22</container>
+          <container altrender="Oversize Folder - 21 x 27.5" id="aspace_7544816d967484255a7f0a7b2c3988a4" label="Mixed Materials [31142067155039]" type="Box">23</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

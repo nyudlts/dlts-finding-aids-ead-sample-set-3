@@ -1,0 +1,2635 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unprocessed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_123">mc_123</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Papers of Jules Backman <lb/><date>1938-1975 </date><lb/> <num>MC.123</num></titleproper>
+        <author>Megan Findling</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 19:57:28 -0400</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Jules Backman Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Backman, Jules, 1910-1982</persname>
+      </origination>
+      <unitid>MC.123</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">10 Linear Feet</extent>
+        <extent altrender="carrier">(10 boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1938/1975" type="inclusive">1938-1975</unitdate>
+      <physloc id="aspace_aac825dd8256873dde89d562fcc23890">Materials are stored offsite, and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <abstract id="aspace_4951e3f6f58833bd0ae6e82bfc3e0852">This collection includes the personal files of Jules Backman, nationally known economist and expert on prices, accumulated during his tenure on the faculties of the School of Commerce, College of Business and Public Administration, and Graduate School of Business Administration (now the Stern School of Business). The records include lecture notes, working files, syllabi, and correspondence.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <scopecontent id="aspace_1af6600d5dc2c78ff23e5c69ecb53f30">
+      <head>Scope and Content Note</head>
+      <p>This collection includes the personal files of Jules Backman. Records include lecture notes, working files, syllabi, and correspondence.</p>
+    </scopecontent>
+    <bioghist id="aspace_a5fe1b085220a1a996b309daac333acf">
+      <head>Historical/Biographical Note</head>
+      <p>Jules Backman, economist, author, and educator, was born in New York, NY on May 3, 1910. After attending high school in Brooklyn, he enrolled in NYU, where he would earn four degrees -- Bachelor of Commercial Science (1931), Master of Arts from the School of Education (1932), Master of Business Administration (1933), and Doctor of Commercial Science (1935). Three years after earning his PhD, Backman became an instructor in economics at NYU. He continued to serve on the faculties of the School of Commerce/College of Business Administration (now the Leonard N. Stern School of Business) from 1938 to 1975. As Professor Emeritus he continued to teach in an adjunct capacity.</p>
+      <p>Backman served as a consultant to major trade associations and corporations, particularly in steel, railroads, and retailing. He published widely on the subject of pricing. His books include <title render="italic">Adventures in Price Fixing</title> (1936), <title render="italic">Administered Prices</title> (1957), and <title render="italic">Entrepreneurship and the Outlook for America</title> (published posthumously in 1983).</p>
+      <p>Backman was also an active participant in the public sector. In 1935, President Franklin D. Roosevelt named him to the Securities and Exchange Commission. He worked in the Office of Price Administration in the early 1940s and was an adviser to the President's Cost of Living Committee. Subsequently, he served on state and local advisory groups, including the Governor's Commission on Milk Marketing, the New York Joint Legislative Committee on Rents, and as consultant to the U.S. General Accounting Office and the New Jersey Rate Counsel.</p>
+      <p>The founding president of the New York University Club, Backman made major contributions to NYU for both scholarships and capital improvements. He was active in Jewish community service as chairman of the Reform Jewish Appeal from 1966 to 1969 and chairman of the Board of Governors of Hebrew Union College/Jewish Institute of Religion from 1976 until his death in 1982.</p>
+      <p> Sources: </p>
+      <p>
+        <list>
+          <item>Backman, Jules, Biographical File, NYU Archives</item>
+        </list>
+      </p>
+    </bioghist>
+    <prefercite id="aspace_06afb8c2929761704613d4e1f9b7c163">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: Identification of item, date (if known); Jules Backman Papers; MC 123; box number; folder number; New York University Archives, New York University Libraries.</p>
+    </prefercite>
+    <userestrict id="aspace_7106485ae3a9a290a18f8f3052a6c382">
+      <head>Use Restrictions</head>
+      <p>Any rights (including copyright and related rights to publicity and privacy) held by the donor are maintained by New York University. Permission to publish or reproduce materials in this collection must be secured from repository. Please contact University Archives, (212) 998-2641, university-archives@nyu.edu.</p>
+    </userestrict>
+    <accessrestrict id="aspace_7f2b294d3d0847bb0fafc9851df639da">
+      <head>Access Restrictions</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <custodhist id="aspace_4c4dab8dac5fdc3c8c5aaae652bb5a1b">
+      <head>Provenance</head>
+      <p>The collection was transferred to the University Archives in 1992 by Barbara Ring, Office of the Dean, Stern School of Business.</p>
+    </custodhist>
+    <controlaccess>
+      <geogname source="lcsh">United States |x Economic policy.</geogname>
+      <subject source="lcsh">Pricing.</subject>
+      <genreform source="aat">Speeches.</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Advertising -- United States.</subject>
+      <genreform source="aat">Syllabi.</genreform>
+      <persname source="naf">Backman, Jules, 1910-1982</persname>
+      <corpname source="naf">New York University. School of Commerce, Accounts, and Finance</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref20" level="series">
+        <did>
+          <unittitle>Series I: Topical Files</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Acknowledgements, A-C</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_1090b041a0fcb9b5aa9b87144e79ddb1" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_6765802525b5c3bd28196fd95aacc705" parent="aspace_1090b041a0fcb9b5aa9b87144e79ddb1" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Advertising</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_3a57e19f82b53b287214668b53468b7c" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_ab1e5e87c19281b5a30cde9fce5cb6e0" parent="aspace_3a57e19f82b53b287214668b53468b7c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Administered Prices</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_300b43907d23447737233ae61401c840" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_c6794c0d61625d857d74127ad7066993" parent="aspace_300b43907d23447737233ae61401c840" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Antitrust</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_9e0ae83e268c01083ddbbb702c19c29f" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_b2040aeb04a5e695cd36599316ff8e1e" parent="aspace_9e0ae83e268c01083ddbbb702c19c29f" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Antitrust</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_eca9cbdaab4f5c6501c38566bef53b07" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_6b1327ada79c4dcb881357bff169eb7d" parent="aspace_eca9cbdaab4f5c6501c38566bef53b07" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Submission Data</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_9c1ee7b395852b5831e78676bfa7b0c3" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_de798f4521c2c6e11c9066cd7447924b" parent="aspace_9c1ee7b395852b5831e78676bfa7b0c3" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Balance of Payments</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_39540cdeb1179e8ab069dd373a49a9fd" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_4c9d199041756e007bfa379545ef0f08" parent="aspace_39540cdeb1179e8ab069dd373a49a9fd" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Budgets</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_50bff74885c165b0387d66ac0a3dbeef" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_b8460c7660fc9fe2592a20ca30f166ee" parent="aspace_50bff74885c165b0387d66ac0a3dbeef" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Budgets 2</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_7953b87357bfab90cc86288fec4b72bb" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_58c7494cd240c679c9e84ecab382cd32" parent="aspace_7953b87357bfab90cc86288fec4b72bb" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Carpetwage Case</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_2d949911fdc7521785671ba9e0f4162c" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_38d21873496231d1cf96312cfb37ee87" parent="aspace_2d949911fdc7521785671ba9e0f4162c" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Columbia University, Arden House, Conferences</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_ac1e8a3f45127432967e84cbd91a1a7f" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_d6f2eb4f49427efaf098da92601c0143" parent="aspace_ac1e8a3f45127432967e84cbd91a1a7f" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Commendatory Letters</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_8e1b18b51d3768397029dab9794fab96" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_4667b830896a12b72f3acb3add940a6b" parent="aspace_8e1b18b51d3768397029dab9794fab96" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Commendatory Letters</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_bdeda58aa98c40d58f909f0f6c9f4103" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_531a8cbe1783cf8eb9210f5df052afd1" parent="aspace_bdeda58aa98c40d58f909f0f6c9f4103" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Commendatory Letters</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_75c7855de7e69601b9e9409068c60169" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_54883d3db780f100d87b4e8f2d1f2279" parent="aspace_75c7855de7e69601b9e9409068c60169" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Common Market</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_98a6fa0eb5e5d3935b423f3815231aad" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_a40aa650a4af7434b68755e21924c5cd" parent="aspace_98a6fa0eb5e5d3935b423f3815231aad" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Conglomerates</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_5e88fcc1e5b820e826166cb75b0eb12a" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_fd3a6f7869ed18c34f094f00d10b23aa" parent="aspace_5e88fcc1e5b820e826166cb75b0eb12a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Economics of NY State/Full Crew Laws</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_16a1e2eed2176ed6b22c68dec84f8bdc" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_2b2af6c4d53bfff7b18dd9e2f4c40453" parent="aspace_16a1e2eed2176ed6b22c68dec84f8bdc" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Frozen Food</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_1855fbf23928053d362812a71a1f915d" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_547c3a1ff27f398c957e2d35feaf2a5f" parent="aspace_1855fbf23928053d362812a71a1f915d" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Furniture</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_bfd9e044ef13e2be3ffe1d27e282315f" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_47e925220b2dd2fd20c61f4d2ab34958" parent="aspace_bfd9e044ef13e2be3ffe1d27e282315f" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Institute of Public Relations Cattle and Livestock Study</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_c0bad51e9810858aca5866e4ffd1ec1d" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_cc56b030d7ee2599209b188ead4594e6" parent="aspace_c0bad51e9810858aca5866e4ffd1ec1d" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Creeping Inflation</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_b3ddddd1c379c95c8fbb2eb7833f777d" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_d4166113f9ecbcea31a15523df822db7" parent="aspace_b3ddddd1c379c95c8fbb2eb7833f777d" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Escalator Clauses</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_731b1e0192196810e0b3432d7c31accb" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_c528d151b4a76c2fc52df3e23ecab6d7" parent="aspace_731b1e0192196810e0b3432d7c31accb" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Feather Bedding</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_4efa04ef66e49fd952ad2f3f933ddde7" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_e69be3b2289cccfc072a7b7cfc76ee2a" parent="aspace_4efa04ef66e49fd952ad2f3f933ddde7" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>FTC</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_09f993fa5c0612fef912b881bbb11c57" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_47d00ec6113279b3b39eda9251d445c9" parent="aspace_09f993fa5c0612fef912b881bbb11c57" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Food, British</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_f2df07f6da96645eb79b8b66f2cfaf18" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_ace8a65193a9b86c68f1e8fc7ca3d764" parent="aspace_f2df07f6da96645eb79b8b66f2cfaf18" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Future Growth</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_5157235d1d17510b0c41be636433b00a" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_63d58f5d76b4e2f8776fbd453f60ca7e" parent="aspace_5157235d1d17510b0c41be636433b00a" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>Gov. Foods Conference, Advisor to Gov. Dewey</unittitle>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+            <container id="aspace_01ad6586d2e0367accc41ad9a885e320" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_e834ba36cf385362b50bd4f873719ea6" parent="aspace_01ad6586d2e0367accc41ad9a885e320" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>Hardware</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_c61fb761fd4ea2b05637ed0b2559f210" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_3cef5b14eecea1ec6c104575deb7ff3f" parent="aspace_c61fb761fd4ea2b05637ed0b2559f210" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>Identical Bids</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_402daa91fb0bfb7808f743a61ba2a07c" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_a898041c2d955d8fe2f448b4a5ff9205" parent="aspace_402daa91fb0bfb7808f743a61ba2a07c" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>Price Fixing &amp; Price Shading</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_ac2aa86c66e32983918c7ae6508fb192" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_df51e945e8f557ec07e637ad8a749b4a" parent="aspace_ac2aa86c66e32983918c7ae6508fb192" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref114" level="file">
+          <did>
+            <unittitle>Job Applications</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_71cd9ead2d3ef5466823a8a12787f801" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_8093d93f5c9c23624037570045d4a067" parent="aspace_71cd9ead2d3ef5466823a8a12787f801" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Joint Economic Committee Prices</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_0752aba3b0373bc8a612ec19c34dfeb5" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_7940e7a34bf9f25ff781cfbc14e278f0" parent="aspace_0752aba3b0373bc8a612ec19c34dfeb5" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref120" level="file">
+          <did>
+            <unittitle>Kefauver Committee</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_4a666f69904f79b7c2e823a337d5be49" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_fbaf42b5fe5b7de39b7272dbecfff502" parent="aspace_4a666f69904f79b7c2e823a337d5be49" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref123" level="file">
+          <did>
+            <unittitle>Life</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_4df2adaa0e08760ff80e0c47bb585810" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_4780b40291339282a59a7157fcb7e168" parent="aspace_4df2adaa0e08760ff80e0c47bb585810" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref126" level="file">
+          <did>
+            <unittitle>Loews</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_5a7b1339f817edd5b7fe96ea43920000" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_df3e6aebab820c37d7408c89baabe2d8" parent="aspace_5a7b1339f817edd5b7fe96ea43920000" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref129" level="file">
+          <did>
+            <unittitle>Macy's</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_f359a08ce4667585d84f183ef5474c2a" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_1ac175d722dc14d729ed49ef981d02f4" parent="aspace_f359a08ce4667585d84f183ef5474c2a" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref132" level="file">
+          <did>
+            <unittitle>Merck Hearing</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_480af68a3b05b88b41862d02fa486850" label="Mixed Materials [31142042261134]" type="Box">1</container>
+            <container id="aspace_685f29bbd692b12dd28199f5e4047b41" parent="aspace_480af68a3b05b88b41862d02fa486850" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref135" level="file">
+          <did>
+            <unittitle>Mergers</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_c730d2115dbe4f743ffa34b4ac8ce141" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_7cbda930a54a6e86098748089fc1daa0" parent="aspace_c730d2115dbe4f743ffa34b4ac8ce141" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref138" level="file">
+          <did>
+            <unittitle>NICV Courses - Economics for Executives</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_33c33452737f5bee0fe926893616ae51" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_900bdfea6cf8a06f1c48ad70c22dbf22" parent="aspace_33c33452737f5bee0fe926893616ae51" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref141" level="file">
+          <did>
+            <unittitle>Paper Cup and Container Institute, Inc.</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_a7c480f65bf7dda761155214d9c1e67d" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_fd6c3b87b924d15635dc183fa3201423" parent="aspace_a7c480f65bf7dda761155214d9c1e67d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref144" level="file">
+          <did>
+            <unittitle>Penn Olin - Joint Ventures</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_42b739cd3533d9c0472c80cf9ff1c084" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_455b3897a8c2ce9707e54150a022f88f" parent="aspace_42b739cd3533d9c0472c80cf9ff1c084" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref147" level="file">
+          <did>
+            <unittitle>Penn State - Economic Growth</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_e3b7ea5f76c175952ef3818e47d62964" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_9a0918e644e705623a5cdbe679006707" parent="aspace_e3b7ea5f76c175952ef3818e47d62964" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref150" level="file">
+          <did>
+            <unittitle>Postal Pricing</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_eb438830d5096e8a8969bdf25da59a86" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_8e65df6347f91d4ad1c0d117c5007fa7" parent="aspace_eb438830d5096e8a8969bdf25da59a86" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref153" level="file">
+          <did>
+            <unittitle>President's Cost of Living Committee</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_bb5fbac90c4cbeb4d30c0dd0e7f75abf" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_73f073faae310e7d05d19136fb8a0b01" parent="aspace_bb5fbac90c4cbeb4d30c0dd0e7f75abf" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref156" level="file">
+          <did>
+            <unittitle>Price Control - J. Ingebretson - 1946 Extension</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_13dfa9957e342068ee1c7acce8a7ef7a" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_b7efce76d7a1768c84b4bc588288a669" parent="aspace_13dfa9957e342068ee1c7acce8a7ef7a" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref159" level="file">
+          <did>
+            <unittitle>Delivered Prices</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_9bf787a05c37c9df165b90e2cdaf1817" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_110c1874092553ebfdd7e33001a1f705" parent="aspace_9bf787a05c37c9df165b90e2cdaf1817" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref162" level="file">
+          <did>
+            <unittitle>Price Index</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_22f647fde4baca5121b805553f3e3809" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_e048801a689093922c925bed3157d1cb" parent="aspace_22f647fde4baca5121b805553f3e3809" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref165" level="file">
+          <did>
+            <unittitle>Pricing</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_5dc1cbe786fb26779051891376315b95" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_fde11a005daba2e61f812d01f6a3f068" parent="aspace_5dc1cbe786fb26779051891376315b95" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref168" level="file">
+          <did>
+            <unittitle>Price Leadership</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_462aba3279da42406cca0c115f2ad05b" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_9e30fb3d504b473b8d1e2449d70e8d10" parent="aspace_462aba3279da42406cca0c115f2ad05b" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref171" level="file">
+          <did>
+            <unittitle>Price Data</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_06b896f86670e82097f3679b5361b63e" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_0cf8c931bde7f26c3baa9d150bf90bf4" parent="aspace_06b896f86670e82097f3679b5361b63e" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref956" level="file">
+          <did>
+            <unittitle>Price Index</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_133e156d4034ba14169c44ad8e7eafe3" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_811c4936cece6a3e89273c980e766de2" parent="aspace_133e156d4034ba14169c44ad8e7eafe3" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref957" level="file">
+          <did>
+            <unittitle>Prices</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_8619ab2e0889c576681bd368fc8a499b" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_211226b5d2790d24fba79e420c750bbf" parent="aspace_8619ab2e0889c576681bd368fc8a499b" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref958" level="file">
+          <did>
+            <unittitle>Pricing Profits</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_c16d83dd49beef26f62724e1713d6858" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_f2c78b4f33fc1dbce80505147219950f" parent="aspace_c16d83dd49beef26f62724e1713d6858" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref174" level="file">
+          <did>
+            <unittitle>Productivity</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_672271746a4fff10814448c53b9e12f2" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_63cee0377e87ab97b528e99fef29902a" parent="aspace_672271746a4fff10814448c53b9e12f2" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref177" level="file">
+          <did>
+            <unittitle>Productivity</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_006c7646b7a282aad1064a785dd6b4d6" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_5e69c299dac9d934518ae6d67b04bdf0" parent="aspace_006c7646b7a282aad1064a785dd6b4d6" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref180" level="file">
+          <did>
+            <unittitle>Productivity</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_3a4fb85b861a3f5cdcc77db57ceea018" label="Mixed Materials [31142042261142]" type="Box">2</container>
+            <container id="aspace_9d820d69f6715031ebfc622d26cc2ecb" parent="aspace_3a4fb85b861a3f5cdcc77db57ceea018" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref183" level="file">
+          <did>
+            <unittitle>Professional Fees</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_af619f82d67143819270584c46362a8f" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_e696bf05c80d8e827df655667fdd6302" parent="aspace_af619f82d67143819270584c46362a8f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref186" level="file">
+          <did>
+            <unittitle>Profits - NCB Figures</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_36599775a03fba3dcabd09aeee7719ae" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_b21eb69f7abfa1a2357825dd1cd37537" parent="aspace_36599775a03fba3dcabd09aeee7719ae" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref189" level="file">
+          <did>
+            <unittitle>Purchasing Power Theory</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_eca613defcdbb379c4ea027e5f747131" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_d8203e633770276b5a8b8565c9b2c88f" parent="aspace_eca613defcdbb379c4ea027e5f747131" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref192" level="file">
+          <did>
+            <unittitle>Rent Control</unittitle>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_0fce9e45fa27087e382d80b081e48961" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_90f61abdbefa611aab410575d587f535" parent="aspace_0fce9e45fa27087e382d80b081e48961" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref195" level="file">
+          <did>
+            <unittitle>Rent Control, Commercial</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_2f127e9d096e35e87f4d0cf2921c1f06" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_1543d0dbee59262c0604864b241ba878" parent="aspace_2f127e9d096e35e87f4d0cf2921c1f06" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref198" level="file">
+          <did>
+            <unittitle>Republican Nat. Committee</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_d921ffa4ef0ff0dabdb2565db660baf8" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_7bd53fb9020c9f8f00bea24b28687b7f" parent="aspace_d921ffa4ef0ff0dabdb2565db660baf8" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref201" level="file">
+          <did>
+            <unittitle>Retail Trade - Learners</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_fee11c32a04f9206a511f7f00f730413" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_d42afc28cae02ee20d1474b61344f117" parent="aspace_fee11c32a04f9206a511f7f00f730413" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref204" level="file">
+          <did>
+            <unittitle>Requests, Material</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_75e0b2bb632eda2493281a475e462dfb" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_df0994547127b2291aaac15f3109ffba" parent="aspace_75e0b2bb632eda2493281a475e462dfb" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref207" level="file">
+          <did>
+            <unittitle>NYU Club</unittitle>
+            <unitdate datechar="creation" normal="1955/1956" type="inclusive">1955-1956</unitdate>
+            <container id="aspace_27dae23f6227694a2785c9e15d2501d0" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_d838f7fee0bdc694eae458e9cbc9cafe" parent="aspace_27dae23f6227694a2785c9e15d2501d0" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref210" level="file">
+          <did>
+            <unittitle>NYU</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_9a6a2d3fb0fda808529e9ba602fb386e" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_10c46346fd662d7ad3cfd9819b341185" parent="aspace_9a6a2d3fb0fda808529e9ba602fb386e" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref213" level="file">
+          <did>
+            <unittitle>Requests by Students for Letters of Ref. RESTRICTED</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_e58d8ce03e821b732c248a3097f05b4f" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_9ce1684344e3aef870fe139bc5bfa049" parent="aspace_e58d8ce03e821b732c248a3097f05b4f" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref216" level="file">
+          <did>
+            <unittitle>Requests, Library and Others for Publications</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_72853272a52332a1fb8ee56415d34b99" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_e8bd8870337e4a5f0c19804579430e82" parent="aspace_72853272a52332a1fb8ee56415d34b99" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref219" level="file">
+          <did>
+            <unittitle>Robinson - Patman</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_956cf6cf9c7db5cdf072df31af8efc31" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_dc41eec6f0a9d1f8f9cf5b0886927eb7" parent="aspace_956cf6cf9c7db5cdf072df31af8efc31" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref222" level="file">
+          <did>
+            <unittitle>Radio Talks</unittitle>
+            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_f95b9f076a9040d28d97f9066f6a3d75" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_bd2ba31b13064ee1e5c6e1bc1d9ebe0e" parent="aspace_f95b9f076a9040d28d97f9066f6a3d75" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref225" level="file">
+          <did>
+            <unittitle>Russia</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_58a22bb2587743779c696bd3a8b8b591" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_3689d8847c5680e8c0169bcc3d68db2f" parent="aspace_58a22bb2587743779c696bd3a8b8b591" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref228" level="file">
+          <did>
+            <unittitle>Society of Business Advisory Professions</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_1e784402f95d7219d356825f1e1ec7c2" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_5a588d4c23a9878755de78e26a053b31" parent="aspace_1e784402f95d7219d356825f1e1ec7c2" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref231" level="file">
+          <did>
+            <unittitle>Subsidies, U.S.</unittitle>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+            <container id="aspace_71ab50fb7e306e6783a7caaa744b331a" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_e87037007bdae926ddf5146fe397d8c9" parent="aspace_71ab50fb7e306e6783a7caaa744b331a" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref234" level="file">
+          <did>
+            <unittitle>Salk Price Leadership</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_60d57a2b39d95d54a0d9bc286d3d8da1" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_d2a36a844f4cf4f556b12c4b64312893" parent="aspace_60d57a2b39d95d54a0d9bc286d3d8da1" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref237" level="file">
+          <did>
+            <unittitle>Smith, Alexander</unittitle>
+            <unitdate datechar="creation" normal="1951/1952" type="inclusive">1951-1952</unitdate>
+            <container id="aspace_34c6864d2413f01bfd6ec2e1f3b6b8e1" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_5aa9a436545df7cbb5efad7ff48fb067" parent="aspace_34c6864d2413f01bfd6ec2e1f3b6b8e1" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref240" level="file">
+          <did>
+            <unittitle>Reference, Letters of RESTRICTED</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_439c36d7bd38a651dce94d867430238c" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_467e06afd10b08f3ad048774246fc310" parent="aspace_439c36d7bd38a651dce94d867430238c" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref243" level="file">
+          <did>
+            <unittitle>Students, Former RESTRICTED</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_c2d67c7951f64b3bb8327f686aa8a4d4" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_68b408d2339f706609d2c0e5e6f342d4" parent="aspace_c2d67c7951f64b3bb8327f686aa8a4d4" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref246" level="file">
+          <did>
+            <unittitle>TV</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_0ccbc147271a1d5a4a90a77e0126b52d" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_ea06e81a86a770caf7cb4ed51b1c6d3e" parent="aspace_0ccbc147271a1d5a4a90a77e0126b52d" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref249" level="file">
+          <did>
+            <unittitle>Thesis</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_9147a424f5a2ee78cf00bfd6f171f170" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_740c6abf91fd11f95f38e36b2ac26ba3" parent="aspace_9147a424f5a2ee78cf00bfd6f171f170" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref252" level="file">
+          <did>
+            <unittitle>Treble Damages</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_40307e9bff1201602bf8bf9d707e4e2a" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_4ef0e60139c3fd9e07808f14eb9f11c2" parent="aspace_40307e9bff1201602bf8bf9d707e4e2a" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref255" level="file">
+          <did>
+            <unittitle>Union Bag - Camp Paper Co.</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_10790e389efcd0b951d6a99733629aac" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_8616d68a447cf769acf7145d883b9ae2" parent="aspace_10790e389efcd0b951d6a99733629aac" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref258" level="file">
+          <did>
+            <unittitle>U.S. Potash</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_37970ebf2689af20a457dd9dcec789fc" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_ea686886c42b7f930f039e0651a40e14" parent="aspace_37970ebf2689af20a457dd9dcec789fc" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref261" level="file">
+          <did>
+            <unittitle>U.S. Potash</unittitle>
+            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+            <container id="aspace_875fae18054eb5494675d8fc3493adde" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_e42aff6f393df1912f58513a201d646c" parent="aspace_875fae18054eb5494675d8fc3493adde" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref264" level="file">
+          <did>
+            <unittitle>U.N., Committee on Members from</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_e5fa8a8a7732122945863535514ffae8" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_62ae7fc6a4e5e5a4b3800bff362abfe3" parent="aspace_e5fa8a8a7732122945863535514ffae8" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref267" level="file">
+          <did>
+            <unittitle>Wage Guarantees</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_fec531abb63fbe63f724b00e38877ab0" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_3abbe302eb00a9431a2e6bad07c8216f" parent="aspace_fec531abb63fbe63f724b00e38877ab0" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref270" level="file">
+          <did>
+            <unittitle>Wage and Prices, Cost of Living Arguments</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_eeaae2c140fcbb94b79db5d71ae371f4" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_148f88d4719e1cd75aa2123d428a37f3" parent="aspace_eeaae2c140fcbb94b79db5d71ae371f4" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref273" level="file">
+          <did>
+            <unittitle>WLB Wage Report to President</unittitle>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+            <container id="aspace_04993aa2dd0d609c165e1d3fec484c11" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_47baf1896e016a9a8085298418af2e4f" parent="aspace_04993aa2dd0d609c165e1d3fec484c11" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref276" level="file">
+          <did>
+            <unittitle>Wage - Price Guidelines</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_900d0d0d5d0957f1c600ad363ed468a8" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_996591d031d0c237dae7511e5b724678" parent="aspace_900d0d0d5d0957f1c600ad363ed468a8" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref279" level="file">
+          <did>
+            <unittitle>Warner-Lambert</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_221fda28f98a179579ac534ca175b169" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_7d26b4d374890be7d0c0af5cb14a99a3" parent="aspace_221fda28f98a179579ac534ca175b169" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref282" level="file">
+          <did>
+            <unittitle>Welfare Committee, NYU</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_ff006fddda4add7f06de36b360803caa" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_04757ad08ce865c83bc264a0776b61ef" parent="aspace_ff006fddda4add7f06de36b360803caa" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref285" level="file">
+          <did>
+            <unittitle>Western Electric</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_748ef07483a300251c729495d6309d7b" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_53ebc20c4fc93bfd89f98baf103b1881" parent="aspace_748ef07483a300251c729495d6309d7b" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref288" level="file">
+          <did>
+            <unittitle>Western Electric Lecture</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_d9f2c10f869e4b560bd500e2a5ffbddd" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_9f39c0a0932489b65c7a1f9dc33c6750" parent="aspace_d9f2c10f869e4b560bd500e2a5ffbddd" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref291" level="file">
+          <did>
+            <unittitle>Radio Talks</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_bca966a384a8a2cb5e9aac2ea55dc6f3" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_45ef143236e49a186f6329ea618f9e10" parent="aspace_bca966a384a8a2cb5e9aac2ea55dc6f3" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref294" level="file">
+          <did>
+            <unittitle>Railroads</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_340763b6d1864bc0cb75b8c807dc878f" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_2fb69edd68d59de2c4bd1820ffe29dad" parent="aspace_340763b6d1864bc0cb75b8c807dc878f" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref297" level="file">
+          <did>
+            <unittitle>Surety Study, Comments &amp; Requests</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_b7b67135b909542f2d602bd12d053fc4" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_373692773dcc1585376f0cb247746757" parent="aspace_b7b67135b909542f2d602bd12d053fc4" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref300" level="file">
+          <did>
+            <unittitle>Surety, Testimony &amp; Exhibits</unittitle>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_c34ebb9a6aa6a669ccda631e4bf0fa5a" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_56384eedf905fdab3c1b0898837bdf33" parent="aspace_c34ebb9a6aa6a669ccda631e4bf0fa5a" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref961" level="file">
+          <did>
+            <unittitle>Surety, Testimony &amp; Exhibits</unittitle>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_52e7752e1eb0676b90d96c4f183be541" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_43956ae80796226e66b283b7d13a6bd5" parent="aspace_52e7752e1eb0676b90d96c4f183be541" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref960" level="file">
+          <did>
+            <unittitle>Shoe</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_74ff10142eb13a7b4f042fdb051d4ec9" label="Mixed Materials [31142042261159]" type="Box">3</container>
+            <container id="aspace_e199038fac5fec24ae4f3a5b265d45be" parent="aspace_74ff10142eb13a7b4f042fdb051d4ec9" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref303" level="file">
+          <did>
+            <unittitle>Surety Recommendations</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_b3a5980f235266bc05d3b54121a0979f" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_e2e38913239dfd16600cb631729f0409" parent="aspace_b3a5980f235266bc05d3b54121a0979f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref306" level="file">
+          <did>
+            <unittitle>Surety Miscellaneous</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_7b6c193e6ae8e24c8852f2afb189b0b3" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_d25c17fb5bf5148ac864085e8ccf8591" parent="aspace_7b6c193e6ae8e24c8852f2afb189b0b3" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref309" level="file">
+          <did>
+            <unittitle>Appendix</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_f26400f7d6d46785fc9f5eb0d1b42a0c" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_c42ccf767c97e4dcacebae6a0eac657b" parent="aspace_f26400f7d6d46785fc9f5eb0d1b42a0c" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref312" level="file">
+          <did>
+            <unittitle>Insurance Rate Making</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_8296d0ad8efaf4f436cd52ed325bf757" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_7864971b2b8cb2ab072e2233138513a0" parent="aspace_8296d0ad8efaf4f436cd52ed325bf757" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref315" level="file">
+          <did>
+            <unittitle>Surety &amp; Insurance</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_bbe726c10ca69334d6cecce69df325f9" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_a40f37250805ecda6400ada574cb36d7" parent="aspace_bbe726c10ca69334d6cecce69df325f9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref318" level="file">
+          <did>
+            <unittitle>Surety Memos</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_ef03075946b69873f6c8683c643e1d7e" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_8f66b2041d52ae110e3e7e658e0e16c2" parent="aspace_ef03075946b69873f6c8683c643e1d7e" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref321" level="file">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <container id="aspace_025c1a568f0b4cc0f6ef0624a4bdde6b" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_35dbdf9aca20c27f3e7bee188e2b15e4" parent="aspace_025c1a568f0b4cc0f6ef0624a4bdde6b" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref324" level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_f4625b541119aea3893c27be686843fb" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_d5d86edb299212431918a887b6a426a6" parent="aspace_f4625b541119aea3893c27be686843fb" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref327" level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_5890e295a1dbc0e9b7586373123b1497" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_b926c94c27115df4c8ae18fe404c1fda" parent="aspace_5890e295a1dbc0e9b7586373123b1497" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref330" level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_53d4e53d865dc748cec214494a3d5f18" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_29014cef9a9d2e5eb74129073a7e295e" parent="aspace_53d4e53d865dc748cec214494a3d5f18" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref333" level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_e9385e7f9f6e91b3e6a01600300f872b" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_aa0d3271d0cb06a43ec078045b655775" parent="aspace_e9385e7f9f6e91b3e6a01600300f872b" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref336" level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_5ec25ccc5abab6d7fcfcf358f7f9ce0a" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_419e2b7500020a0ef9197bb7b494fc14" parent="aspace_5ec25ccc5abab6d7fcfcf358f7f9ce0a" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref339" level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_4ca2dc5c618cc9da6e5a2c37699c888a" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_4d2bf876d7ad2b4537c01bc3c5980a8d" parent="aspace_4ca2dc5c618cc9da6e5a2c37699c888a" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref342" level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_589d9f7f4f149bd243c9dd35f27724fd" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_19da057bd33b4c119bc243059264669c" parent="aspace_589d9f7f4f149bd243c9dd35f27724fd" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref345" level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+            <unitdate datechar="creation" normal="1969/1969" type="inclusive">1969</unitdate>
+            <container id="aspace_a5d19e22218bbd959d22fb04c8e747fc" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_7e762dc484605badea1f2dcc10162d07" parent="aspace_a5d19e22218bbd959d22fb04c8e747fc" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref348" level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+            <unitdate datechar="creation" normal="1970/1977" type="inclusive">1970-1977</unitdate>
+            <container id="aspace_667c517ba1c17d921182f53929830184" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_0fe9e433cc6d247ad6270f7c277d3eb3" parent="aspace_667c517ba1c17d921182f53929830184" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref351" level="file">
+          <did>
+            <unittitle>Speeches</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_0be96d044a3ebb69a338b7060cb0549d" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_bd617387680311c3a46c6e6d58e796bd" parent="aspace_0be96d044a3ebb69a338b7060cb0549d" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref354" level="file">
+          <did>
+            <unittitle>Japanese Speeches &amp; Lecture Material</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_3879955f1dc991ca7b0323c48292c0b5" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_e32b4d24bff5ae29a50f2ced7cd7f446" parent="aspace_3879955f1dc991ca7b0323c48292c0b5" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref357" level="file">
+          <did>
+            <unittitle>Negro Revolution &amp; Its Economic Impact</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_111481eee68299b3101ef93eb42892b5" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_e618ec6156a8cad73417d172d564fc5d" parent="aspace_111481eee68299b3101ef93eb42892b5" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref360" level="file">
+          <did>
+            <unittitle>Press Releases</unittitle>
+            <unitdate datechar="creation" normal="1962/1963" type="inclusive">1962-1963</unitdate>
+            <container id="aspace_6cf8e56475caf4cb6182cc4502a34db0" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_f60538a42e2daeaf6949c400f65d3fdd" parent="aspace_6cf8e56475caf4cb6182cc4502a34db0" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref363" level="file">
+          <did>
+            <unittitle>Trip to Europe</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_64f94f777cbd3329284324351f623fa7" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_702ba88e3476f013b0365484c9689e6e" parent="aspace_64f94f777cbd3329284324351f623fa7" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref366" level="file">
+          <did>
+            <unittitle>Trip to Israel &amp; Europe (Roberts College Istanbul)</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_a20c222bd0e78ac735fe5a4090c43cb7" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_86922d80705f7b643c4f2fa0b2a9cc91" parent="aspace_a20c222bd0e78ac735fe5a4090c43cb7" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref369" level="file">
+          <did>
+            <unittitle>Articles</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_fb4bcd23647fbc4c3b27d27912a40468" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_31bc53ec239e7e6d362b101e95892cc2" parent="aspace_fb4bcd23647fbc4c3b27d27912a40468" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref372" level="file">
+          <did>
+            <unittitle>Japan</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_766b3a12d775dedb545aeff2f439f4a4" label="Mixed Materials [31142042261167]" type="Box">4</container>
+            <container id="aspace_be97911dabce9ffab9b7893b18a0ab45" parent="aspace_766b3a12d775dedb545aeff2f439f4a4" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref375" level="file">
+          <did>
+            <unittitle>A-P</unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_daa7ef3d2c949853cacb49b428e9671b" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_a819f49cbfcab8cd4e8db25e02f184df" parent="aspace_daa7ef3d2c949853cacb49b428e9671b" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref378" level="file">
+          <did>
+            <unittitle>American Thread Co.</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_3bf64d40eaa5b78833ad6b977e2d997d" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_9f2fdc9b7e54ccf31b6faea3ef11eee5" parent="aspace_3bf64d40eaa5b78833ad6b977e2d997d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref381" level="file">
+          <did>
+            <unittitle>American Enterprise Assoc. Subsidies - Prices</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_ab9c5ee068310a6511086fe8b74ed8a3" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_256ff775df7dcd876a9bc2a61fa670b7" parent="aspace_ab9c5ee068310a6511086fe8b74ed8a3" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref384" level="file">
+          <did>
+            <unittitle>American Radiator</unittitle>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_cdf362fa93454494859434b7d293562a" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_ffb61356040cbcd3527098e80387f300" parent="aspace_cdf362fa93454494859434b7d293562a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref387" level="file">
+          <did>
+            <unittitle>American Radiator</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_4b01d9f4afe0c68677c0cb056818c4d6" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_2cd9a61aedf5724ad104b0b3e280a7ee" parent="aspace_4b01d9f4afe0c68677c0cb056818c4d6" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref390" level="file">
+          <did>
+            <unittitle>Anaconda</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_f2e764fd01362b3e20108a015c70eaaf" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_929ae53183dc15b65568f633f8abe944" parent="aspace_f2e764fd01362b3e20108a015c70eaaf" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref393" level="file">
+          <did>
+            <unittitle>Atlantic City</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_c960152e9d0e06a82b52d676d75913e5" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_556e339bbeeceb0d53976a8cf632bb95" parent="aspace_c960152e9d0e06a82b52d676d75913e5" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref396" level="file">
+          <did>
+            <unittitle>Atlantic City Testimony</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_62e484b14c5a0356aff4d18a7088bbdd" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_fda79994fee57ab54c49f814cbfd2120" parent="aspace_62e484b14c5a0356aff4d18a7088bbdd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref399" level="file">
+          <did>
+            <unittitle>Bakery - Final Draft - Wages</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_d8a52fe23eff87e3c1bf5c31f044a37e" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_c4a10fb5d92b7576383c6622ce2cebe8" parent="aspace_d8a52fe23eff87e3c1bf5c31f044a37e" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref402" level="file">
+          <did>
+            <unittitle>Banking - Memphis</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_ee334df34b56dd422fafa4d554cf73f7" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_cef79bbcf6a81d9c17eb30495c3bc20d" parent="aspace_ee334df34b56dd422fafa4d554cf73f7" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref405" level="file">
+          <did>
+            <unittitle>Baltimore</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_9c9ad0be7546eb0811a7d8ed41f085b8" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_9b61dcececc11dbbd327817a00e933ae" parent="aspace_9c9ad0be7546eb0811a7d8ed41f085b8" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref408" level="file">
+          <did>
+            <unittitle>Banking</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_9751f8b1f7c1cec0b46d69d46f2bda1d" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_518f93eec8a5a8e819ba431190a68d8a" parent="aspace_9751f8b1f7c1cec0b46d69d46f2bda1d" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref411" level="file">
+          <did>
+            <unittitle>Banking</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_d80d21acc641a4703fec22f00971dd0e" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_438184ebda288a28dd26590d2ad2530d" parent="aspace_d80d21acc641a4703fec22f00971dd0e" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref414" level="file">
+          <did>
+            <unittitle>Baron</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_914829c0b28707f6899b84b63d9b8475" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_626c787e939017a3b1f1fc68c0658663" parent="aspace_914829c0b28707f6899b84b63d9b8475" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref417" level="file">
+          <did>
+            <unittitle>Benetar</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_a3a8de4fc9504399289c5344a26a4334" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_b146bfbf1e9b4d26180c1c5dd1d75896" parent="aspace_a3a8de4fc9504399289c5344a26a4334" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref420" level="file">
+          <did>
+            <unittitle>Benetar</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_ec2f4deb1119171390b5c09d5e5efe8c" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_02f46c09bb0d3240435095ec88102e0b" parent="aspace_ec2f4deb1119171390b5c09d5e5efe8c" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref423" level="file">
+          <did>
+            <unittitle>Benetar</unittitle>
+            <unitdate datechar="creation" normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <container id="aspace_32e59ded1463c1ab06a4117d61a95cb7" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_25a280f961d3b7619254cd27da9fb59d" parent="aspace_32e59ded1463c1ab06a4117d61a95cb7" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref426" level="file">
+          <did>
+            <unittitle>Bethlehem Steel</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_5280466c3795bfb4cf6537d4efd7676a" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_06c315cf3c144fbcd61381f8c36a6c45" parent="aspace_5280466c3795bfb4cf6537d4efd7676a" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref429" level="file">
+          <did>
+            <unittitle>Bloomingdales</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_f308d14a543991aa431e81783fb69789" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_c38a61542ff0f561d44de3dd7f787cd2" parent="aspace_f308d14a543991aa431e81783fb69789" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref432" level="file">
+          <did>
+            <unittitle>Boston Shoe</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_2ede8aaa8ee7996c22d4d60c6bc71d5d" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_1eb4c6408883ade5e3854802c35b12c6" parent="aspace_2ede8aaa8ee7996c22d4d60c6bc71d5d" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref435" level="file">
+          <did>
+            <unittitle>NYS Brewers Study</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_f1dc5ada8833749383f5efbc336034f1" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_76366d6643f58df61082571752169572" parent="aspace_f1dc5ada8833749383f5efbc336034f1" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref438" level="file">
+          <did>
+            <unittitle>Bristol Myers</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_797c73107665978b33686c72885774a7" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_398cab5f359f066d9327831f20a1a588" parent="aspace_797c73107665978b33686c72885774a7" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref441" level="file">
+          <did>
+            <unittitle>Bristol Myers Asprin Study</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_886109b364c832a9554c0ecca3e1539e" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_34ed0f0d5029879f61921d49ae15428e" parent="aspace_886109b364c832a9554c0ecca3e1539e" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref444" level="file">
+          <did>
+            <unittitle>Carter-Wallace</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_700af2aa6720e2d5d4ab37ed3042f193" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_efd5ccea1d4983cdbedeb1e0f2cd32a5" parent="aspace_700af2aa6720e2d5d4ab37ed3042f193" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref447" level="file">
+          <did>
+            <unittitle>Business Roundtable</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_fce646b8035fe04e30e57b8aae0bc8d8" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_31433679ee876a983b150d824f5cd095" parent="aspace_fce646b8035fe04e30e57b8aae0bc8d8" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref450" level="file">
+          <did>
+            <unittitle>California and Hawaiian Sugar Co.</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_a626e209199ed05eae78de16629bdb73" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_59196bd8e906f8cfb1d430dcc9577ae4" parent="aspace_a626e209199ed05eae78de16629bdb73" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref453" level="file">
+          <did>
+            <unittitle>Chase Bag Co.</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_cf17841a4baed375401344bc2f6cd59d" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_49a2aecadcc6f9d083bb676333e6984c" parent="aspace_cf17841a4baed375401344bc2f6cd59d" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref456" level="file">
+          <did>
+            <unittitle>UN Study of Chemicals</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_6be1c41326938dd0c703505cc23fa9c5" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_2703df3ab7de7d5bcc9f892671fd622c" parent="aspace_6be1c41326938dd0c703505cc23fa9c5" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref459" level="file">
+          <did>
+            <unittitle>Chemical Bank &amp; Rockville Center Merger</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_75379fb9d6cf2a360eb11c99970d21ea" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_6db599a9514381900df2aee4a4f732ca" parent="aspace_75379fb9d6cf2a360eb11c99970d21ea" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref462" level="file">
+          <did>
+            <unittitle>Chemical Bank Merger</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_4da2cf45aaf5ee8086cc62662f9df304" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_7d25a1a5efa2f6a525fc9741377cf74c" parent="aspace_4da2cf45aaf5ee8086cc62662f9df304" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref465" level="file">
+          <did>
+            <unittitle>Chemicals</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_51ee7d5fdafad92dcbce9d02d301994f" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_685403a15c4a60fe7d62c844d0708a06" parent="aspace_51ee7d5fdafad92dcbce9d02d301994f" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref468" level="file">
+          <did>
+            <unittitle>Cincinnati Anti-trust</unittitle>
+            <unitdate datechar="creation" normal="1967/1968" type="inclusive">1967-1968</unitdate>
+            <container id="aspace_1cb2c70bd4dd1ffe0e9a14d70364b1a0" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_6b0d0786381497abbc8406b6ff05e89a" parent="aspace_1cb2c70bd4dd1ffe0e9a14d70364b1a0" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref471" level="file">
+          <did>
+            <unittitle>CG&amp;E</unittitle>
+            <unitdate datechar="creation" normal="1971/1972" type="inclusive">1971-1972</unitdate>
+            <container id="aspace_0e2f7de019af37ea27ab69eeb6a6e2d6" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_677017262ddcbccf4ebd9e316a7ea7bd" parent="aspace_0e2f7de019af37ea27ab69eeb6a6e2d6" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref474" level="file">
+          <did>
+            <unittitle>Citizens</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_9cc68f9030ea57b77b46e760dce4b986" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_a5e06af1fe767bbc3fcc0121fbeea093" parent="aspace_9cc68f9030ea57b77b46e760dce4b986" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref477" level="file">
+          <did>
+            <unittitle>Cyclops</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_7472df1beb702ac4c053c727a5a530ae" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_24da6ba62ecdb9440bdedbf633948dd0" parent="aspace_7472df1beb702ac4c053c727a5a530ae" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref480" level="file">
+          <did>
+            <unittitle>City Investing Memoranda</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_0fb976dd31b5ce4d2910f503561870e3" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_0ff2ae72b52987f48b9e35cfbaf9957c" parent="aspace_0fb976dd31b5ce4d2910f503561870e3" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref483" level="file">
+          <did>
+            <unittitle>City Service Co, Testimony</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_644b77f52235b9ef66f5f5630fe58537" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_c58f83573ccb62156fb7c6551d992502" parent="aspace_644b77f52235b9ef66f5f5630fe58537" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref486" level="file">
+          <did>
+            <unittitle>Colonial Sugar Refining Co, Antitrust Brief</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_bdde9043e45b27bfd92f3c7ce2d9b3a1" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_e53278d9f1a94ad541f8407b432f0051" parent="aspace_bdde9043e45b27bfd92f3c7ce2d9b3a1" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref489" level="file">
+          <did>
+            <unittitle>Continental Can</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_08949ecf7d8ec63d84400fb356e416ba" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_b72c17ddef2d5444a429a8470b1c9862" parent="aspace_08949ecf7d8ec63d84400fb356e416ba" type="Folder">39</container>
+          </did>
+        </c>
+        <c id="aspace_ref492" level="file">
+          <did>
+            <unittitle>Continental Steel</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_71f0f5f552e71de660e80167cbb4f27e" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_3ed27f847cc8a4b56730ecb8553dc7f7" parent="aspace_71f0f5f552e71de660e80167cbb4f27e" type="Folder">40</container>
+          </did>
+        </c>
+        <c id="aspace_ref495" level="file">
+          <did>
+            <unittitle>Continental Cont</unittitle>
+            <unitdate datechar="creation" normal="1950/1951" type="inclusive">1950-1951</unitdate>
+            <container id="aspace_c7d3827c3a92319a189ad95d98f2855d" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_6d62df47e113ac94ba9027724d76bbce" parent="aspace_c7d3827c3a92319a189ad95d98f2855d" type="Folder">41</container>
+          </did>
+        </c>
+        <c id="aspace_ref498" level="file">
+          <did>
+            <unittitle>Con-Ed</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_9d3b2917ff0b35cb71f6e689c0cc6959" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_8b7cbc084ea65e8ec20bb0535971bd81" parent="aspace_9d3b2917ff0b35cb71f6e689c0cc6959" type="Folder">42</container>
+          </did>
+        </c>
+        <c id="aspace_ref501" level="file">
+          <did>
+            <unittitle>Celanese Corp - Wage Case</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_e8ea4ec9aa3f453cfd2c17650fbf1585" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_f245063bd82057361c4ef2c2316ef559" parent="aspace_e8ea4ec9aa3f453cfd2c17650fbf1585" type="Folder">43</container>
+          </did>
+        </c>
+        <c id="aspace_ref504" level="file">
+          <did>
+            <unittitle>Coal Case</unittitle>
+            <unitdate datechar="creation" normal="1949/1958" type="inclusive">1949-1958</unitdate>
+            <container id="aspace_5e34d55dedefb857e9f076efda540460" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_fb0233079567b9192becf3272afa3225" parent="aspace_5e34d55dedefb857e9f076efda540460" type="Folder">44</container>
+          </did>
+        </c>
+        <c id="aspace_ref507" level="file">
+          <did>
+            <unittitle>Cement</unittitle>
+            <unitdate datechar="creation" normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_b3eda5f7dca03082a3ffbf1f7d5b2532" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_10f3f2bbd08576977d9796eaa74080bd" parent="aspace_b3eda5f7dca03082a3ffbf1f7d5b2532" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref510" level="file">
+          <did>
+            <unittitle>Cement</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_9693cb092108a1deaa0b485cd5bce438" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_c4bf119811ee494b674629e063216bed" parent="aspace_9693cb092108a1deaa0b485cd5bce438" type="Folder">46</container>
+          </did>
+        </c>
+        <c id="aspace_ref962" level="file">
+          <did>
+            <unittitle>Coca-Cola</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_4ba4d86883272b6a4671d74259b926f8" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_bff97db3cf878a2a09c0bc1965861da9" parent="aspace_4ba4d86883272b6a4671d74259b926f8" type="Folder">47</container>
+          </did>
+        </c>
+        <c id="aspace_ref963" level="file">
+          <did>
+            <unittitle>Crane</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container id="aspace_1dec6a357599c46d5e2fbbfdc33333f3" label="Mixed Materials [31142042261175]" type="Box">5</container>
+            <container id="aspace_a9cb4db3eae61dc72c6fd2060b2afe59" parent="aspace_1dec6a357599c46d5e2fbbfdc33333f3" type="Folder">48</container>
+          </did>
+        </c>
+        <c id="aspace_ref513" level="file">
+          <did>
+            <unittitle>Dan River</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_d7bf39072960ec3298aff839ecfb55a6" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_976f8ff9d1350245c6ebaf1a5ed71adc" parent="aspace_d7bf39072960ec3298aff839ecfb55a6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref516" level="file">
+          <did>
+            <unittitle>Detroit Edison Co.</unittitle>
+            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_9d8218990dde20e35e0b81fdd24c30c0" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_dee0b90132fe613a0143d67b1112d670" parent="aspace_9d8218990dde20e35e0b81fdd24c30c0" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref519" level="file">
+          <did>
+            <unittitle>Double Leverage</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_b942d3bafa99d150b1bf6ce63ccfaea9" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_9716b6171bb87de4ae7f584f9bc54c8e" parent="aspace_b942d3bafa99d150b1bf6ce63ccfaea9" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref522" level="file">
+          <did>
+            <unittitle>Druck</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_71819fbdef0a6470232938d0c8721761" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_b8d38fcb0ba821c407b09087bdbd7db8" parent="aspace_71819fbdef0a6470232938d0c8721761" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref525" level="file">
+          <did>
+            <unittitle>DuPont</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_1d4d6d39f1fee41191fc23b2ddb078b0" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_a5e02a1a62ff789b887ccd58e3f98bf9" parent="aspace_1d4d6d39f1fee41191fc23b2ddb078b0" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref528" level="file">
+          <did>
+            <unittitle>Drugs</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_a2cd6e312bbc7b960d8de0f817325ef7" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_97a3a84b1e7ec1a58a7e3c3a4105b159" parent="aspace_a2cd6e312bbc7b960d8de0f817325ef7" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref531" level="file">
+          <did>
+            <unittitle>Drugs</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_f8206ed64bbbad8d62a411dcefe49ca2" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_c9b03ee04b52e7b43ee31c3ac0d43c8c" parent="aspace_f8206ed64bbbad8d62a411dcefe49ca2" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref534" level="file">
+          <did>
+            <unittitle>Drugs</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_0eb1f541d37e51948ea11bd81592e1e6" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_27b3d142fc2eb611332353b53a64716c" parent="aspace_0eb1f541d37e51948ea11bd81592e1e6" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref537" level="file">
+          <did>
+            <unittitle>Economic Services, Inc - Drug Pricing</unittitle>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+            <container id="aspace_3656ad61d67ac8430524ba0aa36ff873" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_4cd0ae622699bd9bc8f6ea11e2620969" parent="aspace_3656ad61d67ac8430524ba0aa36ff873" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref540" level="file">
+          <did>
+            <unittitle>Fidelity and Deposit</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_50455b874aa8280003f727846d13a0e2" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_6b13cf14891c94b532af7bd3155722ed" parent="aspace_50455b874aa8280003f727846d13a0e2" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref543" level="file">
+          <did>
+            <unittitle>F&amp;D Tables</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_22c1edf6ba602e3178ffbfbfa6dee760" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_520f5f3b89e8b5e7a855cec736be883d" parent="aspace_22c1edf6ba602e3178ffbfbfa6dee760" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref546" level="file">
+          <did>
+            <unittitle>F&amp;D Set of Memoranda</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_754d5b716496ee0dfe1b1e019ea1c09b" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_6f8d89abbe08b225412b0dafe9561787" parent="aspace_754d5b716496ee0dfe1b1e019ea1c09b" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref549" level="file">
+          <did>
+            <unittitle>F&amp;D Testimony</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_e2a0d47b06f80b9e5c902db2afed2534" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_dd9db6b49099c8b38fe7fd3261bedbef" parent="aspace_e2a0d47b06f80b9e5c902db2afed2534" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref552" level="file">
+          <did>
+            <unittitle>FMC</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_7424a5f154c336b01cbe8daa78fe2057" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_b0e744f094bde72da8f9ce6442c21e86" parent="aspace_7424a5f154c336b01cbe8daa78fe2057" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref555" level="file">
+          <did>
+            <unittitle>FMC</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_e7ae51976bd2b1e831bb598f2e5d1fa1" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_89d43f7265a9336f081bf065c4480d6f" parent="aspace_e7ae51976bd2b1e831bb598f2e5d1fa1" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref558" level="file">
+          <did>
+            <unittitle>Florida Power</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_601978c6dd1e1a0d3e39bdad23b1b78a" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_907ace9f979f816413f17284db143bcc" parent="aspace_601978c6dd1e1a0d3e39bdad23b1b78a" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref561" level="file">
+          <did>
+            <unittitle>FAT</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_778e6b77b172ee148de7d7c4e4f2def3" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_ba7642aaf722fbf9f9abfc6b61b70b14" parent="aspace_778e6b77b172ee148de7d7c4e4f2def3" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref564" level="file">
+          <did>
+            <unittitle>Gemini Computer Systems</unittitle>
+            <unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+            <container id="aspace_8b597c39adc3976b401322935f79ae9f" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_b03d0aa71edef5c4f793fb1864a157ec" parent="aspace_8b597c39adc3976b401322935f79ae9f" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref567" level="file">
+          <did>
+            <unittitle>General Telephone</unittitle>
+            <unitdate datechar="creation" normal="1962/1965" type="inclusive">1962-1965</unitdate>
+            <container id="aspace_1b70f37b743aba4fd7e47df78bcf531d" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_dd2fd396b97c29836021585b925b1ee9" parent="aspace_1b70f37b743aba4fd7e47df78bcf531d" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref570" level="file">
+          <did>
+            <unittitle>General Telephone</unittitle>
+            <unitdate datechar="creation" normal="1962/1965" type="inclusive">1962-1965</unitdate>
+            <container id="aspace_2914048952a3ac92512f96ce88fe594b" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_0af6eecfaa35eb94e50b5819f769a98c" parent="aspace_2914048952a3ac92512f96ce88fe594b" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref573" level="file">
+          <did>
+            <unittitle>General Telephone</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_48dc382b47bcf971792fe95f9c65796a" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_763ba016d7bd769e577e07ee1464a882" parent="aspace_48dc382b47bcf971792fe95f9c65796a" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref576" level="file">
+          <did>
+            <unittitle>General Telephone of California</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_7f0a9335b5bf5cbfa540f3c6537fb580" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_28da726888382c37e82e7695169e8869" parent="aspace_7f0a9335b5bf5cbfa540f3c6537fb580" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref579" level="file">
+          <did>
+            <unittitle>GPU</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_8920386879ed49a19fa0c3a576bdac0d" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_99cb187eb4ed8cb32630c43e42536046" parent="aspace_8920386879ed49a19fa0c3a576bdac0d" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref582" level="file">
+          <did>
+            <unittitle>Grayson Robinson Stores</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_d0e44c19939d851c31dbefdb53bd6442" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_7660142d52c6ed6b349b46b6d92b349e" parent="aspace_d0e44c19939d851c31dbefdb53bd6442" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref585" level="file">
+          <did>
+            <unittitle>Handleman Study</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_0117a1caa36e1af1c1e2a3d62ea7da2f" label="Mixed Materials [31142042261183]" type="Box">6</container>
+            <container id="aspace_cfc2564669736e46b060ca53369f7386" parent="aspace_0117a1caa36e1af1c1e2a3d62ea7da2f" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref588" level="file">
+          <did>
+            <unittitle>Hawaiian Sugar</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_da71335210eae5faa80b9a7cd48217a4" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_f0aa2bdd36741079141af4c0d7fc2626" parent="aspace_da71335210eae5faa80b9a7cd48217a4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref591" level="file">
+          <did>
+            <unittitle>Hoffman, La Rocke</unittitle>
+            <unitdate datechar="creation" normal="1965/1966" type="inclusive">1965-1966</unitdate>
+            <container id="aspace_741f71f0ae4b174b8d16baca5099631c" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_94c74a60dfc5bc5e37f829d74f86f842" parent="aspace_741f71f0ae4b174b8d16baca5099631c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref594" level="file">
+          <did>
+            <unittitle>Hospitals</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_e37761353f8c262dad6e8f64d9355cab" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_95f3d2307419a64771215997b02e9b50" parent="aspace_e37761353f8c262dad6e8f64d9355cab" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref597" level="file">
+          <did>
+            <unittitle>Hospitals</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_da51deb5de30011ccd6f0a9f1af62fd1" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_85d2f9a71769734eb9a57b37310df274" parent="aspace_da51deb5de30011ccd6f0a9f1af62fd1" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref600" level="file">
+          <did>
+            <unittitle>Hospitals</unittitle>
+            <unitdate datechar="creation" normal="1974/1974" type="inclusive">1974</unitdate>
+            <container id="aspace_83abe318aa929ef083ce0276b25b91d4" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_ddb92e3912d390a1b74cbae8cdd1e287" parent="aspace_83abe318aa929ef083ce0276b25b91d4" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref603" level="file">
+          <did>
+            <unittitle>Ingersoll-Rand</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_4037e3a6ac86c48b676b87995f0f54b2" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_6587b96508ebb0b6931926036522e355" parent="aspace_4037e3a6ac86c48b676b87995f0f54b2" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref606" level="file">
+          <did>
+            <unittitle>ITT Comments, FTC Report</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_66c4b4312a80ff74a491c235f1787a5b" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_106d3f937fb061cf9cc4ac965899d68a" parent="aspace_66c4b4312a80ff74a491c235f1787a5b" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref609" level="file">
+          <did>
+            <unittitle>Insurance</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_c000f79a9848e5bc8ca2c137a493cc5e" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_af7e7a5048d04da69585f65b917cb11d" parent="aspace_c000f79a9848e5bc8ca2c137a493cc5e" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref612" level="file">
+          <did>
+            <unittitle>Irving Trust</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_84bb887353ab3edd0d29eb5180cb8a34" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_4de2c05bc7b44c575f76b520aa772a8a" parent="aspace_84bb887353ab3edd0d29eb5180cb8a34" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref615" level="file">
+          <did>
+            <unittitle>Johnson &amp; Johnson,</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_6904b6b2762aabeffe5eb07725ad3ba3" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_c858cdafd70f1fad667bd22ead50bb40" parent="aspace_6904b6b2762aabeffe5eb07725ad3ba3" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref618" level="file">
+          <did>
+            <unittitle>JRM</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_23f0922e26d84db2db50eb5d794cfd3c" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_f98e34d7244de268ec70ba2320a723a6" parent="aspace_23f0922e26d84db2db50eb5d794cfd3c" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref621" level="file">
+          <did>
+            <unittitle>J&amp;J</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_cd590f619cb9841b44c29b957d6b1b61" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_f3276dd34fcf3a1ca3395b5e43c65f64" parent="aspace_cd590f619cb9841b44c29b957d6b1b61" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref624" level="file">
+          <did>
+            <unittitle>Mead Johnson</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_8c303afca02d7ec08868966b19b5198c" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_fa7ab253e016c42c184462a3c9a50183" parent="aspace_8c303afca02d7ec08868966b19b5198c" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref627" level="file">
+          <did>
+            <unittitle>Meat Packing Industry, Economics of</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_96f5e8b4e2b77442c0abf246b1c2307c" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_7cb5eec457602371c770baf048292f72" parent="aspace_96f5e8b4e2b77442c0abf246b1c2307c" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref630" level="file">
+          <did>
+            <unittitle>Merck &amp; Co</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_69a6ecfb352f8e49d858429200eb1f19" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_23a7e9f3ced9d2a67a1ce87d793b3143" parent="aspace_69a6ecfb352f8e49d858429200eb1f19" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref633" level="file">
+          <did>
+            <unittitle>Meyer and Reis Rebuttals (NJ Bell)</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_4f244e69cc83cc56e2fd84293299921f" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_2095953afd786837174517bd1eee9536" parent="aspace_4f244e69cc83cc56e2fd84293299921f" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref636" level="file">
+          <did>
+            <unittitle>Milk Testimony</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_2f4695bc52a82949699b3a928d4f361e" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_919c03b6bccfc4ab33d5342a31ca6143" parent="aspace_2f4695bc52a82949699b3a928d4f361e" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref639" level="file">
+          <did>
+            <unittitle>Milk</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_1b0cf491a5257dd97fa5af52add5f9ef" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_903757ba85567e504458bff12871285d" parent="aspace_1b0cf491a5257dd97fa5af52add5f9ef" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref642" level="file">
+          <did>
+            <unittitle>MA Hospital</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_67265f23d8f7e10829b56d1b0c04f028" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_ccfc2405912e299ca4d4b2d551abbbc9" parent="aspace_67265f23d8f7e10829b56d1b0c04f028" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref645" level="file">
+          <did>
+            <unittitle>Miles Shoes</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_508b87d28af5e2cf7caf298f3627f7bc" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_d94a871bbe90d60cebbd318e50f1d7e4" parent="aspace_508b87d28af5e2cf7caf298f3627f7bc" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref648" level="file">
+          <did>
+            <unittitle>Morgan - Convenience, Needs &amp; Welfare</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_1976ddbbfea11a827c923a52a681a6e2" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_812d7aaa8e0e3ec56437e6d9741517d9" parent="aspace_1976ddbbfea11a827c923a52a681a6e2" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref651" level="file">
+          <did>
+            <unittitle>Morgan Hearings</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_4c9e3c9afa5970a0ba66aaf57acc6b03" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_995d095632e689617dd3f3c4e6ce5deb" parent="aspace_4c9e3c9afa5970a0ba66aaf57acc6b03" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref654" level="file">
+          <did>
+            <unittitle>Morgan Guarantee Merger</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_c85d4bff23bc4654b0c6ec680f8360c1" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_321b86d30b38d13b54c8bcbcd04dc156" parent="aspace_c85d4bff23bc4654b0c6ec680f8360c1" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref657" level="file">
+          <did>
+            <unittitle>Movies</unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+            <container id="aspace_ed28f86632953301ed1e7af7eb57f68b" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_ee382fd3cb5c58fcaf9363d8a0eb4f1b" parent="aspace_ed28f86632953301ed1e7af7eb57f68b" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref660" level="file">
+          <did>
+            <unittitle>NBC</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_5d6306eacd79bf25479ad405e34cba75" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_4097cb7d4e79eb1725be54e27a9fffe2" parent="aspace_5d6306eacd79bf25479ad405e34cba75" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref663" level="file">
+          <did>
+            <unittitle>Nathan Report</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_980d4077720b19c9d34ff632b11f9657" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_2bf5cdd93308125c86d51b022ca4d2d8" parent="aspace_980d4077720b19c9d34ff632b11f9657" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref666" level="file">
+          <did>
+            <unittitle>National Furniture Review</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_f5cfccff3e7feaa60a3acbc30cbebf3c" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_4fab55cdaa0209d611ebde0538505367" parent="aspace_f5cfccff3e7feaa60a3acbc30cbebf3c" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref669" level="file">
+          <did>
+            <unittitle>National Bureau of Economic Research</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_2d00ba9621fd0e950c7782de93fe62f3" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_7ac12f420f9ae0570c16423038558da4" parent="aspace_2d00ba9621fd0e950c7782de93fe62f3" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref672" level="file">
+          <did>
+            <unittitle>National Marketing Advisory</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_9d493c80096a5698cb27d8d5f9860918" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_16222031ceb567612ef0f3c0393e96b9" parent="aspace_9d493c80096a5698cb27d8d5f9860918" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref675" level="file">
+          <did>
+            <unittitle>NYC v Police &amp; Firemen</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_915a0da0f0606aea5783b0a92daa719b" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_7a5932d39c250b68a0a030ff624edb05" parent="aspace_915a0da0f0606aea5783b0a92daa719b" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref678" level="file">
+          <did>
+            <unittitle>New York State Dept. of Commerce</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_4946d86e3445058392e6304653055ac0" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_4d6db57eb42b8b4425203068d7686814" parent="aspace_4946d86e3445058392e6304653055ac0" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref681" level="file">
+          <did>
+            <unittitle>NJ Bell, Rebuttal</unittitle>
+            <unitdate datechar="creation" normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_517a2e873b3c63e2e0a418b1cdb59f36" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_74a1daf86f520784f6cc7c80f2310fe8" parent="aspace_517a2e873b3c63e2e0a418b1cdb59f36" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref684" level="file">
+          <did>
+            <unittitle>Northwest Industries</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_2d2802fadd7977da3240288ca52f0c36" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_36b76da5bfcb383d0d4150893f46f14d" parent="aspace_2d2802fadd7977da3240288ca52f0c36" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref687" level="file">
+          <did>
+            <unittitle>Parke-Davis</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_f5e08451598f1c8a921391a275767e5f" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_a3fef16d095a426eeb7e445e9d164d23" parent="aspace_f5e08451598f1c8a921391a275767e5f" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref690" level="file">
+          <did>
+            <unittitle>Parke-Davis</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_eb523c07d7db152993aca8e4f4aca671" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_401fbd39931d5574099ebe0bf0e56aca" parent="aspace_eb523c07d7db152993aca8e4f4aca671" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref693" level="file">
+          <did>
+            <unittitle>Parke-Davis</unittitle>
+            <unitdate datechar="creation" normal="1972/1974" type="inclusive">1972-1974</unitdate>
+            <container id="aspace_adc4aa2f5e0818c727cd16c0b54b2190" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_16f00b48d6042849e06eadbc7cd18fd3" parent="aspace_adc4aa2f5e0818c727cd16c0b54b2190" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref696" level="file">
+          <did>
+            <unittitle>Penn-Dixie Cement Corp.</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_ad4d707beb3c3873b96906c680a79ceb" label="Mixed Materials [31142042261191]" type="Box">7</container>
+            <container id="aspace_fa88d8ddde663f4518bcc51a1c841034" parent="aspace_ad4d707beb3c3873b96906c680a79ceb" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref699" level="file">
+          <did>
+            <unittitle>Penn-Dixie Cement, Interest Rates</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_9fd72b99e879c94382abe8d47c1042b5" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_e88ad66f0c912b0c06ef53043f645e1c" parent="aspace_9fd72b99e879c94382abe8d47c1042b5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref702" level="file">
+          <did>
+            <unittitle>Post Office</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_07b8640d95a4d282778207a3abf6765a" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_4d665f5b2fd11a4426bccc4e1a363bc1" parent="aspace_07b8640d95a4d282778207a3abf6765a" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref705" level="file">
+          <did>
+            <unittitle>Publishers Association of New York</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_45f77393987035b6ab0dab0e507e5c73" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_0686a3bcd6012eb49a6759ce0eb2b694" parent="aspace_45f77393987035b6ab0dab0e507e5c73" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref708" level="file">
+          <did>
+            <unittitle>Public Service, Tests &amp; Exhibits</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_a3fcd49d351fed4d264cef7c19f44ce3" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_21007349dd6e3ccbeb6c6fa5fd2710ce" parent="aspace_a3fcd49d351fed4d264cef7c19f44ce3" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref711" level="file">
+          <did>
+            <unittitle>Public Service, Memos</unittitle>
+            <unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+            <container id="aspace_2409ef71732747687c0db7d72c246b7f" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_66ccfbfbfc9625d0f27ae56e07101952" parent="aspace_2409ef71732747687c0db7d72c246b7f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref714" level="file">
+          <did>
+            <unittitle>Public Service Electric &amp; Gas</unittitle>
+            <unitdate datechar="creation" normal="1975/1975" type="inclusive">1975</unitdate>
+            <container id="aspace_ec6f876ee9c79dc9c18a909174e29b25" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_92c8643cb70dd67f257f678f600eebb9" parent="aspace_ec6f876ee9c79dc9c18a909174e29b25" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref717" level="file">
+          <did>
+            <unittitle>Public Service</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_befd07227fc47ae42f88786e3cad8e9c" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_bcc8c9b1c9ff3bc601115ea0d1bad73c" parent="aspace_befd07227fc47ae42f88786e3cad8e9c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref720" level="file">
+          <did>
+            <unittitle>Pulp</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_5c2ac418acf87cfa39ea798d3682bffd" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_e44fdcdd3ed580133ffbd41d09d5dc1c" parent="aspace_5c2ac418acf87cfa39ea798d3682bffd" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref723" level="file">
+          <did>
+            <unittitle>Realty Advisory Board</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_69b282885ed63bf06162cdc09f89ef82" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_9d2099e0c80ce8ec36718a19b79e7275" parent="aspace_69b282885ed63bf06162cdc09f89ef82" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref726" level="file">
+          <did>
+            <unittitle>Realty Advisory Board</unittitle>
+            <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+            <container id="aspace_f04662bf1aa6a22cb330aafbfb5dfd01" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_99641288343a1eda18eea3ea1a5d4595" parent="aspace_f04662bf1aa6a22cb330aafbfb5dfd01" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref729" level="file">
+          <did>
+            <unittitle>Radio</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_ff457d423c1fde1dc7f38ca06f4fc387" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_38ecbe219c010dad560eee06066ab109" parent="aspace_ff457d423c1fde1dc7f38ca06f4fc387" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref732" level="file">
+          <did>
+            <unittitle>Rankin, James</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_5666129ce961fce90f77a5d275144324" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_f641c341f2f45f8c6c2cf1a63f8b1519" parent="aspace_5666129ce961fce90f77a5d275144324" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref735" level="file">
+          <did>
+            <unittitle>Rapid Shoe</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_c682905d7b9401ef46a2bc588677963f" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_7d509baf0d2b20aa95370bd8e373dd68" parent="aspace_c682905d7b9401ef46a2bc588677963f" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref738" level="file">
+          <did>
+            <unittitle>Reading</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_a0c55a2adfbfd3385ecc5ebbf120ac17" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_ec2efe520107a4a9dcfa55d6a46b2dae" parent="aspace_a0c55a2adfbfd3385ecc5ebbf120ac17" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref741" level="file">
+          <did>
+            <unittitle>Rockland</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_741f63a7c96ecd2ab3f865e5a6171102" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_3400940ca14f88d9c51a4e3984d311b5" parent="aspace_741f63a7c96ecd2ab3f865e5a6171102" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref744" level="file">
+          <did>
+            <unittitle>Sperry Rand Co., Treble Damage Case</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_ec0b94c1f28266fcd2e98ea30bf55142" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_7cbcba38ab3a6dc6d5929245718f7833" parent="aspace_ec0b94c1f28266fcd2e98ea30bf55142" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref747" level="file">
+          <did>
+            <unittitle>Steel</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_05afd1a6091501e69c896442460647ab" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_b02d6a6fad125f25278cf70f8b324529" parent="aspace_05afd1a6091501e69c896442460647ab" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref750" level="file">
+          <did>
+            <unittitle>Steel Scrap</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_704ae94f92a34a9deea08922aeb91f9c" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_dd141f21a3ed3a8288d0c59ed12366ee" parent="aspace_704ae94f92a34a9deea08922aeb91f9c" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref753" level="file">
+          <did>
+            <unittitle>Steel, Strand Corp</unittitle>
+            <unitdate datechar="creation" normal="1963/1964" type="inclusive">1963-1964</unitdate>
+            <container id="aspace_44ceb7a35efca55e82e20ae258806f6c" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_19fc0f8968206c12c8cd382f03771f80" parent="aspace_44ceb7a35efca55e82e20ae258806f6c" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref756" level="file">
+          <did>
+            <unittitle>Tanker</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_730cbd1da3085c4ec32e7bdda4ff5627" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_021b427c93c40b8715cfabe7e91af49d" parent="aspace_730cbd1da3085c4ec32e7bdda4ff5627" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref759" level="file">
+          <did>
+            <unittitle>Technicon</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_0f4f2867bcf21318c571e898296c3cd8" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_7fb1cd5bdacf35f46e68ad0cba80f1b0" parent="aspace_0f4f2867bcf21318c571e898296c3cd8" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref762" level="file">
+          <did>
+            <unittitle>Toledo Edison</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_fe4a8c88cde14eaf60216db291d7cdd7" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_67e9305f7bed3a59ccae59e6a248df53" parent="aspace_fe4a8c88cde14eaf60216db291d7cdd7" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref765" level="file">
+          <did>
+            <unittitle>Toledo Edison, Federal Power Commission Case</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_a96b1c9f290f8d7090174ac7d42e860c" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_734aa6f1cad51a5647f29c4cfa8c5ed4" parent="aspace_a96b1c9f290f8d7090174ac7d42e860c" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref768" level="file">
+          <did>
+            <unittitle>Tobacco</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_b27bc427122c4ff46130527d25fb5cc5" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_d7374519e4465469ec38e7d31f201991" parent="aspace_b27bc427122c4ff46130527d25fb5cc5" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref771" level="file">
+          <did>
+            <unittitle>Trade Secrets</unittitle>
+            <unitdate datechar="creation" normal="1973/1974" type="inclusive">1973-1974</unitdate>
+            <container id="aspace_69e762a717f8c86e956fd86210edaaaf" label="Mixed Materials [31142042261209]" type="Box">8</container>
+            <container id="aspace_b248a3e277007235a622190777b0ef34" parent="aspace_69e762a717f8c86e956fd86210edaaaf" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref774" level="file">
+          <did>
+            <unittitle>Unishops, Kessler Estates</unittitle>
+            <unitdate datechar="creation" normal="1975/1976" type="inclusive">1975-1976</unitdate>
+            <container id="aspace_40524b96cb3d43f5661ab8245524fc8a" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_97027183e819493fb4a1d63e1b4f53e6" parent="aspace_40524b96cb3d43f5661ab8245524fc8a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref777" level="file">
+          <did>
+            <unittitle>USM</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_f28ed7bbee6ea36a6a7725c5bdea0198" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_e9fad19a1c9e4ea1ddf14479c778a7c1" parent="aspace_f28ed7bbee6ea36a6a7725c5bdea0198" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref780" level="file">
+          <did>
+            <unittitle>United Fruit</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_5d37d8fb96b6030b185282b10e41933b" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_726bc38afe278a01f3b8cb43ed675606" parent="aspace_5d37d8fb96b6030b185282b10e41933b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref783" level="file">
+          <did>
+            <unittitle>US Line, RJ Reynolds Tobacco</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_fb21b7f37bbd39dbcf1a567a3a13af15" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_3018a074d551e106a1c13eb32468b7b2" parent="aspace_fb21b7f37bbd39dbcf1a567a3a13af15" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref786" level="file">
+          <did>
+            <unittitle>Westinghouse Broadcasting</unittitle>
+            <unitdate datechar="creation" normal="1976/1976" type="inclusive">1976</unitdate>
+            <container id="aspace_306ae64e4fb7fd4332cfbe1b6871f56b" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_712c35b3fa713dc0d38d65fb52ce0137" parent="aspace_306ae64e4fb7fd4332cfbe1b6871f56b" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref789" level="file">
+          <did>
+            <unittitle>Ad Prices</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_131e04609ab1505e5c2caaaebcd3d568" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_fcd6cddd44f37125336008300be0da73" parent="aspace_131e04609ab1505e5c2caaaebcd3d568" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref792" level="file">
+          <did>
+            <unittitle>Aluminum</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_2441919a44ecbdfe1c76482203e7fd2e" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_c68db546d36fd2e0516a2a4d7c5038af" parent="aspace_2441919a44ecbdfe1c76482203e7fd2e" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref795" level="file">
+          <did>
+            <unittitle>Autos</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_c27f37facf45c02615c8da109fed13d6" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_5fe0a4717b018c85148a7db9767cf83b" parent="aspace_c27f37facf45c02615c8da109fed13d6" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref798" level="file">
+          <did>
+            <unittitle>Beer</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_c37566b26876782f2f556cc58e6f7815" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_10382a3cdba69f087f0ddb32107263e2" parent="aspace_c37566b26876782f2f556cc58e6f7815" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref801" level="file">
+          <did>
+            <unittitle>Building Materials</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_37a883cf679fd3e849d2795d187345f7" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_f137000984ead52290788506d3cc1d00" parent="aspace_37a883cf679fd3e849d2795d187345f7" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref804" level="file">
+          <did>
+            <unittitle>Cans</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_66f5854e94571cb42a9b5da31f24d18a" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_946371de35e97b0619a79f88bcc027ea" parent="aspace_66f5854e94571cb42a9b5da31f24d18a" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref807" level="file">
+          <did>
+            <unittitle>Cement</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_a6a345ba0a32094d58187632cc667b88" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_230e6f7302a306f77bff46af8a25c096" parent="aspace_a6a345ba0a32094d58187632cc667b88" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref810" level="file">
+          <did>
+            <unittitle>Chemicals</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_ad061e2ebc684807c7186d4c7e70dd4f" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_acd4d018b3217d359615b282bb44fd5b" parent="aspace_ad061e2ebc684807c7186d4c7e70dd4f" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref813" level="file">
+          <did>
+            <unittitle>Cigarettes</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_233db557a255133340e7a3fa81349b2e" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_214908a3a3a8cc62a16984fa993f3190" parent="aspace_233db557a255133340e7a3fa81349b2e" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref816" level="file">
+          <did>
+            <unittitle>Computer Leasing</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_3dfefbc64a9acc3ad755df796b3b5dff" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_d4e72d60d3d2b652e4d27ec4dd4e4687" parent="aspace_3dfefbc64a9acc3ad755df796b3b5dff" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref819" level="file">
+          <did>
+            <unittitle>Construction</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_1ff4f5853efc952346c35ab75fc4fe60" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_c545dae76d72706074985ec91e90b3c5" parent="aspace_1ff4f5853efc952346c35ab75fc4fe60" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref822" level="file">
+          <did>
+            <unittitle>Copper, coal, zinc &amp; allied Products - Metals</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_94ef3bf3e0cdec410afe3e4950f3cd6e" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_5a5867fe0ce024669b5f443935c8b377" parent="aspace_94ef3bf3e0cdec410afe3e4950f3cd6e" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref825" level="file">
+          <did>
+            <unittitle>John Maxwell, Advertising</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_fefe1641141bfd659e0fca47581a54de" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_1a2ea9d8c7c6cc99e349c5d6714ea57d" parent="aspace_fefe1641141bfd659e0fca47581a54de" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref828" level="file">
+          <did>
+            <unittitle>AIE - SEC UK</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_a805f5ffeabb9652a7441f935c55db13" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_3e4feec8e69d3942ce43f651a80d15e6" parent="aspace_a805f5ffeabb9652a7441f935c55db13" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref831" level="file">
+          <did>
+            <unittitle>Electricity Rates</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_63a07039dda95808aabb16f03d9ec2c2" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_626cb23597de25e38cf15a418b898360" parent="aspace_63a07039dda95808aabb16f03d9ec2c2" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref834" level="file">
+          <did>
+            <unittitle>Farm Equipment</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_df4ce8e59810f8dd86dde8cb571c9d6f" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_e7c2c3ffd0cdfdac3172d93addf809ea" parent="aspace_df4ce8e59810f8dd86dde8cb571c9d6f" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref837" level="file">
+          <did>
+            <unittitle>Film</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_5a6e2cfe28b30e63bd25a2244657de73" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_f32abcd5160b2c560384146591943511" parent="aspace_5a6e2cfe28b30e63bd25a2244657de73" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref840" level="file">
+          <did>
+            <unittitle>Floor Coverings</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_2f5c492a4c546067529de7aebf65f2e5" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_e78dc5849e16485717a3b2bee17685bf" parent="aspace_2f5c492a4c546067529de7aebf65f2e5" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref843" level="file">
+          <did>
+            <unittitle>Food Products</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_c99a2177a81c3f1d47b7e892c3ab9779" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_7e4e2fe03aae05ae25796980ed028b04" parent="aspace_c99a2177a81c3f1d47b7e892c3ab9779" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref846" level="file">
+          <did>
+            <unittitle>Glass</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_04d21dc201c0e18b8bee01e937a09e34" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_ab4a77e1241f31098ac4eadb7c1183c3" parent="aspace_04d21dc201c0e18b8bee01e937a09e34" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref849" level="file">
+          <did>
+            <unittitle>Liquor</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_f0d0bb3d6da957d434e1d629a781eaa9" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_a77110cfd99d5b06634e2ff59ca5c3f4" parent="aspace_f0d0bb3d6da957d434e1d629a781eaa9" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref852" level="file">
+          <did>
+            <unittitle>Mortician Prices</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_df63f1fd885a2d684d015aff1cecfba8" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_32a46641cd2be0410c8359acde260db8" parent="aspace_df63f1fd885a2d684d015aff1cecfba8" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref855" level="file">
+          <did>
+            <unittitle>Oils</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_7bac4ceb72567683ec2e913190e9dcf4" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_00dd0b4bdafd6c3df2912e95c633731e" parent="aspace_7bac4ceb72567683ec2e913190e9dcf4" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref858" level="file">
+          <did>
+            <unittitle>Paints</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_a546094dd7afa721a9163e4ddc61b70c" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_3cc7c6aac5b75142ed8e2326cafb621e" parent="aspace_a546094dd7afa721a9163e4ddc61b70c" type="Folder">29</container>
+          </did>
+        </c>
+        <c id="aspace_ref861" level="file">
+          <did>
+            <unittitle>Paper Cup and Container Institute, Inc.</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_413691ab7425c3721146960cb5aff682" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_4fb33831077711f1599e74ad005d573d" parent="aspace_413691ab7425c3721146960cb5aff682" type="Folder">30</container>
+          </did>
+        </c>
+        <c id="aspace_ref864" level="file">
+          <did>
+            <unittitle>Photography</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_54314a78f58637fc439cb9edb7255f51" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_bf9755e5032d38a4e9584ba99c686d19" parent="aspace_54314a78f58637fc439cb9edb7255f51" type="Folder">31</container>
+          </did>
+        </c>
+        <c id="aspace_ref867" level="file">
+          <did>
+            <unittitle>Plastics</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_b5d8484377d52432b6cab16a535e8a90" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_2609293ae3799327e497bee858e42899" parent="aspace_b5d8484377d52432b6cab16a535e8a90" type="Folder">32</container>
+          </did>
+        </c>
+        <c id="aspace_ref870" level="file">
+          <did>
+            <unittitle>Plumbing Fixtures</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_688fbc04f07007505e1a015359d9ff05" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_831ddaa1fc66126336d4de8734ff41f0" parent="aspace_688fbc04f07007505e1a015359d9ff05" type="Folder">33</container>
+          </did>
+        </c>
+        <c id="aspace_ref873" level="file">
+          <did>
+            <unittitle>Postal Rates</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_ddc6aeae59b593193163cd6729d17acb" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_af3e0bfd33d4f36451206ad818e7630d" parent="aspace_ddc6aeae59b593193163cd6729d17acb" type="Folder">34</container>
+          </did>
+        </c>
+        <c id="aspace_ref876" level="file">
+          <did>
+            <unittitle>Price Leadership</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_75767eb80d162b48d3aba489f3549f5f" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_761531cd44d4dbb0a6cfdf1ae3a36baa" parent="aspace_75767eb80d162b48d3aba489f3549f5f" type="Folder">35</container>
+          </did>
+        </c>
+        <c id="aspace_ref879" level="file">
+          <did>
+            <unittitle>Rubber Products</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_ea3213122140c961477dd3849fac7ca2" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_10c78c1bb3e7c9cd26220941e9340a29" parent="aspace_ea3213122140c961477dd3849fac7ca2" type="Folder">36</container>
+          </did>
+        </c>
+        <c id="aspace_ref882" level="file">
+          <did>
+            <unittitle>Shipping</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_513cc30507d9a12d2292d76f684ac72b" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_a0c8cf10fbbb9d4d83d3f02019926057" parent="aspace_513cc30507d9a12d2292d76f684ac72b" type="Folder">37</container>
+          </did>
+        </c>
+        <c id="aspace_ref885" level="file">
+          <did>
+            <unittitle>Shoes</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_b611eb6ae0aa6a7023d035d6d61a9494" label="Mixed Materials [31142042261217]" type="Box">9</container>
+            <container id="aspace_f1164ff47777cc06146bd1d058eb203a" parent="aspace_b611eb6ae0aa6a7023d035d6d61a9494" type="Folder">38</container>
+          </did>
+        </c>
+        <c id="aspace_ref888" level="file">
+          <did>
+            <unittitle>Steel Price Increase</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_1d8c4093d484f6b5343c4a984244ebf2" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_aff0077a5a407a9d992ae89a0f5d748c" parent="aspace_1d8c4093d484f6b5343c4a984244ebf2" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref891" level="file">
+          <did>
+            <unittitle>Steel</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_8d13095a4adf542633b01000afd5d408" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_3a2641618425a0b3fb598a99be7dee81" parent="aspace_8d13095a4adf542633b01000afd5d408" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref894" level="file">
+          <did>
+            <unittitle>Steel - Price Cutting</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_f9fd269792f9ec26c7c6553d2e3d4b43" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_16f37df6a565625eeb80f016e7375345" parent="aspace_f9fd269792f9ec26c7c6553d2e3d4b43" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref897" level="file">
+          <did>
+            <unittitle>Sugar</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_554951b9931c606594a1605e850094aa" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_dddf30abf09b3f26e814d50e25f34cac" parent="aspace_554951b9931c606594a1605e850094aa" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref900" level="file">
+          <did>
+            <unittitle>Textiles</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_f954aa490f1acae99fad1413e3aedb76" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_b1652a4e62f4c75d06a6d76e74329e0a" parent="aspace_f954aa490f1acae99fad1413e3aedb76" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref903" level="file">
+          <did>
+            <unittitle>TV, Radio, and Records</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_3700a75bd22abc0ef275937b7536b924" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_67ecf5f63a0d312030b59c1de420aa96" parent="aspace_3700a75bd22abc0ef275937b7536b924" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref906" level="file">
+          <did>
+            <unittitle>Transportation Prices</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_4fd25402a59c701947455a34f0cdc1c4" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_b8674cfe28bef3d2cfe90c79041fb810" parent="aspace_4fd25402a59c701947455a34f0cdc1c4" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref909" level="file">
+          <did>
+            <unittitle>Water Heaters</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_817a2e999606b1d558e525714136e01d" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_61e32d674429846a315acfb32fb6e30d" parent="aspace_817a2e999606b1d558e525714136e01d" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref912" level="file">
+          <did>
+            <unittitle>Wood Products</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_ad35960b1ba3ebf734a588ba66b940a3" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_8c321b14dd5d5a99ec165638aa6f77d0" parent="aspace_ad35960b1ba3ebf734a588ba66b940a3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref915" level="file">
+          <did>
+            <unittitle>Untitled</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_ae7f69e347c2952f9ec92e927dafe34f" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_afd3e6fbf0d2731f1a78895b3c0084c6" parent="aspace_ae7f69e347c2952f9ec92e927dafe34f" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref918" level="file">
+          <did>
+            <unittitle>Bibles</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_9b56261839a0573265efa3677d59b058" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_6eec01bc19abeb50d871d30883d7a4c1" parent="aspace_9b56261839a0573265efa3677d59b058" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref921" level="file">
+          <did>
+            <unittitle>Advertising/Anti-Trust</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_903156f6deb0bfea12bbd36d1b213bde" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_46fb69bb18b9285d8934ebf272e37e93" parent="aspace_903156f6deb0bfea12bbd36d1b213bde" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref924" level="file">
+          <did>
+            <unittitle>Advertising - Speeches</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_23ee70976b3a85486069cd0b4aa2b557" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_e571f49c1848a6cc40275f564a3d627f" parent="aspace_23ee70976b3a85486069cd0b4aa2b557" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref927" level="file">
+          <did>
+            <unittitle>List for A&amp;C Book</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_dabe84057c283c032125464eb2a14835" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_3247ea4e83c664dd2f962205e4505dd8" parent="aspace_dabe84057c283c032125464eb2a14835" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref930" level="file">
+          <did>
+            <unittitle>A&amp;C Reviews</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_b9d481b10a0403de230e05a39e255afa" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_55afd18600cd23c51eb3c38295af14ff" parent="aspace_b9d481b10a0403de230e05a39e255afa" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref933" level="file">
+          <did>
+            <unittitle>AAAA</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_16ef60c01e94955daf433f137693bd60" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_12598e60adc01fb51c60235f79189136" parent="aspace_16ef60c01e94955daf433f137693bd60" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref936" level="file">
+          <did>
+            <unittitle>AMA</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_22afec03e3634399707f38e169080549" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_332e2f96c4e85bb0c887930e076661d8" parent="aspace_22afec03e3634399707f38e169080549" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref939" level="file">
+          <did>
+            <unittitle>Advertising, John Maxwell</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_8d45bbe8c756cf65b90cab25528e6c80" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_c6a216f09fd72225cc09a58228539254" parent="aspace_8d45bbe8c756cf65b90cab25528e6c80" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref942" level="file">
+          <did>
+            <unittitle>AIE - SEC UK</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_aab1b7e0354ee8ca8af9e9c9cc4ba51e" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_96027dd69159b0747ccbeb49dd86c682" parent="aspace_aab1b7e0354ee8ca8af9e9c9cc4ba51e" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref945" level="file">
+          <did>
+            <unittitle>NYU Club</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_0d6b80edc8e60e556a1f187ae657e8e0" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_9f6362dd9419892a5a6f90f5b637152a" parent="aspace_0d6b80edc8e60e556a1f187ae657e8e0" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref948" level="file">
+          <did>
+            <unittitle>Survey of Current Business</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_8f5cdde996df8d30746f15d5bca3fca9" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_bb44991310a716ea94fcbb4c8c587338" parent="aspace_8f5cdde996df8d30746f15d5bca3fca9" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref951" level="file">
+          <did>
+            <unittitle>Monthly Economic Letters</unittitle>
+            <unitdate datechar="creation" normal="1938/1975" type="inclusive">undated</unitdate>
+            <container id="aspace_7cafbb804e15e1d23c34a023222d52f1" label="Mixed Materials [31142042261225]" type="Box">10</container>
+            <container id="aspace_cf01b1407a69cfd2e92b0e9806774d19" parent="aspace_7cafbb804e15e1d23c34a023222d52f1" type="Folder">22</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

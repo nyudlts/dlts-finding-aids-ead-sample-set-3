@@ -1,0 +1,1495 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/wag_127">wag_127</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Jacob Pat Papers <num>WAG.127</num></titleproper>
+        <author>Jessica Weglein and Anton Weiss-Wendt, 1998</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Pat, Jacob.wpd</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 02:47:43 -0400</date>.</creation>
+      <langusage>Finding aid is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Jacob Pat Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Pat, Jacob, 1890-1966</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Patt, Rebecca</persname>
+      </origination>
+      <unitid>WAG.127</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.5 Linear Feet</extent>
+        <extent altrender="carrier">in 2 record cartons, 1 manuscript box and 1 oversize folder.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1930/1978" type="inclusive">circa 1930-1978</unitdate>
+      <unitdate datechar="creation" normal="1944/1960" type="bulk">1944-1960</unitdate>
+      <abstract id="aspace_bd655a4e3f5a0d6643d29b4273aba8b7">Jacob Pat was a journalist, writer and activist born in Bialystok, Russian Empire, in 1890. He served as the General Secretary of the Jewish Labor Bund's Central Association of Yiddish Schools in Warsaw, Poland in the years preceding World War II. A fund-raising trip in the fall of 1938 brought Jacob Pat to the United States where he was compelled to remain due to the war. He then devoted his efforts to anti-Nazi activity and rescue work and became the Executive Secretary of the Jewish Labor Comittee, a position he held until his retirement in 1963. He also served as a member of the Delegation of the Jewish Labor Bund to the U.S., and as a chairman of the Congress of Jewish Culture. These papers include correspondence, essays, writings, and photographs, in particular material pertaining to Pat's work with the Jewish Labor Committee.</abstract>
+      <langmaterial id="aspace_c5ee57c1abfdb839a65421ec240d38f3">Materials are in English, Yiddish and Hebrew.</langmaterial>
+    </did>
+    <acqinfo id="aspace_99f97ae63571caafa169f9ef546c32a6">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Rebecca Patt, the granddaughter of Jacob Pat, in 1996. The accession number associated with this gift is 1998.005 and 1998.008. </p>
+      <p>A negative and some accompanying correspondence found in the repository was added to the collection in 2014. The accession number associated with this material is 2014.112.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_d3369f95f2c81ebb85cdeb86e807ee6c">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_d4c18cbddb44154308469a0a78711538">
+      <head>Historical/Biographical Note</head>
+      <p>Jacob Pat was born in Bialystok, Russian Empire, in 1890. He attended yeshivas in Slobodka and Slutek and later graduated from a teachers' seminary in Vilna. Active in the Zionist-Socialist Workers Party from 1905, he dropped his Zionist sympathies and became a member of the social-democratic Jewish Labor Bund after World War I. While working as a teacher, he also served as secretary of the Jewish Community Board of Bialystok, 1917-1920. He lived in Warsaw from 1921 to 1938, and worked there as General Secretary of the Bund's Central Association of Yiddish Schools (CISHO), which enrolled an estimated 60,000 children throughout Poland during the interwar years. He was a prolific journalist, editing and writing for Bundist children's magazines, and serving as co-editor for the Polish Bund's newspaper, the <title render="italic">Folkstseitung</title>.</p>
+      <p>In the 1930s he traveled to the United States on fund-raising trips, representing the Bund schools. One such trip took him to New York City in the fall of 1938. Worsening conditions in Europe forced him to remain in the United States to devote himself to anti-Nazi activity and rescue work. He had left behind in Warsaw his wife, Rivke Pat, and two children, Emanuel and Naomi. The family fled to Vilna after the German invasion of Poland, and there Rivke Pat died. Emanuel and Naomi Patt (this spelling of the surname was adopted by them in the U.S.) were brought to the U.S. on special visas in 1940. Jacob Pat remarried, to Frieda Wider, in 1942.</p>
+      <p>In 1941 Pat became Executive Secretary of the Jewish Labor Committee, a position he held until his retirement in 1963. He also served as a member of the Delegation of the Jewish Labor Bund to the U.S., 1938-1947, as chairman of the Congress for Jewish Culture, and as co-editor of <title render="italic">Zukunft</title>. In 1946 he toured displaced persons camps and visited with communities of Jewish survivors in France and Eastern Europe; he wrote about his experiences in Poland in <title render="italic">Ashes and Fire</title>(1947). In later years he traveled extensively to Europe, South America and Israel. He was a frequent contributor to the Jewish press both in Yiddish and English, and published a number of books, including Conversations with Jewish Writers (1959). He died in New York City on April 26, 1966.</p>
+    </bioghist>
+    <scopecontent id="aspace_0ea409689f4ed0dbb953f2cbfa56cf03">
+      <head>Scope and Content Note</head>
+      <p>This collection consists of correspondence, including both incoming and outgoing letters which reflect Pat's involvement with a wide range of Jewish political and cultural organizations, and personal correspondence with friends from many countries. Of special note is a file of correspondence related to the publication of his Conversations with Jewish Writers, 1959-1960. Also included in the correspondence files are a small number of letters addressed to or written by other Jewish Labor Committee and Jewish Labor Bund officers and staff, which came into Pat's possession in the course of his work. The collection also includes a substantial amount of material illustrating Pat's work with the Jewish Labor Committee, manuscript and printed reports and essays on a variety of topics related to the Holocaust and Jewish survival, and records of his travels. A small number of documents dating from the years after Jacob Pat's death in 1966 were preserved by his widow, Frieda. Approximately three hundred and fifty black and white photographs document Pat's travels throughout Europe, Israel and South America on behalf of the Jewish Labor Committee and the Joint Distribution Committee. Also represented in the photographs are meetings, events and family members and friends. Notable individuals included in the photographs include Baruch Charney Vladeck, Szmul Zygielbojm and Golda Meir.</p>
+    </scopecontent>
+    <arrangement id="aspace_084258580830a63cfa0d8513944e35dc">
+      <head>Arrangement</head>
+      <p>Organized into 3 series: </p>
+      <p>Series I: Biographical and Correspondence, 1937-1971</p>
+      <p>Series II: Subject files, 1935-1978</p>
+      <p>Series III: Photographs, circa 1930-1969.</p>
+      <p>Series I is arranged chronologically and series II and III are arranged alphabetically by subject, and thereunder chronologically.</p>
+    </arrangement>
+    <phystech id="aspace_2f0aeedb111212bc24cf3e24308ae9e7">
+      <head>Physical Characteristics and Technical Requirements</head>
+      <p>Series I and II of the Jacob Pat Papers were microfilmed in 2005 by the OCLC Digital Collection and Preservation Services, with funding provided by the United States Holocaust Memorial Museum. Researchers must use microfilm for Series I and II of this collection; microfilm call number is Film R-7200, Reels 1-5.</p>
+    </phystech>
+    <prefercite id="aspace_ad83711e6afdea7caba687b27ea09762">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date; Jacob Pat Papers; WAG 127; box number; folder number; <lb/>Tamiment Library/Robert F. Wagner Labor Archives <lb/>Elmer Holmes Bobst Library <lb/>70 Washington Square South <lb/>New York, NY 10012, New York University Libraries.</p>
+    </prefercite>
+    <userestrict id="aspace_8e739551c6e922bb5853be38684f2f85">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection, created by Jacob Pat was not transferred to New York University. Permission to use materials must be secured from the copyright holder.</p>
+    </userestrict>
+    <processinfo id="aspace_1f50ff38f94f3c0fc9012daf6dde3e24">
+      <head>Processing Information</head>
+      <p>Photographs separated from this collection during processing were established as a separate collection, the Jacob Pat Photographs (PHOTOS 143). In 2013, the photograph collection was reincorporated into the Jacob Pat Papers (WAG 127).</p>
+      <p>Materials in Box 3, Folder 14 were discovered in the repository and added to WAG 127 in 2014.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_048c82d819aa1fdbc001d27d73fea3c3">
+      <head>Related Archival Materials</head>
+      <p>Jewish Labor Committee, Chicago Records and Photographs (WAG 160)</p>
+      <p>Jewish Labor Committee Oral History Collection (OH 027)</p>
+      <p>Jewish Labor Committee Photographs (PHOTOS 048)</p>
+      <p>Jewish Labor Committee Records, Part I: Holocaust Era Files (WAG 025.1)</p>
+      <p>Jewish Labor Committee Records, Part II: Holocaust Era Files (WAG 025.2)</p>
+      <p>Jewish Labor Committee (U.S.) Records, Part III: Post-war Administrative Files and Anti-Discrimination Department Files (WAG 025.003)</p>
+      <p>Jewish Labor Committee Records, Part IV: Addendum (WAG 025.4)</p>
+    </relatedmaterial>
+    <controlaccess>
+      <geogname source="lcsh">Poland |x History |y 1918-1945.</geogname>
+      <subject source="lcsh">Antisemitism |z Soviet Union |x History |y 20th century.</subject>
+      <subject source="lcsh">Labor movement |z Poland.</subject>
+      <subject source="lcsh">Political parties |z Poland.</subject>
+      <subject source="lcsh">Holocaust, Jewish (1939-1945)</subject>
+      <subject source="lcsh">Holocaust survivors.</subject>
+      <subject source="lcsh">Jews |x Persecutions |z Europe.</subject>
+      <subject source="lcsh">Holocaust, Jewish (1939-1945) |z Poland.</subject>
+      <subject source="lcsh">Jewish refugees |z Hungary.</subject>
+      <subject source="lcsh">World War, 1939-1945 -- Jews -- Rescue.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Demonstrations |z France |x History |y 20th century.</subject>
+      <geogname source="lcsh">Australia |x History |y 1951-1965.</geogname>
+      <subject source="lcsh">Jews |x Politics and government.</subject>
+      <geogname source="lcsh">Soviet Union |x Foreign public opinion, French.</geogname>
+      <subject source="lcsh">Jewish refugees.</subject>
+      <genreform source="aat">Photographs.</genreform>
+      <subject source="lcsh">Anti-fascist movements -- United States.</subject>
+      <persname source="naf">Chanin, N., d. 1965</persname>
+      <corpname source="naf">Ogólny Żydowski Związek Robotniczy "Bund" w Polsce</corpname>
+      <corpname source="naf">Common Council for American Unity</corpname>
+      <corpname source="local">American Labor Committee</corpname>
+      <corpname source="naf">American Jewish Joint Distribution Committee</corpname>
+      <persname source="naf">Patt, Emanuel, 1912-1971</persname>
+      <persname source="naf">Pat, Jacob, 1890-1966</persname>
+      <corpname source="naf">International Ladies' Garment Workers' Union</corpname>
+      <corpname source="naf">Jewish Labor Committee (U.S.)</corpname>
+      <persname rules="dacs" source="local">Sherer, Emanuel</persname>
+      <persname source="ingest">Pat, Frieda Wider.</persname>
+      <corpname source="naf">General Jewish Council (U.S.)</corpname>
+      <persname rules="dacs" source="local">Held, Adolph, 1885-1969</persname>
+      <corpname source="naf">International Jewish Labor Bund</corpname>
+      <corpname source="naf">Congress for Jewish Culture</corpname>
+      <persname role="dnr" rules="dacs" source="local">Patt, Rebecca</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref11" level="series">
+        <did>
+          <unittitle>Series I: Biographical/Correspondence</unittitle>
+          <unitdate datechar="creation" normal="1937/1971" type="inclusive">1937-1971</unitdate>
+        </did>
+        <c id="aspace_ref12" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Biographical/Obituary Information</unittitle>
+            <unitdate datechar="creation" normal="1966/1971" type="inclusive">1966-1971</unitdate>
+            <container altrender="Record carton" id="aspace_63396f913d53be74406c02a3f18328c8" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_60d1715835b0ce58f16630ce3e036328" parent="aspace_63396f913d53be74406c02a3f18328c8" type="Folder">1</container>
+          </did>
+          <odd id="aspace_cee1eb212570d553d6a5fcbe814c99a9">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1935/1978" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_0d3b94791f6844b90ca7813781b1af9d" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_dca5e2c80d22e9db0f436b788f5cc08a" parent="aspace_0d3b94791f6844b90ca7813781b1af9d" type="Folder">2</container>
+          </did>
+          <odd id="aspace_e56d282e83a127bb9912585392e6509a">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container altrender="Record carton" id="aspace_f3f04a4d0fd0297b54ee4d37b4cbf833" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_69f0958059bd9537134525b3508c8abe" parent="aspace_f3f04a4d0fd0297b54ee4d37b4cbf833" type="Folder">3</container>
+          </did>
+          <odd id="aspace_880b7879bfefdc4336bed5cba448cce3">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1939/1939" type="inclusive">1939</unitdate>
+            <container altrender="Record carton" id="aspace_bf84543008a9a3a93c54b8af6e19e1c8" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_748e4381afd6e71302592c59749bcb4b" parent="aspace_bf84543008a9a3a93c54b8af6e19e1c8" type="Folder">4</container>
+          </did>
+          <odd id="aspace_09c0442101e1716e6b53749f97681df9">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+            <container altrender="Record carton" id="aspace_076ac9c1c72f8d7d173340d878bc6899" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_ecfc0fde1b953b8c70f86a91c71dc7d8" parent="aspace_076ac9c1c72f8d7d173340d878bc6899" type="Folder">5</container>
+          </did>
+          <odd id="aspace_a8d01ec2b007038e67b01738fc8fd37a">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_635c1c1e33fbae2cb03e979acc629265" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_0563b9cff3186101fcd6dec55583a3e0" parent="aspace_635c1c1e33fbae2cb03e979acc629265" type="Folder">6</container>
+          </did>
+          <odd id="aspace_5b83f70e3fd4cf22d4c87c0956004e8a">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref24" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate>
+            <container altrender="Record carton" id="aspace_5966cfaba47e3198f746e2acf1553462" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_7e08e7a739d75bb525a3ecc6da574dbc" parent="aspace_5966cfaba47e3198f746e2acf1553462" type="Folder">7</container>
+          </did>
+          <odd id="aspace_44fcd980f4f39828a37fba7c16c95c8a">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref26" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+            <container altrender="Record carton" id="aspace_aa6e11f9359d0423494f6a8df230640e" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_fa7828688079311d810dfce6a94dffbd" parent="aspace_aa6e11f9359d0423494f6a8df230640e" type="Folder">8</container>
+          </did>
+          <odd id="aspace_8f82d43d6fb00152ec8f53486afc9a23">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+            <container altrender="Record carton" id="aspace_85b4de8ddfab86e7b4e3cdc232689168" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_12faf75827eda4c6fc783c5b83cc67b8" parent="aspace_85b4de8ddfab86e7b4e3cdc232689168" type="Folder">9</container>
+          </did>
+          <odd id="aspace_1cce3bc1143efe7300fc8d1943ba51b9">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref30" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+            <container altrender="Record carton" id="aspace_4bbbf62d14b8e0a5a3ee22a89a422ec5" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_8c3b5fb63db2d206af372d4793b3a4b5" parent="aspace_4bbbf62d14b8e0a5a3ee22a89a422ec5" type="Folder">10</container>
+          </did>
+          <odd id="aspace_79fea7d1a80178685a12d463be64897d">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref32" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Record carton" id="aspace_1936ebd0b1e708cad61889da7e8c825c" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_2692ad8d7a84791a6bce1f8e4cced099" parent="aspace_1936ebd0b1e708cad61889da7e8c825c" type="Folder">11</container>
+          </did>
+          <odd id="aspace_6aa987b48b19c6586cfa355a8ef2e1e1">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1948/1950" type="inclusive">1948-1950</unitdate>
+            <container altrender="Record carton" id="aspace_ed2dcf95b42e15fbd0409fd8399233c9" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_3aee9d93c09e7a14626f3fa7b67ae8a0" parent="aspace_ed2dcf95b42e15fbd0409fd8399233c9" type="Folder">12</container>
+          </did>
+          <odd id="aspace_a05e2813c8b32e6c5da3710ea502ccb8">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref36" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Record carton" id="aspace_297c10d3d6ca7632536c525fde244e3e" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_de8fa947650b1d16748ed95a9d0bcb40" parent="aspace_297c10d3d6ca7632536c525fde244e3e" type="Folder">13</container>
+          </did>
+          <odd id="aspace_a826f565656178abfb49cce7754c251d">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref38" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+            <container altrender="Record carton" id="aspace_835b2284935b81d1406a4dfcfff96eef" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_51399376c363b9fcca4e3c05a9cce87d" parent="aspace_835b2284935b81d1406a4dfcfff96eef" type="Folder">14</container>
+          </did>
+          <odd id="aspace_efb2f91b938ab1621ad718929bf1fe29">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+            <container altrender="Record carton" id="aspace_e8d9f5a62e1419bc2e16b71815d3819c" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_2e3fe96b4ed3c606b620bd2c9afec41b" parent="aspace_e8d9f5a62e1419bc2e16b71815d3819c" type="Folder">15</container>
+          </did>
+          <odd id="aspace_aa5b86c2a0ff6585a4509f0a84c459e6">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref42" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">Jan 1955-Jul 1955</unitdate>
+            <container altrender="Record carton" id="aspace_9c96b6244267ebb1d40db743782fb91e" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_7a4d5da293de3a740847115f5b3fcd8f" parent="aspace_9c96b6244267ebb1d40db743782fb91e" type="Folder">16</container>
+          </did>
+          <odd id="aspace_98270ef7715764abcb7e3490eb6315d0">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref44" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">Aug 1955-Dec 1955</unitdate>
+            <container altrender="Record carton" id="aspace_08f4b2b4062b3363e1084da5ede449c0" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_077f5f22e3b72c924866e4a5b540d108" parent="aspace_08f4b2b4062b3363e1084da5ede449c0" type="Folder">17</container>
+          </did>
+          <odd id="aspace_ae8dbe43e33507973cddd9e1f4b72505">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">Jan 1955-Apr 1956</unitdate>
+            <container altrender="Record carton" id="aspace_367b73ffd446b4624a0bbd180b3eea2e" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_dfebd9bd76857752d9991199a445f31f" parent="aspace_367b73ffd446b4624a0bbd180b3eea2e" type="Folder">18</container>
+          </did>
+          <odd id="aspace_07c31cc33790a512d7b53aa06e8cd1e3">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref48" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">May 1955-Dec 1956</unitdate>
+            <container altrender="Record carton" id="aspace_c1b19f41e4d38d58360c34d5fa7085bb" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_500da1f844d20c294cccfbe7688a365e" parent="aspace_c1b19f41e4d38d58360c34d5fa7085bb" type="Folder">19</container>
+          </did>
+          <odd id="aspace_8c2a05ef9739aa2b88e9a4e73e92c30d">
+            <head>General note</head>
+            <p>Reel 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref50" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container altrender="Record carton" id="aspace_875b5e82c093acd895868418365d750b" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_0243dccb0049c32fbd9a30c7d5457cf5" parent="aspace_875b5e82c093acd895868418365d750b" type="Folder">20</container>
+          </did>
+          <odd id="aspace_20981b85eae339bf84466c1b705989c5">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Record carton" id="aspace_180f0605d8cce581c81577b947be2cb8" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_5f3184a5395d6ce5bad00d80e7d0ef42" parent="aspace_180f0605d8cce581c81577b947be2cb8" type="Folder">21</container>
+          </did>
+          <odd id="aspace_a3e363d78e3016e5162e0e3acfc0199e">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref54" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+            <container altrender="Record carton" id="aspace_77e881190550630e633b4dddce8f1d42" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_8100151771df4e57b454a204f050854d" parent="aspace_77e881190550630e633b4dddce8f1d42" type="Folder">22</container>
+          </did>
+          <odd id="aspace_8a9cf1bf6a1590b5b1ae5922edb99bfc">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref56" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container altrender="Record carton" id="aspace_d824965a990ac720cae4eb5141be427b" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_19acbc7454e0c21dd0346039369239ff" parent="aspace_d824965a990ac720cae4eb5141be427b" type="Folder">23</container>
+          </did>
+          <odd id="aspace_e443e9d9fcb32ada4ccd0648ade66a15">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container altrender="Record carton" id="aspace_bddbdc42985650ef1062751136cc3bd0" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_a3959130b3c15d35973234a32196ae43" parent="aspace_bddbdc42985650ef1062751136cc3bd0" type="Folder">24</container>
+          </did>
+          <odd id="aspace_6a245c95e50ee06b45502c432b87b61f">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref60" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">Jan 1962-May 1962</unitdate>
+            <container altrender="Record carton" id="aspace_1e67e4a83364aea959ca8d281b21dfa1" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_d7bf97ebcb08687f77bdc5ea7e518237" parent="aspace_1e67e4a83364aea959ca8d281b21dfa1" type="Folder">25</container>
+          </did>
+          <odd id="aspace_f32019401be5e6ece5449bcc9d54a109">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref62" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation">Jun 1962-Dec 1962</unitdate>
+            <container altrender="Record carton" id="aspace_95cdcc1f25dab38114e1741cdd466e72" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_f57eb356209fd73036508763954ddf32" parent="aspace_95cdcc1f25dab38114e1741cdd466e72" type="Folder">26</container>
+          </did>
+          <odd id="aspace_9eb7b05b9bfcbc1e921929c4367460f3">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Record carton" id="aspace_3ed9c6a5226ae95ac50fbf8f104fcc5d" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_dd7a8c45743871991a1652b0db64b3d8" parent="aspace_3ed9c6a5226ae95ac50fbf8f104fcc5d" type="Folder">27</container>
+          </did>
+          <odd id="aspace_dd2a5bc40c65560557a5e20d8c24bd08">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref66" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container altrender="Record carton" id="aspace_bf3d70970bd7201d9bd4df31805f0c6b" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_f032b28a377e2a667609ca02bbe45607" parent="aspace_bf3d70970bd7201d9bd4df31805f0c6b" type="Folder">28</container>
+          </did>
+          <odd id="aspace_654ac83721a6dfffe7a665ce7385565a">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref68" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container altrender="Record carton" id="aspace_23da3d172872db454c388ac1c200d6fe" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_c3abd2b787f0991fbd491b456beaf18e" parent="aspace_23da3d172872db454c388ac1c200d6fe" type="Folder">29</container>
+          </did>
+          <odd id="aspace_1edf52b899b12ae1d5ddc6dafb81c6a6">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref70" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1966/1981" type="inclusive">1966 , 1972 , 1981</unitdate>
+            <container altrender="Record carton" id="aspace_9e25f490f39fdeceea6276d5d123d7b2" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_75c363c1d0c873a0f7951b58c2d0c31c" parent="aspace_9e25f490f39fdeceea6276d5d123d7b2" type="Folder">30</container>
+          </did>
+          <odd id="aspace_cab2a92ebafe0fedfe5c8b30ec2b4d02">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref72" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: Bialystoker Book</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container altrender="Record carton" id="aspace_7e59a56ce81e7b086964bd972a317f53" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_13bd4d819f830090d956878bc5b2d552" parent="aspace_7e59a56ce81e7b086964bd972a317f53" type="Folder">31</container>
+          </did>
+          <odd id="aspace_b540ef26bcf907e301641cca7a980ad6">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref74" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: Related to Sihot im Soforim Yehudiyim (Conversations with Jewish Writers)</unittitle>
+            <unitdate datechar="creation" normal="1959/1960" type="inclusive">1959-1960</unitdate>
+            <container altrender="Record carton" id="aspace_4862657001209e1c583a79ddd2906216" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_77f3f0b9b5b76136bf2aa6a4fc7706f1" parent="aspace_4862657001209e1c583a79ddd2906216" type="Folder">32</container>
+          </did>
+          <odd id="aspace_5116b3d8e71206e3a0dccbecdb790139">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref76" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence: Sherer, Emanuel</unittitle>
+            <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+            <container altrender="Record carton" id="aspace_6a9af1038ddcff2b15be9582cc9f3511" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_421ae1a9edeee32c01de223eebb1b4c5" parent="aspace_6a9af1038ddcff2b15be9582cc9f3511" type="Folder">33</container>
+          </did>
+          <odd id="aspace_ce9dffa6d6ccb4490aee6d60af74023e">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref78" level="series">
+        <did>
+          <unittitle>Series II: Subject Files</unittitle>
+          <unitdate datechar="creation" normal="1935/1978" type="inclusive">1935-1978</unitdate>
+        </did>
+        <c id="aspace_ref79" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Address Books &amp; Business Cards</unittitle>
+            <unitdate datechar="creation" normal="1940/1959" type="inclusive">1940s-1950s</unitdate>
+            <container altrender="Record carton" id="aspace_789cb899e83c923a1984b6bd26cc141b" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_cd701f643249fd3100d7d547b75f53f2" parent="aspace_789cb899e83c923a1984b6bd26cc141b" type="Folder">34</container>
+          </did>
+          <odd id="aspace_de0ff606969d7908cf55fac87ed77525">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref81" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>American Jewish Joint Distribution Committee</unittitle>
+            <unitdate datechar="creation" normal="1944/1946" type="inclusive">1944 , 1946</unitdate>
+            <container altrender="Record carton" id="aspace_52d8171454abb8b9d32b149d56d82856" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_8f5f4b2c8757dd6e4f973a90d669cf80" parent="aspace_52d8171454abb8b9d32b149d56d82856" type="Folder">35</container>
+          </did>
+          <odd id="aspace_b680832d5a1b4f54adb9752b22e8aec3">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref83" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>American Labor Committee</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container altrender="Record carton" id="aspace_05c8c9f98e2e1551ba7cd1bc864ec832" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_8491997dff2e380a641fb8883f06f6aa" parent="aspace_05c8c9f98e2e1551ba7cd1bc864ec832" type="Folder">36</container>
+          </did>
+          <odd id="aspace_bdb419bd287d987ead679e43ba7150e7">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref85" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Australia</unittitle>
+            <unitdate datechar="creation" normal="1951/1965" type="inclusive">1951-1965</unitdate>
+            <container altrender="Record carton" id="aspace_a0a6949407d99ffbd9c7dad8687f4a0d" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_83044432666aec6f5907f81c5d7ccfde" parent="aspace_a0a6949407d99ffbd9c7dad8687f4a0d" type="Folder">37</container>
+          </did>
+          <odd id="aspace_cc581c27ad5f1a02d508ba8b5824ade5">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref87" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Australia: Trip - Clippings</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container altrender="Record carton" id="aspace_4b50ce4bc89fb808bb75f0e5d39acbce" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_aede552e7dfd34957abd6efdf0e3fd08" parent="aspace_4b50ce4bc89fb808bb75f0e5d39acbce" type="Folder">38</container>
+          </did>
+          <odd id="aspace_3bfea85ba7e4334f83bf569fa6c24064">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref89" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Australia: Trip - Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1956/1957" type="inclusive">1956-1957</unitdate>
+            <container altrender="Record carton" id="aspace_b9381a732094ee0772283ee9fe461bf6" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_130ba60cbfcaaf5f0d984a719332c934" parent="aspace_b9381a732094ee0772283ee9fe461bf6" type="Folder">39</container>
+          </did>
+          <odd id="aspace_28f4d6a283451d0f3c1af29c9a81e925">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref91" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bessarabian Jewry</unittitle>
+            <unitdate datechar="creation" normal="1935/1978" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_e6b638fca682f0bf417848ece40adae4" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_e85f7940b5cebc1eaf368e159424435f" parent="aspace_e6b638fca682f0bf417848ece40adae4" type="Folder">40</container>
+          </did>
+          <odd id="aspace_229be900cf4918bcde690675839ee8e5">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref93" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bialystok</unittitle>
+            <unitdate datechar="creation" normal="1935/1978" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_2b1889051a0648aa9e8d9c8d24883fa9" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_f8ef508e8c2e3b1544d16c3bf674ce4e" parent="aspace_2b1889051a0648aa9e8d9c8d24883fa9" type="Folder">41</container>
+          </did>
+          <odd id="aspace_3fd8f0f360a7bf58ab57e93349979b27">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref95" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Bialystok: Research by Nachman Blumental</unittitle>
+            <unitdate datechar="creation" normal="1940/1949" type="inclusive">1940s</unitdate>
+            <container altrender="Record carton" id="aspace_f1d41cd1c859cc5b1cfc85dfad2eeecd" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_a03ce2d510fb2806b441e920be00f147" parent="aspace_f1d41cd1c859cc5b1cfc85dfad2eeecd" type="Folder">42</container>
+          </did>
+          <odd id="aspace_cb218545b441a58ff2e0c38f2c3379ae">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref97" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Chanin: Zionism &amp; Communism</unittitle>
+            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+            <container altrender="Record carton" id="aspace_e1de60e09840fa1f6902770d7ea8ed36" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_4f08b7625bdfe3af7f3bc2b7ea64319a" parent="aspace_e1de60e09840fa1f6902770d7ea8ed36" type="Folder">43</container>
+          </did>
+          <odd id="aspace_11aa330f8b4b517d37621939a7bee50b">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref99" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>China (Mezhiborsky, D., memorabilia)</unittitle>
+            <unitdate datechar="creation" normal="1941/1943" type="inclusive">1941-1943</unitdate>
+            <container altrender="Record carton" id="aspace_d4a1eebf8e2a77f3769565e9f4d2ac59" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_77ad0551658ae776f5f92d87fa8d1d4c" parent="aspace_d4a1eebf8e2a77f3769565e9f4d2ac59" type="Folder">44</container>
+          </did>
+          <odd id="aspace_653cdf2829ffafed25fc86a4d6446766">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref101" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Citizens Committee on Displaced Persons</unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Record carton" id="aspace_c919daa32ed49ae68e4fc55e492591e7" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_129f32e4920828c0836ba2fb5c29a545" parent="aspace_c919daa32ed49ae68e4fc55e492591e7" type="Folder">45</container>
+          </did>
+          <odd id="aspace_97c8cbbd93f8ec67290784c2d5d2f8ae">
+            <head>General note</head>
+            <p>Reel 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref103" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Citizens Committee on Displaced Persons</unittitle>
+            <unitdate datechar="creation" normal="1949/1957" type="inclusive">1949-1957</unitdate>
+            <container altrender="Record carton" id="aspace_fe47ff643b17da129dbba6540fabcce4" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_2b8acabafb7160f9da7850f54cf8172f" parent="aspace_fe47ff643b17da129dbba6540fabcce4" type="Folder">46</container>
+          </did>
+          <odd id="aspace_174c1a743c5673a1c07e29956caabd2b">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref105" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Common Council for American Unity</unittitle>
+            <unitdate datechar="creation" normal="1948/1957" type="inclusive">1948-1957</unitdate>
+            <container altrender="Record carton" id="aspace_d18b99c6afa0ec7801f05154ae028762" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_8109cd8148b2043609659e388cc05e03" parent="aspace_d18b99c6afa0ec7801f05154ae028762" type="Folder">47</container>
+          </did>
+          <odd id="aspace_be2ad3f601d79d511287143e3606f233">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref107" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Conference: Goals of the Jewish Labor Movement</unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Record carton" id="aspace_2cd028d6f798a0b7679b36f8769d1a5f" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_26851fa4f32f62092bb618d77841497c" parent="aspace_2cd028d6f798a0b7679b36f8769d1a5f" type="Folder">48</container>
+          </did>
+          <odd id="aspace_65b328a92c9b13f804d88e68927e0f8d">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref109" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Congress for Jewish Culture</unittitle>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+            <container altrender="Record carton" id="aspace_6059bd02382abd6b0c3d531c7e206183" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_060f425366fa3f12e0a8581c618be8f9" parent="aspace_6059bd02382abd6b0c3d531c7e206183" type="Folder">49</container>
+          </did>
+          <odd id="aspace_8da29af41273ba156a79c55129984590">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref111" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Diaries</unittitle>
+            <unitdate datechar="creation" normal="1940/1959" type="inclusive">1940s-1950s</unitdate>
+            <container altrender="Record carton" id="aspace_529f1cc1538a9282b61b4b7cc1571e65" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_2921c3f6399fc0db6f8f8ddf196003a6" parent="aspace_529f1cc1538a9282b61b4b7cc1571e65" type="Folder">50</container>
+          </did>
+          <odd id="aspace_be45b5794e249fdec142608136d9baf6">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref113" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Displaced Persons Act</unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Record carton" id="aspace_88657c48f076e5ebdcdf99927dacbcc5" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_14ef7a68f9bc033dbdb1fa98f06f140b" parent="aspace_88657c48f076e5ebdcdf99927dacbcc5" type="Folder">51</container>
+          </did>
+          <odd id="aspace_493aa10eeeb01a635a9ad84a4a482677">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref115" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Displaced Persons Bill</unittitle>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+            <container altrender="Record carton" id="aspace_ed431e1e9a8ee10d64582a195708ec4c" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_4a95426bc0e00c33ece6948edc58b22a" parent="aspace_ed431e1e9a8ee10d64582a195708ec4c" type="Folder">52</container>
+          </did>
+          <odd id="aspace_822e74ffcf85a7514c208280d7d72420">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref117" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Displaced Persons Screening</unittitle>
+            <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+            <container altrender="Record carton" id="aspace_62baa5ed9d3e927e0d4df578e9b5c1b7" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_c8a1aab480f35fe8d27cf19c7e63361b" parent="aspace_62baa5ed9d3e927e0d4df578e9b5c1b7" type="Folder">53</container>
+          </did>
+          <odd id="aspace_72cbd4d3042e1853006cdbc3ca897e30">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref119" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Erlich and Alter Case</unittitle>
+            <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate>
+            <container altrender="Record carton" id="aspace_70dfd7724f50477ee7d6da985e345af9" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_cb54c1be621521f12767d11992acab7e" parent="aspace_70dfd7724f50477ee7d6da985e345af9" type="Folder">54</container>
+          </did>
+          <odd id="aspace_52fa1de1fdbb7e2c577854ed1704f8d1">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref121" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Exhibition: "Europe's Fighting Underground"</unittitle>
+            <unitdate datechar="creation" normal="1940/1949" type="inclusive">1940s</unitdate>
+            <container altrender="Record carton" id="aspace_01c837cffbfc71d12197042c254afe8a" label="Mixed Materials [31142062718450]" type="Box">1</container>
+            <container id="aspace_5f5afe638f2a3267e68a05f35c894df7" parent="aspace_01c837cffbfc71d12197042c254afe8a" type="Folder">55</container>
+          </did>
+          <odd id="aspace_84de696e5c5caf5c1d8e2fdcb11dd70e">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref123" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>France: Mouvement National Contre le Racisme- pamphlets &amp; newsletters</unittitle>
+            <unitdate datechar="creation" normal="1943/1944" type="inclusive">1943-1944</unitdate>
+            <container altrender="Record carton" id="aspace_60f3f9dd855db65d627f6ff38f3fb67f" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_6ddd7564b20b6ef000386941b6adc217" parent="aspace_60f3f9dd855db65d627f6ff38f3fb67f" type="Folder">1</container>
+          </did>
+          <odd id="aspace_69715aed23673e5a1ebacc1669969a7e">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref125" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>France: Protest of Soviet Anti-Semitism</unittitle>
+            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s</unitdate>
+            <container altrender="Record carton" id="aspace_fbfa1065993950a933b4cd165110db02" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_32aa4a2ef34cc37374202cf850c7a809" parent="aspace_fbfa1065993950a933b4cd165110db02" type="Folder">2</container>
+          </did>
+          <odd id="aspace_ab810e5f8ecd3b165e38bbd0d3291ca3">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref127" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Fund Transfer: European</unittitle>
+            <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+            <container altrender="Record carton" id="aspace_560afdff44b3ccad36e4731428fe61e7" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_1d61b3a210a6c8d7065b94f1b850ac5b" parent="aspace_560afdff44b3ccad36e4731428fe61e7" type="Folder">3</container>
+          </did>
+          <odd id="aspace_dfe716ccec115dc7c989ed1ed0fbefa7">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref129" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>General Jewish Council</unittitle>
+            <unitdate datechar="creation" normal="1943/1944" type="inclusive">1943-1944</unitdate>
+            <container altrender="Record carton" id="aspace_9b7c769172842a4ca39c120cec03b87c" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_305c1a9dae3c9ea368921770bf1fc382" parent="aspace_9b7c769172842a4ca39c120cec03b87c" type="Folder">4</container>
+          </did>
+          <odd id="aspace_769dae81e2c2645a22dfb9cc761f9f46">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref131" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Germany</unittitle>
+            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+            <container altrender="Record carton" id="aspace_54850ac9af2b2e73195fe9b8ccd593ff" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_fcebe33da167e23c3047a39184139fe5" parent="aspace_54850ac9af2b2e73195fe9b8ccd593ff" type="Folder">5</container>
+          </did>
+          <odd id="aspace_99abb41a56220fcd0e26052b69435553">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref133" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Held, Adolph - Speeches &amp; Addresses</unittitle>
+            <unitdate datechar="creation" normal="1940/1949" type="inclusive">1940s</unitdate>
+            <container altrender="Record carton" id="aspace_c28019e848e94dc2ba5d3f207f79b0d2" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_585d125919d5fa648215e9d223c3ac6f" parent="aspace_c28019e848e94dc2ba5d3f207f79b0d2" type="Folder">6</container>
+          </did>
+          <odd id="aspace_ba7cc776d781f7d8152c81bac6abe8e5">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref135" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Hungarian Reports</unittitle>
+            <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+            <container altrender="Record carton" id="aspace_235ba441d2a955d06cbe7b8fe59a1d6c" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_18b8fb0df9f729bc808d1a8fd04f986e" parent="aspace_235ba441d2a955d06cbe7b8fe59a1d6c" type="Folder">7</container>
+          </did>
+          <odd id="aspace_46357d71f648ef33760582c2b3b618ee">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref137" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Hungarian Rescue</unittitle>
+            <unitdate datechar="creation" normal="1944/1945" type="inclusive">1944-1945</unitdate>
+            <container altrender="Record carton" id="aspace_250a67d4f7cfb6ba2acfbf2ae68de2fa" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_172b30d5e4a334639e7fb0ea8dc6a99e" parent="aspace_250a67d4f7cfb6ba2acfbf2ae68de2fa" type="Folder">8</container>
+          </did>
+          <odd id="aspace_0e8d47a5b34c5b23ed227203a22439f3">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref139" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Immigration</unittitle>
+            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+            <container altrender="Record carton" id="aspace_00248131cb6837af1422cfd9f1b904b8" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_113de038c5eb9216c9cf3ef032770a51" parent="aspace_00248131cb6837af1422cfd9f1b904b8" type="Folder">9</container>
+          </did>
+          <odd id="aspace_b0f49166915d2ded197b3d28a471cbd7">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref141" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Immigration</unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Record carton" id="aspace_c93bac6626e02eb729a83e4f8686ee51" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_cc3d6c3a8c8c71a45f436f1c2ba4b7c2" parent="aspace_c93bac6626e02eb729a83e4f8686ee51" type="Folder">10</container>
+          </did>
+          <odd id="aspace_1b949aa752502d5fd24b3fae5e95b6f5">
+            <head>General note</head>
+            <p>Reel 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref143" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Immigration</unittitle>
+            <unitdate datechar="creation" normal="1948/1949" type="inclusive">1948-1949</unitdate>
+            <container altrender="Record carton" id="aspace_f80760e788a394a2597c59a447a2ad53" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_18a991e5cc1ddbb780cb26d2bc6f4c5a" parent="aspace_f80760e788a394a2597c59a447a2ad53" type="Folder">11</container>
+          </did>
+          <odd id="aspace_e55af8f70f03ea96bea6cb6f30f53de5">
+            <head>General note</head>
+            <p>Reel 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref145" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>International Ladies' Garment Workers' Union (ILGWU)</unittitle>
+            <unitdate datechar="creation">Jan 1945-Aug 1945</unitdate>
+            <container altrender="Record carton" id="aspace_0ba01058547b4d40e8bd9edac9085f19" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_6af9870fe5831aba4bb9f6ddcb0b02cc" parent="aspace_0ba01058547b4d40e8bd9edac9085f19" type="Folder">12</container>
+          </did>
+          <odd id="aspace_bf608484267c8c246f36e31fbd819a1b">
+            <head>General note</head>
+            <p>Reel 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref147" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>ILGWU</unittitle>
+            <unitdate datechar="creation">Sep 1945-Dec 1945</unitdate>
+            <container altrender="Record carton" id="aspace_c6c9860726bebf94ebb6921e738f0ce8" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_59c4356aa68db0eafd1a08bb4944ac5c" parent="aspace_c6c9860726bebf94ebb6921e738f0ce8" type="Folder">13</container>
+          </did>
+          <odd id="aspace_2f44b96380645818802f97ccecbb0e99">
+            <head>General note</head>
+            <p>Reel 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref149" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Israel</unittitle>
+            <unitdate datechar="creation" normal="1962/1964" type="inclusive">1962-1964</unitdate>
+            <container altrender="Record carton" id="aspace_d8926ea1a00200b4631dbdddc5335780" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_72ffb4f93e66f0e54dd4465bfcc9f598" parent="aspace_d8926ea1a00200b4631dbdddc5335780" type="Folder">14</container>
+          </did>
+          <odd id="aspace_bae5dd983ad9ec61a3b04d95f18ba01d">
+            <head>General note</head>
+            <p>Reel 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref151" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Italian-American Labor Council</unittitle>
+            <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+            <container altrender="Record carton" id="aspace_18e760d4943e7643b8efcd0d266c376e" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_d8c3cfb216875d44ec74f1b830cf43ad" parent="aspace_18e760d4943e7643b8efcd0d266c376e" type="Folder">15</container>
+          </did>
+          <odd id="aspace_0cb22f0781e3c9be239a7f002902c389">
+            <head>General note</head>
+            <p>Reel 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref153" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Jewish Labor Committee (JLC): General</unittitle>
+            <unitdate datechar="creation" normal="1942/1953" type="inclusive">1942-1953</unitdate>
+            <container altrender="Record carton" id="aspace_31ad9a6ded38bffb37fb6b8a53ba8d3b" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_1f64d542abbc7d828bd7ecb381988704" parent="aspace_31ad9a6ded38bffb37fb6b8a53ba8d3b" type="Folder">16</container>
+          </did>
+          <odd id="aspace_73d411135932c38899f7de20f89f870a">
+            <head>General note</head>
+            <p>Reel 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref155" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>JLC: Ab. Cahan Fund</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container altrender="Record carton" id="aspace_33caba64e9eb5952bbfcb791de3e9404" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_0ba7e6d98c494aeb7e6465bdd680535f" parent="aspace_33caba64e9eb5952bbfcb791de3e9404" type="Folder">17</container>
+          </did>
+          <odd id="aspace_bfb86c4dab3425d965beb20db1e1434b">
+            <head>General note</head>
+            <p>Reel 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref157" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>JLC: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1942/1942" type="inclusive">1942</unitdate>
+            <container altrender="Record carton" id="aspace_095f7de285f8913367b810ff40dcba2c" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_b60a5ef3ce29f94558b81c0ba770a2e0" parent="aspace_095f7de285f8913367b810ff40dcba2c" type="Folder">18</container>
+          </did>
+          <odd id="aspace_e7a68c16a10433d2bcf58e2ef89438cf">
+            <head>General note</head>
+            <p>Reel 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref159" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>JLC: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+            <container altrender="Record carton" id="aspace_a1bf9d60540af67ca0517c4fb6bb6fe0" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_3dc79edfd6bba938c9bd1adf4f30c840" parent="aspace_a1bf9d60540af67ca0517c4fb6bb6fe0" type="Folder">19</container>
+          </did>
+          <odd id="aspace_493181c9297ec93a708c95d815ef10be">
+            <head>General note</head>
+            <p>Reel 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref161" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>JLC: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+            <container altrender="Record carton" id="aspace_97e2eeda06b5eaa57ec92099766957b8" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_3b868aa7803851de74bf89609a1ae25f" parent="aspace_97e2eeda06b5eaa57ec92099766957b8" type="Folder">20</container>
+          </did>
+          <odd id="aspace_31a1e3caadf765488878925b731d8a0a">
+            <head>General note</head>
+            <p>Reel 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref163" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>JLC: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1946/1948" type="inclusive">1946-1948</unitdate>
+            <container altrender="Record carton" id="aspace_ce4bc0f8f493b9c82e7bab7e4c7267ba" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_6b062f85340650c99f840a2660f86f04" parent="aspace_ce4bc0f8f493b9c82e7bab7e4c7267ba" type="Folder">21</container>
+          </did>
+          <odd id="aspace_d6a686a20592aa4885f5a306d4f0dfda">
+            <head>General note</head>
+            <p>Reel 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref165" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>JLC: Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1951/1957" type="inclusive">1951 , 1957</unitdate>
+            <container altrender="Record carton" id="aspace_ca7dca3048956173aa72830dee3bd744" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_d5bf67f5268d7ef3a43a17b6cfd24616" parent="aspace_ca7dca3048956173aa72830dee3bd744" type="Folder">22</container>
+          </did>
+          <odd id="aspace_5e5d2e5d072f53369326dd22033f66e6">
+            <head>General note</head>
+            <p>Reel 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref167" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>JLC: Leivick Fund</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container altrender="Record carton" id="aspace_9df3daab2a92f2917ffc7c0d1e728b1e" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_0829a4ed32cd74d5b8a59ae15f7e3568" parent="aspace_9df3daab2a92f2917ffc7c0d1e728b1e" type="Folder">23</container>
+          </did>
+          <odd id="aspace_0c72afb70a3649600d577a58c38907c4">
+            <head>General note</head>
+            <p>Reel 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref169" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>JLC: Minutes of National Executive Committee Meeting (excerpt), 20 Nov 1943. "Report &amp; Discussion on the General Jewish Conference"</unittitle>
+            <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate>
+            <container altrender="Record carton" id="aspace_5bd8fdc9057470227afbd0946265b30a" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_b7f78f42343cf025bb928b6f06b3e35d" parent="aspace_5bd8fdc9057470227afbd0946265b30a" type="Folder">24</container>
+          </did>
+          <odd id="aspace_e02caae0516b8dd4674a70715453590b">
+            <head>General note</head>
+            <p>Reel 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref171" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>JLC: Printed Material</unittitle>
+            <unitdate datechar="creation" normal="1942/1974" type="inclusive">1942-1974</unitdate>
+            <container altrender="Record carton" id="aspace_edddc8a4fd371011f70d8993e3a84f3d" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_74244a1bb809cdbbfdecc533f7cf55f3" parent="aspace_edddc8a4fd371011f70d8993e3a84f3d" type="Folder">25</container>
+          </did>
+          <odd id="aspace_053337f46c0e9bd7ba83b1fa6065be08">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref173" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>JLC: Reports</unittitle>
+            <unitdate datechar="creation" normal="1942/1976" type="inclusive">1942-1976</unitdate>
+            <container altrender="Record carton" id="aspace_5a43459cb844e325bf6d2be2a65554aa" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_3a5f857e60856b9718ba4411bc5b8581" parent="aspace_5a43459cb844e325bf6d2be2a65554aa" type="Folder">26</container>
+          </did>
+          <odd id="aspace_dcf2e9d8d5b2c4ce1d57366a75d82b60">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref175" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>JLC: Women's Division</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container altrender="Record carton" id="aspace_70a496253ec0347c0b65f56bb21d432e" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_51fe1ba8fb48f8bb8362f9deacb696d0" parent="aspace_70a496253ec0347c0b65f56bb21d432e" type="Folder">27</container>
+          </did>
+          <odd id="aspace_ad3b0758a56d8456adb9e23e3e9c894f">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref177" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>JLC: Workmen's Circle Division</unittitle>
+            <unitdate datechar="creation" normal="1943/1951" type="inclusive">1943-1951</unitdate>
+            <container altrender="Record carton" id="aspace_2196e273ebed8c769c40931a237255ad" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_f1c0b91884cf99073f1ae32eecbdef9b" parent="aspace_2196e273ebed8c769c40931a237255ad" type="Folder">28</container>
+          </did>
+          <odd id="aspace_1c5407a6da5c1d283a92067dd27369e7">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref179" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Labor Chest (AFL)</unittitle>
+            <unitdate datechar="creation" normal="1935/1937" type="inclusive">1935-1937</unitdate>
+            <container altrender="Record carton" id="aspace_cc0ca6112c416e83f3ee96b58df2de49" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_a88ef45d86d880a9f9786727da18f729" parent="aspace_cc0ca6112c416e83f3ee96b58df2de49" type="Folder">29</container>
+          </did>
+          <odd id="aspace_d2665c8eadf28dec44bd22ea42d4de09">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref181" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>League for Human Rights</unittitle>
+            <unitdate datechar="creation" normal="1940/1942" type="inclusive">1940-1942</unitdate>
+            <container altrender="Record carton" id="aspace_e8a2963e18367fa6470872ab99811812" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_616c158ffeb907be665bbc348e971d38" parent="aspace_e8a2963e18367fa6470872ab99811812" type="Folder">30</container>
+          </did>
+          <odd id="aspace_2ac39ba62b3c560022804ea7cbc9c2d7">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref183" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Pat, Frieda</unittitle>
+            <unitdate datechar="creation" normal="1946/1978" type="inclusive">1946-1978</unitdate>
+            <container altrender="Record carton" id="aspace_4bdfac25737659bec72c49abd7e52c4d" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_5d62b3a6ee3de9ee561781aa88475978" parent="aspace_4bdfac25737659bec72c49abd7e52c4d" type="Folder">31</container>
+          </did>
+          <odd id="aspace_81d334adb8affc300e5781faf76563ee">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref185" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Patt, Emanuel</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container altrender="Record carton" id="aspace_dcf677e9f7308eb250dcf3e602002487" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_acc6559d8f0bf28ae883e38ad185e0cd" parent="aspace_dcf677e9f7308eb250dcf3e602002487" type="Folder">32</container>
+          </did>
+          <odd id="aspace_c4f789c8dde2169ebb2f5f80e76c3247">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref187" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Poland</unittitle>
+            <unitdate datechar="creation" normal="1937/1940" type="inclusive">1937 , 1940</unitdate>
+            <container altrender="Record carton" id="aspace_f62908c477679dc9dcf24968ea75587a" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_90109bab3e8ec309759a65c8b5d87ae0" parent="aspace_f62908c477679dc9dcf24968ea75587a" type="Folder">33</container>
+          </did>
+          <odd id="aspace_651550fe5cf01206fc80aee8c77e0148">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref189" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Report: "Some Confidential Information on the Last Days"</unittitle>
+            <unitdate datechar="creation" normal="1935/1978" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_a68305a76dca121143aaf322a0c3a041" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_074f63cb584415c4d2c358547de77c1d" parent="aspace_a68305a76dca121143aaf322a0c3a041" type="Folder">34</container>
+          </did>
+          <odd id="aspace_60cd6c74c4ad0bc004f6ba65a85c7796">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref191" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Reports, Notes, &amp; Writings</unittitle>
+            <unitdate datechar="creation" normal="1940/1969" type="inclusive">1940s-1960s</unitdate>
+            <container altrender="Record carton" id="aspace_e7ee56b1a4dce10393aba079e845b9f5" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_53ef8f494d839ad9959ad5eea8459f8f" parent="aspace_e7ee56b1a4dce10393aba079e845b9f5" type="Folder">35</container>
+          </did>
+          <odd id="aspace_8f102e5dcc26f283a7574ecffcccc675">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref193" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Retirement</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Record carton" id="aspace_19e5732447bca2b26510d7e8cc279aae" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_6801d3c86eed667b45fbe8f685f2e124" parent="aspace_19e5732447bca2b26510d7e8cc279aae" type="Folder">36</container>
+          </did>
+          <odd id="aspace_7b7ec8b4f6b2a3d541336ebb5ef2e0a4">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref195" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Soviet Jewry</unittitle>
+            <unitdate datechar="creation" normal="1940/1959" type="inclusive">1940s-1950s</unitdate>
+            <container altrender="Record carton" id="aspace_b069e2179a908aa8673072a55626a479" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_b0c982040952bd5b04240a7ded3ef20f" parent="aspace_b069e2179a908aa8673072a55626a479" type="Folder">37</container>
+          </did>
+          <odd id="aspace_9df71065a847c9940f6ebac2b9f22780">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref197" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Vilna: Refugee List</unittitle>
+            <unitdate datechar="creation" normal="1930/1950" type="inclusive">ca.1940</unitdate>
+            <container altrender="Record carton" id="aspace_5c8a2aef1f0fa18ce784baef5f097e7c" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_de1a9d2b09ad141560d60b22191242cd" parent="aspace_5c8a2aef1f0fa18ce784baef5f097e7c" type="Folder">38</container>
+          </did>
+          <odd id="aspace_76e11ac3d23f1ce3547c897f37a3aacc">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref199" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Warsaw Ghetto Exhibition (Pictorial Statistics)</unittitle>
+            <unitdate datechar="creation" normal="1945/1945" type="inclusive">1945</unitdate>
+            <container altrender="Record carton" id="aspace_2e7acc3f3714331bb6a4703b40f8d6e2" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_35cf79e0e2f84445a178440c021b50ed" parent="aspace_2e7acc3f3714331bb6a4703b40f8d6e2" type="Folder">39</container>
+          </did>
+          <odd id="aspace_c3f4bcba54df7a35bb16fdf31e4862da">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref201" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Warsaw Ghetto Memorial</unittitle>
+            <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+            <container altrender="Record carton" id="aspace_22fbebf87d93903195b304cb7ff4d9be" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_c1bce239d9ec64cebd550c47e90fee1b" parent="aspace_22fbebf87d93903195b304cb7ff4d9be" type="Folder">40</container>
+          </did>
+          <odd id="aspace_c70aef1fa556f95879f68c28016585d4">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref203" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Wise, Shmuel: "Jewish Workers' Movement in the United States"</unittitle>
+            <unitdate datechar="creation" normal="1935/1978" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_d9ef97c3bd453f3ccc49bcdc58318ea8" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_634dfd54f87c7d831e4d558422088313" parent="aspace_d9ef97c3bd453f3ccc49bcdc58318ea8" type="Folder">41</container>
+          </did>
+          <odd id="aspace_5e2537ece31c148bf4591c7eec359b07">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref205" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Workmen's Circle, Branch 303 ("Jacob Pat Branch")</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container altrender="Record carton" id="aspace_84b83283d056915812dc5f2160d82caf" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_05cc877d04e4ce0d4f2accdb44e59e1a" parent="aspace_84b83283d056915812dc5f2160d82caf" type="Folder">42</container>
+          </did>
+          <odd id="aspace_ddf0a1e2e1b95d025c34ca5fbcdd5e06">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref207" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Workmen's Circle: Constitution</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Record carton" id="aspace_93e0288b69879008794b28952c8a1abb" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_659f299bde843d76625b7bd649cc792a" parent="aspace_93e0288b69879008794b28952c8a1abb" type="Folder">43</container>
+          </did>
+          <odd id="aspace_6fac8c7242442c79f7e0cb279112b1aa">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref209" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>World Conference of Jewish Organizations</unittitle>
+            <unitdate datechar="creation">Mar 1963</unitdate>
+            <container altrender="Record carton" id="aspace_d9f59db58351ecb7bfa84e52d481c04a" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_4a55fdc65cb55a79f19033c797ab33a3" parent="aspace_d9f59db58351ecb7bfa84e52d481c04a" type="Folder">44</container>
+          </did>
+          <odd id="aspace_62d571f24c57c316abee7123504e8774">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref219" level="file">
+          <did>
+            <unittitle>Yiddish Culture Organization</unittitle>
+            <unitdate datechar="creation">Jan 1945</unitdate>
+            <container altrender="Record carton" id="aspace_01fe5c9696b420e62be68831d912e665" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_34f8788b0a029a5dad499e17fb192f51" parent="aspace_01fe5c9696b420e62be68831d912e665" type="Folder">45</container>
+          </did>
+        </c>
+        <c id="aspace_ref211" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Yugentruf</unittitle>
+            <unitdate datechar="creation" normal="1935/1978" type="inclusive">undated</unitdate>
+            <container altrender="Record carton" id="aspace_10aca0bd6c12c355b5d7e38b3c0eb485" label="Mixed Materials [31142063037561]" type="Box">2</container>
+            <container id="aspace_06ab9e4be81065e9fcae05ca3c064e02" parent="aspace_10aca0bd6c12c355b5d7e38b3c0eb485" type="Folder">46</container>
+          </did>
+          <odd id="aspace_5159a0bde2b57044bff2f659a57fb4f1">
+            <head>General note</head>
+            <p>Reel 5</p>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref222" level="series">
+        <did>
+          <unittitle>Series III: Photographs</unittitle>
+          <unitdate datechar="creation" normal="1930/1969" type="inclusive">circa 1930-1969</unitdate>
+        </did>
+        <c id="aspace_ref223" level="file">
+          <did>
+            <unittitle>Album: Argentina and Brazil</unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">Mar 1948 - Jul 1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_91c4f12afc166b8794b88c57e9c01801" label="Mixed Materials [31142062718435]" type="Box">3</container>
+            <container id="aspace_5b35aa219c97ac8c62055feb120ed53a" parent="aspace_91c4f12afc166b8794b88c57e9c01801" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref224" level="file">
+          <did>
+            <unittitle>Album: Children's Home in Lodz (A gift from the JLC)</unittitle>
+            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e2fb85b7bda093ac74b1650563cd416f" label="Mixed Materials [31142062718435]" type="Box">3</container>
+            <container id="aspace_767bf87cf9720ac34fb9cf8668f58589" parent="aspace_e2fb85b7bda093ac74b1650563cd416f" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref225" level="file">
+          <did>
+            <unittitle>Canado, Trinidad and Brazil</unittitle>
+            <unitdate datechar="creation" normal="1935/1978" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_140e116a19f7d8cbfa015840b203f932" label="Mixed Materials [31142062718435]" type="Box">3</container>
+            <container id="aspace_9f97e46ec4c6844a090b854480261f2c" parent="aspace_140e116a19f7d8cbfa015840b203f932" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref226" level="file">
+          <did>
+            <unittitle>General </unittitle>
+            <unitdate datechar="creation" normal="1930/1939" type="inclusive">1930s</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_970699ea2d7ffda1ae85a8004f488642" label="Mixed Materials [31142062718435]" type="Box">3</container>
+            <container id="aspace_8216a10ad429946e1a1e3eba7997777c" parent="aspace_970699ea2d7ffda1ae85a8004f488642" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref227" level="file">
+          <did>
+            <unittitle>General (includes Szmul Zygielbojm)</unittitle>
+            <unitdate datechar="creation" normal="1940/1949" type="inclusive">1940s</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_eb8ec1425f4f3e794c7ce93e570a221f" label="Mixed Materials [31142062718435]" type="Box">3</container>
+            <container id="aspace_ffdf4741ca14c7374528dd165c3fc64e" parent="aspace_eb8ec1425f4f3e794c7ce93e570a221f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref228" level="file">
+          <did>
+            <unittitle>General</unittitle>
+            <unitdate datechar="creation" normal="1950/1959" type="inclusive">1950s</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cdbaed95d9c27eb5ee6e172ce8e7d776" label="Mixed Materials [31142062718435]" type="Box">3</container>
+            <container id="aspace_8cd3460d7ed4a7efe4e592021c980751" parent="aspace_cdbaed95d9c27eb5ee6e172ce8e7d776" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref229" level="file">
+          <did>
+            <unittitle>General</unittitle>
+            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960s</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_21cdc738d0abf56f99e286409b29349a" label="Mixed Materials [31142062718435]" type="Box">3</container>
+            <container id="aspace_7156c3819cb7d496c5fda861cc7b9598" parent="aspace_21cdc738d0abf56f99e286409b29349a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref230" level="file">
+          <did>
+            <unittitle>General</unittitle>
+            <unitdate datechar="creation" normal="1935/1978" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8268fcce896ea929bc0afce6f78a6cc1" label="Mixed Materials [31142062718435]" type="Box">3</container>
+            <container id="aspace_015cdb9402d21f53cbe64ae5aedc5d0f" parent="aspace_8268fcce896ea929bc0afce6f78a6cc1" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref231" level="file">
+          <did>
+            <unittitle>Israel and Europe</unittitle>
+            <unitdate datechar="creation" normal="1940/1949" type="inclusive">1940s</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e33c5d003c876958cd1eb72c964c6ae3" label="Mixed Materials [31142062718435]" type="Box">3</container>
+            <container id="aspace_ec9e2c4ed0b8cca4638e5775f603b963" parent="aspace_e33c5d003c876958cd1eb72c964c6ae3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref232" level="file">
+          <did>
+            <unittitle>Israel and Europe (includes Golda Meir)</unittitle>
+            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_73a20bba3b5ba9b0a10a56a9497f779a" label="Mixed Materials [31142062718435]" type="Box">3</container>
+            <container id="aspace_b95e88b64d4c39dc906da0ebb004e5f2" parent="aspace_73a20bba3b5ba9b0a10a56a9497f779a" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref233" level="file">
+          <did>
+            <unittitle>Negatives</unittitle>
+            <unitdate datechar="creation" normal="1935/1978" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9a2d96dc8338782d8238d3035548212b" label="Mixed Materials [31142062718435]" type="Box">3</container>
+            <container id="aspace_32ab80f11e6790a735f877ed156a19e1" parent="aspace_9a2d96dc8338782d8238d3035548212b" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref236" level="file">
+          <did>
+            <unittitle>Oversize Portrait</unittitle>
+            <unitdate datechar="creation" normal="1930/1978" type="inclusive">undated</unitdate>
+            <container altrender="Flat OS Box 17" id="aspace_2bab0685733db297c4c7432952fa5af0" label="Mixed Materials [31142062760247]" type="Box">Tamiment Shared OS007</container>
+            <container id="aspace_262a335740dcd688c622c3e59eb4ea7c" parent="aspace_2bab0685733db297c4c7432952fa5af0" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref234" level="file">
+          <did>
+            <unittitle>Photographs from Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1935/1978" type="inclusive">1953-1956; undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d80fb854490304c0475115d141e92f75" label="Mixed Materials [31142062718435]" type="Box">3</container>
+            <container id="aspace_1f98ef59e197bcc4a2bfbe6769bccebe" parent="aspace_d80fb854490304c0475115d141e92f75" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref235" level="file">
+          <did>
+            <unittitle>Uruguay (Joint Distribution Committee)</unittitle>
+            <unitdate datechar="creation" normal="1948/1948" type="inclusive">1948</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_aa52a3788a387746c8d91ac6ce023f3c" label="Mixed Materials [31142062718435]" type="Box">3</container>
+            <container id="aspace_c1faedaa0fa9fa963a482945aa92e67f" parent="aspace_aa52a3788a387746c8d91ac6ce023f3c" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref238" level="file">
+          <did>
+            <unittitle>Laskier, Kaplan, and Cukierman in German Military Uniforms</unittitle>
+            <unitdate datechar="creation">circa 1942, 1997</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4c28c9fd4dea247e95225562c50ca594" label="photographs [31142062718435]" type="Box">3</container>
+            <container id="aspace_5b7364c9f7009b7272f51f66fc9c2609" parent="aspace_4c28c9fd4dea247e95225562c50ca594" type="Folder">14</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

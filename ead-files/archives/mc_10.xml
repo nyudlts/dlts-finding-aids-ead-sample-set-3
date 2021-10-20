@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="in_progress" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_10">mc_10</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to Samuel F.B. Morse Papers <num>MC.10</num></titleproper>
+        <author>Bayrd Still and Tom Frusciano.  Electronic version prepared by Jackie Rider.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 19:55:04 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Samuel F.B. Morse Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Morse, Samuel Finley Breese, 1791-1872</persname>
+      </origination>
+      <origination label="Creator">
+        <persname rules="dacs" source="naf">Still, Bayrd</persname>
+      </origination>
+      <unitid>MC.10</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1838/1984" type="inclusive">1838-1984, undated</unitdate>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <scopecontent id="aspace_f6ce1a517820948a56d14019635ceed9">
+      <head>Scope and Contents</head>
+      <p>The Samuel F.B. Morse Collection contains inventories of letters from and about Morse; biographical summaries; papers relating to his career as an artist; his association with the University of the City of New York (now New York University); the invention of the telegraph and exhibitions thereof; and his experiments with photography. The collection also includes information on his will and his funeral; the Morse Plaque, which was placed on Main Building at NYU; the centennial celebration of his invention of the telegraph in 1944; the Morse Medal; and information concerning the Morse Telegraph Club, Inc.</p>
+      <p>The collection comprises one document box of material that serves as the primary reference file for the Archives staff on Morse.  Additional material on Morse in the New York University Archives consists of nine letters in the Chancellors' Records, 1827-1885 (RG 3.0.1), newspaper reports on an address to the University alumni in 1853, and monographs about Morse. </p>
+      <p>The Samuel F.B. Morse Collection includes an essay on Morse and his association with New York University by Gary Reynolds, former curator of the Grey Art Gallery at NYU, that appeared in the catalog prepared for the Samuel F.B. Morse exhibition at New York University, September 14 to October 23, 1982; a folder listing of the Morse Collection; and a bibliography of works on Morse in the New York University Archives.</p>
+    </scopecontent>
+    <bioghist id="aspace_ca89100cb1c2a6b45148112af3b290d1">
+      <head>Biographical/Historical note</head>
+      <p>Samuel F.B. Morse was born in Charlestown, Mass., April 27, 1791.  He began his association with the University of the City of New York (now New York University) at age 41. By this time he had an established reputation as an artist. Morse founded the National Academy of Design and presided over it since its inception in 1826. He lectured widely on art from 1826 to 1829. Morse left for Europe in 1829 and returned to New York in October, 1832. Within days he was appointed Chair of Sculpture and Painting at the University.</p>
+      <p>When the University Building on Washington Square opened in 1835, Morse rented space there for lodgings and to house a studio and laboratory for his experiments in photography and telegraphy. Morse left the University Building in 1841 but continued his association as professor of fine arts until his retirement in 1871. Although Morse's connection with the University has been described as "nominal," he maintained close contact with certain faculty members and emphasized his professorial connection.  He died April 2, 1872, in New York.</p>
+    </bioghist>
+    <separatedmaterial id="aspace_9d304376a0094f5828cacc68e78176d3">
+      <head>Separated Materials</head>
+      <p>NYU's Fales Library contains 24 letters written by Morse between 1822 and 1870 (see Folder 1 of Morse Collection for inventory).</p>
+    </separatedmaterial>
+    <arrangement id="aspace_4d591feee308d917ba1514eb0875afdc">
+      <head>Arrangement</head>
+      <p>The collection is arranged at the folder level by subject.</p>
+    </arrangement>
+    <accessrestrict id="aspace_77129a99c034cbbf8d15e43ea0b515d9">
+      <head>Conditions Governing Access</head>
+      <p>Open for research without restrictions.</p>
+    </accessrestrict>
+    <prefercite id="aspace_c61c2026195cb42814ba4e12125bc487">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: Identification of item, date (if known), Samuel F.B. Morse Papers; MC 10, box number, folder number, New York University Archives, New York University Libraries.</p>
+    </prefercite>
+    <controlaccess>
+      <genreform source="aat">photoprints.</genreform>
+      <subject source="lcsh">Photography</subject>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Memorabilia.</genreform>
+      <subject source="lcsh">Education -- Study and teaching -- United States</subject>
+      <genreform source="aat">Biographies.</genreform>
+      <subject source="lcsh">Art -- Study and teaching.</subject>
+      <subject source="lcsh">Inventions</subject>
+      <persname rules="dacs" source="local">Jones, Theodore Francis, 1885-1968</persname>
+      <persname source="naf">Morse, Herbert C.</persname>
+      <persname source="naf">Morse, Edward L.</persname>
+      <corpname rules="aacr" source="local">New York University. Department of Fine Arts. Sculpture and Painting</corpname>
+      <corpname rules="aacr" source="local">New York University. School of Design</corpname>
+      <corpname source="naf">Morse Society</corpname>
+      <corpname source="naf">National Academy of Design (U.S.)</corpname>
+      <corpname rules="dacs" source="naf">University of the City of New York</corpname>
+      <persname source="naf">Nally, Edward Julian, 1859-1953</persname>
+      <corpname source="naf">New York University -- Faculty -- 19th century</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref2" level="file">
+        <did>
+          <unittitle>Inventories of Morse letters and paintings at NYU</unittitle>
+          <unitdate datechar="creation" normal="1972/1983" type="inclusive">1972-1983</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_d65c5ac81384f77d6cf461289902fcaa" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_c5c02f25c8f31914fb306add797ea56b" parent="aspace_d65c5ac81384f77d6cf461289902fcaa" type="Folder">1</container>
+        </did>
+      </c>
+      <c id="aspace_ref13" level="file">
+        <did>
+          <unittitle>Biographical summaries and notes</unittitle>
+          <unitdate datechar="creation" normal="1901/1972" type="inclusive">1901-1972</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e12251c9c262a92139a4ccdf54e83f64" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_1b23cc5834df831ddbc67c7a42c9932f" parent="aspace_e12251c9c262a92139a4ccdf54e83f64" type="Folder">2</container>
+        </did>
+      </c>
+      <c id="aspace_ref14" level="file">
+        <did>
+          <unittitle>Morse as artist</unittitle>
+          <unitdate datechar="creation" normal="1932/1984" type="inclusive">1932-1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_0db371c911e1bbeeb534796aad888db5" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_9e0a0bda7c4c0542493c4b1c8bb50879" parent="aspace_0db371c911e1bbeeb534796aad888db5" type="Folder">3</container>
+        </did>
+      </c>
+      <c id="aspace_ref15" level="file">
+        <did>
+          <unittitle>Morse's association with the University of the City of New York (now New York University)</unittitle>
+          <unitdate datechar="creation" normal="1838/1984" type="inclusive">1838-1984</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_dc46b543739fbc8b8dd479fffb027652" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_6dcca3c515c66b416e7fa57d2e0257d1" parent="aspace_dc46b543739fbc8b8dd479fffb027652" type="Folder">4</container>
+        </did>
+      </c>
+      <c id="aspace_ref16" level="file">
+        <did>
+          <unittitle>Invention of the telegraph and exhibitions thereof</unittitle>
+          <unitdate datechar="creation" normal="1838/1965" type="inclusive">1838-1965</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f4de1ba36f1f3033b54bc52d20624846" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_f5268f9249dcf411b4dce4777fadcad7" parent="aspace_f4de1ba36f1f3033b54bc52d20624846" type="Folder">5</container>
+        </did>
+      </c>
+      <c id="aspace_ref17" level="file">
+        <did>
+          <unittitle>Morse's experiments with photography</unittitle>
+          <unitdate datechar="creation" normal="1840/1980" type="inclusive">1840-1980</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_d29bd129d1e6b14f80309fdd94f0b583" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_d69ad96314c9491c778a8f02eebf294c" parent="aspace_d29bd129d1e6b14f80309fdd94f0b583" type="Folder">6</container>
+        </did>
+      </c>
+      <c id="aspace_ref18" level="file">
+        <did>
+          <unittitle>Will and report of funeral--<emph render="italic">New York Times</emph> clipping</unittitle>
+          <unitdate datechar="creation" normal="1872/1872" type="inclusive">1872</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_267968a1fec4a2ac6bf0642136ee1fe7" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_08ee3b7a0c07bd93ef631cf1d9be70c8" parent="aspace_267968a1fec4a2ac6bf0642136ee1fe7" type="Folder">7</container>
+        </did>
+      </c>
+      <c id="aspace_ref19" level="file">
+        <did>
+          <unittitle>Morse family: letter, Edward L. Morse to Miss [?] Solomons</unittitle>
+          <unitdate datechar="creation" normal="1903/1903" type="inclusive">1903</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_a5b76d0466681141f9bf7c382b36390e" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_f98b5483f729cedbfd83d2d41658312b" parent="aspace_a5b76d0466681141f9bf7c382b36390e" type="Folder">8</container>
+        </did>
+      </c>
+      <c id="aspace_ref20" level="file">
+        <did>
+          <unittitle>Morse Chair of Fine Arts at NYU: miseellaneous notes and Council minutes (excerpts)</unittitle>
+          <unitdate datechar="creation" normal="1932/1983" type="inclusive">1932-1935, 1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_2463e41281bf0fdc3ac3b77de5e3e9b2" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_2ccdb7e039549ba72cc0bd81cb30e99a" parent="aspace_2463e41281bf0fdc3ac3b77de5e3e9b2" type="Folder">9</container>
+        </did>
+      </c>
+      <c id="aspace_ref21" level="file">
+        <did>
+          <unittitle>Morse Plaque or "tablet" on Main Building at NYU</unittitle>
+          <unitdate datechar="creation" normal="1932/1983" type="inclusive">1932-1935, 1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_34b9d3e10e011e685ef83af1bee43dcf" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_a4693bcd616d68d2825b9c451093854b" parent="aspace_34b9d3e10e011e685ef83af1bee43dcf" type="Folder">10</container>
+        </did>
+      </c>
+      <c id="aspace_ref22" level="file">
+        <did>
+          <unittitle>Proposal of Morse celebration</unittitle>
+          <unitdate datechar="creation" normal="1936/1936" type="inclusive">1936</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f6020e35d151f6d2e7cb49b27e8e7889" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_d55ffa352a4b483ba4aca7826f2b1dfa" parent="aspace_f6020e35d151f6d2e7cb49b27e8e7889" type="Folder">11</container>
+        </did>
+      </c>
+      <c id="aspace_ref23" level="file">
+        <did>
+          <unittitle>E.J. Nally collection of Morse memorabilia</unittitle>
+          <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          <container altrender="Manuscript box - Legal" id="aspace_91338e75e5f02485214649bc02af0f90" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_ad2111b16be29f96b2004fe4cd08af93" parent="aspace_91338e75e5f02485214649bc02af0f90" type="Folder">12</container>
+        </did>
+      </c>
+      <c id="aspace_ref24" level="file">
+        <did>
+          <unittitle>Centennial celebration of 1844 demonstration of telegraph, May 14, 1944</unittitle>
+          <unitdate datechar="creation" normal="1944/1944" type="inclusive">1944</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_dbeec93f1db051d1e550a11edd28986c" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_b9df15201ea0e4db4a5c05f0ac5688c3" parent="aspace_dbeec93f1db051d1e550a11edd28986c" type="Folder">13</container>
+        </did>
+      </c>
+      <c id="aspace_ref25" level="file">
+        <did>
+          <unittitle>Correspondence of Theodore F. Jones (historian of NYU) re Morse</unittitle>
+          <unitdate datechar="creation" normal="1929/1946" type="inclusive">1929-1946</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_88f06cadbca5b13f4c7e1a94ca04ecec" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_ad2a16d3ab00c46b4616d7f27b911103" parent="aspace_88f06cadbca5b13f4c7e1a94ca04ecec" type="Folder">14</container>
+        </did>
+      </c>
+      <c id="aspace_ref26" level="file">
+        <did>
+          <unittitle>Samuel F.B. Morse Medal</unittitle>
+          <unitdate datechar="creation" normal="1838/1984" type="inclusive">undated</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_8c69b8858368cd7eb16fccf63c696749" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_64496a8f4af09c49bae9c386c262d339" parent="aspace_8c69b8858368cd7eb16fccf63c696749" type="Folder">15</container>
+        </did>
+      </c>
+      <c id="aspace_ref27" level="file">
+        <did>
+          <unittitle>Morse Telegraph Club, Inc.</unittitle>
+          <unitdate datechar="creation" normal="1942/1982" type="inclusive">1942-1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_f8a4e0e6cc3e29e2d49e1843665d2eaf" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_dcc08dec35e31cdba23ad929ad816c26" parent="aspace_f8a4e0e6cc3e29e2d49e1843665d2eaf" type="Folder">16</container>
+        </did>
+      </c>
+      <c id="aspace_ref28" level="file">
+        <did>
+          <unittitle>Locust Grove: Young-Morse historic site</unittitle>
+          <unitdate datechar="creation" normal="1982/1982" type="inclusive">1982</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_e7154775e5b53f5b556c267d25d8231a" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_9a944776e95104ff14486483edfb0048" parent="aspace_e7154775e5b53f5b556c267d25d8231a" type="Folder">17</container>
+        </did>
+      </c>
+      <c id="aspace_ref29" level="file">
+        <did>
+          <unittitle>Morse Society: correspondence with Herbert C Morse II</unittitle>
+          <unitdate datechar="creation" normal="1983/1983" type="inclusive">1983</unitdate>
+          <container altrender="Manuscript box - Legal" id="aspace_15ff565efea06fe5e4665b846e28a8e8" label="Mixed Materials [31142063000676]" type="Box">1</container>
+          <container id="aspace_8d216c2d051f766714da99d5191586e1" parent="aspace_15ff565efea06fe5e4665b846e28a8e8" type="Folder">18</container>
+        </did>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

@@ -1,0 +1,1390 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/mc_122">mc_122</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Personal Papers of Carroll Newsom <num>MC.122</num></titleproper>
+        <author>Peter M. Braunstein</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from newsom01ES.xml</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 19:57:19 -0400</date>.</creation>
+      <langusage>Description is in English.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Carroll Newsom Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Newsom, Carroll V. (Carroll Vincent), 1904-1990</persname>
+      </origination>
+      <unitid>MC.122</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">6 Linear Feet</extent>
+        <extent altrender="carrier">in 11 boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1924/1986" type="inclusive">1924-1986</unitdate>
+      <physloc id="aspace_002f51786d941305751fb12ce0b60613">Materials are stored offsite and advance notice is required for use. Please request materials at least two business days prior to your research visit to coordinate access.</physloc>
+      <abstract id="aspace_30c1989b6f0f9320c54ea3ba5c78e309">Carroll Newsom was a businessman and scholar who was President of NYU from 1956-1962. The papers include Newsom's addresses, especially those given while at NYU and during the 1960's in general, publications by Newsom in journals and periodicals from 1940-1973, publications about Newsom relating to his role on advisory committes (e.g., curriculum survey of the New York State University system), programs which document the various functions he attended, miscellaneous materials (correspondence, reviews of Newsom's books, and diplomas), and newspapers and newspaper clippings relating to important events in his career.</abstract>
+      <langmaterial id="aspace_41a7fc9ec55405daa49e109ebb86d6e3">Materials are in English.</langmaterial>
+    </did>
+    <arrangement id="aspace_305a2918eb7e6b839e3c06dcedbf2505">
+      <head>Arrangement</head>
+      <p>The materials have been divided into print and non-print materials, contained in eleven manuscript boxes. Folders are arranged chronologically within each series.</p>
+      <p>The collection is divided into five series:</p>
+      <list type="ordered">
+        <head>Series</head>
+        <item>Series I: Addresses</item>
+        <item>Series II: Publications</item>
+        <item>Series III: Programs</item>
+        <item>Series IV: Miscellaneous Materials</item>
+        <item>Series V: Newspapers and Newspaper Clippings.</item>
+      </list>
+    </arrangement>
+    <separatedmaterial id="aspace_8a91722d3d3b0beea5972653f47450ce">
+      <head>Separated Material</head>
+      <p>Photos were removed and place in the University Archives photo collection.</p>
+    </separatedmaterial>
+    <relatedmaterial id="aspace_985763e854be52dae57b7294957494d4">
+      <head>Related Material</head>
+      <p>Archives H biographical files.</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_a020b901a938b5fd55137e17b53f196b">
+      <head>Scope and Content Note</head>
+      <p>The materials contained in this collection are strong in highlighting the ideas, ideals, and philosophy of Newsom as expressed in his many academic and corporate roles, but offer little original information with regard to his tenure as President of <corpname>New York University</corpname>. The collection is divided into five main series, as well as a supplementary photo collection which is located in the greater photo collection(see Cross-Reference sheet for further information regarding the Newsom photos.)</p>
+      <p>This collection contains no administrative records of Dr. Newsom, either while President of <corpname>New York University</corpname> or in any of his subsequent positions. The inclusive dates of the collection are <date calendar="gregorian" era="ce">1924 to 1986</date>.</p>
+    </scopecontent>
+    <bioghist id="aspace_45e51ec3ddea3bea2b2b086ac55fb1eb">
+      <head>Historical/Biographical Note:</head>
+      <p><persname>Carroll Newsom</persname>'s illustrious career, amply showcased in a resume which lists 52 major positions, 37 "minor positions," 9 published books and 24 honorary degrees (in addition to three earned degrees), is only partially illuminated by the materials contained in this collection. Nonetheless, the Newsom papers offer a glimpse of his career beyond his position as President of <corpname>New York University</corpname>, and are of particular value in contributing to a knowledge of the ideas, philosophy, and achievements of this hybrid businessman-scholar.</p>
+      <p>Carroll Newsom graduated from the <corpname>College of Emporia</corpname>, <geogname>Kansas</geogname> in <date calendar="gregorian" era="ce">1924</date>, receiving his A.B. degree in mathematics. A prodigy in mathematics, Newsom became an instructor of mathematics at the <corpname>University of Michigan</corpname> in <date calendar="gregorian" era="ce">1927</date>, the institution from which he received his M.A. in <date calendar="gregorian" era="ce">1927</date> and PhD. in <date calendar="gregorian" era="ce">1931</date>. His achievements at this university anticipate his later career. Reworking the traditional mathematics curriculum of the university, which Newsom characterized simply as being "bad," Newsom had become a full professor and department chairman in the astonishingly short space of five years.</p>
+      <p>During the Second World War, and the consequent increased demand for mathematicians and scientists, Newsom took a position as Chairman of the Science Division at <corpname>Oberlin College</corpname>. Newsom had already written about both the positive and negative potential of atomic energy(in An American Philosophy of Education). During one meeting with a nervous President Truman, Newsom advised the new President to continue with the <subject>Manhattan Project</subject>, after Truman had asked him, "Do you think this is something I should pursue?"</p>
+      <p>At the war's end, Newsom and two other American doctors helped to reorganize medical education in <geogname>France</geogname>, for which Newsom was later awarded the French Legion of Honor. Taking leave of <corpname>Oberlin</corpname> in <date calendar="gregorian" era="ce">1948</date>, Newsom moved on to <geogname>New York</geogname>, where he took the post of <occupation>Assistant Commissioner of Higher Education</occupation> in <date calendar="gregorian" era="ce">1948</date>. As Associate Commissioner from <date calendar="gregorian" era="ce">1950 to 1955</date>, Newsom was instrumental in developing the state university system.</p>
+      <p>Newsom's last stop on the educational trail was at <corpname>New York University</corpname>, first as <occupation>Executive Vice President</occupation> from <date calendar="gregorian" era="ce">1955 to 1956</date>, then as President from <date calendar="gregorian" era="ce">1956 to 1962</date> (his resignation took effect on <date calendar="gregorian" era="ce">January 1, 1962</date>). His tenure as <occupation>NYU President</occupation> was considered by the university trustees to be "the most fruitful in the university's history, in the increase of financial resources and in building expansion." During his presidency, <corpname>NYU's</corpname> assets increased from $111 million to $178 million, a total of $70 million in gifts having been received during his tenure as President.</p>
+      <p>Newsom moved on to the Senior Vice President slot at <corpname>Prentice-Hall</corpname>, becoming president and director of the publishing firm in <date calendar="gregorian" era="ce">1964</date>. Yet once again, Newsom's brief tenure at <corpname>Prentice-Hall</corpname> resembled that of a corporate raider, as he left the presidency of the firm in <date calendar="gregorian" era="ce">1965</date>, only one year after having taken the position. Actually, he resignation was partially prompted by the failure of RCA (of which Newsom was a Director) in its attempt to merge with <corpname>Prentice-Hall</corpname>. For the next three years( <date calendar="gregorian" era="ce">1966 to 1969</date>), Newsom held the post of <occupation>vice-president for education at RCA</occupation>, a position which permitted further work in one of Newsom's special fields of interest, that of educational television.</p>
+      <p>The brevity of Newsom's tenure at various corporate institutions can be attributed in part to the multiplicity of his interests. As already mentioned, one of his foremost concerns was the educational potential of television, which Newsom glimpsed at the very germination of the new medium in the early <date calendar="gregorian" era="ce">1950's</date>. His ideas were set forth in a landmark text on the subject, <subject>A Television Policy for Education</subject> (<date calendar="gregorian" era="ce">1952</date>), which held its own for at least two decades as a authoritative source of information on <subject>education television policy</subject>. Newsom's other interests include <subject>religious history</subject>(one of his later books, <title type="simple"><emph render="underline">The Roots of Christianity</emph></title>, was deemed "a truly great book" by Normal Vincent Peale), <subject>third-world dilemmas</subject> (he served as President of <corpname>American Friends of Ethiopia</corpname>), and, of course, his starting point, mathematics.</p>
+    </bioghist>
+    <prefercite id="aspace_94466a4f8004e7c4e8d70f6ffcad1c82">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: Identification of item, date (if known); Carroll Newsom Papers; MC 122; box number; folder number; New York University Archives, New York University Libraries.</p>
+    </prefercite>
+    <userestrict id="aspace_fd7fce86a640f3f14b0ce3fa5a3ab608">
+      <head>Use Restrictions</head>
+      <p>There may be some restrictions on the use of the collection. Appointments are necessary for use of manuscript and archival materials. For more information, contact: <lb/><address><addressline>New York University Archives<lb/> </addressline><addressline>Elmer Holmes Bobst Library<lb/> </addressline><addressline>70 Washington Square South<lb/> </addressline><addressline>New York, NY 10012<lb/><lb/> </addressline><addressline>Phone: (212) 998-2646<lb/> </addressline><addressline>Fax: (212) 995-4070<lb/> </addressline><addressline>Email: university-archives@nyu.edu<lb/><lb/> </addressline></address></p>
+    </userestrict>
+    <accessrestrict id="aspace_568f3febc2b0acb6ea1798921e23acce">
+      <head>Access Restrictions</head>
+      <p>Open to researchers.</p>
+    </accessrestrict>
+    <custodhist id="aspace_f95ddb77dd6d613093339e3a65450e36">
+      <head>Provenance</head>
+      <p>The University Archives acquired the six linear feet of material contained in this collection in April 1991. The documents were sent by Dr. Newsom's son, Walter Newsom, and accepted by Theresa Taylor, at the time acting head of the University Archives.</p>
+    </custodhist>
+    <controlaccess>
+      <genreform source="aat">Photographs.</genreform>
+      <genreform source="aat">Reviews (document genre)</genreform>
+      <geogname source="lcsh">New York (N.Y.).</geogname>
+      <genreform source="aat">Articles.</genreform>
+      <subject source="lcsh">Television in education.</subject>
+      <subject source="lcsh">College Presidents -- New York (State) -- Biography</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Speeches.</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <corpname source="naf">State University of New York</corpname>
+      <corpname source="naf">RCA Corporation</corpname>
+      <corpname source="naf">Prentice-Hall, Inc.</corpname>
+      <persname source="naf">Newsom, Carroll V. (Carroll Vincent), 1904-1990</persname>
+      <corpname source="naf">Oberlin College -- Faculty</corpname>
+      <corpname source="naf">New York University -- Presidents</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref18" level="series">
+        <did>
+          <unittitle>Series I. Addresses.</unittitle>
+        </did>
+        <scopecontent id="aspace_16cb95032fa36ac5631f2048a0355a49">
+          <head>Scope and Contents note</head>
+          <p>Series I consists of addresses given by Dr. Newsom at various functions, meetings, and conferences, many of which correlate with the conference programs found in Series III. These addresses span Newsom's entire early career, but are particularly abundant during his tenure at <corpname>NYU</corpname> and during the <date calendar="gregorian" era="ce">1960's</date> in general. The address topics are diverse, but primarily concern <subject>pedagogy</subject>(including <subject>educational television</subject>) and <subject>mathematics</subject>.</p>
+        </scopecontent>
+        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate>
+            <container id="aspace_67697b88b71af930881629d9b2181db9" label="Mixed Materials [31142042258189]" type="Box">1</container>
+            <container id="aspace_81175c6bd356b6958c9ee00f176fa4e2" parent="aspace_67697b88b71af930881629d9b2181db9" type="Folder">1</container>
+          </did>
+          <odd id="aspace_06dc7ff1e6b082f8b00092bad67ed0e4">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225818 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref22" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_d210922cecb835a9172361ba4f677240" label="Mixed Materials [31142042258189]" type="Box">1</container>
+            <container id="aspace_e0ba3310e008065152e8bd1d2c2cf92b" parent="aspace_d210922cecb835a9172361ba4f677240" type="Folder">2</container>
+          </did>
+          <odd id="aspace_87a68e1533fe43f69222908a0311e8c2">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225818 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref25" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_4392b8ff0fa5e2e39efff5ea0fead516" label="Mixed Materials [31142042258189]" type="Box">1</container>
+            <container id="aspace_93f7fda5d1a900b481dca9c0293d3c47" parent="aspace_4392b8ff0fa5e2e39efff5ea0fead516" type="Folder">3</container>
+          </did>
+          <odd id="aspace_5eaff42f4d2d22b8039e575d7c82034a">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225818 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref28" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container id="aspace_bd46fca4d1e911370cb14abf4a8c3787" label="Mixed Materials [31142042258189]" type="Box">1</container>
+            <container id="aspace_ebecd4cf9fa4cfc73291ee461d3b7b0c" parent="aspace_bd46fca4d1e911370cb14abf4a8c3787" type="Folder">4</container>
+          </did>
+          <odd id="aspace_f023f9e053236ef858d946168ee0b204">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225818 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref31" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_d84909b2e395855c4852400456fcd641" label="Mixed Materials [31142042258189]" type="Box">1</container>
+            <container id="aspace_2015ea849ec4e1627c52bf36e501f117" parent="aspace_d84909b2e395855c4852400456fcd641" type="Folder">5</container>
+          </did>
+          <odd id="aspace_5cdf95e6774804b6d7e2ab82690ff5d8">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225818 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref34" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_ccd3c9eb1704fbcb33689a1e7a5a260f" label="Mixed Materials [31142042258189]" type="Box">1</container>
+            <container id="aspace_7b61f2aa2addf3eb5e62961258a32099" parent="aspace_ccd3c9eb1704fbcb33689a1e7a5a260f" type="Folder">6</container>
+          </did>
+          <odd id="aspace_beac73979337a6521f2a2c8cb23eaf6e">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225818 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref37" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_1b4109f76b205442b9fc3eaf89b53996" label="Mixed Materials [31142042258189]" type="Box">1</container>
+            <container id="aspace_92665543cab29a4dbdebd4b2ad8d1889" parent="aspace_1b4109f76b205442b9fc3eaf89b53996" type="Folder">7</container>
+          </did>
+          <odd id="aspace_2e44531db1ed80ce12d4c06bce2b4939">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225818 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref40" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_42f700982aba416e2898396f408e9515" label="Mixed Materials [31142042258189]" type="Box">1</container>
+            <container id="aspace_15c92b55fb8c0cbab5938aa0cab1a01f" parent="aspace_42f700982aba416e2898396f408e9515" type="Folder">8</container>
+          </did>
+          <odd id="aspace_a359029e71557b1057a367fe29354339">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225818 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref43" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_fec7037b05d15e6be6e634c2b9779c99" label="Mixed Materials [31142042258189]" type="Box">1</container>
+            <container id="aspace_a98ed24c7cbd49005df54800031fc23d" parent="aspace_fec7037b05d15e6be6e634c2b9779c99" type="Folder">9</container>
+          </did>
+          <odd id="aspace_1f5f7129e6b3580efe21ad36c3819c85">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225818 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref46" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_ff60035a16b227c53a70a75834034070" label="Mixed Materials [31142042258189]" type="Box">1</container>
+            <container id="aspace_f5e057ae5489eed005262173768ed0f0" parent="aspace_ff60035a16b227c53a70a75834034070" type="Folder">10</container>
+          </did>
+          <odd id="aspace_3ea829b897cc829811a94f7e40b6b7fc">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225818 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref49" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_32945ec862601f746623a0223556a88c" label="Mixed Materials [31142042258189]" type="Box">1</container>
+            <container id="aspace_3bf4e145408a34ee698b0461f35820e1" parent="aspace_32945ec862601f746623a0223556a88c" type="Folder">11</container>
+          </did>
+          <odd id="aspace_ad3cbc2024b7b1f477b76c1042d49987">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225818 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref52" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_dd8812a69c8d0ff7259c5624b0adabc4" label="Mixed Materials [31142042258189]" type="Box">1</container>
+            <container id="aspace_48db19bc8289d57d95ad5db20ebc5a4a" parent="aspace_dd8812a69c8d0ff7259c5624b0adabc4" type="Folder">12</container>
+          </did>
+          <odd id="aspace_5e2dcf1eb938e6b425c3814a8945a9c8">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225818 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref55" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_3e7420780a9dea7aee57b8ea206f1b02" label="Mixed Materials [31142042258197]" type="Box">2</container>
+            <container id="aspace_d742c87911f7eb7b4aff71ccfd8010c3" parent="aspace_3e7420780a9dea7aee57b8ea206f1b02" type="Folder">1</container>
+          </did>
+          <odd id="aspace_cdd7fe272772f5ea21a36b3a95029c37">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225819 7</p>
+          </odd>
+        </c>
+        <c id="aspace_ref58" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_7c9dd4c38a864843bc328715b84b5928" label="Mixed Materials [31142042258197]" type="Box">2</container>
+            <container id="aspace_361becf2b25d35517c5215024c26ee4a" parent="aspace_7c9dd4c38a864843bc328715b84b5928" type="Folder">2</container>
+          </did>
+          <odd id="aspace_07144288d5c03df220112784d08a2099">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225819 7</p>
+          </odd>
+        </c>
+        <c id="aspace_ref61" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_03eb9124525afaea0d325add0b02142d" label="Mixed Materials [31142042258197]" type="Box">2</container>
+            <container id="aspace_9e3849214bdba0bc96bf0dcdf0fb6ca0" parent="aspace_03eb9124525afaea0d325add0b02142d" type="Folder">3</container>
+          </did>
+          <odd id="aspace_541330646ba1569e6a16cf9998664e33">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225819 7</p>
+          </odd>
+        </c>
+        <c id="aspace_ref64" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_5c1df534c3a6e7f6e2dc4d514bc282a0" label="Mixed Materials [31142042258197]" type="Box">2</container>
+            <container id="aspace_54ec64f466d52d8de5e0551ef768e1de" parent="aspace_5c1df534c3a6e7f6e2dc4d514bc282a0" type="Folder">4</container>
+          </did>
+          <odd id="aspace_667f32944c672561e752e58f1f7b0432">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225819 7</p>
+          </odd>
+        </c>
+        <c id="aspace_ref67" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_126b5501ad124a729b241872858e0e5a" label="Mixed Materials [31142042258197]" type="Box">2</container>
+            <container id="aspace_b6552652b1b286a0176c4f360a5f6617" parent="aspace_126b5501ad124a729b241872858e0e5a" type="Folder">5</container>
+          </did>
+          <odd id="aspace_cb2b6d702c5ba790d0b7afbfffe4bff3">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225819 7</p>
+          </odd>
+        </c>
+        <c id="aspace_ref70" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_e582484d547063d03f7af03258ed69ee" label="Mixed Materials [31142042258197]" type="Box">2</container>
+            <container id="aspace_2f0a723f268495c1cdc6b2201d38d029" parent="aspace_e582484d547063d03f7af03258ed69ee" type="Folder">6</container>
+          </did>
+          <odd id="aspace_bd141d416025117f1f52900041eb1860">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225819 7</p>
+          </odd>
+        </c>
+        <c id="aspace_ref73" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_c9797b4f59ceef956a41650fbb1782a7" label="Mixed Materials [31142042258197]" type="Box">2</container>
+            <container id="aspace_b48a6906b411f12c8b60ec01eae7bc18" parent="aspace_c9797b4f59ceef956a41650fbb1782a7" type="Folder">7</container>
+          </did>
+          <odd id="aspace_887c9ecf5e89dd7bae32672b9f848125">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225819 7</p>
+          </odd>
+        </c>
+        <c id="aspace_ref76" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_437dc0adaab371be3625a7161cee63af" label="Mixed Materials [31142042258197]" type="Box">2</container>
+            <container id="aspace_a17ab146094d9f1cce2d3183999d2338" parent="aspace_437dc0adaab371be3625a7161cee63af" type="Folder">8</container>
+          </did>
+          <odd id="aspace_82fc0859bf37284248d631d968049a8e">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225819 7</p>
+          </odd>
+        </c>
+        <c id="aspace_ref79" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_a17ae7042d4f249a0b666e31e6e24d4c" label="Mixed Materials [31142042258205]" type="Box">3</container>
+            <container id="aspace_e1eec5d18e0b57fec5952e8079294630" parent="aspace_a17ae7042d4f249a0b666e31e6e24d4c" type="Folder">1</container>
+          </did>
+          <odd id="aspace_767f4cd8b326456715ac29575ec70a45">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225820 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref82" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_5e2e6971f710b298b8cad1005de66ba6" label="Mixed Materials [31142042258205]" type="Box">3</container>
+            <container id="aspace_509bf8c56baaa54f5565ec84bde4a19c" parent="aspace_5e2e6971f710b298b8cad1005de66ba6" type="Folder">2</container>
+          </did>
+          <odd id="aspace_a3c64d8e87703f0aed7881ba38e88622">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225820 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref85" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_c961d129e172a6b53e6b8ac6d4e8adcf" label="Mixed Materials [31142042258205]" type="Box">3</container>
+            <container id="aspace_59c67eebaaf47e58e414a6e723f599ec" parent="aspace_c961d129e172a6b53e6b8ac6d4e8adcf" type="Folder">3</container>
+          </did>
+          <odd id="aspace_7040169842ab0524e1234c445a038b5d">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225820 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref88" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_220ab9bf8a835124c46d0691051f11cd" label="Mixed Materials [31142042258205]" type="Box">3</container>
+            <container id="aspace_9a1bd03f1af6d3ff32c07bc849c08272" parent="aspace_220ab9bf8a835124c46d0691051f11cd" type="Folder">4</container>
+          </did>
+          <odd id="aspace_9d9a6c4a21cdc502697d8ff47cd79433">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225820 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref91" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1967/1967" type="inclusive">1967</unitdate>
+            <container id="aspace_5af22028c0d8256f8869151c6f7a2691" label="Mixed Materials [31142042258205]" type="Box">3</container>
+            <container id="aspace_ea6f97172ca8f38c56a4de6561119f78" parent="aspace_5af22028c0d8256f8869151c6f7a2691" type="Folder">5</container>
+          </did>
+          <odd id="aspace_9967870aaccdda94e5006345667114be">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225820 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref94" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_265d0551b631d802c45e10d803253dec" label="Mixed Materials [31142042258205]" type="Box">3</container>
+            <container id="aspace_b228bb36f248570ecc0f6d4c9c24017e" parent="aspace_265d0551b631d802c45e10d803253dec" type="Folder">6</container>
+          </did>
+          <odd id="aspace_f3d881767fe101fa966e1934c04c97cc">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225820 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref97" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_843bfefa90ca693dc4f5c07aae788596" label="Mixed Materials [31142042258205]" type="Box">3</container>
+            <container id="aspace_e0941bbc90c12ae5ca08f22a6e2d2a70" parent="aspace_843bfefa90ca693dc4f5c07aae788596" type="Folder">7</container>
+          </did>
+          <odd id="aspace_63cf9e05d10b18b79b745aa51eaee00d">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225820 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref100" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1970/1971" type="inclusive">1970-1971</unitdate>
+            <container id="aspace_f3d900a7f9580fa5a98f96de70ba2e3d" label="Mixed Materials [31142042258205]" type="Box">3</container>
+            <container id="aspace_21a5e33d88ba419d7aa1c756f661fcbd" parent="aspace_f3d900a7f9580fa5a98f96de70ba2e3d" type="Folder">8</container>
+          </did>
+          <odd id="aspace_90e0825ed8577ed3b342b7403f024aeb">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225820 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref103" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses-Duplicates</unittitle>
+            <unitdate datechar="creation" normal="1951/1958" type="inclusive">1951-1958</unitdate>
+            <container id="aspace_8fcb98de26cc6e7bb5b40ced5c413374" label="Mixed Materials [31142042258205]" type="Box">3</container>
+            <container id="aspace_da6e7da0cd7c051019ea4aa71008667f" parent="aspace_8fcb98de26cc6e7bb5b40ced5c413374" type="Folder">9</container>
+          </did>
+          <odd id="aspace_116cf26af7199f6321d6101260fd22dd">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225820 5</p>
+          </odd>
+        </c>
+        <c id="aspace_ref106" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses-Duplicates</unittitle>
+            <unitdate datechar="creation" normal="1958/1960" type="inclusive">1958-1960</unitdate>
+            <container id="aspace_4964c7ebe96e430f276088bfea1d10e6" label="Mixed Materials [31142042258213]" type="Box">4</container>
+            <container id="aspace_5654c1829a90a1300a8eeb31170f7a9c" parent="aspace_4964c7ebe96e430f276088bfea1d10e6" type="Folder">1</container>
+          </did>
+          <odd id="aspace_8066f905f45c615efbbd25b0d639c78d">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225821 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref109" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses-Duplicates</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_f56246f2c92b905d89fe809893977194" label="Mixed Materials [31142042258213]" type="Box">4</container>
+            <container id="aspace_79aedf8da29512e4e409dd5630f3dc36" parent="aspace_f56246f2c92b905d89fe809893977194" type="Folder">2</container>
+          </did>
+          <odd id="aspace_17583272f45b3e32e24952c91069b80c">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225821 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref112" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses-Duplicates</unittitle>
+            <unitdate datechar="creation" normal="1960/1965" type="inclusive">1960-1965</unitdate>
+            <container id="aspace_ec063da3793575e2d7f37becbe4f2858" label="Mixed Materials [31142042258213]" type="Box">4</container>
+            <container id="aspace_e30469d06a2ce5811eb2502ec85b0929" parent="aspace_ec063da3793575e2d7f37becbe4f2858" type="Folder">3</container>
+          </did>
+          <odd id="aspace_5ca0e1c50fe3a28581096cc4225f32c5">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225821 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref115" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1924/1986" type="inclusive">undated</unitdate>
+            <container id="aspace_0c28feb6dd2b238d2dd91a6e57340c86" label="Mixed Materials [31142042258213]" type="Box">4</container>
+            <container id="aspace_85e5f915bae6a131663710599d84d520" parent="aspace_0c28feb6dd2b238d2dd91a6e57340c86" type="Folder">4</container>
+          </did>
+          <odd id="aspace_83c412e5673c50d6db6ac8eb29326d72">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225821 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref118" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1924/1986" type="inclusive">undated</unitdate>
+            <container id="aspace_4ee5faf0b8a1b1ffd8577bf8bc38888e" label="Mixed Materials [31142042258213]" type="Box">4</container>
+            <container id="aspace_3863099d9e3be99ca3ed1f3e503c98fe" parent="aspace_4ee5faf0b8a1b1ffd8577bf8bc38888e" type="Folder">5</container>
+          </did>
+          <odd id="aspace_fe1069e591f250da289f0ca785fb8225">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225821 3</p>
+          </odd>
+        </c>
+        <c id="aspace_ref121" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Addresses</unittitle>
+            <unitdate datechar="creation" normal="1924/1986" type="inclusive">undated</unitdate>
+            <container id="aspace_d7470434560ca6677a6d9f1950756191" label="Mixed Materials [31142042258213]" type="Box">4</container>
+            <container id="aspace_2977aa11302e3492d79ec37def6a0056" parent="aspace_d7470434560ca6677a6d9f1950756191" type="Folder">6</container>
+          </did>
+          <odd id="aspace_9f8073b937785fca30bf6037c6917de7">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225821 3</p>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref126" level="series">
+        <did>
+          <unittitle>Series II. Publications</unittitle>
+        </did>
+        <scopecontent id="aspace_f227ab286d4cf82c8399419282b318bd">
+          <head>Scope and Contents note</head>
+          <p>Series II consists of two major categories, publications of Newsom and publications about Newsom. The first category comprises <genreform>articles</genreform> published by Newsom in various <genreform>journals</genreform> and <genreform>periodicals</genreform>, spanning the years <date calendar="gregorian" era="ce">1940 to 1973</date>. The second category is a collection of periodicals which either contain articles about Newsom, or mention Newsom in word or image(sometimes finding these references to Newsom requires a minute search). Nonetheless, these latter materials are useful, especially in showcasing the many honors bestowed upon Newsom, such as awards, citations, and honorary degrees. At the end of Series II are publications which relate to Newsom's role on advisory committees at various periods, such as his role as <occupation>Chairman of the Governor's Committee on New Jersey Higher Education</occupation> in <date calendar="gregorian" era="ce">1963</date>(Box 6, Folder 11).</p>
+        </scopecontent>
+        <c id="aspace_ref127" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_9c724a8460541bf623f2abea9f0cff0c" label="Mixed Materials [31142042258221]" type="Box">5</container>
+            <container id="aspace_17135ed87ec4b14ef803baebf6b970c5" parent="aspace_9c724a8460541bf623f2abea9f0cff0c" type="Folder">1</container>
+          </did>
+          <odd id="aspace_7d0e06b1824990db84b82c64684efe61">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225822 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref130" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container id="aspace_d49d5efcc46280734939809d1bf99b74" label="Mixed Materials [31142042258221]" type="Box">5</container>
+            <container id="aspace_8df4257cf17c6d436f1028ad086103b5" parent="aspace_d49d5efcc46280734939809d1bf99b74" type="Folder">2</container>
+          </did>
+          <odd id="aspace_44c58aaed8347862f3c3cf9ba07a9493">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225822 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref133" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1943/1943" type="inclusive">1943</unitdate>
+            <container id="aspace_2a69e4f70711612cdb5057822154c393" label="Mixed Materials [31142042258221]" type="Box">5</container>
+            <container id="aspace_055fe77ce00292419249ade9a9476a3b" parent="aspace_2a69e4f70711612cdb5057822154c393" type="Folder">3</container>
+          </did>
+          <odd id="aspace_18974f57203c6e67f02c7f5a9d737c53">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225822 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref136" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1946/1946" type="inclusive">1946</unitdate>
+            <container id="aspace_5a0a7c9df7e80b62cd191471c4e15564" label="Mixed Materials [31142042258221]" type="Box">5</container>
+            <container id="aspace_7a0b44d6134cc6ee6177fbe354077a1d" parent="aspace_5a0a7c9df7e80b62cd191471c4e15564" type="Folder">4</container>
+          </did>
+          <odd id="aspace_df9dcbc4869746c6f5dedc1a0004e0c7">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225822 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref139" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1947/1947" type="inclusive">1947</unitdate>
+            <container id="aspace_8462fb46167f45e18118369f5bca6264" label="Mixed Materials [31142042258221]" type="Box">5</container>
+            <container id="aspace_94eeb67e898c0fe5935431f740b56485" parent="aspace_8462fb46167f45e18118369f5bca6264" type="Folder">5</container>
+          </did>
+          <odd id="aspace_23f652503f311d65dee841b749b439df">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225822 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref142" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_d6723154f62124e6114be0bd66426383" label="Mixed Materials [31142042258221]" type="Box">5</container>
+            <container id="aspace_79e49ad03c4f68c920a5c86382cc3556" parent="aspace_d6723154f62124e6114be0bd66426383" type="Folder">6</container>
+          </did>
+          <odd id="aspace_acc419f30c6d3dd8d80184ac7fcf8aa1">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225822 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref145" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_eb990f46d730909c56903ef5e4920351" label="Mixed Materials [31142042258221]" type="Box">5</container>
+            <container id="aspace_91f320ac346582b97d1cf0b98c6999b6" parent="aspace_eb990f46d730909c56903ef5e4920351" type="Folder">7</container>
+          </did>
+          <odd id="aspace_75809c367dbca4f4eeccfb1fb16fd69d">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225822 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref148" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_da9b8510c5962cb2898ec6cca6057768" label="Mixed Materials [31142042258221]" type="Box">5</container>
+            <container id="aspace_a7cfae699bdbf8a34d5a72d21d890937" parent="aspace_da9b8510c5962cb2898ec6cca6057768" type="Folder">8</container>
+          </did>
+          <odd id="aspace_7548f9952376dacef664da3b93deff8b">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225822 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref151" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_ee25591a685d3da7751ac1d75b07fc05" label="Mixed Materials [31142042258221]" type="Box">5</container>
+            <container id="aspace_5928950fe55edb6616ec27ba7b29d63a" parent="aspace_ee25591a685d3da7751ac1d75b07fc05" type="Folder">9</container>
+          </did>
+          <odd id="aspace_a5a8f116b45748c26d2484c35a2548b4">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225822 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref154" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_d34566425f121428eea101542a94cc07" label="Mixed Materials [31142042258221]" type="Box">5</container>
+            <container id="aspace_c82a649d403c44ac41316c62021f9b42" parent="aspace_d34566425f121428eea101542a94cc07" type="Folder">10</container>
+          </did>
+          <odd id="aspace_f898cace73086ce5b40b44a8be092105">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225822 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref157" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_ad8f7cf7330bac1742f8b9f4ef3aa8b1" label="Mixed Materials [31142042258221]" type="Box">5</container>
+            <container id="aspace_a6b5e7da2c71fbdf60beb827b414ade7" parent="aspace_ad8f7cf7330bac1742f8b9f4ef3aa8b1" type="Folder">11</container>
+          </did>
+          <odd id="aspace_658c3e1590259f5519754cfb0ec0b689">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225822 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref160" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_8ce0642b6a4e0e989ac3255a7437b2c7" label="Mixed Materials [31142042258221]" type="Box">5</container>
+            <container id="aspace_916712f4be15434393e779d5b829b4cc" parent="aspace_8ce0642b6a4e0e989ac3255a7437b2c7" type="Folder">12</container>
+          </did>
+          <odd id="aspace_64e30a3fd73edb211f37941e66c3668a">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225822 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref163" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_972d17c2276b68c9dbcf77a31c88d396" label="Mixed Materials [31142042258221]" type="Box">5</container>
+            <container id="aspace_2d5624eacab8844a3b7f557e06516cf3" parent="aspace_972d17c2276b68c9dbcf77a31c88d396" type="Folder">13</container>
+          </did>
+          <odd id="aspace_81cb0eae1f5e9534c683ad71b95911ef">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225822 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref166" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_5cece0918cef9586637ccbb88c5b9650" label="Mixed Materials [31142042258221]" type="Box">5</container>
+            <container id="aspace_440d727283e6bedf41a80067675ee778" parent="aspace_5cece0918cef9586637ccbb88c5b9650" type="Folder">14</container>
+          </did>
+          <odd id="aspace_9416c90dee76fe7db67e90f67ce191d5">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225822 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref169" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_8c538caa50166f80439ec4459615d052" label="Mixed Materials [31142042258221]" type="Box">5</container>
+            <container id="aspace_6868d81614ec0149ea0916cbd99b4b0c" parent="aspace_8c538caa50166f80439ec4459615d052" type="Folder">15</container>
+          </did>
+          <odd id="aspace_340b2ae0aa0e6469528d59071aa4d887">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225822 1</p>
+          </odd>
+        </c>
+        <c id="aspace_ref172" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_932e004e0c4dc97da8391687815b22ed" label="Mixed Materials [31142042258239]" type="Box">6</container>
+            <container id="aspace_ab9ea5a2e99de4568608de2b8465cdb3" parent="aspace_932e004e0c4dc97da8391687815b22ed" type="Folder">1</container>
+          </did>
+          <odd id="aspace_6b4b2b6188862334c2f455125675f130">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225823 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref175" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_f1de7be9810d3b37350cc4915ddb7b44" label="Mixed Materials [31142042258239]" type="Box">6</container>
+            <container id="aspace_4bd7e469159bb5fbdfe31ad914961e6e" parent="aspace_f1de7be9810d3b37350cc4915ddb7b44" type="Folder">2</container>
+          </did>
+          <odd id="aspace_eb29641ed5253ec038131f72351f0b54">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225823 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref178" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_dab0719b1caa983f0dbcd2810c03147d" label="Mixed Materials [31142042258239]" type="Box">6</container>
+            <container id="aspace_c00b043ddac75dbe19f2ed607e4126c8" parent="aspace_dab0719b1caa983f0dbcd2810c03147d" type="Folder">3</container>
+          </did>
+          <odd id="aspace_be7b9a001289ab7fc699638df7fcbdf6">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225823 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref181" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_a49690f25241d514a9042ca5122fad9d" label="Mixed Materials [31142042258239]" type="Box">6</container>
+            <container id="aspace_41fffb0e6c9db0cda0d31ff52e388394" parent="aspace_a49690f25241d514a9042ca5122fad9d" type="Folder">4</container>
+          </did>
+          <odd id="aspace_28af0e46fd378089e331b971821764ae">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225823 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref184" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <container id="aspace_8d75e8d599f52b7bfb72768e50332ae5" label="Mixed Materials [31142042258239]" type="Box">6</container>
+            <container id="aspace_0829a343c0b25e6f06582484e017ca7b" parent="aspace_8d75e8d599f52b7bfb72768e50332ae5" type="Folder">5</container>
+          </did>
+          <odd id="aspace_a98c960d54df01b3fd363fbe512f46c3">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225823 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref187" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <container id="aspace_4b4a1ec28d25120b751b05330179054d" label="Mixed Materials [31142042258239]" type="Box">6</container>
+            <container id="aspace_16c8dcecdc4511670e973b413c88d19a" parent="aspace_4b4a1ec28d25120b751b05330179054d" type="Folder">6</container>
+          </did>
+          <odd id="aspace_269ebc2d0c75475309f2c193641fd3f8">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225823 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref190" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_77304de20c19efb35fa6979cf219a1cb" label="Mixed Materials [31142042258239]" type="Box">6</container>
+            <container id="aspace_8cd03017b83f888694c40e708203ad6c" parent="aspace_77304de20c19efb35fa6979cf219a1cb" type="Folder">7</container>
+          </did>
+          <odd id="aspace_4c4b7da06723dd93a6487bcf4c51e0ce">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225823 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref193" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1973/1973" type="inclusive">1973</unitdate>
+            <container id="aspace_0e82a1a2e34dee0c11b9034205a9afcd" label="Mixed Materials [31142042258239]" type="Box">6</container>
+            <container id="aspace_c2cf22f896dc39674845d16da56aa4dc" parent="aspace_0e82a1a2e34dee0c11b9034205a9afcd" type="Folder">8</container>
+          </did>
+          <odd id="aspace_068df8df459385ccc87d0d5b40fdad80">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225823 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref196" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom-Duplicates</unittitle>
+            <unitdate datechar="creation" normal="1924/1986" type="inclusive">undated</unitdate>
+            <container id="aspace_119dcd9220a69276fcf395ad46aa328e" label="Mixed Materials [31142042258239]" type="Box">6</container>
+            <container id="aspace_454d6ea4b81f0ae2032e8ab102174ab0" parent="aspace_119dcd9220a69276fcf395ad46aa328e" type="Folder">9</container>
+          </did>
+          <odd id="aspace_fd10b65708eea8971a3ebe19ce1114bd">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225823 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref199" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Publications-Articles by Newsom</unittitle>
+            <unitdate datechar="creation" normal="1924/1986" type="inclusive">undated</unitdate>
+            <container id="aspace_043fc760f8931cd037519feb605bd2d5" label="Mixed Materials [31142042258239]" type="Box">6</container>
+            <container id="aspace_ca89f7b936aabd7053a00882553b55ea" parent="aspace_043fc760f8931cd037519feb605bd2d5" type="Folder">10</container>
+          </did>
+          <odd id="aspace_812f092b4d2772839bd97eeefe71ae48">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225823 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref202" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Committee Publications</unittitle>
+            <unitdate datechar="creation" normal="1941/1963" type="inclusive">1941-1963</unitdate>
+            <container id="aspace_b6e28c86528c5929b14b0b78cacc9fa5" label="Mixed Materials [31142042258239]" type="Box">6</container>
+            <container id="aspace_fdd7c6392a0f02172ef7d1b7c6c0eac1" parent="aspace_b6e28c86528c5929b14b0b78cacc9fa5" type="Folder">11</container>
+          </did>
+          <odd id="aspace_542aabde72a61ed34d2a35eba7a7c451">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225823 9</p>
+          </odd>
+        </c>
+        <c id="aspace_ref205" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Committee Publications-Duplicates</unittitle>
+            <unitdate datechar="creation" normal="1924/1986" type="inclusive">undated</unitdate>
+            <container id="aspace_527bd0334bc7f2b74e9c227a81ddac70" label="Mixed Materials [31142042258247]" type="Box">7</container>
+            <container id="aspace_d0bdaa1e48cd7552fa8049b7db823bed" parent="aspace_527bd0334bc7f2b74e9c227a81ddac70" type="Folder">1</container>
+          </did>
+          <odd id="aspace_cfc7f4a724cf9900aa1fafb4b33adaed">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225824 7</p>
+          </odd>
+        </c>
+        <c id="aspace_ref208" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Publications</unittitle>
+            <unitdate datechar="creation" normal="1937/1937" type="inclusive">1937</unitdate>
+            <container id="aspace_f002df855290339569cad82f6776e9a7" label="Mixed Materials [31142042258247]" type="Box">7</container>
+            <container id="aspace_cf7c99666a1a305683dec30fd06119dc" parent="aspace_f002df855290339569cad82f6776e9a7" type="Folder">2</container>
+          </did>
+          <odd id="aspace_f902abf572ca67151fce1837449b898e">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225824 7</p>
+          </odd>
+        </c>
+        <c id="aspace_ref211" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Publications</unittitle>
+            <unitdate datechar="creation" normal="1953/1959" type="inclusive">1953-1959</unitdate>
+            <container id="aspace_0b7ceff9f09ffcf45b1545f75e73507a" label="Mixed Materials [31142042258247]" type="Box">7</container>
+            <container id="aspace_4800e51f21a3893ff06f52b68b703c76" parent="aspace_0b7ceff9f09ffcf45b1545f75e73507a" type="Folder">3</container>
+          </did>
+          <odd id="aspace_bde69f0370107ddf03c4ed1e77a630d2">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225824 7</p>
+          </odd>
+        </c>
+        <c id="aspace_ref214" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Publications</unittitle>
+            <unitdate datechar="creation" normal="1960/1986" type="inclusive">1960-1986</unitdate>
+            <container id="aspace_3d7545f5ac15b26c489919ff30d7cbb8" label="Mixed Materials [31142042258247]" type="Box">7</container>
+            <container id="aspace_82ca0046c6bdb6b4158cbd9c0547b4ad" parent="aspace_3d7545f5ac15b26c489919ff30d7cbb8" type="Folder">4</container>
+          </did>
+          <odd id="aspace_26d26c726ecd281f7848b9f332618cff">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225824 7</p>
+          </odd>
+        </c>
+        <c id="aspace_ref217" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>NYU Publications</unittitle>
+            <unitdate datechar="creation" normal="1956/1959" type="inclusive">1956-1959</unitdate>
+            <container id="aspace_7a821699db7c588e5db5ebb4e3104293" label="Mixed Materials [31142042258247]" type="Box">7</container>
+            <container id="aspace_3293d0fb6aa2920ddac1810927429c36" parent="aspace_7a821699db7c588e5db5ebb4e3104293" type="Folder">5</container>
+          </did>
+          <odd id="aspace_bdea7635782de0af2ac47e01ca4f64f2">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225824 7</p>
+          </odd>
+        </c>
+        <c id="aspace_ref220" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>NYU Publications</unittitle>
+            <unitdate datechar="creation" normal="1959/1963" type="inclusive">1959-1963</unitdate>
+            <container id="aspace_158454e8e9f2322e593ba9387cdc4c0b" label="Mixed Materials [31142042258247]" type="Box">7</container>
+            <container id="aspace_a88b30582906078979b4578d84b94ddb" parent="aspace_158454e8e9f2322e593ba9387cdc4c0b" type="Folder">6</container>
+          </did>
+          <odd id="aspace_cbe9dd12bbeef164f1145526415f71a1">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225824 7</p>
+          </odd>
+        </c>
+        <c id="aspace_ref223" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Publications</unittitle>
+            <unitdate datechar="creation" normal="1924/1986" type="inclusive">undated</unitdate>
+            <container id="aspace_d18cf0bbb88ef31fef7713f5a1b65855" label="Mixed Materials [31142042258247]" type="Box">7</container>
+            <container id="aspace_0eea8530fd71e427d6e1f2d4ac5d266e" parent="aspace_d18cf0bbb88ef31fef7713f5a1b65855" type="Folder">7</container>
+          </did>
+          <odd id="aspace_7a989f14c5e3b6f4ab0031294d1e9957">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225824 7</p>
+          </odd>
+        </c>
+        <c id="aspace_ref226" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Other Publications-Duplicates</unittitle>
+            <unitdate datechar="creation" normal="1924/1986" type="inclusive">undated</unitdate>
+            <container id="aspace_7ef878bec2f23e2f442c4276a06d7fc2" label="Mixed Materials [31142042258247]" type="Box">7</container>
+            <container id="aspace_72522272d4e9a4f828ef666f0dbb611e" parent="aspace_7ef878bec2f23e2f442c4276a06d7fc2" type="Folder">8</container>
+          </did>
+          <odd id="aspace_3a63739acd35a88185f3b18bfc2cd18b">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225824 7</p>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref231" level="series">
+        <did>
+          <unittitle>Series III. Programs</unittitle>
+        </did>
+        <scopecontent id="aspace_2a8205f6eb7a07e5c4248481cfb59146">
+          <head>Scope and Contents note</head>
+          <p>Series III consists of programs, which document the various functions at which Newsom gave many of the addresses contained in Series I. Although there is a correlation between the programs and addresses, Newsom did not speak at every function he attended, although he gave a speech at most of the functions covered by the program materials in Section III.</p>
+        </scopecontent>
+        <c id="aspace_ref232" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1941/1941" type="inclusive">1941</unitdate>
+            <container id="aspace_d789772d2d8ee2a8ffe81b0bc2a84c9c" label="Mixed Materials [31142042258254]" type="Box">8</container>
+            <container id="aspace_4fdb3741de7d13a009fbae358a66e361" parent="aspace_d789772d2d8ee2a8ffe81b0bc2a84c9c" type="Folder">1</container>
+          </did>
+          <odd id="aspace_7178d2260249fac8aca79df9e4d538b7">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225825 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref235" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+            <container id="aspace_a73161d943eb9c294ba5d4f36b3ae2f5" label="Mixed Materials [31142042258254]" type="Box">8</container>
+            <container id="aspace_ca8fb2a64de7e9539da161c7e3edf926" parent="aspace_a73161d943eb9c294ba5d4f36b3ae2f5" type="Folder">2</container>
+          </did>
+          <odd id="aspace_bf7fe00957932a0789114e8a7248b2fe">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225825 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref238" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1955/1956" type="inclusive">1955-1956</unitdate>
+            <container id="aspace_8fae25c5ec542f662a3366ada1b7f5a3" label="Mixed Materials [31142042258254]" type="Box">8</container>
+            <container id="aspace_35abd106c7973b6be90a8fae15b56d29" parent="aspace_8fae25c5ec542f662a3366ada1b7f5a3" type="Folder">3</container>
+          </did>
+          <odd id="aspace_d6e9f4d62f0f62eca635af543cdaf8b6">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225825 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref241" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_7b562904c8931f5529bb6a38992efa79" label="Mixed Materials [31142042258254]" type="Box">8</container>
+            <container id="aspace_f0f30d2aecba0710771f08606dabb369" parent="aspace_7b562904c8931f5529bb6a38992efa79" type="Folder">4</container>
+          </did>
+          <odd id="aspace_957e195c83673e6979870c4cd019cd33">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225825 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref244" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_58585ccc610871ab5d1b0d75620d1009" label="Mixed Materials [31142042258254]" type="Box">8</container>
+            <container id="aspace_253b2e16e2abdc635285be5f8942803c" parent="aspace_58585ccc610871ab5d1b0d75620d1009" type="Folder">5</container>
+          </did>
+          <odd id="aspace_26f88fecf2a099603534e10995df3974">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225825 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref247" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_c18db62a1902f8ca3475c861105bfece" label="Mixed Materials [31142042258254]" type="Box">8</container>
+            <container id="aspace_1ced49c891acdb21559576122602fb76" parent="aspace_c18db62a1902f8ca3475c861105bfece" type="Folder">6</container>
+          </did>
+          <odd id="aspace_b86e1e1bef639041e00b3b131b4cd4e0">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225825 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref250" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_9c380cecee30cbefe67886fba4e636a4" label="Mixed Materials [31142042258254]" type="Box">8</container>
+            <container id="aspace_5304f57a619d72f12445b5aa06754356" parent="aspace_9c380cecee30cbefe67886fba4e636a4" type="Folder">7</container>
+          </did>
+          <odd id="aspace_a167a33d809faa35e0d7dbeac4ee0e63">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225825 4</p>
+          </odd>
+        </c>
+        <c id="aspace_ref253" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_79580516b5c228f5466b2ee3d57a6a54" label="Mixed Materials [31142042258262]" type="Box">9</container>
+            <container id="aspace_eee780210a9b23fc5ff37fbc9dcd5b7e" parent="aspace_79580516b5c228f5466b2ee3d57a6a54" type="Folder">1</container>
+          </did>
+          <odd id="aspace_addfdfa1090f0a0bcad2ddf1963585a1">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225826 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref256" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_8cff3acbb0adcb6f4ac370541b5f4916" label="Mixed Materials [31142042258262]" type="Box">9</container>
+            <container id="aspace_b3b71eb0614acac4ce1366c842a6b542" parent="aspace_8cff3acbb0adcb6f4ac370541b5f4916" type="Folder">2</container>
+          </did>
+          <odd id="aspace_c8190aa1a727a45449fd8c985ef2301e">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225826 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref259" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_fd5cf4c80c4abec2d235ba50dc5d2348" label="Mixed Materials [31142042258262]" type="Box">9</container>
+            <container id="aspace_50a2549d2b743bb43d6ebafb8dbcf6f9" parent="aspace_fd5cf4c80c4abec2d235ba50dc5d2348" type="Folder">3</container>
+          </did>
+          <odd id="aspace_f88e8c5f3fd1d61f025d6b1ad1a16f86">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225826 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref262" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_a4704a18078caa140638bd682b05fb6d" label="Mixed Materials [31142042258262]" type="Box">9</container>
+            <container id="aspace_02389c2bb8d9a7888bf25caaf03698f6" parent="aspace_a4704a18078caa140638bd682b05fb6d" type="Folder">4</container>
+          </did>
+          <odd id="aspace_472d35721c1a788d2d01a5ac8013b494">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225826 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref265" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1960/1960" type="inclusive">1960</unitdate>
+            <container id="aspace_4a71b5430151364ff15a8c878da0d672" label="Mixed Materials [31142042258262]" type="Box">9</container>
+            <container id="aspace_46b6d7e3eb8661a6f289cc6d1a73a5f0" parent="aspace_4a71b5430151364ff15a8c878da0d672" type="Folder">5</container>
+          </did>
+          <odd id="aspace_0c906c420f483978522f26528fa4efac">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225826 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref268" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_13d31f550b4f0b8b8fc57b1e4f8102b2" label="Mixed Materials [31142042258262]" type="Box">9</container>
+            <container id="aspace_dc8ec563bbe74d13e7930406992e0c62" parent="aspace_13d31f550b4f0b8b8fc57b1e4f8102b2" type="Folder">6</container>
+          </did>
+          <odd id="aspace_8e2a5eb159ef6f660618f39dbb044e51">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225826 2</p>
+          </odd>
+        </c>
+        <c id="aspace_ref271" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_7e8c4d2fd89b5029ae15455202d1b711" label="Mixed Materials [31142042258270]" type="Box">10</container>
+            <container id="aspace_910387a039eed56bde8f8d10eb6c5b5c" parent="aspace_7e8c4d2fd89b5029ae15455202d1b711" type="Folder">1</container>
+          </did>
+          <odd id="aspace_b6d80ba682f7c9cc9c545205a508f4eb">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225827 0</p>
+          </odd>
+        </c>
+        <c id="aspace_ref274" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+            <container id="aspace_140cd577f2b416f64c961aa2d8c7dc22" label="Mixed Materials [31142042258270]" type="Box">10</container>
+            <container id="aspace_1e777c2599ff59a00e4aeeafd6aeeae5" parent="aspace_140cd577f2b416f64c961aa2d8c7dc22" type="Folder">2</container>
+          </did>
+          <odd id="aspace_136688a2c6193b4c252d14c94d0ab1ed">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225827 0</p>
+          </odd>
+        </c>
+        <c id="aspace_ref277" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_55f4e6cb5957a714a76646b6d3d2c981" label="Mixed Materials [31142042258270]" type="Box">10</container>
+            <container id="aspace_46b2264e0aaaa6c86d8b5e3134216819" parent="aspace_55f4e6cb5957a714a76646b6d3d2c981" type="Folder">3</container>
+          </did>
+          <odd id="aspace_0f7a11fbd181ebc02746ecfac37311ac">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225827 0</p>
+          </odd>
+        </c>
+        <c id="aspace_ref280" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_73b55a6ceb7b472811da8a6141231575" label="Mixed Materials [31142042258270]" type="Box">10</container>
+            <container id="aspace_0ae3cb5e93d4dc5613e775bbe0855a2b" parent="aspace_73b55a6ceb7b472811da8a6141231575" type="Folder">4</container>
+          </did>
+          <odd id="aspace_651b5c2b2da350e839f3f3503608cab6">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225827 0</p>
+          </odd>
+        </c>
+        <c id="aspace_ref283" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <container id="aspace_e2a2fc90b2e0a1b8694c449c4c815753" label="Mixed Materials [31142042258270]" type="Box">10</container>
+            <container id="aspace_b5e50a3bdf79a9555f00d4d18155fabe" parent="aspace_e2a2fc90b2e0a1b8694c449c4c815753" type="Folder">5</container>
+          </did>
+          <odd id="aspace_effd52da22134801af3aaf3a26b93ff0">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225827 0</p>
+          </odd>
+        </c>
+        <c id="aspace_ref286" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1966/1966" type="inclusive">1966</unitdate>
+            <container id="aspace_b1edad5057439f58f11b19f34ef36466" label="Mixed Materials [31142042258270]" type="Box">10</container>
+            <container id="aspace_cacc835729a5b6d921caf8450683c00a" parent="aspace_b1edad5057439f58f11b19f34ef36466" type="Folder">6</container>
+          </did>
+          <odd id="aspace_5eb0d0f31dbdd8c878d18f3a2736f648">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225827 0</p>
+          </odd>
+        </c>
+        <c id="aspace_ref289" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs</unittitle>
+            <unitdate datechar="creation" normal="1974/1977" type="inclusive">1974 , 1977</unitdate>
+            <container id="aspace_fff63696fc5c3c5b00c8c9c33576184c" label="Mixed Materials [31142042258270]" type="Box">10</container>
+            <container id="aspace_fed491173764ffdf8576b7d4f27f7035" parent="aspace_fff63696fc5c3c5b00c8c9c33576184c" type="Folder">7</container>
+          </did>
+          <odd id="aspace_2bb138538e1a15fc1e00ad6f418ee571">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225827 0</p>
+          </odd>
+        </c>
+        <c id="aspace_ref292" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Programs-Duplicates</unittitle>
+            <unitdate datechar="creation" normal="1941/1977" type="inclusive">1941-1977</unitdate>
+            <container id="aspace_13f24f51ed3decc71cbd6e8582ead04b" label="Mixed Materials [31142042258270]" type="Box">10</container>
+            <container id="aspace_cd552a4a0877e2e4229f2f55f8f0e504" parent="aspace_13f24f51ed3decc71cbd6e8582ead04b" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref295" level="series">
+        <did>
+          <unittitle>Series IV. Miscellaneous Materials</unittitle>
+        </did>
+        <scopecontent id="aspace_ea504af086c03d8dbae641dc2247d515">
+          <head>Scope and Contents note</head>
+          <p>Series IV is made up ofmiscellaneous materials, including the small amount of <genreform>correspondence</genreform> contained in this collection, as well as reviews of Newsom's books, and diplomas which he earned. Of especial interest is the seven-page resume of Newsom contained in Box 10, Folder 12, which lists his many positions, awards, honorary degrees, and publications.</p>
+        </scopecontent>
+        <c id="aspace_ref296" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence</unittitle>
+            <unitdate datechar="creation" normal="1943/1984" type="inclusive">1943-1984</unitdate>
+            <container id="aspace_8054c18ddef40541135ee90cc1eebef8" label="Mixed Materials [31142042258270]" type="Box">10</container>
+            <container id="aspace_55c4d0d61bd81da0220abb40777d7760" parent="aspace_8054c18ddef40541135ee90cc1eebef8" type="Folder">9</container>
+          </did>
+          <odd id="aspace_cce7eaa39e0e788bc0bd4c49c73eaa1f">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225827 0</p>
+          </odd>
+        </c>
+        <c id="aspace_ref299" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Book Reviews and Promotionals</unittitle>
+            <unitdate datechar="creation" normal="1924/1986" type="inclusive">undated</unitdate>
+            <container id="aspace_5fd20e541b80d09906338c43788ebb5c" label="Mixed Materials [31142042258270]" type="Box">10</container>
+            <container id="aspace_845c08335dec1f764352f555eba0e739" parent="aspace_5fd20e541b80d09906338c43788ebb5c" type="Folder">10</container>
+          </did>
+          <odd id="aspace_1bc3bde9dcfdd14bc5434d929bd89ca5">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225827 0</p>
+          </odd>
+        </c>
+        <c id="aspace_ref302" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Diplomas</unittitle>
+            <unitdate datechar="creation" normal="1955/1965" type="inclusive">1955-1965</unitdate>
+            <container id="aspace_0861868e801f47d02822aff8660aecb3" label="Mixed Materials [31142042258270]" type="Box">10</container>
+            <container id="aspace_c45e61556a59020471b5e15640f2a052" parent="aspace_0861868e801f47d02822aff8660aecb3" type="Folder">11</container>
+          </did>
+          <odd id="aspace_1de68413204442913517264e31ed6c8f">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225827 0</p>
+          </odd>
+        </c>
+        <c id="aspace_ref305" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Resume</unittitle>
+            <unitdate datechar="creation" normal="1955/1975" type="inclusive">ca.1965</unitdate>
+            <container id="aspace_b162432bf249a43a9d932afe18578de3" label="Mixed Materials [31142042258270]" type="Box">10</container>
+            <container id="aspace_406ecb91a1652c3bc45ec12c1e389379" parent="aspace_b162432bf249a43a9d932afe18578de3" type="Folder">12</container>
+          </did>
+          <odd id="aspace_ec827be58e2cdf9e7b5676c8833691d9">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225827 0</p>
+          </odd>
+        </c>
+      </c>
+      <c id="aspace_ref310" level="series">
+        <did>
+          <unittitle>Series V. Newspapers and Newspaper Clippings</unittitle>
+        </did>
+        <scopecontent id="aspace_7e00777eb3b1e6381a2aeca673774eb4">
+          <head>Scope and Contents note</head>
+          <p>Series V includes <genreform>newspapers</genreform> and <genreform>newspaper clippings</genreform> which relate to important events in Newsom's career, and provided much of the biographical information contained in this section.</p>
+        </scopecontent>
+        <c id="aspace_ref311" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newspapers</unittitle>
+            <unitdate datechar="creation" normal="1924/1958" type="inclusive">1924 , 1955-1958</unitdate>
+            <container id="aspace_02565d70fd8218fa8bdc508e46ba9f4f" label="Mixed Materials [31142042258288]" type="Box">11</container>
+            <container id="aspace_e1cbbeb4d3b378dc474014314c0d0329" parent="aspace_02565d70fd8218fa8bdc508e46ba9f4f" type="Folder">1</container>
+          </did>
+          <odd id="aspace_1c6fdc4868556cb1d06a7b95a785e997">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225828 8</p>
+          </odd>
+        </c>
+        <c id="aspace_ref314" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Copies of NYU Alumni News</unittitle>
+            <unitdate datechar="creation" normal="1955/1958" type="inclusive">1955-1958</unitdate>
+            <container id="aspace_9086acfcde8d244c5567f850ead34c16" label="Mixed Materials [31142042258288]" type="Box">11</container>
+            <container id="aspace_c1a9b16b26da11af19044235e7ff110c" parent="aspace_9086acfcde8d244c5567f850ead34c16" type="Folder">2</container>
+          </did>
+          <odd id="aspace_e187d6c443c7238ad5f79bb57b43188d">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225828 8</p>
+          </odd>
+        </c>
+        <c id="aspace_ref317" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Copies of NYU Alumni News</unittitle>
+            <unitdate datechar="creation" normal="1958/1961" type="inclusive">1958-1961</unitdate>
+            <container id="aspace_f580ee5d5b17e8b3fd40529b93bb44ca" label="Mixed Materials [31142042258288]" type="Box">11</container>
+            <container id="aspace_04df24bda207062aa4e649ee042b6038" parent="aspace_f580ee5d5b17e8b3fd40529b93bb44ca" type="Folder">3</container>
+          </did>
+          <odd id="aspace_550164ddc719db12dffef7791ab23473">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225828 8</p>
+          </odd>
+        </c>
+        <c id="aspace_ref320" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Assorted Newspapers</unittitle>
+            <unitdate datechar="creation" normal="1959/1966" type="inclusive">1959-1966</unitdate>
+            <container id="aspace_9fddb71102d82545a053f34e1f1704f4" label="Mixed Materials [31142042258288]" type="Box">11</container>
+            <container id="aspace_b7a12229645d2f7ab70d57a98ca1aaae" parent="aspace_9fddb71102d82545a053f34e1f1704f4" type="Folder">4</container>
+          </did>
+          <odd id="aspace_5f4ba757cac2ab84f0b383fe4e6291c7">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225828 8</p>
+          </odd>
+        </c>
+        <c id="aspace_ref323" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1953/1959" type="inclusive">1953-1959</unitdate>
+            <container id="aspace_640894f2586c8398dd293e9a5c38faa9" label="Mixed Materials [31142042258288]" type="Box">11</container>
+            <container id="aspace_f9e8068b915240e395c3e2b2d30f44d8" parent="aspace_640894f2586c8398dd293e9a5c38faa9" type="Folder">5</container>
+          </did>
+          <odd id="aspace_e4ce1edb97c304aca815c1d42cfdd083">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225828 8</p>
+          </odd>
+        </c>
+        <c id="aspace_ref326" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newspaper Clipping Booklet</unittitle>
+            <unitdate datechar="creation" normal="1961/1961" type="inclusive">1961</unitdate>
+            <container id="aspace_81b67522d38706e8197346c0e4fa34ad" label="Mixed Materials [31142042258288]" type="Box">11</container>
+            <container id="aspace_4830254c0ec432f3504373da8cadca56" parent="aspace_81b67522d38706e8197346c0e4fa34ad" type="Folder">6</container>
+          </did>
+          <odd id="aspace_81da2a2f9245687f2b18fe435512c638">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225828 8</p>
+          </odd>
+        </c>
+        <c id="aspace_ref329" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1960/1969" type="inclusive">1960-1969</unitdate>
+            <container id="aspace_7a97c7d7c15fb2406c43dcf59cbff512" label="Mixed Materials [31142042258288]" type="Box">11</container>
+            <container id="aspace_e11dbc50f2a97d92de7640fcb08b2cf2" parent="aspace_7a97c7d7c15fb2406c43dcf59cbff512" type="Folder">7</container>
+          </did>
+          <odd id="aspace_bcb50e79f181fa60f2a5700a23f984d1">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225828 8</p>
+          </odd>
+        </c>
+        <c id="aspace_ref332" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1970/1986" type="inclusive">1970-1986</unitdate>
+            <container id="aspace_b53608f5a56873f9695e2322aeeaff55" label="Mixed Materials [31142042258288]" type="Box">11</container>
+            <container id="aspace_9f6cc8eb3db5f7aea88a75e2748b6711" parent="aspace_b53608f5a56873f9695e2322aeeaff55" type="Folder">8</container>
+          </did>
+          <odd id="aspace_1c18fc64faa3e5faec10b8e62c618841">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225828 8</p>
+          </odd>
+        </c>
+        <c id="aspace_ref335" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Newspaper Clippings</unittitle>
+            <unitdate datechar="creation" normal="1924/1986" type="inclusive">undated</unitdate>
+            <container id="aspace_e08d99d35fc941d51d1a47d4a28884c1" label="Mixed Materials [31142042258288]" type="Box">11</container>
+            <container id="aspace_d66aa5e703a519f8d93e2b0a0d7bba47" parent="aspace_e08d99d35fc941d51d1a47d4a28884c1" type="Folder">9</container>
+          </did>
+          <odd id="aspace_8078f3216075719357285b8971059e93">
+            <head>General note</head>
+            <p><emph render="bold">Barcode #</emph>: 3 1142 04225828 8</p>
+          </odd>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

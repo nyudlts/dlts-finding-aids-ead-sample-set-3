@@ -1,0 +1,1130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="multilevel_full" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_709/">tam_709</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to The Nation Institute Oral History Collection on Alger Hiss <num>TAM.709</num></titleproper>
+        <author>Heather Mulliner</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>10/17/2016</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 03:46:47 -0400</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>May 2021</date>
+        <item>Edited by Amy C. Vo for compliance with DACS and ACM Required Elements for Archival Description.</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>The Nation Institute Oral History Collection on Alger Hiss</unittitle>
+      <origination label="Creator">
+        <corpname rules="aacr" source="naf">Nation Institute (U.S.)</corpname>
+      </origination>
+      <origination label="Creator">
+        <persname source="naf">Ruben, Albert</persname>
+      </origination>
+      <origination label="Creator">
+        <persname rules="aacr" source="naf">Kisseloff, Jeff</persname>
+      </origination>
+      <origination label="Creator">
+        <persname source="local">Polshek, Ellyn</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="aacr" source="naf">Witty, Margot</persname>
+      </origination>
+      <unitid>TAM.709</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2 Linear Feet</extent>
+        <extent altrender="carrier">in 1 record carton and 4 media boxes</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">43 Cassettes</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">300 kilobytes</extent>
+        <extent altrender="carrier">in 3 word processing files</extent>
+      </physdesc>
+      <physdesc altrender="part">
+        <extent altrender="materialtype spaceoccupied">39 interviews</extent>
+        <extent altrender="carrier">on 49 access CDs</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="2001/2004" type="inclusive">2001-2004</unitdate>
+      <abstract id="aspace_b1b3614d8d656996a6b1ce546c418668">The Nation Institute Oral History Collection on Alger Hiss (dated 2001-2004) contains 42 interviews with individuals acquainted with Alger Hiss. Alger Hiss was a State Department official who was accused of Soviet espionage, and was eventually convicted of perjury in 1950. Interviews in the collection were recorded between 2001 and 2004 as part of an oral history project created by The Nation Institute following Hiss's death in 1996, and feature individuals who spent time with Hiss later in his life. Interviewees discuss their personal relationships with Hiss between the 1970s and 1990s, and focus on impressions of him during those years. Several interviewees were among a group of young volunteers who read books to Hiss when he began to lose his eyesight. Many interviews focus on how the interviewees' personal relationships with Hiss shaped their views about the charges against him.</abstract>
+      <langmaterial id="aspace_05e8faf0d6f0fd33c8999338ade2645a">Materials are in English.</langmaterial>
+    </did>
+    <accessrestrict id="aspace_f3e244fd87dde50258ddde92ecaca637">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_d63bdce9307313e3e82bad2b4c1870b0">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Margot Witty, executive editor of The Alger Hiss Story website, in 2016. The accession number associated with this gift is 2016.050.</p>
+    </acqinfo>
+    <arrangement id="aspace_913f113bd69c315e9dc17f696eb75c96">
+      <head>Arrangement</head>
+      <p>Interviews in this collection are arranged in alphabetical order by interviewee last name. Physical transcripts do not follow the intellectual arrangement, and are grouped in booklets in roughly chronological order.</p>
+    </arrangement>
+    <bioghist id="aspace_ab406f75e76230f88ee9cd4cd8c9ddcf">
+      <head>Historical Note</head>
+      <p>The Nation Institute Oral History Collection on Alger Hiss was created by The Nation Institute with funding from the Isabel Johnson Hiss Fund. The project was initiated shortly after Alger Hiss's death in 1996 to record his friends' and family's memories about him. </p>
+      <p>Alger Hiss (1904-1996) was a State Department official who served in the administration of Franklin Delano Roosevelt, and was involved in the establishment of the United Nations. In 1948 Hiss was named as a communist by Whittaker Chambers in a hearing before the House Un-American Activities Committee (HUAC). Hiss was called before HUAC to testify and later filed a defamation lawsuit against Chambers. During the trial process Chambers produced evidence that Hiss had been involved in espionage, and in 1950 Hiss was sentenced to three years in prison for perjury.</p>
+    </bioghist>
+    <prefercite id="aspace_b358fe60bc5d7f9b0fcff6938ee2c9e4">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; The Nation Institute Oral History Collection on Alger Hiss; TAM 709; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <processinfo id="aspace_6ecaa62833288720f04b5654e1ec7615">
+      <head>Processing Information</head>
+      <p>At the time of processing, oral history interviews were arranged in alphabetical order, and brief descriptions were created for each interview. Physical transcripts, which were originally grouped in booklets by the donor,  have been maintained in their original order.</p>
+      <p>Duplicate transcripts both in paper and electronic formats were removed from the collection. Additionally, tapes were originally accompanied by notes listing the names of individuals mentioned in each interview. These notes were discarded because they were deemed to contain insufficient contextual or descriptive information.</p>
+    </processinfo>
+    <relatedmaterial id="aspace_9d073218c41cddb17a37e5a48d383cd8">
+      <head>Related Materials</head>
+      <p>The Alger Hiss Oral History Collection (TAM 625) contains an incomplete set of interviews from The Nation Institute's Alger Hiss Oral Project that duplicate interviews contained in this collection.</p>
+    </relatedmaterial>
+    <scopecontent id="aspace_3ce6ee07ba07a85c6ecaa321208fcf89">
+      <head>Scope and Contents</head>
+      <p>The Nation Institute Oral History Collection on Alger Hiss (dated 2001-2004) consists of 41 interviews with individuals acquainted with Alger Hiss. Interviews were conducted between 2001 and 2004 and largely feature individuals who were close with Hiss later in his life. Several of the individuals featured were life-long friends, but others featured are younger individuals who were recruited to read for Hiss as his sight began to fail him in his old age. Interviews focus primarily on the subjects' personal relationships with Hiss, their perceptions of him as a person, his intellectual and literary interests, and his family life. They also feature discussions about Alger Hiss's trials and the continued analysis of the evidence against him. These discussions address topics including Whittaker Chambers's accusations, evidence introduced during the trials, the 1996 release of the Venona papers, Allen Weinstein's book <emph render="italic">Perjury: The Hiss-Chambers Case</emph>, and Russian historian Dimitri Volkogonov.</p>
+      <p>A large portion of the interviews were conducted by Albert Rubin, who was the first historian working on the Alger Hiss Oral History Project. Other interviews were conducted by oral historian Jeff Kisseloff and Hiss's attorney Ellyn Polshek, both of whom continued the project after Rubin retired in 2002. Interviews are recorded on audio cassette with accompanying physical or electronic transcripts. The interview with Victor Chapin does not have an audio recording and is only available in a transcript.</p>
+    </scopecontent>
+    <phystech id="aspace_723e13f1afbe8d2e03129f3d5efaf28c">
+      <head>Audiovisual Access Policies and Procedures</head>
+      <p>Audiovisual materials have not been preserved and may not be available to researchers. Materials not yet digitized will need to have access copies made before they can be used. To request an access copy, or if you are unsure if an item has been digitized, please contact Tamiment Library/Robert F. Wagner Labor Archives, special.collections@nyu.edu, 212-998-2596, with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <phystech id="aspace_6a4461ec344747da74d73b4f03598e9f">
+      <head>Born-Digital Access Policies and Procedures</head>
+      <p>Advance notice is required for the use of computer records.  Original physical digital media is restricted.  Born-digital materials have not been transferred and may not be available to researchers. Researchers may request access copies. To request that material be transferred, or if you are unsure if material has been transferred, please contact Tamiment Library/Robert F. Wagner Labor Archives, special.collections@nyu.edu, 212-998-2596, with the collection name, collection number, and a description of the item(s) requested. A staff member will respond to you with further information.</p>
+    </phystech>
+    <separatedmaterial id="aspace_b1f805125bdea795f093ba734a529b5b">
+      <head>Separated Materials</head>
+      <p>During processing it was determined that an interview featuring Julius Kobyakov was not created as part of this collection. This interview has been separated and added to an unprocessed collection.</p>
+    </separatedmaterial>
+    <userestrict id="aspace_87812adb5e3f7610f770912bdf893e7c">
+      <head>Conditions Governing Use</head>
+      <p>This collection is protected by copyright and/or related rights. You are free to use materials in the collection in any way that is permitted by the copyright and related rights legislation that applies to your use. For other uses you need to obtain permission from the rights-holder(s).</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Oral histories (literary works)</genreform>
+      <subject source="lcsh">Trials (Espionage) -- United States.</subject>
+      <subject source="lcsh">Communism -- United States -- 20th century</subject>
+      <title source="lcsh">VENONA historical monograph</title>
+      <persname source="naf">Hiss, Alger</persname>
+      <persname source="naf">Chambers, Whittaker</persname>
+      <persname source="naf">Volkogonov, Dmitri Antonovich.</persname>
+      <persname rules="aacr" source="naf">Weinstein, Allen</persname>
+      <persname role="dnr" rules="aacr" source="naf">Witty, Margot</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_60e681b8080884ba1a2af72ad8312be4" level="file">
+        <did>
+          <unittitle>Aronson, Grambs</unittitle>
+          <unitid>cuid157</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 March</unitdate>
+          <container altrender="Record carton" id="aspace_5da08014929f18d0e94b580ef7cc8d6d" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_0a8a9927b49693cda5e14605b2c50c58" parent="aspace_5da08014929f18d0e94b580ef7cc8d6d" type="Folder">1</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_8d24cd0d3bdd33279f6add1984259b4f" label="master cassette [31142054855922]" type="Box">2</container>
+          <container id="aspace_5957c7d67d0cdb7b07f80d1a4ed21aa9" parent="aspace_8d24cd0d3bdd33279f6add1984259b4f" type="Cassette">157</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_28827a2b894b989e0749f76be6495c1d" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_667e57b2f289284ec6cae756c9a647de" parent="aspace_28827a2b894b989e0749f76be6495c1d" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/1vhhmqjp" xlink:role="audio-service" xlink:show="new" xlink:title="Aronson, Grambs" xlink:type="simple">
+            <daodesc>
+              <p>Aronson, Grambs: 2001 March</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_84d7225085d225cacec7d4634c522623">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben in March 2001. In this interview Grambs Aronson discusses her friendship with Alger Hiss. The bulk of the interview focuses on her personal relationship with Hiss, and her thoughts about the charges against him. She talks about Hiss's personality, how his prison sentence affected him, and her thoughts about Whittaker Chambers. She also talks briefly about Hiss's role in the formation of the United Nations, and the UN 50th Anniversary in 1995.</p>
+        </scopecontent>
+        <scopecontent id="aspace_83f46d79ddd4e66dd2eedfd028f0410e">
+          <head>Scope and Contents</head>
+          <p>Extremely poor audio quality</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_c97914dc136996b9ea93f9568d73ff96" level="file">
+        <did>
+          <unittitle>Ashton, Dore</unittitle>
+          <unitid>cuid158</unitid>
+          <unitdate datechar="creation" normal="2001-04-09/2001-04-09">2001 April 9</unitdate>
+          <container altrender="Record carton" id="aspace_9b8856b6da0f89a455477f713f517f96" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_7c5176a84386a2d67a92254052ec8c24" parent="aspace_9b8856b6da0f89a455477f713f517f96" type="Folder">2</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_f7898f2695fb5eaee0b91bb09e6ae411" label="master cassette [31142054855922]" type="Box">2</container>
+          <container id="aspace_798297592138cf0e3eac0e5592612a08" parent="aspace_f7898f2695fb5eaee0b91bb09e6ae411" type="Cassette">158</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_8c0a5ca19dbf339c10c0878b9e798a0e" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_b7535bdde13821b8da970681fdfff522" parent="aspace_8c0a5ca19dbf339c10c0878b9e798a0e" type="CD">1</container>
+          <container id="aspace_24c1e948d5484ab00ab2ba7937184cd4" label="electronic records" type="Box">Electronic Records</container>
+          <container id="aspace_c73e9a2ac3419624382793144ed6b8cb" parent="aspace_24c1e948d5484ab00ab2ba7937184cd4" type="E-records">TW_TAM_709_ER_5</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/x3ffbq5j" xlink:role="audio-service" xlink:show="new" xlink:title="Ashton, Dore" xlink:type="simple">
+            <daodesc>
+              <p>Ashton, Dore: 2001 April 9</p>
+            </daodesc>
+          </dao>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_709.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Ashton, Dore" xlink:type="simple">
+            <daodesc>
+              <p>Ashton, Dore: 2001-04-09-</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_1203dec9acbf04b53b59942b10392bcc">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on April 9, 2001. In this interview Dore Ashton describes her friendship with Alger Hiss, largely focusing on Hiss's political beliefs and his interests in art and literature. She touches briefly on Hiss's praise of the New Deal and his objection to the policies of Richard Nixon. She also talks about Hiss's reaction to the publication of the book <emph render="italic">Perjury: The Hiss-Chambers Case by Alan Weinstein</emph>. In the final portion she shares as story about a discussion she and Hiss had about a decision by Salvador Allende to resist extradition of a Nazi seeking asylum in Chile.</p>
+        </scopecontent>
+        <scopecontent id="aspace_3fe3203173c0020c477c5595f8226eb3">
+          <head>Scope and Contents</head>
+          <p>Very poor audio quality</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_183b871af189271dc689638cdb242b05" level="file">
+        <did>
+          <unittitle>Blum, Penny</unittitle>
+          <unitid>cuid159</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 April 20</unitdate>
+          <container altrender="Record carton" id="aspace_5cb00e9d918ac35f616412bd59862ad0" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_658ac4a5734b3ddaa912a097ff560a3d" parent="aspace_5cb00e9d918ac35f616412bd59862ad0" type="Folder">3</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_ec767fb87d1a40e97f06a6ce5b185683" label="master cassette [31142054855922]" type="Box">2</container>
+          <container id="aspace_501c345280419226c4d05b39a1acd80f" parent="aspace_ec767fb87d1a40e97f06a6ce5b185683" type="Cassette">159</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_044e4efc20190f74854ead9bf3971f70" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_7ea587f6aede30011b543e1fd2ca9ae5" parent="aspace_044e4efc20190f74854ead9bf3971f70" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/sbcc2pn6" xlink:role="audio-service" xlink:show="new" xlink:title="Blum, Penny" xlink:type="simple">
+            <daodesc>
+              <p>Blum, Penny: 2001 April 20</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_59b88305fc7e40e6b5f5e115117348a5">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on April 20, 2001. In this short interview Penny Blum talks about her social relationship with Alger Hiss and his first wife Priscilla. Much of the interview focuses on social engagements with Blum, her husband, and the Hiss family. She also talks about Hiss's political beliefs, and Priscilla Hiss's frustration about the lack of support her husband received from his powerful friends after he was released from prison.  Finally she discusses how their friendship ended over a political disagreement between Hiss and her husband.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_033285fcd91a6f6ebb522e62dcf4bda4" level="file">
+        <did>
+          <unittitle>Brudney, Karen</unittitle>
+          <unitid>cuid160</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 September 22</unitdate>
+          <container altrender="Record carton" id="aspace_632733186bb336a55becfb2ccbab9e0e" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_76e5326d3a43a201f317b6b9ca2de2fb" parent="aspace_632733186bb336a55becfb2ccbab9e0e" type="Folder">13</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_f13c6a2502d6e08e5ddc2b08821af694" label="master cassette [31142054855922]" type="Box">2</container>
+          <container id="aspace_b873c69239c66f5a5b0c880f57b88edf" parent="aspace_f13c6a2502d6e08e5ddc2b08821af694" type="Cassette">160</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_925eae500ce4b89753bd5e2dd4d05fdb" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_02cd852718660cb811b1e0e74b2eff7b" parent="aspace_925eae500ce4b89753bd5e2dd4d05fdb" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/nk98sp4x" xlink:role="audio-service" xlink:show="new" xlink:title="Brudney, Karen" xlink:type="simple">
+            <daodesc>
+              <p>Brudney, Karen: 2001 September 22</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_7425535fd5210df260d7378cd4eb9bde">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on September 22, 2001. In this interview Karen Brudney talks about her family's friendship with Alger Hiss. Brudney's parents became friends with Alger Hiss when she was a child, shortly after he was released from prison. In her interview she describes Hiss as an attentive adult, who enjoyed discussing her interest in music when she was young and politics when she got older. She mentions their discussions about Vietnam, Nixon, the Black Power movement, the New Left, and Ronald Reagan. She also talks briefly about Hiss's interest in her work as a doctor in Nicaragua.</p>
+        </scopecontent>
+        <scopecontent id="aspace_43c11b17c02304a808d69900bf04a4a9">
+          <head>Scope and Contents</head>
+          <p>Poor audio quality with electronic interference throughout</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_83a1270f700459d41cb1d9e772ed9d2c" level="file">
+        <did>
+          <unittitle>Brudney, Victor</unittitle>
+          <unitid>cuid161</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 February 4</unitdate>
+          <container altrender="Record carton" id="aspace_28241576d60285168239974f60178d60" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_e6539d8b51455232ae25bfe026c70fd7" parent="aspace_28241576d60285168239974f60178d60" type="Folder">6</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_ee50c140f3ebd00d8b0ddff43f80e89a" label="master cassette [31142054855922]" type="Box">2</container>
+          <container id="aspace_6d267886cdf7ad5f25ceefc4014c7879" parent="aspace_ee50c140f3ebd00d8b0ddff43f80e89a" type="Cassette">161</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_916630ba11f434c45135d59de44d8f88" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_3da88e9538bb8b8b2fec3072b7750996" parent="aspace_916630ba11f434c45135d59de44d8f88" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/ht76hnp2" xlink:role="audio-service" xlink:show="new" xlink:title="Brudney, Victor" xlink:type="simple">
+            <daodesc>
+              <p>Brudney, Victor: 2001 February 4</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_9ab675ddb24adb2235953e2a47441116">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on February 1, 2001. In this interview Victor Brudney shares personal anecdotes about his friendship with Alger Hiss, who he met in 1965. Much of the interview focuses on Hiss's close connection to Harvard Law School, where Brudney later went on to teach.  He also talks about serving as a witness on Hiss's behalf during his application to be readmitted to the Massachusetts bar in 1974. Brudney shares several personal stories about his social relationship with Hiss, and also discusses Hiss's continued interest in clearing his name, including his attempt to reach out to Russian historian Dimitri Volkogonov, and his interest in the Venona papers.</p>
+        </scopecontent>
+        <scopecontent id="aspace_23a87b0573ee036538be75efc75205b4">
+          <head>Scope and Contents</head>
+          <p>Poor audio quality</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_cf87fae462bc45b8026dfad1a3442135" level="file">
+        <did>
+          <unittitle>Buttenwieser, Lawrence</unittitle>
+          <unitid>cuid162</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 August 16</unitdate>
+          <container altrender="Record carton" id="aspace_ea38ea32930713f606c9957fc9800519" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_482b9ece2f9aef6c89114666cf9a3ca6" parent="aspace_ea38ea32930713f606c9957fc9800519" type="Folder">4</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_987abe1675d29c7ec4dd9eb0332c9ad6" label="master cassette [31142054855922]" type="Box">2</container>
+          <container id="aspace_738fefcefc1dee93e8f3cecddee092cb" parent="aspace_987abe1675d29c7ec4dd9eb0332c9ad6" type="Cassette">162</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_49a5ef673b07a37f424dbfb523976242" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_5b58c8c0c6347ac05e1bcc8951dd21fb" parent="aspace_49a5ef673b07a37f424dbfb523976242" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/d2547n66" xlink:role="audio-service" xlink:show="new" xlink:title="Buttenwieser, Lawrence" xlink:type="simple">
+            <daodesc>
+              <p>Buttenwieser, Lawrence: 2001 August 16</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_00f59e8607110e35eda6c00b4700ca09">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by  Albert Ruben on August 16, 2001. In this interview Lawrence Buttenwieser talks about his recollections of Alger Hiss and his memories surrounding the Hiss trials. His mother, Helen Buttenwieser, was an attorney for Hiss during his trials. The bulk of the interview focuses on Buttenwieser's impressions of Hiss as a person, his political beliefs, and his intellectual interests. It ends with speculation about how Hiss will be remembered by history.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_4097519c8976c925ead017b486e59e9f" level="file">
+        <did>
+          <unittitle>Chalif, Ronnie</unittitle>
+          <unitid>cuid163</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 May 8</unitdate>
+          <container altrender="Record carton" id="aspace_b6e78aa88623b535fcdde003e59fed0c" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_528f44dd720ac0bb213d5c8522ea2a7a" parent="aspace_b6e78aa88623b535fcdde003e59fed0c" type="Folder">5</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_76e37f72ae92d25ed336168d98d3797b" label="master cassette [31142054855922]" type="Box">2</container>
+          <container id="aspace_804545781d872823019666a0f210fd65" parent="aspace_76e37f72ae92d25ed336168d98d3797b" type="Cassette">163</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_91b4423c107645d6c7d59706e5deeb8e" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_c326349a85cc6ea9887ea629078853ad" parent="aspace_91b4423c107645d6c7d59706e5deeb8e" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/8cz8wj90" xlink:role="audio-service" xlink:show="new" xlink:title="Chalif, Ronnie" xlink:type="simple">
+            <daodesc>
+              <p>Chalif, Ronnie: 2001 May 8</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_ae66322f2b4b2b57e905bbf47e9f4291">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on May 8, 2001. In this interview Ronnie Chalif discusses her long friendship with Alger Hiss. She talks about meeting Hiss in 1955 or 1956, and focuses primarily on their social relationship. Chalif reflects on his personality, interests, and relationships in his family. She talks about his admiration of Oliver Wendell Holmes, his reaction to Nixon's impeachment, and also briefly touches on Hiss's father's suicide and how it affected his childhood.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_e75a5047883f783297076c25f7b72386" level="file">
+        <did>
+          <unittitle>Chapin, Victor</unittitle>
+          <unitid>cuid781</unitid>
+          <unitdate datechar="creation" normal="2001/2004" type="inclusive">circa 2001-2004</unitdate>
+          <container id="aspace_e22a558351654947e7653b06b55f8782" label="electronic records" type="Box">Electronic Records</container>
+          <container id="aspace_30ca2b11b59c2df05f4e08bbc7c5a501" parent="aspace_e22a558351654947e7653b06b55f8782" type="E-records">TW_TAM_709_ER_2</container>
+          <container id="aspace_620dd675d4748f04a8a21500bd59e146" label="electronic records" type="Box">Electronic Records</container>
+          <container id="aspace_556432707a93b2d1ae25487f3004e740" parent="aspace_620dd675d4748f04a8a21500bd59e146" type="E-records">TW_TAM_709_ER_27</container>
+          <dao xlink:actuate="onRequest" xlink:href="TW_TAM_709_ER_2" xlink:show="new" xlink:title="Chapin, Victor" xlink:type="simple">
+            <daodesc>
+              <p>Chapin, Victor</p>
+            </daodesc>
+          </dao>
+          <dao xlink:actuate="onLoad" xlink:href="https://aeon.library.nyu.edu/Logon?Action=10&amp;Form=31&amp;Value=http://dlib.nyu.edu/findingaids/ead/tamwag/tam_709.xml&amp;view=xml" xlink:role="electronic-records-reading-room" xlink:show="new" xlink:title="Chapin, Victor" xlink:type="simple">
+            <daodesc>
+              <p>Chapin, Victor: circa 2001-2004</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_783d561b83b4682cf334a72ad31818fb">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by an unidentified individual. In this interview an individual only identified as "Victor" talks about the Hollywood Blacklist and the Alger Hiss trials. He talks about his experience as a blacklisted member of the film industry, his film career, his acquaintance with Alger Hiss, and his membership in the Communist Party of the United States of America.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_59870ae159f43ffc2e50f24e42e85ac8" level="file">
+        <did>
+          <unittitle>Collins, Mary Evans</unittitle>
+          <unitid>cuid779</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 January 10</unitdate>
+          <container altrender="Record carton" id="aspace_3ed9c8bfee149063dc22889f330131f5" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_090a7d8c45d300c9492c9262dd55900b" parent="aspace_3ed9c8bfee149063dc22889f330131f5" type="Folder">6</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_d904b26c2344ca505d6510af849af217" label="master cassette [31142054855948]" type="Box">4</container>
+          <container id="aspace_f2a6f21ee8b8277d6d26d648afe18aff" parent="aspace_d904b26c2344ca505d6510af849af217" type="Cassette">cuid779</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_bb7f3e92a4817f77db9a93ad393a1b80" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_ab8c8ed7648e74e2c5c58235a993309d" parent="aspace_bb7f3e92a4817f77db9a93ad393a1b80" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/4mw6mhtw" xlink:role="audio-service" xlink:show="new" xlink:title="Collins, Mary Evans" xlink:type="simple">
+            <daodesc>
+              <p>Collins, Mary Evans: 2001 January 10</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_a6bee7984a3bbac4b2ceafba0f9131a8">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Ronnie Chalif on January 10, 2001. In this interview Mary Evans Collins discusses her friendship with Alger Hiss and her connection with his family.  Collins explains that she met Hiss in 1947 or 1948 through her husband Henry Hill Collins, who was a life-long friend of Hiss. She talks about socializing with Hiss and his wife Priscilla, and later discusses how her husband was also brought to testify in HUAC hearings. The end of the interview focuses on her friendship with Hiss after he was released from prison, and includes discussions about reading to Hiss when he began to lose his eyesight.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_af5605aa6ae5a4cddc9f08beab5a20e4" level="file">
+        <did>
+          <unittitle>Crown, Mrs. Rufus</unittitle>
+          <unitid>cuid164</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 March 19</unitdate>
+          <container altrender="Record carton" id="aspace_3736f0ab9c5aaacce0bd58209aee27d1" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_684ec5b4e313befb26d5cadb5ab47405" parent="aspace_3736f0ab9c5aaacce0bd58209aee27d1" type="Folder">7</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_fe4ac28a681ba378bcddc3d2f95aa660" label="master cassette [31142054855922]" type="Box">2</container>
+          <container id="aspace_2d8f7e6f90100b32db290d5c16a30d77" parent="aspace_fe4ac28a681ba378bcddc3d2f95aa660" type="Cassette">164</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_c81832d686fb1e91c00d75b46c3e619c" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_8140b869464ed2c6569d797c7acb8461" parent="aspace_c81832d686fb1e91c00d75b46c3e619c" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/0vt4bh78" xlink:role="audio-service" xlink:show="new" xlink:title="Crown, Mrs. Rufus" xlink:type="simple">
+            <daodesc>
+              <p>Crown, Mrs. Rufus: 2001 March 19</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_60aaf0d810640c3c02dcd6218e28295a">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by an unidentified individual on March 19, 2001. In this interview Rufus Crown discusses her friendship with Alger Hiss. She begins the interview by talking briefly about her personal political beliefs and participation in activism with her husband Alfred Crown. She discusses meeting Hiss and his second wife Isabel at a party in the early 1960s, and focuses much of the interview on personal anecdotes about connections with family and mutual friends.  She also talks at some length about Hiss's admiration of Franklin D. Roosevelt.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_70a4f4b8dcdf9aaa1850f062150eedd3" level="file">
+        <did>
+          <unittitle>Geismar, Anne</unittitle>
+          <unitid>cuid165</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2002 September 12</unitdate>
+          <container altrender="Record carton" id="aspace_4d0539c8e07a1635cf9100d96ef8da20" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_004256211cd21a21c6b0e8dae2ff7dce" parent="aspace_4d0539c8e07a1635cf9100d96ef8da20" type="Folder">11</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_fc99a82d41d3759ad847d4fce41255f1" label="master cassette [31142054855922]" type="Box">2</container>
+          <container id="aspace_7ac11b122790d29c0cb8120e0a4de7a9" parent="aspace_fc99a82d41d3759ad847d4fce41255f1" type="Cassette">165</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_b3a8d840c6dc44a9ab4ee6f285114f5b" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_47d03ff53f59b7cf21b5770aca897595" parent="aspace_b3a8d840c6dc44a9ab4ee6f285114f5b" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/w3r22gw5" xlink:role="audio-service" xlink:show="new" xlink:title="Geismar, Anne" xlink:type="simple">
+            <daodesc>
+              <p>Geismar, Anne: 2002 September 12</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_06ecc210e7b126b89cfe32c2e3b5be28">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Jeff Kisseloff on September 12, 2002. In this lengthy interview, Anne Geismar reflects on her social relationship with Alger Hiss and shares general opinions about his character. Geismar begins the interview by talking about her own life and shares a story about meeting her husband Max Geismar in 1930. She also talks about her early career working at <emph render="italic">Art Digest</emph>. She describes meeting Hiss at a dinner party shortly after he was released from prison, and talks about how she saw his trials as symbolic of the political atmosphere that was dominated by anti-communism. Much of the interview focuses on Geismar's general impressions of Hiss, his friendship with her husband, and Hiss's literary interests.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_3df2f9c833b75f7504911bdb1e044250" level="file">
+        <did>
+          <unittitle>Gelber, Jack</unittitle>
+          <unitid>cuid166</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 April 24</unitdate>
+          <container altrender="Record carton" id="aspace_9edc86aac8e5294bdecf165398e0e460" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_92a8ee561fffa9221af7c26c9462c179" parent="aspace_9edc86aac8e5294bdecf165398e0e460" type="Folder">3</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_94f173b5d392401463a1b2b3ba44ea75" label="master cassette [31142054855922]" type="Box">2</container>
+          <container id="aspace_15a48d7507596cf37147add486ee991d" parent="aspace_94f173b5d392401463a1b2b3ba44ea75" type="Cassette">166</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_80cb02fe7068a74d489f3f58345ac972" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_bfd907d126aae7f3cebef1a2e157084b" parent="aspace_80cb02fe7068a74d489f3f58345ac972" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/rbnzsgcs" xlink:role="audio-service" xlink:show="new" xlink:title="Gelber, Jack" xlink:type="simple">
+            <daodesc>
+              <p>Gelber, Jack: 2001 April 24</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_ea19876e3c98261b51097e5e550ab306">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on April 24, 2001. In this interview Jack Gelber talks about his acquaintance with Alger Hiss and his personal research into the Hiss trials. Gelber explains that he became well acquainted with Hiss in 1976 when he began writing a play about the Hiss-Chambers case, and was introduced to Hiss by his friend Arthur Penn. In the interview, Gelber does not touch on specific events, but rather discusses his general impressions about Hiss's personality and memory toward the end of his life.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_b4f682bb261e9eb2f4b1390ed1266b6b" level="file">
+        <did>
+          <unittitle>Grace, Cindy Hiss</unittitle>
+          <unitid>cuid167</unitid>
+          <unitdate datechar="creation" normal="2002/2002">2002 February</unitdate>
+          <container altrender="Record carton" id="aspace_e70c6569948d2cf68bb5eea953cca05f" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_dae14679a9ec31d8cded557f1c872556" parent="aspace_e70c6569948d2cf68bb5eea953cca05f" type="Folder">6</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_5641f844dd4b91f1de583a54b2659adb" label="master cassette [31142054855922]" type="Box">2</container>
+          <container id="aspace_1fc296f399f3f755feb10a64d25e2d33" parent="aspace_5641f844dd4b91f1de583a54b2659adb" type="Cassette">167</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_92d48ca535f642bbe3de808a187a25a4" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_e20d3408da13208f9cf5f4ba46b7b93b" parent="aspace_92d48ca535f642bbe3de808a187a25a4" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/mkkwhfwp" xlink:role="audio-service" xlink:show="new" xlink:title="Grace, Cindy Hiss" xlink:type="simple">
+            <daodesc>
+              <p>Grace, Cindy Hiss: 2002 February</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_e53bd44f90c5646c372a9abb5341a9a8">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Ellyn Polshek in February 2001. In this interview Cindy Hiss Grace discusses the impact of the Hiss-Chambers case on her family. Grace is the daughter of Alger Hiss's younger brother Donald. The bulk of the interview focuses on how the Hiss-Chambers case affected her family, and the emotional trauma they experienced from being under FBI surveillance. Grace also talks about other tragedies surrounding the Hiss family, including the suicide of Alger and Donald's father and the deaths of their siblings Mary Ann and Bosley. She also talks about family politics, describing the Hisses as firm supporters of the New Deal and admirers of Justice Oliver Wendell Holmes.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_7933ee3ae61a71959b178ada5c4e78e6" level="file">
+        <did>
+          <unittitle>Haury, Agnese</unittitle>
+          <unitid>cuid196</unitid>
+          <unitdate datechar="creation" type="inclusive">undated</unitdate>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_14b351f22cee43f0c2aeeaff9a8a342c" label="master cassette [31142054855922]" type="Box">2</container>
+          <container id="aspace_0959292b02f6894927ae4866d42b13ce" parent="aspace_14b351f22cee43f0c2aeeaff9a8a342c" type="Cassette">196</container>
+          <container id="aspace_a8508bb2eb9c9389c759457c26cffbdd" label="electronic records" type="Box">Electronic Records</container>
+          <container id="aspace_7fa05fc0041adb68a8f8a14b80974b32" parent="aspace_a8508bb2eb9c9389c759457c26cffbdd" type="Folder">TW_TAM_709_ER_1</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_9faf30d9c71d6f593fe669078227f400" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_8d3508beb28eb1621772ee7e907efa39" parent="aspace_9faf30d9c71d6f593fe669078227f400" type="CD">1-4</container>
+          <dao xlink:actuate="onRequest" xlink:href="TW_TAM_709_ER_1" xlink:show="new" xlink:title="Haury, Agnese Interviewed by Jeff Kisseloff" xlink:type="simple">
+            <daodesc>
+              <p>Haury, Agnese Interviewed by Jeff Kisseloff</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_bb0ad30d0b49b82e75802047927229da">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Jeff Kisseloff. In this two-part interview Agnese Haury talks about working at the United Nations (UN) and her friendship with Alger Hiss. Haury begins the interview with a discussion about her background, and the events that led her to begin working as an editor at the United Nations. She talks about working with Hiss during the early days of the UN, and discusses how staff at the UN viewed the Hiss trials. In the first interview she describes attending several of the trial proceedings, and talks generally about Hiss's initial reaction to the allegations. The second part of the interview focuses more on Hiss's personal relationships. She shares a story about taking Hiss's wife Priscilla and his son Tony to Lewisburg prison following his conviction, and discusses providing the family with financial support. She also talks at some length about Hiss and his brother Donald, and concludes the interview with a discussion about Hiss during the last years of his life.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_24cfd30232299d30bb6ffa89cbdc3825" level="file">
+        <did>
+          <unittitle>Hobson, Tim</unittitle>
+          <unitid>cuid168</unitid>
+          <unitdate datechar="creation" normal="2002/2002">2002 October 21</unitdate>
+          <container altrender="Record carton" id="aspace_e2a3cb8c2b17ab517da018e10424f19a" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_5b44e7f84953759482b9f05e4b55f134" parent="aspace_e2a3cb8c2b17ab517da018e10424f19a" type="Folder">9</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_014d013bf012eab481b2e7678431ca5e" label="master cassette [31142054855922]" type="Box">2</container>
+          <container id="aspace_d633549e87fb0754f76e3c864e058e95" parent="aspace_014d013bf012eab481b2e7678431ca5e" type="Cassette">168A-C</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_33da05d0ec6747016e14b453fd5edf23" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_bf72e3bc40b6f280d31bd6511e31c760" parent="aspace_33da05d0ec6747016e14b453fd5edf23" type="CD">1-5</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/gtht7fds" xlink:role="audio-service" xlink:show="new" xlink:title="Hobson, Tim" xlink:type="simple">
+            <daodesc>
+              <p>Hobson, Tim: 2002 October 21</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_d768de517eddab9323431fd014d7ef56">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Jeff Kisseloff on October 21, 2002. In this lengthy three-part interview Tim Hobson talks about his relationship with his step-father Alger Hiss and his memories of the Whittaker Chambers allegations. In the first part Hobson talks about his mother Priscilla Hiss, his father Thayer Hobson, and his relationship with Alger Hiss. The first part of the interview also focuses on the testimony of Whittaker Chambers, and Hobson's memories of the years in which Chambers claimed to be associated with the Hiss family. The second part of the interview largely focuses on Hiss's life after his conviction and his release from prison. Much of this section focuses on family dynamics between Hiss, his son Tony, and his second wife Isabel. The third part of the interview returns to Chambers's account of his relationship with Hiss and contains some more pointed questions about the degree to which his testimony conflicts with Hobson's memories.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_9fb1216f82bc144976a5d7dc09fdcf3a" level="file">
+        <did>
+          <unittitle>Horan, Tim</unittitle>
+          <unitid>cuid169</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 May 1</unitdate>
+          <container altrender="Record carton" id="aspace_2448f0428d53984e4163c07012c39d66" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_48b6accc1320d3b1da00fbece658b66f" parent="aspace_2448f0428d53984e4163c07012c39d66" type="Folder">3</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_68cfb0ecffca395378b40591b62855de" label="master cassette [31142054855922]" type="Box">2</container>
+          <container id="aspace_7de4447658235cfd778708c13070be7a" parent="aspace_68cfb0ecffca395378b40591b62855de" type="Cassette">169</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_8c2c1aebae74223b7b14b46407e0c93a" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_a416ae8176b43b86fe6dfa2ee25253bf" parent="aspace_8c2c1aebae74223b7b14b46407e0c93a" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/c59zwbk5" xlink:role="audio-service" xlink:show="new" xlink:title="Horan, Tim" xlink:type="simple">
+            <daodesc>
+              <p>Horan, Tim: 2001 May 1</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_beb1998c65dd109c31d51205d91c8787">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on May 1, 2001. In this interview Tim Horan talks about his friendship and business relationship with Alger Hiss. He explains that he met Hiss in 1960, when Hiss came to his office selling stationery. Much of the interview focuses on Horan's perception of Hiss as a person and his political beliefs. At the end of the interview Horan discusses Whittaker Chambers's accusations against Hiss and provides an assessment of Chambers's personality. Finally he talks about Hiss's decision not to have his step-son Tim Hobson testify on his behalf.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ac4689882fb50dee66ee864da176884e" level="file">
+        <did>
+          <unittitle>Lane, Lynn</unittitle>
+          <unitid>cuid170</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 April 23</unitdate>
+          <container altrender="Record carton" id="aspace_231d7579e7a7ae10f3d622733e48612f" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_7e5fde78a5671ad8c50d3653280a75db" parent="aspace_231d7579e7a7ae10f3d622733e48612f" type="Folder">3</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_072775acb5e44c623a9a84bba8cd76e0" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_4f710a3c50203bbb7615f6eb961ba449" parent="aspace_072775acb5e44c623a9a84bba8cd76e0" type="Cassette">170</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_49d068ae877c6b5f468c685ac677ba27" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_d80a4466f0707b8ca9a68f96be90960e" parent="aspace_49d068ae877c6b5f468c685ac677ba27" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/7d7wmb38" xlink:role="audio-service" xlink:show="new" xlink:title="Lane, Lynn" xlink:type="simple">
+            <daodesc>
+              <p>Lane, Lynn: 2001 April 23</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_d7b0821cbe8439907cd81fc012579e72">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on April 23, 2001. In this interview Lynn Lane discusses her friendship with Alger Hiss. She talks about meeting Hiss at a dinner party after he had been released from prison, and largely focuses on her perceptions of his personality. She talks generally about his interest in other people, his political leanings, and his literary interests. Lane also discusses her long-held belief in Hiss's innocence, but notes that in recent years she has questioned whether his account was entirely truthful.</p>
+        </scopecontent>
+        <scopecontent id="aspace_c69016622b76da2bc998b3c413f5bc8b">
+          <head>Scope and Contents</head>
+          <p>Electronic hum heard on and off throughout entire interview</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ed4e8a138c9ec75d73dfbe4b120774c8" level="file">
+        <did>
+          <unittitle>Levine, Alan</unittitle>
+          <unitid>cuid171</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 November 9</unitdate>
+          <container altrender="Record carton" id="aspace_10b7d1a86111d38188534fbb4d1e4983" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_422f3df359b1cc11f749e25bbcb619b1" parent="aspace_10b7d1a86111d38188534fbb4d1e4983" type="Folder">10</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_01b6c2e90cc5361e1a7717a8868d9fcb" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_90eb1eec531d1f2b7a5e2894e4f12dc9" parent="aspace_01b6c2e90cc5361e1a7717a8868d9fcb" type="Cassette">171</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_2ec10fb68b825040e06908044bc6f31c" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_9c743a90f488aaf8e8f34231e62c0292" parent="aspace_2ec10fb68b825040e06908044bc6f31c" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/3n5tb9jp" xlink:role="audio-service" xlink:show="new" xlink:title="Levine, Alan" xlink:type="simple">
+            <daodesc>
+              <p>Levine, Alan: 2001 November 9</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_fadfe3033ec4e70b1cda86bbe2ea826d">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on November 9, 2001. In this brief interview Alan Levine talks about his experience as a reader for Alger Hiss.  Levine explains that he volunteered to read for Hiss after reading his second autobiography, in which Hiss talked about performing the same service for Justice Oliver Wendell Holmes when his eyesight faded.  In this interview Levine shares several anecdotes about Hiss, speaking about his views on politics in the early 1990s, and Hiss's work as a court reporter at the Rosenberg case.  The interview closes with a discussion about the books Levine and Hiss read together and the other volunteers who read to him.</p>
+        </scopecontent>
+        <scopecontent id="aspace_796ea7021af6c88c51ddeaf431578fff">
+          <head>Scope and Contents</head>
+          <p>Electronic hum heard throughout</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_ff6fdc6ac3f678aae0b41d3b22e32cc9" level="file">
+        <did>
+          <unittitle>Lundquist, Oliver</unittitle>
+          <unitid>cuid172</unitid>
+          <unitdate datechar="creation" normal="2002/2002">2002 November 15</unitdate>
+          <container altrender="Record carton" id="aspace_b88eceb990e0fa3d7fc2aa8153beb697" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_bcd08c41cf90658659ec60c6123e3c81" parent="aspace_b88eceb990e0fa3d7fc2aa8153beb697" type="Folder">12</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_18e831171b82666c037e11d44f0657c1" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_a9f1fd094434680a3b4046df2675cc2b" parent="aspace_18e831171b82666c037e11d44f0657c1" type="Cassette">172</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_b39cf9354cf82f6ad4418aedf9e066ba" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_57df63da7e7190689a3bec268217852f" parent="aspace_b39cf9354cf82f6ad4418aedf9e066ba" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/zw3r296r" xlink:role="audio-service" xlink:show="new" xlink:title="Lundquist, Oliver" xlink:type="simple">
+            <daodesc>
+              <p>Lundquist, Oliver: 2002 November 15</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_4142fcbfe1594a2ec7d3750b8d1f205c">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Jeff Kisseloff on November 15, 2002. In this interview Oliver Lundquist talks about Alger Hiss's role in the formation of the United Nations. Lundquist begins the interview by talking about his own background as a design student in New York in the 1930s and explains how he later began working in the design department for the Office of Strategic Service (OSS) during World War II. Lundquist describes meeting with Hiss in 1944 when he was working for the Visual Presentation Division of the OSS. He talks about Hiss's work at the Dumbarton Oaks Conference and his role in leading several early United Nations meetings. The interview also touches on Lundquist's relationship with Hiss, who he describes as a mentor. Lundquist also talks about his opinion of Hiss's innocence and talks at length about typewriter forgery. He concludes the interview by talking about the 50th anniversary of the United Nations and Hiss's physical condition toward the end of his life.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_a6636407c428fcbe341f74d460926db4" level="file">
+        <did>
+          <unittitle>Magdoff, Harry</unittitle>
+          <unitid>cuid780</unitid>
+          <unitdate datechar="creation" normal="2003/2003">circa 2003</unitdate>
+          <container altrender="Record carton" id="aspace_86bffcfa2254e93384cf9ddb877d5d90" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_929b32b60e4391ee256b4be86f98632a" parent="aspace_86bffcfa2254e93384cf9ddb877d5d90" type="Folder">16</container>
+        </did>
+        <scopecontent id="aspace_d9956dd3fbc74d15d5e1b364ecfaecd2">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Jeff Kisseloff in 2003. In this interview Harry Magdoff talks about his friendship with Alger Hiss, who he met at a dinner party in the 1950s. Magdoff begins the interview by sharing a story about his acquaintance with Harry Dexter White, who was also named as a Communist by Whittaker Chambers. Magdoff also talks about accusations of communist espionage that he faced, and talks about how that experience built a mutual understanding between Hiss and himself. He also talks generally about his social relationship with Hiss, and shares his opinions about him as a person.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_d8054e852d6fc8778216785a2dffa376" level="file">
+        <did>
+          <unittitle>Navasky, Victor</unittitle>
+          <unitid>cuid173</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 September 20</unitdate>
+          <container altrender="Record carton" id="aspace_7c0ace7d24224a3f5dc327f34abd4b0d" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_224845d97283d119d55fcbfee24f773d" parent="aspace_7c0ace7d24224a3f5dc327f34abd4b0d" type="Folder">13</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_f03e28ef1cab8412c5dbb4c28158c7f5" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_01c06ad86ba4609d792613ae8f672314" parent="aspace_f03e28ef1cab8412c5dbb4c28158c7f5" type="Cassette">173</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_9d285703ff3b0bf1c39502e5855e157b" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_3f56f58ad9e6ca0f9e71cbf5597c0048" parent="aspace_9d285703ff3b0bf1c39502e5855e157b" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/v41ns8p9" xlink:role="audio-service" xlink:show="new" xlink:title="Navasky, Victor" xlink:type="simple">
+            <daodesc>
+              <p>Navasky, Victor: 2001 September 20</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_1b3015593b9fa56b815c347a9ec6d64f">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on September 20, 2001. In this interview Victor Navasky talks about his friendship with Alger Hiss and his continued interest in the Hiss trials. The bulk of the interview focuses on research into the evidence against Hiss and includes discussions about Allen Weinstein's book <emph render="italic">Perjury</emph>, John Lowenthal's research on Alger Hiss and the Venona Papers, and Russian historian Dimitri Volkoganov. Navasky also shares an anecdote about inviting Hiss to lecture for a course he taught at Swarthmore College. He concludes the interview by talking generally about his belief in Hiss's innocence and how his research has informed that belief.</p>
+        </scopecontent>
+        <scopecontent id="aspace_026346bc026355dbf9f89d8e53342b0e">
+          <head>Scope and Contents</head>
+          <p>Electronic hum heard throughout</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_1b9f74d66b5357ad994e1222e8624ad1" level="file">
+        <did>
+          <unittitle>Novick, Tillie</unittitle>
+          <unitid>cuid174</unitid>
+          <unitdate datechar="creation" normal="2002/2002">2002 September 6</unitdate>
+          <container altrender="Record carton" id="aspace_523e857a9e82c542b7546bf1563e9bf4" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_e1f0ccb09d30f3bace2442e59c8cf1dc" parent="aspace_523e857a9e82c542b7546bf1563e9bf4" type="Folder">14</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_db3d6e1681840c0a044369a561d4fba3" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_6f85e9dac1b22254ca01940bbb4e77b6" parent="aspace_db3d6e1681840c0a044369a561d4fba3" type="Cassette">174</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_78e98e50e25cdaddb2025ac27f302129" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_27bf559becb5b8ce51aa34da3cc90434" parent="aspace_78e98e50e25cdaddb2025ac27f302129" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/qbzkh87k" xlink:role="audio-service" xlink:show="new" xlink:title="Novick, Tillie" xlink:type="simple">
+            <daodesc>
+              <p>Novick, Tillie: 2002 September 6</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_43141d9a644d1e9b35015109a28f02e9">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on September 6, 2002. In this interview Tillie Novick talks about her professional relationship with Alger Hiss, who worked as salesman for her printing company. She begins the interview by talking about her upbringing and discussing her husband's printing business, Novick and Son. She talks about meeting Hiss when he came to work for their company in 1958 and discusses her impressions of him as a person and an employee. She also discusses serving as a character witness for Hiss during his application for readmittance to the Massachusetts bar. She touches on Hiss's reaction to the news of Richard Nixon's impeachment and generally discusses the printing business between the 1950s and 1970s.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_9746b36bc2f688faafcb5a7df24bc521" level="file">
+        <did>
+          <unittitle>Papachristou, Alexander</unittitle>
+          <unitid>cuid175</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 October 23</unitdate>
+          <container altrender="Record carton" id="aspace_a619f3ed422ec6bee8fab475a6fc62eb" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_7d8e9caf1b706b971e582d072c470062" parent="aspace_a619f3ed422ec6bee8fab475a6fc62eb" type="Folder">10</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_102893d842756997b09d90b75e5b5812" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_ba879ecadbd686a384b1605dfd9f84ac" parent="aspace_102893d842756997b09d90b75e5b5812" type="Cassette">175</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_8910befd9f0594962e9bf5c5b5680652" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_45c7c91188b5504cf389bb4d3472503c" parent="aspace_8910befd9f0594962e9bf5c5b5680652" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/kprr55ct" xlink:role="audio-service" xlink:show="new" xlink:title="Papachristou, Alexander" xlink:type="simple">
+            <daodesc>
+              <p>Papachristou, Alexander: 2001 October 23</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_78906da4bc18d8b276d4dc22fc1ecf77">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on October 23, 2001. In this interview Alexander Papachristou discusses his friendship with Alger Hiss. He explains that Hiss was a friend of his parents, and took an interest in Papachristou because he was a student at Harvard Law School. He talks about how he later started working for Hiss's lawyers on a petition to reopen his case. Papchristou reflects on Hiss's sense of history, and his political beliefs. He also talks about moving to the Soviet Union and assisting Hiss during his search for archival materials related to his case. He talks about Russian historian Dimitri Volkoganov's statement about the lack of evidence against Hiss, and finishes the interview by discussing his personal beliefs about Hiss's innocence.</p>
+        </scopecontent>
+        <scopecontent id="aspace_0bc8fa0f4b1ecadeb5ff257f699e6e99">
+          <head>Scope and Contents</head>
+          <p>Electronic hum heard throughout</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_f0a55e40b8920c281e8c19e2a55f6770" level="file">
+        <did>
+          <unittitle>Papachristou, Judy</unittitle>
+          <unitid>cuid176</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 June 6</unitdate>
+          <container altrender="Record carton" id="aspace_efd252898e191e8f5375e0ee5c99e8fe" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_43bafba53159f2ef291bdb5f4cd15e74" parent="aspace_efd252898e191e8f5375e0ee5c99e8fe" type="Folder">5</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_a46acf532f13857398f4cd16dc33aeb4" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_1b625e7023210311a5d95f471c07d6e4" parent="aspace_a46acf532f13857398f4cd16dc33aeb4" type="Cassette">176</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_dc5c0070e724cb11969d88a302d6e467" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_f65371c82db7a73087e11ff33c50cc8a" parent="aspace_dc5c0070e724cb11969d88a302d6e467" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/fxpnw4xt" xlink:role="audio-service" xlink:show="new" xlink:title="Papachristou, Judy" xlink:type="simple">
+            <daodesc>
+              <p>Papachristou, Judy: 2001 June 6</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_391471f4b49957a739d5132e0744deba">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on June 6, 2001. In this interview Judy Papachristou talks about her friendship with Alger Hiss. She describes meeting Hiss and his wife Isabel in the 1970s. She explains that they were neighbors in East Hampton and would frequently have dinner parties together. The interview primarily focuses on Papachristou's memories of her social relationship with Hiss and focuses on their discussions about politics, the Cold War, and the United States judicial system.</p>
+        </scopecontent>
+        <scopecontent id="aspace_e1cb2ce33b7f27e51b519f4eabd30e85">
+          <head>Scope and Contents</head>
+          <p>Electronic hum pulsates throughout recording</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_f94d5d159dde26cc6a96ed6696e9cf66" level="file">
+        <did>
+          <unittitle>Penn, Arthur</unittitle>
+          <unitid>cuid177</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 April 4</unitdate>
+          <container altrender="Record carton" id="aspace_d3f83fc22732b24664b66a30dfec7434" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_fa87a0ce9d25ac45b9a4fcbfcf3ee596" parent="aspace_d3f83fc22732b24664b66a30dfec7434" type="Folder">2</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_2720ab5e081b58cf5358fc9d3083df1b" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_5840085833da5081bbeb0f42576fc80b" parent="aspace_2720ab5e081b58cf5358fc9d3083df1b" type="Cassette">177</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_0092753d03a48fd3914beecbbb9a4954" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_0347555e8c4ca219c1fe741ce96a301b" parent="aspace_0092753d03a48fd3914beecbbb9a4954" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/b5mkm4dq" xlink:role="audio-service" xlink:show="new" xlink:title="Penn, Arthur" xlink:type="simple">
+            <daodesc>
+              <p>Penn, Arthur: 2001 April 4</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_c613b52cc8e963be7a930691fe268e0e">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on April 4, 2001. In this interview Arthur Penn talks about his friendship with Alger Hiss. The interview begins with a discussion about public perceptions of Hiss's guilt or innocence in the decades following his conviction. Penn also discusses his social relationship with Hiss, and shares stories about Hiss and his second wife Isabel. In the interview Penn reflects on how the case against Hiss affected his life and speculates about the path Hiss's career may have taken had he not been accused of espionage.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_a9d82ccc3c27a0c4b54149350e0e423c" level="file">
+        <did>
+          <unittitle>Penn, Peggy and Arthur</unittitle>
+          <unitid>cuid178</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 September 10</unitdate>
+          <container altrender="Record carton" id="aspace_aff82f57b259aff6119753f27bcb961a" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_7fa5fa7938e401c9d4731b6913188048" parent="aspace_aff82f57b259aff6119753f27bcb961a" type="Folder">4</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_2ff42c9978610f0460d6ee3c5581728b" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_618f654b14dfa9127d82e103ab528b3d" parent="aspace_2ff42c9978610f0460d6ee3c5581728b" type="Cassette">178</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_415d7d5c4ff9994f617804aabad398bc" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_1ad9b4b5a27189a7336b2ad6446d8b32" parent="aspace_415d7d5c4ff9994f617804aabad398bc" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/6djhb3v4" xlink:role="audio-service" xlink:show="new" xlink:title="Penn, Peggy and Arthur" xlink:type="simple">
+            <daodesc>
+              <p>Penn, Peggy and Arthur: 2001 September 10</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_ab8d938423f5dc09366d7b5abc33733e">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on September 10, 2001. In this interview Peggy and Arthur Penn discuss their close friendship with Alger Hiss. The first part of the interview focuses on discussions of Hiss's mental health and describes an episode where they helped Hiss after he was hospitalized in California. Much of the interview focuses on Hiss's relationship with his second wife Isabel, and includes a discussion about their decision to get married following the death of Hiss's first wife Priscilla. The end of the interview focuses on Hiss's physical decline toward the end of his life, and includes some personal stories about how they helped him during those years.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_a1997140273bbb3bd11ac6df5b93a497" level="file">
+        <did>
+          <unittitle>Piel, Gerard</unittitle>
+          <unitid>cuid179</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 November 28</unitdate>
+          <container altrender="Record carton" id="aspace_e029394b5546e7eb72406daf6d21e4e8" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_b44476c25a53f610b8864cc4c3800640" parent="aspace_e029394b5546e7eb72406daf6d21e4e8" type="Folder">6</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_3064b251bd858ae11de0372192f156f2" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_cc76d137386f4d13b1ec5c9d6af127b6" parent="aspace_3064b251bd858ae11de0372192f156f2" type="Cassette">179</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_6c9d74b90ca0d2fec5fbf744ea7a323f" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_cb4459eb75091ff20049a734e9b02528" parent="aspace_6c9d74b90ca0d2fec5fbf744ea7a323f" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/2ngf23b0" xlink:role="audio-service" xlink:show="new" xlink:title="Piel, Gerard" xlink:type="simple">
+            <daodesc>
+              <p>Piel, Gerard: 2001 November 28</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_9e3e0c06b31f291e24126dfdefb90905">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on November 28, 2001. In this interview Gerard Piel talks about his acquaintance with Alger Hiss and his opinions about the Hiss-Chambers case. Piel begins the interview by explaining that he met Hiss through some mutual friends a short time after he had been released from prison. Piel, who was the publisher of the magazine <emph render="italic">Scientific American</emph>, talks briefly about Hiss's intellectual interests and political beliefs. He describes Hiss as taking a "detached or historian's view of the world" and portrays his view of his years in prison as equally reflective. The end of the interview focuses on Hiss's work at the United Nation, and includes a brief discussion about the character of Whittaker Chambers.</p>
+        </scopecontent>
+        <scopecontent id="aspace_032c0300dae2d5bae7c16700876ecc58">
+          <head>Scope and Contents</head>
+          <p>Muted sound with off-and-on electronic hum can be heard</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_f226088a23c5c40a11846f7841696270" level="file">
+        <did>
+          <unittitle>Pike, Reverend Dr. Thomas</unittitle>
+          <unitid>cuid180</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 August 28</unitdate>
+          <container altrender="Record carton" id="aspace_1759645a6c4b3a091e701f6ce0da36aa" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_e656aa9b368aced16952c7394af00a30" parent="aspace_1759645a6c4b3a091e701f6ce0da36aa" type="Folder">4</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_aae6d04e37ae8a9ab5ade3843de60986" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_c06f9af40b9c6734e26e00929a8983e8" parent="aspace_aae6d04e37ae8a9ab5ade3843de60986" type="Cassette">180</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_5f8db94eb07f8979284ce1c76d86472a" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_525fcf1d6b271a9aa0be8d59c310c9aa" parent="aspace_5f8db94eb07f8979284ce1c76d86472a" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/xwdbs30x" xlink:role="audio-service" xlink:show="new" xlink:title="Pike, Reverend Dr. Thomas" xlink:type="simple">
+            <daodesc>
+              <p>Pike, Reverend Dr. Thomas: 2001 August 28</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_813c79b4e97a15d0fda84b31223ab21b">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on August 28, 2001. In this interview Reverend Dr. Thomas Pike talks about Alger Hiss's spiritual beliefs and connection to his church. Pike was the reverend at the Episcopal church in Alger Hiss's neighborhood and talks about Hiss's attendance over the years. Pike explains that Hiss originally began attending the church when he was married to his first wife Priscilla. Pike talks about his personal relationship with many members of the Hiss family including Priscilla, Tony, Alger and Isabel, all of whom he saw at the church on an individual basis. Pike talks generally about Hiss's interest in the church and his spirituality.</p>
+        </scopecontent>
+        <scopecontent id="aspace_a2a73d05697f6985c0bb158bc912e447">
+          <head>Scope and Contents</head>
+          <p>Electronic hum off-and-on throughout recording</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_31933923d474fc2f034a958ceb1d08fb" level="file">
+        <did>
+          <unittitle>Rabinowitz, Victor</unittitle>
+          <unitid>cuid181</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 March 30</unitdate>
+          <container altrender="Record carton" id="aspace_908efe0e51dc409d395fff811663730b" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_6323b2a556f03f9768131e86b402b6f6" parent="aspace_908efe0e51dc409d395fff811663730b" type="Folder">2</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_6bcdf9cdb51e88f7c2a830f2b1de9ff5" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_f9c50130832a0a388a195412d7429113" parent="aspace_6bcdf9cdb51e88f7c2a830f2b1de9ff5" type="Cassette">181</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_624858686a07512f7256ebcee35c7e92" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_d54947f70263694a8d87dffbdd62cc69" parent="aspace_624858686a07512f7256ebcee35c7e92" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/t4b8h2hv" xlink:role="audio-service" xlink:show="new" xlink:title="Rabinowitz, Victor" xlink:type="simple">
+            <daodesc>
+              <p>Rabinowitz, Victor: 2001 March 30</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_0096a49516030d783789a8958def3cad">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on March 30, 2001. In this interview Victor Rabinowitz talks about his work on the 1979 petition for the writ of <emph render="italic">coram nobis</emph> filed by Alger Hiss's legal team an attempt to obtain a new trial. Much of the interview focuses on the work of Hiss's attorneys, and their use of FBI documents they obtained through Freedom of Information Act requests. He also touches on the work of Jeff Kisseloff who worked as a researcher for the legal team. Toward the end of the interview Rabinowitz speaks generally about Hiss's personality and his range of interests.</p>
+        </scopecontent>
+        <scopecontent id="aspace_aa3c4c1739d218f18879ad4b60513cc2">
+          <head>Scope and Contents</head>
+          <p>Muted sound and constant "glitches" can be heard, as if recording was stopped and re-started</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_535bb5178291b952ac959eb391907f9a" level="file">
+        <did>
+          <unittitle>Rafferty, Corinne and Dale Wiehoff</unittitle>
+          <unitid>cuid182</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 April 23</unitdate>
+          <container altrender="Record carton" id="aspace_13aef7551e1be3fa987c0ceee3b667a3" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_2dc03c9e0b0de8ebde9756c091eb81c8" parent="aspace_13aef7551e1be3fa987c0ceee3b667a3" type="Folder">3</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_42e764be1b92178e44f60bfdbea60af1" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_6a40b3f4be0906ca022e61fe9aae68cb" parent="aspace_42e764be1b92178e44f60bfdbea60af1" type="Cassette">182</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_bec885b3ac711627dbd60ab3ec0e23bd" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_1e225466afef4c0bc4b80a978cbc07c8" parent="aspace_bec885b3ac711627dbd60ab3ec0e23bd" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/pg4f4zmp" xlink:role="audio-service" xlink:show="new" xlink:title="Rafferty, Corinne and Dale Wiehoff" xlink:type="simple">
+            <daodesc>
+              <p>Rafferty, Corinne and Dale Wiehoff: 2001 April 23</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_c7dc67ce5da391ac3858e8f5542189a0">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on April 23, 2001. In this interview Corrine Rafferty and Dale Wiehoff talk about their experiences as readers for Alger Hiss. The interview begins with Rafferty explaining that she began reading to Hiss through the suggestion of her friend Karen Brudney, and later invited her husband Dale Wiehoff to meet Hiss in 1985. The interviewees explain how they later became frequent dinner guests of Hiss and his wife. Much of the interview focuses on their perceptions of Hiss's personality and his literary interests. Wiehoff shares an anecdote about Hiss's recollections about the Agricultural Adjustment Act, and they both talk about Hiss's continued hope that he would someday be proven to be innocent.</p>
+        </scopecontent>
+        <scopecontent id="aspace_e24f578e659c2ee38fd32f4f316da1c2">
+          <head>Scope and Contents</head>
+          <p>Electronic hum heard throughout</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_f251111ec4e122d2403b0b3d8c31d8b7" level="file">
+        <did>
+          <unittitle>Reuben, William</unittitle>
+          <unitid>cuid183</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 August 10</unitdate>
+          <container altrender="Record carton" id="aspace_c8fa2fe5ca87f7cb83c35f7f120e0a59" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_c970ba79e2d1cce6a71026e0328616a0" parent="aspace_c8fa2fe5ca87f7cb83c35f7f120e0a59" type="Folder">4</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_73ced937f604e0a755c367594325fae4" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_49ba87edfebea8817e62fe63360ab1e2" parent="aspace_73ced937f604e0a755c367594325fae4" type="Cassette">183</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_9552d39c11407bee76a8122a1e958a8c" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_1df7b6b99444ebdc85264a78c07b3314" parent="aspace_9552d39c11407bee76a8122a1e958a8c" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/jq2bvz4n" xlink:role="audio-service" xlink:show="new" xlink:title="Reuben, William" xlink:type="simple">
+            <daodesc>
+              <p>Reuben, William: 2001 August 10</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_51cab50899f979fc16f3c7dec7b0c49b">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on August 10, 2001. In this interview William A. Reuben discusses his research on the Alger Hiss case and his acquaintance with Hiss.  Reuben explains that he met Hiss in 1954 when he began research on a book about the Hiss-Chambers case. They later served as co-plaintiffs in a Freedom of Information Act lawsuit seeking to gain access to files related to his case. Reuben spends much of the interview discussing his research into Hiss's trial and talking about his impression of Whittaker Chambers. Reuben also talks about interviewing Max Bedacht and Sender Garlin, who Chambers had mentioned in his testimony to the FBI, and talks about how their recollections correspond with Chambers's account. He also shares his opinions about Hiss's attorney Claude Cross.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_2496785a26d71a6fd17113b771f13ea9" level="file">
+        <did>
+          <unittitle>Rosenblum, Naomi and Walter</unittitle>
+          <unitid>cuid184</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 April 10</unitdate>
+          <container altrender="Record carton" id="aspace_df2af39674deb8dca80c5617b2d4f980" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_7d0135774d8431910d952b8034d71560" parent="aspace_df2af39674deb8dca80c5617b2d4f980" type="Folder">2</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_2cc08bb246ec0f5c0cd6cff6bf0d5a44" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_f16c2fcd6bd8f39d9464b17b181b6d2c" parent="aspace_2cc08bb246ec0f5c0cd6cff6bf0d5a44" type="Cassette">184</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_607fc0f784b409027585329aa720c472" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_e96d41ed41e615c041abe47d799d19c4" parent="aspace_607fc0f784b409027585329aa720c472" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/dz08kxnj" xlink:role="audio-service" xlink:show="new" xlink:title="Rosenblum, Naomi and Walter" xlink:type="simple">
+            <daodesc>
+              <p>Rosenblum, Naomi and Walter: 2001 April 10</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_e7501f66c59fc26e87f22f354312d2d3">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on April 10, 2001. In this interview Naomi and Walter Rosenblum talk about their friendship with Alger Hiss, whom they met in 1975. They begin by sharing a story about Hiss's close friendship with photographer Paul Strand. The bulk of the interview focuses on their social relationship with Hiss. They talk about Hiss's support of the New Deal and Justice Oliver Wendell Holmes, and discuss how he was affected by his prison experience. They also talk briefly about their mutual acquaintance Agnese Haury.</p>
+        </scopecontent>
+        <scopecontent id="aspace_1e74b740b9bd7c35c7494dfcb85e751c">
+          <head>Scope and Contents</head>
+          <p>Side 1 had muted/low volume</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_d26ac8e7e81b0f5f5e4f1699cf469583" level="file">
+        <did>
+          <unittitle>Schane, Janet</unittitle>
+          <unitid>cuid185</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 August 28</unitdate>
+          <container altrender="Record carton" id="aspace_4635dd0b737a56460f875ec2eb7e7343" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_78cfa54501ca49631e26bcdaa48c400b" parent="aspace_4635dd0b737a56460f875ec2eb7e7343" type="Folder">4</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_2fd4a3a9af3e01bf593742f53c7c95a8" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_a792bab150342543712175b6b16e931e" parent="aspace_2fd4a3a9af3e01bf593742f53c7c95a8" type="Cassette">185</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_e4dcc7518505455168950ae23e555702" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_76fab5515cb1618b7b19814ad9173008" parent="aspace_e4dcc7518505455168950ae23e555702" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/95x69x34" xlink:role="audio-service" xlink:show="new" xlink:title="Schane, Janet" xlink:type="simple">
+            <daodesc>
+              <p>Schane, Janet: 2001 August 28</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_30b0d9ed68e251487de7849f10d8adf3">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on August 28, 2001. In this interview Janet Schane shares several personal anecdotes about Alger Hiss. Schane explains that she met Hiss through her friend Isabel Johnson, whom Hiss later married. She describes meeting Hiss sometime in the early 1960s, and tells a story about sharing a rental house in East Hampton with her husband Jesse Reid, Hiss, and Johnson. The bulk of interview focuses on a lengthy story about Hiss showing kindness to her mother who suffered from manic depression.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_e2f4f3b3e6dc3c868f814df1b8377204" level="file">
+        <did>
+          <unittitle>Schiffrin, Natalia</unittitle>
+          <unitid>cuid186</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 September 4</unitdate>
+          <container altrender="Record carton" id="aspace_5f90454995d6bb82de0ec2f0259cf5cb" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_a700b374e2ccb43f301efbdd95f962fc" parent="aspace_5f90454995d6bb82de0ec2f0259cf5cb" type="Folder">4</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_71dc5d0a5b8b2e942a3a44f49d6ea294" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_cf8efa4ad63097d847b425d5a6c65aae" parent="aspace_71dc5d0a5b8b2e942a3a44f49d6ea294" type="Cassette">186</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_9f9ef2c0bb40d537e783e4eebceef0d4" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_28de9fd9063bb96c917d5bcdb97d73b1" parent="aspace_9f9ef2c0bb40d537e783e4eebceef0d4" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/5dv41wks" xlink:role="audio-service" xlink:show="new" xlink:title="Schiffrin, Natalia" xlink:type="simple">
+            <daodesc>
+              <p>Schiffrin, Natalia: 2001 September 4</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_7e6cf1eeed82b1a4861c95b8ece89d66">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on September 4, 2001. In this interview Natalia Schriffin talks about how she helped Alger Hiss transcribe his memoir and later became one of his readers. Schriffin explains that she was recruited by Victor Navasky in the summer of 1985 to help Hiss transcribe his book <emph render="italic">Recollections of a Life</emph>, and after the book was finished began reading to him regularly.  She talks about meeting the other young people who read for Hiss and her impression that he had a genuine interest in young people and their ideas. Much of the interview focuses on her perception of Hiss's personality. She also shares some stories about helping Hiss and his wife Isabel at their home.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_e5f4067ffcb0780dad5e2bd4ce2dcd87" level="file">
+        <did>
+          <unittitle>Simon, Kenneth</unittitle>
+          <unitid>cuid187</unitid>
+          <unitdate datechar="creation" normal="2001/2001">undated</unitdate>
+          <container altrender="Record carton" id="aspace_41a37d7ffaa3d2577a75a30e6580769c" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_00312dda01c5aab4989565aaa02529b9" parent="aspace_41a37d7ffaa3d2577a75a30e6580769c" type="Folder">11</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_d79c4dbfb5b692cc1f93f9ffcff11cb5" label="master cassette [31142054855930]" type="Box">3</container>
+          <container id="aspace_0c459ece27436ad8c2ea740fb62b53e0" parent="aspace_d79c4dbfb5b692cc1f93f9ffcff11cb5" type="Cassette">187</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/1ns1rw2h" xlink:role="audio-service" xlink:show="new" xlink:title="Simon, Kenneth" xlink:type="simple">
+            <daodesc>
+              <p>Simon, Kenneth: undated</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_f6e714d6e00a546de340db8b2c9d8dd3">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Jeff Kisseloff. In this interview Kenneth Simon talks about working on Alger Hiss's legal team during his first appeal. In the interview Simon explains how he came to work for the Hiss defense team after graduating law school in the 1940s. The bulk of the interview focuses on the various tactics lawyers on the Hiss legal team pursued, and some of the disagreements between attorneys on his team. He also briefly discusses the role of Helen Buttenweiser in the Hiss cases. Toward the end of the interview he talks about Hiss after he was released from prison, his work selling stationery, and reflects on how the experience changed him.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_497da57e9b6bcb593ad5c7eda3f1b5a0" level="file">
+        <did>
+          <unittitle>Spinak, Jane and Warren Scharf</unittitle>
+          <unitid>cuid188</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 June 7</unitdate>
+          <container altrender="Record carton" id="aspace_9d71e1ff09a96c7a23d6d7ac05e5e4cd" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_2af6881c147e4598e611c93f81edd750" parent="aspace_9d71e1ff09a96c7a23d6d7ac05e5e4cd" type="Folder">5</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_7b9fa3266af6ebc6cf9ec9d9b3daec42" label="master cassette [31142054855948]" type="Box">4</container>
+          <container id="aspace_b42c89fe7b6cfe59307fa7c0d4ffbbca" parent="aspace_7b9fa3266af6ebc6cf9ec9d9b3daec42" type="Cassette">188</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_4b374061a6639eebe8a1aa11d8da31cc" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_041eefc7d90c9b7a8bf2dee59f21c249" parent="aspace_4b374061a6639eebe8a1aa11d8da31cc" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/wwpzgvsr" xlink:role="audio-service" xlink:show="new" xlink:title="Spinak, Jane and Warren Scharf" xlink:type="simple">
+            <daodesc>
+              <p>Spinak, Jane and Warren Scharf: 2001 June 7</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_9cba923860c2aacc3c77fced67c18e18">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on June 7, 2001. In this interview Jane Spinak and Warren Scharf talk about their friendship with Alger Hiss. Spinak explains that she met Hiss in the early 1980s through her friend Patricia Crown, and introduced him to Scharf several years later. They talk about living down the street from Hiss and in East Hampton, which made it easy for them to visit as readers. The bulk of the interview focuses on Spinak and Scharf's friendship with Hiss and his wife Isabel, the help they would give them around the house, and the lasting impression Alger had on them.</p>
+        </scopecontent>
+        <scopecontent id="aspace_c46de8ee737f21b6aa8c9150b81006f1">
+          <head>Scope and Contents</head>
+          <p>Electronic hum can be heard throughout recording</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_a46d3d3d2e2141ebf8204e43c23e1d80" level="file">
+        <did>
+          <unittitle>Tiger, Edith</unittitle>
+          <unitid>cuid189</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 April 19</unitdate>
+          <container altrender="Record carton" id="aspace_eb5ed00c6ae75fed41d97eb008deb0d2" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_b065dfcfd836615868ad8f7b915d0bf0" parent="aspace_eb5ed00c6ae75fed41d97eb008deb0d2" type="Folder">3</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_8a65087ebd91ab76a8c4f80debe893ce" label="master cassette [31142054855948]" type="Box">4</container>
+          <container id="aspace_1f981f1978e317999154a693fe690b71" parent="aspace_8a65087ebd91ab76a8c4f80debe893ce" type="Cassette">189</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_f932b9207b384167379a0ad1c3d9e69f" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_82909670c35e03a59183c0de95385c34" parent="aspace_f932b9207b384167379a0ad1c3d9e69f" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/s7h44rx4" xlink:role="audio-service" xlink:show="new" xlink:title="Tiger, Edith" xlink:type="simple">
+            <daodesc>
+              <p>Tiger, Edith: 2001 April 19</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_b1bc819d1cc0345f5488d690c77a1efc">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on April 19, 2001. In this interview Edith Tiger describes her friendship with Alger Hiss. She explains that she met Hiss in 1968 when she was working at the National Emergency Civil Liberties Committee, and Hiss came into the office to sell stationery. She later came to know him more closely in 1976 after the passage of the Freedom of Information Act, when she assisted him with the <emph render="italic">coram nobis</emph> petition to overturn his conviction. She also talks about her friendship with his first wife Priscilla and his son Tony. The majority of the interview includes personal anecdotes including a story about Hiss befriending crime boss Frank Costello in prison, and another story about Hiss's relationship with Alan Weinstein, the author of <emph render="italic">Perjury: The Hiss–Chambers Case</emph>.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_6758dca40b72f552a49af6dbb5f6a2d5" level="file">
+        <did>
+          <unittitle>Train, Michael</unittitle>
+          <unitid>cuid190</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 March 23</unitdate>
+          <container altrender="Record carton" id="aspace_9a8932af5713b9c5ed0ac95c9347cd9e" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_8977e1cb825b1a0bf0d42763d05050fc" parent="aspace_9a8932af5713b9c5ed0ac95c9347cd9e" type="Folder">1</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_e69093f90ec6eacb1f4e5713a433ddad" label="master cassette [31142054855948]" type="Box">4</container>
+          <container id="aspace_b250db0cbdacb4e127d6dba270f25be0" parent="aspace_e69093f90ec6eacb1f4e5713a433ddad" type="Cassette">190</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_e7fe355ce2fd9ff861275da92ecbd66b" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_5ecc6c2a4e5493752c3d0613072375c3" parent="aspace_e7fe355ce2fd9ff861275da92ecbd66b" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/ngf1vrgb" xlink:role="audio-service" xlink:show="new" xlink:title="Train, Michael" xlink:type="simple">
+            <daodesc>
+              <p>Train, Michael: 2001 March 23</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_e7f2de11b608fa874dae0b0bcc177d8a">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on March 23, 2001. In this interview Michael Train talks about his experience reading for Alger Hiss. Train explains that he was recruited to read for Hiss sometime in the mid-1980s by their mutual friend Sally Belfrage. The interview focuses largely on Train's impressions of Hiss and his discussion of Hiss's reading interests. Train talks about his perception of Hiss as a very private person, and at the end of the interview he speculates about how history will remember him.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_4edddf3be40bda827899e7f1a0c7455d" level="file">
+        <did>
+          <unittitle>Tsitsera, Litsa</unittitle>
+          <unitid>cuid191</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 May 1</unitdate>
+          <container altrender="Record carton" id="aspace_1249380afc13074d566624acee12c52f" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_f529963245f2d3b73282399c27cb7823" parent="aspace_1249380afc13074d566624acee12c52f" type="Folder">3</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_95e4334d5e8c41805c3c7e5f0b9bb213" label="master cassette [31142054855948]" type="Box">4</container>
+          <container id="aspace_1b776dd719a15d7a05a155b1a7ec70fb" parent="aspace_95e4334d5e8c41805c3c7e5f0b9bb213" type="Cassette">191</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_a73712547722d627cf17985773e5cc45" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_9d98e3c00e0dce2adf2a944a417c05e4" parent="aspace_a73712547722d627cf17985773e5cc45" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/hqbzkqxn" xlink:role="audio-service" xlink:show="new" xlink:title="Tsitsera, Litsa" xlink:type="simple">
+            <daodesc>
+              <p>Tsitsera, Litsa: 2001 May 1</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_a69b5a4aaf3a81b94e603a1217255411">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on May 1, 2001. In this short interview Litsa Tsitsera talks about her friendship with Alger Hiss. Tsitsera explains that she met Hiss at a party, and later began ordering stationery from him. She describes their relationship as largely social and talks about Hiss's interest in art and culture and shares a few stories about social gatherings with Hiss and his wife Isabel.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_92393a3d5d68ded5c0bd1ec4155ade04" level="file">
+        <did>
+          <unittitle>Von Mehren, Robert</unittitle>
+          <unitid>cuid192</unitid>
+          <unitdate datechar="creation" normal="2001/2001">2001 April 20</unitdate>
+          <container altrender="Record carton" id="aspace_cda4aafeee3738c790572c5a74b572e7" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_d3ff5bca8f799344d3dfe532c9bc0931" parent="aspace_cda4aafeee3738c790572c5a74b572e7" type="Folder">3</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_936ed4b29fa10f8f98013a2d26785122" label="master cassette [31142054855948]" type="Box">4</container>
+          <container id="aspace_e89fe96354f26045fbff412afc7139f2" parent="aspace_936ed4b29fa10f8f98013a2d26785122" type="Cassette">192</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_bcd178a1ca22a4c95b62b1a98ab6edc7" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_cd828c47190c602ad6a1555da3c938b7" parent="aspace_bcd178a1ca22a4c95b62b1a98ab6edc7" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/cz8w9qc8" xlink:role="audio-service" xlink:show="new" xlink:title="Von Mehren, Robert" xlink:type="simple">
+            <daodesc>
+              <p>Von Mehren, Robert: 2001 April 20</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_260325c5288d92aa7c935390ac4fdd03">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Albert Ruben on April 20, 2001. In this interview Robert von Mehren talks about his acquaintance with Alger Hiss and the Hiss trials. He begins by explaining that he first met Hiss in 1948 when Whitney Debevoise, whose legal firm represented Hiss, asked for assistance on the libel suit against Whittaker Chambers. Von Mehren talks about advising Hiss's lawyers on responding to subpoenas from the House Un-American Activities Committee and the Grand Jury in New York, and offers his perspectives on the mistakes he believes were made by Hiss and his legal team during the libel suit and subsequent perjury trials. Von Mehren also shares his opinions about the personalities of Whittaker Chambers and Hiss.</p>
+        </scopecontent>
+        <scopecontent id="aspace_2d08ce54d04ac7fca58b3efdcdaa0ad5">
+          <head>Scope and Contents</head>
+          <p>Side 1 of recording has muted audio</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_1a4ca61821a7215f4dc28faf2ce7b3fb" level="file">
+        <did>
+          <unittitle>Werchen, Raymond A.</unittitle>
+          <unitid>cuid194</unitid>
+          <unitdate datechar="creation" normal="2002/2002">2002 February 7</unitdate>
+          <container altrender="Record carton" id="aspace_8157381ed2386b48acaa5da7a43059c4" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_499cde8da86faa6233481f5d1ff4010d" parent="aspace_8157381ed2386b48acaa5da7a43059c4" type="Folder">15</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_e0789c3a144cc11206bf0e3e9598b34f" label="master cassette [31142054855948]" type="Box">4</container>
+          <container id="aspace_205cdc143d96f885f762f72c2ff7ebf1" parent="aspace_e0789c3a144cc11206bf0e3e9598b34f" type="Cassette">194A-B</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_3ab61477b8381a2026dd879857d6e8f7" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_0d8c2367f268904984ace03548adc9ae" parent="aspace_3ab61477b8381a2026dd879857d6e8f7" type="CD">1-3</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/4f4qrpbp" xlink:role="audio-service" xlink:show="new" xlink:title="Werchen, Raymond A." xlink:type="simple">
+            <daodesc>
+              <p>Werchen, Raymond A.: 2002 February 7</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_7f18898210f5b6221d35886a0028a9a4">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Jeff Kisseloff on February 7, 2002. In this interview Raymond Werchen discusses his research on the Hiss legal cases. The bulk of the interview focuses on his analysis of the expert testimony regarding the typewriter that was introduced as evidence during Hiss's libel case against Whittaker Chambers. The bulk of the interview focuses on Werchen's reassessment of the expert testimony related to Hiss's typewriter. Werchen also shares his impressions of Hiss as a person and his thoughts about how his trials were handled by Hiss's lawyers.</p>
+        </scopecontent>
+      </c>
+      <c id="aspace_a3d4d0519eb4579c95a7619d443f5816" level="file">
+        <did>
+          <unittitle>Wershba, Joseph and Shirley</unittitle>
+          <unitid>cuid193</unitid>
+          <unitdate datechar="creation" normal="2002/2002">2002 March 7</unitdate>
+          <container altrender="Record carton" id="aspace_01081b35fea2a6c09643367b666fa705" label="transcript [31142054855914]" type="Box">1</container>
+          <container id="aspace_5ffe2f90cddea92fb5fec1eb5f13f771" parent="aspace_01081b35fea2a6c09643367b666fa705" type="Folder">15</container>
+          <container altrender="Hollinger Cassette Box 5" id="aspace_a268ef653e3a47b8d00d9ac86a6c8083" label="master cassette [31142054855948]" type="Box">4</container>
+          <container id="aspace_73a7c66f331f5e625903e2ffcb53e78a" parent="aspace_a268ef653e3a47b8d00d9ac86a6c8083" type="Cassette">193</container>
+          <container altrender="Card Box - 6.5 - long" id="aspace_7f2257e817c944d87c217dceb506dd94" label="access cd [31142062760015]" type="Box">5</container>
+          <container id="aspace_49d566d31eea1dec0b4299f420a6f983" parent="aspace_7f2257e817c944d87c217dceb506dd94" type="CD">1</container>
+          <dao xlink:actuate="onRequest" xlink:href="http://hdl.handle.net/2333.1/866t1pvz" xlink:role="audio-service" xlink:show="new" xlink:title="Wershba, Joseph and Shirley" xlink:type="simple">
+            <daodesc>
+              <p>Wershba, Joseph and Shirley: 2002 March 7</p>
+            </daodesc>
+          </dao>
+        </did>
+        <scopecontent id="aspace_25ed9ac9244c4387d7b0f16ca246ce8e">
+          <head>Scope and Contents</head>
+          <p>This interview was conducted by Jeff Kisseloff. In this interview Joseph and Shirley Wershba talk about their friendship with Alger Hiss and media coverage of his trials. The Wershbas explain that they both worked at CBS in 1948 when the allegations against Hiss first surfaced, but note that they did not cover the story at the time. They talk about continued interest in Hiss's trials over the past decades, and discuss the research of Allen Weinstein, Victor Navasky, and John Lowenthal. They also talk about evidence related to the trials that came out over the years, citing Dimitri Volkoganov and the Venona papers. They also discuss the personality of Whittaker Chambers. The end of the interview focuses on their personal friendship with Hiss and the ways in which his life changed after the trials. They also talk generally about McCarthyism and the political climate contributed the investigation of Hiss.</p>
+        </scopecontent>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

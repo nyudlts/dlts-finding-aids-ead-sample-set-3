@@ -1,0 +1,851 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="findingaid" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid url="http://dlib.nyu.edu/findingaids/html/tamwag/tam_012">tam_012</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Emma Goldman Collection <num>TAM.012</num></titleproper>
+        <author>Tamiment staff</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from Tam 12 Goldman template.doc</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Tamiment Library and Robert F. Wagner Labor Archives</publisher>
+        <p>
+          <date>2009</date>
+        </p>
+        <address>
+          <addressline>Elmer Holmes Bobst Library</addressline>
+          <addressline>70 Washington Square South</addressline>
+          <addressline>2nd Floor</addressline>
+          <addressline>New York, NY 10012</addressline>
+          <addressline>special.collections@nyu.edu</addressline>
+          <addressline>URL: <extptr xlink:href="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:show="new" xlink:title="http://library.nyu.edu/about/collections/special-collections-and-archives/special-collections/" xlink:type="simple"/></addressline>
+        </address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-20 03:52:37 -0400</date>.</creation>
+      <langusage>Description is in English</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Tamiment Library and Robert F. Wagner Labor Archives</corpname>
+      </repository>
+      <unittitle>Emma Goldman Collection</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Goldman, Emma, 1869-1940</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Levey, Jeanne</persname>
+      </origination>
+      <origination label="source">
+        <persname role="dnr" rules="dacs" source="local">Ross, Arthur Leonard</persname>
+      </origination>
+      <unitid>TAM.012</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">2.75 Linear Feet</extent>
+        <extent altrender="carrier">(6 boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1908/1970" type="inclusive">1908-1970</unitdate>
+      <unitdate datechar="creation" normal="1929/1940" type="bulk">1929-1940</unitdate>
+      <abstract id="aspace_a605be1e2f29289c496e1a7a70f477c1">Emma Goldman was an anarchist, feminist, writer, publisher of Mother Earth, companion of Alexander Berkman, author of <title render="italic">Anarchism and Other Essays</title>, <title render="italic">Living My Life</title>, and <title render="italic">My Disillusionment in Russia</title>, and was deported from the U.S. in 1919. The collection contains correspondence, speeches, published and unpublished writings, and a typescript of an unpublished biography, Emma Goldman Speaks, by Jeanne Levey.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <acqinfo id="aspace_d1e0a53f1c9449e9daa5c6301f420cf1">
+      <head>Immediate Source of Acquisition</head>
+      <p>Donated by Jeanne Levey in 1971; an additional accession was donated in 1972 by Arthur Leonard Ross. The accession number associated with these gifts is 1971.001.</p>
+    </acqinfo>
+    <accessrestrict id="aspace_21d8feb44658a3d2cd4d645e8628daf4">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open without restrictions.</p>
+    </accessrestrict>
+    <bioghist id="aspace_d3e5066a6177675278c1345430f3784d">
+      <head>Historical/Biographical Note</head>
+      <p>Emma Goldman, anarchist, feminist, and writer, was born in Russia in 1869. Refused admission to high school because she failed to conform to school rules, Goldman began working in 1882 in a factory in St. Petersburg. At the age of 17 to avoid her father's plans for her marriage, she fled to the United States, where she again worked in a factory. She joined the anarchist movement in about 1886 after the Chicago Haymarket Square bombing and conspiracy trial. In 1892 she began public speaking in defense of her lover, Alexander Berkman's attempted assassination of industrialist Henry Clay. She continued traveling and speaking about her ideas on revolution and sex. She published The Blast and later, until her deportation, Mother Earth. Goldman was deported in 1919 as a result of opposition to the war. She returned to Russia, but disillusioned with the new regime she left to travel and speak in Europe. She published <title render="italic">Anarchism and Other Essays</title>(1917), <title render="italic">Living My Life</title>(1931), <title render="italic">My Disillusionment in Russia</title>(1924), and <title render="italic">My Further Disillusionment in Russia</title>(1925).</p>
+      <p>In 1924 she was permitted to make her home in England and married James Colton for the convenience of British citizenship. Alternatingly residing in England, Canada (Toronto), and the South of France (St. Tropez), she wrote her autobiography, <title render="italic">Living my Life</title>(1931). A tour through Germany convinced her of the threat of fascism. Her lectures on the topic gained her a ninety-day visit to the United States in 1934. The Spanish Civil War provided her with a needed distraction from Alexander Berkman's suicide. She devoted herself to the loyalists and worked in England on behalf of the Spanish government. Early in 1939, she returned to Canada where she died May 13, 1940, retaining to the last her revolutionary ideals.</p>
+      <p>Sources:</p>
+      <p>
+        <list>
+          <item>Falk, Candace, <title render="italic">Emma Goldman: a Guide to Her Life and Documentary Sources</title>. Companion volume and index to: The Emma Goldman Papers [microform].</item>
+        </list>
+      </p>
+    </bioghist>
+    <scopecontent id="aspace_a2f1c2c2a9d4a5f89cadbf88fa807e45">
+      <head>Scope and Content Note</head>
+      <p>Contains, correspondence, manuscripts by and about Goldman, printed sources, speeches, and notes. Includes correspondence with her publisher and personal correspondence dealing with her life and deportation. There are transcriptions of most of her significant letters, addresses, and articles (1908-1939), many from Mother Earth, apparently compiled by Jeanne Levey during the course of her research for her unpublished biography, Emma Goldman Speaks, and keyed to pages in the typescript thereof, also included in the collection, along with index cards containing research notes. The most frequent correspondent is Arthur Ross, Goldman's literary representative. Notable correspondents and/or individuals represented include Roger Baldwin, Alexander Berkman, Eugene V. Debs, Havelock Ellis, Clifton Fadiman, Eleanor M. Fitzgerald, John Haynes Holmes, Alfred A. Knopf, Peter Kropotkin, Jeannette Levey, Max Nettlau, Herbert Read, Ben Reitman, Bertrand Russell, Anna Strunsky, Upton Sinclair, Norman Thomas, Harry Weinberger, Rebecca West, Israel Zangwill, and Doris Zhook. Some of the letters are addressed to E.G. Colton (pseudonym for E.G.). There are also three Goldman manuscripts, respectively titled The Chinese Revolution, Hitler, Mussolini.</p>
+      <p>Also available at the Tamiment Library: Series 1 Correspondence Register for an item-level description of the contents of this series, listed by item number.</p>
+    </scopecontent>
+    <arrangement id="aspace_77a20e83739a82106644b9052c44caba">
+      <head>Arrangement</head>
+      <p>The folders arranged numerically (by document register number ranges) in series one, and alphabetically in series two, and topically in series three.</p>
+      <p>Organized into three series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>1. Correspondence</item>
+        <item>2. Oversized Correspondence and Writings (Photocopies)</item>
+        <item>3. Emma Goldman Speaks by Jeanne Levey: Typescript and Research Materials.</item>
+      </list>
+    </arrangement>
+    <relatedmaterial id="aspace_66c58dd77634ce36e82af913a3eec604">
+      <head>Related Material at the Tamiment Library/Robert F. Wagner Labor Archives</head>
+      <p>Falk, Candace, The Emma Goldman Papers [microform]: a Microfilm Edition. NYU Bobst Microform Film 3648 (69 reels). See listing for the companion guide, below, in Historical-Biographical Note.</p>
+      <p>Malmed, Leon, <title render="italic">Papers, 1899-1940, 1956/Leon Malmed and Emma Goldman</title>. Tamiment film R4260-4265.</p>
+      <p>Note: This microfilm collection includes almost all of the letters written by Goldman from the Tamiment Library's Emma Goldman Papers.</p>
+      <p>Alexander Berkman Papers (TAM 067).</p>
+    </relatedmaterial>
+    <prefercite id="aspace_aa362b1e0847b3122553adfa293db258">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date; Emma Goldman Collection; TAM 012; box number; folder number; Tamiment Library/Robert F. Wagner Labor Archives, New York University.</p>
+    </prefercite>
+    <userestrict id="aspace_915a745ede9e67d25c3cc3bc62f7ae52">
+      <head>Conditions Governing Use</head>
+      <p>Because of the assembled nature of this collection, copyright status varies across the collection. Copyright is assumed to be held by the original creator of individual items in the collection; these items are expected to pass into the public domain 120 years after their creation. Tamiment Library is not authorized to grant permission to publish or reproduce materials from this collection.</p>
+    </userestrict>
+    <controlaccess>
+      <genreform source="aat">Speeches.</genreform>
+      <subject source="lcsh">Spain -- History -- Civil War, 1936-1939.</subject>
+      <subject source="lcsh">Feminist theory.</subject>
+      <subject source="lcsh">Anarchism.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <persname source="naf">Russell, Bertrand, 1872-1970</persname>
+      <corpname source="naf">Alfred A. Knopf, Inc.</corpname>
+      <persname source="local">Zhook, Doris</persname>
+      <persname source="naf">Zangwill, Israel, 1864-1926</persname>
+      <persname source="naf">Ellis, Havelock, 1859-1939</persname>
+      <persname source="naf">West, Rebecca, 1892-1983</persname>
+      <corpname source="naf">American Civil Liberties Union</corpname>
+      <persname source="naf">Fitzgerald, M. Eleanor (Mary Eleanor), 1877-1955</persname>
+      <persname source="naf">Kropotkin, Petr Alekseevich, kni︠a︡zʹ, 1842-1921</persname>
+      <persname source="naf">Knopf, Alfred A., 1892-1984</persname>
+      <persname source="naf">Debs, Eugene V. (Eugene Victor), 1855-1926</persname>
+      <persname source="naf">Berkman, Alexander, 1870-1936</persname>
+      <persname source="naf">Fadiman, Clifton, 1904-1999</persname>
+      <persname source="naf">Reitman, Ben L. (Ben Lewis), 1879-1942.</persname>
+      <persname rules="dacs" source="local">Ross, Arthur Leonard</persname>
+      <persname source="naf">Baldwin, Roger Nash, 1884-1981</persname>
+      <persname source="naf">Walling, Anna Strunsky, 1879-</persname>
+      <persname source="naf">Weinberger, Harry, 1888-</persname>
+      <persname source="naf">Sinclair, Upton, 1878-1968</persname>
+      <persname rules="dacs" source="local">Levey, Jeanne</persname>
+      <persname source="naf">Read, Herbert Edward, Sir, 1893-1968.</persname>
+      <corpname source="naf">Provincetown Players</corpname>
+      <persname rules="dacs" source="local">Levey, Jeanne</persname>
+      <persname source="naf">Holmes, John Haynes, 1879-1964</persname>
+      <persname source="naf">Nettlau, Max, 1865-1944.</persname>
+      <persname role="dnr" rules="dacs" source="local">Levey, Jeanne</persname>
+      <persname role="dnr" rules="dacs" source="local">Ross, Arthur Leonard</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref13" level="series">
+        <did>
+          <unittitle>Series 1. Correspondence</unittitle>
+        </did>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>71M4:1 – 71M4:27 Goldman letters to Doris Zhook, et al</unittitle>
+            <unitdate datechar="creation">Dec 24, 1926-Jul 31, 1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9e7bbe2aae897e6cd6a05b076cc4a00d" label="Mixed Materials [31142062884450]" type="Box">1</container>
+            <container id="aspace_755147e8c236b3c75d4ae18309c0c341" parent="aspace_9e7bbe2aae897e6cd6a05b076cc4a00d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>71M4:28 – 71M4:43 Goldman letters to Herbert Read</unittitle>
+            <unitdate datechar="creation">Nov 20, 1939-Mar 10, 1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3da589396fc86c85097ad361dfc94575" label="Mixed Materials [31142062884450]" type="Box">1</container>
+            <container id="aspace_f0ce0fb96a5e4fa6846b8691a55aa3b1" parent="aspace_3da589396fc86c85097ad361dfc94575" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>71M4:44 – 71M4:48 Letters to Goldman from Doris Zhook, et al</unittitle>
+            <unitdate datechar="creation">Aug 14, 1936-Nov 30, 1940</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_947bac58e26354878146b8e94b1e5983" label="Mixed Materials [31142062884450]" type="Box">1</container>
+            <container id="aspace_9d730bae7bfa2abadc913fba41b3167d" parent="aspace_947bac58e26354878146b8e94b1e5983" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>72M1:1 – 72M1:25 Goldman letters to Arthur Ross</unittitle>
+            <unitdate datechar="creation">Jul 18, 1929-Dec 23, 1929</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6e48ddc19ff3c0d364cae6198bc77bb0" label="Mixed Materials [31142062884450]" type="Box">1</container>
+            <container id="aspace_7d85d95f4edea21d6d69a506389f81b4" parent="aspace_6e48ddc19ff3c0d364cae6198bc77bb0" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>72M1:26 – 72M1:57 Goldman letters to Arthur Ross</unittitle>
+            <unitdate datechar="creation">Jan 7, 1930-Dec 4, 1930</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cc46bb8664772236c217437cbb6c7617" label="Mixed Materials [31142062884450]" type="Box">1</container>
+            <container id="aspace_a9577528f944233fbdef0ab99c0e3f12" parent="aspace_cc46bb8664772236c217437cbb6c7617" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>72M1:58 – 72M1:90 Goldman letters to Arthur Ross</unittitle>
+            <unitdate datechar="creation">Feb 1, 1931-Dec 29, 1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_adedb7fb5c3137288871c9cd760c5834" label="Mixed Materials [31142062884450]" type="Box">1</container>
+            <container id="aspace_4952f8b0e458de3b06baa01163840a48" parent="aspace_adedb7fb5c3137288871c9cd760c5834" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>72M1:91 – 72M1:114 Goldman letters to Arthur Ross</unittitle>
+            <unitdate datechar="creation">Jan 11, 1932-Dec 26, 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9779757d6402bb0872de134dc66eeae8" label="Mixed Materials [31142062884450]" type="Box">1</container>
+            <container id="aspace_5a7e1b51d5a7271cc8378124d3d88a6d" parent="aspace_9779757d6402bb0872de134dc66eeae8" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>72M1:115 – 72M1:123 Goldman letters to Arthur Ross</unittitle>
+            <unitdate datechar="creation">Jan 4, 1933-Dec 30, 1933</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1b603725e3dca6b50949955e6a59bbc4" label="Mixed Materials [31142062884450]" type="Box">1</container>
+            <container id="aspace_fc9cd23c8276ba07dea78123344e4127" parent="aspace_1b603725e3dca6b50949955e6a59bbc4" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>72M1:124 – 72M1:146 Goldman letters to Arthur Ross</unittitle>
+            <unitdate datechar="creation">Jan 8, 1934-Dec 14, 1934</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6512048fb4b68b241f221204a024ae2d" label="Mixed Materials [31142062884450]" type="Box">1</container>
+            <container id="aspace_fdbd21bea684034a108e6ab77204f5bc" parent="aspace_6512048fb4b68b241f221204a024ae2d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>72M1:147 – 72M1:151 Goldman letters to Arthur Ross</unittitle>
+            <unitdate datechar="creation">Feb 7, 1935-Aug 4, 1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f3e5eec0ae5203d30d944cd42c45fba1" label="Mixed Materials [31142062884450]" type="Box">1</container>
+            <container id="aspace_b3295511f26ab9f4ddb7cb9ac43ef3b4" parent="aspace_f3e5eec0ae5203d30d944cd42c45fba1" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>72M1:152 – 72M1:166 Goldman letters to Arthur Ross</unittitle>
+            <unitdate datechar="creation">Apr 10, 1936-Jul 20, 1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9fdbdf0f8e4816bfd501f7c587339320" label="Mixed Materials [31142062884450]" type="Box">1</container>
+            <container id="aspace_0e54279604e00f13e063ad52f268ab1c" parent="aspace_9fdbdf0f8e4816bfd501f7c587339320" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>72M1:167 – 72M1:198 Goldman letters to Others; Documents re Goldman.</unittitle>
+            <unitdate datechar="creation">Jan 22, 1930-Jun 12, 1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4639d885048a201b291568457cdde660" label="Mixed Materials [31142062884450]" type="Box">1</container>
+            <container id="aspace_e983f633367bcae46c7c053d53e2eddf" parent="aspace_4639d885048a201b291568457cdde660" type="Folder">12</container>
+          </did>
+          <odd id="aspace_96f6c5af8f26d22dae1f070bfc972f78">
+            <head>General note</head>
+            <p>Contents: Includes letters to Roger Baldwin, John Dewey, Clifton Fadiman, John Haynes Holmes, Alfred Knopf, Upton Sinclair. Includes documents re renewal of visa, the Emma Goldman Fund, Alexander Berkman; The POUM Trial in Barcelona (ms), etc.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>72M2:1 – 72M2:26 Arthur Ross Correspondence (most incoming) and Third Party Letters to Goldman.</unittitle>
+            <unitdate datechar="creation">Aug 21, 1929-Jun 22, 1932</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_43a7ac6c6c944bafa8a678330ed745b5" label="Mixed Materials [31142062884450]" type="Box">1</container>
+            <container id="aspace_0b12cfac4d8efa89f7ec17188573fd01" parent="aspace_43a7ac6c6c944bafa8a678330ed745b5" type="Folder">13</container>
+          </did>
+          <odd id="aspace_221f0bdd9b28cf2329de6f6613d2f2dc">
+            <head>General note</head>
+            <p>Contents: includes letters from Alexander Berkman, Emma Goldman. Also includes contract (1929) between E.G. and Alfred Knopf for the Autobiography of Emma Goldman.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>72M2:27 – 72M2:89 Arthur Ross Correspondence (most incoming) and Third Party Letters to Goldman.</unittitle>
+            <unitdate datechar="creation">Dec 29, 1932-Jun 13, 1968</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_93a6db4a6b865b17259c0ee4b8b47f94" label="Mixed Materials [31142062884450]" type="Box">1</container>
+            <container id="aspace_56a16352331291a67be90923040442af" parent="aspace_93a6db4a6b865b17259c0ee4b8b47f94" type="Folder">14</container>
+          </did>
+          <odd id="aspace_ce579cdedc511ea5645c3ed2d292bfc2">
+            <head>General note</head>
+            <p>Contents: also contains flyers and copy of E.G.'s Will (1934).</p>
+          </odd>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>72M5:1 – 72M5:46 Arthur Ross Correspondence (most outgoing) and Third Party Letters to Goldman.</unittitle>
+            <unitdate datechar="creation">Jan 15, 1933-Jan 25, 1934</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6e53976fb08b448aec09c24b6a97d1ac" label="Mixed Materials [31142062884450]" type="Box">1</container>
+            <container id="aspace_eddeaa406c640da8d901095ce49955fb" parent="aspace_6e53976fb08b448aec09c24b6a97d1ac" type="Folder">15</container>
+          </did>
+          <odd id="aspace_f8d2b246c86dcbe4bf739834b1177d8e">
+            <head>General note</head>
+            <p>Contents: includes one letter from E.G. to Roger Baldwin.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>72M5:47 – 72M5:112 Arthur Ross Correspondence (most outgoing)</unittitle>
+            <unitdate datechar="creation">Jan 25, 1934-Jul 19, 1938</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cdfc45766d726c2ed0e45316046dc316" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_e0c0f024a2ccd232cc308fd948472c94" parent="aspace_cdfc45766d726c2ed0e45316046dc316" type="Folder">1</container>
+          </did>
+          <odd id="aspace_05a489bd2e49f502d9252b67ac4943c3">
+            <head>General note</head>
+            <p>Contents: includes two letters from E.G., one to Roger Baldwin.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>72M5:113 – 72M5:165 Arthur Ross Correspondence (most outgoing) and Third Party Letters to Goldman.</unittitle>
+            <unitdate datechar="creation">Jul 12, 1929-Dec 21, 1929</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8dcb0e5421567e319c4dad4ba26db8d2" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_4322ecb6a0f3e9d1136c2ba229ddc456" parent="aspace_8dcb0e5421567e319c4dad4ba26db8d2" type="Folder">2</container>
+          </did>
+          <odd id="aspace_043083d13e49aef3d88aee6931b3cfd5">
+            <head>General note</head>
+            <p>Contents: includes letters from E.G. to A.R., and letters from E.G. to Alfred Knopf and Horace Liveright.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>72M5:166 – 72M5:261 Arthur Ross Correspondence (most outgoing).</unittitle>
+            <unitdate datechar="creation">Jan 7, 1930-Dec 2, 1930</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_30ba1f18fca043fa453693fce9e9e45b" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_812899dbc01c61dd4cec2dec70061974" parent="aspace_30ba1f18fca043fa453693fce9e9e45b" type="Folder">3</container>
+          </did>
+          <odd id="aspace_c7b5e6d049db797ad0c392c72e1fd263">
+            <head>General note</head>
+            <p>Contents: includes letters from E.G. to A.R.; and a letter from E.G. to Alfred Knopf.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>72M5:262 – 72M5:307 Arthur Ross Correspondence (most outgoing).</unittitle>
+            <unitdate datechar="creation">Jan 6, 1931-Jul 9, 1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_74420d0a99a760294afba23aa3d73796" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_3ae383bbca6c2ad62b684553e0a8cbb7" parent="aspace_74420d0a99a760294afba23aa3d73796" type="Folder">4</container>
+          </did>
+          <odd id="aspace_7aa7fddef095d05dc33efe798eab09ca">
+            <head>General note</head>
+            <p>Contents: includes one letter from E.G. to Miss Aaron; one letter from Ben Reitman to Manley Aaron</p>
+          </odd>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>72M5:308 – 72M5:383 Arthur Ross Correspondence (most outgoing).</unittitle>
+            <unitdate datechar="creation">Jul 9, 1931-Dec 29, 1931</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cfa4cd43b56c2674697166ea5ca8b3e4" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_880b54dd42c0d222f4fd956fd0814ee3" parent="aspace_cfa4cd43b56c2674697166ea5ca8b3e4" type="Folder">5</container>
+          </did>
+          <odd id="aspace_25be5d7e3bdb62997c1732bc2efe6168">
+            <head>General note</head>
+            <p>Contents: includes one letter from E.G. to Alfred Knopf.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>72M5:384 – 72M5:428 Arthur Ross Correspondence (most outgoing).</unittitle>
+            <unitdate datechar="creation">Jan 7, 1932-Apr 28, 1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8468b60e20f06b2e37755956b460e483" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_1c8c75482c7a8d2fc18451af38b69490" parent="aspace_8468b60e20f06b2e37755956b460e483" type="Folder">6</container>
+          </did>
+          <odd id="aspace_06e59e1ce735c883661bdbf48fb715d7">
+            <head>General note</head>
+            <p>Contents: item 388 includes an enclosed ALS from Max Nettlau</p>
+          </odd>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>72M5:428a – 72M5:435 Arthur Ross Correspondence.</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_399b426a0ef772121a15553c69b3314a" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_e450d542317b97d3a7047449b23d8b40" parent="aspace_399b426a0ef772121a15553c69b3314a" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>72M5:436 – 72M5:456 Arthur Ross Correspondence.</unittitle>
+            <unitdate datechar="creation">Nov 27, 1931-Mar 8, 1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dc1d4227033961311a6c21be69bd6ad5" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_c78fc2dfaa00935e52ed93307a608eea" parent="aspace_dc1d4227033961311a6c21be69bd6ad5" type="Folder">8</container>
+          </did>
+          <odd id="aspace_e3e804e4843fbe851b4e3d9d028a451b">
+            <head>General note</head>
+            <p>Contents: includes two letters from E.G.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>72M5:457 – 72M5:478 Arthur Ross Correspondence (most outgoing).</unittitle>
+            <unitdate datechar="creation">Oct 21, 1929-Dec 4, 1936</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3b28584485da47017eeefd525df27128" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_b2ad8a8e760a0e54f039bfd9b7d94457" parent="aspace_3b28584485da47017eeefd525df27128" type="Folder">9</container>
+          </did>
+          <odd id="aspace_27b989e0dfaa91469e0cfe73eb286725">
+            <head>General note</head>
+            <p>Contents: includes one letter from E.G.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>72M5:479 – 72M5:514 Arthur Ross Correspondence .</unittitle>
+            <unitdate datechar="creation">May 20, 1932-Apr 2, 1937</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8c363677bdb4aea6048b321003237740" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_8e0b39bdf56252bf70c0bf6307c46984" parent="aspace_8c363677bdb4aea6048b321003237740" type="Folder">10</container>
+          </did>
+          <odd id="aspace_288712be5ba6cb8820a8179e4b031d6e">
+            <head>General note</head>
+            <p>Contents: includes three letters from E.G.; one letter from Alexander Berkman.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>72M5:515 – 72M5:539 Arthur Ross Correspondence (most outgoing).</unittitle>
+            <unitdate datechar="creation">Aug 1, 1930-Jun 29, 1935</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e8a09027b357d2c7c131c79469b8ee22" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_ba3eec951ea36047d12a0e9e0f68327f" parent="aspace_e8a09027b357d2c7c131c79469b8ee22" type="Folder">11</container>
+          </did>
+          <odd id="aspace_9d4d157b626db554b60b44d3bb497ea0">
+            <head>General note</head>
+            <p>Contents: includes two letters from Alexander Berkman.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>72M5:540 – 72M5:554 Arthur Ross Correspondence .</unittitle>
+            <unitdate datechar="creation">Nov 16, 1929-May 22, 1941</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c58f61c46af61a0e42acf8a6e1cf6278" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_22495d83288e6f214b9c2fec29f57fc2" parent="aspace_c58f61c46af61a0e42acf8a6e1cf6278" type="Folder">12</container>
+          </did>
+          <odd id="aspace_4eab3fb98fb1fbec1b7f2054b068ecd2">
+            <head>General note</head>
+            <p>Contents: includes on letter from E.G. to R. Cronan.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>72M5:555 – 72M5:586 Arthur Ross Correspondence.</unittitle>
+            <unitdate datechar="creation">Sep 10, 1924-1968</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d79c5014637e4e275044738ed803d606" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_5b5f0471f0bfaf5b85eb24f8c679a876" parent="aspace_d79c5014637e4e275044738ed803d606" type="Folder">13</container>
+          </did>
+          <odd id="aspace_73bf55d1c93bdbe6bfc433623aec5618">
+            <head>General note</head>
+            <p>Contents: includes seven letters from E.G.; one letter from Alexander Berkman; one letter from Rebecca West.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>72M5:587 – 72M5:589 Arthur Ross Articles</unittitle>
+            <unitdate datechar="creation">Jan 18, 1962-1970</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bb54980274a3bb17200fe9f6cfbaeaf3" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_ee2949fcebb31cb319a074136741a39e" parent="aspace_bb54980274a3bb17200fe9f6cfbaeaf3" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>72M5:591 – 72M5:592 Arthur Ross Correspondence with Judge Wyzanski.</unittitle>
+            <unitdate datechar="creation">May 1965</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b413bef46eef8b36286311e45d0c6a36" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_cdc3ebaf97f3fc20378ef2efc6bbee65" parent="aspace_b413bef46eef8b36286311e45d0c6a36" type="Folder">15</container>
+          </did>
+          <odd id="aspace_0192320661887926b6ffbc656ebeadb5">
+            <head>General note</head>
+            <p>Note: item 590 was transferred to the Tamiment Library Brief Manuscript Files Collection (see therein, Warren van Valkenburg)</p>
+          </odd>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>72M5:593 – 72M5:606 Arthur Ross Correspondence (incoming).</unittitle>
+            <unitdate datechar="creation">Oct 11, 1930-Sep 5, 1941</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6fcc35f49df6da7d4d1bddf64298d7a8" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_1ec37a56e378b49c4bf378ed4337bfd7" parent="aspace_6fcc35f49df6da7d4d1bddf64298d7a8" type="Folder">16</container>
+          </did>
+          <odd id="aspace_14cd168e41df70480714c8b825b5aa88">
+            <head>General note</head>
+            <p>Contents: consists of letters from Clifton Fadiman.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>72M6:1 – 72M6:16 Emma Goldman Letters to Eleanor Fitzgerald</unittitle>
+            <unitdate datechar="creation">Aug 5, 1938-Oct 24, 1939</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2dc9a09f6ceb594a75580f847f705d1a" label="Mixed Materials [31142062884468]" type="Box">2</container>
+            <container id="aspace_a472a4eb662da9a24a14561446e5768d" parent="aspace_2dc9a09f6ceb594a75580f847f705d1a" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>72M6:17 – 72M6:34 Emma Goldman Letters to Eleanor Fitzgerald</unittitle>
+            <unitdate datechar="creation">Nov 9, 1939-May 17, 1940</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_ca34c76c5dff722fb6fdf1291467806d" label="Mixed Materials [31142062748176]" type="Box">3</container>
+            <container id="aspace_590377ff734ee39c0bb7a69ea11c9fdc" parent="aspace_ca34c76c5dff722fb6fdf1291467806d" type="Folder">1</container>
+          </did>
+          <odd id="aspace_7f9227c505fadd78dafd80d1b7553b40">
+            <head>General note</head>
+            <p>Contents: also includes two letters to E.G.; and copy of letter from E.G. to Carlo Tresca.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>72M6:35 – 72M6:52 Eleanor Fitzgerald Correspondence (most incoming)</unittitle>
+            <unitdate datechar="creation">Sep 24, 1924-May 20, 1943</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_ffbd0423319e0370c522067e2b783266" label="Mixed Materials [31142062748176]" type="Box">3</container>
+            <container id="aspace_efd357c17ac000ca4dbcb5fdda44fa6d" parent="aspace_ffbd0423319e0370c522067e2b783266" type="Folder">2</container>
+          </did>
+          <odd id="aspace_3db2e95b73a8656aa201200514154e25">
+            <head>General note</head>
+            <p>Contents: principal correspondent is Alexander Berkman; also contains a letter from V.F. Calverton to Isaac Don Levine.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>72M6:53 – 72M6:56 Eleanor Fitzgerald Correspondence re Mother Earth</unittitle>
+            <unitdate datechar="creation">Sep 8, 1916-Nov 11, 1923</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_b33dd22426a57e079b5e435da5751a00" label="Mixed Materials [31142062748176]" type="Box">3</container>
+            <container id="aspace_417ca55bc96848e3d9e24806b3a3a6e2" parent="aspace_b33dd22426a57e079b5e435da5751a00" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>72M6:57 – 72M6:60 Eleanor Fitzgerald Speeches</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">Dec 6, 1919 , undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_cab8431023d925c5e51acd5c6ff22c30" label="Mixed Materials [31142062748176]" type="Box">3</container>
+            <container id="aspace_60242df1c6a27fc109dd44804c18cac7" parent="aspace_cab8431023d925c5e51acd5c6ff22c30" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>72M6:61 – 72M6:62 Letters from Leonard Abbott to Eleanor Fitzgerald</unittitle>
+            <unitdate datechar="creation">Aug 5, 1936 , Aug 27, 1940</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_ee45629aa75e2086b943f121d8b44fc6" label="Mixed Materials [31142062748176]" type="Box">3</container>
+            <container id="aspace_540d79d16229bca80193eac778309a13" parent="aspace_ee45629aa75e2086b943f121d8b44fc6" type="Folder">5</container>
+          </did>
+          <odd id="aspace_8a3915562ca4fde29fc7d56880d42afe">
+            <head>General note</head>
+            <p>Contents: includes enclosure, two prose poems by Anna Strunsky re Alexander Berkman.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>72M6:63 – 72M6:67 Ben Reitman Letters (3) to Eleanor Fitzgerald; one letter from E.F. to B.R.</unittitle>
+            <unitdate datechar="creation">Aug 7, 1939-Jul 22, 1942</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_5aec234bf35779a73be76a63b79b5a2e" label="Mixed Materials [31142062748176]" type="Box">3</container>
+            <container id="aspace_f01ec6596dcbadf638f4394671e0086b" parent="aspace_5aec234bf35779a73be76a63b79b5a2e" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>72M6:68 – 72M6:84 Harry Weinberger Correspondence with Eleanor Fitzgerald and Others</unittitle>
+            <unitdate datechar="creation">Sep 7, 1922-Sep 20, 1943</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_fd354865dbb5cb1a377be89768269ab7" label="Mixed Materials [31142062748176]" type="Box">3</container>
+            <container id="aspace_edcce4a0e3f92cf2dd7ce4f61c3da495" parent="aspace_fd354865dbb5cb1a377be89768269ab7" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>72M6:85 Harry Weinberger Last Will and Testament</unittitle>
+            <unitdate datechar="creation">Mar 11, 1944</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_0a77ca98ff81cd6329e104cc91775667" label="Mixed Materials [31142062748176]" type="Box">3</container>
+            <container id="aspace_71aa187e4f816ba50d858c18548e7c83" parent="aspace_0a77ca98ff81cd6329e104cc91775667" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>72M6:86 – 72M6:89 Eleanor Fitzgerald Correspondence and Documents re Provincetown Playhouse</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">1929 , undated</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_e64c9e1181a5b6fee8696610988db0aa" label="Mixed Materials [31142062748176]" type="Box">3</container>
+            <container id="aspace_ae1e717f57e74278fa9a9b04ad8058e0" parent="aspace_e64c9e1181a5b6fee8696610988db0aa" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>72M6:90 – 72M6:94 Eleanor Fitzgerald Documents (Education and experience, Federal Theatre Project and dismissal therefrom)</unittitle>
+            <unitdate datechar="creation">Aug 31, 1936-Jul 13, 1939</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_858651d4e53c76e4d03024768b693bda" label="Mixed Materials [31142062748176]" type="Box">3</container>
+            <container id="aspace_005654ce7b3f677a5adafe17c6b1f55d" parent="aspace_858651d4e53c76e4d03024768b693bda" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>72M6:95 – 72M6:105 Eleanor Fitzgerald Correspondence and Documents (theatrical career)</unittitle>
+            <unitdate datechar="creation">Mar 20, 1935-Dec 20, 1945</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_4e994e3c7a257fc9545dfcb9c4601a55" label="Mixed Materials [31142062748176]" type="Box">3</container>
+            <container id="aspace_4c09c4762278cd52bdc4029ab5dbecd5" parent="aspace_4e994e3c7a257fc9545dfcb9c4601a55" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>72M6:107 – 72M6:112 Eleanor Fitzgerald Correspondence (incoming)</unittitle>
+            <unitdate datechar="creation">Feb 27, 1929-Apr 7, 1942</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_51912a6eeb8a305a25903f9d30ce6834" label="Mixed Materials [31142062748176]" type="Box">3</container>
+            <container id="aspace_e30f2ae749de73cd0907d7ff31feff37" parent="aspace_51912a6eeb8a305a25903f9d30ce6834" type="Folder">12</container>
+          </did>
+          <odd id="aspace_801a31f246d533ce655ff1736b31e264">
+            <head>General note</head>
+            <p>Note: there is no item# 106.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>73M1:1 – 73M1:14 Emma Goldman letters to Arthur Ross</unittitle>
+            <unitdate datechar="creation">Nov 20, 1926-Nov 30, 1927</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_23bfcacce8137e28c672cc7467c2754b" label="Mixed Materials [31142062748176]" type="Box">3</container>
+            <container id="aspace_5196c32ca5a879e30e830d9db2afc9f4" parent="aspace_23bfcacce8137e28c672cc7467c2754b" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Tributes to Emma Goldman</unittitle>
+            <unitdate datechar="creation" normal="1926/1951" type="inclusive">1926-1951</unitdate>
+            <container altrender="Manuscript box - Legal - Half" id="aspace_45cdb49298082b09590a9e3beb182d36" label="Mixed Materials [31142062748176]" type="Box">3</container>
+            <container id="aspace_069bef47f53f8de7217d2eaf8872ae7e" parent="aspace_45cdb49298082b09590a9e3beb182d36" type="Folder">14</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref82" level="series">
+        <did>
+          <unittitle>Series 2. Oversized Correspondence and Writings (Photocopies).</unittitle>
+        </did>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Correspondence: Havelock Ellis</unittitle>
+            <unitdate datechar="creation" normal="1924/1928" type="inclusive">1924-1928</unitdate>
+            <container altrender="Flat Box - 12 x 18" id="aspace_914e8b2f8688f693141a4bd4fb22b95e" label="Mixed Materials [31142062754794]" type="Box">4</container>
+            <container id="aspace_107cb7251abcf16f91776c995cde331a" parent="aspace_914e8b2f8688f693141a4bd4fb22b95e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Correspondence: Madame Koun</unittitle>
+            <unitdate datechar="creation" normal="1924/1924" type="inclusive">1924</unitdate>
+            <container altrender="Flat Box - 12 x 18" id="aspace_a4cc01fbad3e8d443b4815a7edbba7a7" label="Mixed Materials [31142062754794]" type="Box">4</container>
+            <container id="aspace_0106bbd34228f5f4455b938c4bcd9571" parent="aspace_a4cc01fbad3e8d443b4815a7edbba7a7" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Correspondence: Bertrand Russell</unittitle>
+            <unitdate datechar="creation" normal="1924/1925" type="inclusive">1924-1925</unitdate>
+            <container altrender="Flat Box - 12 x 18" id="aspace_27f96812e1a5a6dfa9216bcb71d0d043" label="Mixed Materials [31142062754794]" type="Box">4</container>
+            <container id="aspace_928edd6aff1c9be2c12b0d91a6749d99" parent="aspace_27f96812e1a5a6dfa9216bcb71d0d043" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Correspondence: Rebecca West</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">1924-1928 , undated</unitdate>
+            <container altrender="Flat Box - 12 x 18" id="aspace_dd3b8b821ff7c10f888c21df72cd1b40" label="Mixed Materials [31142062754794]" type="Box">4</container>
+            <container id="aspace_486dd37865555168d81a87c143387b10" parent="aspace_dd3b8b821ff7c10f888c21df72cd1b40" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="file">
+          <did>
+            <unittitle>Correspondence: Israel Zangwill</unittitle>
+            <unitdate datechar="creation" normal="1924/1925" type="inclusive">1924-1925</unitdate>
+            <container altrender="Flat Box - 12 x 18" id="aspace_ba0b6d794a07647dbd799eb195a05206" label="Mixed Materials [31142062754794]" type="Box">4</container>
+            <container id="aspace_172e08739b99ec18b240588c97dfdd46" parent="aspace_ba0b6d794a07647dbd799eb195a05206" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Writings: Chinese Revolution</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Flat Box - 12 x 18" id="aspace_a3d3f0ecd4c57e3dfcaecbdca84c74fc" label="Mixed Materials [31142062754794]" type="Box">4</container>
+            <container id="aspace_17bac718d2886a5f9bcf6cdbaeadaddf" parent="aspace_a3d3f0ecd4c57e3dfcaecbdca84c74fc" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Writings: Hitler</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Flat Box - 12 x 18" id="aspace_aac108d7c0c8a0e673f29de8b544886b" label="Mixed Materials [31142062754794]" type="Box">4</container>
+            <container id="aspace_d64006494f20daff5a4a488308d217ed" parent="aspace_aac108d7c0c8a0e673f29de8b544886b" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Writings: Mussolini</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Flat Box - 12 x 18" id="aspace_8d3329fcd4e1eb5dbb81c8bb3d371d40" label="Mixed Materials [31142062754794]" type="Box">4</container>
+            <container id="aspace_582fdc1b6e2c81775727b559c4299126" parent="aspace_8d3329fcd4e1eb5dbb81c8bb3d371d40" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref117" level="file">
+          <did>
+            <unittitle>Correspondence: Peter Kropotkin</unittitle>
+            <unitdate datechar="creation">16 December 1903</unitdate>
+            <container altrender="Flat Box - 12 x 18" id="aspace_1a73e78fe62d9bcb90c87a09cf5d407e" label="Mixed Materials [31142062754794]" type="Box">4</container>
+            <container id="aspace_938f56ec6887854e9200c33aa55581fe" parent="aspace_1a73e78fe62d9bcb90c87a09cf5d407e" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref91" level="series">
+        <did>
+          <unittitle>Series 3. Emma Goldman Speaks by Jeanne Levey: Typescript and Research Materials</unittitle>
+        </did>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Emma Goldman Speaks by Jeanette Levey (ts): Preface, Table of Contents, Chapter Summaries</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_93e4c793c14ccd1cea02e757666b7263" label="Mixed Materials [31142062884492]" type="Box">5</container>
+            <container id="aspace_28a3e11cbf3b4768efecd2966226b565" parent="aspace_93e4c793c14ccd1cea02e757666b7263" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Emma Goldman Speaks by Jeanne Levey (ts): Part I pp. 1-79</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c04dcd1f5d164101b59207ede0f5c1ac" label="Mixed Materials [31142062884492]" type="Box">5</container>
+            <container id="aspace_77a86395ef2375f5c0be3230574f1cc5" parent="aspace_c04dcd1f5d164101b59207ede0f5c1ac" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Emma Goldman Speaks by Jeanne Levey (ts): Part II pp. 80-195</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ad3c6a73f82f7e8a9f319c21d0c39df0" label="Mixed Materials [31142062884492]" type="Box">5</container>
+            <container id="aspace_52243cb739318e71845b9a842e812340" parent="aspace_ad3c6a73f82f7e8a9f319c21d0c39df0" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Emma Goldman Speaks by Jeanne Levey (ts): Part III pp. 196-319</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_436039bce5819ecb49ded0cb6e47dda1" label="Mixed Materials [31142062884492]" type="Box">5</container>
+            <container id="aspace_576e690d8f689571d6e503382639c0bf" parent="aspace_436039bce5819ecb49ded0cb6e47dda1" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref96" level="file">
+          <did>
+            <unittitle>Emma Goldman Speaks by Jeanne Levey (ts): Part IV pp. 320-338</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8a361d8d63d33b547e906bcc1dd4bf2f" label="Mixed Materials [31142062884492]" type="Box">5</container>
+            <container id="aspace_9bb5e22569f5f7e53aa88695cb8078f8" parent="aspace_8a361d8d63d33b547e906bcc1dd4bf2f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref97" level="file">
+          <did>
+            <unittitle>Emma Goldman Speaks by Jeanne Levey (ts): Part V pp. 339-442</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d2b7ec266751ad174db6ef3b428128f9" label="Mixed Materials [31142062884492]" type="Box">5</container>
+            <container id="aspace_f8363632a18250202f6293cc2a3363b6" parent="aspace_d2b7ec266751ad174db6ef3b428128f9" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref98" level="file">
+          <did>
+            <unittitle>EGS: Index Cards, Numbered (approx. 330). Note: preceded by a a card stating "these may be a key to the manuscript."</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4322cf5ce735ae3b0fa5a6cc5a4106fb" label="Mixed Materials [31142062884492]" type="Box">5</container>
+            <container id="aspace_413c8addbe90db04b88ab1e6e3405a96" parent="aspace_4322cf5ce735ae3b0fa5a6cc5a4106fb" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref99" level="file">
+          <did>
+            <unittitle>EGS: Excerpts from Emma Goldman's works keyed to EGS typescript page numbers 1-100</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3d817622333ec023cfec55e71d3aaef7" label="Mixed Materials [31142062884443]" type="Box">6</container>
+            <container id="aspace_59af4dfbd51de2892fff75dd6416d2b2" parent="aspace_3d817622333ec023cfec55e71d3aaef7" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref100" level="file">
+          <did>
+            <unittitle>EGS: Excerpts from Emma Goldman's works keyed to EGS typescript page numbers 101-199</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_70dd0ce102e3c83ac928a70b87422ed9" label="Mixed Materials [31142062884443]" type="Box">6</container>
+            <container id="aspace_f34d4c2637f4ffb1810d6958bc16cc6c" parent="aspace_70dd0ce102e3c83ac928a70b87422ed9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref101" level="file">
+          <did>
+            <unittitle>EGS: Excerpts from Emma Goldman's works keyed to EGS typescript page numbers 200-299</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_dc139b530f563c9e06d8ebffae3d87f7" label="Mixed Materials [31142062884443]" type="Box">6</container>
+            <container id="aspace_b68fe28dfd4269ce033c5d7aca309c97" parent="aspace_dc139b530f563c9e06d8ebffae3d87f7" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref102" level="file">
+          <did>
+            <unittitle>EGS: Excerpts from Emma Goldman's works keyed to EGS typescript page numbers 300-331</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a662d3ad41ae210bf6e34425cb578901" label="Mixed Materials [31142062884443]" type="Box">6</container>
+            <container id="aspace_88b31c4af3acc1a6c68dd0f4d6aa46ee" parent="aspace_a662d3ad41ae210bf6e34425cb578901" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref103" level="file">
+          <did>
+            <unittitle>EGS: Clippings re Emma Goldman</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">1934 , undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_29335a1f8b8de14009d6667cbd2e4acd" label="Mixed Materials [31142062884443]" type="Box">6</container>
+            <container id="aspace_266be7f4f1a5a642e78aab02ffe94e26" parent="aspace_29335a1f8b8de14009d6667cbd2e4acd" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref104" level="file">
+          <did>
+            <unittitle>EGS: Germany and Italy: Excerpts from Emma Goldman's works and Research Notes</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_895e692c999857036bc89c4be3e15b1f" label="Mixed Materials [31142062884443]" type="Box">6</container>
+            <container id="aspace_7c4246ed1111c26f73c4c65f339151ce" parent="aspace_895e692c999857036bc89c4be3e15b1f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref105" level="file">
+          <did>
+            <unittitle>EGS: Labor Laws: Excerpts from Emma Goldman's works and Research Notes</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2f89335b7288ae0b4727a4acce5d2fa6" label="Mixed Materials [31142062884443]" type="Box">6</container>
+            <container id="aspace_f9926c22b583376e961c268beae184e3" parent="aspace_2f89335b7288ae0b4727a4acce5d2fa6" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref106" level="file">
+          <did>
+            <unittitle>EGS: Militarism: Excerpts from Emma Goldman's works and Research Notes</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7ca2b63a5cfcc62ba6f9c5f31d7ff026" label="Mixed Materials [31142062884443]" type="Box">6</container>
+            <container id="aspace_b48971a73f5bb34e4b75e0bc40559fa3" parent="aspace_7ca2b63a5cfcc62ba6f9c5f31d7ff026" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref107" level="file">
+          <did>
+            <unittitle>EGS: Miscellaneous: Excerpts from Emma Goldman's works and Research Notes</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fd1f356da8d2b0a98b28283a9f1d8ff0" label="Mixed Materials [31142062884443]" type="Box">6</container>
+            <container id="aspace_00d79f30e49ab3c035f997bb90b06b0e" parent="aspace_fd1f356da8d2b0a98b28283a9f1d8ff0" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref108" level="file">
+          <did>
+            <unittitle>EGS: Russia: Excerpts from Emma Goldman's Works and Research Notes</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1bd4aa7a8e4ac3b957fb0193adeb2875" label="Mixed Materials [31142062884443]" type="Box">6</container>
+            <container id="aspace_fef39e24aa29ad6fadbb45a2a496aaed" parent="aspace_1bd4aa7a8e4ac3b957fb0193adeb2875" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref109" level="file">
+          <did>
+            <unittitle>EGS: Social Questions: Excerpts from Emma Goldman's Works and Research Notes</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_458b74f8711edb1ab79bcb4fb8de68a2" label="Mixed Materials [31142062884443]" type="Box">6</container>
+            <container id="aspace_af516c788577a103c6a98ac8361c2f36" parent="aspace_458b74f8711edb1ab79bcb4fb8de68a2" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref110" level="file">
+          <did>
+            <unittitle>EGS: Socialism, Anarchism: Excerpts from Emma Goldman's Works and Research Notes</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_0fd59c689abbcb1812364276dca803ce" label="Mixed Materials [31142062884443]" type="Box">6</container>
+            <container id="aspace_227ad69c1b0ba7de5b0162dd65e5a956" parent="aspace_0fd59c689abbcb1812364276dca803ce" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref111" level="file">
+          <did>
+            <unittitle>EGS: Spain: Excerpts from Emma Goldman's Works and Research Notes</unittitle>
+            <unitdate datechar="creation" normal="1908/1970" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_13107903e24ca88044f49199a79da389" label="Mixed Materials [31142062884443]" type="Box">6</container>
+            <container id="aspace_8e5fc9055bf6a034c272bd90e530a561" parent="aspace_13107903e24ca88044f49199a79da389" type="Folder">13</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
