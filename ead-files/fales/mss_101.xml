@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F">mss_101</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Frank Harris Papers<lb/>ca. 1900-1971<lb/> <num>MSS.101</num></titleproper>
+        <author>Marvin Taylor, 1998. Updated 2009.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 22:00:01 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>December 2017</date>
+        <item>Updated by Megan O'Shea to incorporate artwork being sent to offsite art storage in December 2017</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle>Frank Harris Papers</unittitle>
+      <origination label="Creator">
+        <persname source="naf">Harris, Frank, 1855-1931</persname>
+      </origination>
+      <unitid>MSS.101</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+        <extent altrender="carrier">in 6 manuscript boxes, 2 flat boxes, 1 flat file folder, and 1 Artex container</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1900/1971" type="inclusive">ca. 1900-1971</unitdate>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <prefercite id="aspace_84ab526eb4e596533843072c2be181ee">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the
+following form:<lb/><lb/>
+Identification of item,  date (if known); Frank Harris Papers; MSS 101; box number; folder number; Fales Library and Special Collections, New York University Libraries.</p>
+    </prefercite>
+    <userestrict id="aspace_fb44e7bf37980b2a3cb1c4c0837100cd">
+      <head>Conditions Governing Use</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <accessrestrict id="aspace_ac13e759a4875028094706f4abb8fea6">
+      <head>Conditions Governing Access</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <arrangement id="aspace_a426ff703fb6d189cd700db09e0de206">
+      <head>Arrangement</head>
+      <p>TBD</p>
+    </arrangement>
+    <scopecontent id="aspace_43dae461bf965baa4deee889c41c8c00">
+      <head>Scope and Content</head>
+      <p>TBD</p>
+    </scopecontent>
+    <bioghist id="aspace_e5f1b7322a3689ca5d49a4c6d07f57d1">
+      <head>Biographical Note</head>
+      <p>James Thomas Harris (February 14, 1856 – August 27, 1931) was an editor, author and journalist famous for his sexually explicit and factually unreliable four volume memoir My Life and Loves, as well as for his friendships with notable public and literary figures Oscar Wilde, George Bernard Shaw and Aleister Crowley.  Harris was editor of British periodicals the Evening News, the Fortnightly Review, The Saturday Review (for which he hired George Bernard Shaw)  and the U.S. edition of Pearson's Magazine.  In addition to My Life and Loves his work includes Oscar Wilde: His Life and Confessions,  Life of Bernard Shaw and Contemporary Portraits.</p>
+      <p>  Harris, Frank. ( 2009). In Encyclopædia Britannica. Retrieved September  21,  2009, from Encyclopædia Britannica Online: http://search.eb.com/eb/article-9039341<lb/>
+  Harris, Frank Contemporary Portraits Second Series, page ix,  1919 </p>
+    </bioghist>
+    <dsc>
+      <c id="aspace_ref55" level="series">
+        <did>
+          <unittitle>Series I: General</unittitle>
+        </did>
+        <c id="aspace_ref2" level="file">
+          <did>
+            <unittitle>Correspondence to A-Z</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_f7f191c76e6a3387f58a798c41824fe5" label="Mixed Materials" type="Box">83.1</container>
+            <container id="aspace_332a5ad65a2cc8f9f1a83bb621e1144e" parent="aspace_f7f191c76e6a3387f58a798c41824fe5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>No folder</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_aa0596a937fe76d4503f2b70c56cf18f" label="Mixed Materials" type="Box">83.1</container>
+            <container id="aspace_2a98a8005aff964c02137c60cd11e35a" parent="aspace_aa0596a937fe76d4503f2b70c56cf18f" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Correspondence to Ross, Arthur L.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_5c68e3b113a2d61fe79a9572726d5871" label="Mixed Materials" type="Box">83.1</container>
+            <container id="aspace_99b7c21dfa9894928282ca356049fdc1" parent="aspace_5c68e3b113a2d61fe79a9572726d5871" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Correspondence to G. B. Shaw (see also legal size Box 6.1 Folder 19 &amp;20)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_6ad59d374544925ad003cd328ffdef7d" label="Mixed Materials" type="Box">83.1</container>
+            <container id="aspace_92161bc55752f5000de54f25a0d593ab" parent="aspace_6ad59d374544925ad003cd328ffdef7d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Correspondence to White, Maurice</unittitle>
+            <unitdate datechar="creation">1919-1929</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_5bc16bafce451816e744f5a61f6c834f" label="Mixed Materials" type="Box">83.1</container>
+            <container id="aspace_83f51dff057789c837f202d40b63467a" parent="aspace_5bc16bafce451816e744f5a61f6c834f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Correspondence to Frank Harris A-Z</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_1443989154bdf88b4754a21b9343d21c" label="Mixed Materials" type="Box">83.1</container>
+            <container id="aspace_b7159917551b1983d69017aafe97fca8" parent="aspace_1443989154bdf88b4754a21b9343d21c" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Alice, Prince of Monaco to FH</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_30c07e20ccd4e59a9479d15c9905c960" label="Mixed Materials" type="Box">83.1</container>
+            <container id="aspace_5e1ac4d4d2888b3c8efec51ced33497e" parent="aspace_30c07e20ccd4e59a9479d15c9905c960" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>Churchil, Winston to FH (photocopies of orginals only)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_0b46a990aac0a6158b6909fb9062d669" label="Mixed Materials" type="Box">83.1</container>
+            <container id="aspace_2cf9c5ff4d38e1c7e8127125404b49d2" parent="aspace_0b46a990aac0a6158b6909fb9062d669" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Printed Materials about My Life and Loves</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_264716ad43166a22bf9c9e818e91f78f" label="Mixed Materials" type="Box">83.1</container>
+            <container id="aspace_bd519c16d5f2d1ab812eaa7bcd1c2606" parent="aspace_264716ad43166a22bf9c9e818e91f78f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Hammel, George/M. Landau (pseudonyms) to Mr. Butterworth</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_7bbf4a1d660e8f443df5db7d613557d1" label="Mixed Materials" type="Box">83.1</container>
+            <container id="aspace_0f9d108b9a1be0cc5e89d7b0fe48961f" parent="aspace_7bbf4a1d660e8f443df5db7d613557d1" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Harris, Nellie to/from Arthur Ross</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_95a26ef07e5b8de946e8c9d5be709d02" label="Mixed Materials" type="Box">83.1</container>
+            <container id="aspace_6dd8ded6025ad1944df087a3d4adbabb" parent="aspace_95a26ef07e5b8de946e8c9d5be709d02" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Harris, Nellie: Misc.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_53132ac79c26b3a019fed71bdee3b408" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_93a6bffb333f1571f6f3176f4b6b15c0" parent="aspace_53132ac79c26b3a019fed71bdee3b408" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Lyngklip, Pauline and Einar. Correspondence between the Lyngklips and others.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_913b682405d27486804fe910b4bbf7e6" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_a4a205b7198797fccb98dfd67a062fdb" parent="aspace_913b682405d27486804fe910b4bbf7e6" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Ross, Arthur L. Misc. correspondence to ALR about Harris.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_e8d3806e9734adcf9634e08615edc55f" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_5aa1fb557a25702bafc1a132c546fde9" parent="aspace_e8d3806e9734adcf9634e08615edc55f" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Ross, Arthur L. correspondence to/from Mrs. Patrick Campbell</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_57d3222c887c91b02f15bd07afe35327" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_31c0a44ca123084a706a9bc483be9dad" parent="aspace_57d3222c887c91b02f15bd07afe35327" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Ross, Arthur L. correspondence from Henry Miller</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_fde73353d99012351be34dd70bc704a9" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_8893ea0bcaf838c5c2dbfe770f65c139" parent="aspace_fde73353d99012351be34dd70bc704a9" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Ross, Arthur L. correspondence from Heskith Pearson</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_4eb99a624643d486745c54afa013b426" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_ce661f14ab0df805d61f368eafc7600c" parent="aspace_4eb99a624643d486745c54afa013b426" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Ross, Arthur L. business correspondence</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_aeddf4d61168220f59f8e4d3863a7c43" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_3f802ea5046b2400662eb082292af54b" parent="aspace_aeddf4d61168220f59f8e4d3863a7c43" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Ross, Arthur L. business correspondence (Montes the Matador. Film)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_edb28470b508908adf6e2c6bc4aa50df" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_cae2a5521b2dd3d39acd4529b1584816" parent="aspace_edb28470b508908adf6e2c6bc4aa50df" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Ross, Arthur L. business correspondence (My Life and Loves; see also legal size Box 6.1 folders 19 &amp; 20)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_64642a0349b9e0f2f189ae60b3b333c9" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_dcffc9cfdf10e2e9c0841694b00a83c9" parent="aspace_64642a0349b9e0f2f189ae60b3b333c9" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Ross, Arthur L. business correspondence (Oscar Wilde Lawsuit)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_36e9192e88ac7b603eb99fb770f666db" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_e990603c12b9bad50e5e4fa88c55c88c" parent="aspace_36e9192e88ac7b603eb99fb770f666db" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Ross, Arthur L. business correspondence (Reminiscences of a Cowboy. Motion Picture.)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_403d6faf4140ea3f5811880641fbd7af" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_e4963d33bde39859f39937eb31d4a101" parent="aspace_403d6faf4140ea3f5811880641fbd7af" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Ross, Arthur L. business correspondence (Shaw collected letters)</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_e72521338bbe8637f2b416fe74a13d06" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_6a05b9c4fa793dc02999a8fb9efb0a4f" parent="aspace_e72521338bbe8637f2b416fe74a13d06" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Tarbeaux (or Tarbo or Tarbox), Frank. Correspondence.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_53f86fc346687af78bfa9d84b2723484" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_b69d60a875fe5cc3dbbd67cc013bf27e" parent="aspace_53f86fc346687af78bfa9d84b2723484" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Petition to the French Court</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_3da9606ebe1f69ff74ee01e0b6b9e480" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_fcc51e8801e0ace4c7fc55edbbb7df34" parent="aspace_3da9606ebe1f69ff74ee01e0b6b9e480" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Clippings</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_82070754451f25ca76044186574d3c0a" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_0dfede4a53cbf17911545a79bdf50e0f" parent="aspace_82070754451f25ca76044186574d3c0a" type="Folder">26</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Photographs and negatives</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_659e7b6fd15861d9c471d679cede78bc" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_011e0299aa3a3efd3c672f358f267710" parent="aspace_659e7b6fd15861d9c471d679cede78bc" type="Folder">27</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Printed materials, misc. </unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_5305eddb5419786ec63de5c6c2c97cee" label="Mixed Materials" type="Box">83.2</container>
+            <container id="aspace_8e3b56ba953244193a453b80eae83322" parent="aspace_5305eddb5419786ec63de5c6c2c97cee" type="Folder">28</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Life of Bernard Shaw, t.ms (carbon) part 1</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_79e9e89e7811231a96ac1b24a8e773e4" label="Mixed Materials" type="Box">84.1</container>
+            <container id="aspace_1e72d1aa10fff4aa465a16dcb2bbbf40" parent="aspace_79e9e89e7811231a96ac1b24a8e773e4" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Life of Bernard Shaw, t.ms. (carbon) part 2</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_d4bbecc1f73fa3be2d7c8ed40da0a967" label="Mixed Materials" type="Box">84.1</container>
+            <container id="aspace_6c2df7519092b051f9625b0cc23e0baf" parent="aspace_d4bbecc1f73fa3be2d7c8ed40da0a967" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Life of Bernard Shaw, t.ms. (Carbon) part 3</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_7ebbb6115d2879724089d7546cba7955" label="Mixed Materials" type="Box">84.2</container>
+            <container id="aspace_312ccdcc748a8348332e9d9478f48a41" parent="aspace_7ebbb6115d2879724089d7546cba7955" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Life of Bernard Shaw, t.ms. early draft with corrections, 112 pages.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_817cf300276e47cb7a66f4d9d52b469d" label="Mixed Materials" type="Box">84.2</container>
+            <container id="aspace_0a2ddb159fa4b6a0fd27c0f27197ee4d" parent="aspace_817cf300276e47cb7a66f4d9d52b469d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Life of Bernard Shaw, t.ms. later draft with corrections, 106 pages.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_e8038677e214226f430f5bf76172e7e6" label="Mixed Materials" type="Box">84.2</container>
+            <container id="aspace_7b94f1367172ffc9398a4e008d09ed97" parent="aspace_e8038677e214226f430f5bf76172e7e6" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Beyond Good and Evil t.ms. (play) 16 pages.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_775d94ba1e47495f4d978cf71f5c5e7d" label="Mixed Materials" type="Box">84.2</container>
+            <container id="aspace_e41435f658bba47d7dc51c2de450014f" parent="aspace_775d94ba1e47495f4d978cf71f5c5e7d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Lyngklip, Einar A. Letters of Frank Harris: Collected (But not edited), t.ms.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_047674b17f4d129ceb73d28350abba8f" label="Mixed Materials" type="Box">84.3</container>
+            <container id="aspace_a94b301a2af13b2139d9a3826e9c41da" parent="aspace_047674b17f4d129ceb73d28350abba8f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Lyngklip, Einar A.. Letters of Frank Harris: Collected (But not edited), t.ms.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_bd55bfdaec6426c16cc5e4e637214984" label="Mixed Materials" type="Box">84.3</container>
+            <container id="aspace_b598424e4448af5a6101bc585fbcc967" parent="aspace_bd55bfdaec6426c16cc5e4e637214984" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Harris, Frank. Contemporary Portraits, Vol. 6, part 1, t.ms.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_86c7b75c1c846de8d44b7e82a3027320" label="Mixed Materials" type="Box">85</container>
+            <container id="aspace_9c170bb426390bb04c47b9dbde588c1f" parent="aspace_86c7b75c1c846de8d44b7e82a3027320" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Harris, Frank. Contemporary Portraits, Vol. 6. part 2, t.ms.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_b68f79f99f689eb957322a43d199497b" label="Mixed Materials" type="Box">85</container>
+            <container id="aspace_b86d32e253aec10b3069e5af865bb916" parent="aspace_b68f79f99f689eb957322a43d199497b" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Harris, Frank. Critical Essays, Chapter 25, AAnti-Semitism@ t.ms.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_233d43b8930ce8d302b4cbcfbbde207d" label="Mixed Materials" type="Box">85</container>
+            <container id="aspace_dc3f732e5aa625d60410eb2e3db4adc0" parent="aspace_233d43b8930ce8d302b4cbcfbbde207d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Harris, Frank. Joan La Romee, t.ms.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_3c74275572eb50d16bb4b35ca2f5313b" label="Mixed Materials" type="Box">85</container>
+            <container id="aspace_604247d136f81fc51bdd2ca44f0cac1d" parent="aspace_3c74275572eb50d16bb4b35ca2f5313b" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Harris, Frank. There I Lie Dead (poem) a.ms.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_788d88f3a93981fc5e2e8bfd2e914c7a" label="Mixed Materials" type="Box">85</container>
+            <container id="aspace_1a515415e04027753fbe85dc9d7e5d39" parent="aspace_788d88f3a93981fc5e2e8bfd2e914c7a" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Harris, Frank. The Veils of Isis t.ms. with corrections.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Letter" id="aspace_fe342f7a698b1f9fb2fe157400af5f53" label="Mixed Materials" type="Box">85</container>
+            <container id="aspace_9f4f56aebc3db7c4db1756128972405a" parent="aspace_fe342f7a698b1f9fb2fe157400af5f53" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref4" level="series">
+        <did>
+          <unittitle>Oversize Series I: General</unittitle>
+        </did>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Galleys for My Life, Vol. 3. With corrections</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_a1cb92e8f3988b35df6b1fcdde7def24" label="Mixed Materials [31142054876688]" type="Box">86.1</container>
+            <container id="aspace_419ceb619299dc4afe1193840fc9b950" parent="aspace_a1cb92e8f3988b35df6b1fcdde7def24" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Galleys for My Life, Vol. 3. With corrections
+</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_c862330a6fcb4547976ea0c28fabe1db" label="Mixed Materials [31142054876688]" type="Box">86.1</container>
+            <container id="aspace_50b77f7a0f792580ba55bd1662e9e8ce" parent="aspace_c862330a6fcb4547976ea0c28fabe1db" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Three sets of miscellaneous galleys for My Life.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Flat Box - 12 x 15.25" id="aspace_7a9557046cd4d6775a11b5680004db09" label="Mixed Materials [31142054876696]" type="Box">86.2</container>
+          </did>
+        </c>
+        <c id="aspace_d38c8b372d2a921673e6581a3062732f" level="file">
+          <did>
+            <unittitle>Frank Harris bust</unittitle>
+            <unitid>cuid6191</unitid>
+            <physdesc altrender="whole">
+              <extent altrender="materialtype spaceoccupied">1 item</extent>
+              <physfacet>one bust</physfacet>
+            </physdesc>
+            <unitdate datechar="creation" normal="1900/1930" type="inclusive">Undated</unitdate>
+            <container id="aspace_99d49690fb0b749943527d45753adf92" label="Mixed Materials" type="Item">MSS.101.cuid6191</container>
+          </did>
+          <controlaccess>
+            <subject source="aat">busts (figures)</subject>
+          </controlaccess>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

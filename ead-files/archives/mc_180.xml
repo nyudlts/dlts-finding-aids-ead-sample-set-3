@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/miller/">mc_180</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the I. Franklin Miller Papers <num>MC.180</num></titleproper>
+        <author>Alison Lotto.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 21:03:47 -0400</date>.</creation>
+      <langusage>Description is written in: <language langcode="eng" scriptcode="Latn">English, Latin script</language>.</langusage>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>I. Franklin Miller Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Miller, I. Franklin</persname>
+      </origination>
+      <unitid>MC.180</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1.5 Linear Feet</extent>
+        <extent altrender="carrier">(3 boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1926/1979" type="inclusive">1926-1979</unitdate>
+      <abstract id="aspace_589db5c783f6590fecae492b26265fad">The I. Franklin Miller papers document the professional life of Dr. I. Franklin Miller, an important dentist in New York City and a professor at the NYU School of Dentistry.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <userestrict id="aspace_4901ed158466fca66a47362d291c1fa8">
+      <head>Use Restrictions</head>
+      <p>Permission to publish materials must be obtained in writing from the:</p>
+      <p>New York University Archives
+Elmer Holmes Bobst Library
+70 Washington Square South
+New York, NY 10012
+Phone: (212) 998-2646
+Fax: (212) 995-4225
+E-mail: university-archives@nyu.edu</p>
+    </userestrict>
+    <accessrestrict id="aspace_25af9ddb789d59aa0f7cf4c26cc0b10e">
+      <head>Access Restrictions</head>
+      <p>Open for use without restrictions.</p>
+    </accessrestrict>
+    <arrangement id="aspace_010722a69c6b7a284f10e07788ba10b1">
+      <head>Arrangement</head>
+      <p>The collection is arranged into a single series.  The materials arrived in binders organized by date, and that original order was retained.  Within the series, the folders are arranged chronologically, and within each folder the documents are organized in their original order.  Each folder contains correspondence, teaching materials, conference materials and ephemera.</p>
+    </arrangement>
+    <scopecontent id="aspace_e64469158e031e5c55362bda6de54b62">
+      <head>Scope and Content</head>
+      <p>The I. Franklin Miller Papers contain correspondence, teaching materials, and conference materials.  The papers cover Dr. Miller's active work on the lecture and conference circuit, as well as the management of a practice and teaching at the New York University College of Dentistry.  There is also some personal correspondence from dental colleagues or regarding his career.  The materials are arranged chronologically.  There are a few copies of letters between I. Franklin Miller and Albert Einstein from the 1960s included in the collection.</p>
+    </scopecontent>
+    <relatedmaterial id="aspace_be3a119daba04cd6df95f2ddd0d957dd">
+      <head>Related Materials at the New York University Archives</head>
+      <p>See RG 25 for the Records of the New York University College of Dentistry.</p>
+    </relatedmaterial>
+    <bioghist id="aspace_ff7b4fc82a886c18286922734ab00923">
+      <head>Biography of I. Franklin Miller</head>
+      <p>I. Franklin Miller graduated from the University of Pittsburgh in 1936 with a graduate degree in dentistry and an M.A. in education.  He opened his own dental laboratory and began to work in the field of prosthetic dentistry.  Dr. Miller pioneered the use of resin in dentistry and received many awards for his work in restorative dentistry.  </p>
+      <p>He began teaching at the First District Dental Society, and in 1951 he organized the I. Franklin Miller Study Group, which held meetings three or four times a year.  Dr. Miller served as the Clinical Professor of Postgraduate Denture Prosthesis at the New York University College of Dentistry for many years, teaching a number of different courses. He also lectured widely and is estimated to have given more than 1500 lectures. At the NYU College of Dentistry he also helped raise $100,000 to name the I. Franklin Miller Seminar Room, which was dedicated in 1967.  </p>
+      <p>Source:
+Dr. I Franklin Miller Biographical File</p>
+    </bioghist>
+    <prefercite id="aspace_bd2c8f12c1081d638a68ed67b443dbf3">
+      <head>Preferred Citation</head>
+      <p>Identification of item, date (if known); Dr. I. Franklin Miller Papers; MC 180, box number; folder number; New York University Archives</p>
+    </prefercite>
+    <controlaccess>
+      <subject source="lcsh">Dentistry |x Study and teaching.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Lectures.</genreform>
+      <subject source="lcsh">Dentistry.</subject>
+      <corpname source="naf">New York University. College of Dentistry</corpname>
+      <persname source="naf">Einstein, Albert, 1879-1955</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref30" level="series">
+        <did>
+          <unittitle>Series I. Professional Papers</unittitle>
+          <unitdate datechar="creation" normal="1926/1979" type="inclusive">1926-1979</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref2" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1926/1939" type="inclusive">1926-1939</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_3c9b91e75dbda5c5beb8a788cd239559" label="Mixed Materials [31142062898526]" type="Box">1</container>
+            <container id="aspace_249b16e5e5bd36e1e4b5c3e824a72a25" parent="aspace_3c9b91e75dbda5c5beb8a788cd239559" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref4" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1940/1949" type="inclusive">1940-1949</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_b790aead4a691add5816299db9ffdebb" label="Mixed Materials [31142062898526]" type="Box">1</container>
+            <container id="aspace_c86e19a24e9952d0343897e578a52fba" parent="aspace_b790aead4a691add5816299db9ffdebb" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref5" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1950/1951" type="inclusive">1950-1951</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_dfa95b3db6e876c6c26df0eaf39c1afb" label="Mixed Materials [31142062898526]" type="Box">1</container>
+            <container id="aspace_dfa00dcd8162ec3a4e107c7b85547baa" parent="aspace_dfa95b3db6e876c6c26df0eaf39c1afb" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref6" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d672b77c14f6a4daed1c777c01384a16" label="Mixed Materials [31142062898526]" type="Box">1</container>
+            <container id="aspace_896c1b117dcc1f116bec3d412339fb28" parent="aspace_d672b77c14f6a4daed1c777c01384a16" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref7" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d0f735763c4fd4829c231018b9abf24d" label="Mixed Materials [31142062898526]" type="Box">1</container>
+            <container id="aspace_541b793a4a3b16c141e85256e7655881" parent="aspace_d0f735763c4fd4829c231018b9abf24d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref8" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1954/1955" type="inclusive">1954-1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_101a976558358783896f902dc170781d" label="Mixed Materials [31142062898526]" type="Box">1</container>
+            <container id="aspace_677f3472512885573b4a93cbce591a69" parent="aspace_101a976558358783896f902dc170781d" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref9" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1956/1957" type="inclusive">1956-1957</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9194819be1a2557037eb05446a22a928" label="Mixed Materials [31142062898526]" type="Box">1</container>
+            <container id="aspace_1c8dbfab696268d117e64f61ef4f7c64" parent="aspace_9194819be1a2557037eb05446a22a928" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref10" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1958/1959" type="inclusive">1958-1959</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_45e003a2b6436f58ee6f3bdb920a56bb" label="Mixed Materials [31142062898526]" type="Box">1</container>
+            <container id="aspace_674cb1d4c6a3db62035418c227deccb7" parent="aspace_45e003a2b6436f58ee6f3bdb920a56bb" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="file">
+          <did>
+            <unittitle>"The Dentist Says" by George Wood Clapp, DDS</unittitle>
+            <unitdate datechar="creation" normal="1938/1939" type="inclusive">1938-1939</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_a48674169e11bff3a3169cd4f2d4f043" label="Mixed Materials [31142062898526]" type="Box">1</container>
+            <container id="aspace_728e8530232675cf01803bfde93565db" parent="aspace_a48674169e11bff3a3169cd4f2d4f043" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1960/1961" type="inclusive">1960-1961</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_a8c5f5b04e356eec1c69e420a6b24012" label="Mixed Materials [31142062898534]" type="Box">2</container>
+            <container id="aspace_7fc6228313dfcabf7b0b4b6d9b60d4ba" parent="aspace_a8c5f5b04e356eec1c69e420a6b24012" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1962/1962" type="inclusive">1962</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_73b391eda1bc4b7f830fa7185298c12d" label="Mixed Materials [31142062898534]" type="Box">2</container>
+            <container id="aspace_5623466402c5c61d22fc504ae8ccd2ff" parent="aspace_73b391eda1bc4b7f830fa7185298c12d" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d68051cfda8a8658b9df8d1a02304488" label="Mixed Materials [31142062898534]" type="Box">2</container>
+            <container id="aspace_1e267287df6608c4239e82db91fb0ac4" parent="aspace_d68051cfda8a8658b9df8d1a02304488" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bafb00c8cdc7a23a0bfbaf6e03c52fc3" label="Mixed Materials [31142062898534]" type="Box">2</container>
+            <container id="aspace_9f02fdfbdf65efc41dd6d77ee2d4c780" parent="aspace_bafb00c8cdc7a23a0bfbaf6e03c52fc3" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1965/1965" type="inclusive">1965</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_3520cc3d13b22e2956000b4c3d8a4919" label="Mixed Materials [31142062898534]" type="Box">2</container>
+            <container id="aspace_aa53e74e02cf5d3b4e6071d0d537177c" parent="aspace_3520cc3d13b22e2956000b4c3d8a4919" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1966/1967" type="inclusive">1966-1967</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_501ea90def320b11febae687ef1593b0" label="Mixed Materials [31142062898534]" type="Box">2</container>
+            <container id="aspace_d9c76a9d817000ae9e1c4ecc4137255b" parent="aspace_501ea90def320b11febae687ef1593b0" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1968/1969" type="inclusive">1968-1969</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_f6b07ddc63ae2e0a08cca3a69a76c579" label="Mixed Materials [31142062898534]" type="Box">2</container>
+            <container id="aspace_36fce245e6d968d2081ca9a9e89243c5" parent="aspace_f6b07ddc63ae2e0a08cca3a69a76c579" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1970/1970" type="inclusive">1970</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_eb2f5cf0d2ed46f6e303faad6a29ceee" label="Mixed Materials [31142062897056]" type="Box">3</container>
+            <container id="aspace_3cb9e022df0ab6d7146cdb718fbceddc" parent="aspace_eb2f5cf0d2ed46f6e303faad6a29ceee" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1971/1971" type="inclusive">1971</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_ccac6417746af5a69ff4accd4a041233" label="Mixed Materials [31142062897056]" type="Box">3</container>
+            <container id="aspace_b6cb11c87c1619a749f540fe174c17d3" parent="aspace_ccac6417746af5a69ff4accd4a041233" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_1df9af7f9a0674e5a97b22f04cda55e4" label="Mixed Materials [31142062897056]" type="Box">3</container>
+            <container id="aspace_ba87ac8fa97cbfde440af921707f852c" parent="aspace_1df9af7f9a0674e5a97b22f04cda55e4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1974/1975" type="inclusive">1974-1975</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_521bd2a6838d55fa8ed1fd9227af48a2" label="Mixed Materials [31142062897056]" type="Box">3</container>
+            <container id="aspace_3ab1b755dd4818190955699c376b0ec5" parent="aspace_521bd2a6838d55fa8ed1fd9227af48a2" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1976/1977" type="inclusive">1976-1977</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b37e7a7068e0f3a162bb8fb93d5dcead" label="Mixed Materials [31142062897056]" type="Box">3</container>
+            <container id="aspace_7ffc9e71df95e45fb6fb119035e8e90f" parent="aspace_b37e7a7068e0f3a162bb8fb93d5dcead" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation" normal="1978/1979" type="inclusive">1978-1979</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4e1f84dcc261d89f4fe4b93ff51c012f" label="Mixed Materials [31142062897056]" type="Box">3</container>
+            <container id="aspace_81d067a9276d1e768e10926742dd6efb" parent="aspace_4e1f84dcc261d89f4fe4b93ff51c012f" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_67a3a9f34dc4816bb4c4f027b1fbaf76" label="Mixed Materials [31142062897056]" type="Box">3</container>
+            <container id="aspace_1040657bcf0fc39aa8787552553555cd" parent="aspace_67a3a9f34dc4816bb4c4f027b1fbaf76" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_6e0dd06a8cecec5aedefd7b96f67cc7f" label="Mixed Materials [31142062897056]" type="Box">3</container>
+            <container id="aspace_7c9543ffd33639166f0b836404db0da1" parent="aspace_6e0dd06a8cecec5aedefd7b96f67cc7f" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Correspondence, Teaching Materials and Conference Materials</unittitle>
+            <unitdate datechar="creation">Undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_306587dac1d27ba99c417dffcf379f05" label="Mixed Materials [31142062897056]" type="Box">3</container>
+            <container id="aspace_2ffecc380e10e0a1282d65c31e30da7c" parent="aspace_306587dac1d27ba99c417dffcf379f05" type="Folder">9</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

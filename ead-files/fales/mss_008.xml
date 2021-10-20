@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="unverified-full-draft" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NNU-F">mss_008</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the C: A Journal of Poetry Archive <lb/><date calendar="gregorian" era="ce">ca. 1955-1966 (Bulk 1964-1966).</date><lb/> <num>MSS.008</num></titleproper>
+        <author>Tania Friedel, 1999.</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from "c,ajournalofpoetry.html"</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>Fales Library and Special Collections</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 21:27:41 -0400</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>Fales Library and Special Collections</corpname>
+      </repository>
+      <unittitle><title render="italic">C: A Journal of Poetry</title> Archive</unittitle>
+      <origination label="Creator">
+        <corpname source="local">C: A Journal of Poetry</corpname>
+      </origination>
+      <unitid>MSS.008</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">0.5 Linear Feet</extent>
+        <extent altrender="carrier">in one manuscript box.</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1955/1966" type="inclusive">ca. 1955-1966 (Bulk 1964-1966)</unitdate>
+      <unitdate datechar="creation" normal="1964/1966" type="bulk">1964-1966</unitdate>
+      <abstract id="aspace_db359e68743ba889985880ef08abfca8">The <title render="italic">C: A Journal of Poetry</title> Archive is a collection of correspondence and manuscripts submitted to the editor, Ted Berrigan. The collection also includes issues of C: A Journal of Poetry.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <accessrestrict id="aspace_cfeb0c0a788668b12bc8b39f539bfaa7">
+      <head>Access Restrictions</head>
+      <p>Materials are open to researchers. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </accessrestrict>
+    <prefercite id="aspace_6042db74387102e9276c6f6a299ff14c">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: <lb/><lb/>Identification of item, date (if known); <lb/>The <title render="italic">C: A Journal of Poetry</title>Archive; MSS 8; [Box number]; [Folder number]; Fales Library and Special Collections, New York University Libraries.</p>
+    </prefercite>
+    <scopecontent id="aspace_93fdc889aa1ecb66c0110b66d9adfe32">
+      <head>Scope and Content Note</head>
+      <p>The <title render="italic">C: A Journal of Poetry</title> Archive contains correspondence and manuscripts submitted to the editor, Ted Berrigan. Collection highlights include correspondence and manuscripts written by John Ashbery, Marianne Moore, and James Schuyler. The collection also includes issues of the magazine.</p>
+    </scopecontent>
+    <arrangement id="aspace_4e0078857f8f688e5e4d8700878fe9d4">
+      <head>Arrangement</head>
+      <p>The <title render="italic">C: A Journal of Poetry</title>Archive is arranged alphabetically. Published materials in the collection such as issues of the magazine and comics are arranged chronologically.</p>
+      <list numeration="arabic" type="ordered">
+        <head>Missing Title</head>
+        <item>Series I: Correspondence, Manuscripts, Covers, and Publications</item>
+        <item>Series II: Comics</item>
+      </list>
+    </arrangement>
+    <separatedmaterial id="aspace_67a4e078e737597b1640643cd4f98d61">
+      <head>Separated Material</head>
+      <p>There is no information about materials that are associated by provenance to the described materials that have been physically separated or removed.</p>
+    </separatedmaterial>
+    <userestrict id="aspace_29ddd5ee291b41006513b047105a4343">
+      <head>Use Restrictions</head>
+      <p>Copyright (or related rights to publicity and privacy) for materials in this collection was not transferred to New York University. Permission to use materials must be secured from the copyright holder. Please contact the Fales Library and Special Collections, fales.library@nyu.edu, 212-998-2596.</p>
+    </userestrict>
+    <controlaccess>
+      <subject source="lcsh">American poetry -- 20th century.</subject>
+      <genreform source="aat">Correspondence.</genreform>
+      <genreform source="aat">Cover Art.</genreform>
+      <genreform source="aat">Postcards.</genreform>
+      <subject source="lcsh">Small presses -- New York (State) -- New York.</subject>
+      <subject source="lcsh">Poets, American -- 20th century.</subject>
+      <subject source="lcsh">Authors, American -- 20th century.</subject>
+      <subject source="lcsh">Avant-garde (Aesthetics)</subject>
+      <subject source="lcsh">Art, Modern |y 20th century |v Periodicals.</subject>
+      <geogname source="lcsh">New York (N.Y.) -- Intellectual life -- 20th century.</geogname>
+      <subject source="lcsh">Literature, Experimental |x Periodicals.</subject>
+      <genreform source="aat">Manuscripts for publication.</genreform>
+      <persname source="naf">Ashbery, John, 1927-</persname>
+      <persname source="naf">Berrigan, Ted</persname>
+      <persname source="naf">Koch, Kenneth, 1925-2002</persname>
+      <persname source="naf">Guest, Barbara</persname>
+      <persname source="naf">Saroyan, William, 1908-1981</persname>
+      <persname source="naf">Moore, Marianne, 1887-1972</persname>
+      <persname source="naf">Whalen, Philip</persname>
+      <persname source="naf">Schuyler, James</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref9" level="series">
+        <did>
+          <unittitle>Series I: Correspondence, Manuscripts, Covers, and Publications</unittitle>
+        </did>
+        <scopecontent id="aspace_d176b95418d9fb5892c813fc20aad2bd">
+          <head>Scope and Contents note</head>
+          <p>The <title render="italic">C: A Journal of Poetry</title>Archive is a collection of correspondence and manuscripts submitted to the editor, Ted Berrigan. Collection highlights include letters and manuscripts written by John Ashbery, Marianne Moore, James Schuyler and William Saroyan.</p>
+        </scopecontent>
+        <c id="aspace_ref10" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence and manuscripts - "A-L" including materials by John Ashbery, Barbara Guest, Kenneth Koch, and Joseph Le Sueur.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b2496b0537091908df50a4b58e656827" label="Mixed Materials [31142054862969]" type="Box">1</container>
+            <container id="aspace_9ef418feac651c46e4121efa90837ab4" parent="aspace_b2496b0537091908df50a4b58e656827" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref11" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence and manuscripts - Marianne Moore.</unittitle>
+            <unitdate datechar="creation">1964</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2ed1f244f7ea44572a82aa099ed034aa" label="Mixed Materials [31142054862969]" type="Box">1</container>
+            <container id="aspace_16f76f75a6075c4a8167bb8cfe04685d" parent="aspace_2ed1f244f7ea44572a82aa099ed034aa" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref12" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence and manuscripts - William Saroyan.</unittitle>
+            <unitdate datechar="creation">1965</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2479900d6cdb2826cab9bea031c73e88" label="Mixed Materials [31142054862969]" type="Box">1</container>
+            <container id="aspace_e6b36993617381f36216f75d1e209bf2" parent="aspace_2479900d6cdb2826cab9bea031c73e88" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref13" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence and manuscripts - James Schuyler.</unittitle>
+            <unitdate datechar="creation">undated; 1955</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_824c3a372dab3cd1368f9b33f84289e1" label="Mixed Materials [31142054862969]" type="Box">1</container>
+            <container id="aspace_1ada339448f90d110b39706bda83492f" parent="aspace_824c3a372dab3cd1368f9b33f84289e1" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref14" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Correspondence and manuscripts - Philip Whalen.</unittitle>
+            <unitdate datechar="creation">1965</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d57663ec7edab1d88a217715df269d59" label="Mixed Materials [31142054862969]" type="Box">1</container>
+            <container id="aspace_feee37c2255a4cde0d7736e299f19ba9" parent="aspace_d57663ec7edab1d88a217715df269d59" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref15" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Covers, also contains an article on Joe Brainard's art.</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c7981dc8ace704ef39847284a8fa4488" label="Mixed Materials [31142054862969]" type="Box">1</container>
+            <container id="aspace_d7fa238158dbbc99bf16e4871d917fb7" parent="aspace_c7981dc8ace704ef39847284a8fa4488" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref16" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Volume 1, Number 7</unittitle>
+            <unitdate datechar="creation">[February 1964]</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_c9ebd7c04ecbc7c805b0fb3b9643dde5" label="Mixed Materials [31142054862969]" type="Box">1</container>
+            <container id="aspace_e12e3546cb8ea1c02e3e1bf754689053" parent="aspace_c9ebd7c04ecbc7c805b0fb3b9643dde5" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Volume 1, Number 9</unittitle>
+            <unitdate datechar="creation">[Summer 1964]</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_77dd076f0c11b86294f6fbca6c4c251b" label="Mixed Materials [31142054862969]" type="Box">1</container>
+            <container id="aspace_62138fbf4f7458be303340f23a4d682d" parent="aspace_77dd076f0c11b86294f6fbca6c4c251b" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Volume 1, Number 10</unittitle>
+            <unitdate datechar="creation">[February 1965]</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ac1f5c97f0cb66b6b095ee806a5914d3" label="Mixed Materials [31142054862969]" type="Box">1</container>
+            <container id="aspace_41120795b4a9ca9e0e8b30849068451c" parent="aspace_ac1f5c97f0cb66b6b095ee806a5914d3" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Volume 2, Number 11</unittitle>
+            <unitdate datechar="creation">[Summer 1965]</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fecf5ea69c713e8afbe5457120762d92" label="Mixed Materials [31142054862969]" type="Box">1</container>
+            <container id="aspace_2ed120c5a7e1b94cb83e33ad02e26521" parent="aspace_fecf5ea69c713e8afbe5457120762d92" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>Volume 2, Number 13</unittitle>
+            <unitdate datechar="creation">[May 1966]</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b201148f9c593459d123e75acad62f52" label="Mixed Materials [31142054862969]" type="Box">1</container>
+            <container id="aspace_752a2aff6af13ca03d222c56acc4281c" parent="aspace_b201148f9c593459d123e75acad62f52" type="Folder">11</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref22" level="series">
+        <did>
+          <unittitle>Series II: Comics</unittitle>
+        </did>
+        <scopecontent id="aspace_0beef14c71b5dddc27f12ff9f525bf37">
+          <head>Scope and Contents note</head>
+          <p>Consists of one folder containing 2 issues of a comic book put out by many of the same people who contributed to C: A Journal of Poetry.</p>
+        </scopecontent>
+        <c id="aspace_ref23" level="otherlevel" otherlevel="unspecified">
+          <did>
+            <unittitle>C: Comics, Nos. 1 and 2</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9a1ac305c6b499947a62e9dd2cb13a61" label="Mixed Materials [31142054862969]" type="Box">1</container>
+            <container id="aspace_33182dfa5727a3b68d7acb1dffc9e3f6" parent="aspace_9a1ac305c6b499947a62e9dd2cb13a61" type="Folder">12</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

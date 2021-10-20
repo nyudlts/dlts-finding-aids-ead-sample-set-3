@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/townhall">rg_37_25</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Records of Town Hall <num>RG.37.25</num></titleproper>
+        <author>Katie Ehrlich.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+        <p>
+          <date>2010</date>
+        </p>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 19:55:58 -0400</date>.</creation>
+      <langusage>Description is in <language>English</language>.</langusage>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>July 2017</date>
+        <item>Portraits of founders added to Series VI by John Zarrillo</item>
+      </change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Records of Town Hall</unittitle>
+      <origination label="Creator">
+        <corpname source="naf">League for Political Education (U.S.)</corpname>
+      </origination>
+      <origination label="Creator">
+        <corpname source="naf">Town Hall, Inc</corpname>
+      </origination>
+      <unitid>RG.37.25</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">21 boxes</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1841/1985" type="inclusive">circa 1846-1985</unitdate>
+      <unitdate datechar="creation" normal="1930/1978" type="bulk">1930-1978</unitdate>
+      <abstract id="aspace_35fc802df43c4258eebe31caf645a4ee">The Town Hall, a musical venue in New York City, has its roots in late 19th century political activism. Founded as the League for Political Education, the Town Hall served primarily as a forum for political speakers in the early 20th century before shifting focus to performance midcentury. It merged with NYU in 1958 and remained under the university's control until 1978. Its records contain administrative and legal files, photographs, event programs and publications including newsletters and volumes dedicated to prominent individuals. Outside publications related to the League for Political Education's founders are included as are documents relating to the merger with NYU.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <separatedmaterial id="aspace_6218485cf516fd56736bf225dff17f1b">
+      <head>Separated Materials note</head>
+      <p>Photographs of Town Hall have been removed to New York University Archives' photo collection under Non-NYU Subjects.</p>
+    </separatedmaterial>
+    <userestrict id="aspace_c717a10c4eb086b33fe2a1f4a86ff13d">
+      <head>Conditions Governing Use</head>
+      <p>Permission to publish materials must be obtained in writing from the:</p>
+      <p>New York University Archives</p>
+      <p>Elmer Holmes Bobst Library</p>
+      <p>70 Washington Square South</p>
+      <p>New York, NY 10012</p>
+      <p>Phone: (212) 998-2646</p>
+      <p>Fax: (212) 995-4225</p>
+      <p>E-mail: university-archives@nyu.edu</p>
+    </userestrict>
+    <accessrestrict id="aspace_4affd5e68a0d337c44b70d0829eff558">
+      <head>Conditions Governing Access</head>
+      <p>Certain items in this collection are fragile and may require special handling or intervention from archives staff.</p>
+      <p>Contact the University Archives for specific access restrictions. </p>
+      <p>Institutional records of New York University are closed for a period of 20 years from the date of their creation (the date on which each document was written). Board of Trustees records are similarly closed for 35 years from the date of creation.  The opening date for files spanning several years will be 20 years from the most recent date. Access will be given to material already 20 years old contained within a collection that is not yet open when such material can be isolated from the rest of the collection.</p>
+      <p>Materials related to personnel, faculty grievances, job searches and all files with information that falls under the University's Family Educational Rights and Privacy Act (FERPA) policy are permanently restricted.</p>
+    </accessrestrict>
+    <scopecontent id="aspace_088f1aec32d914671de93b16b08dddb8">
+      <head>Scope and Contents note</head>
+      <p>The administrative series in this collection contains files on Town Hall's buildings as well as some budget and fundraising material. The collection includes legal correspondence and papers such certificates of occupancy, trademark, mortgage and tax documents. A variety of programs from more than 70 years of lectures and performances held at Town Hall are included in this collection. It also contains photographs of Town Hall performers and early members, and clippings and internally produced materials related to the history of the organization. The Town Hall disseminated several publications including a newsletter, <title render="italic">The Town Crier</title>; <title render="italic">Enduring Names</title>, biographies of notable individuals who had endowed lecture series at Town Hall; and other promotional publications. Issues of these publications can be found in the collection. Correspondence from Town Hall Director Lawrence Zucker from 1981 to 1985, audio reels of lectures, and bound biographies of League of Political Education founders are included in the papers as well.</p>
+      <p>The collection also includes four scrapbooks. Two contain materials related to the production of "America's Town Meeting of the Air," a political forum broadcasted from Town Hall for more than 20 years, the third is comprised of membership materials and the fourth contains League of Political Education material from the beginning of the 20th century.</p>
+      <p>Some materials relate to events, such as "America's Town Meeting of the Air." They also address topics including Town Hall's 1958 merger with NYU, the purchase of 123 West 43rd Street and the purchase and sale of the adjacent Town Hall Annex and construction projects. </p>
+      <p>Notes related to a 1978 survey of the collection that were found among the Town Hall papers have been included in this collection. They are in Series VIII - Related Materials.</p>
+    </scopecontent>
+    <prefercite id="aspace_a0fdc428d5c76a1993c9465dd1d5ca1e">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form:</p>
+      <p>Identification of item, date (if known); Records of Town Hall, 1900-1985; RG 37.25; box number; folder number; New York University Archives , New York University Libraries. </p>
+    </prefercite>
+    <arrangement id="aspace_0c4a1e9cd34ced43a33a2ec4606f1a23">
+      <head>Arrangement</head>
+      <p>This collection has been arranged into nine series:  Administrative files; Legal files; Publications; Programs; Clippings; Portraits/photographs; Audiovisual; Related materials; Oversize material. The Programs series has been divided into three subseries: Town Hall Opening; Lectures/courses; Performance.</p>
+      <p>Original order was maintained in the Administrative files and Legal files series. These series were extant when the University Archives received the collection and were largely kept intact.  Materials belonging in the other series were removed and placed within the appropriate series. The order of the files in these series was preserved from a previous arrangement. The seven other series were culled from the entirety of the collection and were derived from a reorganization of the material. </p>
+      <p>Programs and Clippings are arranged chronologically. Portraits/photographs are arranged alphabetically. </p>
+      <p>Original order was maintained in the Administrative files and Legal files series. These series were extant when the University Archives received the collection and were largely kept intact.  Materials belonging in the other series were removed and placed within the appropriate series. The order of the files in these series was preserved from a previous arrangement. The seven other series were culled from the entirety of the collection and were derived from a reorganization of the material. </p>
+      <p>Programs and clippings are arranged chronologically. Portraits/photographs are arranged alphabetically. </p>
+      <p>This collection has been arranged into nine series:  </p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>Series I: Administrative Files</item>
+        <item>Series II: Legal Files</item>
+        <item>Series III: Publications</item>
+        <item>Series IV: Programs</item>
+        <item>Series V: Clippings</item>
+        <item>Series VI: Portraits/Photographs</item>
+        <item>Series VII: Audiovisual</item>
+        <item>Series VIII: Related Materials</item>
+        <item>Series IX: Oversize Materials</item>
+      </list>
+      <p>The Programs series has been divided into three subseries: Town Hall Opening; Lectures/courses; Performance.</p>
+    </arrangement>
+    <bioghist id="aspace_67e95d1f4c151a100dbc874a349d64ea">
+      <head>Historical Note</head>
+      <p>The Town Hall Inc. was organized as the League for Political Education in 1894 by six prominent New York women after a suffrage measure was defeated in the New York State Legislature. The purpose of the league was to educate the public about the issue by holding educational programs and lectures. The events were held at small rented venues. The League for Political Education gave birth to offshoot groups such as the Economic Club and Civic Forum. In 1904 the League became incorporated and changed its name to the Board of Trustees of the League for Political Education.</p>
+      <p>The building of an auditorium for the League for Political Education began in 1919 as the organization outgrew its small venues and sought a permanent home. The structure, which also included office space, was designed by architecture firm McKim, Mead and White. It opened January 1921 at 123 W. 43rd Street. It was dubbed the Town Meeting Hall. </p>
+      <p>Soon after the doors opened to lecturers and audiences, it was realized the auditorium had exceptional acoustics. And so the Town Meeting Hall became a venue for musical performance as well as political expression. Independent groups such as the New York University Club also rented space from the organization.</p>
+      <p>In 1930 the League for Political Education purchased the adjacent the building at 125 W. 43rd Street for its Town Hall Annex for more space. It subsequently sold the building in 1959. The league began hosting and broadcasting its "America's Town Meeting of the Air" radio lecture series in 1935. The series ran until 1956 and provided a forum for political and cultural experts to discuss current events issues.</p>
+      <p>The organization changed its name to The Town Hall, Inc. in 1937 to reflect its expanding programming. In the late 1950s Town Hall experienced a decline. It merged with New York University in 1958 and came under the jurisdiction of the Division of General Education (now the School of Continuing Education) until 1978 when the university divested itself from the organization.</p>
+      <p>Town Hall remains primarily a musical venue focusing on jazz and arts education. </p>
+    </bioghist>
+    <odd id="aspace_64a3489dd257029d714c3b269649cdbf">
+      <head>Provenance</head>
+      <p>This collection was transferred by Dorothy Swanson, Head of Special Collections at Elmer Holmes Bobst Library.</p>
+    </odd>
+    <relatedmaterial id="aspace_02e5e722509cd3184f3e1d9ab27b51a8">
+      <head>Related Material at the New York University Archives</head>
+      <p>Archival material about Town Hall can also be found in Administrative Files of the Dean of the School of Education, Daniel E. Griffiths, RG 26.0.1.</p>
+    </relatedmaterial>
+    <controlaccess>
+      <subject source="lcsh">Adult education.</subject>
+      <subject source="lcsh">America's town meeting of the air (Radio program).</subject>
+      <genreform source="aat">Architectural drawings (visual works)</genreform>
+      <genreform source="aat">Audiotapes.</genreform>
+      <subject source="lcsh">Auditoriums.</subject>
+      <genreform source="aat">Awards</genreform>
+      <genreform source="aat">Books.</genreform>
+      <genreform source="aat">Brochures.</genreform>
+      <genreform source="aat">Bylaws (administrative records)</genreform>
+      <genreform source="aat">Certificates of occupancy.</genreform>
+      <genreform source="aat">Clippings (information artifacts)</genreform>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Entertainers.</subject>
+      <subject source="lcsh">Lectures and lecturing.</subject>
+      <genreform source="aat">Legal documents.</genreform>
+      <subject source="lcsh">Music-halls.</subject>
+      <subject source="lcsh">Musical performance.</subject>
+      <genreform source="aat">Newsletters.</genreform>
+      <genreform source="aat">Pamphlets.</genreform>
+      <subject source="lcsh">Political activists.</subject>
+      <subject source="lcsh">Radio addresses, debates, etc.</subject>
+      <genreform source="aat">Registers (lists).</genreform>
+      <genreform source="aat">Scrapbooks.</genreform>
+      <genreform source="aat">Stats (copies).</genreform>
+      <subject source="lcsh">Women political activists.</subject>
+      <genreform source="aat">Photographs.</genreform>
+      <genreform source="aat">Budgets.</genreform>
+      <persname source="naf">Baldwin, James, 1924-1987</persname>
+      <persname source="naf">Fielde, Adele M. (Adele Marion)</persname>
+      <persname source="naf">Gregory, Dick</persname>
+      <persname source="naf">Hatfield, Mark O., 1922-</persname>
+      <persname source="naf">Jacobi, Mary Putnam, 1842-1906</persname>
+      <corpname source="naf">League for Political Education (U.S.)</corpname>
+      <persname source="naf">Nader, Ralph</persname>
+      <corpname source="naf">New York University. Division of General Education</corpname>
+      <corpname source="naf">New York University. School of Continuing Education</corpname>
+      <corpname source="naf">Town Hall, Inc</corpname>
+      <persname source="naf">Voznesenskii, Andrei, 1933-2010</persname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref1" level="series">
+        <did>
+          <unittitle>Series I - Administrative Files</unittitle>
+          <unitdate datechar="creation" normal="1913/1985" type="inclusive">1913-1985</unitdate>
+          <unitdate datechar="creation" normal="1951/1977" type="bulk">1951-1977</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_2af9e8bca9cc9d042cab45cb2e90e13e">
+          <head>Scope and Contents note</head>
+          <p>The folders in this series are in keeping with the original order established by a prior arrangement. Their contents were left largely intact as well. Items were removed and placed in other series once the other series were established.</p>
+        </scopecontent>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Annex, Purchase and Administration of</unittitle>
+            <unitdate datechar="creation">1929-59</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_b283587523295d31f7d587ea97ed9cda" label="Mixed Materials [31142063054707]" type="Box">1</container>
+            <container id="aspace_cd29caf6351c338574350404a56e6e1f" parent="aspace_b283587523295d31f7d587ea97ed9cda" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Appraisal</unittitle>
+            <unitdate datechar="creation">1951-1957</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_84fd1301f90691674ada4793d592f756" label="Mixed Materials [31142063054707]" type="Box">1</container>
+            <container id="aspace_764d86ad80cf12183254870364645dd2" parent="aspace_84fd1301f90691674ada4793d592f756" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Board of Trustees</unittitle>
+            <unitdate datechar="creation">1951-1967</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_c0b78800f59d9cb21247d89b8fd52b52" label="Mixed Materials [31142063054707]" type="Box">1</container>
+            <container id="aspace_4c0514685ed0e63e57b9d575834f5e27" parent="aspace_c0b78800f59d9cb21247d89b8fd52b52" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Budget and Expense Reports</unittitle>
+            <unitdate datechar="creation">1956-1978</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_2424a0527b3a2409d7738b074b16bd60" label="Mixed Materials [31142063054707]" type="Box">1</container>
+            <container id="aspace_372392842d4e544c0e34ea383a9be941" parent="aspace_2424a0527b3a2409d7738b074b16bd60" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Building Files: Building plans and proposed renovations</unittitle>
+            <unitdate datechar="creation">1913-1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_96c155d6745dfada04260a0d6bd9c17f" label="Mixed Materials [31142063054707]" type="Box">1</container>
+            <container id="aspace_b823abeb5bd0bfc6a36a7333d6537c49" parent="aspace_96c155d6745dfada04260a0d6bd9c17f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Corporations and Business - Prospect Evaluation List of Prospects</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_5a46f775c6136c0a0d01d19b63e39375" label="Mixed Materials [31142063054707]" type="Box">1</container>
+            <container id="aspace_3e32bc43afa1b751d699acbfbbef5856" parent="aspace_5a46f775c6136c0a0d01d19b63e39375" type="file">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Correspondence: Director Larry Zucker - Fireguard</unittitle>
+            <unitdate datechar="creation">1981-1982</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_e23da8146f27dcc890d51340e030e46d" label="Mixed Materials [31142063054707]" type="Box">1</container>
+            <container id="aspace_ebe5fc6a249a657e6f6bfd593e338106" parent="aspace_e23da8146f27dcc890d51340e030e46d" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Correspondence: Director Larry Zucker - Pieper New York-Multistate Bar Review, Ltd.</unittitle>
+            <unitdate datechar="creation">1981-1983</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_452d48efd3eba991c4f0557497872a93" label="Mixed Materials [31142063054707]" type="Box">1</container>
+            <container id="aspace_3085fd1ca3d70e4660e163a0d4186b3e" parent="aspace_452d48efd3eba991c4f0557497872a93" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Correspondence: Director Larry Zucker - International Paper Company</unittitle>
+            <unitdate datechar="creation">1984-1985</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_2633d27dfb61fe303ded7cfe213da1c7" label="Mixed Materials [31142063054707]" type="Box">1</container>
+            <container id="aspace_06e2ac1f6e3437f87914e5293798b518" parent="aspace_2633d27dfb61fe303ded7cfe213da1c7" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Correspondence: Director Larry Zucker - Misc.</unittitle>
+            <unitdate datechar="creation">1982-1985</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_1935d57476dc7d2f4923cfd41eee9ac8" label="Mixed Materials [31142063054707]" type="Box">1</container>
+            <container id="aspace_28283ecd9286fafebd9c05fbb3fe087a" parent="aspace_1935d57476dc7d2f4923cfd41eee9ac8" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Fundraising reports and promotional material</unittitle>
+            <unitdate datechar="creation">1924-1977</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_4aa49b1307a729fc62a6dfd3632357d7" label="Mixed Materials [31142063054707]" type="Box">1</container>
+            <container id="aspace_e48a79487acb5d07053e68cc5a1edf74" parent="aspace_4aa49b1307a729fc62a6dfd3632357d7" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>History of Town Hall</unittitle>
+            <unitdate datechar="creation">1919-1975</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_2fe73a5ac86fc5d9fce0fd193b02faff" label="Mixed Materials [31142063054707]" type="Box">1</container>
+            <container id="aspace_989249a15aa2a1d7bad43662fd3a7f28" parent="aspace_2fe73a5ac86fc5d9fce0fd193b02faff" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>New York Public Library (Disposition of Records)</unittitle>
+            <unitdate datechar="creation">1957-1961</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_2cb8cd01051304590d6321269830baf7" label="Mixed Materials [31142063054707]" type="Box">1</container>
+            <container id="aspace_6fcf012574da36f7d96369bb753d91a8" parent="aspace_2cb8cd01051304590d6321269830baf7" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Survey, Analysis and Plan of Fund-Raising for the League for Political Education</unittitle>
+            <unitdate datechar="creation">1937</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_c7d1e3e09d1de759646909b92be96064" label="Mixed Materials [31142063054707]" type="Box">1</container>
+            <container id="aspace_f17880848fd5d86381b33d99ec0cf758" parent="aspace_c7d1e3e09d1de759646909b92be96064" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Events: America's Town Meeting of the Air</unittitle>
+            <unitdate datechar="creation">1943-1976</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_e4088ff4663557f050b94a886300ea61" label="Mixed Materials [31142063054715]" type="Box">2</container>
+            <container id="aspace_1720fb84e868adcd307ee4d91dcaece6" parent="aspace_e4088ff4663557f050b94a886300ea61" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Events: Preview at Town Hall</unittitle>
+            <unitdate datechar="creation">1963</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_1283e711e0c9562326826ea96a48d9bf" label="Mixed Materials [31142063054715]" type="Box">2</container>
+            <container id="aspace_45b91b747a92e8f81d84068bae533db4" parent="aspace_1283e711e0c9562326826ea96a48d9bf" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Events: The University Awards</unittitle>
+            <unitdate datechar="creation">1956-1961</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_e4e058187aa9fda667c6a325f21fecda" label="Mixed Materials [31142063054715]" type="Box">2</container>
+            <container id="aspace_9a806df405e09cecdc91c29cf536c54e" parent="aspace_e4e058187aa9fda667c6a325f21fecda" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Events: Misc.</unittitle>
+            <unitdate datechar="creation">1971, 1977, undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_ef520beca2437edff619509a201042bd" label="Mixed Materials [31142063054715]" type="Box">2</container>
+            <container id="aspace_d2fae101864879eae71d07d122da011f" parent="aspace_ef520beca2437edff619509a201042bd" type="Folder">4</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref2" level="series">
+        <did>
+          <unittitle>Series II - Legal Files</unittitle>
+          <unitdate datechar="creation">1904-1964</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_3f5b5a3ae21835277ea08148066742d6">
+          <head>Scope and Contents note</head>
+          <p>The folders in this series were maintained from a previous arrangement.</p>
+        </scopecontent>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Sale of Town Hall Annex</unittitle>
+            <unitdate datechar="creation">1956-1957</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_95fc86895e96a19cbcd200e86f8cc378" label="Mixed Materials [31142063054715]" type="Box">2</container>
+            <container id="aspace_33c438259f8f97ca6354ba20ab82f408" parent="aspace_95fc86895e96a19cbcd200e86f8cc378" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Cadwater, Wickersham &amp; Taft (attorneys)</unittitle>
+            <unitdate datechar="creation">1949</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_8f4ac9491ef446197f255010e4110883" label="Mixed Materials [31142063054715]" type="Box">2</container>
+            <container id="aspace_53e11fd5a2071b8fb235128d7de314f7" parent="aspace_8f4ac9491ef446197f255010e4110883" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Certificate of Incorporation and Bylaws of League for Political Education</unittitle>
+            <unitdate datechar="creation">1904</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_517a85a9b2439b428691c0e983601605" label="Mixed Materials [31142063054715]" type="Box">2</container>
+            <container id="aspace_8cfeef8e924223b49cf3f7cff50cd4bb" parent="aspace_517a85a9b2439b428691c0e983601605" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Certificate of Incorporation and Bylaws of Town Hall</unittitle>
+            <unitdate datechar="creation">1955</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_2d5994410b501913c18f5312003e2276" label="Mixed Materials [31142063054715]" type="Box">2</container>
+            <container id="aspace_92c1c21d7a65eeee66139b799b439e50" parent="aspace_2d5994410b501913c18f5312003e2276" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Nordlinger, Riegelman, Benetar &amp; Charney (attorneys)</unittitle>
+            <unitdate datechar="creation">1950-1953</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_c8472663e4a22dbca1e0ca8e04075ad8" label="Mixed Materials [31142063054715]" type="Box">2</container>
+            <container id="aspace_3be86a7bfd966823f21df286aad510f5" parent="aspace_c8472663e4a22dbca1e0ca8e04075ad8" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Mortgage (2nd)</unittitle>
+            <unitdate datechar="creation">1930-1939</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_d2602e91255ccccc46cb8131d7a89a65" label="Mixed Materials [31142063054715]" type="Box">2</container>
+            <container id="aspace_d6f8d776336678ca985645d7c42ebdde" parent="aspace_d2602e91255ccccc46cb8131d7a89a65" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Ownership of Town Hall (Certificate of Occupancy)</unittitle>
+            <unitdate datechar="creation">1925</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_1832046e1924cb9339d78d66162ae768" label="Mixed Materials [31142063054715]" type="Box">2</container>
+            <container id="aspace_4ef84ca13ea50b7d833443ec1dbe5cd2" parent="aspace_1832046e1924cb9339d78d66162ae768" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Consolidation and Merger with NYU</unittitle>
+            <unitdate datechar="creation">1956-1964</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_5eabb251d3824bcbd396b9dda8664f77" label="Mixed Materials [31142063054715]" type="Box">2</container>
+            <container id="aspace_233a0d57456b383121d4d07e0d853513" parent="aspace_5eabb251d3824bcbd396b9dda8664f77" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Tax Situation</unittitle>
+            <unitdate datechar="creation">1943-1958</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_7431f34763a721834e6d6fcc5d96af4f" label="Mixed Materials [31142063054715]" type="Box">2</container>
+            <container id="aspace_7b0062411c2fbaf7dfb7029fbf33d4dd" parent="aspace_7431f34763a721834e6d6fcc5d96af4f" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Trademarks</unittitle>
+            <unitdate datechar="creation">1946-1948</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_b6ea1b61c88e5d00c7c3d67bf56881c0" label="Mixed Materials [31142063054715]" type="Box">2</container>
+            <container id="aspace_626b0cbddca09085d1489596ee6e6222" parent="aspace_b6ea1b61c88e5d00c7c3d67bf56881c0" type="Folder">14</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref4" level="series">
+        <did>
+          <unittitle>Series III - Publications</unittitle>
+          <unitdate datechar="creation">1922-1954, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>America's Town Meeting of the Air</unittitle>
+            <unitdate datechar="creation">1950</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_c1d7347c2d0a154267bd0bee9345df00" label="Mixed Materials [31142063054723]" type="Box">3</container>
+            <container id="aspace_854e33e54690d80ecb90c40a76163661" parent="aspace_c1d7347c2d0a154267bd0bee9345df00" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Town Meeting: Bulletin of America's Town Meeting of the Air - Vol. IV nos. 1-13, 14-26</unittitle>
+            <unitdate datechar="creation">1938, 1939</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_d3f98bce0a1cf2e4f651a6e077efd484" label="Mixed Materials [31142063054723]" type="Box">3</container>
+            <container id="aspace_94df12045bbc073b12b03318783e33ac" parent="aspace_d3f98bce0a1cf2e4f651a6e077efd484" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Town Meeting: Bulletin of America's Town Meeting of the Air - Vol. V nos. 1-13, Vol. VI nos. 1-13,</unittitle>
+            <unitdate datechar="creation">1939, 1941</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_9d00e5c3d77f0cf0ea38f31eb6ac1cb8" label="Mixed Materials [31142063054723]" type="Box">3</container>
+            <container id="aspace_2a89c94ed648ac22582089800fda17ae" parent="aspace_9d00e5c3d77f0cf0ea38f31eb6ac1cb8" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Town Meeting: Bulletin of America's Town Meeting of the Air - Vol. IX nos. 26-51, Vol. XV nos. 1-26</unittitle>
+            <unitdate datechar="creation">1943, 1949</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_c600e09a1be483b322a4d75dbb0107b0" label="Mixed Materials [31142063054723]" type="Box">3</container>
+            <container id="aspace_e912745f6962b53f9508986d34c41f49" parent="aspace_c600e09a1be483b322a4d75dbb0107b0" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>The Town Crier (various issues)</unittitle>
+            <unitdate datechar="creation">1930-1936</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_3a5fff4acf5994b954547633bbdc39c5" label="Mixed Materials [31142063054731]" type="Box">4</container>
+            <container id="aspace_08c0809dd989410946cba7ef89987857" parent="aspace_3a5fff4acf5994b954547633bbdc39c5" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>The Town Hall (various publications)</unittitle>
+            <unitdate datechar="creation">1922, 1930, undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_ada775281e921b4e78459108a9ddf654" label="Mixed Materials [31142063054731]" type="Box">4</container>
+            <container id="aspace_cfb25b3f16be6dbf64787b4370216005" parent="aspace_ada775281e921b4e78459108a9ddf654" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation">1940, 1946, 1953, 1954, undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_3ebdb3b752b732824ef9206103803722" label="Mixed Materials [31142063054731]" type="Box">4</container>
+            <container id="aspace_722573e8f677a609a06a5195549aa7ab" parent="aspace_3ebdb3b752b732824ef9206103803722" type="Folder">3</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref5" level="series">
+        <did>
+          <unittitle>Series IV - Programs</unittitle>
+          <unitdate datechar="creation">1912-1986</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref15" level="subseries">
+          <did>
+            <unittitle>Subseries A. Town Hall Opening</unittitle>
+            <unitdate datechar="creation">1920-1924</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref19" level="file">
+            <did>
+              <unittitle>Programs related to opening of Town Hall</unittitle>
+              <unitdate datechar="creation">1920-1924</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_7d600121b62925680223d12882a4473c" label="Mixed Materials [31142063063674]" type="Box">5</container>
+              <container id="aspace_e6b5ac5ee919d975236a247700069034" parent="aspace_7d600121b62925680223d12882a4473c" type="Folder">1</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref11" level="subseries">
+          <did>
+            <unittitle>Subseries B. Lectures/Courses</unittitle>
+            <unitdate datechar="creation">1914-1974</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref21" level="file">
+            <did>
+              <unittitle>Lectures/Courses</unittitle>
+              <unitdate datechar="creation">1912-1974</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_fa24bd0200eaa3579e4a22d382b66446" label="Mixed Materials [31142063063674]" type="Box">5</container>
+              <container id="aspace_8e141ea57fec63a16714f23f6c33e943" parent="aspace_fa24bd0200eaa3579e4a22d382b66446" type="Folder">2</container>
+            </did>
+          </c>
+          <c id="aspace_ref22" level="file">
+            <did>
+              <unittitle>Undated programs</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_5ffe245c996b4050110a0632621e48a7" label="Mixed Materials [31142063063674]" type="Box">5</container>
+              <container id="aspace_ace6ad9fbfdd67f85940b1946d23a79b" parent="aspace_5ffe245c996b4050110a0632621e48a7" type="Folder">3</container>
+            </did>
+          </c>
+        </c>
+        <c id="aspace_ref12" level="subseries">
+          <did>
+            <unittitle>Subseries C. Performance</unittitle>
+            <unitdate datechar="creation">1938-1986</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+          </did>
+          <c id="aspace_ref23" level="file">
+            <did>
+              <unittitle>Performance programs</unittitle>
+              <unitdate datechar="creation">1938-1986</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_daf07e36bcbc6e621a6c66a0354edc23" label="Mixed Materials [31142063063674]" type="Box">5</container>
+              <container id="aspace_725dba807fe81f2192746272e2f95ba5" parent="aspace_daf07e36bcbc6e621a6c66a0354edc23" type="Folder">4</container>
+            </did>
+          </c>
+          <c id="aspace_ref24" level="file">
+            <did>
+              <unittitle>Undated programs</unittitle>
+              <unitdate datechar="creation">undated</unitdate>
+              <langmaterial><language langcode="eng">English</language>.</langmaterial>
+              <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_fedd7fdb563ab7fb7a1f8c4fe1bdbc35" label="Mixed Materials [31142063063674]" type="Box">5</container>
+              <container id="aspace_4a3ab76b020103f486acead46f0fd756" parent="aspace_fedd7fdb563ab7fb7a1f8c4fe1bdbc35" type="Folder">5</container>
+            </did>
+          </c>
+        </c>
+      </c>
+      <c id="aspace_ref7" level="series">
+        <did>
+          <unittitle>Series V - Clippings</unittitle>
+          <unitdate datechar="creation">circa 1920-1976</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_2068b40b5cb20970ef644da815f769fe">
+          <head>Scope and Contents note</head>
+          <p>This series consists of two folders with clippings about news events in 1963 in which Town Hall played a role: a riot outside Town Hall after students who traveled to Cuba spoke to an audience at the hall; the Birmingham, Alabama church bombing that killed four African-American girls, in response to which Town Hall held a fundraiser featuring James Baldwin.  The third folder is comprised of clippings that were located all over the collection.</p>
+        </scopecontent>
+        <c id="aspace_ref16" level="file">
+          <did>
+            <unittitle>Anti-Castro protest outside Town Hall</unittitle>
+            <unitdate datechar="creation">1963 September</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_6b4e36b37b01919482d108509ee229f7" label="Mixed Materials [31142063063674]" type="Box">5</container>
+            <container id="aspace_b8fdf8b26d31cc23eb35ebe7c3029cec" parent="aspace_6b4e36b37b01919482d108509ee229f7" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref17" level="file">
+          <did>
+            <unittitle>Birmingham, Alabama church bombing</unittitle>
+            <unitdate datechar="creation">1963 September</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_c5c09944d5b831f37058a45a887bc7ab" label="Mixed Materials [31142063063674]" type="Box">5</container>
+            <container id="aspace_15d12f748cd88f2ce02d43ac9188b087" parent="aspace_c5c09944d5b831f37058a45a887bc7ab" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Miscellaneous</unittitle>
+            <unitdate datechar="creation">circa 1920-1977, undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_3caa1c66a2a5d0edd0fd966ca5eeb69e" label="Mixed Materials [31142063063674]" type="Box">5</container>
+            <container id="aspace_016b69a4aaa71c19667a2e0f62d38762" parent="aspace_3caa1c66a2a5d0edd0fd966ca5eeb69e" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref14" level="series">
+        <did>
+          <unittitle>Series VI - Portraits/Photographs</unittitle>
+          <unitdate datechar="creation" normal="1841/1978" type="inclusive">circa 1846-1978</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_152280ccdc4f7527cf229043784d91d3">
+          <head>Scope and Contents note</head>
+          <p>Photographic portraits were gathered from among the entire collection. This series contains autographed portraits of singers, musicians and dancers who performed at Town Hall. It also includes portraits of the founders and early members of The League for Political Education, which would become The Town Hall in 1938. These include Dr. Mary Putnam Jacobi, Eleanor Butler Sanders, Lee Wood Haggin, Catherine A. B. Abbe, Lucia Gilbert Runkle, and Adele M. Fielde.</p>
+        </scopecontent>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Framed portraits</unittitle>
+            <unitdate datechar="creation">1940, undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_4f6b9ccd606fecca78b5916650452727" label="Mixed Materials [31142063054749]" type="Box">6</container>
+            <container id="aspace_70cfe9ccd4e0e0687d2b948ed5dac4be" parent="aspace_4f6b9ccd606fecca78b5916650452727" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Portraits A-E</unittitle>
+            <unitdate datechar="creation">approximately 1846, approximately 1856, 1969, 1978</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_5ecca08d997c607f55e3dbcc65c178c5" label="Mixed Materials [31142063054749]" type="Box">6</container>
+            <container id="aspace_d0114fa9d0ac4c5f13a7ed289b24acc9" parent="aspace_5ecca08d997c607f55e3dbcc65c178c5" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Portraits F-M</unittitle>
+            <unitdate datechar="creation">1911-1914, undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_1c2e1ddaa054ca6613f8261ba1ddeb02" label="Mixed Materials [31142063054749]" type="Box">6</container>
+            <container id="aspace_443da9194fd3ad23a3bad69a5330c45c" parent="aspace_1c2e1ddaa054ca6613f8261ba1ddeb02" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Portraits N-Z</unittitle>
+            <unitdate datechar="creation">1971-1972, undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_13c395a8419cc53a2d0a3c3bdc66ae02" label="Mixed Materials [31142063054749]" type="Box">6</container>
+            <container id="aspace_9a0af0df773699b769d6438545f08588" parent="aspace_13c395a8419cc53a2d0a3c3bdc66ae02" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Unidentified portraits</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_1e09a7eeb9ecffaac623670c8033956f" label="Mixed Materials [31142063054749]" type="Box">6</container>
+            <container id="aspace_699d49fcd4e3c4773797813e7db6a81e" parent="aspace_1e09a7eeb9ecffaac623670c8033956f" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_f9bc0f8cd57360514431e87eaf5c7bbe" level="file">
+          <did>
+            <unittitle>Founders portraits</unittitle>
+            <unitdate datechar="creation" normal="1890/1910" type="inclusive">circa 1900s</unitdate>
+            <container altrender="Manuscript box - Legal - Tall 12.5" id="aspace_cc8a85b3f5fbc1b2f77478e68f1f1ba0" label="Mixed Materials [31142063054749]" type="Box">6</container>
+            <container id="aspace_5a424c8c548ee61876489a87e6cf2f47" parent="aspace_cc8a85b3f5fbc1b2f77478e68f1f1ba0" type="Folder">6</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref9" level="series">
+        <did>
+          <unittitle>Series VII - Audiovisual</unittitle>
+          <unitdate datechar="creation">1971</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref68" level="item">
+          <did>
+            <unittitle>Dick Gregory - 1 of 3</unittitle>
+            <unitdate datechar="creation">1971 April 22</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_977434188628891605e73e75407f6156" label="Mixed Materials [31142063054764]" type="Box">7</container>
+            <container id="aspace_df8554d9de9d1555936ec2cc67d69723" parent="aspace_977434188628891605e73e75407f6156" type="reel">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="item">
+          <did>
+            <unittitle>Dick Gregory - 2 of 3</unittitle>
+            <unitdate datechar="creation">1971 April 22</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_7ad4eea21ef2b31167f2a8be201353d9" label="Mixed Materials [31142063054764]" type="Box">7</container>
+            <container id="aspace_23e4623a93c65f83bbe5b7ac566c1ec6" parent="aspace_7ad4eea21ef2b31167f2a8be201353d9" type="reel">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="item">
+          <did>
+            <unittitle>Dick Gregory - 3 of 3</unittitle>
+            <unitdate datechar="creation">1971 April 22</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_eb4c576c38447286684783d36e2e5d77" label="Mixed Materials [31142063054764]" type="Box">7</container>
+            <container id="aspace_0c6a527535e8c210e3e22ba4b8a7f1ec" parent="aspace_eb4c576c38447286684783d36e2e5d77" type="reel">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Ralph Nader - 1 of 1</unittitle>
+            <unitdate datechar="creation">1971 March 4</unitdate>
+            <physdesc id="aspace_9144fdce5cc4290cf494ac22ec34518a" label="Container Summary">Distinguished Speaker Series #1</physdesc>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_57abd8a2e779353e342766cf1f5e1b13" label="Mixed Materials [31142063054764]" type="Box">7</container>
+            <container id="aspace_18ae1acfe51aa2356f9929406a563426" parent="aspace_57abd8a2e779353e342766cf1f5e1b13" type="reel">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="item">
+          <did>
+            <unittitle>Andrei Voznesenskii, Soviet Poet - 1 of 4</unittitle>
+            <unitdate datechar="creation">1971 November 10</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_55e6e8cdc4d11b4ef4df853369fe5230" label="Mixed Materials [31142063054764]" type="Box">7</container>
+            <container id="aspace_40ff3a33b5fd9fa01df9fd583c67e6ee" parent="aspace_55e6e8cdc4d11b4ef4df853369fe5230" type="reel">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="item">
+          <did>
+            <unittitle>Andrei Voznesenskii, Soviet Poet - 2 of 4</unittitle>
+            <unitdate datechar="creation">1971 November 10</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_f68703e6a9c472a0e42e093369d4f944" label="Mixed Materials [31142063054764]" type="Box">7</container>
+            <container id="aspace_a72d9d92725d902b3875c42fc8a12733" parent="aspace_f68703e6a9c472a0e42e093369d4f944" type="reel">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Andrei Voznesenskii, Soviet Poet - 3 of 4</unittitle>
+            <unitdate datechar="creation">1971 November 10</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_8afe4715dde0bee790f89768bef85861" label="Mixed Materials [31142063054764]" type="Box">7</container>
+            <container id="aspace_07ce002237446e75bae0df71b3ceaa5c" parent="aspace_8afe4715dde0bee790f89768bef85861" type="reel">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Andrei Voznesenskii, Soviet Poet - 4 of 4</unittitle>
+            <unitdate datechar="creation">1971 November 10</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_75ce68a23beefb305d5970b48b03792e" label="Mixed Materials [31142063054764]" type="Box">7</container>
+            <container id="aspace_a31cd09720bad2d224a3ce4abd9e1c90" parent="aspace_75ce68a23beefb305d5970b48b03792e" type="reel">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="item">
+          <did>
+            <unittitle>Sen. Mark O. Hatfield</unittitle>
+            <unitdate datechar="creation">1971 May 11</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_f479df2a892786ab7fbe428daf4d7a61" label="Mixed Materials [31142063054764]" type="Box">7</container>
+            <container id="aspace_7a7eeb631f000049167eb8ef4c56ea47" parent="aspace_f479df2a892786ab7fbe428daf4d7a61" type="reel">9</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref10" level="series">
+        <did>
+          <unittitle>Series VIII - Related Materials</unittitle>
+          <unitdate datechar="creation">1916-1978</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref77" level="item">
+          <did>
+            <unittitle>Preliminary inventory of collection</unittitle>
+            <unitdate datechar="creation">1978</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_ad7c6f40e90c4563afdabd748a607633" label="Mixed Materials [31142063054756]" type="Box">8</container>
+            <container id="aspace_179f9a8f92d0adbbff697e4de9f6eb78" parent="aspace_ad7c6f40e90c4563afdabd748a607633" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="item">
+          <did>
+            <unittitle>Radio Guide award</unittitle>
+            <unitdate datechar="creation">1938</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_e6d2ff4e5e37aead0f753e034efb7153" label="Mixed Materials [31142063054756]" type="Box">8</container>
+            <container id="aspace_d5a1380e9e252ac48e27ba54db828b8c" parent="aspace_e6d2ff4e5e37aead0f753e034efb7153" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="item">
+          <did>
+            <unittitle>Elgin R. L. Gould: A Memorial</unittitle>
+            <unitdate datechar="creation">1916</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_703d1fe4174ebb1397b15f127c902e27" label="Mixed Materials [31142063054756]" type="Box">8</container>
+            <container id="aspace_b7bfd7476630110436c9043ebbaff234" parent="aspace_703d1fe4174ebb1397b15f127c902e27" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="item">
+          <did>
+            <unittitle>Memorial Biography of Adele M. Fielde (3 copies)</unittitle>
+            <unitdate datechar="creation">1918</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_35b95fbbe9bbdd58f72d99fdda58d459" label="Mixed Materials [31142063054756]" type="Box">8</container>
+            <container id="aspace_a70107a20ee62b57a5c30af8f0662f97" parent="aspace_35b95fbbe9bbdd58f72d99fdda58d459" type="Folder">4</container>
+          </did>
+          <odd id="aspace_6d037244bf577650b70f6b1cef4c9b1e">
+            <head>General note</head>
+            <p>The third copy of this book is in folder 5.</p>
+          </odd>
+        </c>
+        <c id="aspace_ref78" level="item">
+          <did>
+            <unittitle>Life and Letters of Mary Putnam Jacobi</unittitle>
+            <unitdate datechar="creation">1925</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Manuscript box - Legal" id="aspace_9c1cb5ab584b01f0fc7caf28c17e1b3f" label="Mixed Materials [31142063054756]" type="Box">8</container>
+            <container id="aspace_d47cc5e767e31307de08ffaf0bc474c3" parent="aspace_9c1cb5ab584b01f0fc7caf28c17e1b3f" type="Folder">5</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref8" level="series">
+        <did>
+          <unittitle>Series IX - Oversize Materials</unittitle>
+          <unitdate datechar="creation">1900-1904, 1931-1969, undated</unitdate>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <scopecontent id="aspace_438dcdd32d2b0a67fdc3c9bf2a98a99d">
+          <head>Scope and Contents note</head>
+          <p>This series contains 14 large bound books and scrapbooks. It includes seven volumes of Enduring Names, one of which is unnumbered.</p>
+        </scopecontent>
+        <c id="aspace_ref81" level="item">
+          <did>
+            <unittitle>Enduring Names</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat OS Box - 16.5" id="aspace_fd12a6ef54450f8802506c1d7e5ee629" label="Mixed Materials [31142063054772]" type="Box">9</container>
+            <container id="aspace_c0f636bd2c86d0b875c7e649f1a37dc5" parent="aspace_fd12a6ef54450f8802506c1d7e5ee629" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="item">
+          <did>
+            <unittitle>Enduring Names Volume 1</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat OS Box - 16.5" id="aspace_716d942986e01b95bb0d2db88a600eb3" label="Mixed Materials [31142063054780]" type="Box">10</container>
+            <container id="aspace_714efa968f1f29850e8302b0c8e05be2" parent="aspace_716d942986e01b95bb0d2db88a600eb3" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="item">
+          <did>
+            <unittitle>Enduring Names Volume 2</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat OS Box - 16.5" id="aspace_ce332a0c2a4b025274d79569404e585d" label="Mixed Materials [31142063054798]" type="Box">11</container>
+            <container id="aspace_a5fe105b88dfd2c5a80fef5bcbcff020" parent="aspace_ce332a0c2a4b025274d79569404e585d" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="item">
+          <did>
+            <unittitle>Enduring Names Volume 3</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat OS Box - 16.5" id="aspace_227f9daaf25ac37802b3923e29289731" label="Mixed Materials [31142063054806]" type="Box">12</container>
+            <container id="aspace_decd66261693b0b0311f3f2eea3f318f" parent="aspace_227f9daaf25ac37802b3923e29289731" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="item">
+          <did>
+            <unittitle>Enduring Names Volume 4</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat OS Box - 16.5" id="aspace_7ab02922b8b7afb8f352fb720b9dfb7f" label="Mixed Materials [31142063054814]" type="Box">13</container>
+            <container id="aspace_2c442a080a117cb861168b36ff0c07cd" parent="aspace_7ab02922b8b7afb8f352fb720b9dfb7f" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="item">
+          <did>
+            <unittitle>Enduring Names Volume 5</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat OS Box - 16.5" id="aspace_e8cfc5b6ae0ad76a100c2b6da7901613" label="Mixed Materials [31142063054822]" type="Box">14</container>
+            <container id="aspace_9e8b3e26279cfa4a314feea28e4707ec" parent="aspace_e8cfc5b6ae0ad76a100c2b6da7901613" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref87" level="item">
+          <did>
+            <unittitle>Enduring Names Volume 6</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat OS Box - 16.5" id="aspace_943dcf49089434db245b9d530297cc2a" label="Mixed Materials [31142063054830]" type="Box">15</container>
+            <container id="aspace_66356069f0c522aa7651a3826ba01754" parent="aspace_943dcf49089434db245b9d530297cc2a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref88" level="item">
+          <did>
+            <unittitle>New York University Club Visitors Register</unittitle>
+            <unitdate datechar="creation" normal="1958/1969" type="inclusive">1958-1969</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat OS Box - 16.5" id="aspace_e55902caf3a9cfefd9a513be25c2857e" label="Mixed Materials [31142063054871]" type="Box">16</container>
+            <container id="aspace_ef0184c0983c9b34e838427490a3e003" parent="aspace_e55902caf3a9cfefd9a513be25c2857e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="item">
+          <did>
+            <unittitle>Membership scrapbook</unittitle>
+            <unitdate datechar="creation">circa 1945-1946</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat Box - 12 x 16" id="aspace_ee901193e8973617f002108f2b9ec90a" label="Mixed Materials [31142063054947]" type="Box">17</container>
+            <container id="aspace_517284159333d9e89dc75414d37c7d4b" parent="aspace_ee901193e8973617f002108f2b9ec90a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="item">
+          <did>
+            <unittitle>America's Town Meeting of the Air scrapbook</unittitle>
+            <unitdate datechar="creation">circa 1937-1939</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="OS Flat Box - 11.75 x 17.75" id="aspace_b1c0001d1c32f27eaab9ea73421ff90a" label="Mixed Materials [31142063054889]" type="Box">18</container>
+            <container id="aspace_ba6fa1e9569f5d0ac5da4407715bdb06" parent="aspace_b1c0001d1c32f27eaab9ea73421ff90a" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="item">
+          <did>
+            <unittitle>America's Town Meeting of the Air scrapbook</unittitle>
+            <unitdate datechar="creation">circa 1945</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat OS Box - 16.5" id="aspace_a247eac57d9d27fa73e790282ed79ff9" label="Mixed Materials [31142063054848]" type="Box">19</container>
+            <container id="aspace_16cb623026a532ccb5114b508286b892" parent="aspace_a247eac57d9d27fa73e790282ed79ff9" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="item">
+          <did>
+            <unittitle>League for Political Education scrapbook </unittitle>
+            <unitdate datechar="creation">circa 1900-1904</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat Box - 12 x 16" id="aspace_30333aaab0bd80dff1ef830f1a63b6cd" label="Mixed Materials [31142063054897]" type="Box">20</container>
+            <container id="aspace_82e64b529e4e8c7b820ff0921af613aa" parent="aspace_30333aaab0bd80dff1ef830f1a63b6cd" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="item">
+          <did>
+            <unittitle>Crane Starkey and Allied Family Histories (2 copies)</unittitle>
+            <unitdate datechar="creation">1931</unitdate>
+            <langmaterial><language langcode="eng">English</language>.</langmaterial>
+            <container altrender="Flat Box - 12 x 16" id="aspace_5ee116a44a666fc63e9ddaa12c431e99" label="Mixed Materials [31142063069101]" type="Box">21</container>
+            <container id="aspace_30e5012f625fa61a24b7b4118cebda67" parent="aspace_5ee116a44a666fc63e9ddaa12c431e99" type="Folder">1</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

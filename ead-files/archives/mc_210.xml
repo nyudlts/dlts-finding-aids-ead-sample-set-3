@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/weinstein/">mc_210</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Jules Weinstein Papers  <num>MC.210</num></titleproper>
+        <author>Steve D'Avria.</author>
+      </titlestmt>
+      <editionstmt>
+        <p>This version was derived from an Excel spreadsheet.</p>
+      </editionstmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 19:55:49 -0400</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Jules Weinstein Papers</unittitle>
+      <origination label="Creator">
+        <persname rules="dacs" source="local">Weinstein, Jules</persname>
+      </origination>
+      <unitid>MC.210</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">1 Linear Feet</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1939/1954" type="inclusive">1939-1954</unitdate>
+      <unitdate datechar="creation" normal="1951/1952" type="bulk">1951-1952</unitdate>
+      <abstract id="aspace_c557c96710d88ad25f8f0080e2cfb0cd">The Jules Weinstein Papers include correspondence, published articles, and lecture notes by Dr. Jules Weinstein, whose academic and professional interests bridged the fields of dentistry and hypnosis.</abstract>
+      <langmaterial><language langcode="eng" scriptcode="Latn">English</language>
+.    </langmaterial>
+    </did>
+    <arrangement id="aspace_a8657bd79f984642c5dfac5a62933ffd">
+      <head>Arrangement</head>
+      <p>Archives staff preserved original order when arranging this collection; with a few exceptions, it is arranged chronologically. Materials were removed from their original binder and placed into file folders. </p>
+      <p>The files are grouped into a single series.</p>
+    </arrangement>
+    <scopecontent id="aspace_88ccb6c051b9053a99df54ce4b85044e">
+      <head>Scope and Contents</head>
+      <p>This collection contains various papers concerning Jules Weinstein's career between the years 1939 and 1954. Although it consists mostly of correspondence, it includes other materials as well, including journal articles and lecture notes. The two books included in this collection were not written solely by Weinstein, but they do include articles written by him and references to his work.</p>
+    </scopecontent>
+    <bioghist id="aspace_b224e8cad25238255be1c82f52cf6b02">
+      <head>Biography of Jules Weinstein</head>
+      <p>Jules Weinstein, D.D.S., graduated from the New York College of Dentistry (later the New York University College of Dentistry) in 1924. Motivated by his studies of hypnosis during the 1930s and a strong belief that hypnosis would help to improve the experience of dental patients, Weinstein attempted to establish a place for hypnosis in the daily practice of dentistry. He lectured at New York University in the early 1950s on the application of hypnosis to dentistry.</p>
+      <p>During his thirty-year career at Harlem Hospital, he served as a member of the N.Y.C. Dental Society (First District), the Society for Clinical and Experimental Hypnosis, and the New York Academy of Sciences, as well as an advisor and founding member of the American Hypnodontic Society.</p>
+      <p>He wrote several articles on hypnosis in Dental Concepts and the British Journal of Hypnosis in Medicine. Weinstein also contributed to the book Medical Hypnosis, edited by Dr. Jerome Schenck. Additionally, he taught a post-graduate course entitled "An Introduction to Hypnosis in Dentistry" at the Bronx County Dental Society.</p>
+      <p>Dr. Weinstein died on July 27, 1954, after devoting his life toward research in and advocacy for the practice of hypnosis in medicine and dentistry.</p>
+      <p>Following Dr. Weinstein's death, the American Hypnodontic Society established the Jules Weinstein Annual Award for Leadership in Medical Dental Hypnosis. The first recipient was Dr. Aaron Moss in 1961.</p>
+    </bioghist>
+    <prefercite id="aspace_b80a053f33049a77eca396bb9285888b">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: Identification of item, date (if known); Jules Weinstein Papers; MC 210; box number; folder number; New York University Archives, New York University Libraries.</p>
+    </prefercite>
+    <userestrict id="aspace_5516b6aa9cbfcd8b5a059e196178cbe8">
+      <head>Use Restrictions</head>
+      <p>Permission to publish materials must be obtained in writing from the:<lb/><address><addressline>New York University Archives<lb/> </addressline><addressline>Bobst Library<lb/> </addressline><addressline>70 Washington Square South<lb/> </addressline><addressline>New York, New York 10012<lb/> </addressline><addressline>Phone: 212.998.2641<lb/> </addressline><addressline>Fax: 212.995.4225<lb/> </addressline><addressline>E-mail: university-archives@nyu.edu<lb/> </addressline></address></p>
+    </userestrict>
+    <accessrestrict id="aspace_c4be71113d931e4b6e781cea2a7778f6">
+      <head>Access Restrictions</head>
+      <p>Open for research without restrictions.</p>
+    </accessrestrict>
+    <custodhist id="aspace_a58125104b4f0f644146a85df8182fd0">
+      <head>Provenance</head>
+      <p>The collection was donated to New York University by Dr. Weinstein's granddaughter, Pamela Lerman, in 2007.</p>
+    </custodhist>
+    <controlaccess>
+      <genreform source="aat">Correspondence.</genreform>
+      <subject source="lcsh">Dentistry.</subject>
+      <subject source="lcsh">Hypnotism.</subject>
+      <genreform source="aat">Books.</genreform>
+      <geogname source="lcsh">Bronx County (N.Y.).</geogname>
+      <genreform source="aat">Letters.</genreform>
+      <persname rules="dacs" source="local">Weinstein, Jules</persname>
+      <corpname source="naf">Society for Clinical and Experimental Hypnosis (U.S.)</corpname>
+      <corpname source="naf">New York University</corpname>
+      <corpname source="naf">Harlem Hospital Center (New York, N.Y.)</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref17" level="otherlevel" otherlevel="unspecified">
+        <did>
+          <unittitle>Series I: Jules Weinstein Papers</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref18" level="file">
+          <did>
+            <unittitle>Biography - Jules H. Weinstein</unittitle>
+            <unitdate datechar="creation" normal="2001/2001" type="inclusive">2001</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d4c187e8560aaff9c6962b1c53d321e3" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_d9ad61f49b8a618f68483e540b6a6d58" parent="aspace_d4c187e8560aaff9c6962b1c53d321e3" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Announcement of New York University - Periodontia Post-Graduate Symposium "Hypnosis in Dentistry" April 28, 1954</unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_bdd57d31c2844a3c2a809ac82fe9e099" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_c315812fb75ab5bb1480351cbe407da3" parent="aspace_bdd57d31c2844a3c2a809ac82fe9e099" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Plans for Organization - Society for Advancement of Scientific Hypnotism</unittitle>
+            <unitdate datechar="creation" normal="1939/1954" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9d15ed1b89469e0ac4e09db6c94dcde4" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_a39201f0ecade69ef217b5a9fe65e9b5" parent="aspace_9d15ed1b89469e0ac4e09db6c94dcde4" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Letter from Dr. Aaron Moss, Aug 31, 1949</unittitle>
+            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8a23c50680647df036b2c006071760df" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_1992ea08e42b082d1cbfecb8bd8a4495" parent="aspace_8a23c50680647df036b2c006071760df" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Letter from Harold J. Sloan (American Society for the Advancement of Hypnodontics), November 1, 1950</unittitle>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1a0a986d8f5f18f940f186246bd0019a" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_2ae4981aae90a9dc868cf80489b7b132" parent="aspace_1a0a986d8f5f18f940f186246bd0019a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Letter from Celestine S. Faber (New York State Dental Journal), January 30, 1951</unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_cf8d192027e52b0443a39b15e24a8175" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_eb2f75d6df973332af3ec650e3729e36" parent="aspace_cf8d192027e52b0443a39b15e24a8175" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Letter from Charles F. Bodecker (New York State Dental Journal), February 17, 1951</unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9d4a2ae130277f0fba96eafbd0ff007d" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_d91717c7dab9aac6fcf26018bdd05762" parent="aspace_9d4a2ae130277f0fba96eafbd0ff007d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Letter to Editors of N.J. Journals of Dentistry, March 3, 1951</unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_7cfd06cec468e0ea5b33cd0951d8aaef" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_f5cb5be3bae83ec0b8fa48b41ef73fa8" parent="aspace_7cfd06cec468e0ea5b33cd0951d8aaef" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref26" level="file">
+          <did>
+            <unittitle>Letter from Dr. Walter Hyde to Dr. Aaron Moss, March 23, 1951</unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_052864e2856490317298b0c621d0bcbd" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_93e3a4e01854f50400705d3c7aae9a3b" parent="aspace_052864e2856490317298b0c621d0bcbd" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Letter from Dr. Charles Harper, (N.J. State Dental Society) to Dr. Aaron Moss, April 3, 1951</unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9b3bf095f1d415edb5785ffb7629f9b2" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_311f665d85effb8336a7304d01eeb1e8" parent="aspace_9b3bf095f1d415edb5785ffb7629f9b2" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>Letter from Dr. Charles Harper, April 9, 1951</unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_8f923995a39063fa2c4c3679f6ae4b93" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_19ade087b9342f0eec65b2bb2a72b295" parent="aspace_8f923995a39063fa2c4c3679f6ae4b93" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Letter from Harold Sloan, April 11, 1951</unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_56c5f98300555e099b0b104a3f2f5066" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_fb50a04e384031cab876b8c2c1fec0bb" parent="aspace_56c5f98300555e099b0b104a3f2f5066" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Letter, Unclear Signature, April 11, 1951</unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_2ee6c53cf552964082d0633cca834326" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_3360343eb8afb54cb0766651dbff4dad" parent="aspace_2ee6c53cf552964082d0633cca834326" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Letter from J.B. Rhine (Parapsychology Department of Duke University), December 29, 1951</unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4c18393c7acdde101ccfd21ecb0ffb0e" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_810ca969d8c7be5fe14f53093f5dffcb" parent="aspace_4c18393c7acdde101ccfd21ecb0ffb0e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Letter from J.B. Rhine, April 7, 1952</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_1b0a707ba3c2663b0f76450390332026" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_238ba936fdb916d42eaec21f009cbea0" parent="aspace_1b0a707ba3c2663b0f76450390332026" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Letter from Dr. Jerome Schenck (Author of <emph render="italic">Hypnosis in Modern Medicine</emph>), March 5, 1952</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_690a68c8878a2288daf4b420a609d172" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_20c95ee0bdbddc3e73deea29d553441b" parent="aspace_690a68c8878a2288daf4b420a609d172" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Letter from J.B. Rhine, April 7, 1952</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_22968e34aa62069cd04f9b2244476f02" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_27ff99d0513bd5d702a9b95fcf8cc6b5" parent="aspace_22968e34aa62069cd04f9b2244476f02" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Letter from Dr. Alfred H. Schilling, April 17, 1952</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_478072d33e6658c9ed9a6cee6a604c40" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_5e8cd5f996a27786ba1667f5819d8995" parent="aspace_478072d33e6658c9ed9a6cee6a604c40" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>Letter from Dr. John Steponaitis (Chairman of the Executive Board, Waterbury Dental Society), July 26, 1952</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6f50452940384c4a9ced708d57a12f9b" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_b6c76a3c6bcbd304178e7d61f4736ec5" parent="aspace_6f50452940384c4a9ced708d57a12f9b" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Letter to Dr. John Steponaitis, July 29, 1952</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_4789eef7077444df3a23361d7cdcff15" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_215b61abbe9b87e15524f35f752a85dd" parent="aspace_4789eef7077444df3a23361d7cdcff15" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Letter to Dr. John Steponaitis, August 13, 1952</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_fb9b242507df0cf8c2ae8bb844c3b74d" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_0f6a74131a5f525836d385f5cc15bb9d" parent="aspace_fb9b242507df0cf8c2ae8bb844c3b74d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>Letter from Dr. John Steponaitis, August 26, 1952</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_6a150bd6200a1a6ee0805b5c33620d7a" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_7266e96844baeba619b89a2507b09cd9" parent="aspace_6a150bd6200a1a6ee0805b5c33620d7a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle><emph render="italic">Time</emph> Article "The Uses of Hypnosos," March 30, 1953 (Printed off Internet, January 6, 2007)</unittitle>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_06761efbad74990756375f332b8de0ec" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_5e2c5b669e8f8bc9c0bc1376ef5a33f9" parent="aspace_06761efbad74990756375f332b8de0ec" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Bulletin of the Tenth District Dental Society, March 1949, Volume I, Number 3</unittitle>
+            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_b5e147b932711687757015c3ffbc18da" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_c2be45c00047a76114ce02348d2525d5" parent="aspace_b5e147b932711687757015c3ffbc18da" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Letter from Dr. George Goldsmith (Bronx County Dental Society), March 23, 1951</unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_d4ccafc96b56184123cb62c5100404ce" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_8260022715c6657298aa6c686e76ab6a" parent="aspace_d4ccafc96b56184123cb62c5100404ce" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>"Hypnosis in dentistry: A Graduate Course" (Notes)</unittitle>
+            <unitdate datechar="creation" normal="1939/1954" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_f8ca193916675ddb9ac247ad21f57eca" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_6255d25e2b6fe6110e9d4a16a4ab85cc" parent="aspace_f8ca193916675ddb9ac247ad21f57eca" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>"A Message to Every Dental Patient from the American Society for the Advancement of Hypnodontics" (by J.H. Weinstein)</unittitle>
+            <unitdate datechar="creation" normal="1939/1954" type="inclusive">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_e4f7ee7b651b28ae75d2ab4ebfa88056" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_39845e873068502f27f1035d9c9981b5" parent="aspace_e4f7ee7b651b28ae75d2ab4ebfa88056" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>"Hypnotism in Dentistry, Part I" by Jules Weinstein, <emph render="italic">Dental Concepts</emph>, July 1950</unittitle>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_5f9bb507a0b9c42ea98be1a7142f4f3d" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_6252d7665301d2920fd4df64c76d90d2" parent="aspace_5f9bb507a0b9c42ea98be1a7142f4f3d" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>"Hypnotism in Dentistry, Part II" by Jules Weinstein, <emph render="italic">Dental Concepts</emph>, October 1950</unittitle>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_44a1c89fc4b3c890600566236c58add0" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_7f49793c68be94f22eeb3c1cfab54e84" parent="aspace_44a1c89fc4b3c890600566236c58add0" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle><emph render="italic">Journal of Clinical and Experimental Hypnosis</emph>, Volume II, Number 4, October 1954 (Cover and Page 250)</unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954-1954</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_98183b545e7567115199731b45c94e70" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_3b4f3c8df85444c85dd10c449d611b9e" parent="aspace_98183b545e7567115199731b45c94e70" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>
+              <emph render="italic">The British Journal of Medical Hypnotism</emph>
+            </unittitle>
+            <unitdate datechar="creation" normal="1951/1951" type="inclusive">1951</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_ed2c59a29825d245045a3bf980f035c2" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_69bbbead37aa0e1515780dce7bff2647" parent="aspace_ed2c59a29825d245045a3bf980f035c2" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Postcard invitations to lectures on hypnosis in dentistry by Dr. Weinstein and other members of the American Hypnodontic Society</unittitle>
+            <unitdate datechar="creation" normal="1938/1954" type="inclusive">1938-1954</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_36721fe7efe7e73853bf123074c2b117" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_937e71fa7467c0d8216fe39dd1442e1c" parent="aspace_36721fe7efe7e73853bf123074c2b117" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Newspaper clippings</unittitle>
+            <unitdate datechar="creation">undated</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3e8b7197f130be7d20416a04446178fd" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_6a562ea7f1929780441c71978fab6ae4" parent="aspace_3e8b7197f130be7d20416a04446178fd" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Photocopied certificates</unittitle>
+            <unitdate datechar="creation" normal="1924/1952" type="inclusive">1924-1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_9f7fdf6dd38ab2335152f83c26944daa" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_356da058ce8fc1925c417b32d6860ac1" parent="aspace_9f7fdf6dd38ab2335152f83c26944daa" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Moss, Aaron A: <emph render="italic">Hypnodontics, or Hypnosis in Dentistry</emph></unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_3ca4cdee08f04b2f9273ed2c902cfa67" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_3ec8a637251f64905c2870f2458d2e00" parent="aspace_3ca4cdee08f04b2f9273ed2c902cfa67" type="Item">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Schenck, Jerome M., ed.: <emph render="italic">Hypnosis in Modern Medicine</emph></unittitle>
+            <unitdate datechar="creation" normal="1953/1953" type="inclusive">1953</unitdate>
+            <container altrender="Manuscript box - Legal" id="aspace_aa227111768c4fe24a3926bc68441f71" label="Mixed Materials [31142062749364]" type="Box">1</container>
+            <container id="aspace_8d84b3c2072091cee374cd0129925d21" parent="aspace_aa227111768c4fe24a3926bc68441f71" type="Item">2</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>

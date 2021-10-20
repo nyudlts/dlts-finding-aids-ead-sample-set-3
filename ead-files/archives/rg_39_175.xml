@@ -1,0 +1,712 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NyNyUA" url="http://dlib.nyu.edu/findingaids/html/archives/phibetakappa/">rg_39_175</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Guide to the Records of Phi Beta Kappa, Beta Chapter (New York University) <num>RG.39.175</num></titleproper>
+        <author>Christine Wynn.</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>New York University Archives</publisher>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2021-10-19 20:01:43 -0400</date>.</creation>
+      <langusage>Description is in <language langcode="eng" encodinganalog="546">English</language>.</langusage>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <repository>
+        <corpname>New York University Archives</corpname>
+      </repository>
+      <unittitle>Records of Phi Beta Kappa, Beta Chapter (New York University)</unittitle>
+      <origination label="Creator">
+        <corpname source="naf">Phi Beta Kappa</corpname>
+      </origination>
+      <unitid>RG.39.175</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">3 Linear Feet</extent>
+        <extent altrender="carrier">(6 boxes)</extent>
+      </physdesc>
+      <unitdate datechar="creation" normal="1856/1977" type="inclusive">1856-1977</unitdate>
+      <physloc id="aspace_a54c5600762c371a044f07bba80ef9c1">This collection is located in offsite storage. Please contact the repository for access.</physloc>
+      <abstract id="aspace_4f62c151ff60a417a740df8b1a31e459">This collection contains minutes, membership lists and other records of the Phi Beta Kappa chapter at NYU.  NYU's chapter of the national academic honor society was founded in 1858.</abstract>
+      <langmaterial><language langcode="eng">English</language>
+.    </langmaterial>
+    </did>
+    <arrangement id="aspace_b93864d83ae5060ef58004b3ece23e56">
+      <head>Arrangement</head>
+      <p>Arrangement varies by series.</p>
+      <p>The files are grouped into 3 series:</p>
+      <list type="ordered">
+        <head>Missing Title</head>
+        <item>Minutes</item>
+        <item>Members</item>
+        <item>Publications</item>
+      </list>
+    </arrangement>
+    <scopecontent id="aspace_8cc329b1f1d5708dcc08bdbed4952fd3">
+      <head>Scope and Contents</head>
+      <p>Records consists of minutes, chapter reports, membership lists, historical statements, manuals, and copies of the <emph render="italic">Key Reporter</emph> mainly from the years 1856-1977.</p>
+    </scopecontent>
+    <bioghist id="aspace_2eaed4e2a52a2b124af75c6318e0d4a6">
+      <head>History of Phi Beta Kappa at New York University</head>
+      <p>Phi Beta Kappa is a national scholastic honorary fraternity that elects their members on the basis of scholastic achievement and good moral character. The Phi Beta Kappa chapter at NYU was founded in 1858 and is the 15th oldest in the country as well as the second oldest in New York State. The society at NYU held many conferences and discussions and published their own news magazine, <title render="italic">The Key Reporter</title>.</p>
+      <p> Sources: </p>
+      <p>
+        <list>
+          <item>Phi Beta Kappa, Reference File</item>
+        </list>
+      </p>
+    </bioghist>
+    <prefercite id="aspace_48046caf74534ee443478b9113dbc801">
+      <head>Preferred Citation</head>
+      <p>Published citations should take the following form: Identification of item, date (if known); Records of Phi Beta Kappa, Beta Chapter (New York University); RG 39.175; box number; folder number; New York University Archives, New York University Libraries.</p>
+    </prefercite>
+    <userestrict id="aspace_e7a73ab3ead7122f6b848979e9e6992e">
+      <head>Use Restrictions</head>
+      <p>Permission to publish materials must be obtained in writing from the:<lb/><address><addressline>New York University Archives<lb/> </addressline><addressline>Elmer Holmes Bobst Library<lb/> </addressline><addressline>70 Washington Square South<lb/> </addressline><addressline>New York, NY 10012<lb/> </addressline><addressline>Phone: (212) 998-2641<lb/> </addressline><addressline>Fax: (212) 995-4225<lb/> </addressline><addressline>E-mail: university-archives@nyu.edu<lb/> </addressline></address></p>
+    </userestrict>
+    <accessrestrict id="aspace_0db790b27c52737aabe5827b936c3f21">
+      <head>Access Restrictions</head>
+      <p>Open for research without restrictions.</p>
+    </accessrestrict>
+    <processinfo id="aspace_29b445b84da1bf58503a72a4b4341550">
+      <head>Processing Information</head>
+      <p>The materials in this collection were previously associated with RG 39.27, the general call number for fraternities and sororities. In 2019, the call number associated with this collection was changed to RG 39.175, specific to the Phi Beta Kappa organization.</p>
+    </processinfo>
+    <controlaccess>
+      <genreform source="aat">Membership lists.</genreform>
+      <genreform source="aat">Administrative reports.</genreform>
+      <geogname source="lcsh">New York (N.Y.).</geogname>
+      <genreform source="aat">Publications (documents)</genreform>
+      <genreform source="aat">Minutes (administrative records)</genreform>
+      <subject source="lcsh">Greek letter societies |z United States.</subject>
+      <corpname source="naf">New York University</corpname>
+      <corpname rules="aacr" source="local">Phi Beta Kappa. Beta of New York (New York University)</corpname>
+      <corpname source="naf">Phi Beta Kappa</corpname>
+    </controlaccess>
+    <dsc>
+      <c id="aspace_ref18" level="series">
+        <did>
+          <unittitle>Series I: Minutes</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref19" level="file">
+          <did>
+            <unittitle>Phi Beta Kappa Minutes</unittitle>
+            <unitdate datechar="creation" normal="1858/1917" type="inclusive">1858-1917</unitdate>
+            <container id="aspace_d2af78cc432d7b34190130d34f6f6e6e" label="Mixed Materials [31142046896612]" type="Box">1</container>
+            <container id="aspace_dd395f1e29aeae12b0c9e4062b75e402" parent="aspace_d2af78cc432d7b34190130d34f6f6e6e" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref20" level="file">
+          <did>
+            <unittitle>Phi Beta Kappa Minutes</unittitle>
+            <unitdate datechar="creation" normal="1908/1987" type="inclusive">ca.1918-1933 , 1980-1987</unitdate>
+            <container id="aspace_b2b966ff99a895ac371c7c5e682337f2" label="Mixed Materials [31142046896612]" type="Box">1</container>
+            <container id="aspace_8714d82d12762cf770c2a2c6d7e3d3e7" parent="aspace_b2b966ff99a895ac371c7c5e682337f2" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref21" level="file">
+          <did>
+            <unittitle>Phi Beta Kappa Minutes</unittitle>
+            <unitdate datechar="creation" normal="1934/1944" type="inclusive">1934-1944</unitdate>
+            <container id="aspace_9fa854274314f0c14c06b18dfda6221b" label="Mixed Materials [31142046896612]" type="Box">1</container>
+            <container id="aspace_50a11c1623fd2060a314ab99d4c711e2" parent="aspace_9fa854274314f0c14c06b18dfda6221b" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref22" level="file">
+          <did>
+            <unittitle>Phi Beta Kappa Minutes</unittitle>
+            <unitdate datechar="creation" normal="1945/1955" type="inclusive">1945-1955</unitdate>
+            <container id="aspace_ccbd32428ca32b95447f68363fddbd0d" label="Mixed Materials [31142046896612]" type="Box">1</container>
+            <container id="aspace_2376d0098454d4aca6b5dbe1698bc658" parent="aspace_ccbd32428ca32b95447f68363fddbd0d" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref23" level="file">
+          <did>
+            <unittitle>Phi Beta Kappa Minutes</unittitle>
+            <unitdate datechar="creation" normal="1956/1966" type="inclusive">1956-1966</unitdate>
+            <container id="aspace_dc9813011b3063c4f030aa4b99e0b9d9" label="Mixed Materials [31142046896612]" type="Box">1</container>
+            <container id="aspace_b20845ba9a2a540af0e5551e0b63bee2" parent="aspace_dc9813011b3063c4f030aa4b99e0b9d9" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref24" level="file">
+          <did>
+            <unittitle>Phi Beta Kappa Minutes: Washington Square College</unittitle>
+            <unitdate datechar="creation" normal="1927/1950" type="inclusive">1927-1950</unitdate>
+            <container id="aspace_b2bef53f154796257f01c04977c83f98" label="Mixed Materials [31142046896653]" type="Box">2</container>
+            <container id="aspace_39b507a666671695aa66068ed319fb6d" parent="aspace_b2bef53f154796257f01c04977c83f98" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref25" level="file">
+          <did>
+            <unittitle>Phi Beta Kappa Minutes: Washington Square College</unittitle>
+            <unitdate datechar="creation" normal="1941/1946" type="inclusive">1941-1946</unitdate>
+            <container id="aspace_a3b13ecba198a7a9a80c2b3448d6b487" label="Mixed Materials [31142046896653]" type="Box">2</container>
+            <container id="aspace_2e01f45ba6c19b81d8bea71963ae4871" parent="aspace_a3b13ecba198a7a9a80c2b3448d6b487" type="Folder">2</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref26" level="series">
+        <did>
+          <unittitle>Series II: Membership</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref27" level="file">
+          <did>
+            <unittitle>Letter of Acquistion to NYU Archives</unittitle>
+            <unitdate datechar="creation" normal="1977/1977" type="inclusive">1977</unitdate>
+            <container id="aspace_d0b2a7d75b39e112fb1f9d2218c76471" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_776bcad49d1ab78bf3b5293e5587e336" parent="aspace_d0b2a7d75b39e112fb1f9d2218c76471" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref28" level="file">
+          <did>
+            <unittitle>The Presidents of Beta Chapter, Letters of Receipt of Copies</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_34ab830782f31465618a0e6806455121" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_60c5357d573c7a3f8233f6da09fd564c" parent="aspace_34ab830782f31465618a0e6806455121" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref29" level="file">
+          <did>
+            <unittitle>Photocopies of Chapter Business</unittitle>
+            <unitdate datechar="creation" normal="1840/1883" type="inclusive">1840-1849 , 1881-1883</unitdate>
+            <container id="aspace_bcc4df1600c2e440f296c0866ea66a30" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_84f9506e0e5f68c06767abc7d05a982c" parent="aspace_bcc4df1600c2e440f296c0866ea66a30" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref30" level="file">
+          <did>
+            <unittitle>Typed Handbook</unittitle>
+            <unitdate datechar="creation" normal="1919/1919" type="inclusive">1919</unitdate>
+            <container id="aspace_c6aaf3c3894ee052cd6c9ab48d70ec45" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_365881b5f11023b1213be5d78f062d0d" parent="aspace_c6aaf3c3894ee052cd6c9ab48d70ec45" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref31" level="file">
+          <did>
+            <unittitle>Eligibility</unittitle>
+            <unitdate datechar="creation" normal="1972/1973" type="inclusive">1972-1973</unitdate>
+            <container id="aspace_f00ad360174a5ec8ce6553ade9231a9e" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_28a9f727e1f348bfcb514aafc7c1c6eb" parent="aspace_f00ad360174a5ec8ce6553ade9231a9e" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref32" level="file">
+          <did>
+            <unittitle>Committee Report on Role and Qualifications</unittitle>
+            <unitdate datechar="creation" normal="1972/1972" type="inclusive">1972</unitdate>
+            <container id="aspace_140bf61f67b8d24562e6967b3890e97a" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_a629c002bb0a9d6c102929b834a1762d" parent="aspace_140bf61f67b8d24562e6967b3890e97a" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref33" level="file">
+          <did>
+            <unittitle>Chapter Code List, and Faculty Count - National</unittitle>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_a5805774a4eb41418a49c2cd467fbf52" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_567c56cd62eb9704922c778f46a80c0b" parent="aspace_a5805774a4eb41418a49c2cd467fbf52" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref34" level="file">
+          <did>
+            <unittitle>Chapter Reports</unittitle>
+            <unitdate datechar="creation" normal="1936/1959" type="inclusive">1936-1959</unitdate>
+            <container id="aspace_902f46f0b38ee82c92b6c768e3decbe9" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_2f006bd5f35bb7bbb7f5a0fcd99ec157" parent="aspace_902f46f0b38ee82c92b6c768e3decbe9" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref35" level="file">
+          <did>
+            <unittitle>Chapter Reports</unittitle>
+            <unitdate datechar="creation" normal="1960/1973" type="inclusive">1960-1973</unitdate>
+            <container id="aspace_820f8ddf16e9736e9003bdffa21013ca" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_ea1c4a8f887b8cdf0fca624aa0c12fc2" parent="aspace_820f8ddf16e9736e9003bdffa21013ca" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref36" level="file">
+          <did>
+            <unittitle>United Chapters: Manuals, Revisions, Reports</unittitle>
+            <unitdate datechar="creation" normal="1925/1942" type="inclusive">1925 , 1927-1942</unitdate>
+            <container id="aspace_98f1aed1a9da97626817366a2f3c7e15" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_322826d0220f42837cd8c883a3a1d9c5" parent="aspace_98f1aed1a9da97626817366a2f3c7e15" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref37" level="file">
+          <did>
+            <unittitle>Past Officers of Beta</unittitle>
+            <unitdate datechar="creation" normal="1856/1956" type="inclusive">1856-1956</unitdate>
+            <container id="aspace_47a485a144af496f64dd9ccdfa823e2e" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_fc70e1017784fe15de4b81eefa6498f9" parent="aspace_47a485a144af496f64dd9ccdfa823e2e" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref38" level="file">
+          <did>
+            <unittitle>Membership Eligibility</unittitle>
+            <unitdate datechar="creation" normal="1966/1973" type="inclusive">1966-1973</unitdate>
+            <container id="aspace_1987d62ab8ea7b7a6014503373075c34" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_ae0de1a888e9036caf1dfcb72a458c07" parent="aspace_1987d62ab8ea7b7a6014503373075c34" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref39" level="file">
+          <did>
+            <unittitle>List of Membership (Faculty)</unittitle>
+            <unitdate datechar="creation" normal="1961/1974" type="inclusive">1961-1974</unitdate>
+            <container id="aspace_e5c538184ac11ef0cbbdb505c3eedc72" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_2a08ae14b5c5ac5f9ba690492a7dcce2" parent="aspace_e5c538184ac11ef0cbbdb505c3eedc72" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref40" level="file">
+          <did>
+            <unittitle>Elected Members</unittitle>
+            <unitdate datechar="creation" normal="1949/1951" type="inclusive">1949-1951</unitdate>
+            <container id="aspace_76795bd86477734061f7b035c58a94e8" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_a0fd148c72f7ccf178984db5152be99e" parent="aspace_76795bd86477734061f7b035c58a94e8" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref41" level="file">
+          <did>
+            <unittitle>Elected Members</unittitle>
+            <unitdate datechar="creation" normal="1954/1954" type="inclusive">1954</unitdate>
+            <container id="aspace_1c8b133011c6ea87d392455bc7309a4c" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_9ad0b2c293f86a1dff01adcdfcc1d1af" parent="aspace_1c8b133011c6ea87d392455bc7309a4c" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref42" level="file">
+          <did>
+            <unittitle>Elected Members</unittitle>
+            <unitdate datechar="creation" normal="1955/1955" type="inclusive">1955</unitdate>
+            <container id="aspace_0a6ea49053b7cca730bf282bfe016d5f" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_de57b4c40ad71001124cb37b658de919" parent="aspace_0a6ea49053b7cca730bf282bfe016d5f" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref43" level="file">
+          <did>
+            <unittitle>Elected Members</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_07d150fb0bde826e59226300e86cc7c7" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_dfaea1132548cd349120c0d474f9b987" parent="aspace_07d150fb0bde826e59226300e86cc7c7" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref44" level="file">
+          <did>
+            <unittitle>Elected Members, Initiation Ritual and Historical Statement</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_84794dbb667360df10abb9b2134c2c04" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_70d9342a1098aff9a7fdd2a343a4b959" parent="aspace_84794dbb667360df10abb9b2134c2c04" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref45" level="file">
+          <did>
+            <unittitle>Elected Members</unittitle>
+            <unitdate datechar="creation" normal="1957/1964" type="inclusive">1957-1964</unitdate>
+            <container id="aspace_72116dd37220b6ce586d77d24e2026ff" label="Mixed Materials [31142046896661]" type="Box">3</container>
+            <container id="aspace_724c81ec7cfb46fb716a3b15280e4b85" parent="aspace_72116dd37220b6ce586d77d24e2026ff" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref46" level="file">
+          <did>
+            <unittitle>Elected Members, "Spirit of Scholarship" Homer A. Watt</unittitle>
+            <unitdate datechar="creation" normal="1940/1948" type="inclusive">1940-1948</unitdate>
+            <container id="aspace_1562a032b185e14d718cb691941391b6" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_fddf6abd0520f732cf9e76c11f34ec68" parent="aspace_1562a032b185e14d718cb691941391b6" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref47" level="file">
+          <did>
+            <unittitle>Elected Members, Faculty (1962)</unittitle>
+            <unitdate datechar="creation" normal="1963/1966" type="inclusive">1963-1966</unitdate>
+            <container id="aspace_1cee6065cf442c9816cc9573c3d5e1f9" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_b9272b8dc4ebff1226582134c9a37a22" parent="aspace_1cee6065cf442c9816cc9573c3d5e1f9" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref48" level="file">
+          <did>
+            <unittitle>Historical Statements</unittitle>
+            <unitdate datechar="creation" normal="1927/1945" type="inclusive">1927-1945</unitdate>
+            <container id="aspace_8b3b61e65fe6995037f512a1cd30c208" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_91c04346f8b7af72f2b72135f76c1310" parent="aspace_8b3b61e65fe6995037f512a1cd30c208" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref49" level="file">
+          <did>
+            <unittitle>Establishment of Beta Chapter: Washington Square</unittitle>
+            <unitdate datechar="creation" normal="1922/1927" type="inclusive">1922-1927</unitdate>
+            <container id="aspace_bd2c6209676e91c9633ddb6de580130e" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_c62fb7eb2172024ae4f38541378999a8" parent="aspace_bd2c6209676e91c9633ddb6de580130e" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref50" level="file">
+          <did>
+            <unittitle>Revisted Historical Statement, Meaning of Key</unittitle>
+            <unitdate datechar="creation" normal="1963/1963" type="inclusive">1963</unitdate>
+            <container id="aspace_405ba9d421397335fd4748feda8b07b3" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_4f1dd02d7b2094c485b54f7001d52c37" parent="aspace_405ba9d421397335fd4748feda8b07b3" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref51" level="file">
+          <did>
+            <unittitle>Initiation Ritual, Historical Statement (1953)</unittitle>
+            <unitdate datechar="creation" normal="1943/1953" type="inclusive">1943 , 1953</unitdate>
+            <container id="aspace_36e04081fd0175bc4bd973c9862b0ef3" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_84eb273aa4205aeae879ffd72fbf4aa7" parent="aspace_36e04081fd0175bc4bd973c9862b0ef3" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref52" level="file">
+          <did>
+            <unittitle>Addresses of Members (1927-1940), Presidents of Beta (1927-1958), Officers of Beta (1927-1945)</unittitle>
+            <unitdate datechar="creation" normal="1927/1945" type="inclusive">1927-1945</unitdate>
+            <container id="aspace_6c769187063bfae965d0c897004c310f" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_bb59e769333bfe2b3c385d432f8236e3" parent="aspace_6c769187063bfae965d0c897004c310f" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref53" level="file">
+          <did>
+            <unittitle>Faculty Members Washington Square</unittitle>
+            <unitdate datechar="creation" normal="1927/1946" type="inclusive">1927-1946</unitdate>
+            <container id="aspace_60b3bc7ebaeea8cff6896b1a9e273aaa" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_3baf6ccbeac273802694c40eca73044d" parent="aspace_60b3bc7ebaeea8cff6896b1a9e273aaa" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref54" level="file">
+          <did>
+            <unittitle>Elected Members</unittitle>
+            <unitdate datechar="creation" normal="1960/1967" type="inclusive">1960-1967</unitdate>
+            <container id="aspace_312583f21258996415297d9e157b1e1c" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_3506d9d00b7ca6dcc5f8d54cbcc99465" parent="aspace_312583f21258996415297d9e157b1e1c" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref55" level="file">
+          <did>
+            <unittitle>Revised Constitution (1918), Ritual (1928), Chapter Manual (1938)</unittitle>
+            <unitdate datechar="creation" normal="1918/1938" type="inclusive">1918-1938</unitdate>
+            <container id="aspace_c0268020ba6dc3c6d8eed401ea79835d" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_cecff75c2a51ac702406991cfdc0beb8" parent="aspace_c0268020ba6dc3c6d8eed401ea79835d" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref56" level="file">
+          <did>
+            <unittitle>Elected Members</unittitle>
+            <unitdate datechar="creation" normal="1926/1932" type="inclusive">1926-1932</unitdate>
+            <container id="aspace_131540881aaf93501334f23be94d5bf3" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_9cc83c6f24a56e2e0c99c1639bd5076e" parent="aspace_131540881aaf93501334f23be94d5bf3" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref57" level="file">
+          <did>
+            <unittitle>Address - Elmer Ellsworth Brown (1933), Music for Beta (1939), Address - Dean William B. Baer (1942)</unittitle>
+            <unitdate datechar="creation" normal="1933/1942" type="inclusive">1933-1942</unitdate>
+            <container id="aspace_a74db4de7cdb97d81dc3fa4d1635cedb" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_4e3855c83ecea6691b5d760f3d0bdb5b" parent="aspace_a74db4de7cdb97d81dc3fa4d1635cedb" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref58" level="file">
+          <did>
+            <unittitle>Elected Members</unittitle>
+            <unitdate datechar="creation" normal="1961/1962" type="inclusive">1961-1962</unitdate>
+            <container id="aspace_c5b711c5892234f161b38cea67bfa4a9" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_7598452320bd41c4618abfa627b64d53" parent="aspace_c5b711c5892234f161b38cea67bfa4a9" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref59" level="file">
+          <did>
+            <unittitle>Elected Members</unittitle>
+            <unitdate datechar="creation" normal="1964/1965" type="inclusive">1964-1965</unitdate>
+            <container id="aspace_0c72ac15bc7ec37f69697dda82fff72f" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_fcac955104ea4091b961eaa11b87a151" parent="aspace_0c72ac15bc7ec37f69697dda82fff72f" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref60" level="file">
+          <did>
+            <unittitle>Elected Members (1966-1967), Undergrad. Election Statistics (1939-1940, 1965-1966)</unittitle>
+            <unitdate datechar="creation" normal="1856/1977" type="inclusive">undated</unitdate>
+            <container id="aspace_326bdec83bc0a6156cb2b36401811801" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_890a519c590af872e77491d00ee13947" parent="aspace_326bdec83bc0a6156cb2b36401811801" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref61" level="file">
+          <did>
+            <unittitle>Elected Members</unittitle>
+            <unitdate datechar="creation" normal="1950/1950" type="inclusive">1950</unitdate>
+            <container id="aspace_06d8bc63c389b01b9e316333dc87a479" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_ee06dc404c66186071b68051ab4149d5" parent="aspace_06d8bc63c389b01b9e316333dc87a479" type="Folder">16</container>
+          </did>
+        </c>
+        <c id="aspace_ref62" level="file">
+          <did>
+            <unittitle>Elected Members</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_f838ce0d7e162cc08f5b91fa4224e826" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_a401dc063d64de39178863073a23c9ba" parent="aspace_f838ce0d7e162cc08f5b91fa4224e826" type="Folder">17</container>
+          </did>
+        </c>
+        <c id="aspace_ref63" level="file">
+          <did>
+            <unittitle>Elected Members</unittitle>
+            <unitdate datechar="creation" normal="1953/1955" type="inclusive">1953-1955</unitdate>
+            <container id="aspace_04a47bce942c770dc5a0b8770a8f917d" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_918e4dc63c5703edff527d665008dcd8" parent="aspace_04a47bce942c770dc5a0b8770a8f917d" type="Folder">18</container>
+          </did>
+        </c>
+        <c id="aspace_ref64" level="file">
+          <did>
+            <unittitle>Induction Luncheon</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_c980f59d6e848cfb5ff705d7643e6d7c" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_8c6c0ab983ef7cecefd8892cd226f81e" parent="aspace_c980f59d6e848cfb5ff705d7643e6d7c" type="Folder">19</container>
+          </did>
+        </c>
+        <c id="aspace_ref65" level="file">
+          <did>
+            <unittitle>Elected Members, Letter for Centennial Year</unittitle>
+            <unitdate datechar="creation" normal="1958/1958" type="inclusive">1958</unitdate>
+            <container id="aspace_e7ecf608a44d0804f5d7f788fc6a4ea0" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_b068092ac8b64dec65e9aa38c11920d2" parent="aspace_e7ecf608a44d0804f5d7f788fc6a4ea0" type="Folder">20</container>
+          </did>
+        </c>
+        <c id="aspace_ref66" level="file">
+          <did>
+            <unittitle>Elected Members</unittitle>
+            <unitdate datechar="creation" normal="1946/1959" type="inclusive">1946 , 1948-1959</unitdate>
+            <container id="aspace_8c5c3f1e97fe59644009bf59f0267bdc" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_ed234dcba749346f45c20695b5e56901" parent="aspace_8c5c3f1e97fe59644009bf59f0267bdc" type="Folder">21</container>
+          </did>
+        </c>
+        <c id="aspace_ref67" level="file">
+          <did>
+            <unittitle>Elected Members</unittitle>
+            <unitdate datechar="creation" normal="1965/1968" type="inclusive">1965-1968</unitdate>
+            <container id="aspace_c30584668a7f5e61866b195076ff8df5" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_d834aa89553aa5f96fc798e1fb13311d" parent="aspace_c30584668a7f5e61866b195076ff8df5" type="Folder">22</container>
+          </did>
+        </c>
+        <c id="aspace_ref68" level="file">
+          <did>
+            <unittitle>Elected Members</unittitle>
+            <unitdate datechar="creation" normal="1935/1963" type="inclusive">1935-1963</unitdate>
+            <container id="aspace_de7053b8240d21b997b7ed69d9746557" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_4de4ebc8cd469045fab9038c6a33983e" parent="aspace_de7053b8240d21b997b7ed69d9746557" type="Folder">23</container>
+          </did>
+        </c>
+        <c id="aspace_ref69" level="file">
+          <did>
+            <unittitle>Initiation Meeting</unittitle>
+            <unitdate datechar="creation" normal="1964/1964" type="inclusive">1964</unitdate>
+            <container id="aspace_1155f655330104390f4157c95293cc15" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_70050061f0338234358fb4fa7403e82d" parent="aspace_1155f655330104390f4157c95293cc15" type="Folder">24</container>
+          </did>
+        </c>
+        <c id="aspace_ref70" level="file">
+          <did>
+            <unittitle>Immediate Members, Faculty</unittitle>
+            <unitdate datechar="creation" normal="1932/1949" type="inclusive">1932-1949</unitdate>
+            <container id="aspace_3595087faf25155344d2321b2d68d834" label="Mixed Materials [31142046896679]" type="Box">4</container>
+            <container id="aspace_874322163389cd9c54e75a6a48a5c504" parent="aspace_3595087faf25155344d2321b2d68d834" type="Folder">25</container>
+          </did>
+        </c>
+        <c id="aspace_ref71" level="file">
+          <did>
+            <unittitle>Membership Lists and Elected</unittitle>
+            <unitdate datechar="creation" normal="1932/1952" type="inclusive">1932-1952</unitdate>
+            <container id="aspace_640ca29de7616aa8bbbfa3a39a835fff" label="Mixed Materials [31142046896687]" type="Box">5</container>
+            <container id="aspace_1c003e7b5610a99efc5c1bbe093c5911" parent="aspace_640ca29de7616aa8bbbfa3a39a835fff" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref72" level="file">
+          <did>
+            <unittitle>Deceased Member List (1922, 1929), Honor Roll List (1939), Membership Mailing List (1939)</unittitle>
+            <unitdate datechar="creation" normal="1922/1939" type="inclusive">1922-1939</unitdate>
+            <container id="aspace_c18db0b60aad1ef7b6b58b52cb903c3c" label="Mixed Materials [31142046896687]" type="Box">5</container>
+            <container id="aspace_d8824fa52a1ed51e9da0caee83c1e421" parent="aspace_c18db0b60aad1ef7b6b58b52cb903c3c" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref73" level="file">
+          <did>
+            <unittitle>Treasurer's Receipts and Notes</unittitle>
+            <unitdate datechar="creation" normal="1892/1928" type="inclusive">1892-1928</unitdate>
+            <container id="aspace_d5d5c898ac8ac30233317f19baa25945" label="Mixed Materials [31142046896687]" type="Box">5</container>
+            <container id="aspace_40ea1b29fa17544f0aec921981bf9929" parent="aspace_d5d5c898ac8ac30233317f19baa25945" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref74" level="file">
+          <did>
+            <unittitle>Anniversary Meeting</unittitle>
+            <unitdate datechar="creation" normal="1949/1949" type="inclusive">1949</unitdate>
+            <container id="aspace_56c0d039baab5efeb3deb56a5fdf060a" label="Mixed Materials [31142046896687]" type="Box">5</container>
+            <container id="aspace_acc159868ce1eca0081afa013a5a0165" parent="aspace_56c0d039baab5efeb3deb56a5fdf060a" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref75" level="file">
+          <did>
+            <unittitle>Anniversary Meeting (1952), Honorary Member (1953)</unittitle>
+            <unitdate datechar="creation" normal="1952/1953" type="inclusive">1952-1953</unitdate>
+            <container id="aspace_b229679d71aeecad85a97ea9ec79821d" label="Mixed Materials [31142046896687]" type="Box">5</container>
+            <container id="aspace_ff243d5ffb47753f1a12d08b1c9ad2ca" parent="aspace_b229679d71aeecad85a97ea9ec79821d" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref76" level="file">
+          <did>
+            <unittitle>Anniversary Meeting</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_faed7c297039b64662df4bafe322cbd8" label="Mixed Materials [31142046896687]" type="Box">5</container>
+            <container id="aspace_8c39d91b91bd06018fdea301d3c0a92b" parent="aspace_faed7c297039b64662df4bafe322cbd8" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref77" level="file">
+          <did>
+            <unittitle>Anniversary Meeting</unittitle>
+            <unitdate datechar="creation" normal="1961/1967" type="inclusive">1961-1967</unitdate>
+            <container id="aspace_a8e62dcaa2bac2ef7d14ea6fff78417c" label="Mixed Materials [31142046896687]" type="Box">5</container>
+            <container id="aspace_75a3599d45cdf50043d91d96ed82ae06" parent="aspace_a8e62dcaa2bac2ef7d14ea6fff78417c" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref78" level="file">
+          <did>
+            <unittitle>Letter of Dr. T.F. Jones</unittitle>
+            <unitdate datechar="creation" normal="1930/1933" type="inclusive">1930-1933</unitdate>
+            <container id="aspace_7ca1eb5feca8376b0f0d223838bde194" label="Mixed Materials [31142046896687]" type="Box">5</container>
+            <container id="aspace_ae257736884fda956fa313c8e289f750" parent="aspace_7ca1eb5feca8376b0f0d223838bde194" type="Folder">8</container>
+          </did>
+        </c>
+        <c id="aspace_ref79" level="file">
+          <did>
+            <unittitle>Visiting Scholar Program</unittitle>
+            <unitdate datechar="creation" normal="1964/1966" type="inclusive">1964 , 1966</unitdate>
+            <container id="aspace_ef80deb70e41ad1e18904bba1d6d715f" label="Mixed Materials [31142046896687]" type="Box">5</container>
+            <container id="aspace_0337506e5c209d6621c2d96d82b08715" parent="aspace_ef80deb70e41ad1e18904bba1d6d715f" type="Folder">9</container>
+          </did>
+        </c>
+        <c id="aspace_ref80" level="file">
+          <did>
+            <unittitle>Visiting Scholar Program</unittitle>
+            <unitdate datechar="creation" normal="1968/1975" type="inclusive">1968-1975</unitdate>
+            <container id="aspace_aadc9521067112a6a7cf314c95c2bb6f" label="Mixed Materials [31142046896687]" type="Box">5</container>
+            <container id="aspace_82d43c306e2f92fdbf9a9f17507ccc94" parent="aspace_aadc9521067112a6a7cf314c95c2bb6f" type="Folder">10</container>
+          </did>
+        </c>
+        <c id="aspace_ref81" level="file">
+          <did>
+            <unittitle>Ritual of Initiation, Oath, Jewelry Order Form</unittitle>
+            <unitdate datechar="creation" normal="1968/1968" type="inclusive">1968</unitdate>
+            <container id="aspace_dadb24f3059e6cd25136dec822d1333f" label="Mixed Materials [31142046896687]" type="Box">5</container>
+            <container id="aspace_c3dd04603e5220ebe8189254ac22a605" parent="aspace_dadb24f3059e6cd25136dec822d1333f" type="Folder">11</container>
+          </did>
+        </c>
+        <c id="aspace_ref82" level="file">
+          <did>
+            <unittitle>Dedication of Phi Beta Kappa Memorial (Williamsburg, VA)</unittitle>
+            <unitdate datechar="creation" normal="1957/1957" type="inclusive">1957</unitdate>
+            <container id="aspace_e201d96ac0b4aa5f160ca5b0501752c3" label="Mixed Materials [31142046896687]" type="Box">5</container>
+            <container id="aspace_03de51089bd7870bf40bc678a82b8357" parent="aspace_e201d96ac0b4aa5f160ca5b0501752c3" type="Folder">12</container>
+          </did>
+        </c>
+        <c id="aspace_ref83" level="file">
+          <did>
+            <unittitle>Triennial Reports</unittitle>
+            <unitdate datechar="creation" normal="1940/1961" type="inclusive">1940-1961</unitdate>
+            <container id="aspace_52a6bcab83cc20890ff686780c845d89" label="Mixed Materials [31142046896687]" type="Box">5</container>
+            <container id="aspace_46884aded671e0ade3326c38d7d11821" parent="aspace_52a6bcab83cc20890ff686780c845d89" type="Folder">13</container>
+          </did>
+        </c>
+        <c id="aspace_ref84" level="file">
+          <did>
+            <unittitle>Honorary Membership Policy</unittitle>
+            <unitdate datechar="creation" normal="1952/1952" type="inclusive">1952</unitdate>
+            <container id="aspace_7136b0c9d9544f14995475cc9603624d" label="Mixed Materials [31142046896687]" type="Box">5</container>
+            <container id="aspace_84dc4714b522101959b1cfbe5859e6ec" parent="aspace_7136b0c9d9544f14995475cc9603624d" type="Folder">14</container>
+          </did>
+        </c>
+        <c id="aspace_ref85" level="file">
+          <did>
+            <unittitle>Changes of Address, Orders: Cap &amp; Gowns, Certificates</unittitle>
+            <unitdate datechar="creation" normal="1959/1959" type="inclusive">1959</unitdate>
+            <container id="aspace_dce2538e9827150cc4378dbb4a04545a" label="Mixed Materials [31142046896687]" type="Box">5</container>
+            <container id="aspace_d1751efcbe23ce6521e23566b36aece9" parent="aspace_dce2538e9827150cc4378dbb4a04545a" type="Folder">15</container>
+          </did>
+        </c>
+        <c id="aspace_ref86" level="file">
+          <did>
+            <unittitle>Associated Chapters Chapter Inventory</unittitle>
+            <unitdate datechar="creation" normal="1856/1977" type="inclusive">undated</unitdate>
+            <container id="aspace_6668f7415f0b088e9f739adf146e3cb2" label="Mixed Materials [31142046896687]" type="Box">5</container>
+            <container id="aspace_b6c4b0c5dc64c0cd2ee3e0812b8c53a4" parent="aspace_6668f7415f0b088e9f739adf146e3cb2" type="Folder">16</container>
+          </did>
+        </c>
+      </c>
+      <c id="aspace_ref87" level="series">
+        <did>
+          <unittitle>Series III: Publications</unittitle>
+          <langmaterial><language langcode="eng">English</language>.</langmaterial>
+        </did>
+        <c id="aspace_ref88" level="file">
+          <did>
+            <unittitle>Constitution and By-Laws of United Chapters</unittitle>
+            <unitdate datechar="creation" normal="1938/1973" type="inclusive">1938-1973</unitdate>
+            <container id="aspace_d8329fc2ef02a56b9d097ddad0a63497" label="Mixed Materials [31142046896695]" type="Box">6</container>
+            <container id="aspace_920d69d77f8e0f04a9a591bc8e55ca5e" parent="aspace_d8329fc2ef02a56b9d097ddad0a63497" type="Folder">1</container>
+          </did>
+        </c>
+        <c id="aspace_ref89" level="file">
+          <did>
+            <unittitle>Delegates Manual</unittitle>
+            <unitdate datechar="creation" normal="1934/1940" type="inclusive">1934 , 1940</unitdate>
+            <container id="aspace_0d51ebd340ab283541753a014efb4302" label="Mixed Materials [31142046896695]" type="Box">6</container>
+            <container id="aspace_3242fc923804205b34a5f422207847c1" parent="aspace_0d51ebd340ab283541753a014efb4302" type="Folder">2</container>
+          </did>
+        </c>
+        <c id="aspace_ref90" level="file">
+          <did>
+            <unittitle>Delegates Manual</unittitle>
+            <unitdate datechar="creation" normal="1961/1967" type="inclusive">1961 , 1967</unitdate>
+            <container id="aspace_f298bbb586b4a0010436d7a761ae084d" label="Mixed Materials [31142046896695]" type="Box">6</container>
+            <container id="aspace_498818d7ad40dcdbc85fd2da4b292c5d" parent="aspace_f298bbb586b4a0010436d7a761ae084d" type="Folder">3</container>
+          </did>
+        </c>
+        <c id="aspace_ref91" level="file">
+          <did>
+            <unittitle>Form of Initiation</unittitle>
+            <unitdate datechar="creation" normal="1956/1956" type="inclusive">1956</unitdate>
+            <container id="aspace_0e741c30023ad9a3a006def833bb2c86" label="Mixed Materials [31142046896695]" type="Box">6</container>
+            <container id="aspace_a1d055605091003b3d49dfb1a20c95c0" parent="aspace_0e741c30023ad9a3a006def833bb2c86" type="Folder">4</container>
+          </did>
+        </c>
+        <c id="aspace_ref92" level="file">
+          <did>
+            <unittitle>Handbook for New Members</unittitle>
+            <unitdate datechar="creation" normal="1970/1973" type="inclusive">1970-1973</unitdate>
+            <container id="aspace_7abdc1bb343bdbd0a190fd1a7a9de397" label="Mixed Materials [31142046896695]" type="Box">6</container>
+            <container id="aspace_6a454c5deea0e7666d97e44e7139db6b" parent="aspace_7abdc1bb343bdbd0a190fd1a7a9de397" type="Folder">5</container>
+          </did>
+        </c>
+        <c id="aspace_ref93" level="file">
+          <did>
+            <unittitle>Bulletin - Triennial Council</unittitle>
+            <unitdate datechar="creation" normal="1904/1965" type="inclusive">1904-1965</unitdate>
+            <container id="aspace_10610ea57bec114a518fd4603c148417" label="Mixed Materials [31142046896695]" type="Box">6</container>
+            <container id="aspace_f63c45096e22f013ca588705482ab8b5" parent="aspace_10610ea57bec114a518fd4603c148417" type="Folder">6</container>
+          </did>
+        </c>
+        <c id="aspace_ref94" level="file">
+          <did>
+            <unittitle>Key Reporter</unittitle>
+            <unitdate datechar="creation" normal="1938/1974" type="inclusive">1938-1974</unitdate>
+            <container id="aspace_66bedf04e3d683a801b22748ac7933b4" label="Mixed Materials [31142046896695]" type="Box">6</container>
+            <container id="aspace_4b394d55e8ae014281092b0b7c99f34d" parent="aspace_66bedf04e3d683a801b22748ac7933b4" type="Folder">7</container>
+          </did>
+        </c>
+        <c id="aspace_ref95" level="file">
+          <did>
+            <unittitle>Music Sheets, Men's Choice Written for Beta</unittitle>
+            <unitdate datechar="creation" normal="1940/1940" type="inclusive">1940</unitdate>
+            <container id="aspace_2918eca20d6ea8a9dab1ada627ca4e29" label="Mixed Materials [31142046896695]" type="Box">6</container>
+            <container id="aspace_e788b0b56a950c409f5fde71df1979da" parent="aspace_2918eca20d6ea8a9dab1ada627ca4e29" type="Folder">8</container>
+          </did>
+        </c>
+      </c>
+    </dsc>
+  </archdesc>
+</ead>
